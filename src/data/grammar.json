@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "g001",
+    "question": "The manager ___ the meeting to next week.",
+    "choices": [
+      "postpone",
+      "postponed",
+      "postponing",
+      "to postpone"
+    ],
+    "answer": 1,
+    "explanation": "文脈から過去の出来事を示しているため、過去形の動詞が入ります。",
+    "level": 500
+  },
+  {
+    "id": "g002",
+    "question": "All employees must submit their reports ___ Friday.",
+    "choices": [
+      "until",
+      "by",
+      "since",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "「〜までに」という期限を表す前置詞は by です。until は「〜まで（継続）」を表します。",
+    "level": 550
+  },
+  {
+    "id": "g003",
+    "question": "The new policy will affect ___ department in the company.",
+    "choices": [
+      "every",
+      "all",
+      "most",
+      "each of"
+    ],
+    "answer": 0,
+    "explanation": "単数名詞 department の前には every が適切です。",
+    "level": 500
+  },
+  {
+    "id": "g004",
+    "question": "___ the rain, the outdoor event was cancelled.",
+    "choices": [
+      "Because",
+      "Due to",
+      "Since",
+      "As"
+    ],
+    "answer": 1,
+    "explanation": "後ろに名詞句（the rain）が続く場合は Due to を使います。Because は接続詞なので節が続きます。",
+    "level": 600
+  },
+  {
+    "id": "g005",
+    "question": "The report ___ by the finance team before the deadline.",
+    "choices": [
+      "completed",
+      "was completed",
+      "completes",
+      "completing"
+    ],
+    "answer": 1,
+    "explanation": "報告書は「完成させられる」側なので受動態が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g006",
+    "question": "She has worked at this company ___ five years.",
+    "choices": [
+      "since",
+      "for",
+      "from",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "期間の長さを表す場合は for、特定の起点を表す場合は since を使います。",
+    "level": 450
+  },
+  {
+    "id": "g007",
+    "question": "Neither the manager nor the employees ___ satisfied with the results.",
+    "choices": [
+      "is",
+      "was",
+      "are",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": "neither A nor B の場合、動詞はBに合わせます。employees が複数なので are。",
+    "level": 700
+  },
+  {
+    "id": "g008",
+    "question": "The proposal was rejected ___ its high cost.",
+    "choices": [
+      "despite",
+      "because of",
+      "although",
+      "even though"
+    ],
+    "answer": 1,
+    "explanation": "後ろに名詞句が続くので because of が正解。although/even though は節が続きます。",
+    "level": 600
+  },
+  {
+    "id": "g009",
+    "question": "Please make sure the documents are filed ___.",
+    "choices": [
+      "correct",
+      "correctly",
+      "correctness",
+      "correcting"
+    ],
+    "answer": 1,
+    "explanation": "動詞 filed を修飾するので副詞 correctly が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g010",
+    "question": "By the time the CEO arrives, the presentation ___ .",
+    "choices": [
+      "will finish",
+      "will have finished",
+      "finishes",
+      "finished"
+    ],
+    "answer": 1,
+    "explanation": "未来のある時点までに完了している未来完了形が適切です。",
+    "level": 750
+  },
+  {
+    "id": "g011",
+    "question": "The company is looking for someone ___ can speak both English and Japanese.",
+    "choices": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "先行詞 someone（人）が主語の働きをするため who が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g012",
+    "question": "___ of the applicants had the required qualifications.",
+    "choices": [
+      "None",
+      "No",
+      "Not",
+      "Never"
+    ],
+    "answer": 0,
+    "explanation": "None of + 名詞句 の形で「〜のうち誰も…ない」を表します。",
+    "level": 600
+  },
+  {
+    "id": "g013",
+    "question": "The budget report needs to be ___ reviewed before submission.",
+    "choices": [
+      "careful",
+      "care",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": 2,
+    "explanation": "動詞 reviewed を修飾する副詞 carefully が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g014",
+    "question": "If the shipment ___ on time, we will notify the customer immediately.",
+    "choices": [
+      "doesn't arrive",
+      "won't arrive",
+      "isn't arriving",
+      "hasn't arrived"
+    ],
+    "answer": 0,
+    "explanation": "条件を表すif節では未来のことでも現在形を使います。",
+    "level": 650
+  },
+  {
+    "id": "g015",
+    "question": "The new software is much more efficient ___ the previous version.",
+    "choices": [
+      "than",
+      "as",
+      "that",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "比較級 more efficient の後には than を使います。",
+    "level": 450
+  },
+  {
+    "id": "g016",
+    "question": "___ increasing sales, the marketing team also focused on customer retention.",
+    "choices": [
+      "Besides",
+      "Despite",
+      "Instead of",
+      "Except"
+    ],
+    "answer": 0,
+    "explanation": "「〜に加えて」という意味を表す Besides が文脈に合います。",
+    "level": 700
+  },
+  {
+    "id": "g017",
+    "question": "Employees are required to wear ID badges ___ the building.",
+    "choices": [
+      "throughout",
+      "among",
+      "between",
+      "into"
+    ],
+    "answer": 0,
+    "explanation": "「建物中を通して」という空間全体を表す throughout が適切です。",
+    "level": 650
+  },
+  {
+    "id": "g018",
+    "question": "The consultant recommended ___ the marketing strategy immediately.",
+    "choices": [
+      "revise",
+      "revising",
+      "revised",
+      "to revising"
+    ],
+    "answer": 1,
+    "explanation": "recommend の後には動名詞（revising）が続きます。",
+    "level": 700
+  },
+  {
+    "id": "g019",
+    "question": "The negotiations were ___ successful than expected.",
+    "choices": [
+      "far more",
+      "far most",
+      "farthest",
+      "further"
+    ],
+    "answer": 0,
+    "explanation": "比較級を強調する場合 far more を使います。",
+    "level": 700
+  },
+  {
+    "id": "g020",
+    "question": "Applicants must have at least three years of ___ experience.",
+    "choices": [
+      "relevant",
+      "relevance",
+      "relevantly",
+      "relevancy"
+    ],
+    "answer": 0,
+    "explanation": "名詞 experience を修飾するので形容詞 relevant が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g021",
+    "question": "The board members ___ to the new proposal after a long discussion.",
+    "choices": [
+      "agreed",
+      "agree",
+      "agreeing",
+      "agreement"
+    ],
+    "answer": 0,
+    "explanation": "文全体の動詞が必要で、過去の出来事なので過去形 agreed が正解です。",
+    "level": 450
+  },
+  {
+    "id": "g022",
+    "question": "The workshop is designed ___ new employees understand company procedures.",
+    "choices": [
+      "to help",
+      "helping",
+      "helped",
+      "help"
+    ],
+    "answer": 0,
+    "explanation": "be designed to do の形で「〜するために設計されている」を表します。",
+    "level": 600
+  },
+  {
+    "id": "g023",
+    "question": "Sales figures have improved ___ over the past six months.",
+    "choices": [
+      "steady",
+      "steadily",
+      "steadier",
+      "steadiness"
+    ],
+    "answer": 1,
+    "explanation": "動詞 improved を修飾する副詞 steadily が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g024",
+    "question": "___ the contract is signed, the project will begin immediately.",
+    "choices": [
+      "Once",
+      "Until",
+      "Unless",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": "「〜したらすぐに」という意味の接続詞 Once が文脈に合います。",
+    "level": 650
+  },
+  {
+    "id": "g025",
+    "question": "The report was submitted ___ than the deadline required.",
+    "choices": [
+      "early",
+      "earlier",
+      "earliest",
+      "earliness"
+    ],
+    "answer": 1,
+    "explanation": "than があるので比較級 earlier が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g026",
+    "question": "Most of the staff ___ present at the annual meeting.",
+    "choices": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": "Most of the staff は複数扱いとして解釈されることが多く were が自然です（文脈依存）。",
+    "level": 750
+  },
+  {
+    "id": "g027",
+    "question": "The company plans to expand its operations ___ Asia next year.",
+    "choices": [
+      "into",
+      "onto",
+      "up",
+      "over"
+    ],
+    "answer": 0,
+    "explanation": "「〜へ進出する」という方向性を表す into が適切です。",
+    "level": 600
+  },
+  {
+    "id": "g028",
+    "question": "___ their best efforts, the team failed to meet the deadline.",
+    "choices": [
+      "Despite",
+      "Although",
+      "Because",
+      "So that"
+    ],
+    "answer": 0,
+    "explanation": "後ろに名詞句が続くので前置詞 Despite が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g029",
+    "question": "The technician ___ the equipment before the inspection begins.",
+    "choices": [
+      "will have checked",
+      "checks",
+      "checked",
+      "checking"
+    ],
+    "answer": 0,
+    "explanation": "点検開始という未来の時点までに完了する未来完了形が適切です。",
+    "level": 750
+  },
+  {
+    "id": "g030",
+    "question": "Employees who ___ the training session will receive a certificate.",
+    "choices": [
+      "complete",
+      "completes",
+      "completing",
+      "completed"
+    ],
+    "answer": 0,
+    "explanation": "who の先行詞 Employees（複数）に合わせて動詞は complete になります。",
+    "level": 600
+  },
+  {
+    "id": "g031",
+    "question": "The new employee ___ to the team last Monday.",
+    "choices": [
+      "introduce",
+      "introduced",
+      "was introduced",
+      "introducing"
+    ],
+    "answer": 2,
+    "explanation": "新入社員は「紹介される」側なので受動態 was introduced が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g032",
+    "question": "The report must be submitted ___ the manager reviews it.",
+    "choices": [
+      "before",
+      "after",
+      "during",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "「上司が確認する前に」という意味なので before が適切です。",
+    "level": 500
+  },
+  {
+    "id": "g033",
+    "question": "___ employees complete the survey, the results will be analyzed.",
+    "choices": [
+      "Once",
+      "Despite",
+      "Because of",
+      "In spite of"
+    ],
+    "answer": 0,
+    "explanation": "「〜したらすぐに」という意味を表す接続詞 Once が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g034",
+    "question": "The workshop was ___ informative than we expected.",
+    "choices": [
+      "more",
+      "much",
+      "very",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "than があるため比較級 more informative が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g035",
+    "question": "The company's profits have increased ___ significantly this year.",
+    "choices": [
+      "signify",
+      "significant",
+      "significantly",
+      "significance"
+    ],
+    "answer": 2,
+    "explanation": "動詞 increased を修飾するので副詞 significantly が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g036",
+    "question": "___ of the two proposals, the second one is more cost-effective.",
+    "choices": [
+      "Both",
+      "Between",
+      "Either",
+      "Neither"
+    ],
+    "answer": 1,
+    "explanation": "「2つのうち」という意味を表す Between が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g037",
+    "question": "The manager asked the staff ___ the deadline.",
+    "choices": [
+      "meet",
+      "meeting",
+      "to meet",
+      "met"
+    ],
+    "answer": 2,
+    "explanation": "ask 人 to do の形になるため to meet が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g038",
+    "question": "The document should be reviewed ___ it is finalized.",
+    "choices": [
+      "before",
+      "after",
+      "by",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "「確定される前に」という意味なので before が適切です。",
+    "level": 500
+  },
+  {
+    "id": "g039",
+    "question": "The client was pleased ___ the quality of the service.",
+    "choices": [
+      "with",
+      "for",
+      "about",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "be pleased with は「〜に満足している」という定型表現です。",
+    "level": 550
+  },
+  {
+    "id": "g040",
+    "question": "The department ___ its budget for the third year in a row.",
+    "choices": [
+      "exceeded",
+      "exceeds",
+      "has exceeded",
+      "exceeding"
+    ],
+    "answer": 2,
+    "explanation": "「3年連続で」という継続的な結果を表すため現在完了形が適切です。",
+    "level": 700
+  },
+  {
+    "id": "g041",
+    "question": "All visitors are required ___ a badge while in the building.",
+    "choices": [
+      "wear",
+      "wearing",
+      "to wear",
+      "worn"
+    ],
+    "answer": 2,
+    "explanation": "be required to do の形で「〜することが求められる」を表します。",
+    "level": 600
+  },
+  {
+    "id": "g042",
+    "question": "The negotiations went ___ smoothly than anticipated.",
+    "choices": [
+      "far more",
+      "much most",
+      "the most",
+      "very"
+    ],
+    "answer": 0,
+    "explanation": "比較級を強調する場合 far more を使います。",
+    "level": 700
+  },
+  {
+    "id": "g043",
+    "question": "___ the delay, the project was completed within budget.",
+    "choices": [
+      "Despite",
+      "Although",
+      "Because",
+      "So"
+    ],
+    "answer": 0,
+    "explanation": "後ろに名詞句が続くため前置詞 Despite が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g044",
+    "question": "Each department head is responsible ___ their own budget.",
+    "choices": [
+      "for",
+      "of",
+      "with",
+      "to"
+    ],
+    "answer": 0,
+    "explanation": "be responsible for は「〜に対して責任がある」という定型表現です。",
+    "level": 500
+  },
+  {
+    "id": "g045",
+    "question": "The survey results ___ analyzed by the marketing team next week.",
+    "choices": [
+      "will be",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": "来週という未来の予定を表すため受動態の未来形 will be analyzed が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g046",
+    "question": "The manual explains ___ to operate the new machine safely.",
+    "choices": [
+      "how",
+      "what",
+      "that",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "「どのように操作するか」という意味を表す how が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g047",
+    "question": "The consultant suggested ___ the marketing budget.",
+    "choices": [
+      "increase",
+      "increasing",
+      "to increase",
+      "increased"
+    ],
+    "answer": 1,
+    "explanation": "suggest の後には動名詞が続きます。",
+    "level": 650
+  },
+  {
+    "id": "g048",
+    "question": "The two companies agreed to merge ___ the end of the fiscal year.",
+    "choices": [
+      "by",
+      "until",
+      "since",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "「〜までに」という期限を表す by が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g049",
+    "question": "The training session lasted ___ than expected.",
+    "choices": [
+      "longer",
+      "long",
+      "longest",
+      "length"
+    ],
+    "answer": 0,
+    "explanation": "than があるため比較級 longer が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g050",
+    "question": "The board members, ___ include several industry experts, will vote next week.",
+    "choices": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "先行詞 board members（人）が主語の働きをするため who が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g051",
+    "question": "The equipment ___ properly maintained to avoid breakdowns.",
+    "choices": [
+      "must be",
+      "must",
+      "has to",
+      "needs"
+    ],
+    "answer": 0,
+    "explanation": "「保守されなければならない」という受動的な義務を表すため must be が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g052",
+    "question": "The company's revenue grew ___ compared to last year.",
+    "choices": [
+      "considerable",
+      "considerably",
+      "consider",
+      "consideration"
+    ],
+    "answer": 1,
+    "explanation": "動詞 grew を修飾するので副詞 considerably が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g053",
+    "question": "We regret to inform you that your application ___ not been accepted.",
+    "choices": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "application（単数）に合わせて has が正解です。現在完了形の受け身表現です。",
+    "level": 600
+  },
+  {
+    "id": "g054",
+    "question": "The staff meeting has been rescheduled ___ Thursday afternoon.",
+    "choices": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "予定の変更先を示す場合 for を使うのが自然です。",
+    "level": 650
+  },
+  {
+    "id": "g055",
+    "question": "___ everyone submits their report on time, we can meet the deadline.",
+    "choices": [
+      "Provided that",
+      "Even though",
+      "In case",
+      "As though"
+    ],
+    "answer": 0,
+    "explanation": "「〜という条件で」を表す Provided that が文脈に合います。",
+    "level": 800
+  },
+  {
+    "id": "g056",
+    "question": "The manager praised the team for their ___ work on the project.",
+    "choices": [
+      "outstand",
+      "outstanding",
+      "outstood",
+      "outstands"
+    ],
+    "answer": 1,
+    "explanation": "名詞 work を修飾する形容詞 outstanding が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g057",
+    "question": "The invoice ___ before the goods are shipped.",
+    "choices": [
+      "must pay",
+      "must be paid",
+      "must paying",
+      "paying"
+    ],
+    "answer": 1,
+    "explanation": "請求書は「支払われる」側なので受動態 must be paid が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g058",
+    "question": "The CEO's speech focused ___ the company's future goals.",
+    "choices": [
+      "on",
+      "in",
+      "at",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "focus on は「〜に焦点を当てる」という定型表現です。",
+    "level": 500
+  },
+  {
+    "id": "g059",
+    "question": "The candidates were asked ___ questions about their experience.",
+    "choices": [
+      "answer",
+      "answering",
+      "to answer",
+      "answered"
+    ],
+    "answer": 2,
+    "explanation": "ask 人 to do の受動態で be asked to do が使われます。",
+    "level": 600
+  },
+  {
+    "id": "g060",
+    "question": "The number of applicants ___ increased significantly this year.",
+    "choices": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "the number of は単数扱いなので has が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g061",
+    "question": "The seminar will cover topics ___ from marketing to finance.",
+    "choices": [
+      "range",
+      "ranging",
+      "ranged",
+      "ranges"
+    ],
+    "answer": 1,
+    "explanation": "分詞構文として topics を修飾する ranging が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g062",
+    "question": "He was promoted ___ his excellent performance last year.",
+    "choices": [
+      "due to",
+      "although",
+      "unless",
+      "in order to"
+    ],
+    "answer": 0,
+    "explanation": "後ろに名詞句が続くため due to が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g063",
+    "question": "The invoice includes a detailed ___ of all charges.",
+    "choices": [
+      "describe",
+      "description",
+      "describing",
+      "described"
+    ],
+    "answer": 1,
+    "explanation": "冠詞 a の後には名詞が続くため description が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g064",
+    "question": "By next month, the new system ___ fully operational.",
+    "choices": [
+      "will be",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "未来のある時点での状態を表すため will be が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g065",
+    "question": "The manager insisted that the report ___ revised immediately.",
+    "choices": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "insist that の後には仮定法現在（動詞の原形）が使われ、受動態では be revised となります。",
+    "level": 800
+  },
+  {
+    "id": "g066",
+    "question": "The company's success can be attributed ___ its innovative products.",
+    "choices": [
+      "to",
+      "for",
+      "with",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "be attributed to は「〜に起因する」という定型表現です。",
+    "level": 700
+  },
+  {
+    "id": "g067",
+    "question": "The conference room is ___ for meetings all afternoon.",
+    "choices": [
+      "reserve",
+      "reserved",
+      "reserving",
+      "reservation"
+    ],
+    "answer": 1,
+    "explanation": "be reserved for は「〜のために予約されている」という受動態の定型表現です。",
+    "level": 550
+  },
+  {
+    "id": "g068",
+    "question": "The results were ___ better than the team had hoped.",
+    "choices": [
+      "considerably",
+      "considerable",
+      "consider",
+      "considering"
+    ],
+    "answer": 0,
+    "explanation": "比較級 better を修飾する副詞 considerably が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g069",
+    "question": "The department needs someone ___ can manage multiple projects at once.",
+    "choices": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "先行詞 someone（人）が主語の働きをするため who が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g070",
+    "question": "The proposal will be reconsidered ___ additional funding becomes available.",
+    "choices": [
+      "if",
+      "unless",
+      "although",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "「もし〜になれば」という条件を表す if が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g071",
+    "question": "The workshop participants were divided ___ small groups.",
+    "choices": [
+      "into",
+      "onto",
+      "for",
+      "among"
+    ],
+    "answer": 0,
+    "explanation": "「〜に分けられる」という意味を表す into が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g072",
+    "question": "The marketing plan ___ carefully before it is implemented.",
+    "choices": [
+      "should review",
+      "should be reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "answer": 1,
+    "explanation": "計画は「見直される」側なので受動態 should be reviewed が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g073",
+    "question": "The finance team is currently ___ the annual budget.",
+    "choices": [
+      "prepare",
+      "preparing",
+      "prepared",
+      "to prepare"
+    ],
+    "answer": 1,
+    "explanation": "現在進行形 be + preparing が文脈に合います。",
+    "level": 450
+  },
+  {
+    "id": "g074",
+    "question": "___ how busy she was, she still finished the report on time.",
+    "choices": [
+      "Despite",
+      "Regardless of",
+      "Even",
+      "No matter"
+    ],
+    "answer": 1,
+    "explanation": "「〜にもかかわらず」を表す Regardless of が文脈に合います。No matter は how と組み合わせて No matter how と続けます。",
+    "level": 800
+  },
+  {
+    "id": "g075",
+    "question": "The company offers training programs ___ improve employee skills.",
+    "choices": [
+      "so that",
+      "in order to",
+      "because",
+      "so as"
+    ],
+    "answer": 1,
+    "explanation": "「〜するために」という目的を表す in order to が正解です。",
+    "level": 650
+  },
+  {
+    "id": "g076",
+    "question": "All the necessary documents ___ ready before the audit begins.",
+    "choices": [
+      "should have",
+      "should be",
+      "must having",
+      "have to being"
+    ],
+    "answer": 1,
+    "explanation": "書類は「準備されている」状態が求められるため should be ready が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g077",
+    "question": "The recruitment process has become ___ competitive over the years.",
+    "choices": [
+      "increase",
+      "increased",
+      "increasingly",
+      "increasing"
+    ],
+    "answer": 2,
+    "explanation": "形容詞 competitive を修飾する副詞 increasingly が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g078",
+    "question": "The company will relocate its headquarters ___ next spring.",
+    "choices": [
+      "by",
+      "until",
+      "in",
+      "on"
+    ],
+    "answer": 2,
+    "explanation": "季節を表す表現の前には in を使います。",
+    "level": 500
+  },
+  {
+    "id": "g079",
+    "question": "The board is expected ___ the merger proposal next week.",
+    "choices": [
+      "discuss",
+      "discussing",
+      "to discuss",
+      "discussed"
+    ],
+    "answer": 2,
+    "explanation": "be expected to do の形で「〜することが予想される」を表します。",
+    "level": 600
+  },
+  {
+    "id": "g080",
+    "question": "The client requested that the delivery date ___ moved up.",
+    "choices": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "request that の後には仮定法現在が使われ、受動態では be moved となります。",
+    "level": 800
+  },
+  {
+    "id": "g081",
+    "question": "The seminar attracted ___ attendees than last year.",
+    "choices": [
+      "fewer",
+      "less",
+      "few",
+      "little"
+    ],
+    "answer": 0,
+    "explanation": "attendees は可算名詞なので fewer が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g082",
+    "question": "The report highlights areas ___ improvement is needed.",
+    "choices": [
+      "where",
+      "which",
+      "that",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "「〜という場所・分野で」を表す関係副詞 where が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g083",
+    "question": "The store will remain open ___ renovations are completed.",
+    "choices": [
+      "during",
+      "while",
+      "for",
+      "throughout"
+    ],
+    "answer": 1,
+    "explanation": "「〜している間」という意味の接続詞 while が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g084",
+    "question": "The manager was ___ satisfied with the team's performance.",
+    "choices": [
+      "complete",
+      "completely",
+      "completing",
+      "completion"
+    ],
+    "answer": 1,
+    "explanation": "形容詞 satisfied を修飾する副詞 completely が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g085",
+    "question": "The new policy applies ___ all full-time employees.",
+    "choices": [
+      "to",
+      "for",
+      "with",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "apply to は「〜に適用される」という定型表現です。",
+    "level": 500
+  },
+  {
+    "id": "g086",
+    "question": "Had the team started earlier, the project ___ completed on time.",
+    "choices": [
+      "would be",
+      "would have been",
+      "will be",
+      "was"
+    ],
+    "answer": 1,
+    "explanation": "仮定法過去完了の帰結節なので would have been が正解です。",
+    "level": 850
+  },
+  {
+    "id": "g087",
+    "question": "The invoice was sent ___ the wrong address.",
+    "choices": [
+      "to",
+      "at",
+      "for",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "「〜へ送られた」という意味を表す to が正解です。",
+    "level": 450
+  },
+  {
+    "id": "g088",
+    "question": "The company's growth has been ___ remarkable over the past decade.",
+    "choices": [
+      "remark",
+      "remarkable",
+      "remarkably",
+      "remarking"
+    ],
+    "answer": 2,
+    "explanation": "形容詞 remarkable を修飾する副詞 remarkably が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g089",
+    "question": "The staff were informed ___ the schedule change via email.",
+    "choices": [
+      "about",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "inform 人 about は「〜について知らせる」という定型表現です。",
+    "level": 550
+  },
+  {
+    "id": "g090",
+    "question": "The technician repaired the machine ___ any additional cost.",
+    "choices": [
+      "without",
+      "with",
+      "for",
+      "despite"
+    ],
+    "answer": 0,
+    "explanation": "「追加費用なしで」という意味を表す without が正解です。",
+    "level": 600
+  },
+  {
+    "id": "g091",
+    "question": "The committee is reviewing several candidates, ___ of whom have relevant experience.",
+    "choices": [
+      "most",
+      "almost",
+      "mostly",
+      "the most"
+    ],
+    "answer": 0,
+    "explanation": "most of whom の形で「そのほとんどが」という意味を表します。",
+    "level": 800
+  },
+  {
+    "id": "g092",
+    "question": "The manager will be out of the office ___ next Monday.",
+    "choices": [
+      "until",
+      "by",
+      "since",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "「〜まで（不在が続く）」という意味を表す until が正解です。",
+    "level": 500
+  },
+  {
+    "id": "g093",
+    "question": "The proposal was ___ rejected due to budget constraints.",
+    "choices": [
+      "ultimate",
+      "ultimately",
+      "ultimateness",
+      "ultimatum"
+    ],
+    "answer": 1,
+    "explanation": "動詞 rejected を修飾する副詞 ultimately が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g094",
+    "question": "The company hopes ___ its market share by the end of the year.",
+    "choices": [
+      "expand",
+      "expanding",
+      "to expand",
+      "expanded"
+    ],
+    "answer": 2,
+    "explanation": "hope の後には to不定詞が続きます。",
+    "level": 500
+  },
+  {
+    "id": "g095",
+    "question": "The new regulations require that all vehicles ___ inspected annually.",
+    "choices": [
+      "are",
+      "be",
+      "were",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "require that の後には仮定法現在が使われ、受動態では be inspected となります。",
+    "level": 800
+  },
+  {
+    "id": "g096",
+    "question": "The negotiations continued ___ both sides reached an agreement.",
+    "choices": [
+      "until",
+      "by",
+      "since",
+      "for"
+    ],
+    "answer": 0,
+    "explanation": "「〜するまで（継続）」という意味を表す until が正解です。",
+    "level": 550
+  },
+  {
+    "id": "g097",
+    "question": "The customer service team handles complaints ___ efficiently as possible.",
+    "choices": [
+      "as",
+      "so",
+      "such",
+      "very"
+    ],
+    "answer": 0,
+    "explanation": "as ... as possible で「できるだけ〜」という表現になります。",
+    "level": 600
+  },
+  {
+    "id": "g098",
+    "question": "The consultant's advice proved ___ valuable to the project's success.",
+    "choices": [
+      "increase",
+      "increasingly",
+      "increasing",
+      "increased"
+    ],
+    "answer": 1,
+    "explanation": "形容詞 valuable を修飾する副詞 increasingly が正解です。",
+    "level": 700
+  },
+  {
+    "id": "g099",
+    "question": "The shipment will arrive ___ the scheduled date this time.",
+    "choices": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "特定の日付の前には on を使います。",
+    "level": 450
+  },
+  {
+    "id": "g100",
+    "question": "Not only ___ the deadline met, but the quality also exceeded expectations.",
+    "choices": [
+      "was",
+      "did",
+      "the",
+      "had"
+    ],
+    "answer": 0,
+    "explanation": "Not only が文頭に来ると倒置が起こり、was the deadline met の語順になります。",
+    "level": 850
+  }
+]

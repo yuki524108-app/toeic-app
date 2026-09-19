@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "w001",
+    "word": "accommodate",
+    "meaning": "収容する、対応する",
+    "example": "The hotel can accommodate up to 200 guests.",
+    "level": 650
+  },
+  {
+    "id": "w002",
+    "word": "invoice",
+    "meaning": "請求書",
+    "example": "Please send the invoice by the end of the month.",
+    "level": 550
+  },
+  {
+    "id": "w003",
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "example": "We need to negotiate a better price with the supplier.",
+    "level": 650
+  },
+  {
+    "id": "w004",
+    "word": "reimburse",
+    "meaning": "払い戻す、返済する",
+    "example": "The company will reimburse your travel expenses.",
+    "level": 700
+  },
+  {
+    "id": "w005",
+    "word": "colleague",
+    "meaning": "同僚",
+    "example": "She discussed the project with her colleague.",
+    "level": 500
+  },
+  {
+    "id": "w006",
+    "word": "deadline",
+    "meaning": "締め切り",
+    "example": "The deadline for the report is Friday.",
+    "level": 450
+  },
+  {
+    "id": "w007",
+    "word": "inventory",
+    "meaning": "在庫、目録",
+    "example": "We need to check the inventory before ordering more.",
+    "level": 600
+  },
+  {
+    "id": "w008",
+    "word": "merger",
+    "meaning": "合併",
+    "example": "The merger between the two companies was announced today.",
+    "level": 750
+  },
+  {
+    "id": "w009",
+    "word": "candidate",
+    "meaning": "候補者",
+    "example": "Three candidates applied for the position.",
+    "level": 550
+  },
+  {
+    "id": "w010",
+    "word": "revenue",
+    "meaning": "収益",
+    "example": "The company's revenue increased by 10% this year.",
+    "level": 650
+  },
+  {
+    "id": "w011",
+    "word": "warranty",
+    "meaning": "保証",
+    "example": "This product comes with a two-year warranty.",
+    "level": 600
+  },
+  {
+    "id": "w012",
+    "word": "logistics",
+    "meaning": "物流、後方支援",
+    "example": "The logistics department handles all shipments.",
+    "level": 700
+  },
+  {
+    "id": "w013",
+    "word": "subsidiary",
+    "meaning": "子会社",
+    "example": "The subsidiary reported strong sales last quarter.",
+    "level": 800
+  },
+  {
+    "id": "w014",
+    "word": "compliance",
+    "meaning": "遵守、コンプライアンス",
+    "example": "All employees must follow compliance guidelines.",
+    "level": 750
+  },
+  {
+    "id": "w015",
+    "word": "itinerary",
+    "meaning": "旅程",
+    "example": "Please review your travel itinerary before departure.",
+    "level": 700
+  },
+  {
+    "id": "w016",
+    "word": "consecutive",
+    "meaning": "連続した",
+    "example": "Sales have grown for five consecutive months.",
+    "level": 700
+  },
+  {
+    "id": "w017",
+    "word": "postpone",
+    "meaning": "延期する",
+    "example": "The meeting has been postponed until next week.",
+    "level": 500
+  },
+  {
+    "id": "w018",
+    "word": "renovate",
+    "meaning": "改装する",
+    "example": "The office building will be renovated next year.",
+    "level": 550
+  },
+  {
+    "id": "w019",
+    "word": "shareholder",
+    "meaning": "株主",
+    "example": "Shareholders will vote on the proposal next month.",
+    "level": 700
+  },
+  {
+    "id": "w020",
+    "word": "endorse",
+    "meaning": "承認する、支持する",
+    "example": "The board endorsed the new marketing strategy.",
+    "level": 750
+  },
+  {
+    "id": "w021",
+    "word": "vacant",
+    "meaning": "空いている",
+    "example": "There are three vacant positions in the sales team.",
+    "level": 600
+  },
+  {
+    "id": "w022",
+    "word": "budget",
+    "meaning": "予算",
+    "example": "The department exceeded its annual budget.",
+    "level": 450
+  },
+  {
+    "id": "w023",
+    "word": "outsource",
+    "meaning": "外部委託する",
+    "example": "The company decided to outsource its IT support.",
+    "level": 700
+  },
+  {
+    "id": "w024",
+    "word": "premises",
+    "meaning": "構内、敷地",
+    "example": "Visitors must sign in before entering the premises.",
+    "level": 750
+  },
+  {
+    "id": "w025",
+    "word": "feasible",
+    "meaning": "実現可能な",
+    "example": "It is not feasible to finish the project by Friday.",
+    "level": 750
+  },
+  {
+    "id": "w026",
+    "word": "supervisor",
+    "meaning": "監督者、上司",
+    "example": "Ask your supervisor for approval before proceeding.",
+    "level": 500
+  },
+  {
+    "id": "w027",
+    "word": "expedite",
+    "meaning": "促進する、迅速に処理する",
+    "example": "We will expedite the delivery at no extra cost.",
+    "level": 800
+  },
+  {
+    "id": "w028",
+    "word": "allocate",
+    "meaning": "割り当てる",
+    "example": "The manager allocated more staff to the project.",
+    "level": 700
+  },
+  {
+    "id": "w029",
+    "word": "proceeds",
+    "meaning": "収益、売上金",
+    "example": "The proceeds from the sale will fund new equipment.",
+    "level": 800
+  },
+  {
+    "id": "w030",
+    "word": "commute",
+    "meaning": "通勤する",
+    "example": "Many employees commute by train every day.",
+    "level": 500
+  },
+  {
+    "id": "w031",
+    "word": "vendor",
+    "meaning": "販売業者",
+    "example": "We selected a new vendor for office supplies.",
+    "level": 600
+  },
+  {
+    "id": "w032",
+    "word": "clause",
+    "meaning": "条項",
+    "example": "Please review the clause regarding cancellation fees.",
+    "level": 750
+  },
+  {
+    "id": "w033",
+    "word": "quarterly",
+    "meaning": "四半期ごとの",
+    "example": "The quarterly report will be released next week.",
+    "level": 600
+  },
+  {
+    "id": "w034",
+    "word": "layoff",
+    "meaning": "一時解雇",
+    "example": "The company announced layoffs due to budget cuts.",
+    "level": 700
+  },
+  {
+    "id": "w035",
+    "word": "prerequisite",
+    "meaning": "前提条件",
+    "example": "Work experience is a prerequisite for this position.",
+    "level": 800
+  },
+  {
+    "id": "w036",
+    "word": "amenities",
+    "meaning": "設備、アメニティ",
+    "example": "The hotel offers a wide range of amenities.",
+    "level": 650
+  },
+  {
+    "id": "w037",
+    "word": "reception",
+    "meaning": "受付、歓迎会",
+    "example": "Please check in at the reception desk.",
+    "level": 400
+  },
+  {
+    "id": "w038",
+    "word": "voucher",
+    "meaning": "引換券、クーポン",
+    "example": "Customers received a voucher for a free meal.",
+    "level": 600
+  },
+  {
+    "id": "w039",
+    "word": "correspondence",
+    "meaning": "通信、文書のやりとり",
+    "example": "All correspondence should be sent to the main office.",
+    "level": 750
+  },
+  {
+    "id": "w040",
+    "word": "spreadsheet",
+    "meaning": "表計算ソフト、シート",
+    "example": "She updated the sales figures on the spreadsheet.",
+    "level": 450
+  },
+  {
+    "id": "w041",
+    "word": "overtime",
+    "meaning": "残業、時間外労働",
+    "example": "Employees will be paid extra for overtime work.",
+    "level": 500
+  },
+  {
+    "id": "w042",
+    "word": "surplus",
+    "meaning": "余剰、黒字",
+    "example": "The company reported a budget surplus this year.",
+    "level": 800
+  },
+  {
+    "id": "w043",
+    "word": "liability",
+    "meaning": "責任、負債",
+    "example": "The contract limits the company's liability.",
+    "level": 800
+  },
+  {
+    "id": "w044",
+    "word": "itemize",
+    "meaning": "項目別に記載する",
+    "example": "Please itemize all expenses on the report.",
+    "level": 750
+  },
+  {
+    "id": "w045",
+    "word": "punctual",
+    "meaning": "時間厳守の",
+    "example": "All staff are expected to be punctual for meetings.",
+    "level": 650
+  },
+  {
+    "id": "w046",
+    "word": "referral",
+    "meaning": "紹介",
+    "example": "We received several referrals from existing clients.",
+    "level": 700
+  },
+  {
+    "id": "w047",
+    "word": "workforce",
+    "meaning": "労働力、従業員全体",
+    "example": "The company plans to expand its workforce next year.",
+    "level": 700
+  },
+  {
+    "id": "w048",
+    "word": "stationery",
+    "meaning": "文房具",
+    "example": "Order more stationery for the office.",
+    "level": 450
+  },
+  {
+    "id": "w049",
+    "word": "turnover",
+    "meaning": "総売上高、離職率",
+    "example": "Employee turnover has decreased significantly this year.",
+    "level": 800
+  },
+  {
+    "id": "w050",
+    "word": "brochure",
+    "meaning": "パンフレット",
+    "example": "The brochure describes all our services in detail.",
+    "level": 500
+  },
+  {
+    "id": "w051",
+    "word": "agenda",
+    "meaning": "議題",
+    "example": "Please review the agenda before the meeting starts.",
+    "level": 450
+  },
+  {
+    "id": "w052",
+    "word": "minutes",
+    "meaning": "議事録",
+    "example": "The secretary will take minutes during the meeting.",
+    "level": 550
+  },
+  {
+    "id": "w053",
+    "word": "filing cabinet",
+    "meaning": "書類整理棚",
+    "example": "Store the contracts in the filing cabinet.",
+    "level": 400
+  },
+  {
+    "id": "w054",
+    "word": "memo",
+    "meaning": "社内連絡書、メモ",
+    "example": "A memo was sent to all staff about the schedule change.",
+    "level": 400
+  },
+  {
+    "id": "w055",
+    "word": "stationery supplies",
+    "meaning": "文房具用品",
+    "example": "The office ordered new stationery supplies.",
+    "level": 450
+  },
+  {
+    "id": "w056",
+    "word": "photocopier",
+    "meaning": "コピー機",
+    "example": "The photocopier on the third floor is out of order.",
+    "level": 400
+  },
+  {
+    "id": "w057",
+    "word": "extension",
+    "meaning": "内線、延長",
+    "example": "You can reach him at extension 205.",
+    "level": 500
+  },
+  {
+    "id": "w058",
+    "word": "personnel",
+    "meaning": "人事部、職員",
+    "example": "Contact the personnel department for more details.",
+    "level": 600
+  },
+  {
+    "id": "w059",
+    "word": "clerical",
+    "meaning": "事務の",
+    "example": "She handles clerical duties in the office.",
+    "level": 650
+  },
+  {
+    "id": "w060",
+    "word": "correspondent",
+    "meaning": "通信員、文通相手",
+    "example": "Our correspondent in Tokyo sent the latest figures.",
+    "level": 700
+  },
+  {
+    "id": "w061",
+    "word": "draft",
+    "meaning": "草案、下書き",
+    "example": "Please review the draft contract before signing.",
+    "level": 550
+  },
+  {
+    "id": "w062",
+    "word": "archive",
+    "meaning": "保管記録、アーカイブ",
+    "example": "Old files are kept in the archive room.",
+    "level": 600
+  },
+  {
+    "id": "w063",
+    "word": "printout",
+    "meaning": "印刷物",
+    "example": "Bring a printout of the report to the meeting.",
+    "level": 450
+  },
+  {
+    "id": "w064",
+    "word": "letterhead",
+    "meaning": "レターヘッド（社名入り便箋）",
+    "example": "Official letters must be on company letterhead.",
+    "level": 650
+  },
+  {
+    "id": "w065",
+    "word": "dispatch",
+    "meaning": "発送する、派遣する",
+    "example": "The package was dispatched this morning.",
+    "level": 700
+  },
+  {
+    "id": "w066",
+    "word": "notify",
+    "meaning": "通知する",
+    "example": "Please notify the manager of any changes.",
+    "level": 500
+  },
+  {
+    "id": "w067",
+    "word": "acknowledge",
+    "meaning": "確認する、承認する",
+    "example": "We acknowledge receipt of your application.",
+    "level": 650
+  },
+  {
+    "id": "w068",
+    "word": "enclose",
+    "meaning": "同封する",
+    "example": "Please find the invoice enclosed with this letter.",
+    "level": 600
+  },
+  {
+    "id": "w069",
+    "word": "attachment",
+    "meaning": "添付ファイル",
+    "example": "Please see the attachment for further details.",
+    "level": 450
+  },
+  {
+    "id": "w070",
+    "word": "forward",
+    "meaning": "転送する",
+    "example": "Could you forward this email to the sales team?",
+    "level": 500
+  },
+  {
+    "id": "w071",
+    "word": "proofread",
+    "meaning": "校正する",
+    "example": "Please proofread the document before submission.",
+    "level": 650
+  },
+  {
+    "id": "w072",
+    "word": "revise",
+    "meaning": "改訂する",
+    "example": "The contract was revised after negotiations.",
+    "level": 600
+  },
+  {
+    "id": "w073",
+    "word": "template",
+    "meaning": "雛形、テンプレート",
+    "example": "Use the company template for all reports.",
+    "level": 500
+  },
+  {
+    "id": "w074",
+    "word": "database",
+    "meaning": "データベース",
+    "example": "Customer information is stored in the database.",
+    "level": 500
+  },
+  {
+    "id": "w075",
+    "word": "backup",
+    "meaning": "バックアップ、予備",
+    "example": "Always keep a backup of important files.",
+    "level": 450
+  },
+  {
+    "id": "w076",
+    "word": "confidential",
+    "meaning": "機密の",
+    "example": "This document is confidential and must not be shared.",
+    "level": 650
+  },
+  {
+    "id": "w077",
+    "word": "authorize",
+    "meaning": "許可する、権限を与える",
+    "example": "Only the director can authorize this expense.",
+    "level": 700
+  },
+  {
+    "id": "w078",
+    "word": "approval",
+    "meaning": "承認",
+    "example": "The proposal needs approval from senior management.",
+    "level": 550
+  },
+  {
+    "id": "w079",
+    "word": "submission",
+    "meaning": "提出",
+    "example": "The submission deadline for applications is Monday.",
+    "level": 600
+  },
+  {
+    "id": "w080",
+    "word": "format",
+    "meaning": "形式、体裁",
+    "example": "Please save the file in PDF format.",
+    "level": 450
+  },
+  {
+    "id": "w081",
+    "word": "agenda item",
+    "meaning": "議題項目",
+    "example": "The budget review is the first agenda item.",
+    "level": 500
+  },
+  {
+    "id": "w082",
+    "word": "proceedings",
+    "meaning": "議事、手続き",
+    "example": "A summary of the proceedings will be circulated later.",
+    "level": 800
+  },
+  {
+    "id": "w083",
+    "word": "chairperson",
+    "meaning": "議長",
+    "example": "The chairperson opened the meeting with a welcome speech.",
+    "level": 550
+  },
+  {
+    "id": "w084",
+    "word": "consensus",
+    "meaning": "合意",
+    "example": "The committee reached a consensus after long discussions.",
+    "level": 750
+  },
+  {
+    "id": "w085",
+    "word": "delegate",
+    "meaning": "委任する、代表者",
+    "example": "The manager delegated the task to her assistant.",
+    "level": 700
+  },
+  {
+    "id": "w086",
+    "word": "briefing",
+    "meaning": "説明会、報告",
+    "example": "A briefing will be held before the launch.",
+    "level": 600
+  },
+  {
+    "id": "w087",
+    "word": "protocol",
+    "meaning": "手順、儀礼",
+    "example": "Follow the safety protocol at all times.",
+    "level": 700
+  },
+  {
+    "id": "w088",
+    "word": "onboarding",
+    "meaning": "新人研修、受け入れ",
+    "example": "New hires complete an onboarding program in their first week.",
+    "level": 650
+  },
+  {
+    "id": "w089",
+    "word": "orientation",
+    "meaning": "オリエンテーション、方向づけ",
+    "example": "All new employees attend an orientation session.",
+    "level": 550
+  },
+  {
+    "id": "w090",
+    "word": "performance review",
+    "meaning": "人事考課",
+    "example": "Performance reviews are conducted twice a year.",
+    "level": 600
+  },
+  {
+    "id": "w091",
+    "word": "probation",
+    "meaning": "試用期間",
+    "example": "New staff are on probation for three months.",
+    "level": 750
+  },
+  {
+    "id": "w092",
+    "word": "tenure",
+    "meaning": "在職期間",
+    "example": "Her tenure at the company spans over a decade.",
+    "level": 800
+  },
+  {
+    "id": "w093",
+    "word": "resignation",
+    "meaning": "辞職",
+    "example": "He submitted his resignation letter yesterday.",
+    "level": 600
+  },
+  {
+    "id": "w094",
+    "word": "severance",
+    "meaning": "退職金",
+    "example": "Employees who are laid off receive severance pay.",
+    "level": 800
+  },
+  {
+    "id": "w095",
+    "word": "pension",
+    "meaning": "年金",
+    "example": "The company offers a generous pension plan.",
+    "level": 650
+  },
+  {
+    "id": "w096",
+    "word": "payroll",
+    "meaning": "給与支払い名簿",
+    "example": "The payroll is processed on the last day of the month.",
+    "level": 650
+  },
+  {
+    "id": "w097",
+    "word": "paycheck",
+    "meaning": "給与小切手、給料",
+    "example": "She deposited her paycheck at the bank.",
+    "level": 500
+  },
+  {
+    "id": "w098",
+    "word": "gross income",
+    "meaning": "総収入",
+    "example": "Gross income is calculated before taxes are deducted.",
+    "level": 750
+  },
+  {
+    "id": "w099",
+    "word": "net profit",
+    "meaning": "純利益",
+    "example": "Net profit rose by 15 percent this quarter.",
+    "level": 700
+  },
+  {
+    "id": "w100",
+    "word": "fiscal year",
+    "meaning": "会計年度",
+    "example": "The fiscal year begins in April for this company.",
+    "level": 650
+  },
+  {
+    "id": "w101",
+    "word": "conference call",
+    "meaning": "電話会議",
+    "example": "We scheduled a conference call with the overseas office.",
+    "level": 550
+  },
+  {
+    "id": "w102",
+    "word": "videoconference",
+    "meaning": "ビデオ会議",
+    "example": "The interview will be held via videoconference.",
+    "level": 600
+  },
+  {
+    "id": "w103",
+    "word": "attendee",
+    "meaning": "参加者",
+    "example": "All attendees must register in advance.",
+    "level": 600
+  },
+  {
+    "id": "w104",
+    "word": "keynote speaker",
+    "meaning": "基調講演者",
+    "example": "The keynote speaker discussed future market trends.",
+    "level": 700
+  },
+  {
+    "id": "w105",
+    "word": "panel discussion",
+    "meaning": "パネルディスカッション",
+    "example": "A panel discussion will follow the presentation.",
+    "level": 650
+  },
+  {
+    "id": "w106",
+    "word": "venue",
+    "meaning": "会場",
+    "example": "The venue for the conference was changed at the last minute.",
+    "level": 600
+  },
+  {
+    "id": "w107",
+    "word": "RSVP",
+    "meaning": "出欠の返事",
+    "example": "Please RSVP by the end of this week.",
+    "level": 600
+  },
+  {
+    "id": "w108",
+    "word": "host",
+    "meaning": "主催する、司会者",
+    "example": "The company will host a networking event next month.",
+    "level": 500
+  },
+  {
+    "id": "w109",
+    "word": "facilitate",
+    "meaning": "促進する、円滑にする",
+    "example": "The consultant will facilitate the workshop.",
+    "level": 750
+  },
+  {
+    "id": "w110",
+    "word": "handout",
+    "meaning": "配布資料",
+    "example": "Handouts were distributed before the presentation began.",
+    "level": 500
+  },
+  {
+    "id": "w111",
+    "word": "feedback",
+    "meaning": "フィードバック、意見",
+    "example": "We welcome feedback from all participants.",
+    "level": 500
+  },
+  {
+    "id": "w112",
+    "word": "query",
+    "meaning": "質問、問い合わせ",
+    "example": "Please direct any queries to the help desk.",
+    "level": 600
+  },
+  {
+    "id": "w113",
+    "word": "clarify",
+    "meaning": "明確にする",
+    "example": "Could you clarify the terms of the agreement?",
+    "level": 600
+  },
+  {
+    "id": "w114",
+    "word": "elaborate",
+    "meaning": "詳しく説明する",
+    "example": "Could you elaborate on that point further?",
+    "level": 700
+  },
+  {
+    "id": "w115",
+    "word": "summarize",
+    "meaning": "要約する",
+    "example": "Let me summarize the key points of the discussion.",
+    "level": 550
+  },
+  {
+    "id": "w116",
+    "word": "outline",
+    "meaning": "概要、要点",
+    "example": "The manager gave an outline of the new project.",
+    "level": 550
+  },
+  {
+    "id": "w117",
+    "word": "proposal",
+    "meaning": "提案",
+    "example": "The proposal was approved by the board.",
+    "level": 500
+  },
+  {
+    "id": "w118",
+    "word": "initiative",
+    "meaning": "新しい取り組み、主導権",
+    "example": "The company launched a new sustainability initiative.",
+    "level": 700
+  },
+  {
+    "id": "w119",
+    "word": "collaborate",
+    "meaning": "協力する",
+    "example": "Both teams will collaborate on the new product launch.",
+    "level": 650
+  },
+  {
+    "id": "w120",
+    "word": "liaise",
+    "meaning": "連絡・調整をする",
+    "example": "She liaises with clients on a daily basis.",
+    "level": 800
+  },
+  {
+    "id": "w121",
+    "word": "correspond",
+    "meaning": "文通する、一致する",
+    "example": "The sales figures correspond with our forecast.",
+    "level": 650
+  },
+  {
+    "id": "w122",
+    "word": "draft agreement",
+    "meaning": "契約書の草案",
+    "example": "Please review the draft agreement carefully.",
+    "level": 650
+  },
+  {
+    "id": "w123",
+    "word": "amendment",
+    "meaning": "修正、改訂",
+    "example": "An amendment was made to the contract terms.",
+    "level": 750
+  },
+  {
+    "id": "w124",
+    "word": "stipulate",
+    "meaning": "規定する",
+    "example": "The contract stipulates a 30-day notice period.",
+    "level": 800
+  },
+  {
+    "id": "w125",
+    "word": "terminate",
+    "meaning": "終了させる、解約する",
+    "example": "Either party may terminate the contract with written notice.",
+    "level": 700
+  },
+  {
+    "id": "w126",
+    "word": "binding",
+    "meaning": "拘束力のある",
+    "example": "This agreement is legally binding once signed.",
+    "level": 750
+  },
+  {
+    "id": "w127",
+    "word": "jurisdiction",
+    "meaning": "管轄権",
+    "example": "The contract falls under the jurisdiction of state law.",
+    "level": 850
+  },
+  {
+    "id": "w128",
+    "word": "arbitration",
+    "meaning": "仲裁",
+    "example": "Disputes will be settled through arbitration.",
+    "level": 850
+  },
+  {
+    "id": "w129",
+    "word": "litigation",
+    "meaning": "訴訟",
+    "example": "The company wants to avoid costly litigation.",
+    "level": 850
+  },
+  {
+    "id": "w130",
+    "word": "breach",
+    "meaning": "違反",
+    "example": "A breach of contract may result in penalties.",
+    "level": 750
+  },
+  {
+    "id": "w131",
+    "word": "waiver",
+    "meaning": "権利放棄",
+    "example": "A signed waiver is required before participation.",
+    "level": 800
+  },
+  {
+    "id": "w132",
+    "word": "comply",
+    "meaning": "従う、遵守する",
+    "example": "All staff must comply with safety regulations.",
+    "level": 700
+  },
+  {
+    "id": "w133",
+    "word": "regulation",
+    "meaning": "規則、規制",
+    "example": "New environmental regulations take effect next year.",
+    "level": 650
+  },
+  {
+    "id": "w134",
+    "word": "legislation",
+    "meaning": "法律、立法",
+    "example": "New legislation affects how companies handle data.",
+    "level": 800
+  },
+  {
+    "id": "w135",
+    "word": "enforce",
+    "meaning": "施行する、強制する",
+    "example": "The new policy will be strictly enforced.",
+    "level": 700
+  },
+  {
+    "id": "w136",
+    "word": "inspection",
+    "meaning": "検査",
+    "example": "The factory passed its annual safety inspection.",
+    "level": 600
+  },
+  {
+    "id": "w137",
+    "word": "certify",
+    "meaning": "証明する",
+    "example": "The auditor certified the financial statements as accurate.",
+    "level": 700
+  },
+  {
+    "id": "w138",
+    "word": "accreditation",
+    "meaning": "認定",
+    "example": "The university received accreditation from the board.",
+    "level": 850
+  },
+  {
+    "id": "w139",
+    "word": "benchmark",
+    "meaning": "基準、指標",
+    "example": "The company set a new benchmark for customer service.",
+    "level": 750
+  },
+  {
+    "id": "w140",
+    "word": "criteria",
+    "meaning": "基準",
+    "example": "Applicants must meet all the listed criteria.",
+    "level": 700
+  },
+  {
+    "id": "w141",
+    "word": "eligibility",
+    "meaning": "適格性",
+    "example": "Check the eligibility requirements before applying.",
+    "level": 750
+  },
+  {
+    "id": "w142",
+    "word": "applicant",
+    "meaning": "応募者",
+    "example": "Over fifty applicants applied for the position.",
+    "level": 500
+  },
+  {
+    "id": "w143",
+    "word": "résumé",
+    "meaning": "履歴書",
+    "example": "Please attach your résumé to the application.",
+    "level": 500
+  },
+  {
+    "id": "w144",
+    "word": "interviewee",
+    "meaning": "面接を受ける人",
+    "example": "The interviewee arrived fifteen minutes early.",
+    "level": 600
+  },
+  {
+    "id": "w145",
+    "word": "recruitment",
+    "meaning": "採用活動",
+    "example": "The recruitment process takes about a month.",
+    "level": 650
+  },
+  {
+    "id": "w146",
+    "word": "headhunter",
+    "meaning": "人材スカウト",
+    "example": "A headhunter contacted her about a new position.",
+    "level": 750
+  },
+  {
+    "id": "w147",
+    "word": "internship",
+    "meaning": "インターンシップ",
+    "example": "She completed a summer internship at a law firm.",
+    "level": 500
+  },
+  {
+    "id": "w148",
+    "word": "mentor",
+    "meaning": "指導者",
+    "example": "Every new employee is assigned a mentor.",
+    "level": 550
+  },
+  {
+    "id": "w149",
+    "word": "appraisal",
+    "meaning": "評価",
+    "example": "Annual appraisals determine salary increases.",
+    "level": 750
+  },
+  {
+    "id": "w150",
+    "word": "incentive",
+    "meaning": "奨励金、動機付け",
+    "example": "The company offers incentives for meeting sales targets.",
+    "level": 700
+  },
+  {
+    "id": "w151",
+    "word": "asset",
+    "meaning": "資産",
+    "example": "The company's main asset is its manufacturing plant.",
+    "level": 600
+  },
+  {
+    "id": "w152",
+    "word": "depreciation",
+    "meaning": "減価償却",
+    "example": "Depreciation is calculated on office equipment each year.",
+    "level": 850
+  },
+  {
+    "id": "w153",
+    "word": "audit",
+    "meaning": "監査",
+    "example": "The annual audit found no financial discrepancies.",
+    "level": 700
+  },
+  {
+    "id": "w154",
+    "word": "balance sheet",
+    "meaning": "貸借対照表",
+    "example": "The balance sheet shows total assets and liabilities.",
+    "level": 750
+  },
+  {
+    "id": "w155",
+    "word": "cash flow",
+    "meaning": "キャッシュフロー",
+    "example": "Improving cash flow is a priority this quarter.",
+    "level": 700
+  },
+  {
+    "id": "w156",
+    "word": "dividend",
+    "meaning": "配当金",
+    "example": "Shareholders received a dividend of two dollars per share.",
+    "level": 800
+  },
+  {
+    "id": "w157",
+    "word": "equity",
+    "meaning": "株式、自己資本",
+    "example": "The founder holds a 30 percent equity stake.",
+    "level": 800
+  },
+  {
+    "id": "w158",
+    "word": "forecast",
+    "meaning": "予測",
+    "example": "The sales forecast for next year looks promising.",
+    "level": 600
+  },
+  {
+    "id": "w159",
+    "word": "grant",
+    "meaning": "助成金、与える",
+    "example": "The startup received a government grant.",
+    "level": 650
+  },
+  {
+    "id": "w160",
+    "word": "installment",
+    "meaning": "分割払い",
+    "example": "You can pay for the equipment in monthly installments.",
+    "level": 750
+  },
+  {
+    "id": "w161",
+    "word": "interest rate",
+    "meaning": "金利",
+    "example": "The bank raised its interest rate last month.",
+    "level": 600
+  },
+  {
+    "id": "w162",
+    "word": "loan",
+    "meaning": "融資、ローン",
+    "example": "The company took out a loan to expand its factory.",
+    "level": 500
+  },
+  {
+    "id": "w163",
+    "word": "mortgage",
+    "meaning": "住宅ローン",
+    "example": "They applied for a mortgage to buy a new office building.",
+    "level": 750
+  },
+  {
+    "id": "w164",
+    "word": "portfolio",
+    "meaning": "投資の組み合わせ、作品集",
+    "example": "Her investment portfolio includes stocks and bonds.",
+    "level": 800
+  },
+  {
+    "id": "w165",
+    "word": "premium",
+    "meaning": "保険料、割増金",
+    "example": "The insurance premium increased this year.",
+    "level": 700
+  },
+  {
+    "id": "w166",
+    "word": "projection",
+    "meaning": "予測、見積もり",
+    "example": "The financial projection shows steady growth.",
+    "level": 700
+  },
+  {
+    "id": "w167",
+    "word": "receipt",
+    "meaning": "領収書",
+    "example": "Keep your receipt for reimbursement purposes.",
+    "level": 450
+  },
+  {
+    "id": "w168",
+    "word": "tax deduction",
+    "meaning": "税控除",
+    "example": "Business travel expenses qualify as a tax deduction.",
+    "level": 800
+  },
+  {
+    "id": "w169",
+    "word": "transaction",
+    "meaning": "取引",
+    "example": "All transactions are recorded in the accounting system.",
+    "level": 650
+  },
+  {
+    "id": "w170",
+    "word": "valuation",
+    "meaning": "評価額",
+    "example": "The company's valuation doubled after the merger.",
+    "level": 850
+  },
+  {
+    "id": "w171",
+    "word": "withdrawal",
+    "meaning": "引き出し",
+    "example": "A withdrawal fee applies to accounts under a certain balance.",
+    "level": 700
+  },
+  {
+    "id": "w172",
+    "word": "creditor",
+    "meaning": "債権者",
+    "example": "The company negotiated new terms with its creditors.",
+    "level": 800
+  },
+  {
+    "id": "w173",
+    "word": "debtor",
+    "meaning": "債務者",
+    "example": "The debtor failed to repay the loan on time.",
+    "level": 800
+  },
+  {
+    "id": "w174",
+    "word": "bankruptcy",
+    "meaning": "破産",
+    "example": "The firm filed for bankruptcy after years of losses.",
+    "level": 850
+  },
+  {
+    "id": "w175",
+    "word": "solvent",
+    "meaning": "支払い能力のある",
+    "example": "The business remains solvent despite the downturn.",
+    "level": 850
+  },
+  {
+    "id": "w176",
+    "word": "stakeholder",
+    "meaning": "利害関係者",
+    "example": "All stakeholders were informed of the decision.",
+    "level": 750
+  },
+  {
+    "id": "w177",
+    "word": "acquisition",
+    "meaning": "買収",
+    "example": "The acquisition was completed within six months.",
+    "level": 800
+  },
+  {
+    "id": "w178",
+    "word": "conglomerate",
+    "meaning": "複合企業",
+    "example": "The conglomerate owns businesses in several industries.",
+    "level": 850
+  },
+  {
+    "id": "w179",
+    "word": "franchise",
+    "meaning": "フランチャイズ",
+    "example": "She opened a franchise of the popular coffee chain.",
+    "level": 700
+  },
+  {
+    "id": "w180",
+    "word": "monopoly",
+    "meaning": "独占",
+    "example": "The company held a monopoly on the local market.",
+    "level": 800
+  },
+  {
+    "id": "w181",
+    "word": "competitor",
+    "meaning": "競合他社",
+    "example": "Our main competitor released a similar product.",
+    "level": 550
+  },
+  {
+    "id": "w182",
+    "word": "market share",
+    "meaning": "市場占有率",
+    "example": "The company increased its market share this year.",
+    "level": 700
+  },
+  {
+    "id": "w183",
+    "word": "demographic",
+    "meaning": "人口統計学の",
+    "example": "The survey targeted a younger demographic.",
+    "level": 800
+  },
+  {
+    "id": "w184",
+    "word": "consumer",
+    "meaning": "消費者",
+    "example": "Consumer demand for the product rose sharply.",
+    "level": 500
+  },
+  {
+    "id": "w185",
+    "word": "retailer",
+    "meaning": "小売業者",
+    "example": "The retailer offers discounts during the holiday season.",
+    "level": 550
+  },
+  {
+    "id": "w186",
+    "word": "wholesale",
+    "meaning": "卸売の",
+    "example": "We purchase materials at wholesale prices.",
+    "level": 650
+  },
+  {
+    "id": "w187",
+    "word": "distributor",
+    "meaning": "販売代理店",
+    "example": "The distributor handles shipments across the region.",
+    "level": 650
+  },
+  {
+    "id": "w188",
+    "word": "manufacturer",
+    "meaning": "製造業者",
+    "example": "The manufacturer guarantees the product for two years.",
+    "level": 500
+  },
+  {
+    "id": "w189",
+    "word": "supplier",
+    "meaning": "供給業者",
+    "example": "We switched to a more reliable supplier.",
+    "level": 500
+  },
+  {
+    "id": "w190",
+    "word": "procurement",
+    "meaning": "調達",
+    "example": "The procurement department handles all purchasing.",
+    "level": 800
+  },
+  {
+    "id": "w191",
+    "word": "contractor",
+    "meaning": "請負業者",
+    "example": "A contractor was hired to renovate the building.",
+    "level": 600
+  },
+  {
+    "id": "w192",
+    "word": "freight",
+    "meaning": "貨物",
+    "example": "The freight is scheduled to arrive next Tuesday.",
+    "level": 700
+  },
+  {
+    "id": "w193",
+    "word": "customs",
+    "meaning": "税関",
+    "example": "The shipment was delayed at customs.",
+    "level": 700
+  },
+  {
+    "id": "w194",
+    "word": "tariff",
+    "meaning": "関税",
+    "example": "New tariffs increased the cost of imported goods.",
+    "level": 800
+  },
+  {
+    "id": "w195",
+    "word": "warehouse",
+    "meaning": "倉庫",
+    "example": "The products are stored in a warehouse near the port.",
+    "level": 500
+  },
+  {
+    "id": "w196",
+    "word": "consignment",
+    "meaning": "委託販売",
+    "example": "The artwork is sold on consignment at the gallery.",
+    "level": 850
+  },
+  {
+    "id": "w197",
+    "word": "bulk order",
+    "meaning": "大量注文",
+    "example": "We offer a discount for bulk orders.",
+    "level": 650
+  },
+  {
+    "id": "w198",
+    "word": "backorder",
+    "meaning": "入荷待ち",
+    "example": "The item is on backorder and will ship next week.",
+    "level": 700
+  },
+  {
+    "id": "w199",
+    "word": "defective",
+    "meaning": "欠陥のある",
+    "example": "The defective units were returned to the factory.",
+    "level": 700
+  },
+  {
+    "id": "w200",
+    "word": "refund",
+    "meaning": "払い戻し",
+    "example": "Customers can request a refund within 30 days.",
+    "level": 500
+  },
+  {
+    "id": "w201",
+    "word": "itemized bill",
+    "meaning": "明細請求書",
+    "example": "Please provide an itemized bill for the hotel stay.",
+    "level": 700
+  },
+  {
+    "id": "w202",
+    "word": "boarding pass",
+    "meaning": "搭乗券",
+    "example": "Please have your boarding pass ready for inspection.",
+    "level": 450
+  },
+  {
+    "id": "w203",
+    "word": "layover",
+    "meaning": "乗り継ぎ",
+    "example": "There is a two-hour layover in Chicago.",
+    "level": 650
+  },
+  {
+    "id": "w204",
+    "word": "connecting flight",
+    "meaning": "乗り継ぎ便",
+    "example": "She missed her connecting flight due to the delay.",
+    "level": 550
+  },
+  {
+    "id": "w205",
+    "word": "check-in",
+    "meaning": "チェックイン",
+    "example": "Check-in begins two hours before departure.",
+    "level": 400
+  },
+  {
+    "id": "w206",
+    "word": "concierge",
+    "meaning": "コンシェルジュ",
+    "example": "Ask the concierge for restaurant recommendations.",
+    "level": 650
+  },
+  {
+    "id": "w207",
+    "word": "complimentary",
+    "meaning": "無料の",
+    "example": "The hotel offers complimentary breakfast to guests.",
+    "level": 650
+  },
+  {
+    "id": "w208",
+    "word": "reservation",
+    "meaning": "予約",
+    "example": "Please confirm your reservation 24 hours in advance.",
+    "level": 450
+  },
+  {
+    "id": "w209",
+    "word": "vacancy",
+    "meaning": "空室、欠員",
+    "example": "There were no vacancies at the hotel that weekend.",
+    "level": 600
+  },
+  {
+    "id": "w210",
+    "word": "accommodation",
+    "meaning": "宿泊施設",
+    "example": "The company arranged accommodation for all delegates.",
+    "level": 650
+  },
+  {
+    "id": "w211",
+    "word": "itinerary change",
+    "meaning": "旅程変更",
+    "example": "Please notify us of any itinerary changes.",
+    "level": 700
+  },
+  {
+    "id": "w212",
+    "word": "visa requirement",
+    "meaning": "ビザ要件",
+    "example": "Check the visa requirements before booking your trip.",
+    "level": 700
+  },
+  {
+    "id": "w213",
+    "word": "customs declaration",
+    "meaning": "税関申告",
+    "example": "Fill out the customs declaration form before landing.",
+    "level": 750
+  },
+  {
+    "id": "w214",
+    "word": "currency exchange",
+    "meaning": "両替",
+    "example": "There is a currency exchange counter at the airport.",
+    "level": 600
+  },
+  {
+    "id": "w215",
+    "word": "baggage claim",
+    "meaning": "手荷物受取所",
+    "example": "Meet me at the baggage claim area.",
+    "level": 500
+  },
+  {
+    "id": "w216",
+    "word": "excess baggage",
+    "meaning": "超過手荷物",
+    "example": "You may be charged for excess baggage.",
+    "level": 700
+  },
+  {
+    "id": "w217",
+    "word": "amenity fee",
+    "meaning": "施設利用料",
+    "example": "An amenity fee is added to the room rate.",
+    "level": 750
+  },
+  {
+    "id": "w218",
+    "word": "shuttle service",
+    "meaning": "送迎サービス",
+    "example": "The hotel provides a free shuttle service to the airport.",
+    "level": 550
+  },
+  {
+    "id": "w219",
+    "word": "catering",
+    "meaning": "ケータリング",
+    "example": "The catering company will serve lunch at the conference.",
+    "level": 600
+  },
+  {
+    "id": "w220",
+    "word": "banquet",
+    "meaning": "宴会",
+    "example": "The annual banquet will be held at the grand hotel.",
+    "level": 700
+  },
+  {
+    "id": "w221",
+    "word": "reception hall",
+    "meaning": "宴会場",
+    "example": "The wedding reception hall can seat 300 guests.",
+    "level": 500
+  },
+  {
+    "id": "w222",
+    "word": "itinerary planner",
+    "meaning": "旅程作成者",
+    "example": "An itinerary planner helped organize the business trip.",
+    "level": 650
+  },
+  {
+    "id": "w223",
+    "word": "expense report",
+    "meaning": "経費報告書",
+    "example": "Submit your expense report by the fifth of each month.",
+    "level": 650
+  },
+  {
+    "id": "w224",
+    "word": "per diem",
+    "meaning": "日当",
+    "example": "Employees receive a per diem for meals during travel.",
+    "level": 800
+  },
+  {
+    "id": "w225",
+    "word": "itemize expenses",
+    "meaning": "経費を項目別に記載する",
+    "example": "You must itemize expenses over fifty dollars.",
+    "level": 750
+  },
+  {
+    "id": "w226",
+    "word": "corporate rate",
+    "meaning": "法人料金",
+    "example": "We booked the hotel at a corporate rate.",
+    "level": 700
+  },
+  {
+    "id": "w227",
+    "word": "frequent flyer",
+    "meaning": "マイレージ会員",
+    "example": "He earned enough frequent flyer miles for a free flight.",
+    "level": 600
+  },
+  {
+    "id": "w228",
+    "word": "upgrade",
+    "meaning": "アップグレードする",
+    "example": "She was upgraded to business class on the flight.",
+    "level": 450
+  },
+  {
+    "id": "w229",
+    "word": "itinerary confirmation",
+    "meaning": "旅程確認",
+    "example": "An itinerary confirmation was emailed to all travelers.",
+    "level": 650
+  },
+  {
+    "id": "w230",
+    "word": "delegate badge",
+    "meaning": "参加者用バッジ",
+    "example": "Wear your delegate badge at all times during the event.",
+    "level": 600
+  },
+  {
+    "id": "w231",
+    "word": "exhibit hall",
+    "meaning": "展示会場",
+    "example": "The new products are displayed in the exhibit hall.",
+    "level": 600
+  },
+  {
+    "id": "w232",
+    "word": "trade show",
+    "meaning": "展示会",
+    "example": "The company showcased its products at the trade show.",
+    "level": 600
+  },
+  {
+    "id": "w233",
+    "word": "booth",
+    "meaning": "ブース",
+    "example": "Visit our booth for a live product demonstration.",
+    "level": 500
+  },
+  {
+    "id": "w234",
+    "word": "prototype",
+    "meaning": "試作品",
+    "example": "Engineers presented a prototype of the new device.",
+    "level": 700
+  },
+  {
+    "id": "w235",
+    "word": "specifications",
+    "meaning": "仕様",
+    "example": "The product specifications are listed in the manual.",
+    "level": 700
+  },
+  {
+    "id": "w236",
+    "word": "assembly line",
+    "meaning": "組立ライン",
+    "example": "The factory added a second assembly line.",
+    "level": 650
+  },
+  {
+    "id": "w237",
+    "word": "quality control",
+    "meaning": "品質管理",
+    "example": "Quality control inspects every unit before shipping.",
+    "level": 650
+  },
+  {
+    "id": "w238",
+    "word": "malfunction",
+    "meaning": "故障",
+    "example": "A malfunction in the system delayed production.",
+    "level": 700
+  },
+  {
+    "id": "w239",
+    "word": "maintenance",
+    "meaning": "保守、メンテナンス",
+    "example": "Regular maintenance keeps the machines running smoothly.",
+    "level": 550
+  },
+  {
+    "id": "w240",
+    "word": "technician",
+    "meaning": "技術者",
+    "example": "A technician was sent to repair the equipment.",
+    "level": 500
+  },
+  {
+    "id": "w241",
+    "word": "upgrade software",
+    "meaning": "ソフトウェアを更新する",
+    "example": "IT will upgrade the software over the weekend.",
+    "level": 550
+  },
+  {
+    "id": "w242",
+    "word": "troubleshoot",
+    "meaning": "問題解決する",
+    "example": "Our support team can troubleshoot most issues remotely.",
+    "level": 750
+  },
+  {
+    "id": "w243",
+    "word": "glitch",
+    "meaning": "不具合",
+    "example": "A minor glitch delayed the product launch.",
+    "level": 700
+  },
+  {
+    "id": "w244",
+    "word": "firmware",
+    "meaning": "ファームウェア",
+    "example": "The device requires a firmware update.",
+    "level": 800
+  },
+  {
+    "id": "w245",
+    "word": "encryption",
+    "meaning": "暗号化",
+    "example": "Customer data is protected with strong encryption.",
+    "level": 800
+  },
+  {
+    "id": "w246",
+    "word": "server outage",
+    "meaning": "サーバー停止",
+    "example": "The server outage lasted about two hours.",
+    "level": 750
+  },
+  {
+    "id": "w247",
+    "word": "bandwidth",
+    "meaning": "帯域幅",
+    "example": "The office needs more bandwidth for video calls.",
+    "level": 800
+  },
+  {
+    "id": "w248",
+    "word": "subscription",
+    "meaning": "定期購読、サブスクリプション",
+    "example": "The company offers a monthly subscription service.",
+    "level": 550
+  },
+  {
+    "id": "w249",
+    "word": "license agreement",
+    "meaning": "ライセンス契約",
+    "example": "Read the license agreement before installing the software.",
+    "level": 750
+  },
+  {
+    "id": "w250",
+    "word": "analytics",
+    "meaning": "分析、アナリティクス",
+    "example": "The marketing team reviews analytics every week.",
+    "level": 750
+  },
+  {
+    "id": "w251",
+    "word": "campaign",
+    "meaning": "キャンペーン",
+    "example": "The marketing campaign boosted sales significantly.",
+    "level": 550
+  },
+  {
+    "id": "w252",
+    "word": "branding",
+    "meaning": "ブランディング",
+    "example": "The company invested heavily in branding last year.",
+    "level": 700
+  },
+  {
+    "id": "w253",
+    "word": "endorsement",
+    "meaning": "推薦、支持",
+    "example": "The athlete's endorsement helped promote the product.",
+    "level": 800
+  },
+  {
+    "id": "w254",
+    "word": "target audience",
+    "meaning": "ターゲット層",
+    "example": "The ad was designed for a younger target audience.",
+    "level": 650
+  },
+  {
+    "id": "w255",
+    "word": "promotional material",
+    "meaning": "販促資料",
+    "example": "New promotional material will be printed next week.",
+    "level": 650
+  },
+  {
+    "id": "w256",
+    "word": "testimonial",
+    "meaning": "推薦の言葉、体験談",
+    "example": "Customer testimonials are featured on the website.",
+    "level": 750
+  },
+  {
+    "id": "w257",
+    "word": "survey",
+    "meaning": "アンケート、調査",
+    "example": "We conducted a survey to measure customer satisfaction.",
+    "level": 500
+  },
+  {
+    "id": "w258",
+    "word": "questionnaire",
+    "meaning": "アンケート用紙",
+    "example": "Please complete the questionnaire before you leave.",
+    "level": 650
+  },
+  {
+    "id": "w259",
+    "word": "respondent",
+    "meaning": "回答者",
+    "example": "Most respondents preferred the new packaging design.",
+    "level": 750
+  },
+  {
+    "id": "w260",
+    "word": "outcome",
+    "meaning": "結果",
+    "example": "The outcome of the negotiation was favorable.",
+    "level": 600
+  },
+  {
+    "id": "w261",
+    "word": "milestone",
+    "meaning": "節目、重要な段階",
+    "example": "Completing the prototype was a major milestone.",
+    "level": 700
+  },
+  {
+    "id": "w262",
+    "word": "timeline",
+    "meaning": "予定表、タイムライン",
+    "example": "The project timeline was extended by two weeks.",
+    "level": 550
+  },
+  {
+    "id": "w263",
+    "word": "phase",
+    "meaning": "段階",
+    "example": "The construction is now in its final phase.",
+    "level": 550
+  },
+  {
+    "id": "w264",
+    "word": "logistics coordinator",
+    "meaning": "物流調整担当者",
+    "example": "The logistics coordinator scheduled all the deliveries.",
+    "level": 750
+  },
+  {
+    "id": "w265",
+    "word": "supply chain",
+    "meaning": "サプライチェーン",
+    "example": "The supply chain was disrupted by the storm.",
+    "level": 750
+  },
+  {
+    "id": "w266",
+    "word": "lead time",
+    "meaning": "リードタイム、所要時間",
+    "example": "The lead time for custom orders is three weeks.",
+    "level": 800
+  },
+  {
+    "id": "w267",
+    "word": "turnaround time",
+    "meaning": "処理にかかる時間",
+    "example": "Our turnaround time for repairs is 48 hours.",
+    "level": 800
+  },
+  {
+    "id": "w268",
+    "word": "productivity",
+    "meaning": "生産性",
+    "example": "New software improved overall productivity.",
+    "level": 650
+  },
+  {
+    "id": "w269",
+    "word": "efficiency",
+    "meaning": "効率",
+    "example": "The new process increased efficiency by 20 percent.",
+    "level": 650
+  },
+  {
+    "id": "w270",
+    "word": "streamline",
+    "meaning": "合理化する",
+    "example": "The company streamlined its approval process.",
+    "level": 800
+  },
+  {
+    "id": "w271",
+    "word": "restructure",
+    "meaning": "再編成する",
+    "example": "The department was restructured to reduce costs.",
+    "level": 800
+  },
+  {
+    "id": "w272",
+    "word": "downsizing",
+    "meaning": "人員削減、規模縮小",
+    "example": "Downsizing led to a smaller workforce this year.",
+    "level": 800
+  },
+  {
+    "id": "w273",
+    "word": "relocate",
+    "meaning": "移転する",
+    "example": "The headquarters will relocate to a bigger building.",
+    "level": 650
+  },
+  {
+    "id": "w274",
+    "word": "premises lease",
+    "meaning": "施設賃貸",
+    "example": "The premises lease expires at the end of the year.",
+    "level": 800
+  },
+  {
+    "id": "w275",
+    "word": "tenant",
+    "meaning": "賃借人",
+    "example": "The tenant signed a two-year lease agreement.",
+    "level": 700
+  },
+  {
+    "id": "w276",
+    "word": "landlord",
+    "meaning": "家主",
+    "example": "The landlord agreed to repair the heating system.",
+    "level": 600
+  },
+  {
+    "id": "w277",
+    "word": "utility bill",
+    "meaning": "公共料金の請求書",
+    "example": "The utility bill increased due to higher electricity rates.",
+    "level": 650
+  },
+  {
+    "id": "w278",
+    "word": "overhead cost",
+    "meaning": "諸経費、固定費",
+    "example": "Overhead costs include rent and utilities.",
+    "level": 800
+  },
+  {
+    "id": "w279",
+    "word": "cost-effective",
+    "meaning": "費用対効果の高い",
+    "example": "The new method is more cost-effective than before.",
+    "level": 750
+  },
+  {
+    "id": "w280",
+    "word": "sustainable",
+    "meaning": "持続可能な",
+    "example": "The company adopted more sustainable packaging.",
+    "level": 700
+  },
+  {
+    "id": "w281",
+    "word": "renewable energy",
+    "meaning": "再生可能エネルギー",
+    "example": "The factory now runs on renewable energy.",
+    "level": 750
+  },
+  {
+    "id": "w282",
+    "word": "eco-friendly",
+    "meaning": "環境に優しい",
+    "example": "The store only sells eco-friendly products.",
+    "level": 650
+  },
+  {
+    "id": "w283",
+    "word": "emission",
+    "meaning": "排出",
+    "example": "The plant reduced its carbon emissions last year.",
+    "level": 800
+  },
+  {
+    "id": "w284",
+    "word": "waste management",
+    "meaning": "廃棄物管理",
+    "example": "The city improved its waste management system.",
+    "level": 800
+  },
+  {
+    "id": "w285",
+    "word": "hazard",
+    "meaning": "危険",
+    "example": "Workers must report any safety hazard immediately.",
+    "level": 700
+  },
+  {
+    "id": "w286",
+    "word": "evacuation",
+    "meaning": "避難",
+    "example": "An evacuation drill was held on Friday afternoon.",
+    "level": 750
+  },
+  {
+    "id": "w287",
+    "word": "insurance policy",
+    "meaning": "保険契約",
+    "example": "Review your insurance policy for coverage details.",
+    "level": 650
+  },
+  {
+    "id": "w288",
+    "word": "claim",
+    "meaning": "請求、主張",
+    "example": "She filed a claim after the accident.",
+    "level": 550
+  },
+  {
+    "id": "w289",
+    "word": "coverage",
+    "meaning": "補償範囲",
+    "example": "The policy provides coverage for property damage.",
+    "level": 700
+  },
+  {
+    "id": "w290",
+    "word": "deductible",
+    "meaning": "自己負担額",
+    "example": "The deductible for this plan is 500 dollars.",
+    "level": 800
+  },
+  {
+    "id": "w291",
+    "word": "beneficiary",
+    "meaning": "受益者",
+    "example": "He named his spouse as the beneficiary.",
+    "level": 800
+  },
+  {
+    "id": "w292",
+    "word": "underwriter",
+    "meaning": "保険引受人",
+    "example": "The underwriter assessed the risk before approving the policy.",
+    "level": 850
+  },
+  {
+    "id": "w293",
+    "word": "premium payment",
+    "meaning": "保険料の支払い",
+    "example": "Premium payments are due on the first of each month.",
+    "level": 750
+  },
+  {
+    "id": "w294",
+    "word": "appraisal report",
+    "meaning": "査定報告書",
+    "example": "The appraisal report estimated the property's value.",
+    "level": 800
+  },
+  {
+    "id": "w295",
+    "word": "real estate agent",
+    "meaning": "不動産業者",
+    "example": "A real estate agent showed them several properties.",
+    "level": 600
+  },
+  {
+    "id": "w296",
+    "word": "listing",
+    "meaning": "物件情報、出品",
+    "example": "The new listing attracted many potential buyers.",
+    "level": 650
+  },
+  {
+    "id": "w297",
+    "word": "square footage",
+    "meaning": "床面積",
+    "example": "The office has 5,000 square feet of space.",
+    "level": 750
+  },
+  {
+    "id": "w298",
+    "word": "zoning regulation",
+    "meaning": "区画規制",
+    "example": "Zoning regulations restrict commercial use in this area.",
+    "level": 850
+  },
+  {
+    "id": "w299",
+    "word": "blueprint",
+    "meaning": "設計図",
+    "example": "The architect presented the blueprint for the new building.",
+    "level": 700
+  },
+  {
+    "id": "w300",
+    "word": "groundbreaking ceremony",
+    "meaning": "起工式",
+    "example": "The groundbreaking ceremony was held this morning.",
+    "level": 750
+  }
+]
