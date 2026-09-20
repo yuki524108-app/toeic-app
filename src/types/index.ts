@@ -15,7 +15,23 @@ export type GrammarQuestion = {
   level: number;
 };
 
-export type ItemType = "word" | "grammar";
+export type ReadingQuestion = {
+  id: string;
+  question: string;
+  choices: string[];
+  answer: number;
+  explanation: string;
+  level: number;
+};
+
+export type ReadingPassage = {
+  id: string;
+  title: string;
+  passage: string;
+  questions: ReadingQuestion[];
+};
+
+export type ItemType = "word" | "grammar" | "reading";
 
 export type ProgressRecord = {
   itemId: string;
@@ -33,6 +49,7 @@ export type DailyLog = {
   date: string; // YYYY-MM-DD
   wordsStudied: number;
   grammarStudied: number;
+  readingsStudied: number;
 };
 
 export type AppData = {
@@ -41,7 +58,8 @@ export type AppData = {
   streak: number;
   lastStudyDate: string | null;
   bookmarks: string[]; // ブックマークした単語/文法問題のid一覧
+  placementTestCompletedAt: string | null; // 初回模試を完了した日時（ISO）。未実施ならnull
 };
 
-/** 学習キューの絞り込み方法 */
-export type StudyMode = "due" | "all" | "incorrect" | "bookmarked";
+/** 学習キューの絞り込み方法。recommended はページ側で専用ロジックにより算出する */
+export type StudyMode = "due" | "all" | "incorrect" | "bookmarked" | "recommended";

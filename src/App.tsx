@@ -3,12 +3,15 @@ import BottomNav from "./components/BottomNav";
 import Home from "./pages/Home";
 import WordStudy from "./pages/WordStudy";
 import GrammarStudy from "./pages/GrammarStudy";
+import ReadingStudy from "./pages/ReadingStudy";
 import Review from "./pages/Review";
 import ProgressPage from "./pages/Progress";
+import PlacementTest from "./pages/PlacementTest";
 import { useAppData } from "./lib/useAppData";
 
 function App() {
-  const { data, recordAnswer, toggleBookmark } = useAppData();
+  const { data, recordAnswer, toggleBookmark, completePlacementTest } =
+    useAppData();
 
   return (
     <HashRouter>
@@ -35,8 +38,22 @@ function App() {
               />
             }
           />
+          <Route
+            path="/reading"
+            element={<ReadingStudy data={data} onAnswer={recordAnswer} />}
+          />
           <Route path="/review" element={<Review data={data} />} />
           <Route path="/progress" element={<ProgressPage data={data} />} />
+          <Route
+            path="/placement-test"
+            element={
+              <PlacementTest
+                data={data}
+                onAnswer={recordAnswer}
+                onComplete={completePlacementTest}
+              />
+            }
+          />
         </Routes>
         <BottomNav />
       </div>

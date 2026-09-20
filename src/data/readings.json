@@ -1,0 +1,188 @@
+[
+  {
+    "id": "r001",
+    "title": "社内メモ：オフィス移転のお知らせ",
+    "passage": "To: All Staff\nFrom: Facilities Management\nSubject: Office Relocation Notice\n\nWe are pleased to announce that our company will be relocating to a new office building at 450 Market Street, effective March 1st. The new office offers significantly more space, a modern conference center, and is conveniently located near public transportation.\n\nEmployees are asked to pack their personal belongings by February 25th. Moving boxes will be distributed to each department by February 15th. IT equipment, including computers and monitors, will be handled separately by the IT department and should not be packed by individual employees.\n\nParking permits for the new location will be issued during the first week of March. Employees who currently have a parking permit do not need to reapply; permits will be automatically transferred.\n\nIf you have any questions about the move, please contact the Facilities Management office at extension 204.",
+    "questions": [
+      {
+        "id": "r001q1",
+        "question": "When will the company move to the new office?",
+        "choices": ["February 15th", "February 25th", "March 1st", "The first week of March"],
+        "answer": 2,
+        "explanation": "本文冒頭に \"effective March 1st\" とあり、3月1日に移転することがわかります。",
+        "level": 550
+      },
+      {
+        "id": "r001q2",
+        "question": "What should employees NOT do with their IT equipment?",
+        "choices": ["Contact IT department", "Pack it themselves", "Use it until the move", "Label it clearly"],
+        "answer": 1,
+        "explanation": "本文に \"should not be packed by individual employees\" とあり、社員自身が梱包すべきではないとわかります。",
+        "level": 600
+      },
+      {
+        "id": "r001q3",
+        "question": "What do employees with existing parking permits need to do?",
+        "choices": ["Reapply immediately", "Contact extension 204", "Nothing; permits transfer automatically", "Wait until February 25th"],
+        "answer": 2,
+        "explanation": "本文に \"do not need to reapply; permits will be automatically transferred\" とあります。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "r002",
+    "title": "求人広告：マーケティングマネージャー募集",
+    "passage": "Marketing Manager Position Available\n\nBrightWave Media is seeking an experienced Marketing Manager to lead our digital marketing team. The ideal candidate will have at least five years of experience in digital marketing, strong analytical skills, and a proven track record of managing successful campaigns.\n\nResponsibilities include developing marketing strategies, managing a team of four specialists, analyzing campaign performance data, and presenting quarterly reports to senior management. The position offers a competitive salary, comprehensive health benefits, and opportunities for professional development.\n\nCandidates should submit a resume and cover letter to careers@brightwavemedia.com by the end of this month. Only shortlisted candidates will be contacted for an interview. No phone calls, please.",
+    "questions": [
+      {
+        "id": "r002q1",
+        "question": "How many years of experience does the position require?",
+        "choices": ["Two years", "Three years", "Four years", "Five years"],
+        "answer": 3,
+        "explanation": "本文に \"at least five years of experience\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r002q2",
+        "question": "How many specialists will the new manager supervise?",
+        "choices": ["Two", "Three", "Four", "Five"],
+        "answer": 2,
+        "explanation": "本文に \"managing a team of four specialists\" とあります。",
+        "level": 550
+      },
+      {
+        "id": "r002q3",
+        "question": "How should interested candidates apply?",
+        "choices": ["By calling the office", "By visiting in person", "By sending an email", "By mailing a letter"],
+        "answer": 2,
+        "explanation": "本文に \"submit a resume and cover letter to careers@brightwavemedia.com\" とあり、メールでの応募だとわかります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r003",
+    "title": "顧客への案内：注文の遅延について",
+    "passage": "Dear Valued Customer,\n\nThank you for your recent order (Order #48291). We regret to inform you that due to an unexpected delay at our supplier's warehouse, your shipment will be delayed by approximately five business days.\n\nWe understand this may cause inconvenience, and we sincerely apologize. As a gesture of goodwill, we would like to offer you a 15% discount on your next purchase. A discount code will be sent to your registered email address within 24 hours.\n\nYour order is expected to ship by the end of this week and should arrive within 3-5 business days after shipping. You will receive a tracking number via email once the order has shipped.\n\nIf you would prefer to cancel your order instead, please contact our customer service team at support@retailco.com, and we will process a full refund within 3 business days.",
+    "questions": [
+      {
+        "id": "r003q1",
+        "question": "Why was the shipment delayed?",
+        "choices": ["A shipping error", "A supplier warehouse delay", "A payment issue", "A weather problem"],
+        "answer": 1,
+        "explanation": "本文に \"due to an unexpected delay at our supplier's warehouse\" とあります。",
+        "level": 550
+      },
+      {
+        "id": "r003q2",
+        "question": "What is being offered to the customer as compensation?",
+        "choices": ["A full refund", "A 15% discount on the next purchase", "Free shipping", "A replacement product"],
+        "answer": 1,
+        "explanation": "本文に \"a 15% discount on your next purchase\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r003q3",
+        "question": "What should the customer do to cancel the order?",
+        "choices": ["Reply to this email", "Call customer service", "Contact support@retailco.com", "Visit the store"],
+        "answer": 2,
+        "explanation": "本文に \"please contact our customer service team at support@retailco.com\" とあります。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "r004",
+    "title": "会議室予約システム利用案内",
+    "passage": "New Conference Room Booking System\n\nStarting next Monday, all conference room reservations must be made through our new online booking system, RoomFlow. This system replaces the previous paper-based sign-up sheets that were used in each department.\n\nTo book a room, log in to RoomFlow using your company email address and select an available time slot. Rooms can be booked up to 30 days in advance, but no more than 4 hours per booking. If you need a room for a longer period, please contact the office administrator directly.\n\nCancellations must be made at least 2 hours before the scheduled time. Failure to cancel or show up for three consecutive bookings may result in temporary suspension of booking privileges.\n\nTraining sessions on how to use RoomFlow will be held on Tuesday and Wednesday at 10 AM in the main conference room. Attendance is optional but recommended for all employees.",
+    "questions": [
+      {
+        "id": "r004q1",
+        "question": "What is being replaced by the new system?",
+        "choices": ["Email requests", "Paper-based sign-up sheets", "Phone reservations", "A different app"],
+        "answer": 1,
+        "explanation": "本文に \"replaces the previous paper-based sign-up sheets\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r004q2",
+        "question": "What is the maximum length of a single booking?",
+        "choices": ["2 hours", "4 hours", "6 hours", "30 days"],
+        "answer": 1,
+        "explanation": "本文に \"no more than 4 hours per booking\" とあります。",
+        "level": 550
+      },
+      {
+        "id": "r004q3",
+        "question": "What could happen after missing three consecutive bookings?",
+        "choices": ["A warning email", "A mandatory training session", "Suspension of booking privileges", "A fine"],
+        "answer": 2,
+        "explanation": "本文に \"may result in temporary suspension of booking privileges\" とあります。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "r005",
+    "title": "レストランレビュー",
+    "passage": "Restaurant Review: Riverside Bistro\n\nRiverside Bistro, located along the waterfront downtown, has quickly become one of the city's most popular dining destinations since opening six months ago. The restaurant specializes in modern European cuisine with a focus on locally sourced ingredients.\n\nThe menu changes seasonally, offering dishes that highlight fresh, regional produce. Standout dishes include the grilled salmon with herb butter and the roasted vegetable risotto. Portion sizes are generous, and prices are reasonable for the quality offered.\n\nThe atmosphere is elegant yet relaxed, making it suitable for both business lunches and casual dinners with friends. However, the restaurant does not accept reservations for parties of fewer than four, which can result in long wait times during peak hours, especially on weekends.\n\nOverall, Riverside Bistro earns high marks for food quality and ambiance, though the lack of reservations for small groups is a notable drawback.",
+    "questions": [
+      {
+        "id": "r005q1",
+        "question": "How long has Riverside Bistro been open?",
+        "choices": ["Three months", "Six months", "One year", "Two years"],
+        "answer": 1,
+        "explanation": "本文に \"since opening six months ago\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r005q2",
+        "question": "What type of cuisine does the restaurant specialize in?",
+        "choices": ["Asian fusion", "Modern European", "Traditional American", "Mediterranean"],
+        "answer": 1,
+        "explanation": "本文に \"specializes in modern European cuisine\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r005q3",
+        "question": "What is mentioned as a drawback of the restaurant?",
+        "choices": ["High prices", "Small portions", "No reservations for small groups", "Limited menu options"],
+        "answer": 2,
+        "explanation": "本文最後に \"the lack of reservations for small groups is a notable drawback\" とあります。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "r006",
+    "title": "従業員向け：健康保険プラン変更のお知らせ",
+    "passage": "Notice: Changes to Employee Health Insurance Plan\n\nEffective January 1st of next year, our company will be switching health insurance providers from MediCare Plus to WellPath Health. This change comes after a thorough review process aimed at providing better coverage options and reducing costs for employees.\n\nKey changes include a lower monthly premium for individual coverage, expanded dental and vision benefits, and a broader network of participating doctors and hospitals in the area. However, employees currently seeing specialists outside the new network may need to switch providers or pay out-of-network rates.\n\nOpen enrollment will run from November 1st to November 30th. During this period, employees can review plan details and select their preferred coverage options through the HR portal. Employees who do not take action during open enrollment will be automatically enrolled in the plan most similar to their current coverage.\n\nInformational sessions will be held in the main auditorium on November 5th and November 12th at noon. HR representatives will be available to answer questions.",
+    "questions": [
+      {
+        "id": "r006q1",
+        "question": "When does the new health insurance plan take effect?",
+        "choices": ["November 1st", "November 30th", "December 1st", "January 1st"],
+        "answer": 3,
+        "explanation": "本文冒頭に \"Effective January 1st of next year\" とあります。",
+        "level": 500
+      },
+      {
+        "id": "r006q2",
+        "question": "What happens to employees who do not act during open enrollment?",
+        "choices": ["They lose coverage", "They are automatically enrolled in a similar plan", "They must pay a penalty", "They keep the old provider"],
+        "answer": 1,
+        "explanation": "本文に \"automatically enrolled in the plan most similar to their current coverage\" とあります。",
+        "level": 700
+      },
+      {
+        "id": "r006q3",
+        "question": "What might happen to employees seeing specialists outside the new network?",
+        "choices": ["They will be reimbursed fully", "They may need to pay out-of-network rates", "Their coverage will be canceled", "They will receive a discount"],
+        "answer": 1,
+        "explanation": "本文に \"may need to switch providers or pay out-of-network rates\" とあります。",
+        "level": 700
+      }
+    ]
+  }
+]

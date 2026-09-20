@@ -4,6 +4,7 @@ import words from "../data/words.json";
 import type { AppData, ProgressRecord } from "../types";
 import { updateProgress } from "../lib/spacedRepetition";
 import { filterByMode, parseStudyMode, modeLabel, emptyMessage } from "../lib/studyQueue";
+import { estimateAbilityLevel, recommendItems } from "../lib/recommendation";
 
 export default function WordStudy({
   data,
@@ -17,10 +18,15 @@ export default function WordStudy({
   const [searchParams] = useSearchParams();
   const mode = parseStudyMode(searchParams.get("mode"));
 
-  const queue = useMemo(
-    () => filterByMode(words, data, mode),
-    [mode] // eslint-disable-line react-hooks/exhaustive-deps -- キュー確定後は途中でdata更新されても入れ替えない
-  );
+  const queue = useMemo(() => {
+    if (mode === "recommended") {
+      const ability = estimateAbilityLevel(data.progress);
+      if (ability.status !== "ok") return [];
+      return recommendItems(words, data, ability.targetLevel);
+    }
+    return filterByMode(words, data, mode);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- キュー確定後は途中でdata更新されても入れ替えない
+  }, [mode]);
 
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);

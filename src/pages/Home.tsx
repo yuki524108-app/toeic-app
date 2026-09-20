@@ -1,17 +1,27 @@
 import { Link } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
-import type { AppData } from "../types";
+import readings from "../data/readings.json";
+import type { AppData, ReadingPassage } from "../types";
 import { isDueToday } from "../lib/spacedRepetition";
 import { estimateScore } from "../lib/scoreEstimate";
+import { estimateAbilityLevel } from "../lib/recommendation";
+
+const readingPassages = readings as ReadingPassage[];
 
 export default function Home({ data }: { data: AppData }) {
   const wordsDue = words.filter((w) => isDueToday(data.progress[w.id])).length;
   const grammarDue = grammarQuestions.filter((g) =>
     isDueToday(data.progress[g.id])
   ).length;
+  const readingDue = readingPassages.filter((p) =>
+    p.questions.some((q) => isDueToday(data.progress[q.id]))
+  ).length;
 
   const estimate = estimateScore(data.progress);
+  const ability = estimateAbilityLevel(data.progress);
+  const hasTakenPlacementTest = data.placementTestCompletedAt !== null;
+
   const today = new Date().toLocaleDateString("ja-JP", {
     month: "long",
     day: "numeric",
@@ -25,47 +35,89 @@ export default function Home({ data }: { data: AppData }) {
         今日の学習を始めましょう
       </h1>
 
-      {/* 予想スコア */}
-      <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
-        <div className="flex items-baseline justify-between">
-          <span className="text-xs tracking-wide text-(--color-muted)">
-            文法・語彙の目安スコア（参考値）
-          </span>
-          {data.streak > 0 && (
-            <span className="text-xs font-medium text-(--color-gold)">
-              🔥 {data.streak}日連続
+      {!hasTakenPlacementTest ? (
+        /* 初回模試の案内 */
+        <div className="mt-6 rounded-sm border border-(--color-gold) bg-(--color-gold-soft) p-5">
+          <p className="text-xs font-medium tracking-wide text-(--color-ink)">
+            まずは実力を測定しましょう
+          </p>
+          <p className="mt-2 text-sm leading-relaxed text-(--color-ink-soft)">
+            単語・文法あわせて30問の初回模試を受けると、今の実力に合った目安スコアと「おすすめ問題」が使えるようになります。
+          </p>
+          <Link
+            to="/placement-test"
+            className="mt-4 inline-block rounded-sm bg-(--color-ink) px-5 py-2.5 text-sm font-medium text-(--color-paper)"
+          >
+            初回模試を受ける（約10分）
+          </Link>
+        </div>
+      ) : (
+        /* 予想スコア */
+        <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
+          <div className="flex items-baseline justify-between">
+            <span className="text-xs tracking-wide text-(--color-muted)">
+              文法・語彙の目安スコア（参考値）
             </span>
+            {data.streak > 0 && (
+              <span className="text-xs font-medium text-(--color-gold)">
+                🔥 {data.streak}日連続
+              </span>
+            )}
+          </div>
+          {estimate.status === "ok" ? (
+            <div className="mt-2 flex items-end gap-2">
+              <span className="font-(family-name:--font-display) text-5xl font-semibold text-(--color-ink)">
+                {estimate.score}
+              </span>
+              <span className="mb-1 text-sm text-(--color-muted)">/ 495点</span>
+            </div>
+          ) : (
+            <div className="mt-3">
+              <p className="text-sm text-(--color-ink-soft)">
+                まだ推定に必要なデータが足りません
+              </p>
+              <p className="mt-1 text-xs text-(--color-muted)">
+                あと{estimate.needed - estimate.answeredCount}問解くとスコアの目安が表示されます
+              </p>
+              <div className="mt-2 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
+                <div
+                  className="h-full bg-(--color-gold)"
+                  style={{
+                    width: `${Math.min(
+                      100,
+                      (estimate.answeredCount / estimate.needed) * 100
+                    )}%`,
+                  }}
+                />
+              </div>
+            </div>
           )}
         </div>
-        {estimate.status === "ok" ? (
-          <div className="mt-2 flex items-end gap-2">
-            <span className="font-(family-name:--font-display) text-5xl font-semibold text-(--color-ink)">
-              {estimate.score}
-            </span>
-            <span className="mb-1 text-sm text-(--color-muted)">/ 495点</span>
-          </div>
-        ) : (
-          <div className="mt-3">
-            <p className="text-sm text-(--color-ink-soft)">
-              まだ推定に必要なデータが足りません
+      )}
+
+      {/* おすすめ問題 */}
+      {hasTakenPlacementTest && ability.status === "ok" && (
+        <div className="mt-4 grid grid-cols-2 gap-3">
+          <Link
+            to="/words?mode=recommended"
+            className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-4 transition-colors active:bg-(--color-gold-soft)"
+          >
+            <p className="text-xs text-(--color-muted)">おすすめ単語</p>
+            <p className="mt-1 text-sm font-medium text-(--color-ink)">
+              今の実力に合わせて学習
             </p>
-            <p className="mt-1 text-xs text-(--color-muted)">
-              あと{estimate.needed - estimate.answeredCount}問解くとスコアの目安が表示されます
+          </Link>
+          <Link
+            to="/grammar?mode=recommended"
+            className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-4 transition-colors active:bg-(--color-gold-soft)"
+          >
+            <p className="text-xs text-(--color-muted)">おすすめ文法</p>
+            <p className="mt-1 text-sm font-medium text-(--color-ink)">
+              今の実力に合わせて学習
             </p>
-            <div className="mt-2 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
-              <div
-                className="h-full bg-(--color-gold)"
-                style={{
-                  width: `${Math.min(
-                    100,
-                    (estimate.answeredCount / estimate.needed) * 100
-                  )}%`,
-                }}
-              />
-            </div>
-          </div>
-        )}
-      </div>
+          </Link>
+        </div>
+      )}
 
       {/* 学習メニュー */}
       <div className="mt-8 space-y-3">
@@ -96,6 +148,21 @@ export default function Home({ data }: { data: AppData }) {
           </div>
           <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
             {grammarDue}
+          </span>
+        </Link>
+
+        <Link
+          to="/reading"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <p className="font-medium text-(--color-ink)">リーディング</p>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {readingDue > 0 ? `本日 ${readingDue} パッセージ` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {readingDue}
           </span>
         </Link>
       </div>

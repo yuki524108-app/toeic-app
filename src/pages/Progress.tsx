@@ -14,6 +14,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
 
   const wordRecords = records.filter((r) => r.itemType === "word");
   const grammarRecords = records.filter((r) => r.itemType === "grammar");
+  const readingRecords = records.filter((r) => r.itemType === "reading");
 
   const accuracy = (list: typeof records) =>
     list.length === 0
@@ -24,6 +25,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
 
   const wordAccuracy = accuracy(wordRecords);
   const grammarAccuracy = accuracy(grammarRecords);
+  const readingAccuracy = accuracy(readingRecords);
 
   // レベル帯別の正答率（弱点分析）
   const levelBuckets = useMemo(() => {
@@ -52,7 +54,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
       days.push({
         date: iso,
         label: `${d.getMonth() + 1}/${d.getDate()}`,
-        count: log ? log.wordsStudied + log.grammarStudied : 0,
+        count: log ? log.wordsStudied + log.grammarStudied + log.readingsStudied : 0,
       });
     }
     return days;
@@ -72,9 +74,10 @@ export default function ProgressPage({ data }: { data: AppData }) {
         </p>
       ) : (
         <>
-          <div className="mt-6 grid grid-cols-2 gap-3">
+          <div className="mt-6 grid grid-cols-3 gap-2.5">
             <StatCard label="単語 正答率" value={wordAccuracy} />
             <StatCard label="文法 正答率" value={grammarAccuracy} />
+            <StatCard label="読解 正答率" value={readingAccuracy} />
           </div>
 
           <div className="mt-8">
@@ -138,9 +141,9 @@ export default function ProgressPage({ data }: { data: AppData }) {
 
 function StatCard({ label, value }: { label: string; value: number | null }) {
   return (
-    <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-4">
-      <p className="text-xs text-(--color-muted)">{label}</p>
-      <p className="mt-1 font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
+    <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-3">
+      <p className="text-[11px] leading-tight text-(--color-muted)">{label}</p>
+      <p className="mt-1 font-(family-name:--font-display) text-xl font-medium text-(--color-ink)">
         {value === null ? "―" : `${value}%`}
       </p>
     </div>

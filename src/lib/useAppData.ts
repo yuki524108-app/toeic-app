@@ -4,6 +4,7 @@ import {
   loadData,
   recordAnswer as persistAnswer,
   toggleBookmark as persistToggleBookmark,
+  completePlacementTest as persistCompletePlacementTest,
 } from "./storage";
 
 export function useAppData() {
@@ -17,9 +18,13 @@ export function useAppData() {
     setData((prev) => persistToggleBookmark(prev, itemId));
   }, []);
 
+  const completePlacementTest = useCallback(() => {
+    setData((prev) => persistCompletePlacementTest(prev));
+  }, []);
+
   const refresh = useCallback(() => {
     setData(loadData());
   }, []);
 
-  return { data, recordAnswer, toggleBookmark, refresh };
+  return { data, recordAnswer, toggleBookmark, completePlacementTest, refresh };
 }

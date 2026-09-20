@@ -1,14 +1,16 @@
 import { Link } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
-import type { AppData, StudyMode } from "../types";
+import type { AppData } from "../types";
 import { filterByMode } from "../lib/studyQueue";
+import { estimateAbilityLevel } from "../lib/recommendation";
 
 export default function Review({ data }: { data: AppData }) {
   const wordIncorrect = filterByMode(words, data, "incorrect").length;
   const wordBookmarked = filterByMode(words, data, "bookmarked").length;
   const grammarIncorrect = filterByMode(grammarQuestions, data, "incorrect").length;
   const grammarBookmarked = filterByMode(grammarQuestions, data, "bookmarked").length;
+  const hasRecommendation = estimateAbilityLevel(data.progress).status === "ok";
 
   return (
     <div className="mx-auto max-w-md px-5 pb-28 pt-8">
@@ -27,6 +29,7 @@ export default function Review({ data }: { data: AppData }) {
           incorrect: wordIncorrect,
           bookmarked: wordBookmarked,
         }}
+        hasRecommendation={hasRecommendation}
       />
       <ReviewSection
         title="文法問題"
@@ -36,6 +39,7 @@ export default function Review({ data }: { data: AppData }) {
           incorrect: grammarIncorrect,
           bookmarked: grammarBookmarked,
         }}
+        hasRecommendation={hasRecommendation}
       />
     </div>
   );
@@ -45,15 +49,25 @@ function ReviewSection({
   title,
   studyPath,
   counts,
+  hasRecommendation,
 }: {
   title: string;
   studyPath: string;
-  counts: Record<Exclude<StudyMode, "due">, number>;
+  counts: { all: number; incorrect: number; bookmarked: number };
+  hasRecommendation: boolean;
 }) {
   return (
     <div className="mt-8">
       <h2 className="text-sm font-medium text-(--color-ink)">{title}</h2>
       <div className="mt-3 space-y-2.5">
+        {hasRecommendation && (
+          <Link to={`${studyPath}?mode=recommended`}>
+            <div className="flex items-center justify-between rounded-sm border border-(--color-gold) bg-(--color-gold-soft) p-4 active:opacity-80">
+              <span className="text-(--color-ink)">おすすめ問題で学習</span>
+              <span className="text-(--color-gold)">→</span>
+            </div>
+          </Link>
+        )}
         <ReviewRow
           label="間違えた問題を復習"
           count={counts.incorrect}

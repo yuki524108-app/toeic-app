@@ -4,6 +4,7 @@ import grammarQuestions from "../data/grammar.json";
 import type { AppData, ProgressRecord } from "../types";
 import { updateProgress } from "../lib/spacedRepetition";
 import { filterByMode, parseStudyMode, modeLabel, emptyMessage } from "../lib/studyQueue";
+import { estimateAbilityLevel, recommendItems } from "../lib/recommendation";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
 
 export default function GrammarStudy({
@@ -18,10 +19,15 @@ export default function GrammarStudy({
   const [searchParams] = useSearchParams();
   const mode = parseStudyMode(searchParams.get("mode"));
 
-  const queue = useMemo(
-    () => filterByMode(grammarQuestions, data, mode),
-    [mode] // eslint-disable-line react-hooks/exhaustive-deps
-  );
+  const queue = useMemo(() => {
+    if (mode === "recommended") {
+      const ability = estimateAbilityLevel(data.progress);
+      if (ability.status !== "ok") return [];
+      return recommendItems(grammarQuestions, data, ability.targetLevel);
+    }
+    return filterByMode(grammarQuestions, data, mode);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode]);
 
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
