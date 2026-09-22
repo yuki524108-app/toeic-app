@@ -1,15 +1,42 @@
 import { Link } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
-import type { AppData } from "../types";
-import { filterByMode } from "../lib/studyQueue";
+import readings from "../data/readings.json";
+import part6Data from "../data/part6.json";
+import listeningPart2Questions from "../data/listeningPart2.json";
+import listeningPart34Sets from "../data/listeningPart34.json";
+import type {
+  AppData,
+  ReadingPassage,
+  Part6Passage,
+  ListeningPart2Question,
+  ListeningPart34Set,
+} from "../types";
+import { filterByMode, filterPassagesByMode } from "../lib/studyQueue";
 import { estimateAbilityLevel } from "../lib/recommendation";
+
+const readingPassages = readings as ReadingPassage[];
+// filterPassagesByMode は questions フィールドを期待するため、blanks を questions として扱うラッパー
+const part6Passages = (part6Data as Part6Passage[]).map((p) => ({
+  ...p,
+  questions: p.blanks,
+}));
+const listeningPart2 = listeningPart2Questions as ListeningPart2Question[];
+const listeningPart34 = listeningPart34Sets as ListeningPart34Set[];
 
 export default function Review({ data }: { data: AppData }) {
   const wordIncorrect = filterByMode(words, data, "incorrect").length;
   const wordBookmarked = filterByMode(words, data, "bookmarked").length;
   const grammarIncorrect = filterByMode(grammarQuestions, data, "incorrect").length;
   const grammarBookmarked = filterByMode(grammarQuestions, data, "bookmarked").length;
+  const readingIncorrect = filterPassagesByMode(readingPassages, data, "incorrect").length;
+  const readingBookmarked = filterPassagesByMode(readingPassages, data, "bookmarked").length;
+  const part6Incorrect = filterPassagesByMode(part6Passages, data, "incorrect").length;
+  const part6Bookmarked = filterPassagesByMode(part6Passages, data, "bookmarked").length;
+  const listeningPart2Incorrect = filterByMode(listeningPart2, data, "incorrect").length;
+  const listeningPart2Bookmarked = filterByMode(listeningPart2, data, "bookmarked").length;
+  const listeningPart34Incorrect = filterPassagesByMode(listeningPart34, data, "incorrect").length;
+  const listeningPart34Bookmarked = filterPassagesByMode(listeningPart34, data, "bookmarked").length;
   const hasRecommendation = estimateAbilityLevel(data.progress).status === "ok";
 
   return (
@@ -41,6 +68,49 @@ export default function Review({ data }: { data: AppData }) {
         }}
         hasRecommendation={hasRecommendation}
       />
+      <ReviewSection
+        title="リーディング"
+        studyPath="/reading"
+        unitLabel="パッセージ"
+        counts={{
+          all: readingPassages.length,
+          incorrect: readingIncorrect,
+          bookmarked: readingBookmarked,
+        }}
+        hasRecommendation={false}
+      />
+      <ReviewSection
+        title="長文穴埋め（Part 6）"
+        studyPath="/part6"
+        unitLabel="パッセージ"
+        counts={{
+          all: part6Passages.length,
+          incorrect: part6Incorrect,
+          bookmarked: part6Bookmarked,
+        }}
+        hasRecommendation={false}
+      />
+      <ReviewSection
+        title="リスニング（Part 2）"
+        studyPath="/listening-part2"
+        counts={{
+          all: listeningPart2.length,
+          incorrect: listeningPart2Incorrect,
+          bookmarked: listeningPart2Bookmarked,
+        }}
+        hasRecommendation={false}
+      />
+      <ReviewSection
+        title="リスニング（Part 3・4）"
+        studyPath="/listening-part34"
+        unitLabel="セット"
+        counts={{
+          all: listeningPart34.length,
+          incorrect: listeningPart34Incorrect,
+          bookmarked: listeningPart34Bookmarked,
+        }}
+        hasRecommendation={false}
+      />
     </div>
   );
 }
@@ -50,11 +120,13 @@ function ReviewSection({
   studyPath,
   counts,
   hasRecommendation,
+  unitLabel,
 }: {
   title: string;
   studyPath: string;
   counts: { all: number; incorrect: number; bookmarked: number };
   hasRecommendation: boolean;
+  unitLabel?: string;
 }) {
   return (
     <div className="mt-8">
@@ -69,7 +141,7 @@ function ReviewSection({
           </Link>
         )}
         <ReviewRow
-          label="間違えた問題を復習"
+          label={`間違えた${unitLabel ?? "問題"}を復習`}
           count={counts.incorrect}
           disabled={counts.incorrect === 0}
           to={`${studyPath}?mode=incorrect`}

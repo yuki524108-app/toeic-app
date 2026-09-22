@@ -1,27 +1,35 @@
 import { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import readings from "../data/readings.json";
 import type { AppData, ProgressRecord, ReadingPassage } from "../types";
-import { updateProgress, isDueToday } from "../lib/spacedRepetition";
-import { EmptyState, DoneState } from "./WordStudy";
+import { updateProgress } from "../lib/spacedRepetition";
+import {
+  filterPassagesByMode,
+  parseStudyMode,
+  modeLabel,
+  emptyMessage,
+} from "../lib/studyQueue";
+import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
 
 const passages = readings as ReadingPassage[];
 
 export default function ReadingStudy({
   data,
   onAnswer,
+  onToggleBookmark,
 }: {
   data: AppData;
   onAnswer: (record: ProgressRecord) => void;
+  onToggleBookmark: (itemId: string) => void;
 }) {
-  // パッセージ単位で「今日出すべきか」を判定する（内包する設問のいずれかが due なら出題）
+  const [searchParams] = useSearchParams();
+  const mode = parseStudyMode(searchParams.get("mode"));
+
+  // パッセージ単位でモードに応じてフィルタ（内包するいずれかの設問が条件を満たせば対象）
   const queue = useMemo(
-    () =>
-      passages.filter((p) =>
-        p.questions.some((q) => isDueToday(data.progress[q.id]))
-      ),
+    () => filterPassagesByMode(passages, data, mode),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    []
+    [mode]
   );
 
   const [passageIndex, setPassageIndex] = useState(0);
@@ -34,9 +42,7 @@ export default function ReadingStudy({
   const isDone = passageIndex >= queue.length;
 
   if (queue.length === 0) {
-    return (
-      <EmptyState message="今日出題するリーディング問題はありません。よく学習しました。" />
-    );
+    return <EmptyState message={emptyMessage[mode]} />;
   }
 
   if (isDone) {
@@ -44,6 +50,7 @@ export default function ReadingStudy({
   }
 
   const currentQuestion = currentPassage.questions[questionIndex];
+  const isBookmarked = data.bookmarks.includes(currentQuestion.id);
 
   function handleSelect(choiceIndex: number) {
     if (selected !== null) return;
@@ -78,22 +85,55 @@ export default function ReadingStudy({
           ← ホーム
         </Link>
         <span className="text-xs text-(--color-muted)">
-          パッセージ {passageIndex + 1} / {queue.length} ・ 設問{" "}
-          {questionIndex + 1} / {currentPassage.questions.length}
+          {modeLabel[mode]} ・ {passageIndex + 1} / {queue.length}
         </span>
       </div>
 
       <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
+        {(currentPassage.type === "double" || currentPassage.type === "triple") && (
+          <span className="mb-2 inline-block rounded-sm bg-(--color-paper) px-2 py-0.5 text-[10px] font-medium text-(--color-muted)">
+            {currentPassage.type === "triple" ? "3つの文書" : "2つの文書"}
+          </span>
+        )}
         <p className="text-xs font-medium text-(--color-muted)">
           {currentPassage.title}
         </p>
-        <div className="mt-3 max-h-64 overflow-y-auto whitespace-pre-line border-t border-(--color-line) pt-3 text-sm leading-relaxed text-(--color-ink-soft)">
+        <div className="mt-3 max-h-56 overflow-y-auto whitespace-pre-line border-t border-(--color-line) pt-3 text-sm leading-relaxed text-(--color-ink-soft)">
           {currentPassage.passage}
         </div>
+        {(currentPassage.type === "double" || currentPassage.type === "triple") &&
+          currentPassage.passage2 && (
+            <>
+              <p className="mt-4 text-xs font-medium text-(--color-muted)">
+                {currentPassage.title2}
+              </p>
+              <div className="mt-3 max-h-56 overflow-y-auto whitespace-pre-line border-t border-(--color-line) pt-3 text-sm leading-relaxed text-(--color-ink-soft)">
+                {currentPassage.passage2}
+              </div>
+            </>
+          )}
+        {currentPassage.type === "triple" && currentPassage.passage3 && (
+          <>
+            <p className="mt-4 text-xs font-medium text-(--color-muted)">
+              {currentPassage.title3}
+            </p>
+            <div className="mt-3 max-h-56 overflow-y-auto whitespace-pre-line border-t border-(--color-line) pt-3 text-sm leading-relaxed text-(--color-ink-soft)">
+              {currentPassage.passage3}
+            </div>
+          </>
+        )}
       </div>
 
-      <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
-        <p className="text-base leading-relaxed text-(--color-ink)">
+      <div className="relative mt-5 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
+        <button
+          onClick={() => onToggleBookmark(currentQuestion.id)}
+          aria-label={isBookmarked ? "ブックマークを外す" : "ブックマークする"}
+          className="absolute right-3 top-3 z-10 p-1.5"
+        >
+          <BookmarkIcon filled={isBookmarked} />
+        </button>
+
+        <p className="pr-8 text-base leading-relaxed text-(--color-ink)">
           {currentQuestion.question}
         </p>
         <div className="mt-4 space-y-2.5">

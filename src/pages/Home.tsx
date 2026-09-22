@@ -2,12 +2,24 @@ import { Link } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
 import readings from "../data/readings.json";
-import type { AppData, ReadingPassage } from "../types";
+import part6Data from "../data/part6.json";
+import listeningPart2Questions from "../data/listeningPart2.json";
+import listeningPart34Sets from "../data/listeningPart34.json";
+import type {
+  AppData,
+  ReadingPassage,
+  Part6Passage,
+  ListeningPart2Question,
+  ListeningPart34Set,
+} from "../types";
 import { isDueToday } from "../lib/spacedRepetition";
 import { estimateScore } from "../lib/scoreEstimate";
 import { estimateAbilityLevel } from "../lib/recommendation";
 
 const readingPassages = readings as ReadingPassage[];
+const part6Passages = part6Data as Part6Passage[];
+const listeningPart2 = listeningPart2Questions as ListeningPart2Question[];
+const listeningPart34 = listeningPart34Sets as ListeningPart34Set[];
 
 export default function Home({ data }: { data: AppData }) {
   const wordsDue = words.filter((w) => isDueToday(data.progress[w.id])).length;
@@ -16,6 +28,15 @@ export default function Home({ data }: { data: AppData }) {
   ).length;
   const readingDue = readingPassages.filter((p) =>
     p.questions.some((q) => isDueToday(data.progress[q.id]))
+  ).length;
+  const part6Due = part6Passages.filter((p) =>
+    p.blanks.some((b) => isDueToday(data.progress[b.id]))
+  ).length;
+  const listeningPart2Due = listeningPart2.filter((q) =>
+    isDueToday(data.progress[q.id])
+  ).length;
+  const listeningPart34Due = listeningPart34.filter((s) =>
+    s.questions.some((q) => isDueToday(data.progress[q.id]))
   ).length;
 
   const estimate = estimateScore(data.progress);
@@ -163,6 +184,61 @@ export default function Home({ data }: { data: AppData }) {
           </div>
           <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
             {readingDue}
+          </span>
+        </Link>
+
+        <Link
+          to="/part6"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <p className="font-medium text-(--color-ink)">長文穴埋め（Part 6）</p>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {part6Due > 0 ? `本日 ${part6Due} パッセージ` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {part6Due}
+          </span>
+        </Link>
+
+        <Link
+          to="/listening-part2"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <div className="flex items-center gap-1.5">
+              <p className="font-medium text-(--color-ink)">リスニング（Part 2）</p>
+              <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+                NEW
+              </span>
+            </div>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {listeningPart2Due > 0 ? `本日 ${listeningPart2Due} 問` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {listeningPart2Due}
+          </span>
+        </Link>
+
+        <Link
+          to="/listening-part34"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <div className="flex items-center gap-1.5">
+              <p className="font-medium text-(--color-ink)">リスニング（Part 3・4）</p>
+              <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+                NEW
+              </span>
+            </div>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {listeningPart34Due > 0 ? `本日 ${listeningPart34Due} セット` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {listeningPart34Due}
           </span>
         </Link>
       </div>

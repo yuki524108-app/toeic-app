@@ -15,6 +15,9 @@ export default function ProgressPage({ data }: { data: AppData }) {
   const wordRecords = records.filter((r) => r.itemType === "word");
   const grammarRecords = records.filter((r) => r.itemType === "grammar");
   const readingRecords = records.filter((r) => r.itemType === "reading");
+  const part6Records = records.filter((r) => r.itemType === "part6");
+  const listeningPart2Records = records.filter((r) => r.itemType === "listeningPart2");
+  const listeningPart34Records = records.filter((r) => r.itemType === "listeningPart34");
 
   const accuracy = (list: typeof records) =>
     list.length === 0
@@ -26,6 +29,9 @@ export default function ProgressPage({ data }: { data: AppData }) {
   const wordAccuracy = accuracy(wordRecords);
   const grammarAccuracy = accuracy(grammarRecords);
   const readingAccuracy = accuracy(readingRecords);
+  const part6Accuracy = accuracy(part6Records);
+  const listeningPart2Accuracy = accuracy(listeningPart2Records);
+  const listeningPart34Accuracy = accuracy(listeningPart34Records);
 
   // レベル帯別の正答率（弱点分析）
   const levelBuckets = useMemo(() => {
@@ -54,7 +60,14 @@ export default function ProgressPage({ data }: { data: AppData }) {
       days.push({
         date: iso,
         label: `${d.getMonth() + 1}/${d.getDate()}`,
-        count: log ? log.wordsStudied + log.grammarStudied + log.readingsStudied : 0,
+        count: log
+          ? log.wordsStudied +
+            log.grammarStudied +
+            log.readingsStudied +
+            log.part6Studied +
+            log.listeningPart2Studied +
+            log.listeningPart34Studied
+          : 0,
       });
     }
     return days;
@@ -74,10 +87,13 @@ export default function ProgressPage({ data }: { data: AppData }) {
         </p>
       ) : (
         <>
-          <div className="mt-6 grid grid-cols-3 gap-2.5">
+          <div className="mt-6 grid grid-cols-2 gap-2.5">
             <StatCard label="単語 正答率" value={wordAccuracy} />
             <StatCard label="文法 正答率" value={grammarAccuracy} />
-            <StatCard label="読解 正答率" value={readingAccuracy} />
+            <StatCard label="リーディング 正答率" value={readingAccuracy} />
+            <StatCard label="Part 6 正答率" value={part6Accuracy} />
+            <StatCard label="リスニング Part 2 正答率" value={listeningPart2Accuracy} />
+            <StatCard label="リスニング Part 3・4 正答率" value={listeningPart34Accuracy} />
           </div>
 
           <div className="mt-8">
@@ -141,9 +157,9 @@ export default function ProgressPage({ data }: { data: AppData }) {
 
 function StatCard({ label, value }: { label: string; value: number | null }) {
   return (
-    <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-3">
-      <p className="text-[11px] leading-tight text-(--color-muted)">{label}</p>
-      <p className="mt-1 font-(family-name:--font-display) text-xl font-medium text-(--color-ink)">
+    <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-3.5">
+      <p className="text-xs leading-tight text-(--color-muted)">{label}</p>
+      <p className="mt-1 font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
         {value === null ? "―" : `${value}%`}
       </p>
     </div>

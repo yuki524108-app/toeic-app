@@ -28,6 +28,39 @@ export function filterByMode<T extends WithId>(
   }
 }
 
+/**
+ * リーディングのように「パッセージ内に複数の設問がある」構造向けのフィルタ。
+ * パッセージ内のいずれかの設問が条件を満たせば、そのパッセージを対象に含める。
+ */
+export function filterPassagesByMode<
+  Q extends WithId,
+  P extends { id: string; questions: Q[] }
+>(passages: P[], data: AppData, mode: StudyMode): P[] {
+  switch (mode) {
+    case "all":
+      return passages;
+    case "incorrect":
+      return passages.filter((p) =>
+        p.questions.some((q) => {
+          const record = data.progress[q.id];
+          return record !== undefined && record.isCorrect === false;
+        })
+      );
+    case "bookmarked":
+      return passages.filter((p) =>
+        p.questions.some((q) => data.bookmarks.includes(q.id))
+      );
+    case "recommended":
+      // リーディングでは「おすすめ」は未対応。全件を返すフォールバック。
+      return passages;
+    case "due":
+    default:
+      return passages.filter((p) =>
+        p.questions.some((q) => isDueToday(data.progress[q.id]))
+      );
+  }
+}
+
 export function parseStudyMode(value: string | null): StudyMode {
   if (
     value === "all" ||
