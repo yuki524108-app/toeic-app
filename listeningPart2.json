@@ -1,0 +1,362 @@
+[
+  {
+    "id": "l2001",
+    "question": "Who is in charge of the marketing campaign this quarter?",
+    "choices": [
+      "Sandra from the design team is leading it.",
+      "It starts next Monday.",
+      "About three weeks, I think."
+    ],
+    "answer": 0,
+    "explanation": "Who(誰)の質問には人物名で答えます。選択肢Bは「いつ」、Cは「どのくらいの期間」に対する応答であり、質問の種類が違うひっかけです。",
+    "level": 400
+  },
+  {
+    "id": "l2002",
+    "question": "What time does the shuttle bus leave for the airport?",
+    "choices": [
+      "It's a comfortable bus.",
+      "Every hour, on the hour.",
+      "Yes, I took it last week."
+    ],
+    "answer": 1,
+    "explanation": "What time(何時)の質問には時刻・頻度で答えます。Aはバスの様子について、Cはyes/no疑問文への応答であり不適切です。",
+    "level": 400
+  },
+  {
+    "id": "l2003",
+    "question": "When will the new office furniture be delivered?",
+    "choices": [
+      "It's on the third floor.",
+      "Sometime next week, I believe.",
+      "Because the old ones broke."
+    ],
+    "answer": 1,
+    "explanation": "When(いつ)には時期で答えます。Aは場所、Cは理由への応答なので誤りです。",
+    "level": 400
+  },
+  {
+    "id": "l2004",
+    "question": "Where should I submit the reimbursement form?",
+    "choices": [
+      "To the accounting office on the second floor.",
+      "It costs about fifty dollars.",
+      "I submitted mine yesterday."
+    ],
+    "answer": 0,
+    "explanation": "Where(どこ)には場所で答えます。金額や自分の行動についての応答は質問に対応していません。",
+    "level": 450
+  },
+  {
+    "id": "l2005",
+    "question": "Why was the meeting postponed until Friday?",
+    "choices": [
+      "Because the client requested more time.",
+      "In Conference Room B.",
+      "For about two hours."
+    ],
+    "answer": 0,
+    "explanation": "Why(なぜ)には理由で答えます。場所や所要時間の応答は質問の種類が異なります。",
+    "level": 450
+  },
+  {
+    "id": "l2006",
+    "question": "How long have you been working at this company?",
+    "choices": [
+      "It's a very friendly workplace.",
+      "For almost five years now.",
+      "I work in the finance department."
+    ],
+    "answer": 1,
+    "explanation": "How long(どのくらいの期間)には期間で答えます。AとCは会社の様子や部署についての応答であり不適切です。",
+    "level": 450
+  },
+  {
+    "id": "l2007",
+    "question": "How often does the maintenance team check the equipment?",
+    "choices": [
+      "Once a month, usually.",
+      "They're very thorough.",
+      "Yes, they checked it already."
+    ],
+    "answer": 0,
+    "explanation": "How often(どのくらいの頻度で)には頻度で答えます。BとCは頻度に対する直接的な答えになっていません。",
+    "level": 450
+  },
+  {
+    "id": "l2008",
+    "question": "Have you finished reviewing the contract yet?",
+    "choices": [
+      "Not yet, I'll finish it by tomorrow.",
+      "It's a two-year contract.",
+      "I signed it last month."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No疑問文には「まだです」のように直接答えるのが自然です。BとCは似た単語(contract)を含みますが質問の意図とずれています。",
+    "level": 450
+  },
+  {
+    "id": "l2009",
+    "question": "Isn't the new printer supposed to arrive today?",
+    "choices": [
+      "I photocopied the report already.",
+      "Yes, it should be here by noon.",
+      "The printer is out of ink."
+    ],
+    "answer": 1,
+    "explanation": "否定疑問文でも通常のYes/Noと同様に答えます。ここでは「はい、届く予定です」が適切です。Aはprint関連の単語での引っかけです。",
+    "level": 550
+  },
+  {
+    "id": "l2010",
+    "question": "Would you like coffee or tea with your breakfast?",
+    "choices": [
+      "I'll have coffee, please.",
+      "No, I already had lunch.",
+      "Yes, I would."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文(A or B)にはどちらか一方、または両方を答えます。Yes/Noだけの応答(C)は不自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2011",
+    "question": "Should we take the elevator or the stairs?",
+    "choices": [
+      "Let's take the stairs; it's only two floors.",
+      "The elevator is out of service.",
+      "Yes, we should."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的にどちらかを選んで答えます。Cのように単純なYes/Noは応答として不十分です。ただしBのように暗に「エレベーターは使えない」と答える形も正解になり得ますが、ここではAがより直接的で自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2012",
+    "question": "The report looks great, doesn't it?",
+    "choices": [
+      "Yes, it does. Great work.",
+      "I'll print it now.",
+      "It's due next Friday."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文(doesn't it?)には確認に対する同意・不同意で答えます。BとCは話がずれています。",
+    "level": 500
+  },
+  {
+    "id": "l2013",
+    "question": "You haven't submitted your timesheet yet, have you?",
+    "choices": [
+      "Actually, I submitted it this morning.",
+      "I work forty hours a week.",
+      "The deadline is Friday."
+    ],
+    "answer": 0,
+    "explanation": "否定の付加疑問文にも通常通り答えます。「実は今朝提出しました」という応答が自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2014",
+    "question": "Could you help me carry these boxes to the storage room?",
+    "choices": [
+      "Sure, I'd be happy to.",
+      "The boxes are quite heavy.",
+      "It's down the hall."
+    ],
+    "answer": 0,
+    "explanation": "依頼(Could you...)には引き受ける・断るなどの応答が適切です。BとCは依頼への直接的な返答になっていません。",
+    "level": 450
+  },
+  {
+    "id": "l2015",
+    "question": "Would you mind turning down the music a little?",
+    "choices": [
+      "Not at all, I'll turn it down now.",
+      "I really like this song.",
+      "The music starts at eight."
+    ],
+    "answer": 0,
+    "explanation": "Would you mind...?には「構いません」＝Not at allのように答えるのが典型的なパターンです。",
+    "level": 600
+  },
+  {
+    "id": "l2016",
+    "question": "Why don't we schedule the meeting for Thursday instead?",
+    "choices": [
+      "That sounds good to me.",
+      "It's a two-hour meeting.",
+      "We met on Thursday last week."
+    ],
+    "answer": 0,
+    "explanation": "Why don't we...?は提案の表現で、賛成・反対で答えます。BとCは提案への応答になっていません。",
+    "level": 550
+  },
+  {
+    "id": "l2017",
+    "question": "Do you know where the nearest post office is?",
+    "choices": [
+      "It's just around the corner.",
+      "I mailed the package yesterday.",
+      "Yes, I received the letter."
+    ],
+    "answer": 0,
+    "explanation": "間接疑問文(Do you know where...?)の中身はWhereの質問なので、場所で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2018",
+    "question": "Can you tell me when the training session starts?",
+    "choices": [
+      "It begins at nine sharp.",
+      "I already completed the training.",
+      "The trainer is very experienced."
+    ],
+    "answer": 0,
+    "explanation": "間接疑問文の中身はWhenの質問なので、開始時刻で答えるのが正解です。",
+    "level": 550
+  },
+  {
+    "id": "l2019",
+    "question": "Isn't there a shortcut to the conference center from here?",
+    "choices": [
+      "Yes, if you go through the park.",
+      "The conference starts at ten.",
+      "I've never been there before."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文でも通常通り答えます。近道の有無について「あります、公園を通れば」と具体的に答えているAが正解です。",
+    "level": 600
+  },
+  {
+    "id": "l2020",
+    "question": "What did you think of the presentation yesterday?",
+    "choices": [
+      "I thought it was very informative.",
+      "It's scheduled for tomorrow.",
+      "She presented it well last year."
+    ],
+    "answer": 0,
+    "explanation": "What did you think of...?は感想を尋ねる質問なので、感想で答えます。BとCは時制や内容がずれています。",
+    "level": 550
+  },
+  {
+    "id": "l2021",
+    "question": "How much does it cost to renew our software license?",
+    "choices": [
+      "About two hundred dollars per year.",
+      "We renewed it last week.",
+      "The software works fine now."
+    ],
+    "answer": 0,
+    "explanation": "How much(いくら)には金額で答えます。BとCは費用について答えていません。",
+    "level": 500
+  },
+  {
+    "id": "l2022",
+    "question": "Who's going to represent our department at the conference?",
+    "choices": [
+      "I believe Mr. Tanaka will attend.",
+      "The conference is in Chicago.",
+      "It lasts three days."
+    ],
+    "answer": 0,
+    "explanation": "Whoの質問には人物で答えます。BとCは場所・期間についての応答であり不適切です。",
+    "level": 500
+  },
+  {
+    "id": "l2023",
+    "question": "Didn't you already order the office supplies for next month?",
+    "choices": [
+      "Yes, I placed the order this morning.",
+      "The supplies arrived broken.",
+      "We need more paper and pens."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文にも通常通り答えます。「はい、今朝注文しました」が最も自然な応答です。",
+    "level": 600
+  },
+  {
+    "id": "l2024",
+    "question": "What's the best way to get to the train station from here?",
+    "choices": [
+      "Just take the second left and go straight.",
+      "The train arrives at noon.",
+      "I usually take the bus to work."
+    ],
+    "answer": 0,
+    "explanation": "道順を尋ねる質問には具体的な行き方で答えます。BとCは質問の意図からずれています。",
+    "level": 550
+  },
+  {
+    "id": "l2025",
+    "question": "Are you attending the workshop this afternoon or tomorrow morning?",
+    "choices": [
+      "I'll go this afternoon.",
+      "Yes, I'm attending.",
+      "The workshop was very useful."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文にはどちらかを選んで答えます。単なるYes(B)は不十分な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2026",
+    "question": "This new coffee machine makes great coffee, doesn't it?",
+    "choices": [
+      "It really does. I love it.",
+      "I don't drink coffee.",
+      "The machine was expensive."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文には同意・不同意で自然に答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2027",
+    "question": "Have the new employees completed their orientation yet?",
+    "choices": [
+      "Yes, they finished it this morning.",
+      "There are five new employees.",
+      "The orientation lasts two days."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No疑問文なので直接的に完了したかどうかを答えるAが正解です。",
+    "level": 500
+  },
+  {
+    "id": "l2028",
+    "question": "Would you rather have the meeting in person or by video call?",
+    "choices": [
+      "I'd prefer video call, if that's okay.",
+      "The meeting is at three.",
+      "I already attended the meeting."
+    ],
+    "answer": 0,
+    "explanation": "Would you rather A or B?の選択疑問文には、どちらかを選んで答えます。",
+    "level": 600
+  },
+  {
+    "id": "l2029",
+    "question": "Do you have any idea why the shipment is delayed?",
+    "choices": [
+      "I heard there was a customs issue.",
+      "The shipment weighs ten kilograms.",
+      "It should arrive on Monday."
+    ],
+    "answer": 0,
+    "explanation": "間接疑問文の中身はWhy(なぜ)の質問なので、理由で答えるのが適切です。Cは「いつ」に対する応答であり不十分です。",
+    "level": 600
+  },
+  {
+    "id": "l2030",
+    "question": "Isn't the deadline for the proposal next Wednesday?",
+    "choices": [
+      "Actually, it was moved to Friday.",
+      "The proposal is twenty pages long.",
+      "I submitted my proposal already."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文にも通常通り答えます。締め切りの日付について「実は金曜日に変更されました」と訂正しているAが自然な応答です。",
+    "level": 600
+  }
+]
