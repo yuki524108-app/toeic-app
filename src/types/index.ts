@@ -13,6 +13,7 @@ export type GrammarQuestion = {
   answer: number; // choices のインデックス
   explanation: string;
   level: number;
+  category: string; // 文法項目（弱点分析用）。例：時制、前置詞、関係詞 など
 };
 
 export type ReadingQuestion = {
@@ -42,8 +43,24 @@ export type ItemType =
   | "grammar"
   | "reading"
   | "part6"
+  | "listeningPart1"
   | "listeningPart2"
   | "listeningPart34";
+
+/**
+ * Part 1（写真描写問題）。写真1枚につき4つの英文（音声のみ、テキストは解答後に開示）から
+ * 最も適切に写真を描写しているものを選ぶ。写真は著作権フリー素材の代わりに、
+ * アプリ内で完結するオリジナルのSVGイラスト（`image`にSVGマークアップを直接格納）を使用する。
+ * 詳細は要件定義書 2.1.9 を参照。
+ */
+export type ListeningPart1Item = {
+  id: string;
+  image: string; // 自己完結したSVGマークアップ（<svg>...</svg>）
+  choices: [string, string, string, string]; // 写真を描写する4つの英文（A〜D）
+  answer: number; // 0-3
+  explanation: string;
+  level: number;
+};
 
 export type ListeningPart2Question = {
   id: string;
@@ -110,6 +127,7 @@ export type DailyLog = {
   grammarStudied: number;
   readingsStudied: number;
   part6Studied: number;
+  listeningPart1Studied: number;
   listeningPart2Studied: number;
   listeningPart34Studied: number;
 };

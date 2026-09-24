@@ -3,12 +3,14 @@ import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
 import readings from "../data/readings.json";
 import part6Data from "../data/part6.json";
+import listeningPart1Items from "../data/listeningPart1.json";
 import listeningPart2Questions from "../data/listeningPart2.json";
 import listeningPart34Sets from "../data/listeningPart34.json";
 import type {
   AppData,
   ReadingPassage,
   Part6Passage,
+  ListeningPart1Item,
   ListeningPart2Question,
   ListeningPart34Set,
 } from "../types";
@@ -21,6 +23,7 @@ const part6Passages = (part6Data as Part6Passage[]).map((p) => ({
   ...p,
   questions: p.blanks,
 }));
+const listeningPart1 = listeningPart1Items as ListeningPart1Item[];
 const listeningPart2 = listeningPart2Questions as ListeningPart2Question[];
 const listeningPart34 = listeningPart34Sets as ListeningPart34Set[];
 
@@ -33,6 +36,8 @@ export default function Review({ data }: { data: AppData }) {
   const readingBookmarked = filterPassagesByMode(readingPassages, data, "bookmarked").length;
   const part6Incorrect = filterPassagesByMode(part6Passages, data, "incorrect").length;
   const part6Bookmarked = filterPassagesByMode(part6Passages, data, "bookmarked").length;
+  const listeningPart1Incorrect = filterByMode(listeningPart1, data, "incorrect").length;
+  const listeningPart1Bookmarked = filterByMode(listeningPart1, data, "bookmarked").length;
   const listeningPart2Incorrect = filterByMode(listeningPart2, data, "incorrect").length;
   const listeningPart2Bookmarked = filterByMode(listeningPart2, data, "bookmarked").length;
   const listeningPart34Incorrect = filterPassagesByMode(listeningPart34, data, "incorrect").length;
@@ -87,6 +92,16 @@ export default function Review({ data }: { data: AppData }) {
           all: part6Passages.length,
           incorrect: part6Incorrect,
           bookmarked: part6Bookmarked,
+        }}
+        hasRecommendation={false}
+      />
+      <ReviewSection
+        title="リスニング（Part 1）"
+        studyPath="/listening-part1"
+        counts={{
+          all: listeningPart1.length,
+          incorrect: listeningPart1Incorrect,
+          bookmarked: listeningPart1Bookmarked,
         }}
         hasRecommendation={false}
       />

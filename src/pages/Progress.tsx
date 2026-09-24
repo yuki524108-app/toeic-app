@@ -7,7 +7,10 @@ import {
   YAxis,
   Tooltip,
 } from "recharts";
-import type { AppData } from "../types";
+import grammarQuestions from "../data/grammar.json";
+import type { AppData, GrammarQuestion } from "../types";
+
+const grammarData = grammarQuestions as GrammarQuestion[];
 
 export default function ProgressPage({ data }: { data: AppData }) {
   const records = Object.values(data.progress);
@@ -16,6 +19,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
   const grammarRecords = records.filter((r) => r.itemType === "grammar");
   const readingRecords = records.filter((r) => r.itemType === "reading");
   const part6Records = records.filter((r) => r.itemType === "part6");
+  const listeningPart1Records = records.filter((r) => r.itemType === "listeningPart1");
   const listeningPart2Records = records.filter((r) => r.itemType === "listeningPart2");
   const listeningPart34Records = records.filter((r) => r.itemType === "listeningPart34");
 
@@ -30,6 +34,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
   const grammarAccuracy = accuracy(grammarRecords);
   const readingAccuracy = accuracy(readingRecords);
   const part6Accuracy = accuracy(part6Records);
+  const listeningPart1Accuracy = accuracy(listeningPart1Records);
   const listeningPart2Accuracy = accuracy(listeningPart2Records);
   const listeningPart34Accuracy = accuracy(listeningPart34Records);
 
@@ -49,6 +54,26 @@ export default function ProgressPage({ data }: { data: AppData }) {
     return buckets;
   }, [records]);
 
+  // 文法項目別の正答率（弱点分析）
+  const grammarCategoryStats = useMemo(() => {
+    const categoryById = new Map(grammarData.map((g) => [g.id, g.category]));
+    const buckets: Record<string, { correct: number; total: number }> = {};
+    for (const r of grammarRecords) {
+      const category = categoryById.get(r.itemId) ?? "語彙・イディオム";
+      if (!buckets[category]) buckets[category] = { correct: 0, total: 0 };
+      buckets[category].total += 1;
+      if (r.isCorrect) buckets[category].correct += 1;
+    }
+    return Object.entries(buckets)
+      .map(([category, { correct, total }]) => ({
+        category,
+        correct,
+        total,
+        pct: total === 0 ? 0 : Math.round((correct / total) * 100),
+      }))
+      .sort((a, b) => a.pct - b.pct); // 正答率が低い項目を上に表示
+  }, [grammarRecords]);
+
   // 直近14日の学習量
   const chartData = useMemo(() => {
     const days: { date: string; label: string; count: number }[] = [];
@@ -65,6 +90,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
             log.grammarStudied +
             log.readingsStudied +
             log.part6Studied +
+            log.listeningPart1Studied +
             log.listeningPart2Studied +
             log.listeningPart34Studied
           : 0,
@@ -92,6 +118,7 @@ export default function ProgressPage({ data }: { data: AppData }) {
             <StatCard label="文法 正答率" value={grammarAccuracy} />
             <StatCard label="リーディング 正答率" value={readingAccuracy} />
             <StatCard label="Part 6 正答率" value={part6Accuracy} />
+            <StatCard label="リスニング Part 1 正答率" value={listeningPart1Accuracy} />
             <StatCard label="リスニング Part 2 正答率" value={listeningPart2Accuracy} />
             <StatCard label="リスニング Part 3・4 正答率" value={listeningPart34Accuracy} />
           </div>
@@ -149,6 +176,46 @@ export default function ProgressPage({ data }: { data: AppData }) {
               })}
             </div>
           </div>
+
+          {grammarCategoryStats.length > 0 && (
+            <div className="mt-8">
+              <h2 className="text-sm font-medium text-(--color-ink)">
+                文法項目別の正答率（弱点分析）
+              </h2>
+              <p className="mt-1 text-xs text-(--color-muted)">
+                正答率が低い項目ほど上に表示されます
+              </p>
+              <div className="mt-3 space-y-3">
+                {grammarCategoryStats.map(({ category, correct, total, pct }) => (
+                  <div key={category}>
+                    <div className="flex justify-between text-xs text-(--color-muted)">
+                      <span>
+                        {category}
+                        <span className="ml-1 text-(--color-line)">
+                          （{correct}/{total}問）
+                        </span>
+                      </span>
+                      <span
+                        className={
+                          pct < 60 ? "font-medium text-(--color-incorrect)" : ""
+                        }
+                      >
+                        {pct}%
+                      </span>
+                    </div>
+                    <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
+                      <div
+                        className={`h-full ${
+                          pct < 60 ? "bg-(--color-incorrect)" : "bg-(--color-gold)"
+                        }`}
+                        style={{ width: `${pct}%` }}
+                      />
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </>
       )}
     </div>

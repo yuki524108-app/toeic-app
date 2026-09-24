@@ -1,23 +1,34 @@
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
 import readings from "../data/readings.json";
 import part6Data from "../data/part6.json";
+import listeningPart1Items from "../data/listeningPart1.json";
 import listeningPart2Questions from "../data/listeningPart2.json";
 import listeningPart34Sets from "../data/listeningPart34.json";
 import type {
   AppData,
   ReadingPassage,
   Part6Passage,
+  ListeningPart1Item,
   ListeningPart2Question,
   ListeningPart34Set,
 } from "../types";
 import { isDueToday } from "../lib/spacedRepetition";
 import { estimateScore } from "../lib/scoreEstimate";
 import { estimateAbilityLevel } from "../lib/recommendation";
+import {
+  isReminderSupported,
+  isReminderEnabled,
+  enableReminder,
+  disableReminder,
+  maybeShowDueReminder,
+} from "../lib/reminder";
 
 const readingPassages = readings as ReadingPassage[];
 const part6Passages = part6Data as Part6Passage[];
+const listeningPart1 = listeningPart1Items as ListeningPart1Item[];
 const listeningPart2 = listeningPart2Questions as ListeningPart2Question[];
 const listeningPart34 = listeningPart34Sets as ListeningPart34Set[];
 
@@ -32,6 +43,9 @@ export default function Home({ data }: { data: AppData }) {
   const part6Due = part6Passages.filter((p) =>
     p.blanks.some((b) => isDueToday(data.progress[b.id]))
   ).length;
+  const listeningPart1Due = listeningPart1.filter((it) =>
+    isDueToday(data.progress[it.id])
+  ).length;
   const listeningPart2Due = listeningPart2.filter((q) =>
     isDueToday(data.progress[q.id])
   ).length;
@@ -42,6 +56,34 @@ export default function Home({ data }: { data: AppData }) {
   const estimate = estimateScore(data.progress);
   const ability = estimateAbilityLevel(data.progress);
   const hasTakenPlacementTest = data.placementTestCompletedAt !== null;
+
+  const totalDue =
+    wordsDue +
+    grammarDue +
+    readingDue +
+    part6Due +
+    listeningPart1Due +
+    listeningPart2Due +
+    listeningPart34Due;
+
+  const [reminderOn, setReminderOn] = useState(false);
+  useEffect(() => {
+    setReminderOn(isReminderEnabled());
+  }, []);
+  useEffect(() => {
+    maybeShowDueReminder(totalDue);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  async function handleToggleReminder() {
+    if (reminderOn) {
+      disableReminder();
+      setReminderOn(false);
+    } else {
+      const ok = await enableReminder();
+      setReminderOn(ok);
+    }
+  }
 
   const today = new Date().toLocaleDateString("ja-JP", {
     month: "long",
@@ -203,6 +245,26 @@ export default function Home({ data }: { data: AppData }) {
         </Link>
 
         <Link
+          to="/listening-part1"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <div className="flex items-center gap-1.5">
+              <p className="font-medium text-(--color-ink)">リスニング（Part 1）</p>
+              <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+                NEW
+              </span>
+            </div>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {listeningPart1Due > 0 ? `本日 ${listeningPart1Due} 問` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {listeningPart1Due}
+          </span>
+        </Link>
+
+        <Link
           to="/listening-part2"
           className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
         >
@@ -248,6 +310,40 @@ export default function Home({ data }: { data: AppData }) {
         className="mt-6 flex items-center justify-between rounded-sm border border-dashed border-(--color-line) px-5 py-3.5 text-sm text-(--color-ink-soft)"
       >
         <span>間違えた問題・ブックマークを復習する</span>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
+
+      {isReminderSupported() && (
+        <div className="mt-3 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) px-5 py-3.5">
+          <div>
+            <p className="text-sm font-medium text-(--color-ink)">
+              復習リマインダー
+            </p>
+            <p className="mt-0.5 text-xs leading-relaxed text-(--color-muted)">
+              このアプリを開いたときに、復習が残っていれば通知します
+            </p>
+          </div>
+          <button
+            onClick={handleToggleReminder}
+            aria-pressed={reminderOn}
+            className={`relative h-6 w-11 flex-none rounded-full transition-colors ${
+              reminderOn ? "bg-(--color-gold)" : "bg-(--color-line)"
+            }`}
+          >
+            <span
+              className={`absolute top-0.5 h-5 w-5 rounded-full bg-(--color-paper) transition-transform ${
+                reminderOn ? "translate-x-5" : "translate-x-0.5"
+              }`}
+            />
+          </button>
+        </div>
+      )}
+
+      <Link
+        to="/progress"
+        className="mt-3 flex items-center justify-between rounded-sm border border-dashed border-(--color-line) px-5 py-3.5 text-sm text-(--color-ink-soft)"
+      >
+        <span>弱点分析を見る（文法項目・レベル別の正答率）</span>
         <span className="text-(--color-gold)">→</span>
       </Link>
 

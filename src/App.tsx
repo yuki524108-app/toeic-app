@@ -5,6 +5,7 @@ import WordStudy from "./pages/WordStudy";
 import GrammarStudy from "./pages/GrammarStudy";
 import ReadingStudy from "./pages/ReadingStudy";
 import Part6Study from "./pages/Part6Study";
+import ListeningPart1Study from "./pages/ListeningPart1Study";
 import ListeningPart2Study from "./pages/ListeningPart2Study";
 import ListeningPart34Study from "./pages/ListeningPart34Study";
 import Review from "./pages/Review";
@@ -55,6 +56,16 @@ function App() {
             path="/part6"
             element={
               <Part6Study
+                data={data}
+                onAnswer={recordAnswer}
+                onToggleBookmark={toggleBookmark}
+              />
+            }
+          />
+          <Route
+            path="/listening-part1"
+            element={
+              <ListeningPart1Study
                 data={data}
                 onAnswer={recordAnswer}
                 onToggleBookmark={toggleBookmark}

@@ -48,6 +48,7 @@ export function recordAnswer(
     grammarStudied: 0,
     readingsStudied: 0,
     part6Studied: 0,
+    listeningPart1Studied: 0,
     listeningPart2Studied: 0,
     listeningPart34Studied: 0,
   };
@@ -55,6 +56,7 @@ export function recordAnswer(
   else if (record.itemType === "grammar") log.grammarStudied += 1;
   else if (record.itemType === "reading") log.readingsStudied += 1;
   else if (record.itemType === "part6") log.part6Studied += 1;
+  else if (record.itemType === "listeningPart1") log.listeningPart1Studied += 1;
   else if (record.itemType === "listeningPart2") log.listeningPart2Studied += 1;
   else log.listeningPart34Studied += 1;
   next.dailyLogs[date] = log;
