@@ -103,7 +103,9 @@ export default function PlacementTest({
   }
 
   if (isDone) {
-    const estimate = estimateScore(data.progress);
+    // 初回模試は単語・文法（＝リーディングセクション相当）のみを出題するため、
+    // ここではリーディングの目安スコアのみを表示する（リスニングは別途学習が必要）。
+    const estimate = estimateScore(data.progress).reading;
     return (
       <div className="mx-auto flex max-w-md flex-col items-center px-5 pb-28 pt-20 text-center">
         <p className="text-sm text-(--color-muted)">模試が完了しました</p>
@@ -113,12 +115,15 @@ export default function PlacementTest({
 
         {estimate.status === "ok" && (
           <div className="mt-6 w-full rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-6">
-            <p className="text-xs text-(--color-muted)">現時点の目安スコア</p>
+            <p className="text-xs text-(--color-muted)">現時点の目安スコア（文法・語彙）</p>
             <p className="mt-1 font-(family-name:--font-display) text-4xl font-semibold text-(--color-gold)">
               {estimate.score}
               <span className="ml-1 text-sm font-normal text-(--color-muted)">
                 / 495点
               </span>
+            </p>
+            <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+              リスニングの学習を進めると、ホーム画面でリーディングと合算した総合スコアも表示されます
             </p>
           </div>
         )}
