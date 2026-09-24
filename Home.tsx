@@ -173,7 +173,7 @@ export default function Home({ data }: { data: AppData }) {
         </div>
       )}
 
-      {/* 学習メニュー */}
+      {/* 学習メニュー：単語を最初に置き、以降は本番TOEICのPart番号順（Part1〜Part7）に並べる */}
       <div className="mt-8 space-y-3">
         <Link
           to="/words"
@@ -187,51 +187,6 @@ export default function Home({ data }: { data: AppData }) {
           </div>
           <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
             {wordsDue}
-          </span>
-        </Link>
-
-        <Link
-          to="/grammar"
-          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
-        >
-          <div>
-            <p className="font-medium text-(--color-ink)">文法問題</p>
-            <p className="mt-0.5 text-sm text-(--color-muted)">
-              {grammarDue > 0 ? `本日 ${grammarDue} 問` : "本日の分は完了"}
-            </p>
-          </div>
-          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
-            {grammarDue}
-          </span>
-        </Link>
-
-        <Link
-          to="/reading"
-          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
-        >
-          <div>
-            <p className="font-medium text-(--color-ink)">リーディング</p>
-            <p className="mt-0.5 text-sm text-(--color-muted)">
-              {readingDue > 0 ? `本日 ${readingDue} パッセージ` : "本日の分は完了"}
-            </p>
-          </div>
-          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
-            {readingDue}
-          </span>
-        </Link>
-
-        <Link
-          to="/part6"
-          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
-        >
-          <div>
-            <p className="font-medium text-(--color-ink)">長文穴埋め（Part 6）</p>
-            <p className="mt-0.5 text-sm text-(--color-muted)">
-              {part6Due > 0 ? `本日 ${part6Due} パッセージ` : "本日の分は完了"}
-            </p>
-          </div>
-          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
-            {part6Due}
           </span>
         </Link>
 
@@ -292,6 +247,51 @@ export default function Home({ data }: { data: AppData }) {
           </div>
           <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
             {listeningPart34Due}
+          </span>
+        </Link>
+
+        <Link
+          to="/grammar"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <p className="font-medium text-(--color-ink)">文法問題（Part 5）</p>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {grammarDue > 0 ? `本日 ${grammarDue} 問` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {grammarDue}
+          </span>
+        </Link>
+
+        <Link
+          to="/part6"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <p className="font-medium text-(--color-ink)">長文穴埋め（Part 6）</p>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {part6Due > 0 ? `本日 ${part6Due} パッセージ` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {part6Due}
+          </span>
+        </Link>
+
+        <Link
+          to="/reading"
+          className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+        >
+          <div>
+            <p className="font-medium text-(--color-ink)">リーディング（Part 7）</p>
+            <p className="mt-0.5 text-sm text-(--color-muted)">
+              {readingDue > 0 ? `本日 ${readingDue} パッセージ` : "本日の分は完了"}
+            </p>
+          </div>
+          <span className="font-(family-name:--font-display) text-2xl text-(--color-gold)">
+            {readingDue}
           </span>
         </Link>
       </div>
