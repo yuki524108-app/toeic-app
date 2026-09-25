@@ -132,6 +132,24 @@ export type DailyLog = {
   listeningPart34Studied: number;
 };
 
+/**
+ * 模試モード（2.3節）の1回分の受験結果。リーディング・リスニング各セクションの
+ * 正誤数と目安スコア（5〜495点）、およびそれらを合算した総合スコア（5〜990点）を保持する。
+ */
+export type MockTestSectionResult = {
+  correct: number;
+  total: number;
+  score: number; // 5-495
+};
+
+export type MockTestResult = {
+  id: string; // 受験完了日時（ISO）をそのままidとして使う
+  completedAt: string; // ISO datetime
+  listening: MockTestSectionResult;
+  reading: MockTestSectionResult;
+  totalScore: number; // 5-990（reading.score + listening.score）
+};
+
 export type AppData = {
   progress: Record<string, ProgressRecord>;
   dailyLogs: Record<string, DailyLog>;
@@ -139,6 +157,7 @@ export type AppData = {
   lastStudyDate: string | null;
   bookmarks: string[]; // ブックマークした単語/文法問題のid一覧
   placementTestCompletedAt: string | null; // 初回模試を完了した日時（ISO）。未実施ならnull
+  mockTestHistory: MockTestResult[]; // 模試モードの受験履歴（新しい順ではなく受験順に追加）
 };
 
 /** 学習キューの絞り込み方法。recommended はページ側で専用ロジックにより算出する */

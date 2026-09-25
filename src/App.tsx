@@ -11,11 +11,17 @@ import ListeningPart34Study from "./pages/ListeningPart34Study";
 import Review from "./pages/Review";
 import ProgressPage from "./pages/Progress";
 import PlacementTest from "./pages/PlacementTest";
+import MockTest from "./pages/MockTest";
 import { useAppData } from "./lib/useAppData";
 
 function App() {
-  const { data, recordAnswer, toggleBookmark, completePlacementTest } =
-    useAppData();
+  const {
+    data,
+    recordAnswer,
+    toggleBookmark,
+    completePlacementTest,
+    recordMockTestResult,
+  } = useAppData();
 
   return (
     <HashRouter>
@@ -101,6 +107,16 @@ function App() {
                 data={data}
                 onAnswer={recordAnswer}
                 onComplete={completePlacementTest}
+              />
+            }
+          />
+          <Route
+            path="/mock-test"
+            element={
+              <MockTest
+                data={data}
+                onAnswer={recordAnswer}
+                onRecordResult={recordMockTestResult}
               />
             }
           />

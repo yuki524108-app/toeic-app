@@ -1,4 +1,4 @@
-import type { AppData, ProgressRecord } from "../types";
+import type { AppData, MockTestResult, ProgressRecord } from "../types";
 
 const STORAGE_KEY = "toeic-drill-data-v1";
 
@@ -9,6 +9,7 @@ const EMPTY_DATA: AppData = {
   lastStudyDate: null,
   bookmarks: [],
   placementTestCompletedAt: null,
+  mockTestHistory: [],
 };
 
 export function loadData(): AppData {
@@ -86,6 +87,16 @@ export function toggleBookmark(data: AppData, itemId: string): AppData {
 export function completePlacementTest(data: AppData): AppData {
   const next: AppData = structuredClone(data);
   next.placementTestCompletedAt = new Date().toISOString();
+  saveData(next);
+  return next;
+}
+
+export function recordMockTestResult(
+  data: AppData,
+  result: MockTestResult
+): AppData {
+  const next: AppData = structuredClone(data);
+  next.mockTestHistory = [...next.mockTestHistory, result];
   saveData(next);
   return next;
 }

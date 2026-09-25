@@ -43,6 +43,27 @@ export type SectionScoreEstimate =
   | { status: "ok"; score: number; accuracy: number; sampleSize: number };
 
 /**
+ * 正解した問題の難易度一覧と全体の設問数から目安スコア(5-495)を算出する共通ロジック。
+ * 通常の進捗ベース推定（`estimateSectionScore`、直近の解答履歴を使用）と、
+ * 模試モード（`src/lib/mockTest.ts`、1回分の受験結果を使用）の両方から利用される。
+ */
+export function scoreFromResults(
+  correctItemLevels: number[],
+  totalCount: number
+): number {
+  if (totalCount === 0) return 5;
+  const accuracy = correctItemLevels.length / totalCount;
+  const baseScore = accuracyToScore(accuracy);
+  const avgLevel =
+    correctItemLevels.length > 0
+      ? correctItemLevels.reduce((sum, l) => sum + l, 0) /
+        correctItemLevels.length
+      : 600;
+  const levelAdjustment = (avgLevel - 600) * 0.05;
+  return Math.round(Math.min(495, Math.max(5, baseScore + levelAdjustment)));
+}
+
+/**
  * 1セクション分（リーディング or リスニング）の解答履歴から目安スコア(5-495)を推定する。
  * 直近50問の正答率をベースに、正解した問題の難易度で補正するS字カーブ方式。
  */
@@ -58,17 +79,9 @@ function estimateSectionScore(records: ProgressRecord[]): SectionScoreEstimate {
   const recent = records.slice(-WINDOW_SIZE);
   const correct = recent.filter((r) => r.isCorrect);
   const accuracy = correct.length / recent.length;
-
-  const baseScore = accuracyToScore(accuracy);
-
-  const avgLevel =
-    correct.length > 0
-      ? correct.reduce((sum, r) => sum + r.itemLevel, 0) / correct.length
-      : 600;
-  const levelAdjustment = (avgLevel - 600) * 0.05;
-
-  const score = Math.round(
-    Math.min(495, Math.max(5, baseScore + levelAdjustment))
+  const score = scoreFromResults(
+    correct.map((r) => r.itemLevel),
+    recent.length
   );
 
   return { status: "ok", score, accuracy, sampleSize: recent.length };

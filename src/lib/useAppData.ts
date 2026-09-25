@@ -1,10 +1,11 @@
 import { useCallback, useState } from "react";
-import type { AppData, ProgressRecord } from "../types";
+import type { AppData, MockTestResult, ProgressRecord } from "../types";
 import {
   loadData,
   recordAnswer as persistAnswer,
   toggleBookmark as persistToggleBookmark,
   completePlacementTest as persistCompletePlacementTest,
+  recordMockTestResult as persistRecordMockTestResult,
 } from "./storage";
 
 export function useAppData() {
@@ -22,9 +23,20 @@ export function useAppData() {
     setData((prev) => persistCompletePlacementTest(prev));
   }, []);
 
+  const recordMockTestResult = useCallback((result: MockTestResult) => {
+    setData((prev) => persistRecordMockTestResult(prev, result));
+  }, []);
+
   const refresh = useCallback(() => {
     setData(loadData());
   }, []);
 
-  return { data, recordAnswer, toggleBookmark, completePlacementTest, refresh };
+  return {
+    data,
+    recordAnswer,
+    toggleBookmark,
+    completePlacementTest,
+    recordMockTestResult,
+    refresh,
+  };
 }

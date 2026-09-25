@@ -149,6 +149,27 @@ export default function Home({ data }: { data: AppData }) {
         </div>
       )}
 
+      {/* 模試モード：本番同様の時間制限・通し形式（200問・約2時間） */}
+      <Link
+        to="/mock-test"
+        className="mt-4 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+      >
+        <div>
+          <div className="flex items-center gap-1.5">
+            <p className="font-medium text-(--color-ink)">模試モード</p>
+            <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+              NEW
+            </span>
+          </div>
+          <p className="mt-0.5 text-sm text-(--color-muted)">
+            {data.mockTestHistory.length > 0
+              ? `本番同様200問・約2時間で力試し（受験${data.mockTestHistory.length}回）`
+              : "本番同様200問・約2時間で力試し"}
+          </p>
+        </div>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
+
       {/* おすすめ問題 */}
       {hasTakenPlacementTest && ability.status === "ok" && (
         <div className="mt-4 grid grid-cols-2 gap-3">
