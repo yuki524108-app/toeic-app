@@ -2198,5 +2198,830 @@
         "level": 600
       }
     ]
+  },
+  {
+    "id": "p641",
+    "title": "社内メモ：休憩室の利用ルール変更",
+    "passage": "To All Staff,\n\nStarting next week, the break room will be (1) available from 7 a.m. to 8 p.m. to allow for evening cleaning. Employees are asked to wash their own dishes immediately (2) using them.\n\nThe refrigerator will be cleared out every Friday, so please label any food (3) you wish to keep over the weekend. Items left unlabeled will be (4) at the end of the day.\n\nThank you for helping us keep the break room clean.",
+    "blanks": [
+      {
+        "id": "p641b1",
+        "choices": [
+          "only",
+          "such",
+          "very",
+          "so"
+        ],
+        "answer": 0,
+        "explanation": "only available で「〜のみ利用可能」という意味の副詞が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p641b2",
+        "choices": [
+          "after",
+          "before",
+          "during",
+          "since"
+        ],
+        "answer": 0,
+        "explanation": "immediately after ~ing で「〜した直後に」という意味になります。",
+        "level": 450
+      },
+      {
+        "id": "p641b3",
+        "choices": [
+          "that",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 any food を受ける関係代名詞 that が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p641b4",
+        "choices": [
+          "discarded",
+          "discard",
+          "discarding",
+          "discards"
+        ],
+        "answer": 0,
+        "explanation": "will be discarded という受動態の過去分詞 discarded が正解です。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p642",
+    "title": "求人広告：物流センタースタッフ",
+    "passage": "Logistics Center Staff Needed\n\nSwiftCargo is looking for reliable workers to join our logistics center, (1) is located just outside the city. Duties include sorting packages, operating scanning equipment, and (2) accurate inventory records.\n\nNo prior experience is required, as full training will be (3) to all new hires. Candidates must be able to stand for extended periods and lift packages weighing up (4) 20 kilograms.\n\nInterested applicants should apply online today.",
+    "blanks": [
+      {
+        "id": "p642b1",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 our logistics center を受ける関係代名詞 which が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p642b2",
+        "choices": [
+          "maintaining",
+          "maintain",
+          "maintained",
+          "maintenance"
+        ],
+        "answer": 0,
+        "explanation": "andで並列される動名詞句のため maintaining が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p642b3",
+        "choices": [
+          "provided",
+          "provide",
+          "providing",
+          "provides"
+        ],
+        "answer": 0,
+        "explanation": "will be provided という受動態の過去分詞 provided が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p642b4",
+        "choices": [
+          "to",
+          "for",
+          "with",
+          "at"
+        ],
+        "answer": 0,
+        "explanation": "up to ~ で「最大〜まで」という意味の熟語表現になります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p643",
+    "title": "顧客への案内：定期購入プランの変更",
+    "passage": "Dear Subscriber,\n\nWe are updating our subscription plans to give you more flexibility. Beginning next month, you will be able to pause your subscription (1) canceling it entirely.\n\nIn addition, subscribers who choose the annual plan will receive a discount that is (2) than the one offered last year. If you would like to adjust your plan, please log in to your account, (3) you can review all available options.\n\nWe hope these changes make managing your subscription (4) convenient.",
+    "blanks": [
+      {
+        "id": "p643b1",
+        "choices": [
+          "instead of",
+          "because of",
+          "in spite of",
+          "regardless of"
+        ],
+        "answer": 0,
+        "explanation": "instead of ~ing で「〜する代わりに」という意味になります。",
+        "level": 500
+      },
+      {
+        "id": "p643b2",
+        "choices": [
+          "larger",
+          "large",
+          "largest",
+          "largely"
+        ],
+        "answer": 0,
+        "explanation": "than以下と比較する比較級 larger が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p643b3",
+        "choices": [
+          "where",
+          "which",
+          "when",
+          "who"
+        ],
+        "answer": 0,
+        "explanation": "場所を表す先行詞 your account を受ける関係副詞 where が正解です。",
+        "level": 600
+      },
+      {
+        "id": "p643b4",
+        "choices": [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        "answer": 0,
+        "explanation": "形容詞 convenient を修飾する比較級 more が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p644",
+    "title": "社内発表：新しいオフィス移転先の決定",
+    "passage": "To All Employees,\n\nAfter months of searching, we are pleased to announce that our new office (1) be located in the Riverside Business Park starting in January. The new space offers more natural light and (2) meeting rooms than our current office.\n\nA detailed floor plan will be shared once the design is finalized. Employees (3) have questions about the move are encouraged to contact the facilities team directly.\n\nWe look forward to this exciting (4) for our company.",
+    "blanks": [
+      {
+        "id": "p644b1",
+        "choices": [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        "answer": 0,
+        "explanation": "未来の予定を表す助動詞 will が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p644b2",
+        "choices": [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        "answer": 0,
+        "explanation": "than以下と比較する比較級 more が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p644b3",
+        "choices": [
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 Employees（人）を受ける関係代名詞 who が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p644b4",
+        "choices": [
+          "chapter",
+          "chapters",
+          "charity",
+          "character"
+        ],
+        "answer": 0,
+        "explanation": "文脈から「新しい章、節目」を意味する chapter が正解です。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p645",
+    "title": "雑誌記事：睡眠の質を高める方法",
+    "passage": "Better Sleep, Better Life\n\nMany people struggle to get enough sleep, but experts say that small changes can make a big difference. One recommendation is to avoid using electronic devices (1) going to bed, since the light they emit can interfere with sleep.\n\nExperts also suggest that people (2) go to bed and wake up at the same time every day, even on weekends. This helps regulate the body's internal clock.\n\nFinally, keeping the bedroom cool and dark is (3) important for achieving restful sleep. Following these tips consistently (4) improve sleep quality over time.",
+    "blanks": [
+      {
+        "id": "p645b1",
+        "choices": [
+          "before",
+          "after",
+          "during",
+          "since"
+        ],
+        "answer": 0,
+        "explanation": "寝る前を表す前置詞 before が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p645b2",
+        "choices": [
+          "should",
+          "would",
+          "might",
+          "could"
+        ],
+        "answer": 0,
+        "explanation": "推奨を表す文脈で should「〜すべきだ」が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p645b3",
+        "choices": [
+          "equally",
+          "equal",
+          "equality",
+          "equals"
+        ],
+        "answer": 0,
+        "explanation": "形容詞 important を修飾する副詞 equally「同様に」が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p645b4",
+        "choices": [
+          "can",
+          "must",
+          "shall",
+          "will"
+        ],
+        "answer": 0,
+        "explanation": "可能性を表す助動詞 can が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p646",
+    "title": "従業員への在宅勤務手当の支給案内",
+    "passage": "Memo to Remote Employees\n\nTo help cover costs associated with working from home, the company will now provide a monthly allowance (1) internet and utility expenses. This allowance will be added directly to your paycheck.\n\nEmployees do not need to submit receipts, as the amount is fixed (2) of actual expenses. However, the allowance may be adjusted in the future (3) company policy changes.\n\nIf you have any questions about this new benefit, (4) contact the HR department.",
+    "blanks": [
+      {
+        "id": "p646b1",
+        "choices": [
+          "for",
+          "to",
+          "with",
+          "of"
+        ],
+        "answer": 0,
+        "explanation": "allowance for ~ で「〜のための手当」という意味になります。",
+        "level": 450
+      },
+      {
+        "id": "p646b2",
+        "choices": [
+          "regardless",
+          "instead",
+          "despite",
+          "because"
+        ],
+        "answer": 0,
+        "explanation": "regardless of ~ で「〜に関わらず」という意味になります。",
+        "level": 550
+      },
+      {
+        "id": "p646b3",
+        "choices": [
+          "if",
+          "unless",
+          "although",
+          "despite"
+        ],
+        "answer": 0,
+        "explanation": "条件を表す接続詞 if「もし〜なら」が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p646b4",
+        "choices": [
+          "please",
+          "kindly",
+          "would",
+          "shall"
+        ],
+        "answer": 0,
+        "explanation": "丁寧な依頼を表す please が正解です。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "p647",
+    "title": "新しいモバイルアプリのセキュリティ強化案内",
+    "passage": "Security Update Notice\n\nWe have introduced new security features to protect your account. Starting today, you will be required to verify your identity (1) a one-time code whenever you log in from a new device.\n\nThis extra step is designed to prevent unauthorized access, even if your password (2) be compromised. We understand this may add a few seconds to the login process, but we believe it is worth the added protection.\n\nIf you have trouble receiving the verification code, please check that your phone number (3) up to date in your account settings. For further assistance, our support team is available (4) via live chat.",
+    "blanks": [
+      {
+        "id": "p647b1",
+        "choices": [
+          "using",
+          "use",
+          "used",
+          "uses"
+        ],
+        "answer": 0,
+        "explanation": "手段を表す分詞句 using「〜を使って」が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p647b2",
+        "choices": [
+          "should",
+          "would",
+          "must",
+          "will"
+        ],
+        "answer": 0,
+        "explanation": "万一の場合を表す should「万一〜であれば」が正解です。",
+        "level": 650
+      },
+      {
+        "id": "p647b3",
+        "choices": [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "answer": 0,
+        "explanation": "主語 your phone number（単数）に合わせて is が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p647b4",
+        "choices": [
+          "around the clock",
+          "once in a while",
+          "on and off",
+          "little by little"
+        ],
+        "answer": 0,
+        "explanation": "around the clock で「24時間体制で」という意味の熟語表現になります。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p648",
+    "title": "顧客満足度キャンペーンのお知らせ",
+    "passage": "Dear Customer,\n\nTo thank you for your continued support, we are launching a customer appreciation campaign (1) will run throughout the month of June. Every purchase made during this period will earn double loyalty points.\n\nIn addition, customers who spend over $100 in a single transaction will receive a free gift, (2) supplies last. This offer cannot be combined with any other discount or promotion.\n\nWe truly appreciate your loyalty and look forward to (3) you again soon. Thank you for choosing us, and happy (4)!",
+    "blanks": [
+      {
+        "id": "p648b1",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 a customer appreciation campaign を受ける関係代名詞 which が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p648b2",
+        "choices": [
+          "while",
+          "as long as",
+          "even though",
+          "unless"
+        ],
+        "answer": 1,
+        "explanation": "as long as ~ で「〜する限り」という条件を表す表現になります。",
+        "level": 550
+      },
+      {
+        "id": "p648b3",
+        "choices": [
+          "seeing",
+          "see",
+          "seen",
+          "saw"
+        ],
+        "answer": 0,
+        "explanation": "前置詞 to の後には動名詞が続くため seeing が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p648b4",
+        "choices": [
+          "shopping",
+          "shop",
+          "shopped",
+          "shops"
+        ],
+        "answer": 0,
+        "explanation": "happy shopping で「楽しいお買い物を」という定型表現になります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p649",
+    "title": "社内セミナー：ストレスマネジメント講座の告知",
+    "passage": "Wellness Seminar Announcement\n\nThe Human Resources Department is organizing a stress management seminar (1) will be held in the main conference room next Thursday. The session will cover practical techniques for managing workplace stress.\n\nEmployees who attend the full session will receive a certificate of completion, which can be added to their professional development record. Space is limited to thirty participants, so those interested (2) register as soon as possible.\n\nLight refreshments will be (3) before the session begins. We hope many of you will take advantage of this (4) opportunity.",
+    "blanks": [
+      {
+        "id": "p649b1",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 a stress management seminar を受ける関係代名詞 which が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p649b2",
+        "choices": [
+          "should",
+          "would",
+          "might",
+          "could"
+        ],
+        "answer": 0,
+        "explanation": "推奨を表す should「〜すべきだ」が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p649b3",
+        "choices": [
+          "served",
+          "serve",
+          "serving",
+          "serves"
+        ],
+        "answer": 0,
+        "explanation": "will be served という受動態の過去分詞 served が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p649b4",
+        "choices": [
+          "valuable",
+          "value",
+          "valuably",
+          "valuation"
+        ],
+        "answer": 0,
+        "explanation": "名詞 opportunity を修飾する形容詞 valuable「貴重な」が正解です。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p650",
+    "title": "オンライン注文のキャンセルポリシー変更",
+    "passage": "Update to Our Cancellation Policy\n\nEffective immediately, orders may be canceled free of charge within one hour of purchase. After this window, a small processing fee will apply, (1) the order has already shipped.\n\nTo cancel an order, simply log in to your account and select the order you wish (2) cancel. Refunds will be issued to the original payment method within five to seven business days.\n\nWe understand that plans can change, and we hope this updated policy makes shopping with us (3) flexible. If you need further assistance, our support team is always (4) to help.",
+    "blanks": [
+      {
+        "id": "p650b1",
+        "choices": [
+          "unless",
+          "although",
+          "so that",
+          "because"
+        ],
+        "answer": 0,
+        "explanation": "unless「〜しない限り」という条件を表す接続詞が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p650b2",
+        "choices": [
+          "to",
+          "for",
+          "of",
+          "in"
+        ],
+        "answer": 0,
+        "explanation": "wish to ~ で「〜したい」という意味の不定詞になります。",
+        "level": 450
+      },
+      {
+        "id": "p650b3",
+        "choices": [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        "answer": 0,
+        "explanation": "形容詞 flexible を修飾する比較級 more が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p650b4",
+        "choices": [
+          "ready",
+          "readily",
+          "readiness",
+          "readied"
+        ],
+        "answer": 0,
+        "explanation": "be動詞の補語となる形容詞 ready「準備ができている」が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p651",
+    "title": "求人広告：データ入力オペレーター",
+    "passage": "Data Entry Operator Wanted\n\nClearPath Insurance is seeking a detail-oriented data entry operator (1) join our claims processing team. The role involves entering customer information into our database accurately and efficiently.\n\nApplicants should be comfortable working with spreadsheets and have excellent typing (2). Previous experience in an office setting is preferred but not required.\n\nThis is a full-time position with opportunities for advancement (3) the company grows. Interested candidates should submit their resume (4) Friday.",
+    "blanks": [
+      {
+        "id": "p651b1",
+        "choices": [
+          "to",
+          "for",
+          "of",
+          "with"
+        ],
+        "answer": 0,
+        "explanation": "名詞を修飾する不定詞句 to join「加わるための」が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p651b2",
+        "choices": [
+          "skills",
+          "skill",
+          "skillful",
+          "skillfully"
+        ],
+        "answer": 0,
+        "explanation": "所有格 typing の後に置かれる複数名詞 skills が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p651b3",
+        "choices": [
+          "as",
+          "so",
+          "but",
+          "or"
+        ],
+        "answer": 0,
+        "explanation": "as「〜するにつれて」という意味の接続詞が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p651b4",
+        "choices": [
+          "by",
+          "until",
+          "since",
+          "from"
+        ],
+        "answer": 0,
+        "explanation": "期限を表す前置詞 by「〜までに」が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p652",
+    "title": "顧客への案内：会員ランク制度の導入",
+    "passage": "Dear Valued Customer,\n\nWe are excited to introduce a new membership tier system designed to reward our most loyal customers. Members will be placed into one of three tiers (1) on their annual spending.\n\nHigher tiers will enjoy benefits such as early access to sales and free shipping on all orders. Your current tier status can be viewed (2) logging into your account.\n\nWe believe this new system will make your shopping experience even (3) rewarding. Thank you for being a customer (4) we truly value.",
+    "blanks": [
+      {
+        "id": "p652b1",
+        "choices": [
+          "based",
+          "base",
+          "basing",
+          "bases"
+        ],
+        "answer": 0,
+        "explanation": "based on ~ で「〜に基づいて」という意味の過去分詞句になります。",
+        "level": 550
+      },
+      {
+        "id": "p652b2",
+        "choices": [
+          "by",
+          "with",
+          "for",
+          "at"
+        ],
+        "answer": 0,
+        "explanation": "手段を表す by ~ing「〜することによって」が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p652b3",
+        "choices": [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        "answer": 0,
+        "explanation": "形容詞 rewarding を修飾する比較級 more が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p652b4",
+        "choices": [
+          "whom",
+          "who",
+          "which",
+          "whose"
+        ],
+        "answer": 0,
+        "explanation": "目的格の関係代名詞 whom が先行詞 a customer を受けています。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "p653",
+    "title": "社内発表：新しい表彰制度について",
+    "passage": "Introducing Our New Recognition Program\n\nWe are pleased to announce a new employee recognition program (1) will launch next month. Employees who demonstrate outstanding performance or teamwork will be nominated by their managers.\n\nWinners will be announced at the end of each quarter and will receive a certificate along with a monetary bonus. Nominations can be submitted (2) the online portal starting Monday.\n\nWe believe recognizing hard work is essential (3) maintaining a motivated workforce. We look forward to celebrating many well-deserved (4) throughout the year.",
+    "blanks": [
+      {
+        "id": "p653b1",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 a new employee recognition program を受ける関係代名詞 which が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p653b2",
+        "choices": [
+          "through",
+          "for",
+          "by",
+          "of"
+        ],
+        "answer": 0,
+        "explanation": "through ~ で「〜を通じて」という意味の前置詞になります。",
+        "level": 500
+      },
+      {
+        "id": "p653b3",
+        "choices": [
+          "to",
+          "for",
+          "in",
+          "of"
+        ],
+        "answer": 1,
+        "explanation": "essential for ~ing で「〜するために不可欠な」という意味になります。",
+        "level": 500
+      },
+      {
+        "id": "p653b4",
+        "choices": [
+          "winners",
+          "winner",
+          "winning",
+          "won"
+        ],
+        "answer": 0,
+        "explanation": "many の後に置かれる複数名詞 winners が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p654",
+    "title": "イベント案内：新製品ローンチパーティー",
+    "passage": "You're Invited: Product Launch Party\n\nJoin us as we celebrate the launch of our newest product line at an exclusive party (1) will take place next Friday evening at our headquarters.\n\nGuests will have the opportunity to see live demonstrations and speak directly (2) the design team behind the new products. Light refreshments and drinks will be served throughout the evening.\n\nSpace is limited, so please RSVP (3) this Wednesday to secure your spot. We look forward to (4) you there.",
+    "blanks": [
+      {
+        "id": "p654b1",
+        "choices": [
+          "which",
+          "what",
+          "who",
+          "whom"
+        ],
+        "answer": 0,
+        "explanation": "先行詞 an exclusive party を受ける関係代名詞 which が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p654b2",
+        "choices": [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        "answer": 0,
+        "explanation": "speak with ~ で「〜と話す」という意味になります。",
+        "level": 450
+      },
+      {
+        "id": "p654b3",
+        "choices": [
+          "by",
+          "until",
+          "since",
+          "from"
+        ],
+        "answer": 0,
+        "explanation": "期限を表す前置詞 by「〜までに」が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p654b4",
+        "choices": [
+          "seeing",
+          "see",
+          "seen",
+          "saw"
+        ],
+        "answer": 0,
+        "explanation": "前置詞 to の後には動名詞が続くため seeing が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p655",
+    "title": "社内メモ：清掃業者変更のお知らせ",
+    "passage": "Memo to All Staff\n\nPlease be advised that, starting next month, our office cleaning service will be handled by a new company. This change was made (1) improve the quality and consistency of our cleaning services.\n\nThe new cleaning crew will work during the same hours as before, so there should be (2) noticeable disruption to daily operations. If you notice any areas that need extra attention, please let facilities know so they (3) be addressed promptly.\n\nWe appreciate your patience during this (4).",
+    "blanks": [
+      {
+        "id": "p655b1",
+        "choices": [
+          "to",
+          "for",
+          "so",
+          "that"
+        ],
+        "answer": 0,
+        "explanation": "目的を表す不定詞 to improve「改善するために」が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p655b2",
+        "choices": [
+          "little",
+          "few",
+          "much",
+          "many"
+        ],
+        "answer": 0,
+        "explanation": "不可算名詞 disruption を修飾する little「ほとんどない」が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p655b3",
+        "choices": [
+          "can",
+          "must",
+          "shall",
+          "will"
+        ],
+        "answer": 0,
+        "explanation": "可能性を表す助動詞 can が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p655b4",
+        "choices": [
+          "transition",
+          "transaction",
+          "translation",
+          "transmission"
+        ],
+        "answer": 0,
+        "explanation": "文脈から「移行期間」を意味する transition が正解です。",
+        "level": 600
+      }
+    ]
   }
 ]

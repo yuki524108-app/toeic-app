@@ -1078,5 +1078,1805 @@
     "answer": 2,
     "explanation": "依頼表現には引き受ける・断るなどの応答をします。「もちろんです、少し時間をください」が自然です。",
     "level": 500
+  },
+  {
+    "id": "l2091",
+    "question": "Who is going to lead the client presentation tomorrow?",
+    "choices": [
+      "Mr. Anderson volunteered to do it.",
+      "It starts at ten o'clock.",
+      "In the main conference room."
+    ],
+    "answer": 0,
+    "explanation": "Who（誰が）の質問には人物名で答えます。他の選択肢は時刻や場所への応答で質問の種類が異なります。",
+    "level": 400
+  },
+  {
+    "id": "l2092",
+    "question": "Who approved the new marketing budget?",
+    "choices": [
+      "The finance director signed off on it.",
+      "About two months ago.",
+      "It was increased by ten percent."
+    ],
+    "answer": 0,
+    "explanation": "Who（誰が）の質問には人物や役職名で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2093",
+    "question": "Who's responsible for updating the company website?",
+    "choices": [
+      "That would be the IT department.",
+      "It was updated last week.",
+      "The website looks great now."
+    ],
+    "answer": 0,
+    "explanation": "担当者を尋ねる質問には部署や人物名で答えるのが自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2094",
+    "question": "Who left this umbrella in the meeting room?",
+    "choices": [
+      "I'm not sure, but I'll ask around.",
+      "It's a small black umbrella.",
+      "It might rain later today."
+    ],
+    "answer": 0,
+    "explanation": "誰のものか分からない場合の自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2095",
+    "question": "Who's covering the front desk while Emma is on vacation?",
+    "choices": [
+      "I believe Daniel is filling in for her.",
+      "She'll be back next Monday.",
+      "She went to visit her family."
+    ],
+    "answer": 0,
+    "explanation": "代理を務める人物を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2096",
+    "question": "Who did you hire for the accounting position?",
+    "choices": [
+      "We chose a candidate with five years of experience.",
+      "The interviews took all week.",
+      "The position pays quite well."
+    ],
+    "answer": 0,
+    "explanation": "採用した人物についての情報で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2097",
+    "question": "What time does the shuttle bus leave for the airport?",
+    "choices": [
+      "It leaves every hour on the hour.",
+      "From the main lobby.",
+      "It's a comfortable ride."
+    ],
+    "answer": 0,
+    "explanation": "What time（何時に）には具体的な時刻や頻度で答えます。",
+    "level": 400
+  },
+  {
+    "id": "l2098",
+    "question": "What did the client think of our proposal?",
+    "choices": [
+      "She said she needs more time to review it.",
+      "She arrived at noon.",
+      "The proposal was thirty pages long."
+    ],
+    "answer": 0,
+    "explanation": "感想を尋ねる質問には意見や反応で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2099",
+    "question": "What's the password for the guest Wi-Fi network?",
+    "choices": [
+      "It's printed on the back of your badge.",
+      "The network is very fast.",
+      "We just installed new routers."
+    ],
+    "answer": 0,
+    "explanation": "情報のありかを答える応答が自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2100",
+    "question": "What should we do about the printer that's out of toner?",
+    "choices": [
+      "Let's order a new cartridge today.",
+      "It prints in black and white.",
+      "The printer is on the second floor."
+    ],
+    "answer": 0,
+    "explanation": "問題への対処法を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2101",
+    "question": "What kind of catering should we order for the event?",
+    "choices": [
+      "I think sandwiches would be easiest.",
+      "The event starts at noon.",
+      "About fifty people are coming."
+    ],
+    "answer": 0,
+    "explanation": "具体的な提案で答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2102",
+    "question": "What's the status of the Denver account?",
+    "choices": [
+      "We're still waiting on their final approval.",
+      "Denver is a large city.",
+      "The account manager is on leave."
+    ],
+    "answer": 0,
+    "explanation": "進捗状況を尋ねる質問には状況で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2103",
+    "question": "What made you decide to switch suppliers?",
+    "choices": [
+      "Their prices were much more competitive.",
+      "We switched suppliers last spring.",
+      "The new supplier is based nearby."
+    ],
+    "answer": 0,
+    "explanation": "理由を答えるのが自然な応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2104",
+    "question": "When is the deadline for the expense reports?",
+    "choices": [
+      "They're due by Friday afternoon.",
+      "In the finance office.",
+      "Ms. Lee handles those."
+    ],
+    "answer": 0,
+    "explanation": "When（いつ）には日時で答えます。",
+    "level": 400
+  },
+  {
+    "id": "l2105",
+    "question": "When will the new software update be installed?",
+    "choices": [
+      "Sometime next week, I believe.",
+      "On all the computers in the office.",
+      "The update fixes several bugs."
+    ],
+    "answer": 0,
+    "explanation": "時期を尋ねる質問には時期で答えるのが適切です。",
+    "level": 450
+  },
+  {
+    "id": "l2106",
+    "question": "When did you last speak with the supplier?",
+    "choices": [
+      "I called them just this morning.",
+      "They're located overseas.",
+      "The supplier offers good prices."
+    ],
+    "answer": 0,
+    "explanation": "過去の時点を尋ねる質問には時を示す表現で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2107",
+    "question": "When can we expect the results of the survey?",
+    "choices": [
+      "The analysis should be finished by Wednesday.",
+      "We sent it to five hundred customers.",
+      "The survey covered several topics."
+    ],
+    "answer": 0,
+    "explanation": "結果が出る時期を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2108",
+    "question": "When is the best time to reach you tomorrow?",
+    "choices": [
+      "Anytime after lunch works for me.",
+      "I'll be in a meeting all morning.",
+      "My phone number hasn't changed."
+    ],
+    "answer": 0,
+    "explanation": "連絡が取れる時間を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2109",
+    "question": "Where should I drop off these documents?",
+    "choices": [
+      "Just leave them on my desk.",
+      "Around three o'clock.",
+      "They're due next Monday."
+    ],
+    "answer": 0,
+    "explanation": "Where（どこに）には場所で答えます。",
+    "level": 400
+  },
+  {
+    "id": "l2110",
+    "question": "Where is the nearest printer that can handle color copies?",
+    "choices": [
+      "There's one on the third floor.",
+      "It prints very quickly.",
+      "I need ten copies, please."
+    ],
+    "answer": 0,
+    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2111",
+    "question": "Where did you park the company car?",
+    "choices": [
+      "I left it in the underground garage.",
+      "I drove it this morning.",
+      "It has a full tank of gas."
+    ],
+    "answer": 0,
+    "explanation": "駐車場所を尋ねる質問には場所で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2112",
+    "question": "Where can I find last year's sales figures?",
+    "choices": [
+      "They should be saved on the shared drive.",
+      "Sales increased by ten percent.",
+      "The figures were presented in March."
+    ],
+    "answer": 0,
+    "explanation": "情報のありかを答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2113",
+    "question": "Where would you like to hold the retirement party?",
+    "choices": [
+      "How about the rooftop terrace?",
+      "He's retiring at the end of the month.",
+      "Everyone is invited to attend."
+    ],
+    "answer": 0,
+    "explanation": "場所についての提案で答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2114",
+    "question": "Why was the meeting postponed?",
+    "choices": [
+      "Two of the attendees had a scheduling conflict.",
+      "It will be held next Tuesday.",
+      "In the main conference room."
+    ],
+    "answer": 0,
+    "explanation": "Why（なぜ）には理由で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2115",
+    "question": "Why hasn't the shipment arrived yet?",
+    "choices": [
+      "There was a delay at customs.",
+      "It should arrive by truck.",
+      "We ordered twenty units."
+    ],
+    "answer": 0,
+    "explanation": "遅延の理由を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2116",
+    "question": "Why did the company change its logo?",
+    "choices": [
+      "They wanted a more modern image.",
+      "The logo is blue and white.",
+      "It was designed by an agency."
+    ],
+    "answer": 0,
+    "explanation": "変更の理由を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2117",
+    "question": "Why is the conference room reserved all day?",
+    "choices": [
+      "There's a training session scheduled.",
+      "It can seat twenty people.",
+      "The room has a large screen."
+    ],
+    "answer": 0,
+    "explanation": "予約されている理由を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2118",
+    "question": "Why don't we ask Sarah for her opinion on this?",
+    "choices": [
+      "That's a good idea; let's call her now.",
+      "Sarah is out of the office today.",
+      "She gave her opinion last week."
+    ],
+    "answer": 0,
+    "explanation": "提案（Why don't we ~?）への応答として賛成する表現が自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2119",
+    "question": "How long will the training session last?",
+    "choices": [
+      "It should take about two hours.",
+      "In the main auditorium.",
+      "Ms. Chen will be leading it."
+    ],
+    "answer": 0,
+    "explanation": "How long（どのくらいの期間）には期間で答えます。",
+    "level": 400
+  },
+  {
+    "id": "l2120",
+    "question": "How much does it cost to ship internationally?",
+    "choices": [
+      "It depends on the weight of the package.",
+      "We ship every weekday.",
+      "The package arrived safely."
+    ],
+    "answer": 0,
+    "explanation": "費用を尋ねる質問には金額や条件で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2121",
+    "question": "How did the interview go this morning?",
+    "choices": [
+      "I think it went really well.",
+      "It started at nine sharp.",
+      "The candidate seemed nervous when he arrived."
+    ],
+    "answer": 0,
+    "explanation": "感想を尋ねる質問には意見で答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2122",
+    "question": "How often does the maintenance crew inspect the elevators?",
+    "choices": [
+      "They come by once a month.",
+      "The elevators are on the east side.",
+      "The crew wears blue uniforms."
+    ],
+    "answer": 0,
+    "explanation": "頻度を尋ねる質問には頻度で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2123",
+    "question": "How many people signed up for the workshop?",
+    "choices": [
+      "About thirty people registered so far.",
+      "The workshop is on Thursday.",
+      "It's held in the training room."
+    ],
+    "answer": 0,
+    "explanation": "数を尋ねる質問には数で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2124",
+    "question": "How should I format the quarterly report?",
+    "choices": [
+      "Just follow the template from last quarter.",
+      "The report covers three months.",
+      "It's due at the end of the month."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2125",
+    "question": "Did you receive the invoice I sent yesterday?",
+    "choices": [
+      "Yes, it arrived this morning.",
+      "I'll send it right away.",
+      "The invoice was for two thousand dollars."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No疑問文には肯定・否定で答えるのが基本です。",
+    "level": 400
+  },
+  {
+    "id": "l2126",
+    "question": "Is the conference room available at two o'clock?",
+    "choices": [
+      "No, it's booked until three.",
+      "It's on the fifth floor.",
+      "The room fits twelve people."
+    ],
+    "answer": 0,
+    "explanation": "Yes/No疑問文への応答として空き状況を答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2127",
+    "question": "Have you finished reviewing the contract yet?",
+    "choices": [
+      "Not yet, but I should be done by noon.",
+      "The contract is five pages long.",
+      "It was signed last Tuesday."
+    ],
+    "answer": 0,
+    "explanation": "完了状況を尋ねる質問には進捗で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2128",
+    "question": "Are you attending the seminar next week?",
+    "choices": [
+      "Yes, I already registered online.",
+      "The seminar is about leadership.",
+      "It starts at nine in the morning."
+    ],
+    "answer": 0,
+    "explanation": "参加の有無を尋ねる質問には肯定・否定で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2129",
+    "question": "Has the client confirmed the meeting time?",
+    "choices": [
+      "Yes, she confirmed it this morning.",
+      "The meeting is about the new contract.",
+      "She usually prefers morning meetings."
+    ],
+    "answer": 0,
+    "explanation": "確認の有無を尋ねる質問には肯定・否定で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2130",
+    "question": "Do you need any help setting up the projector?",
+    "choices": [
+      "Yes, could you check the cables for me?",
+      "The projector is quite old.",
+      "It's stored in the supply closet."
+    ],
+    "answer": 0,
+    "explanation": "手伝いの申し出への応答として具体的な依頼が自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2131",
+    "question": "Isn't the new intern starting today?",
+    "choices": [
+      "Actually, she starts next Monday.",
+      "She's very enthusiastic.",
+      "We interviewed several candidates."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文には事実を訂正または確認して答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2132",
+    "question": "Wasn't the budget meeting supposed to happen this morning?",
+    "choices": [
+      "It was moved to this afternoon instead.",
+      "The budget increased by five percent.",
+      "Several managers attended the meeting."
+    ],
+    "answer": 0,
+    "explanation": "予定の変更について答えるのが自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2133",
+    "question": "Would you like tea or coffee with your meeting?",
+    "choices": [
+      "Coffee would be great, thank you.",
+      "The meeting starts at ten.",
+      "I'll bring some snacks too."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文にはどちらかを選んで答えます。",
+    "level": 400
+  },
+  {
+    "id": "l2134",
+    "question": "Should we schedule the workshop for Monday or Wednesday?",
+    "choices": [
+      "Wednesday works better for most people.",
+      "The workshop covers customer service.",
+      "It will last about three hours."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2135",
+    "question": "Do you want to take the elevator or the stairs?",
+    "choices": [
+      "Let's just take the stairs; it's only two floors.",
+      "The elevator is out of service.",
+      "We're on the fourth floor."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文への自然な応答です。",
+    "level": 450
+  },
+  {
+    "id": "l2136",
+    "question": "Is the report due today or tomorrow?",
+    "choices": [
+      "It's due first thing tomorrow morning.",
+      "The report is about sales trends.",
+      "I already submitted mine."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的な回答で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2137",
+    "question": "Why don't you take a break before the next meeting?",
+    "choices": [
+      "That sounds like a good idea.",
+      "The meeting starts in ten minutes.",
+      "I already had a coffee break."
+    ],
+    "answer": 0,
+    "explanation": "提案表現には受け入れる、または断る応答が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2138",
+    "question": "Could you send me the file before lunch?",
+    "choices": [
+      "Sure, I'll email it right now.",
+      "The file is quite large.",
+      "Lunch is at noon today."
+    ],
+    "answer": 0,
+    "explanation": "依頼表現には引き受ける、または断る応答をします。",
+    "level": 450
+  },
+  {
+    "id": "l2139",
+    "question": "Would you mind closing the window? It's getting cold.",
+    "choices": [
+      "Not at all, I'll close it now.",
+      "The window faces the parking lot.",
+      "It rained a lot yesterday."
+    ],
+    "answer": 0,
+    "explanation": "依頼表現（Would you mind ~?）には了承の応答が自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2140",
+    "question": "Let's finish this report by tomorrow, shall we?",
+    "choices": [
+      "Sure, I can stay late tonight to finish it.",
+      "The report was finished last week.",
+      "I'll ask my manager about it."
+    ],
+    "answer": 0,
+    "explanation": "提案（~, shall we?）に賛同する応答が自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2141",
+    "question": "Why don't we order lunch for the whole team today?",
+    "choices": [
+      "Sounds good, I'll check everyone's preferences.",
+      "We ordered lunch yesterday too.",
+      "The team has ten members."
+    ],
+    "answer": 0,
+    "explanation": "提案への同意を示す自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2142",
+    "question": "Could you double-check these numbers before I send them?",
+    "choices": [
+      "Of course, give me a few minutes.",
+      "The numbers look correct to me.",
+      "I already sent the numbers."
+    ],
+    "answer": 0,
+    "explanation": "依頼には引き受ける応答が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2143",
+    "question": "Can you cover my shift on Saturday?",
+    "choices": [
+      "I think I can, let me check my schedule.",
+      "My shift starts at nine.",
+      "Saturday is usually busy."
+    ],
+    "answer": 0,
+    "explanation": "依頼への応答として確認する表現が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2144",
+    "question": "I think we should upgrade our computers soon.",
+    "choices": [
+      "I agree, some of them are quite old.",
+      "The computers are on every desk.",
+      "We bought them three years ago."
+    ],
+    "answer": 0,
+    "explanation": "意見への同意・不同意で応答するのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2145",
+    "question": "This copier keeps jamming every time I use it.",
+    "choices": [
+      "Let's call maintenance to take a look.",
+      "The copier is over by the window.",
+      "I used it this morning without issue."
+    ],
+    "answer": 0,
+    "explanation": "問題を報告する発言には対処法で応答するのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2146",
+    "question": "The new office chairs are so much more comfortable.",
+    "choices": [
+      "I noticed that too; my back feels better already.",
+      "The chairs were delivered on Monday.",
+      "We ordered twenty new chairs."
+    ],
+    "answer": 0,
+    "explanation": "感想への共感を示す応答が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2147",
+    "question": "I heard the company is opening a branch in Osaka.",
+    "choices": [
+      "Yes, it's expected to open next spring.",
+      "Osaka is a large city in Japan.",
+      "I've never been to Osaka."
+    ],
+    "answer": 0,
+    "explanation": "話題についての詳細を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2148",
+    "question": "Our sales numbers were much higher this quarter.",
+    "choices": [
+      "That's great news for the whole team.",
+      "The quarter ends in March.",
+      "Sales are tracked every month."
+    ],
+    "answer": 0,
+    "explanation": "良い知らせへの反応として自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2149",
+    "question": "It looks like it might rain during the outdoor event.",
+    "choices": [
+      "We should probably move it indoors just in case.",
+      "The event starts at noon.",
+      "About a hundred guests are expected."
+    ],
+    "answer": 0,
+    "explanation": "懸念への対応策を答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2150",
+    "question": "I'm not sure I understand this part of the manual.",
+    "choices": [
+      "I can walk you through it if you'd like.",
+      "The manual is fifty pages long.",
+      "It was written by the IT department."
+    ],
+    "answer": 0,
+    "explanation": "困っている相手への申し出として自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2151",
+    "question": "The client seemed a bit unhappy during the call.",
+    "choices": [
+      "I noticed that too; maybe we should follow up.",
+      "The call lasted about thirty minutes.",
+      "We spoke with the client last week."
+    ],
+    "answer": 0,
+    "explanation": "気づきの共有への応答として自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2152",
+    "question": "We should really update our employee handbook.",
+    "choices": [
+      "I agree, it hasn't changed in years.",
+      "The handbook is on the shared drive.",
+      "New employees receive it on day one."
+    ],
+    "answer": 0,
+    "explanation": "意見への同意の応答が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2153",
+    "question": "I can't find the invoice you mentioned earlier.",
+    "choices": [
+      "I'll forward it to you again right away.",
+      "The invoice was for last month's order.",
+      "We usually keep invoices for five years."
+    ],
+    "answer": 0,
+    "explanation": "困っている相手への申し出が自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2154",
+    "question": "You're coming to the workshop tomorrow, aren't you?",
+    "choices": [
+      "Yes, I already signed up for it.",
+      "The workshop is about time management.",
+      "It starts at nine in the morning."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文には肯定・否定で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2155",
+    "question": "This isn't the final version of the contract, is it?",
+    "choices": [
+      "No, there's one more revision coming.",
+      "The contract is three pages long.",
+      "It was drafted by our legal team."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への応答として事実を答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2156",
+    "question": "The flight doesn't leave until six, does it?",
+    "choices": [
+      "No, we still have plenty of time.",
+      "The airport is about an hour away.",
+      "We're flying with a different airline."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への応答として時間の確認をしています。",
+    "level": 550
+  },
+  {
+    "id": "l2157",
+    "question": "Which supplier offers the fastest delivery?",
+    "choices": [
+      "The one based in Chicago usually ships fastest.",
+      "Delivery usually takes about a week.",
+      "We compared prices from three suppliers."
+    ],
+    "answer": 0,
+    "explanation": "Which（どちらの）には具体的な対象で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2158",
+    "question": "Whose idea was it to redesign the logo?",
+    "choices": [
+      "It was actually the marketing team's idea.",
+      "The new logo is blue and silver.",
+      "It took about two months to design."
+    ],
+    "answer": 0,
+    "explanation": "Whose（誰の）には人物や部署で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2159",
+    "question": "What if the client cancels the order at the last minute?",
+    "choices": [
+      "We do have a cancellation policy in place.",
+      "The order includes fifty units.",
+      "The client placed the order last week."
+    ],
+    "answer": 0,
+    "explanation": "仮定の質問には対応策で答えるのが自然です。",
+    "level": 600
+  },
+  {
+    "id": "l2160",
+    "question": "How come the delivery is taking so long this time?",
+    "choices": [
+      "There's been a delay at the shipping port.",
+      "The delivery usually takes two days.",
+      "We ordered from our usual supplier."
+    ],
+    "answer": 0,
+    "explanation": "遅延の理由を尋ねる表現には理由で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2161",
+    "question": "What's holding up the approval process?",
+    "choices": [
+      "We're still waiting for legal to sign off.",
+      "The process usually takes a week.",
+      "Approval was granted last month."
+    ],
+    "answer": 0,
+    "explanation": "遅延の原因を尋ねる質問には原因で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2162",
+    "question": "Where do you usually go for lunch around here?",
+    "choices": [
+      "There's a nice café just down the street.",
+      "Lunch break is one hour long.",
+      "I usually bring my own lunch."
+    ],
+    "answer": 0,
+    "explanation": "場所を尋ねる質問には場所で答えるのが自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2163",
+    "question": "When was the last time this equipment was serviced?",
+    "choices": [
+      "It was serviced about six months ago.",
+      "The equipment is in the storage room.",
+      "A technician handles the servicing."
+    ],
+    "answer": 0,
+    "explanation": "過去の時点を尋ねる質問には時期で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2164",
+    "question": "Why is everyone staying late tonight?",
+    "choices": [
+      "We're preparing for tomorrow's big presentation.",
+      "Everyone leaves at six normally.",
+      "The office closes at seven."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2165",
+    "question": "How is the new employee adjusting to the team?",
+    "choices": [
+      "She's settling in really well so far.",
+      "She started two weeks ago.",
+      "She works in the sales department."
+    ],
+    "answer": 0,
+    "explanation": "様子を尋ねる質問には感想・状況で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2166",
+    "question": "What's the plan if the venue is unavailable?",
+    "choices": [
+      "We have a backup location already booked.",
+      "The venue can hold two hundred guests.",
+      "We booked the venue last month."
+    ],
+    "answer": 0,
+    "explanation": "代替案を尋ねる質問には対応策で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2167",
+    "question": "Who's coordinating the volunteers for the charity event?",
+    "choices": [
+      "Rachel from HR is organizing everything.",
+      "The event raises money for local schools.",
+      "Volunteers should arrive by eight."
+    ],
+    "answer": 0,
+    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2168",
+    "question": "Where can we get more of these promotional flyers printed?",
+    "choices": [
+      "The print shop downtown can do it quickly.",
+      "We printed five hundred flyers last time.",
+      "The flyers describe our new product line."
+    ],
+    "answer": 0,
+    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2169",
+    "question": "How do you feel about the proposed office redesign?",
+    "choices": [
+      "Honestly, I think it's a great improvement.",
+      "The redesign will take three months.",
+      "The design team presented it yesterday."
+    ],
+    "answer": 0,
+    "explanation": "意見を尋ねる質問には感想で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2170",
+    "question": "What time should we start setting up for the conference?",
+    "choices": [
+      "Let's begin around seven, before guests arrive.",
+      "The conference starts at nine.",
+      "About two hundred people are attending."
+    ],
+    "answer": 0,
+    "explanation": "準備開始の時間を尋ねる質問には時刻で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2171",
+    "question": "Isn't it about time we replaced these old monitors?",
+    "choices": [
+      "You're right, I'll put in a request today.",
+      "The monitors are five years old.",
+      "We bought them from a local supplier."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文への同意の応答が自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2172",
+    "question": "Do we have enough chairs for everyone at the event?",
+    "choices": [
+      "I think so, but let me double-check the count.",
+      "The event starts at six in the evening.",
+      "Chairs will be set up in rows."
+    ],
+    "answer": 0,
+    "explanation": "確認の依頼に対する応答として自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2173",
+    "question": "Why did the vendor raise their prices this year?",
+    "choices": [
+      "They said material costs have gone up.",
+      "The vendor is based overseas.",
+      "We've worked with them for years."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2174",
+    "question": "What's the fastest way to get to the convention center?",
+    "choices": [
+      "Taking the subway is usually quickest.",
+      "The convention center is quite large.",
+      "It hosts events all year round."
+    ],
+    "answer": 0,
+    "explanation": "手段を尋ねる質問には具体的な方法で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2175",
+    "question": "Who's in charge of ordering office supplies this month?",
+    "choices": [
+      "I believe it's Tom's turn this time.",
+      "We're running low on paper.",
+      "Supplies are ordered every month."
+    ],
+    "answer": 0,
+    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2176",
+    "question": "Have you decided which candidate to hire?",
+    "choices": [
+      "Not yet, we still have two more interviews.",
+      "The candidates all had strong resumes.",
+      "We posted the job last month."
+    ],
+    "answer": 0,
+    "explanation": "決定状況を尋ねる質問には進捗で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2177",
+    "question": "Should we hold the workshop in-person or online?",
+    "choices": [
+      "I'd suggest online, since it reaches more people.",
+      "The workshop covers project management.",
+      "It usually lasts about two hours."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2178",
+    "question": "Isn't the marketing report due at the end of the week?",
+    "choices": [
+      "Yes, so we should start drafting it today.",
+      "The report covers our latest campaign.",
+      "Marketing has a large team."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への同意の応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2179",
+    "question": "How can I access the shared project folder?",
+    "choices": [
+      "Just ask IT to grant you permission.",
+      "The folder contains all the project files.",
+      "It was created last month."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2180",
+    "question": "What's the best way to handle a dissatisfied customer?",
+    "choices": [
+      "Listening carefully and offering a solution usually helps.",
+      "We received a complaint yesterday.",
+      "Customer service is open until six."
+    ],
+    "answer": 0,
+    "explanation": "対処法を尋ねる質問には方法で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2181",
+    "question": "Who's presenting at next week's board meeting?",
+    "choices": [
+      "The CFO will be giving the main presentation.",
+      "The meeting is on Tuesday.",
+      "It's held in the boardroom."
+    ],
+    "answer": 0,
+    "explanation": "Who（誰が）には人物名で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2182",
+    "question": "Who ordered these office supplies?",
+    "choices": [
+      "I think it was someone from accounting.",
+      "They arrived yesterday afternoon.",
+      "We need more paper and pens."
+    ],
+    "answer": 0,
+    "explanation": "誰が注文したかを答える応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2183",
+    "question": "Who's going to train the new hires?",
+    "choices": [
+      "Our senior staff will handle the training.",
+      "Training starts next Monday.",
+      "There are five new hires this time."
+    ],
+    "answer": 0,
+    "explanation": "担当者を答える応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2184",
+    "question": "What's the agenda for tomorrow's meeting?",
+    "choices": [
+      "We'll be discussing the budget and next quarter's goals.",
+      "The meeting starts at nine.",
+      "It's in Conference Room B."
+    ],
+    "answer": 0,
+    "explanation": "内容を尋ねる質問には内容で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2185",
+    "question": "What happened to the shipment we were expecting?",
+    "choices": [
+      "It got held up at customs, unfortunately.",
+      "We ordered fifty units.",
+      "The shipment company is based in Korea."
+    ],
+    "answer": 0,
+    "explanation": "状況を尋ねる質問には状況で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2186",
+    "question": "What's the best approach for this project?",
+    "choices": [
+      "I think we should start with market research.",
+      "The project deadline is in June.",
+      "Three people are assigned to it."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には具体的な方法で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2187",
+    "question": "When does the new policy take effect?",
+    "choices": [
+      "It goes into effect next Monday.",
+      "The policy covers remote work.",
+      "HR announced it yesterday."
+    ],
+    "answer": 0,
+    "explanation": "When（いつ）には日時で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2188",
+    "question": "When should I expect a reply to my email?",
+    "choices": [
+      "Usually within one business day.",
+      "I sent the email this morning.",
+      "The email was about the contract."
+    ],
+    "answer": 0,
+    "explanation": "時期を尋ねる質問には時期で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2189",
+    "question": "Where do you keep the extra printer paper?",
+    "choices": [
+      "It's in the supply cabinet down the hall.",
+      "We use a lot of paper here.",
+      "The printer is out of ink."
+    ],
+    "answer": 0,
+    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2190",
+    "question": "Where can I submit my vacation request?",
+    "choices": [
+      "You can submit it through the HR portal.",
+      "Vacation requests take a week to process.",
+      "I'm planning to take next week off."
+    ],
+    "answer": 0,
+    "explanation": "場所・方法を尋ねる質問には具体的な情報で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2191",
+    "question": "Why is the office so quiet today?",
+    "choices": [
+      "Most people are attending an offsite conference.",
+      "The office opens at eight.",
+      "It's usually pretty noisy here."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2192",
+    "question": "Why did we lose that client account?",
+    "choices": [
+      "They said our prices were too high.",
+      "The account was worth a lot of money.",
+      "We had that client for three years."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2193",
+    "question": "How is the new marketing campaign performing?",
+    "choices": [
+      "It's exceeding our expectations so far.",
+      "The campaign launched last week.",
+      "It focuses on social media ads."
+    ],
+    "answer": 0,
+    "explanation": "状況を尋ねる質問には状況・感想で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2194",
+    "question": "How do I reset my computer password?",
+    "choices": [
+      "Just call the IT help desk for assistance.",
+      "My password expired yesterday.",
+      "The computer is quite old."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2195",
+    "question": "Did you get a chance to review my draft?",
+    "choices": [
+      "Yes, I left some comments in the margins.",
+      "The draft is about ten pages.",
+      "I'll write a draft soon."
+    ],
+    "answer": 0,
+    "explanation": "確認の有無を尋ねる質問には肯定・否定で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2196",
+    "question": "Is the flight still on schedule?",
+    "choices": [
+      "Yes, it's expected to depart on time.",
+      "The flight is three hours long.",
+      "We're flying to Chicago."
+    ],
+    "answer": 0,
+    "explanation": "状況確認への応答として肯定・否定で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2197",
+    "question": "Have the new laptops been delivered yet?",
+    "choices": [
+      "Not yet, but they should arrive tomorrow.",
+      "We ordered twenty laptops.",
+      "The laptops are quite lightweight."
+    ],
+    "answer": 0,
+    "explanation": "配達状況を尋ねる質問には状況で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2198",
+    "question": "Would you rather meet in person or by video call?",
+    "choices": [
+      "A video call would be more convenient for me.",
+      "The meeting is about the budget.",
+      "It should take about an hour."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2199",
+    "question": "Should I book the flight for Monday or Tuesday?",
+    "choices": [
+      "Tuesday would work better with my schedule.",
+      "The flight is quite expensive.",
+      "I haven't booked a flight yet."
+    ],
+    "answer": 0,
+    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2200",
+    "question": "Could you help me carry these boxes to the storage room?",
+    "choices": [
+      "Sure, just give me a minute.",
+      "The boxes are quite heavy.",
+      "The storage room is on the first floor."
+    ],
+    "answer": 0,
+    "explanation": "依頼への応答として引き受ける表現が自然です。",
+    "level": 450
+  },
+  {
+    "id": "l2201",
+    "question": "Would you like me to schedule a follow-up call?",
+    "choices": [
+      "Yes, that would be very helpful.",
+      "The call lasted about twenty minutes.",
+      "We spoke last Tuesday."
+    ],
+    "answer": 0,
+    "explanation": "申し出への応答として肯定的に答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2202",
+    "question": "I think we need to hire another sales representative.",
+    "choices": [
+      "I agree, our team has been overwhelmed lately.",
+      "We hired one last year.",
+      "Sales representatives earn a commission."
+    ],
+    "answer": 0,
+    "explanation": "意見への同意を示す応答が自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2203",
+    "question": "This new coffee machine makes terrible coffee.",
+    "choices": [
+      "I noticed that too; maybe we should get it fixed.",
+      "The machine was expensive.",
+      "We bought it last month."
+    ],
+    "answer": 0,
+    "explanation": "不満への共感と対応策を示す応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2204",
+    "question": "Our competitor just launched a similar product.",
+    "choices": [
+      "We should look into how it's different from ours.",
+      "The competitor is based in Seattle.",
+      "Their product launched last week."
+    ],
+    "answer": 0,
+    "explanation": "情報への対応を示す自然な応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2205",
+    "question": "The printer on the third floor is jammed again.",
+    "choices": [
+      "I'll put in a maintenance request right now.",
+      "The printer is quite old.",
+      "We have three printers on that floor."
+    ],
+    "answer": 0,
+    "explanation": "問題報告への対応策を示す応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2206",
+    "question": "You're planning to retire next year, aren't you?",
+    "choices": [
+      "Yes, I'm looking forward to it.",
+      "I started working here in 2010.",
+      "Retirement plans vary by person."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への肯定応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2207",
+    "question": "This isn't the correct version of the file, is it?",
+    "choices": [
+      "No, I'll send you the updated one.",
+      "The file is quite large.",
+      "It was created last week."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への否定応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2208",
+    "question": "Which department handles customer complaints?",
+    "choices": [
+      "That would be customer service.",
+      "Complaints are taken seriously here.",
+      "We received a complaint yesterday."
+    ],
+    "answer": 0,
+    "explanation": "Which（どちらの）には具体的な部署で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2209",
+    "question": "Whose signature do we need on this contract?",
+    "choices": [
+      "We need the director's signature.",
+      "The contract is two pages long.",
+      "It was drafted last week."
+    ],
+    "answer": 0,
+    "explanation": "Whose（誰の）には人物名で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2210",
+    "question": "What if we run out of time before the deadline?",
+    "choices": [
+      "We could ask for a short extension.",
+      "The deadline is next Friday.",
+      "We started the project last month."
+    ],
+    "answer": 0,
+    "explanation": "仮定の質問には対応策で答えます。",
+    "level": 600
+  },
+  {
+    "id": "l2211",
+    "question": "How come the report hasn't been submitted yet?",
+    "choices": [
+      "We're still waiting on some final data.",
+      "The report is due today.",
+      "Reports are usually five pages."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2212",
+    "question": "What's causing the delay in the construction project?",
+    "choices": [
+      "Bad weather has slowed things down.",
+      "The project started in March.",
+      "It's a large commercial building."
+    ],
+    "answer": 0,
+    "explanation": "原因を尋ねる質問には原因で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2213",
+    "question": "Where's a good place to hold the client dinner?",
+    "choices": [
+      "I'd suggest that new Italian restaurant downtown.",
+      "The dinner is next Thursday.",
+      "About eight people will attend."
+    ],
+    "answer": 0,
+    "explanation": "場所についての提案で答えるのが自然です。",
+    "level": 500
+  },
+  {
+    "id": "l2214",
+    "question": "When was this equipment last calibrated?",
+    "choices": [
+      "It was calibrated just last week.",
+      "The equipment is in the lab.",
+      "A technician handles calibration."
+    ],
+    "answer": 0,
+    "explanation": "時期を尋ねる質問には時期で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2215",
+    "question": "Why is the parking lot closed today?",
+    "choices": [
+      "They're repaving it this week.",
+      "The parking lot has fifty spaces.",
+      "It usually fills up by nine."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2216",
+    "question": "How is your team adjusting to the new software?",
+    "choices": [
+      "Most of them are picking it up quickly.",
+      "The software was released last month.",
+      "It replaces our old system."
+    ],
+    "answer": 0,
+    "explanation": "状況を尋ねる質問には状況・感想で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2217",
+    "question": "What's the plan for onboarding the new manager?",
+    "choices": [
+      "She'll shadow the current manager for two weeks.",
+      "She starts on Monday.",
+      "The role oversees the sales team."
+    ],
+    "answer": 0,
+    "explanation": "計画を尋ねる質問には計画で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2218",
+    "question": "Who's covering the reception desk during lunch?",
+    "choices": [
+      "Mark said he'd take over for an hour.",
+      "Lunch is from noon to one.",
+      "The reception desk is near the entrance."
+    ],
+    "answer": 0,
+    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2219",
+    "question": "Where should we store these extra chairs?",
+    "choices": [
+      "Let's put them in the storage closet.",
+      "We have twenty extra chairs.",
+      "The chairs were used for the event."
+    ],
+    "answer": 0,
+    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "level": 450
+  },
+  {
+    "id": "l2220",
+    "question": "How do you feel about postponing the launch date?",
+    "choices": [
+      "Honestly, I think it's the right call.",
+      "The launch was planned for June.",
+      "We announced the date last week."
+    ],
+    "answer": 0,
+    "explanation": "意見を尋ねる質問には感想で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2221",
+    "question": "What time zone is the client in?",
+    "choices": [
+      "They're in the Eastern time zone.",
+      "The client is based in New York.",
+      "We usually call them in the morning."
+    ],
+    "answer": 0,
+    "explanation": "具体的な情報を答える応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2222",
+    "question": "Isn't it your turn to lead the weekly meeting?",
+    "choices": [
+      "You're right, I completely forgot.",
+      "The meeting is every Monday.",
+      "I led it last week too."
+    ],
+    "answer": 0,
+    "explanation": "否定疑問文への同意の応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2223",
+    "question": "Do you know if the shipment includes the replacement parts?",
+    "choices": [
+      "I believe so, but I'll double-check the invoice.",
+      "The shipment arrived this morning.",
+      "We ordered several replacement parts."
+    ],
+    "answer": 0,
+    "explanation": "確認への応答として自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2224",
+    "question": "Why does this invoice look different from usual?",
+    "choices": [
+      "The vendor updated their billing format recently.",
+      "The invoice is for last month's order.",
+      "We usually pay within thirty days."
+    ],
+    "answer": 0,
+    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2225",
+    "question": "What's the easiest way to file an expense report?",
+    "choices": [
+      "Just use the mobile app; it's much faster.",
+      "Expense reports are due monthly.",
+      "I filed mine yesterday."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2226",
+    "question": "How long have you been working on this account?",
+    "choices": [
+      "I've been managing it for about a year now.",
+      "The account is worth a lot.",
+      "We gained the account last spring."
+    ],
+    "answer": 0,
+    "explanation": "期間を尋ねる質問には期間で答えます。",
+    "level": 500
+  },
+  {
+    "id": "l2227",
+    "question": "Who negotiated the terms of this partnership?",
+    "choices": [
+      "Our legal team handled the negotiations.",
+      "The partnership was signed last month.",
+      "It's a five-year agreement."
+    ],
+    "answer": 0,
+    "explanation": "担当者を尋ねる質問には人物・部署で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2228",
+    "question": "Where did you find such a great venue for the conference?",
+    "choices": [
+      "A colleague recommended it to me.",
+      "The venue holds up to two hundred people.",
+      "The conference is next month."
+    ],
+    "answer": 0,
+    "explanation": "情報源を尋ねる質問には情報源で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2229",
+    "question": "What should we do if the client isn't satisfied?",
+    "choices": [
+      "We should offer to revise the proposal for free.",
+      "The client hasn't responded yet.",
+      "We sent the proposal last week."
+    ],
+    "answer": 0,
+    "explanation": "対処法を尋ねる質問には対処法で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2230",
+    "question": "How much interest has there been in the job posting?",
+    "choices": [
+      "We've already received over fifty applications.",
+      "The posting went up last week.",
+      "It's for a marketing position."
+    ],
+    "answer": 0,
+    "explanation": "反応の程度を尋ねる質問には数量で答えます。",
+    "level": 550
+  },
+  {
+    "id": "l2231",
+    "question": "Isn't the annual report supposed to be reviewed by legal first?",
+    "choices": [
+      "Yes, I'll send it to them today.",
+      "The report is forty pages long.",
+      "It covers our financial performance."
+    ],
+    "answer": 0,
+    "explanation": "付加疑問文への肯定応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2232",
+    "question": "Could you look over these figures before the meeting?",
+    "choices": [
+      "Sure, I'll take a look right now.",
+      "The figures are from last quarter.",
+      "The meeting starts in an hour."
+    ],
+    "answer": 0,
+    "explanation": "依頼への応答として引き受ける表現です。",
+    "level": 450
+  },
+  {
+    "id": "l2233",
+    "question": "Would you mind rescheduling our call to Thursday?",
+    "choices": [
+      "Not at all, Thursday works fine for me.",
+      "The call was about the new contract.",
+      "I usually prefer morning calls."
+    ],
+    "answer": 0,
+    "explanation": "依頼への了承を示す応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2234",
+    "question": "Why don't we bring in an outside consultant for this?",
+    "choices": [
+      "That could really help; let's look into it.",
+      "We hired a consultant last year.",
+      "Consultants can be expensive."
+    ],
+    "answer": 0,
+    "explanation": "提案への同意を示す応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2235",
+    "question": "The client wants the proposal revised by Friday.",
+    "choices": [
+      "That's tight, but we can manage it.",
+      "The proposal is quite detailed.",
+      "We submitted it two weeks ago."
+    ],
+    "answer": 0,
+    "explanation": "要望への対応を示す自然な応答です。",
+    "level": 550
+  },
+  {
+    "id": "l2236",
+    "question": "I noticed the sales figures dropped last month.",
+    "choices": [
+      "Yes, we're already looking into the cause.",
+      "Sales figures are reported monthly.",
+      "Last month had thirty-one days."
+    ],
+    "answer": 0,
+    "explanation": "気づきへの応答として自然です。",
+    "level": 550
+  },
+  {
+    "id": "l2237",
+    "question": "It seems like everyone is busy this week.",
+    "choices": [
+      "I know, there's a lot going on before the deadline.",
+      "This week has five business days.",
+      "Busy weeks happen occasionally."
+    ],
+    "answer": 0,
+    "explanation": "共感を示す自然な応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2238",
+    "question": "We should really consider switching internet providers.",
+    "choices": [
+      "I agree, our connection has been unreliable lately.",
+      "We've had this provider for years.",
+      "Internet providers vary by region."
+    ],
+    "answer": 0,
+    "explanation": "意見への同意を示す応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2239",
+    "question": "This meeting room doesn't have enough chairs.",
+    "choices": [
+      "I'll bring in a few extra from next door.",
+      "The room fits about ten people.",
+      "We booked it for two hours."
+    ],
+    "answer": 0,
+    "explanation": "問題への対応を示す応答です。",
+    "level": 500
+  },
+  {
+    "id": "l2240",
+    "question": "How should I address the client in my introduction email?",
+    "choices": [
+      "Just use their formal title to be safe.",
+      "The email should be short and clear.",
+      "I'll send the email this afternoon."
+    ],
+    "answer": 0,
+    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "level": 550
   }
 ]
