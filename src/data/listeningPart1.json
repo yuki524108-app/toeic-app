@@ -2598,5 +2598,590 @@
     "answer": 0,
     "explanation": "話者が演台と机の近くでプレゼンをしている場面です。",
     "level": 550
+  },
+  {
+    "id": "l1-201",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"30\" y=\"40\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"320\" y=\"40\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"150\" cy=\"120\" r=\"14\" fill=\"#4A5578\"/><rect x=\"138\" y=\"134\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"140\" y=\"174\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"152\" y=\"174\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"110\" y=\"168\" width=\"150\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"116\" y=\"182\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"246\" y=\"182\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"160\" y=\"150\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"156\" y=\"174\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"280\" cy=\"150\" r=\"13\" fill=\"#4A5578\"/><rect x=\"268\" y=\"163\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"266\" y=\"190\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A woman is standing behind a desk with a laptop.",
+      "A woman is closing her laptop.",
+      "Two people are shaking hands across a desk.",
+      "A man is repairing a laptop."
+    ],
+    "answer": 0,
+    "explanation": "女性がデスクの後ろに立ち、ノートパソコンが置かれている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-202",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"90\" width=\"110\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"60\" y1=\"120\" x2=\"170\" y2=\"120\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"60\" y1=\"150\" x2=\"170\" y2=\"150\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"220\" y=\"90\" width=\"110\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"220\" y1=\"120\" x2=\"330\" y2=\"120\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"220\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"150\" cy=\"200\" r=\"14\" fill=\"#4A5578\"/><rect x=\"138\" y=\"214\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"140\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"152\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"170\" y=\"170\" width=\"28\" height=\"28\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is stocking shelves in a store.",
+      "A man is removing items from the shelves.",
+      "Shelves are being assembled by workers.",
+      "A man is sweeping the floor near the shelves."
+    ],
+    "answer": 0,
+    "explanation": "男性が棚に商品を補充している場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-203",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"75\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"78\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"132\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"220\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"235\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"238\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"292\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"355\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"360\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/></svg>",
+    "choices": [
+      "Cars are parked next to each other.",
+      "A car is being washed.",
+      "A mechanic is repairing a vehicle.",
+      "People are getting into a car."
+    ],
+    "answer": 0,
+    "explanation": "2台の車が並んで駐車されている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-204",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><circle cx=\"100\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"88\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"90\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"102\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"200\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"300\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"288\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"290\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"302\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"60\" y=\"210\" width=\"300\" height=\"12\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"66\" y=\"222\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"346\" y=\"222\" width=\"8\" height=\"30\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "Several people are gathered around a table.",
+      "A single person is sitting alone.",
+      "People are exiting the room.",
+      "Chairs are being stacked against a wall."
+    ],
+    "answer": 0,
+    "explanation": "複数の人がテーブルの周りに集まっている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-205",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"180\" y=\"130\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><rect x=\"40\" y=\"60\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"300\" y=\"60\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"108\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"110\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"122\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is walking toward a door.",
+      "A man is painting a wall.",
+      "A door is being installed.",
+      "A man is locking a window."
+    ],
+    "answer": 0,
+    "explanation": "男性がドアに向かって歩いている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-206",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"75\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"80\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"315\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><circle cx=\"200\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"180\" y=\"220\" width=\"24\" height=\"24\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is sitting under a tree.",
+      "A man is standing between two trees.",
+      "Workers are cutting down a tree.",
+      "A man is watering plants."
+    ],
+    "answer": 1,
+    "explanation": "男性が2本の木の間に立っている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-207",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"100\" y=\"150\" width=\"200\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"106\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"286\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"140\" y=\"130\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"136\" y=\"154\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"220\" y=\"130\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"216\" y=\"154\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"160\" cy=\"100\" r=\"13\" fill=\"#4A5578\"/><rect x=\"148\" y=\"113\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"146\" y=\"140\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"240\" cy=\"100\" r=\"13\" fill=\"#4A5578\"/><rect x=\"228\" y=\"113\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"226\" y=\"140\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Two people are working at laptops across from each other.",
+      "One person is presenting to a group.",
+      "A laptop is being repaired.",
+      "People are leaving the meeting room."
+    ],
+    "answer": 0,
+    "explanation": "2人が向かい合ってノートパソコンで作業している場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-208",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"60\" width=\"100\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"150\" y1=\"82\" x2=\"250\" y2=\"82\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"150\" y1=\"104\" x2=\"250\" y2=\"104\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"150\" y1=\"126\" x2=\"250\" y2=\"126\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"100\" cy=\"200\" r=\"14\" fill=\"#4A5578\"/><rect x=\"88\" y=\"214\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"90\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"102\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"210\" y=\"200\" width=\"30\" height=\"30\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A woman is carrying a box near some shelves.",
+      "A woman is reading a book.",
+      "Shelves are completely empty.",
+      "A woman is climbing a ladder."
+    ],
+    "answer": 0,
+    "explanation": "女性が棚の近くで箱を運んでいる場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-209",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"180\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"165\" y=\"162\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"168\" cy=\"212\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"222\" cy=\"212\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"80\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"68\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"70\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"82\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"280\" cy=\"210\" r=\"14\" fill=\"#4A5578\"/><rect x=\"268\" y=\"224\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"270\" y=\"264\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"282\" y=\"264\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is standing beside a parked car.",
+      "A man is driving a car.",
+      "A car is being towed away.",
+      "Two men are washing a car together."
+    ],
+    "answer": 0,
+    "explanation": "男性が駐車された車の横に立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-210",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"40\" y=\"40\" width=\"320\" height=\"60\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"60\" y=\"200\" width=\"280\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"66\" y=\"214\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"326\" y=\"214\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><circle cx=\"120\" cy=\"170\" r=\"13\" fill=\"#4A5578\"/><rect x=\"108\" y=\"183\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"106\" y=\"210\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"220\" cy=\"170\" r=\"13\" fill=\"#4A5578\"/><rect x=\"208\" y=\"183\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"206\" y=\"210\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"170\" r=\"13\" fill=\"#4A5578\"/><rect x=\"308\" y=\"183\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"306\" y=\"210\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "People are seated in a row along a long table.",
+      "A table is being cleared.",
+      "One person is standing on a table.",
+      "The room is completely empty."
+    ],
+    "answer": 0,
+    "explanation": "複数の人が長いテーブルに沿って座っている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-211",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"55\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"60\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"145\" y=\"220\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"150\" cy=\"205\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"335\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"340\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><circle cx=\"250\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"238\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"240\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"252\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is walking through a park.",
+      "Trees are being planted by a worker.",
+      "A man is sitting on a bench reading.",
+      "A group of people is having a picnic."
+    ],
+    "answer": 0,
+    "explanation": "男性が公園の中を歩いている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-212",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"40\" y=\"120\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><rect x=\"320\" y=\"120\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><circle cx=\"180\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"168\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"170\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"182\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"150\" y=\"220\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is standing between two doors.",
+      "Doors are being painted.",
+      "A man is unlocking a door.",
+      "Boxes are stacked against the doors."
+    ],
+    "answer": 0,
+    "explanation": "男性が2つのドアの間に立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-213",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"90\" y=\"160\" width=\"220\" height=\"16\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"96\" y=\"176\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"296\" y=\"176\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"180\" y=\"130\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"176\" y=\"154\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"150\" cy=\"100\" r=\"14\" fill=\"#4A5578\"/><rect x=\"138\" y=\"114\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"140\" y=\"154\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"152\" y=\"154\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"280\" cy=\"130\" r=\"13\" fill=\"#4A5578\"/><rect x=\"268\" y=\"143\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"266\" y=\"170\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "One person is standing while another is seated at the desk.",
+      "Both people are standing at the desk.",
+      "The desk is unoccupied.",
+      "A person is moving the desk."
+    ],
+    "answer": 0,
+    "explanation": "1人は立ち、もう1人はデスクに座っている場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-214",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"50\" y=\"70\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"50\" y1=\"100\" x2=\"140\" y2=\"100\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"50\" y1=\"130\" x2=\"140\" y2=\"130\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"260\" y=\"70\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"260\" y1=\"100\" x2=\"350\" y2=\"100\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"260\" y1=\"130\" x2=\"350\" y2=\"130\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"200\" cy=\"200\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"214\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"190\" y=\"230\" width=\"22\" height=\"22\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is standing between two rows of shelves.",
+      "A man is climbing the shelves.",
+      "The shelves are being disassembled.",
+      "A man is cleaning the floor."
+    ],
+    "answer": 0,
+    "explanation": "男性が2列の棚の間に立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-215",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"50\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"65\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"68\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"122\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"180\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"195\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"198\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"252\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"300\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"315\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"318\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"372\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Several cars are parked in a row.",
+      "A single car is being repaired.",
+      "Cars are driving on a highway.",
+      "A car is being loaded onto a truck."
+    ],
+    "answer": 0,
+    "explanation": "複数の車が一列に駐車されている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-216",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"40\" width=\"100\" height=\"60\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"200\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"140\" y=\"230\" width=\"120\" height=\"12\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"146\" y=\"242\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"246\" y=\"242\" width=\"8\" height=\"30\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is standing in front of a window.",
+      "A window is being cleaned.",
+      "A man is opening a window.",
+      "Curtains are being hung on the window."
+    ],
+    "answer": 0,
+    "explanation": "男性が窓の前に立っている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-217",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><circle cx=\"100\" cy=\"140\" r=\"14\" fill=\"#4A5578\"/><rect x=\"88\" y=\"154\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"90\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"102\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"200\" cy=\"140\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"154\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"300\" cy=\"140\" r=\"14\" fill=\"#4A5578\"/><rect x=\"288\" y=\"154\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"290\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"302\" y=\"194\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"70\" y=\"210\" width=\"260\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"76\" y=\"224\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"316\" y=\"224\" width=\"8\" height=\"30\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A group of people is standing around a table.",
+      "People are sitting down at the table.",
+      "The table is being carried out of the room.",
+      "One person remains in the room."
+    ],
+    "answer": 0,
+    "explanation": "複数の人がテーブルの周りに立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-218",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"315\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"50\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"65\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"68\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"122\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"180\" cy=\"160\" r=\"14\" fill=\"#4A5578\"/><rect x=\"168\" y=\"174\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"170\" y=\"214\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"182\" y=\"214\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is walking near a parked car.",
+      "A man is loading boxes into a car.",
+      "A tree is being cut down near the car.",
+      "A man is washing a car."
+    ],
+    "answer": 0,
+    "explanation": "男性が駐車された車の近くを歩いている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-219",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"80\" y=\"150\" width=\"240\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"86\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"306\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"120\" y=\"120\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"116\" y=\"144\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"240\" y=\"120\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"236\" y=\"144\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"140\" cy=\"90\" r=\"13\" fill=\"#4A5578\"/><rect x=\"128\" y=\"103\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"126\" y=\"130\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"260\" cy=\"90\" r=\"13\" fill=\"#4A5578\"/><rect x=\"248\" y=\"103\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"246\" y=\"130\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><rect x=\"350\" y=\"200\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "Two people are seated at laptops near a stack of boxes.",
+      "The desk has been cleared of all items.",
+      "Boxes are being opened by the two people.",
+      "One person is asleep at the desk."
+    ],
+    "answer": 0,
+    "explanation": "2人がノートパソコンの前に座り、近くに箱が置かれている場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-220",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"180\" y=\"110\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><circle cx=\"120\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"108\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"110\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"122\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"260\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"248\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"250\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"262\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Two people are standing on either side of a doorway.",
+      "A door is being removed.",
+      "One person is carrying the other through the door.",
+      "The doorway is blocked by furniture."
+    ],
+    "answer": 0,
+    "explanation": "2人がドアの両側に立っている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-221",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"190\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"158\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"224\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"55\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"60\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"335\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"340\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><circle cx=\"190\" cy=\"160\" r=\"13\" fill=\"#4A5578\"/><rect x=\"178\" y=\"173\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"176\" y=\"200\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A woman is sitting on a bench in a park.",
+      "A bench is being repaired.",
+      "A woman is planting a tree.",
+      "People are walking past a bench."
+    ],
+    "answer": 0,
+    "explanation": "女性が公園のベンチに座っている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-222",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"140\" y=\"40\" width=\"120\" height=\"70\" fill=\"#FFFFFF\" stroke=\"#4A5578\" stroke-width=\"4\"/><polygon points=\"60,220 100,220 94,170 66,170\" fill=\"#4A5578\"/><circle cx=\"220\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"208\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"210\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"222\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is giving a presentation near a whiteboard.",
+      "A whiteboard is being cleaned.",
+      "A man is writing on a podium.",
+      "Chairs are stacked near the whiteboard."
+    ],
+    "answer": 0,
+    "explanation": "男性がホワイトボードの近くでプレゼンをしている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-223",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><circle cx=\"160\" cy=\"170\" r=\"13\" fill=\"#4A5578\"/><rect x=\"150\" y=\"182\" width=\"20\" height=\"34\" rx=\"6\" fill=\"#8891AC\" transform=\"rotate(25 160 182)\"/><rect x=\"152\" y=\"210\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"164\" y=\"210\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"140\" y=\"210\" width=\"30\" height=\"30\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is bending down to pick up a box.",
+      "A man is throwing a box away.",
+      "A box is being delivered by truck.",
+      "A man is sitting on a box."
+    ],
+    "answer": 0,
+    "explanation": "男性が箱を拾うためにかがんでいる場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-224",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"75\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"78\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"132\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"190\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"178\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"180\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"192\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"315\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/></svg>",
+    "choices": [
+      "A man is walking away from a parked car.",
+      "A man is getting into a car.",
+      "A car is being loaded with luggage.",
+      "A man is parking a car."
+    ],
+    "answer": 0,
+    "explanation": "男性が駐車された車から離れて歩いている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-225",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"60\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"60\" y1=\"90\" x2=\"150\" y2=\"90\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"60\" y1=\"120\" x2=\"150\" y2=\"120\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"250\" y=\"60\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"250\" y1=\"90\" x2=\"340\" y2=\"90\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"250\" y1=\"120\" x2=\"340\" y2=\"120\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"200\" cy=\"190\" r=\"13\" fill=\"#4A5578\"/><rect x=\"190\" y=\"202\" width=\"20\" height=\"34\" rx=\"6\" fill=\"#8891AC\" transform=\"rotate(25 200 202)\"/><rect x=\"192\" y=\"230\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"204\" y=\"230\" width=\"8\" height=\"26\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A woman is bending over near some shelves.",
+      "A woman is standing on a ladder.",
+      "Shelves are being painted.",
+      "A woman is reading near a window."
+    ],
+    "answer": 0,
+    "explanation": "女性が棚の近くでかがんでいる場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-226",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"170\" width=\"280\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"66\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"326\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"100\" y=\"140\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"96\" y=\"164\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"220\" y=\"140\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"216\" y=\"164\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"320\" y=\"140\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"316\" y=\"164\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "Several laptops are arranged along a desk.",
+      "A single laptop sits on the floor.",
+      "The desk is being cleared.",
+      "Laptops are stacked in a box."
+    ],
+    "answer": 0,
+    "explanation": "複数のノートパソコンが机に並べられている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-227",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"180\" y=\"100\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><circle cx=\"120\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"108\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"110\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"122\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"240\" y=\"200\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is walking past an open door.",
+      "A door is being locked.",
+      "A man is carrying a door.",
+      "A box is blocking a doorway."
+    ],
+    "answer": 0,
+    "explanation": "男性が開いたドアの前を通り過ぎている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-228",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"190\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"68\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"134\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"240\" y=\"190\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"248\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"314\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><circle cx=\"100\" cy=\"160\" r=\"13\" fill=\"#4A5578\"/><rect x=\"88\" y=\"173\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"86\" y=\"200\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"280\" cy=\"160\" r=\"13\" fill=\"#4A5578\"/><rect x=\"268\" y=\"173\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"266\" y=\"200\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Two people are sitting on separate benches.",
+      "People are sharing one bench.",
+      "The benches are empty.",
+      "A bench is being moved."
+    ],
+    "answer": 0,
+    "explanation": "2人がそれぞれ別のベンチに座っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-229",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"50\" width=\"90\" height=\"60\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"250\" y=\"50\" width=\"90\" height=\"60\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"200\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is standing between two large windows.",
+      "Windows are being installed.",
+      "A man is cleaning a window.",
+      "Curtains cover the windows."
+    ],
+    "answer": 0,
+    "explanation": "男性が2つの大きな窓の間に立っている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-230",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"95\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"100\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"195\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"200\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"295\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"300\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><circle cx=\"150\" cy=\"180\" r=\"13\" fill=\"#4A5578\"/><rect x=\"140\" y=\"192\" width=\"20\" height=\"34\" rx=\"6\" fill=\"#8891AC\" transform=\"rotate(25 150 192)\"/><rect x=\"142\" y=\"220\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"154\" y=\"220\" width=\"8\" height=\"26\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is bending down among some trees.",
+      "A man is climbing a tree.",
+      "Trees are being removed.",
+      "A man is watering the trees."
+    ],
+    "answer": 0,
+    "explanation": "男性が木々の間でかがんでいる場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-231",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"75\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"78\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"132\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"180\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"195\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"198\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"252\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"308\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"310\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"322\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is standing apart from two parked cars.",
+      "A man is driving between two cars.",
+      "The cars are being washed.",
+      "A man is loading the cars with boxes."
+    ],
+    "answer": 0,
+    "explanation": "男性が2台の駐車された車から離れて立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-232",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"100\" y=\"150\" width=\"200\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"106\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"286\" y=\"164\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"180\" y=\"120\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"176\" y=\"144\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"140\" cy=\"90\" r=\"14\" fill=\"#4A5578\"/><rect x=\"128\" y=\"104\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"130\" y=\"144\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"142\" y=\"144\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"260\" cy=\"120\" r=\"13\" fill=\"#4A5578\"/><rect x=\"248\" y=\"133\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"246\" y=\"160\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "One person stands while another sits at a desk with a laptop.",
+      "Both people are standing away from the desk.",
+      "The laptop is closed.",
+      "The desk has been removed."
+    ],
+    "answer": 0,
+    "explanation": "1人は立ち、もう1人はノートパソコンのあるデスクに座っている場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-233",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"60\" width=\"100\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"150\" y1=\"82\" x2=\"250\" y2=\"82\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"150\" y1=\"104\" x2=\"250\" y2=\"104\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"150\" y1=\"126\" x2=\"250\" y2=\"126\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"120\" y=\"200\" width=\"28\" height=\"28\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"200\" y=\"200\" width=\"28\" height=\"28\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "Boxes are placed on the floor near some shelves.",
+      "The shelves are fully stocked.",
+      "A worker is climbing the shelves.",
+      "The boxes are being taped shut."
+    ],
+    "answer": 0,
+    "explanation": "棚の近くの床に箱が置かれている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-234",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"110\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><rect x=\"320\" y=\"110\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><circle cx=\"190\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"178\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"180\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"192\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is standing in the middle of two doorways.",
+      "A man is opening both doors at once.",
+      "The doors are painted different colors.",
+      "A man is carrying a door."
+    ],
+    "answer": 0,
+    "explanation": "男性が2つの戸口の間に立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-235",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"50\" width=\"100\" height=\"70\" fill=\"#FFFFFF\" stroke=\"#4A5578\" stroke-width=\"4\"/><rect x=\"200\" y=\"170\" width=\"150\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"206\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"336\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><circle cx=\"240\" cy=\"140\" r=\"13\" fill=\"#4A5578\"/><rect x=\"228\" y=\"153\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"226\" y=\"180\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"320\" cy=\"140\" r=\"13\" fill=\"#4A5578\"/><rect x=\"308\" y=\"153\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"306\" y=\"180\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "People are seated at a desk near a whiteboard.",
+      "The whiteboard is being erased.",
+      "The desk is unoccupied.",
+      "A presentation is being given at the whiteboard."
+    ],
+    "answer": 0,
+    "explanation": "ホワイトボードの近くのデスクに人々が座っている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-236",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"75\" y=\"200\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"80\" cy=\"185\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"150\" y=\"190\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"158\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"224\" y=\"200\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><circle cx=\"190\" cy=\"160\" r=\"13\" fill=\"#4A5578\"/><rect x=\"178\" y=\"173\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"176\" y=\"200\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/><circle cx=\"280\" cy=\"150\" r=\"14\" fill=\"#4A5578\"/><rect x=\"268\" y=\"164\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"270\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"282\" y=\"204\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "One person is sitting while another stands nearby.",
+      "Both people are sitting on the bench.",
+      "The bench is empty.",
+      "Two people are walking away together."
+    ],
+    "answer": 0,
+    "explanation": "1人は座り、もう1人は近くに立っている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-237",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"165\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"168\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"222\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"90\" cy=\"170\" r=\"13\" fill=\"#4A5578\"/><rect x=\"80\" y=\"182\" width=\"20\" height=\"34\" rx=\"6\" fill=\"#8891AC\" transform=\"rotate(25 90 182)\"/><rect x=\"82\" y=\"210\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"94\" y=\"210\" width=\"8\" height=\"26\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is bending down near a parked car.",
+      "A man is sitting inside the car.",
+      "The car is being towed.",
+      "A man is standing on top of the car."
+    ],
+    "answer": 0,
+    "explanation": "男性が駐車された車の近くでかがんでいる場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-238",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"60\" y=\"70\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"60\" y1=\"100\" x2=\"150\" y2=\"100\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"60\" y1=\"130\" x2=\"150\" y2=\"130\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"250\" y=\"70\" width=\"90\" height=\"90\" fill=\"none\" stroke=\"#4A5578\" stroke-width=\"4\"/><line x1=\"250\" y1=\"100\" x2=\"340\" y2=\"100\" stroke=\"#4A5578\" stroke-width=\"3\"/><line x1=\"250\" y1=\"130\" x2=\"340\" y2=\"130\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"160\" cy=\"200\" r=\"14\" fill=\"#4A5578\"/><rect x=\"148\" y=\"214\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"150\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"162\" y=\"254\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"140\" y=\"230\" width=\"24\" height=\"24\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is standing between two rows of shelves holding a box.",
+      "The shelves are empty.",
+      "A man is dismantling the shelves.",
+      "Boxes are stacked to the ceiling."
+    ],
+    "answer": 0,
+    "explanation": "男性が2列の棚の間で箱を持って立っている場面です。",
+    "level": 550
+  },
+  {
+    "id": "l1-239",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"40\" width=\"100\" height=\"60\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"120\" y=\"170\" width=\"160\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"126\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"266\" y=\"184\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"170\" y=\"140\" width=\"36\" height=\"24\" rx=\"2\" fill=\"#16213E\"/><rect x=\"166\" y=\"164\" width=\"44\" height=\"6\" rx=\"2\" fill=\"#8891AC\"/><circle cx=\"200\" cy=\"110\" r=\"13\" fill=\"#4A5578\"/><rect x=\"188\" y=\"123\" width=\"24\" height=\"28\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"186\" y=\"150\" width=\"30\" height=\"10\" rx=\"3\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A person is sitting at a desk in front of a window.",
+      "The window is covered by a curtain.",
+      "The desk is empty.",
+      "A person is standing by the window."
+    ],
+    "answer": 0,
+    "explanation": "人物が窓の前のデスクに座っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-240",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"55\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"60\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><rect x=\"335\" y=\"210\" width=\"10\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"340\" cy=\"195\" r=\"26\" fill=\"#7DA87D\"/><circle cx=\"150\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"138\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"140\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"152\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"250\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"238\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"240\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"252\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Two people are walking in the same direction.",
+      "One person is sitting under a tree.",
+      "The trees are being trimmed.",
+      "The two people are shaking hands."
+    ],
+    "answer": 0,
+    "explanation": "2人が同じ方向に歩いている場面です。",
+    "level": 450
+  },
+  {
+    "id": "l1-241",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"80\" y=\"160\" width=\"240\" height=\"14\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"86\" y=\"174\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"306\" y=\"174\" width=\"8\" height=\"30\" fill=\"#8891AC\"/><rect x=\"100\" y=\"200\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"160\" y=\"200\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/><rect x=\"220\" y=\"200\" width=\"26\" height=\"26\" rx=\"2\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "Several boxes are lined up in front of a desk.",
+      "The desk has been removed.",
+      "A single box sits on the desk.",
+      "The boxes are being opened."
+    ],
+    "answer": 0,
+    "explanation": "複数の箱がデスクの前に並んでいる場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-242",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><polygon points=\"180,200 220,200 214,150 186,150\" fill=\"#4A5578\"/><circle cx=\"200\" cy=\"130\" r=\"14\" fill=\"#4A5578\"/><rect x=\"188\" y=\"144\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"190\" y=\"184\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"202\" y=\"184\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"80\" y=\"210\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"88\" y=\"220\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"154\" y=\"220\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"280\" y=\"210\" width=\"90\" height=\"10\" rx=\"2\" fill=\"#4A5578\"/><rect x=\"288\" y=\"220\" width=\"8\" height=\"20\" fill=\"#8891AC\"/><rect x=\"354\" y=\"220\" width=\"8\" height=\"20\" fill=\"#8891AC\"/></svg>",
+    "choices": [
+      "A man is standing at a podium in front of rows of seats.",
+      "The podium is unattended.",
+      "People are seated at the podium.",
+      "The seats are being arranged."
+    ],
+    "answer": 0,
+    "explanation": "男性が座席の前の演台に立っている場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-243",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"180\" y=\"120\" width=\"40\" height=\"70\" fill=\"#4A5578\"/><rect x=\"60\" y=\"60\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><rect x=\"300\" y=\"60\" width=\"50\" height=\"40\" fill=\"#A9CBEA\" stroke=\"#4A5578\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"190\" r=\"13\" fill=\"#4A5578\"/><rect x=\"110\" y=\"202\" width=\"20\" height=\"34\" rx=\"6\" fill=\"#8891AC\" transform=\"rotate(25 120 202)\"/><rect x=\"112\" y=\"230\" width=\"8\" height=\"26\" fill=\"#4A5578\"/><rect x=\"124\" y=\"230\" width=\"8\" height=\"26\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is bending down near a doorway.",
+      "A man is opening a window.",
+      "The door is locked from outside.",
+      "A man is painting the door."
+    ],
+    "answer": 0,
+    "explanation": "男性が戸口の近くでかがんでいる場面です。",
+    "level": 600
+  },
+  {
+    "id": "l1-244",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"80\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"95\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"98\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"152\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><rect x=\"220\" y=\"190\" width=\"90\" height=\"30\" rx=\"8\" fill=\"#16213E\"/><rect x=\"235\" y=\"172\" width=\"55\" height=\"22\" rx=\"6\" fill=\"#A9CBEA\"/><circle cx=\"238\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"292\" cy=\"222\" r=\"10\" fill=\"#4A5578\"/><circle cx=\"340\" cy=\"160\" r=\"14\" fill=\"#4A5578\"/><rect x=\"328\" y=\"174\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"330\" y=\"214\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"342\" y=\"214\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "A man is standing near two parked cars.",
+      "A man is repairing one of the cars.",
+      "The cars are driving away.",
+      "A man is washing both cars."
+    ],
+    "answer": 0,
+    "explanation": "男性が2台の駐車された車の近くに立っている場面です。",
+    "level": 500
+  },
+  {
+    "id": "l1-245",
+    "image": "<svg viewBox=\"0 0 400 300\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"300\" fill=\"#EEF0F4\"/><rect x=\"0\" y=\"235\" width=\"400\" height=\"65\" fill=\"#D7DAE4\"/><rect x=\"150\" y=\"40\" width=\"110\" height=\"70\" fill=\"#FFFFFF\" stroke=\"#4A5578\" stroke-width=\"4\"/><circle cx=\"120\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"108\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"110\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"122\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><circle cx=\"280\" cy=\"190\" r=\"14\" fill=\"#4A5578\"/><rect x=\"268\" y=\"204\" width=\"24\" height=\"40\" rx=\"6\" fill=\"#8891AC\"/><rect x=\"270\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/><rect x=\"282\" y=\"244\" width=\"8\" height=\"30\" fill=\"#4A5578\"/></svg>",
+    "choices": [
+      "Two people are standing on either side of the room, facing a whiteboard.",
+      "The whiteboard has been taken down.",
+      "One person is writing on the whiteboard.",
+      "The room is empty."
+    ],
+    "answer": 0,
+    "explanation": "2人が部屋の両側に立ち、ホワイトボードの方を向いている場面です。",
+    "level": 550
   }
 ]

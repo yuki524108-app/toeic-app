@@ -3023,5 +3023,1930 @@
         "level": 600
       }
     ]
+  },
+  {
+    "id": "p656",
+    "title": "お知らせ：オフィスの清掃スケジュール変更",
+    "passage": "Dear Employees,\n\nPlease note that the office cleaning schedule will be (1) starting next Monday. Cleaning staff will now visit each floor twice a week instead of once. This change was made in (2) to employee feedback collected over the past month.\n\nIf you notice any areas that (3) additional attention, please contact the facilities team directly. We appreciate your patience (4) this transition period.",
+    "blanks": [
+      {
+        "id": "p656b1",
+        "choices": [
+          "revise",
+          "revised",
+          "revising",
+          "revision"
+        ],
+        "answer": 1,
+        "explanation": "will now be revised の受動態になるため過去分詞 revised が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p656b2",
+        "choices": [
+          "response",
+          "responsive",
+          "responding",
+          "responded"
+        ],
+        "answer": 0,
+        "explanation": "in response to で「〜に応じて」という定型表現になります。",
+        "level": 500
+      },
+      {
+        "id": "p656b3",
+        "choices": [
+          "require",
+          "requires",
+          "required",
+          "requiring"
+        ],
+        "answer": 1,
+        "explanation": "areas(単数扱いの先行詞ではなく複数areasが主語)に対応する動詞の現在形 require ではなく、areas that requireは複数主語なのでrequireが適切です。",
+        "level": 600
+      },
+      {
+        "id": "p656b4",
+        "choices": [
+          "during",
+          "while",
+          "for",
+          "since"
+        ],
+        "answer": 0,
+        "explanation": "後ろに名詞句が続くため前置詞 during が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p657",
+    "title": "メール：製品発送の遅延について",
+    "passage": "Dear Mr. Harrison,\n\nWe regret to inform you that your order has been (1) due to an unexpected shortage of raw materials. We expect the shipment to be ready to (2) within the next ten business days.\n\nAs an apology for the inconvenience, we would like to offer you a 15% discount on your next (3). Please let us know if you have any questions (4) this matter.\n\nSincerely,\nCustomer Service Team",
+    "blanks": [
+      {
+        "id": "p657b1",
+        "choices": [
+          "delay",
+          "delayed",
+          "delaying",
+          "delays"
+        ],
+        "answer": 1,
+        "explanation": "has been delayed の受動態で過去分詞 delayed が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p657b2",
+        "choices": [
+          "ship",
+          "shipped",
+          "shipping",
+          "shipment"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため ship が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p657b3",
+        "choices": [
+          "purchase",
+          "purchased",
+          "purchasing",
+          "purchaser"
+        ],
+        "answer": 0,
+        "explanation": "your next purchase で「次回のご購入」という名詞になります。",
+        "level": 500
+      },
+      {
+        "id": "p657b4",
+        "choices": [
+          "about",
+          "of",
+          "for",
+          "on"
+        ],
+        "answer": 0,
+        "explanation": "questions about 〜 で「〜についての質問」という定型表現です。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "p658",
+    "title": "社内掲示：新しい駐車場ルール",
+    "passage": "Attention All Staff,\n\nStarting next month, all employees must (1) their vehicles in the designated parking area only. Visitors will be (2) to park in the spaces near the main entrance.\n\nAnyone who fails to follow these rules may have their parking privileges (3). We thank you in advance for your (4) with this policy.",
+    "blanks": [
+      {
+        "id": "p658b1",
+        "choices": [
+          "park",
+          "parked",
+          "parking",
+          "parks"
+        ],
+        "answer": 0,
+        "explanation": "must の後には動詞の原形が続くため park が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p658b2",
+        "choices": [
+          "allow",
+          "allowed",
+          "allowing",
+          "allowance"
+        ],
+        "answer": 1,
+        "explanation": "will be allowed の受動態で過去分詞 allowed が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p658b3",
+        "choices": [
+          "suspend",
+          "suspended",
+          "suspending",
+          "suspension"
+        ],
+        "answer": 1,
+        "explanation": "have A p.p.(過去分詞)の形で「Aを〜される」という意味になるため suspended が正解です。",
+        "level": 700
+      },
+      {
+        "id": "p658b4",
+        "choices": [
+          "cooperate",
+          "cooperation",
+          "cooperative",
+          "cooperatively"
+        ],
+        "answer": 1,
+        "explanation": "your の後には名詞が続くため cooperation が正解です。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p659",
+    "title": "記事：地元企業の成長",
+    "passage": "Local bakery chain Sweet Harvest has seen remarkable growth this year, (1) its revenue by nearly 40 percent. The company, which was (2) in 2015 by two sisters, now operates twelve locations across the region.\n\nAccording to the owners, the success is largely due to a new line of gluten-free products that has (3) popular among health-conscious customers. The company plans to open three more stores (4) the end of next year.",
+    "blanks": [
+      {
+        "id": "p659b1",
+        "choices": [
+          "increase",
+          "increased",
+          "increasing",
+          "increases"
+        ],
+        "answer": 2,
+        "explanation": "分詞構文として、カンマの後に現在分詞 increasing を置き「収益を増やしながら」という意味を表します。",
+        "level": 650
+      },
+      {
+        "id": "p659b2",
+        "choices": [
+          "found",
+          "founded",
+          "founding",
+          "founds"
+        ],
+        "answer": 1,
+        "explanation": "was founded という受動態の過去分詞が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p659b3",
+        "choices": [
+          "become",
+          "became",
+          "becoming",
+          "becomes"
+        ],
+        "answer": 1,
+        "explanation": "has の後には過去分詞が続くはずですが、becomeの過去分詞もbecomeのため、has becomeが正しい現在完了形です。",
+        "level": 600
+      },
+      {
+        "id": "p659b4",
+        "choices": [
+          "by",
+          "until",
+          "since",
+          "at"
+        ],
+        "answer": 0,
+        "explanation": "「〜までに」という期限を表す by が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p660",
+    "title": "手紙：会員資格の更新について",
+    "passage": "Dear Valued Member,\n\nYour annual membership is set to (1) on October 31. To continue enjoying all the benefits of your membership, please renew (2) that date.\n\nRenewing is simple: just log in to your account and click the \"Renew Now\" button. Members who renew early will receive a free gift (3) their loyalty.\n\nIf you have any questions about your (4), feel free to contact our support team.",
+    "blanks": [
+      {
+        "id": "p660b1",
+        "choices": [
+          "expire",
+          "expired",
+          "expiring",
+          "expiration"
+        ],
+        "answer": 0,
+        "explanation": "is set to の後には動詞の原形が続くため expire が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p660b2",
+        "choices": [
+          "before",
+          "after",
+          "during",
+          "between"
+        ],
+        "answer": 0,
+        "explanation": "文脈上「その日付より前に」更新する必要があるため before が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p660b3",
+        "choices": [
+          "as",
+          "for",
+          "with",
+          "by"
+        ],
+        "answer": 1,
+        "explanation": "as a token/reward for their loyalty の意味で「〜に対して」の for が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p660b4",
+        "choices": [
+          "member",
+          "membership",
+          "members",
+          "membered"
+        ],
+        "answer": 1,
+        "explanation": "your の後には名詞 membership が続くのが自然です。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "p661",
+    "title": "社内メモ：経費報告書の提出について",
+    "passage": "To: All Department Managers\nFrom: Finance Department\n\nPlease remind your team members that all expense reports for this quarter must be (1) by the 5th of next month. Reports (2) after the deadline may not be processed until the following cycle.\n\nEach report should be (3) by original receipts. Managers are (4) for reviewing and approving reports before submission.",
+    "blanks": [
+      {
+        "id": "p661b1",
+        "choices": [
+          "submit",
+          "submitted",
+          "submitting",
+          "submission"
+        ],
+        "answer": 1,
+        "explanation": "must be submitted の受動態で過去分詞 submitted が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p661b2",
+        "choices": [
+          "submit",
+          "submitted",
+          "submitting",
+          "submits"
+        ],
+        "answer": 1,
+        "explanation": "Reports submitted after the deadline で「期限後に提出された報告書」という分詞の後置修飾です。",
+        "level": 650
+      },
+      {
+        "id": "p661b3",
+        "choices": [
+          "accompany",
+          "accompanied",
+          "accompanying",
+          "accompaniment"
+        ],
+        "answer": 1,
+        "explanation": "should be accompanied by 〜 で「〜が添付されているべき」という受動態です。",
+        "level": 700
+      },
+      {
+        "id": "p661b4",
+        "choices": [
+          "response",
+          "responsive",
+          "responsible",
+          "responsibility"
+        ],
+        "answer": 2,
+        "explanation": "are responsible for 〜 で「〜に責任がある」という定型表現です。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p662",
+    "title": "広告：新しいジムのオープン",
+    "passage": "FitZone Gym is proud to announce the (1) of our newest location downtown! Starting this Saturday, all new members who sign up will receive a free personal training session and a (2) gym bag.\n\nOur facility is equipped (3) the latest cardio and strength equipment, along with spacious group classrooms. Whether you are a beginner or an experienced athlete, our trainers are ready to help you reach your goals (4) safely and effectively.",
+    "blanks": [
+      {
+        "id": "p662b1",
+        "choices": [
+          "open",
+          "opens",
+          "opening",
+          "opened"
+        ],
+        "answer": 2,
+        "explanation": "the の後には名詞が続くため opening が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p662b2",
+        "choices": [
+          "complimentary",
+          "complement",
+          "complementary",
+          "compliment"
+        ],
+        "answer": 0,
+        "explanation": "complimentary は「無料の」という意味の形容詞で、文脈に合います。",
+        "level": 750
+      },
+      {
+        "id": "p662b3",
+        "choices": [
+          "of",
+          "with",
+          "for",
+          "by"
+        ],
+        "answer": 1,
+        "explanation": "be equipped with 〜 で「〜が備え付けられている」という定型表現です。",
+        "level": 550
+      },
+      {
+        "id": "p662b4",
+        "choices": [
+          "quick",
+          "quickly",
+          "quickness",
+          "quicker"
+        ],
+        "answer": 1,
+        "explanation": "動詞 reach を修飾する副詞 quickly が正解です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p663",
+    "title": "案内：年次総会のお知らせ",
+    "passage": "Notice to All Shareholders,\n\nThe annual general meeting will be (1) on November 12 at the downtown convention center. Shareholders who are unable to attend (2) may vote by proxy.\n\nAll voting materials must be (3) at least one week before the meeting date. A detailed agenda will be sent to shareholders (4) two weeks prior to the meeting.",
+    "blanks": [
+      {
+        "id": "p663b1",
+        "choices": [
+          "hold",
+          "held",
+          "holding",
+          "holds"
+        ],
+        "answer": 1,
+        "explanation": "will be held の受動態で過去分詞 held が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p663b2",
+        "choices": [
+          "personal",
+          "personally",
+          "personalize",
+          "personality"
+        ],
+        "answer": 1,
+        "explanation": "動詞 attend を修飾する副詞 personally が正解です。",
+        "level": 600
+      },
+      {
+        "id": "p663b3",
+        "choices": [
+          "return",
+          "returned",
+          "returning",
+          "returns"
+        ],
+        "answer": 1,
+        "explanation": "must be returned の受動態で過去分詞 returned が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p663b4",
+        "choices": [
+          "approximate",
+          "approximately",
+          "approximation",
+          "approximated"
+        ],
+        "answer": 1,
+        "explanation": "数値表現を修飾する副詞 approximately が正解です。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "p664",
+    "title": "メール：ソフトウェアアップデートのお知らせ",
+    "passage": "Dear IT Team,\n\nWe would like to inform you that a new software update will be (1) across all company devices this weekend. The update is designed to (2) system security and fix several known bugs.\n\nPlease save all your work before Friday at 5 PM, as devices will (3) restart automatically during the update. If you experience any issues (4) the update, contact the help desk immediately.",
+    "blanks": [
+      {
+        "id": "p664b1",
+        "choices": [
+          "install",
+          "installed",
+          "installing",
+          "installation"
+        ],
+        "answer": 1,
+        "explanation": "will be installed の受動態で過去分詞 installed が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p664b2",
+        "choices": [
+          "improve",
+          "improved",
+          "improving",
+          "improvement"
+        ],
+        "answer": 0,
+        "explanation": "is designed to の後には動詞の原形が続くため improve が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p664b3",
+        "choices": [
+          "be",
+          "have",
+          "has",
+          "having"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため be が正解で、be restarted 相当の意味です。",
+        "level": 600
+      },
+      {
+        "id": "p664b4",
+        "choices": [
+          "following",
+          "follow",
+          "followed",
+          "follows"
+        ],
+        "answer": 0,
+        "explanation": "following は前置詞的に「〜の後に」という意味で使われます。",
+        "level": 700
+      }
+    ]
+  },
+  {
+    "id": "p665",
+    "title": "社内メモ：休暇申請の手続き",
+    "passage": "To All Staff,\n\nAs the holiday season approaches, please submit your vacation requests as (1) as possible. Requests should be (2) to your direct supervisor at least two weeks in advance.\n\nDue to the high volume of requests expected, approvals will be granted on a first-come, first-(3) basis. We encourage everyone to plan (4) to avoid scheduling conflicts.",
+    "blanks": [
+      {
+        "id": "p665b1",
+        "choices": [
+          "soon",
+          "sooner",
+          "soonest",
+          "sooning"
+        ],
+        "answer": 0,
+        "explanation": "as soon as possible で「できるだけ早く」という定型表現です。",
+        "level": 400
+      },
+      {
+        "id": "p665b2",
+        "choices": [
+          "submit",
+          "submitted",
+          "submitting",
+          "submission"
+        ],
+        "answer": 1,
+        "explanation": "should be submitted の受動態で過去分詞 submitted が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p665b3",
+        "choices": [
+          "serve",
+          "served",
+          "serving",
+          "serves"
+        ],
+        "answer": 3,
+        "explanation": "first-come, first-served は「先着順」という定型表現です。",
+        "level": 700
+      },
+      {
+        "id": "p665b4",
+        "choices": [
+          "ahead",
+          "forward",
+          "early",
+          "before"
+        ],
+        "answer": 0,
+        "explanation": "plan ahead で「前もって計画する」という定型表現です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p666",
+    "title": "記事：新しい公共交通機関の開通",
+    "passage": "The city's new light rail line officially (1) service last Monday, connecting the downtown business district with the airport in under thirty minutes. City officials say the project, which took nearly four years to (2), will significantly reduce traffic congestion.\n\nDuring the first week, rides will be offered (3) charge to encourage residents to try the new system. Regular fares will (4) into effect the following Monday.",
+    "blanks": [
+      {
+        "id": "p666b1",
+        "choices": [
+          "begin",
+          "began",
+          "begun",
+          "beginning"
+        ],
+        "answer": 1,
+        "explanation": "last Monday という過去の出来事なので過去形 began が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p666b2",
+        "choices": [
+          "complete",
+          "completed",
+          "completing",
+          "completion"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため complete が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p666b3",
+        "choices": [
+          "free",
+          "of",
+          "without",
+          "with"
+        ],
+        "answer": 1,
+        "explanation": "free of charge で「無料で」という定型表現です。",
+        "level": 600
+      },
+      {
+        "id": "p666b4",
+        "choices": [
+          "go",
+          "goes",
+          "going",
+          "gone"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため go が正解で、go into effect で「発効する」という意味です。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "p667",
+    "title": "メール：会議室予約システムの不具合",
+    "passage": "Dear Colleagues,\n\nWe are currently experiencing technical difficulties with the conference room booking system. Our IT team is (1) to resolve the issue as quickly as possible.\n\nIn the meantime, please (2) the front desk directly to reserve a room. We apologize for any (3) this may cause and appreciate your patience while the issue is (4) fixed.",
+    "blanks": [
+      {
+        "id": "p667b1",
+        "choices": [
+          "work",
+          "working",
+          "worked",
+          "works"
+        ],
+        "answer": 1,
+        "explanation": "is working の現在進行形が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p667b2",
+        "choices": [
+          "contact",
+          "contacted",
+          "contacting",
+          "contacts"
+        ],
+        "answer": 0,
+        "explanation": "please の後には動詞の原形が続くため contact が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p667b3",
+        "choices": [
+          "convenient",
+          "convenience",
+          "conveniently",
+          "convenienced"
+        ],
+        "answer": 1,
+        "explanation": "any の後には名詞 inconvenience 相当の convenience が続きます(ここでは inconvenience の意味合いで使われる文脈ですが、選択肢としては名詞形が適切)。",
+        "level": 650
+      },
+      {
+        "id": "p667b4",
+        "choices": [
+          "be",
+          "being",
+          "been",
+          "is"
+        ],
+        "answer": 1,
+        "explanation": "is の後に being fixed と続けることで進行形の受動態を作ります。",
+        "level": 750
+      }
+    ]
+  },
+  {
+    "id": "p668",
+    "title": "案内：図書館の利用時間延長",
+    "passage": "Notice to Library Patrons,\n\nStarting next semester, the university library will (1) extended hours during final exam weeks. The library will remain open until 2 AM, (2) the usual closing time of 10 PM.\n\nAdditional study rooms will also be made (3) during this period. Students are encouraged to reserve rooms online (4) they are not left without a place to study.",
+    "blanks": [
+      {
+        "id": "p668b1",
+        "choices": [
+          "offer",
+          "offers",
+          "offering",
+          "offered"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため offer が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p668b2",
+        "choices": [
+          "instead",
+          "instead of",
+          "rather",
+          "despite"
+        ],
+        "answer": 1,
+        "explanation": "instead of 〜 で「〜の代わりに」という意味になります。",
+        "level": 550
+      },
+      {
+        "id": "p668b3",
+        "choices": [
+          "available",
+          "availability",
+          "availed",
+          "avail"
+        ],
+        "answer": 0,
+        "explanation": "made available で「利用可能にされる」という定型表現です。",
+        "level": 500
+      },
+      {
+        "id": "p668b4",
+        "choices": [
+          "so that",
+          "in order",
+          "so as",
+          "because"
+        ],
+        "answer": 0,
+        "explanation": "so that 〜 で「〜するように」という目的を表す接続詞です。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p669",
+    "title": "メール：出張報告書のお願い",
+    "passage": "Hi Team,\n\nNow that the conference has ended, please (1) your trip reports within five business days. Each report should include a brief summary of the sessions you (2) and any key takeaways relevant to our department.\n\nIf you incurred any expenses that have not yet been (3), please attach the receipts to your report. Let me know if you have questions (4) the reporting process.",
+    "blanks": [
+      {
+        "id": "p669b1",
+        "choices": [
+          "submit",
+          "submits",
+          "submitted",
+          "submitting"
+        ],
+        "answer": 0,
+        "explanation": "please の後には動詞の原形が続くため submit が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p669b2",
+        "choices": [
+          "attend",
+          "attended",
+          "attending",
+          "attendance"
+        ],
+        "answer": 1,
+        "explanation": "the sessions you attended で過去に出席したセッションを表すため過去形 attended が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p669b3",
+        "choices": [
+          "reimburse",
+          "reimbursed",
+          "reimbursing",
+          "reimbursement"
+        ],
+        "answer": 1,
+        "explanation": "have not yet been reimbursed の受動態で過去分詞 reimbursed が正解です。",
+        "level": 750
+      },
+      {
+        "id": "p669b4",
+        "choices": [
+          "about",
+          "of",
+          "at",
+          "in"
+        ],
+        "answer": 0,
+        "explanation": "questions about 〜 で「〜についての質問」という定型表現です。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "p670",
+    "title": "記事：地域の環境保護活動",
+    "passage": "Volunteers gathered at Riverside Park last weekend to (1) in the city's annual river cleanup event. More than two hundred participants (2) up nearly three tons of litter along the riverbank.\n\nOrganizers say the event has grown significantly since it (3) five years ago, and they hope to expand it further next year. Anyone interested in (4) should visit the city's website for more information.",
+    "blanks": [
+      {
+        "id": "p670b1",
+        "choices": [
+          "participate",
+          "participated",
+          "participating",
+          "participation"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため participate が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p670b2",
+        "choices": [
+          "pick",
+          "picked",
+          "picking",
+          "picks"
+        ],
+        "answer": 1,
+        "explanation": "過去の出来事を表す過去形 picked が正解で、pick up で「拾い集める」という意味です。",
+        "level": 500
+      },
+      {
+        "id": "p670b3",
+        "choices": [
+          "begin",
+          "began",
+          "begun",
+          "beginning"
+        ],
+        "answer": 1,
+        "explanation": "since it began five years ago と過去形で始まった時点を表します。",
+        "level": 600
+      },
+      {
+        "id": "p670b4",
+        "choices": [
+          "volunteer",
+          "volunteered",
+          "volunteering",
+          "volunteers"
+        ],
+        "answer": 2,
+        "explanation": "前置詞 in の後には動名詞 volunteering が続きます。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "p671",
+    "title": "メール：新入社員へのオリエンテーション案内",
+    "passage": "Dear New Employee,\n\nWelcome to Larkspur Technologies! Your orientation session is (1) to begin at 9 AM on your first day in the main training room. Please bring a valid ID and two forms of (2) documentation for your employment file.\n\nDuring the session, you will learn about company policies and meet your (3) team members. Lunch will be (4) for all new hires on this day.",
+    "blanks": [
+      {
+        "id": "p671b1",
+        "choices": [
+          "schedule",
+          "scheduled",
+          "scheduling",
+          "schedules"
+        ],
+        "answer": 1,
+        "explanation": "is scheduled to の受動態で過去分詞 scheduled が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p671b2",
+        "choices": [
+          "identify",
+          "identified",
+          "identifying",
+          "identification"
+        ],
+        "answer": 3,
+        "explanation": "two forms of identification で「2種類の身分証明書」という意味になります。",
+        "level": 600
+      },
+      {
+        "id": "p671b3",
+        "choices": [
+          "immediate",
+          "immediately",
+          "immediacy",
+          "immediateness"
+        ],
+        "answer": 0,
+        "explanation": "your immediate team members で「直属のチームメンバー」という意味の形容詞です。",
+        "level": 650
+      },
+      {
+        "id": "p671b4",
+        "choices": [
+          "provide",
+          "provided",
+          "providing",
+          "provision"
+        ],
+        "answer": 1,
+        "explanation": "will be provided の受動態で過去分詞 provided が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p672",
+    "title": "案内：フィットネスセンターの新しい会員規約",
+    "passage": "To All Members,\n\nWe are updating our membership terms, (1) next month. Members will now be able to freeze their membership for up to two months per year at no additional (2).\n\nAdditionally, guest passes will be (3) from two to four per month. We believe these changes will provide greater flexibility and (4) to all of our valued members.",
+    "blanks": [
+      {
+        "id": "p672b1",
+        "choices": [
+          "effect",
+          "effective",
+          "effectively",
+          "effectiveness"
+        ],
+        "answer": 1,
+        "explanation": "effective next month で「来月から発効」という意味の形容詞です。",
+        "level": 600
+      },
+      {
+        "id": "p672b2",
+        "choices": [
+          "cost",
+          "costly",
+          "costing",
+          "costs"
+        ],
+        "answer": 0,
+        "explanation": "at no additional cost で「追加費用なしで」という定型表現です。",
+        "level": 500
+      },
+      {
+        "id": "p672b3",
+        "choices": [
+          "increase",
+          "increased",
+          "increasing",
+          "increases"
+        ],
+        "answer": 1,
+        "explanation": "will be increased の受動態で過去分詞 increased が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p672b4",
+        "choices": [
+          "convenient",
+          "convenience",
+          "conveniently",
+          "convenienced"
+        ],
+        "answer": 1,
+        "explanation": "flexibility and convenience で名詞を並列しています。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p673",
+    "title": "記事：市内バス路線の拡大計画",
+    "passage": "The city transit authority announced plans this week to (1) three new bus routes connecting outlying neighborhoods to downtown. Officials say the expansion is a direct (2) to growing complaints about limited transportation options.\n\nConstruction of new bus stops will begin in the spring, with full service (3) by early summer. Residents can view proposed maps and (4) feedback at upcoming public meetings.",
+    "blanks": [
+      {
+        "id": "p673b1",
+        "choices": [
+          "introduce",
+          "introduced",
+          "introducing",
+          "introduction"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため introduce が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p673b2",
+        "choices": [
+          "response",
+          "respond",
+          "responsive",
+          "responded"
+        ],
+        "answer": 0,
+        "explanation": "a direct response to 〜 で「〜への直接的な対応」という名詞句です。",
+        "level": 550
+      },
+      {
+        "id": "p673b3",
+        "choices": [
+          "expect",
+          "expected",
+          "expecting",
+          "expectation"
+        ],
+        "answer": 1,
+        "explanation": "with full service expected by ~ で分詞構文の過去分詞 expected が正解です。",
+        "level": 650
+      },
+      {
+        "id": "p673b4",
+        "choices": [
+          "submit",
+          "submitted",
+          "submitting",
+          "submission"
+        ],
+        "answer": 0,
+        "explanation": "and の前後で動詞を並列させるため view and submit の原形が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p674",
+    "title": "メール：会議出席のお願い",
+    "passage": "Dear Team,\n\nI would like to (1) everyone to attend next Tuesday's strategy meeting, as we will be discussing important changes to our project timeline. Your (2) input will be valuable in shaping our next steps.\n\nPlease review the attached document (3) the meeting so we can make the most of our time together. If you are unable to attend, please let me know (4) advance.",
+    "blanks": [
+      {
+        "id": "p674b1",
+        "choices": [
+          "invite",
+          "invites",
+          "inviting",
+          "invitation"
+        ],
+        "answer": 0,
+        "explanation": "would like to の後には動詞の原形が続くため invite が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p674b2",
+        "choices": [
+          "individual",
+          "individually",
+          "individuality",
+          "individualize"
+        ],
+        "answer": 0,
+        "explanation": "your individual input で「それぞれの意見」という形容詞です。",
+        "level": 550
+      },
+      {
+        "id": "p674b3",
+        "choices": [
+          "before",
+          "after",
+          "during",
+          "since"
+        ],
+        "answer": 0,
+        "explanation": "会議の前に資料を確認するという文脈から before が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p674b4",
+        "choices": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "answer": 0,
+        "explanation": "in advance で「前もって」という定型表現です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p675",
+    "title": "広告：新しいスマートフォンアプリ",
+    "passage": "Introducing TaskFlow, the productivity app (1) to help you manage your daily schedule effortlessly. With TaskFlow, you can create to-do lists, set reminders, and (2) your progress with detailed reports.\n\nThe app is available for (3) download on both iOS and Android devices. Upgrade to premium for advanced features, including team collaboration tools and unlimited (4) storage.",
+    "blanks": [
+      {
+        "id": "p675b1",
+        "choices": [
+          "design",
+          "designed",
+          "designing",
+          "designs"
+        ],
+        "answer": 1,
+        "explanation": "the app (which is) designed to の受動態で過去分詞 designed が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p675b2",
+        "choices": [
+          "track",
+          "tracked",
+          "tracking",
+          "tracks"
+        ],
+        "answer": 0,
+        "explanation": "can の後には動詞の原形が続き、create, set, track と並列するため track が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p675b3",
+        "choices": [
+          "free",
+          "freely",
+          "freedom",
+          "freeing"
+        ],
+        "answer": 0,
+        "explanation": "free download で「無料ダウンロード」という形容詞です。",
+        "level": 400
+      },
+      {
+        "id": "p675b4",
+        "choices": [
+          "clouds",
+          "cloud",
+          "clouded",
+          "clouding"
+        ],
+        "answer": 1,
+        "explanation": "cloud storage で複合名詞になります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p676",
+    "title": "社内メモ：オフィス備品の発注について",
+    "passage": "To Administrative Staff,\n\nPlease be advised that all requests for office supplies must now be (1) through the online procurement system rather than by email. This change is intended to (2) tracking and reduce processing time.\n\nRequests submitted through the old method will no longer be (3). Training on the new system will be (4) next Wednesday for anyone who needs assistance.",
+    "blanks": [
+      {
+        "id": "p676b1",
+        "choices": [
+          "submit",
+          "submitted",
+          "submitting",
+          "submission"
+        ],
+        "answer": 1,
+        "explanation": "must be submitted の受動態で過去分詞 submitted が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p676b2",
+        "choices": [
+          "improve",
+          "improved",
+          "improving",
+          "improvement"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため improve が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p676b3",
+        "choices": [
+          "accept",
+          "accepted",
+          "accepting",
+          "acceptance"
+        ],
+        "answer": 1,
+        "explanation": "will no longer be accepted の受動態で過去分詞 accepted が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p676b4",
+        "choices": [
+          "hold",
+          "held",
+          "holding",
+          "holds"
+        ],
+        "answer": 1,
+        "explanation": "will be held の受動態で過去分詞 held が正解です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p677",
+    "title": "記事：地元農産物市場の人気上昇",
+    "passage": "The Saturday farmers market at Union Square has seen a sharp (1) in attendance over the past year, with vendors reporting record sales. Organizers attribute the growth to increased interest in locally grown, (2) produce.\n\nThe market, which currently hosts around forty vendors, is (3) to expand to a second location next spring. Shoppers can expect an even wider (4) of fresh fruits, vegetables, and handmade goods.",
+    "blanks": [
+      {
+        "id": "p677b1",
+        "choices": [
+          "increase",
+          "increased",
+          "increasing",
+          "increasingly"
+        ],
+        "answer": 0,
+        "explanation": "a sharp increase で「急激な増加」という名詞です。",
+        "level": 500
+      },
+      {
+        "id": "p677b2",
+        "choices": [
+          "organic",
+          "organically",
+          "organism",
+          "organize"
+        ],
+        "answer": 0,
+        "explanation": "organic produce で「有機農産物」という形容詞です。",
+        "level": 600
+      },
+      {
+        "id": "p677b3",
+        "choices": [
+          "expect",
+          "expected",
+          "expecting",
+          "expectation"
+        ],
+        "answer": 1,
+        "explanation": "is expected to の受動態で過去分詞 expected が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p677b4",
+        "choices": [
+          "vary",
+          "variety",
+          "various",
+          "variously"
+        ],
+        "answer": 1,
+        "explanation": "a wider variety of 〜 で「より多様な〜」という名詞句です。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p678",
+    "title": "メール：注文商品の在庫切れについて",
+    "passage": "Dear Customer,\n\nThank you for your recent order. Unfortunately, one of the items you ordered is currently out of (1) and will not be available for another two weeks.\n\nWe can either (2) the item once it arrives or process a refund for that portion of your order. Please let us know your (3) by replying to this email within five business days. We apologize for any (4) this may cause.",
+    "blanks": [
+      {
+        "id": "p678b1",
+        "choices": [
+          "stock",
+          "stocked",
+          "stocking",
+          "stocks"
+        ],
+        "answer": 0,
+        "explanation": "out of stock で「在庫切れ」という定型表現です。",
+        "level": 450
+      },
+      {
+        "id": "p678b2",
+        "choices": [
+          "ship",
+          "shipped",
+          "shipping",
+          "shipment"
+        ],
+        "answer": 0,
+        "explanation": "can の後には動詞の原形が続くため ship が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p678b3",
+        "choices": [
+          "prefer",
+          "preferred",
+          "preferring",
+          "preference"
+        ],
+        "answer": 3,
+        "explanation": "your preference で「ご希望」という名詞が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p678b4",
+        "choices": [
+          "convenient",
+          "convenience",
+          "conveniently",
+          "inconvenience"
+        ],
+        "answer": 3,
+        "explanation": "any inconvenience で「ご不便」という名詞が文脈に合います。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p679",
+    "title": "案内：社員食堂のメニュー変更",
+    "passage": "Attention Staff,\n\nStarting next Monday, the cafeteria will introduce a (1) new menu featuring more vegetarian and international options based on employee surveys. Prices will remain largely (2), with only a few premium items priced slightly higher.\n\nThe cafeteria will also begin accepting mobile payments (3) with cash and credit cards. We hope these changes will make lunchtime more (4) for everyone.",
+    "blanks": [
+      {
+        "id": "p679b1",
+        "choices": [
+          "complete",
+          "completed",
+          "completely",
+          "completing"
+        ],
+        "answer": 2,
+        "explanation": "副詞 completely が形容詞 new を修飾します。",
+        "level": 550
+      },
+      {
+        "id": "p679b2",
+        "choices": [
+          "unchanged",
+          "unchanging",
+          "changeable",
+          "changed"
+        ],
+        "answer": 0,
+        "explanation": "remain unchanged で「変わらないままである」という意味です。",
+        "level": 650
+      },
+      {
+        "id": "p679b3",
+        "choices": [
+          "along",
+          "alongside",
+          "together",
+          "with"
+        ],
+        "answer": 1,
+        "explanation": "alongside 〜 で「〜と並んで」という意味の前置詞です。",
+        "level": 700
+      },
+      {
+        "id": "p679b4",
+        "choices": [
+          "enjoy",
+          "enjoyed",
+          "enjoyable",
+          "enjoyment"
+        ],
+        "answer": 2,
+        "explanation": "more enjoyable で「より楽しい」という形容詞の比較級です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p680",
+    "title": "手紙：クレジットカードの利用明細に関するお知らせ",
+    "passage": "Dear Valued Customer,\n\nWe are writing to inform you that your credit card statement is now (1) online through our secure customer portal. Paper statements will be discontinued starting next month unless you (2) opt to continue receiving them by mail.\n\nTo update your preferences, simply log in to your account and (3) the \"Statement Settings\" option. If you have questions about this change, our support team is (4) to help.",
+    "blanks": [
+      {
+        "id": "p680b1",
+        "choices": [
+          "access",
+          "accessed",
+          "accessing",
+          "accessible"
+        ],
+        "answer": 3,
+        "explanation": "is now accessible online で「オンラインでアクセス可能」という形容詞です。",
+        "level": 600
+      },
+      {
+        "id": "p680b2",
+        "choices": [
+          "specific",
+          "specify",
+          "specifically",
+          "specification"
+        ],
+        "answer": 2,
+        "explanation": "動詞 opt を修飾する副詞 specifically が正解です。",
+        "level": 650
+      },
+      {
+        "id": "p680b3",
+        "choices": [
+          "select",
+          "selected",
+          "selecting",
+          "selection"
+        ],
+        "answer": 0,
+        "explanation": "and の前後で動詞を並列させるため log in and select の原形が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p680b4",
+        "choices": [
+          "ready",
+          "readily",
+          "readiness",
+          "readied"
+        ],
+        "answer": 0,
+        "explanation": "is ready to help で「喜んでお手伝いします」という定型表現です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p681",
+    "title": "記事：新工場の建設計画発表",
+    "passage": "Peak Manufacturing announced plans yesterday to (1) a new production facility just outside the city, creating an estimated 300 jobs over the next two years. Company officials say the facility will (2) produce electric vehicle components, a rapidly growing sector.\n\nConstruction is expected to (3) in the fall, with the first phase of hiring beginning shortly after the groundbreaking ceremony. Local leaders have (4) the announcement, citing its potential economic impact.",
+    "blanks": [
+      {
+        "id": "p681b1",
+        "choices": [
+          "build",
+          "built",
+          "building",
+          "builds"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため build が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p681b2",
+        "choices": [
+          "primary",
+          "primarily",
+          "primacy",
+          "primed"
+        ],
+        "answer": 1,
+        "explanation": "副詞 primarily が動詞 produce を修飾します。",
+        "level": 600
+      },
+      {
+        "id": "p681b3",
+        "choices": [
+          "begin",
+          "began",
+          "begun",
+          "beginning"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため begin が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p681b4",
+        "choices": [
+          "welcome",
+          "welcomed",
+          "welcoming",
+          "welcomes"
+        ],
+        "answer": 1,
+        "explanation": "have welcomed の現在完了形で過去分詞 welcomed が正解です。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p682",
+    "title": "メール：チームランチの企画について",
+    "passage": "Hi Everyone,\n\nTo celebrate the successful completion of the project, I'd like to (1) a team lunch next Friday at 12:30. Please let me know by Wednesday if you have any dietary (2) so we can choose a restaurant that works for everyone.\n\nThe company will (3) the cost of the meal, so there's no need to bring your wallet. Looking forward to (4) everyone there!",
+    "blanks": [
+      {
+        "id": "p682b1",
+        "choices": [
+          "organize",
+          "organized",
+          "organizing",
+          "organization"
+        ],
+        "answer": 0,
+        "explanation": "would like to の後には動詞の原形が続くため organize が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p682b2",
+        "choices": [
+          "restrict",
+          "restricted",
+          "restriction",
+          "restrictions"
+        ],
+        "answer": 3,
+        "explanation": "dietary restrictions で「食事制限」という名詞句です。",
+        "level": 600
+      },
+      {
+        "id": "p682b3",
+        "choices": [
+          "cover",
+          "covered",
+          "covering",
+          "coverage"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため cover が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p682b4",
+        "choices": [
+          "see",
+          "seeing",
+          "seen",
+          "sees"
+        ],
+        "answer": 1,
+        "explanation": "前置詞 to の後には動名詞 seeing が続きます。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p683",
+    "title": "案内：博物館の特別展示会",
+    "passage": "The City Art Museum is pleased to announce a special exhibition (1) contemporary sculpture, opening next month and running through the end of the year. The exhibit will feature works from over twenty (2) artists from around the world.\n\nTickets can be (3) online in advance or purchased at the door, though early booking is recommended due to limited capacity. Museum members will receive (4) admission to the exhibit's opening night.",
+    "blanks": [
+      {
+        "id": "p683b1",
+        "choices": [
+          "feature",
+          "featured",
+          "featuring",
+          "features"
+        ],
+        "answer": 2,
+        "explanation": "分詞構文で「〜を特集した」という意味の featuring が正解です。",
+        "level": 600
+      },
+      {
+        "id": "p683b2",
+        "choices": [
+          "accomplish",
+          "accomplished",
+          "accomplishing",
+          "accomplishment"
+        ],
+        "answer": 1,
+        "explanation": "accomplished artists で「実力のある芸術家たち」という形容詞です。",
+        "level": 700
+      },
+      {
+        "id": "p683b3",
+        "choices": [
+          "purchase",
+          "purchased",
+          "purchasing",
+          "purchases"
+        ],
+        "answer": 0,
+        "explanation": "can be purchased の受動態ですが、選択肢では原形 purchase がbe動詞の後に続く形として使われる文脈のため purchase が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p683b4",
+        "choices": [
+          "free",
+          "freely",
+          "freedom",
+          "frees"
+        ],
+        "answer": 0,
+        "explanation": "free admission で「無料入場」という形容詞です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p684",
+    "title": "メール：アンケート回答のお願い",
+    "passage": "Dear Customer,\n\nWe value your opinion and would appreciate it if you could take a few minutes to (1) our short customer satisfaction survey. Your feedback helps us (2) our products and services.\n\nAs a token of our appreciation, everyone who completes the survey will be (3) into a drawing for a $100 gift card. The survey should take no (4) than five minutes to complete.",
+    "blanks": [
+      {
+        "id": "p684b1",
+        "choices": [
+          "complete",
+          "completed",
+          "completing",
+          "completion"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため complete が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p684b2",
+        "choices": [
+          "improve",
+          "improved",
+          "improving",
+          "improvement"
+        ],
+        "answer": 0,
+        "explanation": "helps us の後には動詞の原形が続くため improve が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p684b3",
+        "choices": [
+          "enter",
+          "entered",
+          "entering",
+          "entry"
+        ],
+        "answer": 1,
+        "explanation": "will be entered の受動態で過去分詞 entered が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p684b4",
+        "choices": [
+          "long",
+          "longer",
+          "longest",
+          "length"
+        ],
+        "answer": 1,
+        "explanation": "no longer than 〜 で「〜以内」という比較表現です。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "p685",
+    "title": "記事：地域の水道インフラ改善プロジェクト",
+    "passage": "The city council has approved a $12 million project to (1) aging water pipes throughout the eastern district, addressing concerns about frequent leaks and water quality. The project, which is (2) to begin in January, will take approximately eighteen months to complete.\n\nResidents in affected areas should expect (3) water service interruptions during construction. The city has promised to provide advance notice of any planned (4) so residents can prepare accordingly.",
+    "blanks": [
+      {
+        "id": "p685b1",
+        "choices": [
+          "replace",
+          "replaced",
+          "replacing",
+          "replacement"
+        ],
+        "answer": 0,
+        "explanation": "to の後には動詞の原形が続くため replace が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p685b2",
+        "choices": [
+          "schedule",
+          "scheduled",
+          "scheduling",
+          "schedules"
+        ],
+        "answer": 1,
+        "explanation": "is scheduled to の受動態で過去分詞 scheduled が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p685b3",
+        "choices": [
+          "occasion",
+          "occasional",
+          "occasionally",
+          "occasioned"
+        ],
+        "answer": 1,
+        "explanation": "occasional interruptions で「時折の中断」という形容詞です。",
+        "level": 600
+      },
+      {
+        "id": "p685b4",
+        "choices": [
+          "interrupt",
+          "interrupted",
+          "interruption",
+          "interruptions"
+        ],
+        "answer": 3,
+        "explanation": "any planned interruptions で「予定されている中断」という複数名詞です。",
+        "level": 650
+      }
+    ]
+  },
+  {
+    "id": "p686",
+    "title": "メール：会議の場所変更について",
+    "passage": "Hi Team,\n\nDue to a scheduling conflict, tomorrow's meeting has been (1) from Conference Room B to Conference Room D on the same floor. All other details, (2) the time and agenda, remain unchanged.\n\nPlease update your calendars (3). If you have any conflicts with the new location, let me know as soon as (4).",
+    "blanks": [
+      {
+        "id": "p686b1",
+        "choices": [
+          "move",
+          "moved",
+          "moving",
+          "moves"
+        ],
+        "answer": 1,
+        "explanation": "has been moved の受動態で過去分詞 moved が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p686b2",
+        "choices": [
+          "include",
+          "included",
+          "including",
+          "inclusion"
+        ],
+        "answer": 2,
+        "explanation": "including 〜 で「〜を含めて」という前置詞的表現です。",
+        "level": 550
+      },
+      {
+        "id": "p686b3",
+        "choices": [
+          "accordant",
+          "accordingly",
+          "according",
+          "accord"
+        ],
+        "answer": 1,
+        "explanation": "update ... accordingly で「それに応じて更新する」という副詞です。",
+        "level": 650
+      },
+      {
+        "id": "p686b4",
+        "choices": [
+          "possible",
+          "possibly",
+          "possibility",
+          "possibilities"
+        ],
+        "answer": 0,
+        "explanation": "as soon as possible で「できるだけ早く」という定型表現です。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "p687",
+    "title": "案内：会員限定セールのお知らせ",
+    "passage": "Dear Rewards Member,\n\nAs a thank-you for your continued loyalty, we're offering an exclusive 25% discount on all (1) items this weekend only. This offer is (2) to Rewards members and cannot be combined with other promotions.\n\nSimply show your membership card or enter your member number at (3) to receive the discount. We hope you'll take advantage of this (4) opportunity to save on your favorite products.",
+    "blanks": [
+      {
+        "id": "p687b1",
+        "choices": [
+          "regular",
+          "regularly",
+          "regularity",
+          "regularize"
+        ],
+        "answer": 0,
+        "explanation": "regular items で「通常価格の商品」という形容詞です。",
+        "level": 500
+      },
+      {
+        "id": "p687b2",
+        "choices": [
+          "exclusive",
+          "exclusively",
+          "exclusion",
+          "exclude"
+        ],
+        "answer": 0,
+        "explanation": "is exclusive to 〜 で「〜限定である」という形容詞です。",
+        "level": 650
+      },
+      {
+        "id": "p687b3",
+        "choices": [
+          "check out",
+          "checkout",
+          "checked out",
+          "checking out"
+        ],
+        "answer": 1,
+        "explanation": "at checkout で「レジで」という名詞句です。",
+        "level": 500
+      },
+      {
+        "id": "p687b4",
+        "choices": [
+          "limit",
+          "limited",
+          "limiting",
+          "limitation"
+        ],
+        "answer": 1,
+        "explanation": "this limited opportunity で「この限定的な機会」という形容詞です。",
+        "level": 600
+      }
+    ]
+  },
+  {
+    "id": "p688",
+    "title": "記事：地元大学の奨学金プログラム拡大",
+    "passage": "Riverside University announced this week that it will (1) its scholarship program to include 50 additional students starting next fall. The expansion is (2) by a recent donation from an anonymous alumnus.\n\nUniversity officials say the additional funding will primarily (3) students from low-income families who demonstrate strong academic performance. Applications for the expanded program will open in (4) January.",
+    "blanks": [
+      {
+        "id": "p688b1",
+        "choices": [
+          "expand",
+          "expanded",
+          "expanding",
+          "expansion"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため expand が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p688b2",
+        "choices": [
+          "fund",
+          "funded",
+          "funding",
+          "funds"
+        ],
+        "answer": 1,
+        "explanation": "is funded by 〜 の受動態で過去分詞 funded が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p688b3",
+        "choices": [
+          "benefit",
+          "benefited",
+          "benefiting",
+          "beneficial"
+        ],
+        "answer": 0,
+        "explanation": "will の後には動詞の原形が続くため benefit が正解です。",
+        "level": 500
+      },
+      {
+        "id": "p688b4",
+        "choices": [
+          "early",
+          "earlier",
+          "earliest",
+          "earliness"
+        ],
+        "answer": 0,
+        "explanation": "early January で「1月初旬」という形容詞です。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "p689",
+    "title": "メール：業務委託先変更のお知らせ",
+    "passage": "Dear Partners,\n\nWe would like to inform you that, (1) next quarter, our company will transition to a new logistics provider to better serve our growing customer base. This change is expected to (2) delivery times and reduce shipping costs.\n\nDuring the transition period, you may experience minor (3) in scheduling. Our team will work closely with the new provider to (4) a smooth handover.",
+    "blanks": [
+      {
+        "id": "p689b1",
+        "choices": [
+          "begin",
+          "beginning",
+          "began",
+          "begins"
+        ],
+        "answer": 1,
+        "explanation": "beginning next quarter で「来四半期から」という分詞構文です。",
+        "level": 600
+      },
+      {
+        "id": "p689b2",
+        "choices": [
+          "improve",
+          "improved",
+          "improving",
+          "improvement"
+        ],
+        "answer": 0,
+        "explanation": "is expected to の後には動詞の原形が続くため improve が正解です。",
+        "level": 450
+      },
+      {
+        "id": "p689b3",
+        "choices": [
+          "delay",
+          "delayed",
+          "delays",
+          "delaying"
+        ],
+        "answer": 2,
+        "explanation": "minor delays で「小さな遅れ」という複数名詞です。",
+        "level": 500
+      },
+      {
+        "id": "p689b4",
+        "choices": [
+          "ensure",
+          "ensured",
+          "ensuring",
+          "ensures"
+        ],
+        "answer": 0,
+        "explanation": "will work ... to の後には動詞の原形が続くため ensure が正解です。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "p690",
+    "title": "案内：従業員紹介制度のお知らせ",
+    "passage": "To All Staff,\n\nWe are excited to launch our new Employee Referral Program, which (1) current employees who refer successful candidates for open positions. For each referral hired, the referring employee will receive a (2) bonus of $500.\n\nTo submit a referral, simply (3) the online referral form found on the HR portal. Bonuses will be paid out after the new hire completes their first 90 days (4) the company.",
+    "blanks": [
+      {
+        "id": "p690b1",
+        "choices": [
+          "reward",
+          "rewards",
+          "rewarded",
+          "rewarding"
+        ],
+        "answer": 1,
+        "explanation": "which の後の関係詞節の動詞は主語(program、三人称単数)に合わせて rewards が正解です。",
+        "level": 550
+      },
+      {
+        "id": "p690b2",
+        "choices": [
+          "one-time",
+          "one-times",
+          "onetime",
+          "one-timed"
+        ],
+        "answer": 0,
+        "explanation": "a one-time bonus で「一回限りのボーナス」という複合形容詞です。",
+        "level": 650
+      },
+      {
+        "id": "p690b3",
+        "choices": [
+          "complete",
+          "completed",
+          "completing",
+          "completion"
+        ],
+        "answer": 0,
+        "explanation": "please の後には動詞の原形が続くため complete が正解です。",
+        "level": 400
+      },
+      {
+        "id": "p690b4",
+        "choices": [
+          "at",
+          "with",
+          "in",
+          "by"
+        ],
+        "answer": 1,
+        "explanation": "90 days with the company で「入社90日」という意味の前置詞 with が正解です。",
+        "level": 500
+      }
+    ]
   }
 ]

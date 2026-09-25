@@ -6248,5 +6248,1385 @@
         "level": 650
       }
     ]
+  },
+  {
+    "id": "r111",
+    "title": "求人広告：カスタマーサービス担当者",
+    "passage": "Bright Horizons Retail is seeking a full-time Customer Service Representative for our downtown location. Responsibilities include answering customer inquiries by phone and email, processing returns, and assisting the sales floor during busy periods.\n\nApplicants should have at least one year of customer service experience and strong communication skills. Experience with point-of-sale systems is preferred but not required. The position offers a starting salary of $18 per hour plus benefits after 90 days.\n\nInterested candidates should submit a resume and cover letter to hr@brighthorizons.com by June 15. Only shortlisted applicants will be contacted for an interview.",
+    "questions": [
+      {
+        "id": "r111q1",
+        "question": "What is one responsibility of the position?",
+        "choices": [
+          "Managing the warehouse",
+          "Processing returns",
+          "Hiring new staff",
+          "Designing advertisements"
+        ],
+        "answer": 1,
+        "explanation": "本文に \"processing returns\" とあり、返品処理が業務の一つです。",
+        "level": 450
+      },
+      {
+        "id": "r111q2",
+        "question": "What experience is preferred but not required?",
+        "choices": [
+          "Retail management",
+          "Foreign language skills",
+          "Point-of-sale systems",
+          "Graphic design"
+        ],
+        "answer": 2,
+        "explanation": "「POSシステムの経験は望ましいが必須ではない」と明記されています。",
+        "level": 500
+      },
+      {
+        "id": "r111q3",
+        "question": "How should applicants apply?",
+        "choices": [
+          "By calling the store",
+          "By visiting in person",
+          "By emailing a resume and cover letter",
+          "By submitting an online quiz"
+        ],
+        "answer": 2,
+        "explanation": "\"submit a resume and cover letter to hr@brighthorizons.com\" とあり、メールで応募します。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r112",
+    "title": "通知：図書館の休館について",
+    "passage": "The Central City Library will be closed from July 3 to July 5 for essential maintenance work, including repairs to the heating and cooling system. All due dates for borrowed items during this period will automatically be extended by three days, so patrons do not need to worry about late fees.\n\nThe library's online catalog and e-book services will remain available throughout the closure. Patrons with urgent questions may contact the library by email, as phone lines will not be staffed during this time.\n\nWe apologize for any inconvenience and look forward to welcoming you back on July 6.",
+    "questions": [
+      {
+        "id": "r112q1",
+        "question": "Why is the library closing?",
+        "choices": [
+          "Staff training",
+          "Essential maintenance work",
+          "A public holiday",
+          "A book fair"
+        ],
+        "answer": 1,
+        "explanation": "本文冒頭に \"essential maintenance work\" とあり、メンテナンスのための休館です。",
+        "level": 400
+      },
+      {
+        "id": "r112q2",
+        "question": "What happens to due dates during the closure?",
+        "choices": [
+          "They are canceled",
+          "They are extended by three days",
+          "They remain unchanged",
+          "They are moved up"
+        ],
+        "answer": 1,
+        "explanation": "\"due dates... will automatically be extended by three days\" とあります。",
+        "level": 450
+      },
+      {
+        "id": "r112q3",
+        "question": "How can patrons contact the library during the closure?",
+        "choices": [
+          "By phone",
+          "By email",
+          "In person only",
+          "Through social media"
+        ],
+        "answer": 1,
+        "explanation": "「電話は対応しないためメールで問い合わせるように」と書かれています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r113",
+    "title": "記事：新しいコーヒーショップの開店",
+    "passage": "Bean & Leaf, a locally owned coffee shop, opened its doors on Maple Street last Friday, drawing long lines of customers eager to try its signature roasts. Owner Diane Cho, who previously worked as a barista in Seattle for over a decade, says she wanted to bring specialty coffee to her hometown.\n\nThe shop sources its beans directly from small farms in Colombia and Ethiopia, and all pastries are baked fresh daily on-site. In addition to coffee, Bean & Leaf offers a small selection of teas and light snacks.\n\nCho plans to introduce a loyalty program next month, offering regular customers discounts and free drinks after a certain number of purchases.",
+    "questions": [
+      {
+        "id": "r113q1",
+        "question": "What is true about the shop's owner?",
+        "choices": [
+          "She is new to the coffee industry",
+          "She previously worked as a barista in Seattle",
+          "She owns several other shops",
+          "She imports coffee from Europe"
+        ],
+        "answer": 1,
+        "explanation": "「シアトルで10年以上バリスタとして働いていた」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r113q2",
+        "question": "Where does the shop get its coffee beans?",
+        "choices": [
+          "Local farms only",
+          "Small farms in Colombia and Ethiopia",
+          "A large distributor",
+          "Its own farm"
+        ],
+        "answer": 1,
+        "explanation": "「コロンビアとエチオピアの小規模農園から直接仕入れている」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r113q3",
+        "question": "What does the article say will happen next month?",
+        "choices": [
+          "The shop will close temporarily",
+          "A loyalty program will be introduced",
+          "New pastries will be discontinued",
+          "The shop will move locations"
+        ],
+        "answer": 1,
+        "explanation": "「来月ロイヤルティプログラムを導入する予定」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r114",
+    "title": "Eメール：出張の日程変更について",
+    "passage": "Dear Mr. Alvarez,\n\nI am writing to inform you that your business trip to the Chicago office, originally scheduled for next Tuesday, has been moved to the following Monday due to a scheduling conflict with the client's team.\n\nYour flight and hotel reservations have already been updated to reflect the new dates, and confirmation emails should arrive in your inbox shortly. Please let me know if the new schedule creates any conflicts with your other commitments.\n\nIf you have any questions, feel free to reach out to me directly.\n\nBest regards,\nJanet Kim, Travel Coordinator",
+    "questions": [
+      {
+        "id": "r114q1",
+        "question": "Why was the trip rescheduled?",
+        "choices": [
+          "Bad weather",
+          "A scheduling conflict with the client's team",
+          "Mr. Alvarez requested it",
+          "Flight cancellations"
+        ],
+        "answer": 1,
+        "explanation": "「クライアントチームとの日程調整のため」と書かれています。",
+        "level": 500
+      },
+      {
+        "id": "r114q2",
+        "question": "What has already been done?",
+        "choices": [
+          "The trip has been canceled",
+          "Flight and hotel reservations have been updated",
+          "A new client has been assigned",
+          "The budget has been increased"
+        ],
+        "answer": 1,
+        "explanation": "「フライトとホテルの予約はすでに更新済み」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r114q3",
+        "question": "What is Mr. Alvarez asked to do?",
+        "choices": [
+          "Book his own flight",
+          "Contact the client directly",
+          "Report any scheduling conflicts",
+          "Cancel the trip"
+        ],
+        "answer": 2,
+        "explanation": "「新しい日程で問題があれば知らせてほしい」と依頼されています。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r115",
+    "title": "案内：社員向け健康診断のお知らせ",
+    "passage": "As part of our annual employee wellness program, free health check-ups will be offered to all full-time staff between March 10 and March 21. The check-ups will take place in Conference Room B and include basic screenings such as blood pressure, vision, and cholesterol tests.\n\nEmployees who wish to participate should sign up through the HR portal at least three days in advance, as slots are limited. Appointments typically take about 30 minutes and will be conducted during regular working hours.\n\nParticipation is voluntary, and all results will be kept strictly confidential between the employee and the healthcare provider.",
+    "questions": [
+      {
+        "id": "r115q1",
+        "question": "Who is eligible for the free check-ups?",
+        "choices": [
+          "Only managers",
+          "All full-time staff",
+          "New employees only",
+          "Part-time staff only"
+        ],
+        "answer": 1,
+        "explanation": "「全ての正社員が対象」と明記されています。",
+        "level": 450
+      },
+      {
+        "id": "r115q2",
+        "question": "How should employees sign up?",
+        "choices": [
+          "By calling HR",
+          "Through the HR portal",
+          "By emailing their manager",
+          "In person at Conference Room B"
+        ],
+        "answer": 1,
+        "explanation": "「HRポータルを通じて登録する」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r115q3",
+        "question": "What is true about the results of the check-ups?",
+        "choices": [
+          "They will be shared with managers",
+          "They will be posted publicly",
+          "They will be kept confidential",
+          "They will be sent to insurance companies"
+        ],
+        "answer": 2,
+        "explanation": "「結果は厳重に機密として扱われる」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r116",
+    "title": "広告：オンライン講座のご案内",
+    "passage": "Master new skills from the comfort of your home with SkillBridge Online Academy! We offer over 200 courses in fields ranging from graphic design to data analysis, taught by industry professionals.\n\nFor a limited time, new students can enroll in any course for 50% off the regular price. All courses include lifetime access, downloadable resources, and a certificate of completion.\n\nNot sure where to start? Take our free five-minute assessment on our website to receive personalized course recommendations based on your goals and experience level.",
+    "questions": [
+      {
+        "id": "r116q1",
+        "question": "What is being advertised?",
+        "choices": [
+          "A physical classroom",
+          "An online learning platform",
+          "A job placement agency",
+          "A software product"
+        ],
+        "answer": 1,
+        "explanation": "「オンラインアカデミー」の広告です。",
+        "level": 400
+      },
+      {
+        "id": "r116q2",
+        "question": "What special offer is mentioned?",
+        "choices": [
+          "Free courses for a year",
+          "50% off for new students",
+          "A money-back guarantee",
+          "Free textbooks"
+        ],
+        "answer": 1,
+        "explanation": "「新規受講者は50%オフ」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r116q3",
+        "question": "What can students do on the website?",
+        "choices": [
+          "Chat with instructors live",
+          "Take a free assessment",
+          "Print a certificate immediately",
+          "Request a refund"
+        ],
+        "answer": 1,
+        "explanation": "「無料の5分間の診断を受けられる」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r117",
+    "title": "社内メモ：新しい在宅勤務ポリシー",
+    "passage": "To All Staff,\n\nEffective next month, employees will be permitted to work from home up to two days per week, subject to manager approval. This new policy is designed to offer greater flexibility while maintaining team collaboration and productivity.\n\nEmployees wishing to participate should discuss their preferred remote days with their manager and confirm the arrangement in writing. Core hours of 10 AM to 3 PM must still be observed, during which employees should be available for meetings and calls regardless of their location.\n\nWe will review the effectiveness of this policy after six months and make adjustments as needed.",
+    "questions": [
+      {
+        "id": "r117q1",
+        "question": "How many days per week can employees work from home?",
+        "choices": [
+          "One",
+          "Two",
+          "Three",
+          "Five"
+        ],
+        "answer": 1,
+        "explanation": "「週に最大2日まで在宅勤務が可能」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r117q2",
+        "question": "What must employees do to work from home?",
+        "choices": [
+          "Submit a formal application to HR",
+          "Get manager approval",
+          "Complete a training course",
+          "Purchase their own equipment"
+        ],
+        "answer": 1,
+        "explanation": "「マネージャーの承認が必要」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r117q3",
+        "question": "What are employees expected to do during core hours?",
+        "choices": [
+          "Take a lunch break",
+          "Be available for meetings and calls",
+          "Submit a daily report",
+          "Attend in-person training"
+        ],
+        "answer": 1,
+        "explanation": "「コアタイム中は会議や電話に対応できる必要がある」とあります。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r118",
+    "title": "記事：市の新しい自転車専用レーン",
+    "passage": "The city council approved plans last week to add 15 miles of new bicycle lanes throughout the downtown area, aiming to reduce traffic congestion and promote environmentally friendly transportation. Construction is expected to begin in early spring and finish before the summer tourist season.\n\nLocal cycling groups have praised the decision, noting that the current lanes are often disconnected and unsafe. However, some downtown business owners have expressed concern about the temporary loss of parking spaces during construction.\n\nCity officials say they will work closely with businesses to minimize disruption and have promised additional parking studies once the project is complete.",
+    "questions": [
+      {
+        "id": "r118q1",
+        "question": "What did the city council approve?",
+        "choices": [
+          "A new parking garage",
+          "15 miles of new bicycle lanes",
+          "A public transit fare increase",
+          "A downtown park renovation"
+        ],
+        "answer": 1,
+        "explanation": "「15マイルの新しい自転車レーンの計画を承認した」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r118q2",
+        "question": "What concern do some business owners have?",
+        "choices": [
+          "Increased noise",
+          "Loss of parking spaces",
+          "Higher taxes",
+          "Reduced foot traffic"
+        ],
+        "answer": 1,
+        "explanation": "「工事中の駐車スペースの一時的な減少を懸念している」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r118q3",
+        "question": "What have city officials promised?",
+        "choices": [
+          "To cancel the project",
+          "To conduct additional parking studies",
+          "To lower business taxes",
+          "To build a new highway"
+        ],
+        "answer": 1,
+        "explanation": "「プロジェクト完了後に追加の駐車場調査を行うと約束している」とあります。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r119",
+    "title": "Eメール：会議の議題送付",
+    "passage": "Hi Team,\n\nAhead of tomorrow's quarterly planning meeting, I've attached the proposed agenda for your review. We'll be covering the Q3 budget results, updates on the marketing campaign, and a discussion on staffing for the new project.\n\nPlease come prepared with any questions or updates related to your department. If you have additional items you'd like to add to the agenda, let me know by the end of today so I can adjust the schedule accordingly.\n\nThe meeting will start promptly at 9 AM in the third-floor conference room. Coffee and light refreshments will be provided.\n\nThanks,\nMarcus",
+    "questions": [
+      {
+        "id": "r119q1",
+        "question": "What is attached to the email?",
+        "choices": [
+          "A budget report",
+          "The proposed agenda",
+          "A marketing plan",
+          "A staffing list"
+        ],
+        "answer": 1,
+        "explanation": "「提案された議題が添付されている」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r119q2",
+        "question": "What should team members do if they want to add items to the agenda?",
+        "choices": [
+          "Bring them up during the meeting",
+          "Notify Marcus by the end of the day",
+          "Email the whole company",
+          "Wait for the next meeting"
+        ],
+        "answer": 1,
+        "explanation": "「今日中にマーカスに知らせるように」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r119q3",
+        "question": "Where will the meeting be held?",
+        "choices": [
+          "In a virtual meeting room",
+          "In the third-floor conference room",
+          "At a nearby cafe",
+          "In the main lobby"
+        ],
+        "answer": 1,
+        "explanation": "「3階の会議室で開催される」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "r120",
+    "title": "通知：製品リコールのお知らせ",
+    "passage": "GreenLeaf Appliances is voluntarily recalling its Model X200 electric kettle due to a potential electrical malfunction that could pose a fire hazard. Approximately 12,000 units sold between January and April of this year are affected.\n\nCustomers who own an affected model should stop using it immediately and contact GreenLeaf's customer service line for a free replacement or full refund. The model number can be found on a label on the bottom of the kettle.\n\nGreenLeaf apologizes for any inconvenience this may cause and emphasizes that customer safety remains its top priority.",
+    "questions": [
+      {
+        "id": "r120q1",
+        "question": "Why is the product being recalled?",
+        "choices": [
+          "It does not heat water properly",
+          "It could pose a fire hazard",
+          "The price was incorrect",
+          "It was discontinued"
+        ],
+        "answer": 1,
+        "explanation": "「発火の危険性があるため」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r120q2",
+        "question": "What should affected customers do?",
+        "choices": [
+          "Continue using it carefully",
+          "Stop using it and contact customer service",
+          "Return it to any store",
+          "Wait for a repair kit"
+        ],
+        "answer": 1,
+        "explanation": "「使用を直ちに中止し、カスタマーサービスに連絡するように」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r120q3",
+        "question": "Where can customers find the model number?",
+        "choices": [
+          "On the receipt",
+          "On the box only",
+          "On a label on the bottom of the kettle",
+          "On the company website"
+        ],
+        "answer": 2,
+        "explanation": "「ケトル底面のラベルに記載されている」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r121",
+    "title": "記事：地元レストランが賞を受賞",
+    "passage": "The Olive Branch, a family-owned Italian restaurant downtown, was recently named \"Best New Restaurant\" by the city's food critics association. Chef and owner Marco Rinaldi credits the award to his team's dedication to using fresh, locally sourced ingredients in every dish.\n\nSince opening just eight months ago, the restaurant has built a loyal following, with many customers praising its handmade pasta and warm, welcoming atmosphere. Reservations are now recommended, especially on weekends, as the restaurant has become one of the most popular dining spots in the area.\n\nRinaldi says he plans to expand the menu this fall to include more seasonal dishes.",
+    "questions": [
+      {
+        "id": "r121q1",
+        "question": "What award did the restaurant receive?",
+        "choices": [
+          "Best Chef of the Year",
+          "Best New Restaurant",
+          "Best Value Dining",
+          "Best Dessert Menu"
+        ],
+        "answer": 1,
+        "explanation": "「最優秀新規レストラン賞」を受賞したとあります。",
+        "level": 450
+      },
+      {
+        "id": "r121q2",
+        "question": "What does the owner credit for the restaurant's success?",
+        "choices": [
+          "Low prices",
+          "Using fresh, locally sourced ingredients",
+          "A large advertising budget",
+          "Celebrity endorsements"
+        ],
+        "answer": 1,
+        "explanation": "「新鮮な地元産食材を使うことへのこだわり」が理由とされています。",
+        "level": 500
+      },
+      {
+        "id": "r121q3",
+        "question": "What does the article say about weekends at the restaurant?",
+        "choices": [
+          "The restaurant is closed",
+          "Reservations are recommended",
+          "Prices are discounted",
+          "Only takeout is available"
+        ],
+        "answer": 1,
+        "explanation": "「週末は特に予約が推奨される」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r122",
+    "title": "案内：従業員研修プログラムの開始",
+    "passage": "Human Resources is pleased to announce the launch of a new leadership development program for employees interested in advancing into management roles. The program consists of six monthly workshops covering topics such as effective communication, conflict resolution, and team management.\n\nParticipation is open to employees who have been with the company for at least one year and have received a positive performance review in the last cycle. Interested employees should apply through the internal training portal by the end of this month.\n\nSpace is limited to 20 participants per session, so early application is encouraged.",
+    "questions": [
+      {
+        "id": "r122q1",
+        "question": "What is the purpose of the new program?",
+        "choices": [
+          "To train new hires",
+          "To prepare employees for management roles",
+          "To improve customer service",
+          "To teach technical skills"
+        ],
+        "answer": 1,
+        "explanation": "「管理職への昇進を目指す社員向けのリーダーシップ育成プログラム」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r122q2",
+        "question": "What is a requirement for participation?",
+        "choices": [
+          "A college degree",
+          "At least one year with the company",
+          "Management experience",
+          "Fluency in a second language"
+        ],
+        "answer": 1,
+        "explanation": "「入社1年以上であること」が条件の一つです。",
+        "level": 450
+      },
+      {
+        "id": "r122q3",
+        "question": "How should interested employees apply?",
+        "choices": [
+          "Through the internal training portal",
+          "By emailing their manager directly",
+          "By calling HR",
+          "By attending an information session"
+        ],
+        "answer": 0,
+        "explanation": "「社内の研修ポータルから応募する」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r123",
+    "title": "Eメール：見積書の送付について",
+    "passage": "Dear Ms. Patel,\n\nThank you for your interest in our office furniture line. As requested, I have attached a detailed quote for the 20 desks and 40 chairs discussed during our call last week.\n\nThe quote includes a 10% discount for bulk orders and free delivery within the city limits. Please note that this pricing is valid for the next 30 days. If you would like to proceed, simply reply to this email with your confirmation, and we will schedule delivery within two weeks.\n\nPlease let me know if you have any questions or would like to adjust the order.\n\nBest regards,\nTom Bradley, Sales Representative",
+    "questions": [
+      {
+        "id": "r123q1",
+        "question": "What is attached to the email?",
+        "choices": [
+          "An invoice",
+          "A detailed quote",
+          "A product catalog",
+          "A delivery schedule"
+        ],
+        "answer": 1,
+        "explanation": "「詳細な見積書が添付されている」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r123q2",
+        "question": "What is included in the offer?",
+        "choices": [
+          "A 10% discount and free delivery",
+          "A one-year warranty",
+          "Free installation",
+          "A gift card"
+        ],
+        "answer": 0,
+        "explanation": "「10%割引と市内無料配送が含まれる」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r123q3",
+        "question": "How long is the pricing valid?",
+        "choices": [
+          "7 days",
+          "14 days",
+          "30 days",
+          "60 days"
+        ],
+        "answer": 2,
+        "explanation": "「この価格は30日間有効」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "r124",
+    "title": "記事：市立公園の改修工事完了",
+    "passage": "After nearly a year of renovations, Lincoln Park reopened to the public last weekend with a host of new features, including a splash pad for children, updated walking trails, and a renovated amphitheater for community events.\n\nThe $2.5 million project was funded through a combination of city funds and private donations. Mayor Rebecca Sung called the renovation \"a wonderful investment in the community\" during the reopening ceremony, which drew hundreds of residents.\n\nPark officials say the amphitheater will host its first concert series beginning next month, with tickets available for free through the city's website.",
+    "questions": [
+      {
+        "id": "r124q1",
+        "question": "What new feature was added for children?",
+        "choices": [
+          "A skate park",
+          "A splash pad",
+          "A playground",
+          "A petting zoo"
+        ],
+        "answer": 1,
+        "explanation": "「子供向けのスプラッシュパッド(水遊び場)が新設された」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r124q2",
+        "question": "How was the renovation funded?",
+        "choices": [
+          "Entirely by the city",
+          "Entirely by private donors",
+          "A combination of city funds and private donations",
+          "Through a bank loan"
+        ],
+        "answer": 2,
+        "explanation": "「市の資金と民間の寄付の組み合わせで賄われた」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r124q3",
+        "question": "What will happen at the amphitheater next month?",
+        "choices": [
+          "A farmers market",
+          "The first concert series",
+          "A construction project",
+          "A sports tournament"
+        ],
+        "answer": 1,
+        "explanation": "「来月から最初のコンサートシリーズが開催される」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r125",
+    "title": "社内メモ：セキュリティバッジの更新",
+    "passage": "To All Employees,\n\nAs part of our ongoing security upgrades, all building access badges must be replaced by the end of this month. The new badges include enhanced encryption to better protect against unauthorized access.\n\nTo receive your new badge, please visit the security office on the first floor between 9 AM and 4 PM any weekday. You will need to bring your current badge and a valid photo ID. Old badges will be deactivated automatically on the first of next month, so please do not delay.\n\nIf you are unable to visit during these hours due to a scheduling conflict, contact the security office to arrange an alternative time.",
+    "questions": [
+      {
+        "id": "r125q1",
+        "question": "Why are new badges being issued?",
+        "choices": [
+          "The old badges are out of style",
+          "To improve security with better encryption",
+          "Employees requested a redesign",
+          "The building changed ownership"
+        ],
+        "answer": 1,
+        "explanation": "「セキュリティ強化のため暗号化が向上した新しいバッジが導入される」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r125q2",
+        "question": "What must employees bring to get a new badge?",
+        "choices": [
+          "Only their current badge",
+          "A current badge and a valid photo ID",
+          "A letter from their manager",
+          "Proof of employment only"
+        ],
+        "answer": 1,
+        "explanation": "「現在のバッジと有効な写真付き身分証明書が必要」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r125q3",
+        "question": "What happens to old badges next month?",
+        "choices": [
+          "They will still work as backups",
+          "They will be deactivated automatically",
+          "They must be mailed back",
+          "They will be reissued"
+        ],
+        "answer": 1,
+        "explanation": "「来月1日に自動的に無効化される」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r126",
+    "title": "求人広告：グラフィックデザイナー募集",
+    "passage": "Pixel Studio, a growing design agency, is looking for a talented Graphic Designer to join our creative team. The ideal candidate has at least two years of experience with design software such as Adobe Illustrator and Photoshop, and a strong portfolio demonstrating branding and print design work.\n\nThis is a full-time position based in our downtown office, with the possibility of one remote day per week after the first three months. Salary is competitive and based on experience.\n\nTo apply, please send your portfolio and resume to jobs@pixelstudio.com. Applications will be reviewed on a rolling basis until the position is filled.",
+    "questions": [
+      {
+        "id": "r126q1",
+        "question": "What is required of applicants?",
+        "choices": [
+          "A college degree in marketing",
+          "At least two years of design software experience",
+          "Five years of management experience",
+          "Fluency in multiple languages"
+        ],
+        "answer": 1,
+        "explanation": "「Illustrator や Photoshop などのデザインソフトの経験が2年以上」求められています。",
+        "level": 500
+      },
+      {
+        "id": "r126q2",
+        "question": "What can employees do after three months?",
+        "choices": [
+          "Take unlimited vacation",
+          "Work remotely one day per week",
+          "Receive a promotion automatically",
+          "Work part-time"
+        ],
+        "answer": 1,
+        "explanation": "「最初の3ヶ月後に週1日リモートワークが可能」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r126q3",
+        "question": "How will applications be reviewed?",
+        "choices": [
+          "All at once after the deadline",
+          "On a rolling basis",
+          "By a third-party recruiter",
+          "Only by phone interview"
+        ],
+        "answer": 1,
+        "explanation": "「応募は随時審査される」とあります。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r127",
+    "title": "通知：エレベーター点検のお知らせ",
+    "passage": "Building Management would like to inform all tenants that the elevators in the north wing will be temporarily out of service on Saturday, September 14, from 8 AM to 4 PM for scheduled maintenance.\n\nDuring this time, tenants are asked to use the elevators in the south wing or the stairwells. We understand this may cause some inconvenience, especially for those on higher floors, and we appreciate your patience.\n\nIf you have any special accessibility needs during this period, please contact the building office in advance so we can make appropriate arrangements.",
+    "questions": [
+      {
+        "id": "r127q1",
+        "question": "Why will the elevators be out of service?",
+        "choices": [
+          "A power outage",
+          "Scheduled maintenance",
+          "A fire drill",
+          "A renovation project"
+        ],
+        "answer": 1,
+        "explanation": "「定期メンテナンスのため」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r127q2",
+        "question": "What are tenants asked to do during the maintenance?",
+        "choices": [
+          "Stay in their offices",
+          "Use the south wing elevators or stairwells",
+          "Leave the building",
+          "Park in a different lot"
+        ],
+        "answer": 1,
+        "explanation": "「南棟のエレベーターか階段を使うように」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r127q3",
+        "question": "What should tenants with accessibility needs do?",
+        "choices": [
+          "Use the freight elevator",
+          "Contact the building office in advance",
+          "Wait until the work is finished",
+          "Call emergency services"
+        ],
+        "answer": 1,
+        "explanation": "「事前に管理事務所に連絡するように」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r128",
+    "title": "記事：地域スポーツチームの新スタジアム計画",
+    "passage": "The Riverton Hawks, the city's professional soccer team, unveiled plans this week for a new 25,000-seat stadium to replace their current aging facility. Team officials say the new stadium will include improved seating, modern concession areas, and a retractable roof to allow games during inclement weather.\n\nConstruction is expected to begin next year, with completion targeted for the 2029 season. The project will be funded through a mix of private investment and a public bond measure that voters approved last November.\n\nFans have expressed excitement about the plans, though some have raised concerns about increased traffic in the surrounding neighborhood.",
+    "questions": [
+      {
+        "id": "r128q1",
+        "question": "What feature will the new stadium include?",
+        "choices": [
+          "An indoor swimming pool",
+          "A retractable roof",
+          "A shopping mall",
+          "An underground parking garage only"
+        ],
+        "answer": 1,
+        "explanation": "「開閉式の屋根が含まれる」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r128q2",
+        "question": "How will the project be funded?",
+        "choices": [
+          "Entirely by ticket sales",
+          "A mix of private investment and a public bond",
+          "Government grants only",
+          "Player salary cuts"
+        ],
+        "answer": 1,
+        "explanation": "「民間投資と公的債券の組み合わせで資金調達される」とあります。",
+        "level": 550
+      },
+      {
+        "id": "r128q3",
+        "question": "What concern have some fans raised?",
+        "choices": [
+          "Ticket prices",
+          "Increased traffic",
+          "Team performance",
+          "Stadium location"
+        ],
+        "answer": 1,
+        "explanation": "「周辺地域の交通量増加を懸念している」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r129",
+    "title": "Eメール：契約更新に関するご相談",
+    "passage": "Dear Mr. Yamada,\n\nAs your current service contract with us is set to expire at the end of this month, I wanted to reach out to discuss renewal options. We have introduced several new plans since your last contract that may offer better value for your business needs.\n\nI would be happy to schedule a brief call this week to walk you through the available options and answer any questions you may have. Please let me know a few times that work for you.\n\nWe truly appreciate your continued partnership and look forward to discussing how we can best support your business going forward.\n\nWarm regards,\nEmily Chen, Account Manager",
+    "questions": [
+      {
+        "id": "r129q1",
+        "question": "Why is Emily Chen writing to Mr. Yamada?",
+        "choices": [
+          "To cancel his contract",
+          "To discuss contract renewal options",
+          "To apologize for a service issue",
+          "To introduce a new employee"
+        ],
+        "answer": 1,
+        "explanation": "「契約更新について相談したい」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r129q2",
+        "question": "What does Emily offer to do?",
+        "choices": [
+          "Send a written proposal only",
+          "Schedule a call to discuss options",
+          "Visit Mr. Yamada's office",
+          "Extend the contract automatically"
+        ],
+        "answer": 1,
+        "explanation": "「電話で説明する時間を設けたい」と提案しています。",
+        "level": 450
+      },
+      {
+        "id": "r129q3",
+        "question": "What is Mr. Yamada asked to provide?",
+        "choices": [
+          "Payment information",
+          "A few times that work for him",
+          "A written complaint",
+          "His current contract number"
+        ],
+        "answer": 1,
+        "explanation": "「都合の良い時間帯を知らせてほしい」と頼まれています。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r130",
+    "title": "案内：社内表彰式のお知らせ",
+    "passage": "We are pleased to invite all staff to this year's Employee Excellence Awards ceremony, taking place on Friday, November 8, at 6 PM in the Grand Ballroom. The event will recognize outstanding achievements across several categories, including Innovation, Teamwork, and Customer Service.\n\nDinner and refreshments will be provided, and formal attire is requested. Nominations for awards were submitted by department managers earlier this fall, and winners will be announced during the ceremony.\n\nPlease RSVP by November 1 through the link in this email, as seating is limited and will be assigned on a first-come, first-served basis.",
+    "questions": [
+      {
+        "id": "r130q1",
+        "question": "What is the purpose of the event?",
+        "choices": [
+          "To announce new hires",
+          "To recognize outstanding achievements",
+          "To discuss the annual budget",
+          "To celebrate a company anniversary"
+        ],
+        "answer": 1,
+        "explanation": "「優れた業績を表彰するためのイベント」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r130q2",
+        "question": "Who submitted the nominations?",
+        "choices": [
+          "Employees themselves",
+          "Department managers",
+          "Outside judges",
+          "Customers"
+        ],
+        "answer": 1,
+        "explanation": "「部門マネージャーが今秋早くに候補者を提出した」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r130q3",
+        "question": "By when should employees RSVP?",
+        "choices": [
+          "November 1",
+          "November 8",
+          "October 1",
+          "The day of the event"
+        ],
+        "answer": 0,
+        "explanation": "「11月1日までにRSVPするように」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "r131",
+    "title": "広告：清掃サービスのキャンペーン",
+    "passage": "SparkleClean Home Services is offering a special introductory rate for new customers this month: 30% off your first deep-cleaning service. Our trained professionals use eco-friendly products and provide thorough cleaning for kitchens, bathrooms, and living spaces.\n\nAll of our cleaners are background-checked and insured for your peace of mind. Booking is easy through our website or mobile app, and same-week appointments are often available.\n\nContact us today to schedule your first cleaning and see why SparkleClean is rated the top-reviewed cleaning service in the area.",
+    "questions": [
+      {
+        "id": "r131q1",
+        "question": "What discount is being offered?",
+        "choices": [
+          "10% off all services",
+          "30% off the first deep-cleaning service",
+          "A free trial cleaning",
+          "50% off for referrals"
+        ],
+        "answer": 1,
+        "explanation": "「初回のディープクリーニングが30%オフ」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r131q2",
+        "question": "What is true about the cleaners?",
+        "choices": [
+          "They are volunteers",
+          "They are background-checked and insured",
+          "They work only on weekends",
+          "They require a long-term contract"
+        ],
+        "answer": 1,
+        "explanation": "「身元確認済みで保険にも加入している」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r131q3",
+        "question": "How can customers book a service?",
+        "choices": [
+          "By mail only",
+          "Through the website or mobile app",
+          "By visiting the office in person",
+          "Through a travel agency"
+        ],
+        "answer": 1,
+        "explanation": "「ウェブサイトかアプリから簡単に予約できる」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "r132",
+    "title": "記事：地元図書館のデジタル化プロジェクト",
+    "passage": "The Milbank Public Library has begun a multi-year project to digitize thousands of historical documents, photographs, and newspapers related to the town's founding. Once complete, the collection will be freely accessible online to researchers and the public worldwide.\n\nThe project is being funded by a state grant along with donations from local history enthusiasts. Library staff say the most challenging part of the work is handling fragile materials, some of which date back over a century.\n\nThe library plans to release the first batch of digitized materials, covering the town's early industrial period, by the end of this year.",
+    "questions": [
+      {
+        "id": "r132q1",
+        "question": "What is the library doing?",
+        "choices": [
+          "Building a new wing",
+          "Digitizing historical documents",
+          "Closing permanently",
+          "Hosting a book sale"
+        ],
+        "answer": 1,
+        "explanation": "「歴史的文書のデジタル化プロジェクトを開始した」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r132q2",
+        "question": "How is the project being funded?",
+        "choices": [
+          "Entirely by the city",
+          "A state grant and local donations",
+          "Federal taxes",
+          "Library membership fees"
+        ],
+        "answer": 1,
+        "explanation": "「州の助成金と地元からの寄付で賄われている」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r132q3",
+        "question": "What is described as the most challenging part of the work?",
+        "choices": [
+          "Scanning speed",
+          "Handling fragile materials",
+          "Finding funding",
+          "Training staff"
+        ],
+        "answer": 1,
+        "explanation": "「壊れやすい資料の取り扱いが最も難しい」とあります。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r133",
+    "title": "Eメール：製品フィードバックのお願い",
+    "passage": "Dear Ms. Alvarado,\n\nThank you for recently purchasing our SoundWave Bluetooth speaker. We hope you have been enjoying it! As a small business, customer feedback plays a huge role in helping us improve our products.\n\nWould you be willing to share your experience by writing a short review on our website? It should only take about two minutes. As a thank-you, we'll send you a discount code for 15% off your next purchase.\n\nIf you experienced any issues with your speaker, please reply directly to this email instead, and our support team will assist you right away.\n\nBest,\nThe SoundWave Team",
+    "questions": [
+      {
+        "id": "r133q1",
+        "question": "What is the main purpose of this email?",
+        "choices": [
+          "To announce a product recall",
+          "To request a customer review",
+          "To confirm a shipping address",
+          "To advertise a new product line"
+        ],
+        "answer": 1,
+        "explanation": "「レビューを書いてほしいという依頼」が主な目的です。",
+        "level": 450
+      },
+      {
+        "id": "r133q2",
+        "question": "What will customers receive for leaving a review?",
+        "choices": [
+          "A free speaker",
+          "A 15% discount code",
+          "A cash refund",
+          "A gift card"
+        ],
+        "answer": 1,
+        "explanation": "「15%割引のコードが送られる」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r133q3",
+        "question": "What should customers do if they have a problem with the product?",
+        "choices": [
+          "Post about it online",
+          "Reply to the email for support",
+          "Return it to a store",
+          "Ignore the issue"
+        ],
+        "answer": 1,
+        "explanation": "「問題があればこのメールに直接返信するように」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r134",
+    "title": "案内：新しい従業員食堂メニューの試食会",
+    "passage": "The facilities team is excited to invite all employees to a menu tasting event this Thursday from 11:30 AM to 1:30 PM in the main cafeteria. Several new dishes are being considered for the upcoming menu update, and we want your input before finalizing the choices.\n\nEmployees who attend will be able to sample five new dishes and vote for their favorites using a short survey. Dietary information, including vegetarian and allergen labels, will be clearly posted at each station.\n\nNo registration is required, so feel free to stop by anytime during the event window.",
+    "questions": [
+      {
+        "id": "r134q1",
+        "question": "What is the purpose of the event?",
+        "choices": [
+          "To celebrate a company holiday",
+          "To let employees sample and vote on new dishes",
+          "To train new cafeteria staff",
+          "To announce a menu price increase"
+        ],
+        "answer": 1,
+        "explanation": "「新メニューを試食し投票してもらうため」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r134q2",
+        "question": "What will be posted at each food station?",
+        "choices": [
+          "Prices",
+          "Dietary information",
+          "Chef names",
+          "Cooking times"
+        ],
+        "answer": 1,
+        "explanation": "「食事に関する情報(ベジタリアン表示やアレルゲン表示)が掲示される」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r134q3",
+        "question": "Do employees need to register to attend?",
+        "choices": [
+          "Yes, in advance online",
+          "Yes, by calling HR",
+          "No registration is required",
+          "Only managers need to register"
+        ],
+        "answer": 2,
+        "explanation": "「登録は不要」と明記されています。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "r135",
+    "title": "記事：新しい橋の開通式典",
+    "passage": "After three years of construction, the new Harborview Bridge officially opened to traffic this morning, connecting the eastern and western sides of the city for the first time without a lengthy detour. Local officials gathered for a ribbon-cutting ceremony, calling the bridge a major milestone for regional transportation.\n\nThe $80 million project was designed to reduce commute times by up to 20 minutes for thousands of daily drivers. It also includes a dedicated lane for cyclists and pedestrians, a feature that was added after public input sessions held early in the planning process.\n\nOfficials expect traffic patterns in the area to stabilize within the next few weeks as drivers adjust to the new route.",
+    "questions": [
+      {
+        "id": "r135q1",
+        "question": "What does the new bridge connect?",
+        "choices": [
+          "Two nearby cities",
+          "The eastern and western sides of the city",
+          "The airport and downtown",
+          "Two neighboring states"
+        ],
+        "answer": 1,
+        "explanation": "「市の東側と西側を結ぶ」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r135q2",
+        "question": "What feature was added based on public input?",
+        "choices": [
+          "A toll booth",
+          "A dedicated lane for cyclists and pedestrians",
+          "A scenic overlook",
+          "Extra parking"
+        ],
+        "answer": 1,
+        "explanation": "「市民からの意見を受けて自転車・歩行者専用レーンが追加された」とあります。",
+        "level": 550
+      },
+      {
+        "id": "r135q3",
+        "question": "What do officials expect in the coming weeks?",
+        "choices": [
+          "Increased construction",
+          "Traffic patterns to stabilize",
+          "A toll increase",
+          "Bridge closures"
+        ],
+        "answer": 1,
+        "explanation": "「今後数週間で交通パターンが安定すると予想している」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r136",
+    "title": "Eメール：オフィス移転のご案内",
+    "passage": "Dear Clients,\n\nWe are excited to announce that our office will be relocating to a new address at 88 Wellington Avenue, effective the first of next month. The new location offers improved accessibility, including nearby public transit and additional parking for visitors.\n\nAll phone numbers and email addresses will remain the same, so you can continue reaching us as usual. Please note that our office will be closed for two business days during the move, from the 30th through the 31st.\n\nWe look forward to welcoming you to our new space and thank you for your continued business.\n\nSincerely,\nThe Client Services Team",
+    "questions": [
+      {
+        "id": "r136q1",
+        "question": "What will change about the company?",
+        "choices": [
+          "Its phone number",
+          "Its office address",
+          "Its business hours permanently",
+          "Its ownership"
+        ],
+        "answer": 1,
+        "explanation": "「オフィスが新しい住所に移転する」とあります。",
+        "level": 400
+      },
+      {
+        "id": "r136q2",
+        "question": "What will stay the same?",
+        "choices": [
+          "The office hours",
+          "The phone numbers and email addresses",
+          "The parking situation",
+          "The staff"
+        ],
+        "answer": 1,
+        "explanation": "「電話番号とメールアドレスは変わらない」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r136q3",
+        "question": "When will the office be closed?",
+        "choices": [
+          "The entire next month",
+          "From the 30th through the 31st",
+          "Only on the 1st",
+          "Every Friday"
+        ],
+        "answer": 1,
+        "explanation": "「30日から31日まで2営業日休業する」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r137",
+    "title": "案内：社内メンター制度の募集",
+    "passage": "Human Resources is now accepting applications for mentors to participate in our upcoming Mentorship Program, designed to pair experienced employees with newer staff members for professional guidance and support.\n\nMentors are expected to meet with their assigned mentee at least twice a month for six months and provide feedback on career development, workplace skills, and company culture. While mentoring is a volunteer role, participants will receive a certificate of recognition and priority consideration for future leadership training opportunities.\n\nEmployees interested in becoming a mentor should have at least three years of experience with the company and submit an application through the HR portal by the end of the month.",
+    "questions": [
+      {
+        "id": "r137q1",
+        "question": "What is the purpose of the program?",
+        "choices": [
+          "To recruit new employees",
+          "To pair experienced employees with newer staff",
+          "To reduce turnover through bonuses",
+          "To train customer service representatives"
+        ],
+        "answer": 1,
+        "explanation": "「経験豊富な社員と新しいスタッフをペアにするプログラム」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r137q2",
+        "question": "How often must mentors meet with their mentee?",
+        "choices": [
+          "Once a week",
+          "At least twice a month",
+          "Once a quarter",
+          "Every day"
+        ],
+        "answer": 1,
+        "explanation": "「月に少なくとも2回会う必要がある」とあります。",
+        "level": 450
+      },
+      {
+        "id": "r137q3",
+        "question": "What is a requirement to become a mentor?",
+        "choices": [
+          "A management title",
+          "At least three years of experience with the company",
+          "A college degree",
+          "Completion of a training exam"
+        ],
+        "answer": 1,
+        "explanation": "「入社3年以上の経験が必要」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "r138",
+    "title": "記事：小規模ビジネス向け融資プログラム",
+    "passage": "The Chamber of Commerce announced a new low-interest loan program this week aimed at helping small businesses recover from recent economic challenges. Loans of up to $50,000 will be available to qualifying businesses with fewer than 25 employees.\n\nApplicants must demonstrate at least one year of operation and provide basic financial documentation as part of the application process. Unlike traditional bank loans, this program offers a simplified application and faster approval times, with most decisions made within two weeks.\n\nThe Chamber says the program was developed in response to feedback from local business owners who cited difficulty accessing capital through conventional lenders.",
+    "questions": [
+      {
+        "id": "r138q1",
+        "question": "Who is eligible for the loan program?",
+        "choices": [
+          "Any business regardless of size",
+          "Small businesses with fewer than 25 employees",
+          "Only new startups",
+          "Large corporations"
+        ],
+        "answer": 1,
+        "explanation": "「従業員25人未満の中小企業が対象」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r138q2",
+        "question": "What is an advantage of this loan program?",
+        "choices": [
+          "No repayment required",
+          "A simplified application and faster approval",
+          "Unlimited loan amounts",
+          "No documentation needed"
+        ],
+        "answer": 1,
+        "explanation": "「簡素化された申請プロセスと迅速な承認」が利点として挙げられています。",
+        "level": 550
+      },
+      {
+        "id": "r138q3",
+        "question": "Why was the program developed?",
+        "choices": [
+          "Due to a new law",
+          "In response to feedback from business owners",
+          "To compete with other cities",
+          "Because of a government mandate"
+        ],
+        "answer": 1,
+        "explanation": "「地元の事業主からのフィードバックを受けて開発された」とあります。",
+        "level": 550
+      }
+    ]
+  },
+  {
+    "id": "r139",
+    "title": "Eメール：ソフトウェアライセンスの更新期限について",
+    "passage": "Dear IT Administrator,\n\nThis is a reminder that your organization's license for CloudSuite Pro will expire on August 31. To avoid any interruption to your team's access, please renew your subscription before this date.\n\nRenewing is simple: log in to your account dashboard and select the \"Renew Now\" option. If you choose to upgrade to our Enterprise plan at this time, you will also receive additional storage and priority customer support at no extra cost for the first three months.\n\nIf you need assistance with the renewal process, our support team is available via live chat 24 hours a day.\n\nThank you for being a CloudSuite customer.",
+    "questions": [
+      {
+        "id": "r139q1",
+        "question": "What is the purpose of this email?",
+        "choices": [
+          "To announce a price increase",
+          "To remind the recipient to renew a license",
+          "To report a system outage",
+          "To offer a full refund"
+        ],
+        "answer": 1,
+        "explanation": "「ライセンスの更新を促すリマインダー」です。",
+        "level": 400
+      },
+      {
+        "id": "r139q2",
+        "question": "What happens if the customer upgrades to Enterprise now?",
+        "choices": [
+          "They pay double the price",
+          "They receive extra storage and support at no extra cost for three months",
+          "They lose access temporarily",
+          "They must contact sales by phone"
+        ],
+        "answer": 1,
+        "explanation": "「追加ストレージと優先サポートが3ヶ月間追加料金なしで受けられる」とあります。",
+        "level": 550
+      },
+      {
+        "id": "r139q3",
+        "question": "How can customers get help with renewal?",
+        "choices": [
+          "By visiting an office",
+          "Via live chat 24 hours a day",
+          "By mailing a form",
+          "Through a scheduled phone call only"
+        ],
+        "answer": 1,
+        "explanation": "「24時間対応のライブチャットでサポートを受けられる」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "r140",
+    "title": "案内：会社主催のボランティアデー",
+    "passage": "As part of our commitment to community involvement, the company will host its annual Volunteer Day on Saturday, October 5. Employees are invited to sign up for one of three activities: a park cleanup, a food bank sorting event, or a home-building project with a local housing charity.\n\nEmployees who participate will receive a paid day off in lieu of a regular workday, along with a company-branded volunteer T-shirt. Transportation to and from each site will be provided from the main office parking lot, departing at 8 AM sharp.\n\nSign-ups are open through the HR portal and close one week before the event, as each activity has limited space.",
+    "questions": [
+      {
+        "id": "r140q1",
+        "question": "What are employees invited to do?",
+        "choices": [
+          "Attend a training seminar",
+          "Choose one of three volunteer activities",
+          "Submit project proposals",
+          "Compete in a company sports event"
+        ],
+        "answer": 1,
+        "explanation": "「3つのボランティア活動の中から選ぶ」よう案内されています。",
+        "level": 450
+      },
+      {
+        "id": "r140q2",
+        "question": "What will participating employees receive?",
+        "choices": [
+          "A cash bonus",
+          "A paid day off and a T-shirt",
+          "Extra vacation days for the year",
+          "A gift card"
+        ],
+        "answer": 1,
+        "explanation": "「有給休暇扱いとTシャツがもらえる」とあります。",
+        "level": 500
+      },
+      {
+        "id": "r140q3",
+        "question": "When do sign-ups close?",
+        "choices": [
+          "The day of the event",
+          "One week before the event",
+          "One month before the event",
+          "There is no deadline"
+        ],
+        "answer": 1,
+        "explanation": "「イベントの1週間前に締め切られる」とあります。",
+        "level": 450
+      }
+    ]
   }
 ]
