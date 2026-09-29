@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r121",
+  "passage": "The Olive Branch, a family-owned Italian restaurant downtown, was recently named \"Best New Restaurant\" by the city's food critics association. Chef and owner Marco Rinaldi credits the award to his team's dedication to using fresh, locally sourced ingredients in every dish.\n\nSince opening just eight months ago, the restaurant has built a loyal following, with many customers praising its handmade pasta and warm, welcoming atmosphere. Reservations are now recommended, especially on weekends, as the restaurant has become one of the most popular dining spots in the area.\n\nRinaldi says he plans to expand the menu this fall to include more seasonal dishes.",
+  "questions": [
+   {
+    "id": "r121q1",
+    "question": "What award did the restaurant receive?",
+    "choices": [
+     "Best Chef of the Year",
+     "Best New Restaurant",
+     "Best Value Dining",
+     "Best Dessert Menu"
+    ]
+   },
+   {
+    "id": "r121q2",
+    "question": "What does the owner credit for the restaurant's success?",
+    "choices": [
+     "Low prices",
+     "Using fresh, locally sourced ingredients",
+     "A large advertising budget",
+     "Celebrity endorsements"
+    ]
+   },
+   {
+    "id": "r121q3",
+    "question": "What does the article say about weekends at the restaurant?",
+    "choices": [
+     "The restaurant is closed",
+     "Reservations are recommended",
+     "Prices are discounted",
+     "Only takeout is available"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r122",
+  "passage": "Human Resources is pleased to announce the launch of a new leadership development program for employees interested in advancing into management roles. The program consists of six monthly workshops covering topics such as effective communication, conflict resolution, and team management.\n\nParticipation is open to employees who have been with the company for at least one year and have received a positive performance review in the last cycle. Interested employees should apply through the internal training portal by the end of this month.\n\nSpace is limited to 20 participants per session, so early application is encouraged.",
+  "questions": [
+   {
+    "id": "r122q1",
+    "question": "What is the purpose of the new program?",
+    "choices": [
+     "To train new hires",
+     "To prepare employees for management roles",
+     "To improve customer service",
+     "To teach technical skills"
+    ]
+   },
+   {
+    "id": "r122q2",
+    "question": "What is a requirement for participation?",
+    "choices": [
+     "A college degree",
+     "At least one year with the company",
+     "Management experience",
+     "Fluency in a second language"
+    ]
+   },
+   {
+    "id": "r122q3",
+    "question": "How should interested employees apply?",
+    "choices": [
+     "Through the internal training portal",
+     "By emailing their manager directly",
+     "By calling HR",
+     "By attending an information session"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r123",
+  "passage": "Dear Ms. Patel,\n\nThank you for your interest in our office furniture line. As requested, I have attached a detailed quote for the 20 desks and 40 chairs discussed during our call last week.\n\nThe quote includes a 10% discount for bulk orders and free delivery within the city limits. Please note that this pricing is valid for the next 30 days. If you would like to proceed, simply reply to this email with your confirmation, and we will schedule delivery within two weeks.\n\nPlease let me know if you have any questions or would like to adjust the order.\n\nBest regards,\nTom Bradley, Sales Representative",
+  "questions": [
+   {
+    "id": "r123q1",
+    "question": "What is attached to the email?",
+    "choices": [
+     "An invoice",
+     "A detailed quote",
+     "A product catalog",
+     "A delivery schedule"
+    ]
+   },
+   {
+    "id": "r123q2",
+    "question": "What is included in the offer?",
+    "choices": [
+     "A 10% discount and free delivery",
+     "A one-year warranty",
+     "Free installation",
+     "A gift card"
+    ]
+   },
+   {
+    "id": "r123q3",
+    "question": "How long is the pricing valid?",
+    "choices": [
+     "7 days",
+     "14 days",
+     "30 days",
+     "60 days"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r124",
+  "passage": "After nearly a year of renovations, Lincoln Park reopened to the public last weekend with a host of new features, including a splash pad for children, updated walking trails, and a renovated amphitheater for community events.\n\nThe $2.5 million project was funded through a combination of city funds and private donations. Mayor Rebecca Sung called the renovation \"a wonderful investment in the community\" during the reopening ceremony, which drew hundreds of residents.\n\nPark officials say the amphitheater will host its first concert series beginning next month, with tickets available for free through the city's website.",
+  "questions": [
+   {
+    "id": "r124q1",
+    "question": "What new feature was added for children?",
+    "choices": [
+     "A skate park",
+     "A splash pad",
+     "A playground",
+     "A petting zoo"
+    ]
+   },
+   {
+    "id": "r124q2",
+    "question": "How was the renovation funded?",
+    "choices": [
+     "Entirely by the city",
+     "Entirely by private donors",
+     "A combination of city funds and private donations",
+     "Through a bank loan"
+    ]
+   },
+   {
+    "id": "r124q3",
+    "question": "What will happen at the amphitheater next month?",
+    "choices": [
+     "A farmers market",
+     "The first concert series",
+     "A construction project",
+     "A sports tournament"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r125",
+  "passage": "To All Employees,\n\nAs part of our ongoing security upgrades, all building access badges must be replaced by the end of this month. The new badges include enhanced encryption to better protect against unauthorized access.\n\nTo receive your new badge, please visit the security office on the first floor between 9 AM and 4 PM any weekday. You will need to bring your current badge and a valid photo ID. Old badges will be deactivated automatically on the first of next month, so please do not delay.\n\nIf you are unable to visit during these hours due to a scheduling conflict, contact the security office to arrange an alternative time.",
+  "questions": [
+   {
+    "id": "r125q1",
+    "question": "Why are new badges being issued?",
+    "choices": [
+     "The old badges are out of style",
+     "To improve security with better encryption",
+     "Employees requested a redesign",
+     "The building changed ownership"
+    ]
+   },
+   {
+    "id": "r125q2",
+    "question": "What must employees bring to get a new badge?",
+    "choices": [
+     "Only their current badge",
+     "A current badge and a valid photo ID",
+     "A letter from their manager",
+     "Proof of employment only"
+    ]
+   },
+   {
+    "id": "r125q3",
+    "question": "What happens to old badges next month?",
+    "choices": [
+     "They will still work as backups",
+     "They will be deactivated automatically",
+     "They must be mailed back",
+     "They will be reissued"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r126",
+  "passage": "Pixel Studio, a growing design agency, is looking for a talented Graphic Designer to join our creative team. The ideal candidate has at least two years of experience with design software such as Adobe Illustrator and Photoshop, and a strong portfolio demonstrating branding and print design work.\n\nThis is a full-time position based in our downtown office, with the possibility of one remote day per week after the first three months. Salary is competitive and based on experience.\n\nTo apply, please send your portfolio and resume to jobs@pixelstudio.com. Applications will be reviewed on a rolling basis until the position is filled.",
+  "questions": [
+   {
+    "id": "r126q1",
+    "question": "What is required of applicants?",
+    "choices": [
+     "A college degree in marketing",
+     "At least two years of design software experience",
+     "Five years of management experience",
+     "Fluency in multiple languages"
+    ]
+   },
+   {
+    "id": "r126q2",
+    "question": "What can employees do after three months?",
+    "choices": [
+     "Take unlimited vacation",
+     "Work remotely one day per week",
+     "Receive a promotion automatically",
+     "Work part-time"
+    ]
+   },
+   {
+    "id": "r126q3",
+    "question": "How will applications be reviewed?",
+    "choices": [
+     "All at once after the deadline",
+     "On a rolling basis",
+     "By a third-party recruiter",
+     "Only by phone interview"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r127",
+  "passage": "Building Management would like to inform all tenants that the elevators in the north wing will be temporarily out of service on Saturday, September 14, from 8 AM to 4 PM for scheduled maintenance.\n\nDuring this time, tenants are asked to use the elevators in the south wing or the stairwells. We understand this may cause some inconvenience, especially for those on higher floors, and we appreciate your patience.\n\nIf you have any special accessibility needs during this period, please contact the building office in advance so we can make appropriate arrangements.",
+  "questions": [
+   {
+    "id": "r127q1",
+    "question": "Why will the elevators be out of service?",
+    "choices": [
+     "A power outage",
+     "Scheduled maintenance",
+     "A fire drill",
+     "A renovation project"
+    ]
+   },
+   {
+    "id": "r127q2",
+    "question": "What are tenants asked to do during the maintenance?",
+    "choices": [
+     "Stay in their offices",
+     "Use the south wing elevators or stairwells",
+     "Leave the building",
+     "Park in a different lot"
+    ]
+   },
+   {
+    "id": "r127q3",
+    "question": "What should tenants with accessibility needs do?",
+    "choices": [
+     "Use the freight elevator",
+     "Contact the building office in advance",
+     "Wait until the work is finished",
+     "Call emergency services"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r128",
+  "passage": "The Riverton Hawks, the city's professional soccer team, unveiled plans this week for a new 25,000-seat stadium to replace their current aging facility. Team officials say the new stadium will include improved seating, modern concession areas, and a retractable roof to allow games during inclement weather.\n\nConstruction is expected to begin next year, with completion targeted for the 2029 season. The project will be funded through a mix of private investment and a public bond measure that voters approved last November.\n\nFans have expressed excitement about the plans, though some have raised concerns about increased traffic in the surrounding neighborhood.",
+  "questions": [
+   {
+    "id": "r128q1",
+    "question": "What feature will the new stadium include?",
+    "choices": [
+     "An indoor swimming pool",
+     "A retractable roof",
+     "A shopping mall",
+     "An underground parking garage only"
+    ]
+   },
+   {
+    "id": "r128q2",
+    "question": "How will the project be funded?",
+    "choices": [
+     "Entirely by ticket sales",
+     "A mix of private investment and a public bond",
+     "Government grants only",
+     "Player salary cuts"
+    ]
+   },
+   {
+    "id": "r128q3",
+    "question": "What concern have some fans raised?",
+    "choices": [
+     "Ticket prices",
+     "Increased traffic",
+     "Team performance",
+     "Stadium location"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r153",
+  "passage": "The Willowbrook Animal Shelter announced plans this week to expand its facility, nearly doubling its capacity to care for homeless pets in the region. The $3 million expansion will include additional kennels, an expanded veterinary clinic, and a new outdoor play area for dogs.\n\nShelter director Alan Reyes said the expansion has been years in the making, driven by consistently high intake numbers that have often left the shelter operating beyond capacity. Construction is expected to begin this winter and take approximately one year to complete.\n\nThe shelter is currently accepting donations to help fund the project and has set a goal of raising $500,000 from the community before construction begins.",
+  "questions": [
+   {
+    "id": "r153q1",
+    "question": "What will the expansion include?",
+    "choices": [
+     "A new parking lot only",
+     "Additional kennels and an expanded veterinary clinic",
+     "A gift shop",
+     "A second location"
+    ]
+   },
+   {
+    "id": "r153q2",
+    "question": "Why is the shelter expanding?",
+    "choices": [
+     "To reduce costs",
+     "Due to consistently high intake numbers",
+     "To attract more visitors",
+     "Because of a new law"
+    ]
+   },
+   {
+    "id": "r153q3",
+    "question": "What is the shelter currently doing?",
+    "choices": [
+     "Closing temporarily",
+     "Accepting donations to fund the project",
+     "Reducing staff",
+     "Selling the current building"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r154",
+  "passage": "Dear Fleet Drivers,\n\nThis is a reminder that all company vehicles are due for their quarterly inspection this month. Please schedule an appointment with the maintenance garage at your earliest convenience, as slots tend to fill up quickly toward the end of the month.\n\nDuring the inspection, technicians will check tire condition, brakes, fluid levels, and overall vehicle safety. Any vehicle that fails inspection will be taken out of service until repairs are completed.\n\nPlease bring your vehicle's logbook to the appointment so mileage and maintenance history can be updated accordingly.\n\nThank you for helping us keep our fleet safe and reliable.",
+  "questions": [
+   {
+    "id": "r154q1",
+    "question": "What is the purpose of this email?",
+    "choices": [
+     "To announce new vehicles",
+     "To remind drivers about quarterly inspections",
+     "To report an accident",
+     "To cancel vehicle use"
+    ]
+   },
+   {
+    "id": "r154q2",
+    "question": "What happens if a vehicle fails inspection?",
+    "choices": [
+     "It is sold",
+     "It is taken out of service until repaired",
+     "The driver is fined",
+     "Nothing changes"
+    ]
+   },
+   {
+    "id": "r154q3",
+    "question": "What should drivers bring to their appointment?",
+    "choices": [
+     "Their driver's license",
+     "The vehicle's logbook",
+     "A spare tire",
+     "Payment for the inspection"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r155",
+  "passage": "Introducing the AeroSound Pro, our most advanced noise-cancelling headphones yet. With up to 30 hours of battery life and industry-leading sound quality, the AeroSound Pro is perfect for travel, work, or everyday listening.\n\nThe adaptive noise cancellation automatically adjusts to your environment, whether you're on a noisy flight or working in a busy café. Comfortable memory foam ear cushions ensure all-day wearability without discomfort.\n\nPre-order now and receive a free premium carrying case, a $40 value, while supplies last.",
+  "questions": [
+   {
+    "id": "r155q1",
+    "question": "What is a key feature of the AeroSound Pro?",
+    "choices": [
+     "Waterproof design",
+     "Up to 30 hours of battery life",
+     "Built-in fitness tracker",
+     "Voice translation"
+    ]
+   },
+   {
+    "id": "r155q2",
+    "question": "What does the adaptive noise cancellation do?",
+    "choices": [
+     "Plays background music",
+     "Automatically adjusts to the environment",
+     "Translates languages",
+     "Tracks heart rate"
+    ]
+   },
+   {
+    "id": "r155q3",
+    "question": "What bonus is offered for pre-orders?",
+    "choices": [
+     "A discount code",
+     "A free premium carrying case",
+     "Extra headphones",
+     "Free shipping only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r156",
+  "passage": "We are excited to announce the opening of a new employee reading corner on the fourth floor, stocked with a variety of business, self-development, and leisure books donated by staff and management. The space includes comfortable seating and is available for use during breaks or after hours.\n\nEmployees are welcome to borrow books on an honor system; simply take a book and return it once finished, or feel free to leave a note recommending it to others. We also welcome donations of gently used books to help grow the collection.\n\nWe hope this new space provides a quiet spot to unwind and encourages a culture of continuous learning among our team.",
+  "questions": [
+   {
+    "id": "r156q1",
+    "question": "What is being introduced?",
+    "choices": [
+     "A new cafeteria",
+     "An employee reading corner",
+     "A fitness room",
+     "A meditation room"
+    ]
+   },
+   {
+    "id": "r156q2",
+    "question": "How does the borrowing system work?",
+    "choices": [
+     "Books must be checked out with a librarian",
+     "It operates on an honor system",
+     "Employees must pay a deposit",
+     "Books cannot leave the room"
+    ]
+   },
+   {
+    "id": "r156q3",
+    "question": "What are employees encouraged to do?",
+    "choices": [
+     "Buy new books for the office",
+     "Donate gently used books",
+     "Return all borrowed books immediately",
+     "Avoid using the space during work hours"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r157",
+  "passage": "City engineers announced a two-phase plan to repair the aging Fifth Street Bridge, a key route used by thousands of commuters daily. The first phase, focused on structural reinforcement, will begin next month and require partial lane closures during off-peak hours.\n\nThe second phase, which includes resurfacing and improved lighting, is scheduled for next spring. City officials say the entire project is necessary to extend the bridge's lifespan by at least 25 years and avoid a costly full replacement.\n\nDrivers are advised to expect minor delays during the first phase and to consider alternate routes when possible.",
+  "questions": [
+   {
+    "id": "r157q1",
+    "question": "What is the focus of the first phase?",
+    "choices": [
+     "Resurfacing",
+     "Structural reinforcement",
+     "Adding lanes",
+     "Lighting improvements"
+    ]
+   },
+   {
+    "id": "r157q2",
+    "question": "When is the second phase scheduled?",
+    "choices": [
+     "Next month",
+     "Next spring",
+     "In two years",
+     "It has already started"
+    ]
+   },
+   {
+    "id": "r157q3",
+    "question": "What is the goal of the project?",
+    "choices": [
+     "To build a new bridge",
+     "To extend the bridge's lifespan by at least 25 years",
+     "To close the bridge permanently",
+     "To reduce traffic fines"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r158",
+  "passage": "Dear Team,\n\nThank you to everyone who participated in last month's employee engagement survey. We had an outstanding response rate of 85%, and your feedback will directly shape several initiatives moving forward.\n\nKey findings included strong satisfaction with our benefits package, along with requests for more opportunities for professional development and clearer communication from leadership. In response, we will be launching a new quarterly town hall meeting and expanding our training budget for the coming year.\n\nA full summary of the results is attached for anyone interested in more detail. Thank you again for your honest and valuable input.",
+  "questions": [
+   {
+    "id": "r158q1",
+    "question": "What was the survey's response rate?",
+    "choices": [
+     "50%",
+     "65%",
+     "85%",
+     "100%"
+    ]
+   },
+   {
+    "id": "r158q2",
+    "question": "What did employees request more of?",
+    "choices": [
+     "Vacation days",
+     "Professional development opportunities",
+     "Free snacks",
+     "Parking spaces"
+    ]
+   },
+   {
+    "id": "r158q3",
+    "question": "What new initiative was announced?",
+    "choices": [
+     "A new office location",
+     "Quarterly town hall meetings",
+     "A pay increase",
+     "Reduced work hours"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r159",
+  "passage": "We are currently experiencing technical issues with our online ordering system, which may prevent some customers from completing purchases. Our technical team is actively working to resolve the issue and expects normal service to resume within the next few hours.\n\nIf you attempted to place an order and were charged but did not receive a confirmation email, please do not place a duplicate order. Instead, contact our customer support team, who can verify your order status.\n\nWe sincerely apologize for the inconvenience and will provide updates on our website as they become available.",
+  "questions": [
+   {
+    "id": "r159q1",
+    "question": "What problem is described?",
+    "choices": [
+     "A shipping delay",
+     "Technical issues with the online ordering system",
+     "A price increase",
+     "A product recall"
+    ]
+   },
+   {
+    "id": "r159q2",
+    "question": "What should customers who were charged but got no confirmation do?",
+    "choices": [
+     "Place a duplicate order",
+     "Contact customer support",
+     "Wait one week",
+     "Cancel their account"
+    ]
+   },
+   {
+    "id": "r159q3",
+    "question": "Where will updates be provided?",
+    "choices": [
+     "Via text message",
+     "On the website",
+     "By phone call",
+     "In a printed notice"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r160",
+  "passage": "Skyline Café, the city's first rooftop garden café, opened to the public last week atop the newly renovated Meridian Building downtown. The café features an urban garden where much of its produce is grown on-site, along with panoramic views of the city skyline.\n\nOwner Lena Park said the concept was inspired by her desire to bring more green space into the city's dense downtown core. In addition to food and drinks, the café hosts weekly gardening workshops for the public, teaching skills such as composting and container gardening.\n\nPark hopes the café will encourage other building owners in the area to consider similar rooftop developments in the future.",
+  "questions": [
+   {
+    "id": "r160q1",
+    "question": "What is unique about Skyline Café?",
+    "choices": [
+     "It is entirely underground",
+     "It features an on-site urban garden",
+     "It only serves breakfast",
+     "It is a food truck"
+    ]
+   },
+   {
+    "id": "r160q2",
+    "question": "What inspired the owner to create the café?",
+    "choices": [
+     "A trip abroad",
+     "A desire to bring more green space downtown",
+     "A family recipe",
+     "A cooking competition"
+    ]
+   },
+   {
+    "id": "r160q3",
+    "question": "What does the café offer besides food and drinks?",
+    "choices": [
+     "Cooking classes",
+     "Weekly gardening workshops",
+     "Live music every night",
+     "Free yoga classes"
+    ]
+   }
+  ]
+ }
+]

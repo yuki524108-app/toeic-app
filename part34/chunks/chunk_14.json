@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-t37x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good afternoon, everyone. I'd like to share some exciting news about an update to our employee benefits package."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting next month, all full-time employees will be eligible for an increased annual leave allowance of five additional days."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "In addition, we are introducing a new mental health support program that includes free counseling sessions."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "More details will be sent to your email by the end of this week, along with instructions on how to enroll."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t37x-q1",
+    "question": "What is the main topic of the announcement?",
+    "choices": [
+     "A change in office hours",
+     "An update to employee benefits",
+     "A new client contract",
+     "A company relocation"
+    ]
+   },
+   {
+    "id": "l34-t37x-q2",
+    "question": "What will full-time employees receive?",
+    "choices": [
+     "A salary increase",
+     "Five additional leave days",
+     "A company car",
+     "Free lunches"
+    ]
+   },
+   {
+    "id": "l34-t37x-q3",
+    "question": "What will be sent by the end of the week?",
+    "choices": [
+     "A new employee badge",
+     "Enrollment details by email",
+     "A printed handbook",
+     "A survey form"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t38x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention, passengers. The Skyline Lounge is now open on the third floor near Gate 22."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Lounge access is available to business class passengers and members of our frequent flyer program."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Complimentary snacks, beverages, and Wi-Fi are available for all lounge guests throughout the day."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please have your boarding pass or membership card ready for verification at the entrance."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t38x-q1",
+    "question": "Where is the Skyline Lounge located?",
+    "choices": [
+     "Near Gate 15",
+     "On the third floor near Gate 22",
+     "In the main lobby",
+     "Outside the terminal"
+    ]
+   },
+   {
+    "id": "l34-t38x-q2",
+    "question": "Who can access the lounge?",
+    "choices": [
+     "All passengers",
+     "Business class and frequent flyer members",
+     "Only airline staff",
+     "Passengers with delayed flights"
+    ]
+   },
+   {
+    "id": "l34-t38x-q3",
+    "question": "What should guests have ready at the entrance?",
+    "choices": [
+     "A passport",
+     "A boarding pass or membership card",
+     "Cash payment",
+     "A luggage tag"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t39x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to this year's Technology Expo. Please note that the main hall closes at 6 p.m. today."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "A special keynote presentation on artificial intelligence will begin at 3 p.m. in Hall B."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Free shuttle buses to the downtown hotels will depart from the north entrance every thirty minutes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you need assistance, please visit the information desk located near the main entrance."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t39x-q1",
+    "question": "What time does the main hall close today?",
+    "choices": [
+     "3 p.m.",
+     "5 p.m.",
+     "6 p.m.",
+     "8 p.m."
+    ]
+   },
+   {
+    "id": "l34-t39x-q2",
+    "question": "What will happen in Hall B at 3 p.m.?",
+    "choices": [
+     "A product demonstration",
+     "A keynote presentation on AI",
+     "A networking lunch",
+     "A closing ceremony"
+    ]
+   },
+   {
+    "id": "l34-t39x-q3",
+    "question": "How often do the shuttle buses depart?",
+    "choices": [
+     "Every 15 minutes",
+     "Every 30 minutes",
+     "Every hour",
+     "Only twice a day"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t40x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This weekend only, HomeStyle Online is having its biggest sale of the year, with discounts up to 40 percent off."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Shop furniture, kitchenware, and home decor, all with free shipping on orders over fifty dollars."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "New customers who sign up for our newsletter will also receive an extra ten percent off their first purchase."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Visit our website before midnight Sunday to take advantage of these limited-time offers."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t40x-q1",
+    "question": "What is being advertised?",
+    "choices": [
+     "A grand opening",
+     "A weekend sale",
+     "A job fair",
+     "A charity event"
+    ]
+   },
+   {
+    "id": "l34-t40x-q2",
+    "question": "How can customers get free shipping?",
+    "choices": [
+     "By joining a membership",
+     "By spending over fifty dollars",
+     "By shopping in person",
+     "By using a coupon code"
+    ]
+   },
+   {
+    "id": "l34-t40x-q3",
+    "question": "What do new customers get for signing up for the newsletter?",
+    "choices": [
+     "A free gift",
+     "An extra ten percent discount",
+     "Priority shipping",
+     "A loyalty card"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t41x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention, all staff. This is a reminder that a fire evacuation drill will take place today at 2 p.m."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "When the alarm sounds, please leave your desk calmly and proceed to the nearest emergency exit."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Do not use the elevators during the drill. Instead, use the stairwells located at each end of the building."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Once outside, please gather at the designated meeting point in the north parking lot for a headcount."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t41x-q1",
+    "question": "What is scheduled for 2 p.m.?",
+    "choices": [
+     "A staff meeting",
+     "A fire evacuation drill",
+     "A building inspection",
+     "A power outage test"
+    ]
+   },
+   {
+    "id": "l34-t41x-q2",
+    "question": "What should employees avoid using during the drill?",
+    "choices": [
+     "The stairwells",
+     "The elevators",
+     "The main entrance",
+     "The parking lot"
+    ]
+   },
+   {
+    "id": "l34-t41x-q3",
+    "question": "Where should employees gather after leaving the building?",
+    "choices": [
+     "The lobby",
+     "The north parking lot",
+     "The cafeteria",
+     "The rooftop"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t42x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for joining today's session on our updated health insurance plan for the coming year."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The new plan offers lower monthly premiums along with expanded coverage for dental and vision care."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Employees who wish to switch plans must submit their enrollment forms by the end of this month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have any questions, our HR representatives will be available in the lobby after this presentation."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t42x-q1",
+    "question": "What is the topic of the session?",
+    "choices": [
+     "A retirement plan",
+     "An updated health insurance plan",
+     "A new office policy",
+     "A training schedule"
+    ]
+   },
+   {
+    "id": "l34-t42x-q2",
+    "question": "What does the new plan include?",
+    "choices": [
+     "Free gym memberships",
+     "Expanded dental and vision coverage",
+     "Unlimited sick leave",
+     "A company car allowance"
+    ]
+   },
+   {
+    "id": "l34-t42x-q3",
+    "question": "What must employees do by the end of the month?",
+    "choices": [
+     "Attend another meeting",
+     "Submit enrollment forms",
+     "Pay a deposit",
+     "Choose a new doctor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t43x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for calling BrightTech Customer Support. Please note that our operating hours have changed."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting this month, our support center is open from 8 a.m. to 8 p.m., Monday through Saturday."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We are now closed on Sundays, though our online chat support remains available around the clock."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "For urgent technical issues outside these hours, please visit our website's help center for assistance."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t43x-q1",
+    "question": "What has changed about the support center?",
+    "choices": [
+     "Its phone number",
+     "Its operating hours",
+     "Its location",
+     "Its staff"
+    ]
+   },
+   {
+    "id": "l34-t43x-q2",
+    "question": "On which day is the support center now closed?",
+    "choices": [
+     "Saturday",
+     "Sunday",
+     "Monday",
+     "It is never closed"
+    ]
+   },
+   {
+    "id": "l34-t43x-q3",
+    "question": "What is available even when the center is closed?",
+    "choices": [
+     "In-person visits",
+     "Online chat support",
+     "Phone support",
+     "Email replies within an hour"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t44x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "As many of you know, this year marks our company's twentieth anniversary, and we'll be celebrating in style."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "A special anniversary event will be held at the Grandview Hotel on the last Friday of this month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The evening will include dinner, live music, and a presentation highlighting our company's history."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please RSVP through the company portal by next Monday so we can finalize the seating arrangements."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t44x-q1",
+    "question": "What is the company celebrating?",
+    "choices": [
+     "A merger",
+     "Its twentieth anniversary",
+     "A new product launch",
+     "An award"
+    ]
+   },
+   {
+    "id": "l34-t44x-q2",
+    "question": "Where will the event be held?",
+    "choices": [
+     "At company headquarters",
+     "At the Grandview Hotel",
+     "At a local park",
+     "At a conference center"
+    ]
+   },
+   {
+    "id": "l34-t44x-q3",
+    "question": "What should employees do by next Monday?",
+    "choices": [
+     "Submit vacation requests",
+     "RSVP through the company portal",
+     "Pay for their tickets",
+     "Choose a table assignment"
+    ]
+   }
+  ]
+ }
+]

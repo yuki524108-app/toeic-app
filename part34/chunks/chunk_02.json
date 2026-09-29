@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-t01",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Hi, this message is for Mr. Ito. This is Rachel from Prime Office Furniture returning your call about the desk order."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "I checked our warehouse, and unfortunately the model you wanted is currently out of stock, but we expect a new shipment by the end of next week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "In the meantime, I can offer you a similar desk from a different collection at the same price, if you'd like to see it sooner."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please give me a call back at your convenience so we can discuss which option works best for you. My direct line is five-five-five, oh-one-nine-two."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t01-q1",
+    "question": "Why is Rachel calling?",
+    "choices": [
+     "To confirm a delivery address.",
+     "To respond to a call about a furniture order.",
+     "To apologize for a billing error.",
+     "To announce a store closing."
+    ]
+   },
+   {
+    "id": "l34-t01-q2",
+    "question": "What problem does Rachel mention?",
+    "choices": [
+     "The desk is out of stock.",
+     "The price has increased.",
+     "The store has moved.",
+     "The order was canceled."
+    ]
+   },
+   {
+    "id": "l34-t01-q3",
+    "question": "What does Rachel ask Mr. Ito to do?",
+    "choices": [
+     "Visit the store in person.",
+     "Return her call.",
+     "Send payment immediately.",
+     "Choose a delivery date."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t02",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Are you looking to refresh your home this season? Come visit Maple Street Furnishings for our biggest sale of the year!"
+   },
+   {
+    "speaker": "Narrator",
+    "line": "From this Friday through Sunday, all sofas and dining sets are up to forty percent off, and any purchase over three hundred dollars comes with free delivery."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We're located right next to Central Park Mall, and we're open until nine PM every night during the sale."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Don't miss out — supplies are limited, so stop by early for the best selection."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t02-q1",
+    "question": "What is being advertised?",
+    "choices": [
+     "A grand opening event.",
+     "A furniture sale.",
+     "A cooking class.",
+     "A job fair."
+    ]
+   },
+   {
+    "id": "l34-t02-q2",
+    "question": "What is included with purchases over three hundred dollars?",
+    "choices": [
+     "A gift card.",
+     "Free delivery.",
+     "An extended warranty.",
+     "A discount coupon for next time."
+    ]
+   },
+   {
+    "id": "l34-t02-q3",
+    "question": "According to the advertisement, why should listeners come early?",
+    "choices": [
+     "The store closes early on weekends.",
+     "Parking is limited.",
+     "Supplies are limited.",
+     "Prices increase after the first day."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t03",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good morning, commuters. Here's your traffic update for downtown routes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Construction on Fifth Avenue continues today, so drivers heading toward the financial district should expect delays of about twenty minutes and consider taking Riverside Drive instead."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The Grant Street Bridge is running smoothly, but expect heavier traffic after eight AM as schools open for the week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll have another update in thirty minutes. Stay safe out there."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t03-q1",
+    "question": "What is causing delays on Fifth Avenue?",
+    "choices": [
+     "A traffic accident.",
+     "Road construction.",
+     "Heavy snow.",
+     "A parade."
+    ]
+   },
+   {
+    "id": "l34-t03-q2",
+    "question": "What alternative route is suggested?",
+    "choices": [
+     "Grant Street Bridge.",
+     "Riverside Drive.",
+     "Central Highway.",
+     "Park Avenue."
+    ]
+   },
+   {
+    "id": "l34-t03-q3",
+    "question": "When will the next traffic update be given?",
+    "choices": [
+     "In ten minutes.",
+     "In thirty minutes.",
+     "In one hour.",
+     "Tomorrow morning."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t04",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to the Riverside Art Museum. My name is Grace, and I'll be your guide for this afternoon's tour."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll begin on the second floor with our collection of modern paintings, then move to the sculpture garden before finishing in the gift shop."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please note that photography is allowed in most galleries, but flash photography is not permitted near the older paintings, as it can damage the artwork."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have any questions along the way, feel free to ask. Let's head to the elevator to get started."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t04-q1",
+    "question": "Who most likely is Grace?",
+    "choices": [
+     "A museum curator.",
+     "A tour guide.",
+     "A security officer.",
+     "A gift shop employee."
+    ]
+   },
+   {
+    "id": "l34-t04-q2",
+    "question": "Where will the tour end?",
+    "choices": [
+     "In the sculpture garden.",
+     "On the second floor.",
+     "In the gift shop.",
+     "At the main entrance."
+    ]
+   },
+   {
+    "id": "l34-t04-q3",
+    "question": "What are listeners asked NOT to do?",
+    "choices": [
+     "Take any photographs.",
+     "Touch the paintings.",
+     "Use flash photography near old paintings.",
+     "Bring bags into the gallery."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t05",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good afternoon, everyone. I'd like to remind you all about the customer service training session happening this Thursday."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The session will run from one to four in the afternoon in Conference Room B, and it's mandatory for all staff in the sales and support departments."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll be covering our new complaint-handling procedures, along with a few updates to the customer database system."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please bring your laptops, since part of the session will involve hands-on practice with the new software."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t05-q1",
+    "question": "What is the purpose of the announcement?",
+    "choices": [
+     "To cancel a meeting.",
+     "To remind staff about a training session.",
+     "To announce a new hire.",
+     "To report a system outage."
+    ]
+   },
+   {
+    "id": "l34-t05-q2",
+    "question": "Who is required to attend?",
+    "choices": [
+     "All company employees.",
+     "Only new employees.",
+     "Staff in sales and support.",
+     "Only managers."
+    ]
+   },
+   {
+    "id": "l34-t05-q3",
+    "question": "What should attendees bring?",
+    "choices": [
+     "A printed manual.",
+     "Their laptops.",
+     "A signed form.",
+     "Business cards."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t06",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention passengers, this is the final boarding call for flight three-zero-six to Seattle."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All remaining passengers should proceed to gate twelve immediately, as the doors will close in ten minutes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please have your boarding pass and identification ready for the gate agent."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Passengers requiring extra time to board should identify themselves to airline staff at this time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t06-q1",
+    "question": "What is the announcement about?",
+    "choices": [
+     "A flight delay.",
+     "A final boarding call.",
+     "A gate change.",
+     "A weather warning."
+    ]
+   },
+   {
+    "id": "l34-t06-q2",
+    "question": "What should passengers have ready?",
+    "choices": [
+     "Their luggage tags.",
+     "Their boarding pass and ID.",
+     "A printed itinerary.",
+     "A customs form."
+    ]
+   },
+   {
+    "id": "l34-t06-q3",
+    "question": "Who is asked to identify themselves to staff?",
+    "choices": [
+     "Passengers with connecting flights.",
+     "Passengers needing extra boarding time.",
+     "Passengers traveling with children.",
+     "Passengers with lost luggage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t07",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you all for joining us today. I'm excited to introduce our newest product, the EcoBrew coffee maker."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Unlike our previous models, EcoBrew uses forty percent less energy and is made from recycled materials, which fits perfectly with our company's new sustainability goals."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "It will be available in stores starting next month, and we're offering an early-bird discount for customers who preorder this week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Now, let's take a short break, and when we return, our engineering team will demonstrate how the machine works."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t07-q1",
+    "question": "What is being introduced?",
+    "choices": [
+     "A new coffee maker.",
+     "A new office building.",
+     "A new software update.",
+     "A new delivery service."
+    ]
+   },
+   {
+    "id": "l34-t07-q2",
+    "question": "What is a feature of the new product?",
+    "choices": [
+     "It brews faster than older models.",
+     "It uses less energy and recycled materials.",
+     "It comes with a lifetime warranty.",
+     "It is available only online."
+    ]
+   },
+   {
+    "id": "l34-t07-q3",
+    "question": "What will happen after the break?",
+    "choices": [
+     "A question-and-answer session.",
+     "A product demonstration.",
+     "A press conference.",
+     "A factory tour."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t08",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to Bright Horizon Incorporated, and congratulations on joining our team."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "This morning, we'll cover the basics — your ID badge, building access, and where to find the employee handbook on our intranet."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "After lunch, each of you will meet individually with your department supervisor to go over your specific responsibilities and set goals for your first month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you haven't already, please make sure to submit your emergency contact information to Human Resources by the end of the day."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t08-q1",
+    "question": "Who is the audience for this talk?",
+    "choices": [
+     "Retiring employees.",
+     "New employees.",
+     "Job applicants.",
+     "Company clients."
+    ]
+   },
+   {
+    "id": "l34-t08-q2",
+    "question": "What will happen after lunch?",
+    "choices": [
+     "A company tour.",
+     "Individual meetings with supervisors.",
+     "A skills assessment test.",
+     "A welcome dinner."
+    ]
+   },
+   {
+    "id": "l34-t08-q3",
+    "question": "What are new employees asked to submit by the end of the day?",
+    "choices": [
+     "A signed contract.",
+     "Emergency contact information.",
+     "A copy of their resume.",
+     "Bank account details."
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r017",
+  "passage": "Order Confirmation - Order #77234\n\nThank you for shopping with HomeGoods Direct. This email confirms that we have received your order and it is currently being processed.\n\nOrder Details:\n- 2x Ceramic Dinner Set - $89.98\n- 1x Stainless Steel Cookware Set - $149.99\n- Shipping: Standard (5-7 business days) - $8.99\n\nTotal: $248.96\n\nYour order will be shipped to the address provided at checkout. You will receive a separate email with tracking information once your package has shipped, typically within 1-2 business days.\n\nIf you need to make any changes to your order, please contact us within 24 hours of placing this order, as we begin processing shortly after. For questions, reach our support team at support@homegoodsdirect.com.",
+  "questions": [
+   {
+    "id": "r017q1",
+    "question": "What is the total cost of the order including shipping?",
+    "choices": [
+     "$89.98",
+     "$149.99",
+     "$239.97",
+     "$248.96"
+    ]
+   },
+   {
+    "id": "r017q2",
+    "question": "When can the customer expect to receive tracking information?",
+    "choices": [
+     "Immediately",
+     "Within 1-2 business days",
+     "Within 5-7 business days",
+     "After delivery"
+    ]
+   },
+   {
+    "id": "r017q3",
+    "question": "How much time does the customer have to request changes to the order?",
+    "choices": [
+     "12 hours",
+     "24 hours",
+     "48 hours",
+     "72 hours"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r018",
+  "passage": "Meeting Minutes: Product Development Team\nDate: March 3rd\n\nAttendees: J. Martinez, K. Chen, R. Patel, S. Kim\n\n1. Project Timeline Review\nThe team discussed the current progress of the mobile app redesign. K. Chen reported that the design phase is 80% complete and expected to finish by March 15th.\n\n2. Budget Update\nR. Patel presented the updated budget, noting that the project remains within 5% of the original estimate. Additional funding may be required for user testing in April.\n\n3. Action Items\n- J. Martinez to finalize the wireframes by March 8th\n- S. Kim to schedule user testing sessions for early April\n- Team to reconvene on March 17th to review completed designs\n\nMeeting adjourned at 3:45 PM.",
+  "questions": [
+   {
+    "id": "r018q1",
+    "question": "What percentage of the design phase is complete?",
+    "choices": [
+     "50%",
+     "65%",
+     "80%",
+     "100%"
+    ]
+   },
+   {
+    "id": "r018q2",
+    "question": "When might additional funding be needed?",
+    "choices": [
+     "For the design phase",
+     "For user testing in April",
+     "For the wireframes",
+     "For the next meeting"
+    ]
+   },
+   {
+    "id": "r018q3",
+    "question": "When is the team scheduled to meet again?",
+    "choices": [
+     "March 3rd",
+     "March 8th",
+     "March 15th",
+     "March 17th"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r019",
+  "passage": "The Rise of Remote Work: Benefits and Challenges\n\nOver the past few years, remote work has transformed from a rare perk to a standard practice for many companies. Studies show that employees who work remotely report higher job satisfaction and improved work-life balance.\n\nHowever, remote work is not without its challenges. Many employees report feelings of isolation and difficulty separating work from personal life. Companies have responded by implementing virtual team-building activities and encouraging regular check-ins between managers and staff.\n\nExperts suggest that a hybrid model, combining remote and in-office work, may offer the best of both worlds. This approach allows employees to enjoy the flexibility of remote work while maintaining the social connections and collaborative benefits of in-person interaction.\n\nAs companies continue to adapt, it is clear that workplace flexibility will remain a key factor in attracting and retaining talent.",
+  "questions": [
+   {
+    "id": "r019q1",
+    "question": "What benefit of remote work is mentioned in the article?",
+    "choices": [
+     "Higher salaries",
+     "Improved work-life balance",
+     "Faster promotions",
+     "Reduced workload"
+    ]
+   },
+   {
+    "id": "r019q2",
+    "question": "What challenge do remote employees report?",
+    "choices": [
+     "Lack of equipment",
+     "Feelings of isolation",
+     "Longer working hours",
+     "Reduced pay"
+    ]
+   },
+   {
+    "id": "r019q3",
+    "question": "What do experts suggest as an ideal approach?",
+    "choices": [
+     "Fully remote work",
+     "Fully in-office work",
+     "A hybrid model",
+     "Flexible hours only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r020",
+  "passage": "Product Warranty Information\n\nThank you for purchasing a SoundWave Bluetooth Speaker. This product is covered by a limited warranty for a period of one year from the date of purchase.\n\nThis warranty covers defects in materials and workmanship under normal use. It does not cover damage resulting from misuse, accidents, unauthorized repairs, or normal wear and tear.\n\nTo make a warranty claim, please retain your original proof of purchase and contact our customer service department at warranty@soundwaveaudio.com. You will be asked to describe the issue and may be required to send the product to our repair center for inspection.\n\nIf the product is found to be defective under the terms of this warranty, we will repair or replace it at no cost to you. Please allow 2-3 weeks for the repair or replacement process to be completed.",
+  "questions": [
+   {
+    "id": "r020q1",
+    "question": "How long is the warranty period?",
+    "choices": [
+     "Six months",
+     "One year",
+     "Two years",
+     "Five years"
+    ]
+   },
+   {
+    "id": "r020q2",
+    "question": "What is NOT covered by this warranty?",
+    "choices": [
+     "Manufacturing defects",
+     "Material defects",
+     "Damage from misuse",
+     "Normal use issues"
+    ]
+   },
+   {
+    "id": "r020q3",
+    "question": "What must customers provide to make a warranty claim?",
+    "choices": [
+     "A written complaint",
+     "Proof of purchase",
+     "A replacement fee",
+     "A signed form"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r021",
+  "passage": "Employee Satisfaction Survey Results\n\nThank you to everyone who participated in this year's employee satisfaction survey. We received responses from 78% of our workforce, providing valuable insights into areas of strength and opportunities for improvement.\n\nOverall satisfaction increased slightly compared to last year, with 82% of respondents indicating they were satisfied or very satisfied with their role. The highest-rated area was team collaboration, while the lowest-rated area was opportunities for career advancement.\n\nBased on this feedback, management has committed to launching a new mentorship program by the third quarter of this year. Additionally, we will be conducting quarterly check-ins, rather than annual reviews, to provide more frequent feedback opportunities.\n\nWe appreciate your honesty and look forward to continuing to improve our workplace together.",
+  "questions": [
+   {
+    "id": "r021q1",
+    "question": "What percentage of employees participated in the survey?",
+    "choices": [
+     "58%",
+     "68%",
+     "78%",
+     "88%"
+    ]
+   },
+   {
+    "id": "r021q2",
+    "question": "What area received the lowest rating?",
+    "choices": [
+     "Team collaboration",
+     "Career advancement opportunities",
+     "Salary",
+     "Work-life balance"
+    ]
+   },
+   {
+    "id": "r021q3",
+    "question": "What change will be made to performance reviews?",
+    "choices": [
+     "They will be eliminated",
+     "They will happen quarterly instead of annually",
+     "They will be conducted by peers",
+     "They will be shortened"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r022",
+  "passage": "Press Release: NovaTech Launches Next-Generation Smartwatch\n\nNovaTech Inc. today announced the launch of its newest product, the NovaWatch X3, featuring advanced health monitoring capabilities and an extended battery life of up to 10 days on a single charge.\n\nThe NovaWatch X3 includes new features such as continuous blood oxygen monitoring, sleep quality analysis, and compatibility with both iOS and Android devices. The device will be available in three colors and two size options.\n\n\"We're excited to bring this level of health technology to our customers at an accessible price point,\" said Maria Chen, NovaTech's Chief Product Officer. The NovaWatch X3 will be available for pre-order starting next Monday, with shipments expected to begin in early May.\n\nPricing starts at $249 for the base model, with additional features available in the premium version priced at $299.",
+  "questions": [
+   {
+    "id": "r022q1",
+    "question": "What is a key feature of the NovaWatch X3?",
+    "choices": [
+     "A built-in camera",
+     "Extended battery life",
+     "Voice control",
+     "Waterproof design"
+    ]
+   },
+   {
+    "id": "r022q2",
+    "question": "What operating systems is the device compatible with?",
+    "choices": [
+     "iOS only",
+     "Android only",
+     "Both iOS and Android",
+     "Windows only"
+    ]
+   },
+   {
+    "id": "r022q3",
+    "question": "When will pre-orders begin?",
+    "choices": [
+     "Immediately",
+     "Next Monday",
+     "Early May",
+     "End of the year"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r023",
+  "passage": "Employee Handbook Excerpt: Vacation Policy\n\nFull-time employees accrue vacation time based on their length of service with the company. Employees with less than three years of service accrue 10 days of vacation per year, while those with three to seven years accrue 15 days, and employees with more than seven years accrue 20 days annually.\n\nVacation requests should be submitted through the HR portal at least two weeks in advance whenever possible. Requests will be approved based on business needs and are handled on a first-come, first-served basis.\n\nUnused vacation days may be carried over to the following year, up to a maximum of 5 days. Any additional unused days will be forfeited at the end of the calendar year unless otherwise approved by a manager.\n\nPart-time employees are not eligible for paid vacation time under this policy.",
+  "questions": [
+   {
+    "id": "r023q1",
+    "question": "How many vacation days do employees with 5 years of service receive?",
+    "choices": [
+     "10 days",
+     "15 days",
+     "20 days",
+     "25 days"
+    ]
+   },
+   {
+    "id": "r023q2",
+    "question": "How far in advance should vacation requests be submitted?",
+    "choices": [
+     "One week",
+     "Two weeks",
+     "One month",
+     "No advance notice needed"
+    ]
+   },
+   {
+    "id": "r023q3",
+    "question": "What is the maximum number of vacation days that can be carried over?",
+    "choices": [
+     "3 days",
+     "5 days",
+     "10 days",
+     "All unused days"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r024",
+  "passage": "Travel Itinerary Confirmation\n\nDear Mr. Thompson,\n\nThank you for booking your business trip with Skyline Travel. Below is your confirmed itinerary for your upcoming trip to Chicago.\n\nDeparture: Flight 245, Monday, 8:15 AM from Terminal 2\nReturn: Flight 312, Thursday, 6:30 PM from O'Hare International Airport\nHotel: Downtown Business Suites, 3 nights, check-in Monday afternoon\n\nA rental car has been reserved for the duration of your stay and will be available for pickup at the airport upon arrival. Please bring your driver's license and the confirmation number provided in this email.\n\nIf you need to make any changes to this itinerary, please contact us at least 48 hours before your departure date to avoid change fees. We wish you a productive and pleasant trip.",
+  "questions": [
+   {
+    "id": "r024q1",
+    "question": "How many nights will Mr. Thompson stay at the hotel?",
+    "choices": [
+     "Two nights",
+     "Three nights",
+     "Four nights",
+     "Five nights"
+    ]
+   },
+   {
+    "id": "r024q2",
+    "question": "What must Mr. Thompson bring to pick up the rental car?",
+    "choices": [
+     "A credit card only",
+     "His driver's license and confirmation number",
+     "A passport",
+     "Cash for a deposit"
+    ]
+   },
+   {
+    "id": "r024q3",
+    "question": "How far in advance must changes be requested to avoid fees?",
+    "choices": [
+     "24 hours",
+     "48 hours",
+     "72 hours",
+     "One week"
+    ]
+   }
+  ]
+ }
+]

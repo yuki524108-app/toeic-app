@@ -1,0 +1,414 @@
+[
+ {
+  "id": "l34-c69z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hi, I booked Conference Room A for 2 PM, but it looks like another team is already using it."
+   },
+   {
+    "speaker": "Man",
+    "line": "Oh, sorry about that. There must have been a double booking in the system."
+   },
+   {
+    "speaker": "Woman",
+    "line": "No problem, but I have clients arriving in twenty minutes. Is there another room available?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Let me check... Room C on the second floor is free until 4 PM. I'll reserve it for you right now."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c69z-q1",
+    "question": "What is the woman's problem?",
+    "choices": [
+     "Her clients canceled.",
+     "Her reserved room is occupied.",
+     "She lost her booking confirmation.",
+     "The projector is broken."
+    ]
+   },
+   {
+    "id": "l34-c69z-q2",
+    "question": "What does the man say caused the problem?",
+    "choices": [
+     "A staff error",
+     "A double booking in the system",
+     "A power outage",
+     "A scheduling change by the client"
+    ]
+   },
+   {
+    "id": "l34-c69z-q3",
+    "question": "What will the man most likely do next?",
+    "choices": [
+     "Cancel the meeting",
+     "Call the clients",
+     "Reserve Room C for the woman",
+     "Report the issue to IT"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c70z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Are you taking the train or flying to the Denver conference next week?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I was going to fly, but the direct flights are all sold out. I might have to drive instead."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's a long drive. Why don't you take a connecting flight through Chicago?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Actually, that's a good idea. Let me check the schedule and book it this afternoon."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c70z-q1",
+    "question": "What is the woman's original travel plan?",
+    "choices": [
+     "To take the train",
+     "To fly directly",
+     "To drive",
+     "To carpool with a colleague"
+    ]
+   },
+   {
+    "id": "l34-c70z-q2",
+    "question": "Why can't the woman take her original plan?",
+    "choices": [
+     "The conference was canceled",
+     "Direct flights are sold out",
+     "She doesn't have a car",
+     "The train is too expensive"
+    ]
+   },
+   {
+    "id": "l34-c70z-q3",
+    "question": "What does the man suggest?",
+    "choices": [
+     "Driving instead",
+     "Taking a connecting flight through Chicago",
+     "Postponing the trip",
+     "Taking the train"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c71z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Welcome to the team! Have you had a chance to look over the employee handbook yet?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, I read most of it last night, but I still have a few questions about the benefits section."
+   },
+   {
+    "speaker": "Woman",
+    "line": "No problem. HR is holding a benefits orientation session this Thursday at 10 AM. You should sign up."
+   },
+   {
+    "speaker": "Man",
+    "line": "Great, I'll register right after this meeting."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c71z-q1",
+    "question": "What has the man already done?",
+    "choices": [
+     "Attended orientation",
+     "Read most of the employee handbook",
+     "Met with HR",
+     "Signed his contract"
+    ]
+   },
+   {
+    "id": "l34-c71z-q2",
+    "question": "What does the man still have questions about?",
+    "choices": [
+     "His job title",
+     "The benefits section",
+     "The dress code",
+     "His work schedule"
+    ]
+   },
+   {
+    "id": "l34-c71z-q3",
+    "question": "What will the man probably do next?",
+    "choices": [
+     "Call HR",
+     "Register for the orientation session",
+     "Read the handbook again",
+     "Ask a coworker"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c72z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The printer on the third floor is jammed again. This is the third time this week."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I know, it's frustrating. I think we should just call a technician instead of trying to fix it ourselves."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good idea. Do you have the number for the maintenance company?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll look it up and send you the contact information in a few minutes."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c72z-q1",
+    "question": "What is the problem being discussed?",
+    "choices": [
+     "A broken elevator",
+     "A printer that keeps jamming",
+     "A computer virus",
+     "A leaking faucet"
+    ]
+   },
+   {
+    "id": "l34-c72z-q2",
+    "question": "What does the woman suggest?",
+    "choices": [
+     "Buying a new printer",
+     "Calling a technician",
+     "Moving the printer",
+     "Ignoring the problem"
+    ]
+   },
+   {
+    "id": "l34-c72z-q3",
+    "question": "What will the woman do next?",
+    "choices": [
+     "Fix the printer herself",
+     "Send the man contact information",
+     "Leave the office",
+     "Order printer paper"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c73z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I noticed several employees have complained about back pain from the old chairs."
+   },
+   {
+    "speaker": "Man",
+    "line": "Yeah, I've heard the same. Maybe we should order new ergonomic chairs for the office."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I agree. Can you get a few quotes from suppliers by Friday?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, I'll reach out to three companies today and compare their prices."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c73z-q1",
+    "question": "What have employees been complaining about?",
+    "choices": [
+     "Noise levels",
+     "Back pain from old chairs",
+     "Slow computers",
+     "Poor lighting"
+    ]
+   },
+   {
+    "id": "l34-c73z-q2",
+    "question": "What does the woman ask the man to do?",
+    "choices": [
+     "Fix the old chairs",
+     "Get quotes from suppliers",
+     "Interview new employees",
+     "Write a complaint letter"
+    ]
+   },
+   {
+    "id": "l34-c73z-q3",
+    "question": "What will the man do today?",
+    "choices": [
+     "Order the chairs immediately",
+     "Contact three companies",
+     "Meet with employees",
+     "Cancel the old order"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c74z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, I'd like to change my reservation for tonight from 7 PM to 8:30 PM if possible."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me check... Yes, we have availability at 8:30. Will it still be for four people?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Actually, we'll now be six people. Is that alright?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "That should be fine. I'll update the reservation and seat you at a larger table."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c74z-q1",
+    "question": "What does the man want to change?",
+    "choices": [
+     "The date of his reservation",
+     "The time of his reservation",
+     "The location of the restaurant",
+     "The type of table"
+    ]
+   },
+   {
+    "id": "l34-c74z-q2",
+    "question": "How many people will now be in the party?",
+    "choices": [
+     "Four",
+     "Five",
+     "Six",
+     "Eight"
+    ]
+   },
+   {
+    "id": "l34-c74z-q3",
+    "question": "What will the woman do?",
+    "choices": [
+     "Cancel the reservation",
+     "Update the reservation and provide a larger table",
+     "Charge an extra fee",
+     "Suggest a different restaurant"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c75z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "How is everyone adjusting to the new accounting software?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Honestly, a lot of the team is struggling. The interface is quite different from what we used before."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll ask the vendor to send a trainer for an in-person workshop next week."
+   },
+   {
+    "speaker": "Man",
+    "line": "That would help a lot. I think most people just need some hands-on practice."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c75z-q1",
+    "question": "What problem does the man mention?",
+    "choices": [
+     "The software is too expensive",
+     "The team is struggling with the new interface",
+     "The software keeps crashing",
+     "There is no customer support"
+    ]
+   },
+   {
+    "id": "l34-c75z-q2",
+    "question": "What does the woman offer to do?",
+    "choices": [
+     "Cancel the software",
+     "Arrange a training workshop",
+     "Write a user manual",
+     "Hire a new employee"
+    ]
+   },
+   {
+    "id": "l34-c75z-q3",
+    "question": "What does the man think the team needs?",
+    "choices": [
+     "A pay raise",
+     "Hands-on practice",
+     "A longer deadline",
+     "A different software"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t34z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention passengers of Flight 227 to Boston. Due to a mechanical inspection, our departure has been delayed by approximately 45 minutes. We now expect to begin boarding at 3:15 instead of 2:30. We apologize for the inconvenience and will provide updates as they become available. Passengers with connecting flights should speak with a gate agent for assistance. Thank you for your patience."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t34z-q1",
+    "question": "Why is the flight delayed?",
+    "choices": [
+     "Bad weather",
+     "A mechanical inspection",
+     "A staffing shortage",
+     "A security issue"
+    ]
+   },
+   {
+    "id": "l34-t34z-q2",
+    "question": "When will boarding now begin?",
+    "choices": [
+     "2:30",
+     "2:45",
+     "3:15",
+     "4:00"
+    ]
+   },
+   {
+    "id": "l34-t34z-q3",
+    "question": "What should passengers with connecting flights do?",
+    "choices": [
+     "Wait at the gate",
+     "Speak with a gate agent",
+     "Call the airline",
+     "Rebook online"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1048 @@
+```python
+import json
+
+chunk_02 = [
+ {
+  "id": "r009",
+  "passage": "Customer Service Representative Wanted\n\nGreenline Logistics is hiring a full-time Customer Service Representative to join our growing team. This role involves responding to customer inquiries via phone and email, tracking shipments, and resolving delivery issues.\n\nRequirements include excellent communication skills, basic computer proficiency, and at least one year of customer service experience. Bilingual candidates are preferred but not required.\n\nThis position offers a starting salary of $38,000 per year, along with health insurance and paid time off after 90 days of employment. The work schedule is Monday through Friday, 9 AM to 5 PM.\n\nInterested applicants should apply through our website at greenlinelogistics.com/careers before the application deadline of the 20th of this month.",
+  "questions": [
+   {
+    "id": "r009q1",
+    "question": "What is one of the main responsibilities of this position?",
+    "choices": [
+     "Managing warehouse inventory",
+     "Tracking shipments",
+     "Hiring new staff",
+     "Designing marketing materials"
+    ]
+   },
+   {
+    "id": "r009q2",
+    "question": "When do employees become eligible for paid time off?",
+    "choices": [
+     "Immediately",
+     "After 30 days",
+     "After 90 days",
+     "After one year"
+    ]
+   },
+   {
+    "id": "r009q3",
+    "question": "How should candidates apply for this position?",
+    "choices": [
+     "By calling the office",
+     "By mailing a resume",
+     "Through the company website",
+     "By visiting in person"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r010",
+  "passage": "You're Invited: Annual Employee Recognition Gala\n\nJoin us in celebrating the achievements of our outstanding employees at this year's Annual Recognition Gala, taking place on Saturday, June 14th, at the Grand Ballroom of the Lakeside Hotel.\n\nThe evening will include a formal dinner, awards ceremony, and live entertainment. This year, we will be honoring employees who have reached significant service milestones, as well as recognizing top performers in each department.\n\nDoors open at 6:30 PM, with dinner served at 7:00 PM. Formal attire is requested. Please RSVP by June 1st through the HR portal, as seating is limited. Guests are welcome; please indicate the number of attendees when you RSVP.",
+  "questions": [
+   {
+    "id": "r010q1",
+    "question": "Where will the event be held?",
+    "choices": [
+     "The company headquarters",
+     "The Grand Ballroom of the Lakeside Hotel",
+     "A local restaurant",
+     "The main auditorium"
+    ]
+   },
+   {
+    "id": "r010q2",
+    "question": "By when should employees RSVP?",
+    "choices": [
+     "June 1st",
+     "June 14th",
+     "June 30th",
+     "The day of the event"
+    ]
+   },
+   {
+    "id": "r010q3",
+    "question": "What is requested regarding attire?",
+    "choices": [
+     "Casual clothing",
+     "Business casual",
+     "Formal attire",
+     "Company uniform"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r011",
+  "passage": "Subject: We Want Your Feedback!\n\nDear Customer,\n\nThank you for your recent purchase from TechHub Electronics. We would greatly appreciate it if you could take a few minutes to complete our customer satisfaction survey. Your feedback helps us improve our products and services.\n\nThe survey consists of ten short questions and should take no more than five minutes to complete. As a thank-you for your time, you will receive a coupon code for 10% off your next purchase upon completion.\n\nPlease click the link below to begin the survey. The survey will remain open until the end of this month, after which the coupon offer will no longer be available.\n\nWe value your business and look forward to hearing your thoughts.",
+  "questions": [
+   {
+    "id": "r011q1",
+    "question": "How long does the survey take to complete?",
+    "choices": [
+     "One minute",
+     "Five minutes",
+     "Ten minutes",
+     "Thirty minutes"
+    ]
+   },
+   {
+    "id": "r011q2",
+    "question": "What incentive is offered for completing the survey?",
+    "choices": [
+     "A free product",
+     "A 10% discount coupon",
+     "Cash back",
+     "A gift card"
+    ]
+   },
+   {
+    "id": "r011q3",
+    "question": "What happens after the survey period ends?",
+    "choices": [
+     "The survey extends automatically",
+     "The coupon offer expires",
+     "Customers get a refund",
+     "New questions are added"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r012",
+  "passage": "Memo: Updated IT Security Policy\n\nTo all staff,\n\nIn light of recent industry-wide security concerns, our IT department has updated the company's data security policy. All employees are required to change their network passwords by the end of this week.\n\nNew passwords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and special symbols. Additionally, two-factor authentication will now be mandatory for accessing company email and internal systems remotely.\n\nEmployees who have not completed these updates by Friday will have their accounts temporarily locked until the changes are made. If you experience any issues, please contact the IT help desk at extension 350.\n\nThank you for your cooperation in keeping our systems secure.",
+  "questions": [
+   {
+    "id": "r012q1",
+    "question": "What must all employees do by the end of the week?",
+    "choices": [
+     "Install new software",
+     "Change their passwords",
+     "Attend a training session",
+     "Submit a security report"
+    ]
+   },
+   {
+    "id": "r012q2",
+    "question": "What is now required for remote access to company systems?",
+    "choices": [
+     "A VPN connection",
+     "Two-factor authentication",
+     "A signed agreement",
+     "Manager approval"
+    ]
+   },
+   {
+    "id": "r012q3",
+    "question": "What happens if the changes are not completed by Friday?",
+    "choices": [
+     "A warning email is sent",
+     "The account is locked",
+     "The employee is fined",
+     "Nothing happens"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r013",
+  "passage": "Important Update from FastTrack Delivery\n\nDear Customer,\n\nWe are writing to inform you that due to increased demand during the holiday season, delivery times may be extended by 2-3 additional business days for all standard shipping orders placed between now and the end of the month.\n\nExpedited shipping options remain unaffected and will continue to arrive within the originally quoted timeframes. We recommend selecting expedited shipping for any time-sensitive deliveries during this period.\n\nWe apologize for any inconvenience this may cause. Our team is working hard to process orders as quickly as possible. You can track your order at any time using the tracking number provided in your confirmation email.\n\nThank you for your understanding and continued support.",
+  "questions": [
+   {
+    "id": "r013q1",
+    "question": "Why are delivery times being extended?",
+    "choices": [
+     "A shortage of drivers",
+     "Increased holiday demand",
+     "A warehouse closure",
+     "Weather conditions"
+    ]
+   },
+   {
+    "id": "r013q2",
+    "question": "What shipping option is NOT affected by the delay?",
+    "choices": [
+     "Standard shipping",
+     "International shipping",
+     "Expedited shipping",
+     "Free shipping"
+    ]
+   },
+   {
+    "id": "r013q3",
+    "question": "How can customers check their order status?",
+    "choices": [
+     "By calling customer service",
+     "Using the tracking number",
+     "By visiting the store",
+     "By replying to the email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r014",
+  "passage": "Annual Business Leadership Conference\n\nThe 15th Annual Business Leadership Conference will be held from September 10th to 12th at the Metropolitan Convention Center. This year's theme is \"Navigating Change in a Digital Economy.\"\n\nThe conference will feature keynote speeches from industry leaders, panel discussions on emerging technologies, and networking sessions throughout each day. Early bird registration, available until August 1st, offers a 25% discount off the standard registration fee.\n\nAttendees can choose from over 30 breakout sessions covering topics such as leadership development, digital transformation, and sustainable business practices. A detailed schedule will be provided upon registration.\n\nGroup discounts are available for companies registering five or more employees. For more information, visit our website or contact the conference organizers directly.",
+  "questions": [
+   {
+    "id": "r014q1",
+    "question": "What is this year's conference theme?",
+    "choices": [
+     "Leadership Development",
+     "Navigating Change in a Digital Economy",
+     "Sustainable Business Practices",
+     "Global Market Trends"
+    ]
+   },
+   {
+    "id": "r014q2",
+    "question": "What is the deadline for the early bird discount?",
+    "choices": [
+     "August 1st",
+     "September 1st",
+     "September 10th",
+     "September 12th"
+    ]
+   },
+   {
+    "id": "r014q3",
+    "question": "How many employees must a company register to receive a group discount?",
+    "choices": [
+     "Two or more",
+     "Three or more",
+     "Five or more",
+     "Ten or more"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r015",
+  "passage": "Product Review: UltraBook Pro 15\n\nI purchased the UltraBook Pro 15 three months ago for both work and personal use, and overall, I've been quite satisfied. The battery life is excellent, easily lasting a full workday without needing to recharge.\n\nThe screen quality is impressive, with sharp colors and good brightness even in outdoor lighting. However, I did notice that the laptop tends to run warm during extended use, particularly when running multiple applications simultaneously.\n\nCustomer support was helpful when I had questions about software installation, responding to my email within a few hours. The price point is slightly higher than competitors, but given the build quality and performance, I believe it's a worthwhile investment for professionals who need a reliable machine.\n\nOverall rating: 4 out of 5 stars.",
+  "questions": [
+   {
+    "id": "r015q1",
+    "question": "What does the reviewer praise about the laptop?",
+    "choices": [
+     "Its low price",
+     "Its battery life",
+     "Its lightweight design",
+     "Its keyboard"
+    ]
+   },
+   {
+    "id": "r015q2",
+    "question": "What issue does the reviewer mention?",
+    "choices": [
+     "Poor screen quality",
+     "The laptop running warm",
+     "Slow customer support",
+     "A short warranty"
+    ]
+   },
+   {
+    "id": "r015q3",
+    "question": "How does the reviewer feel about the price?",
+    "choices": [
+     "It's too expensive",
+     "It's reasonably priced",
+     "It's higher but worth it",
+     "It's the cheapest option"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r016",
+  "passage": "Employee Benefit: Gym Membership Discount\n\nWe are pleased to announce a new partnership with FitLife Gym, offering all employees a 30% discount on monthly memberships. This benefit is part of our ongoing commitment to employee wellness.\n\nTo take advantage of this offer, simply present your employee ID card at any FitLife Gym location. The discount applies to both individual and family memberships and includes access to group fitness classes.\n\nThis partnership is valid at all FitLife locations nationwide, making it convenient for employees who travel frequently or work from different offices. The discount will remain in effect through the end of next year, at which point it will be reviewed for renewal.\n\nFor more details, please visit the HR benefits page on the company intranet.",
+  "questions": [
+   {
+    "id": "r016q1",
+    "question": "What discount is being offered on gym memberships?",
+    "choices": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ]
+   },
+   {
+    "id": "r016q2",
+    "question": "What must employees show to receive the discount?",
+    "choices": [
+     "A discount code",
+     "Their employee ID card",
+     "A membership form",
+     "A pay stub"
+    ]
+   },
+   {
+    "id": "r016q3",
+    "question": "How long is this partnership guaranteed to last?",
+    "choices": [
+     "Six months",
+     "One year",
+     "Until the end of next year",
+     "Indefinitely"
+    ]
+   }
+  ]
+ }
+]
+
+print("Read successfully, total items:", len(chunk_02))
+
+
+```
+
+```text
+Read successfully, total items: 8
+
+
+```
+
+```python
+result_r009_to_r016 = [
+  {
+    "id": "r009",
+    "passageJa": "カスタマーサービス担当者募集\n\nグリーンライン・ロジスティクス社では、拡大中のチームに加わっていただくフルタイムのカスタマーサービス担当者を募集しています。本職種では、電話や電子メールによるお客様からの問い合わせへの対応、荷物の追跡、および配送問題の解決を担当します。\n\n応募要件には、優れたコミュニケーション能力、基本的なコンピュータースキル、および1年以上のカスタマーサービス実務経験が含まれます。二言語話者（バイリンガル）の応募者は優遇されますが、必須ではありません。\n\n本職種の初任給は年収38,000ドルで、採用から90日経過後に健康保険および有給休暇の受給資格が得られます。勤務時間は月曜日から金曜日の午前9時から午後5時までです。\n\n応募希望者は、今月20日の応募締め切りまでに、弊社ウェブサイト（greenlinelogistics.com/careers）よりご応募ください。",
+    "vocab": [
+      "inquiry：問い合わせ",
+      "proficiency：熟練度、能力",
+      "eligible：資格がある",
+      "paid time off：有給休暇",
+      "applicant：応募者"
+    ],
+    "questions": [
+      {
+        "id": "r009q1",
+        "questionJa": "この職種の主な職務内容の一つは何ですか。",
+        "choicesJa": [
+          "倉庫の在庫管理",
+          "荷物の追跡",
+          "新しいスタッフの採用",
+          "マーケティング資料のデザイン"
+        ],
+        "explanationDetail": "第1段落で、具体的な業務として「荷物の追跡（tracking shipments）」が挙げられているため、選択肢Bが正解です。倉庫の在庫管理やスタッフ採用、マーケティング資料のデザインといった他の業務については本文中に記載がありません。"
+      },
+      {
+        "id": "r009q2",
+        "questionJa": "従業員はいつ有給休暇を取得する資格を得ますか。",
+        "choicesJa": [
+          "採用後すぐに",
+          "30日後",
+          "90日後",
+          "1年後"
+        ],
+        "explanationDetail": "第3段落に「採用から90日経過後に健康保険および有給休暇が提供される（paid time off after 90 days of employment）」と明記されているため、90日後（選択肢C）が正解です。即時支給や30日後、1年後とする他の選択肢は条件と一致しません。"
+      },
+      {
+        "id": "r009q3",
+        "questionJa": "応募者はこの職種にどのように応募すべきですか。",
+        "choicesJa": [
+          "オフィスに電話する",
+          "履歴書を郵送する",
+          "会社のウェブサイト経由で",
+          "直接訪問する"
+        ],
+        "explanationDetail": "第4段落において「会社のウェブサイト（greenlinelogistics.com/careers）を通じて応募すること（apply through our website）」と指示されているため、選択肢Cが正解です。電話対応や郵送、直接の来社による応募手順は案内されていません。"
+      }
+    ]
+  },
+  {
+    "id": "r010",
+    "passageJa": "ご案内：年次優秀社員表彰式・ガラパーティー\n\nレイクサイド・ホテルのグランドボールルームにて6月14日（土）に開催される今年の年次表彰ガラパーティーで、優れた従業員の功績をともにお祝いしましょう。\n\n当夜はフォーマルディナー、授賞式、およびライブエンターテインメントが行われます。今年は、永年勤続の節目を迎えた従業員を表彰するとともに、各部門の優秀業績者を讃えます。\n\n開場は午後6時30分で、ディナーは午後7時より提供されます。服装はフォーマル着用をお願いいたします。座席数に限りがございますので、6月1日までに人事ポータルより出欠の回答（RSVP）をお願いします。ご同伴者の参加も歓迎いたします。回答の際に同伴者数をご明記ください。",
+    "vocab": [
+      "gala：特別催事、ガラパーティー",
+      "milestone：節目、記念すべき出来事",
+      "attire：服装、衣装",
+      "RSVP：返信する、出欠を連絡する"
+    ],
+    "questions": [
+      {
+        "id": "r010q1",
+        "questionJa": "イベントはどこで開催されますか。",
+        "choicesJa": [
+          "本社ビル",
+          "レイクサイド・ホテルのグランドボールルーム",
+          "地元のレストラン",
+          "メイン講堂"
+        ],
+        "explanationDetail": "第1段落でイベントの開催場所が「レイクサイド・ホテルのグランドボールルーム（Grand Ballroom of the Lakeside Hotel）」と特定されているため、選択肢Bが正解です。本社ビルや地元のレストラン、講堂で開催されるわけではありません。"
+      },
+      {
+        "id": "r010q2",
+        "questionJa": "従業員はいつまでに出欠（RSVP）の連絡をしなければなりませんか。",
+        "choicesJa": [
+          "6月1日",
+          "6月14日",
+          "6月30日",
+          "イベント当日"
+        ],
+        "explanationDetail": "第3段落に「座席に限りがあるため、6月1日までに人事ポータル経由で回答すること（RSVP by June 1st）」と求められているため、6月1日（選択肢A）が正解です。6月14日はイベントの開催日であり、回答の締め切り日ではありません。"
+      },
+      {
+        "id": "r010q3",
+        "questionJa": "服装に関して何が求められていますか。",
+        "choicesJa": [
+          "カジュアルな服装",
+          "オフィスカジュアル",
+          "フォーマルな服装",
+          "会社の制服"
+        ],
+        "explanationDetail": "第3段落に「フォーマルな服装が求められる（Formal attire is requested）」と記載されているため、選択肢Cが正解です。カジュアルウェアやビジネスカジュアル、制服での参加は指定されていません。"
+      }
+    ]
+  },
+  {
+    "id": "r011",
+    "passageJa": "件名：ご意見をお聞かせください！\n\nお客様へ\n\nこのたびはTechHub Electronicsにてご購入いただき、誠にありがとうございます。弊社の顧客満足度アンケートにご回答いただけますと幸いに存じます。皆様からのフィードバックは、製品やサービスの向上に役立てられます。\n\nアンケートは10個の短い質問で構成されており、回答にかかる時間は5分程度です。ご協力いただいたお礼として、回答完了時に次回のお買い物で使える10%オフのクーポンコードを進呈いたします。\n\n以下のリンクをクリックしてアンケートを開始してください。アンケートは今月末まで受付けておりますが、それ以降はクーポン特典が利用できなくなりますのでご注意ください。\n\n今後ともご愛顧のほどよろしくお願い申し上げます。",
+    "vocab": [
+      "appreciation：感謝、評価",
+      "satisfaction：満足度",
+      "consist of：〜で構成されている",
+      "completion：完了、完成"
+    ],
+    "questions": [
+      {
+        "id": "r011q1",
+        "questionJa": "アンケートの回答にはどのくらいの時間がかかりますか。",
+        "choicesJa": [
+          "1分",
+          "5分",
+          "10分",
+          "30分"
+        ],
+        "explanationDetail": "第2段落において「回答にかかる時間は5分以内（take no more than five minutes）」と説明されているため、5分（選択肢B）が正解です。1分、10分、30分といったその他の所要時間は本文の記述と一致しません。"
+      },
+      {
+        "id": "r011q2",
+        "questionJa": "アンケート回答者には特典として何が提供されますか。",
+        "choicesJa": [
+          "無料の商品",
+          "10%割引クーポン",
+          "キャッシュバック",
+          "ギフトカード"
+        ],
+        "explanationDetail": "第2段落に「回答完了時に次回のお買い物で使える10%オフのクーポンコードを進呈する（coupon code for 10% off your next purchase）」と書かれているため、選択肢Bが正解です。無料製品やキャッシュバック、ギフトカードが贈られるわけではありません。"
+      },
+      {
+        "id": "r011q3",
+        "questionJa": "アンケート期間が終わるとどうなりますか。",
+        "choicesJa": [
+          "アンケートが自動的に延長される",
+          "クーポン特典の有効期限が切れる",
+          "顧客に返金が行われる",
+          "新しい質問が追加される"
+        ],
+        "explanationDetail": "第3段落で「アンケートは今月末まで公開され、その後はクーポン特典が利用不可になる（coupon offer will no longer be available）」と説明されているため、クーポン特典の失効を意味する選択肢Bが正解です。期間の自動延長や返金、質問の追加といった対応は行われません。"
+      }
+    ]
+  },
+  {
+    "id": "r012",
+    "passageJa": "社内連絡：ITセキュリティポリシー改定のお知らせ\n\n全従業員へ\n\n昨今の業界全体におけるセキュリティ上の懸念を受け、IT部門では会社のデータセキュリティポリシーを改定いたしました。すべての従業員は、今週末までにネットワークパスワードを変更する必要があります。\n\n新しいパスワードは12文字以上で、大文字、小文字、数字、および特殊記号を組み合わせる必要があります。さらに、会社の電子メールや社内システムへ外部からリモートアクセスする際には、二要素認証が必須となります。\n\n金曜日までにこれらの更新を完了していない従業員は、変更が行われるまでアカウントが一時的にロックされます。問題が発生した場合は、内線350のITヘルプデスクまでご連絡ください。\n\nシステムのセキュリティ維持に対するご協力をお願い申し上げます。",
+    "vocab": [
+      "mandatory：義務的な、必須の",
+      "remotely：遠隔で、外部から",
+      "lock：ロックする、凍結する",
+      "cooperation：協力"
+    ],
+    "questions": [
+      {
+        "id": "r012q1",
+        "questionJa": "すべての従業員は週末までに何をしなければなりませんか。",
+        "choicesJa": [
+          "新しいソフトウェアをインストールする",
+          "パスワードを変更する",
+          "研修会に参加する",
+          "セキュリティレポートを提出する"
+        ],
+        "explanationDetail": "第1段落末尾で「今週末までにネットワークパスワードを変更することが求められている（required to change their network passwords by the end of this week）」と指示されているため、パスワード変更（選択肢B）が正解です。ソフトウェアの導入や研修への参加などは指示されていません。"
+      },
+      {
+        "id": "r012q2",
+        "questionJa": "社内システムへのリモートアクセスにおいて、何が新たに必須となりましたか。",
+        "choicesJa": [
+          "VPN接続",
+          "二要素認証",
+          "署名済みの合意書",
+          "上司の承認"
+        ],
+        "explanationDetail": "第2段落に「リモートアクセス時に二要素認証が必須となる（two-factor authentication will now be mandatory）」と指定されているため、選択肢Bが正解です。VPN接続や上司の承認が必要であるとは述べられていません。"
+      },
+      {
+        "id": "r012q3",
+        "questionJa": "金曜日までに設定変更を完了しなかった場合、どうなりますか。",
+        "choicesJa": [
+          "警告メールが送信される",
+          "アカウントがロックされる",
+          "罰金が科される",
+          "何も起きない"
+        ],
+        "explanationDetail": "第3段落冒頭に「金曜日までに更新を行わなかった従業員は、変更が行われるまでアカウントが一時的にロックされる（accounts temporarily locked）」と記されているため、選択肢Bが正解です。警告メールの送信や罰金などのペナルティについての記載はありません。"
+      }
+    ]
+  },
+  {
+    "id": "r013",
+    "passageJa": "FastTrack Delivery社からの重要なお知らせ\n\nお客様へ\n\nホリデーシーズン中の需要増加に伴い、本日より今月末までに受け付けたすべての標準配送のご注文につきまして、お届けに通常より2〜3営業日ほど追加でお時間をいただく可能性がございますのでお知らせいたします。\n\nお急ぎ便（速達配送）オプションは影響を受けず、当初提示いたしましたお届け日程の通りに到着いたします。この期間中に到着期日を指定されるご注文につきましては、お急ぎ便のご利用をお勧めいたします。\n\nご不便をおかけしますことをお詫び申し上げます。弊社チーム一同、一日も早くお届けできるよう迅速な出荷処理に努めております。なお、ご注文状況は確認メールに記載の追跡番号を使用していつでもご確認いただけます。\n\n何卒ご理解とご協力を賜りますようお願い申し上げます。",
+    "vocab": [
+      "extend：延長する、伸ばす",
+      "expedited：迅速な、お急ぎの",
+      "time-sensitive：時間的制約のある、急を要する",
+      "timeframe：時間枠、期間"
+    ],
+    "questions": [
+      {
+        "id": "r013q1",
+        "questionJa": "なぜ配送時間が延長されているのですか。",
+        "choicesJa": [
+          "ドライバー不足のため",
+          "ホリデーシーズンの需要増加のため",
+          "倉庫閉鎖のため",
+          "天候不良のため"
+        ],
+        "explanationDetail": "第1段落に「ホリデーシーズン中の需要増加のため（due to increased demand during the holiday season）」と原因が明示されているため、選択肢Bが正解です。ドライバー不足や倉庫の閉鎖、悪天候などが理由として挙げられているわけではありません。"
+      },
+      {
+        "id": "r013q2",
+        "questionJa": "遅延の影響を受けない配送オプションはどれですか。",
+        "choicesJa": [
+          "標準配送",
+          "国際配送",
+          "お急ぎ便（速達配送）",
+          "送料無料配送"
+        ],
+        "explanationDetail": "第2段落冒頭で「お急ぎ便（Expedited shipping options）は影響を受けない（remain unaffected）」と述べられているため、選択肢Cが正解です。標準配送（選択肢A）は遅延の対象となっており、その他の配送手段には触れられていません。"
+      },
+      {
+        "id": "r013q3",
+        "questionJa": "お客様はどのようにして注文状況を確認できますか。",
+        "choicesJa": [
+          "カスタマーサービスに電話する",
+          "追跡番号を使用する",
+          "店舗を訪問する",
+          "メールに返信する"
+        ],
+        "explanationDetail": "第3段落後半に「確認メールに記載された追跡番号を使っていつでも確認できる（using the tracking number provided in your confirmation email）」とあるため、選択肢Bが正解です。電話での問い合わせや直接の来店、メールへの返信などは確認手順として挙げられていません。"
+      }
+    ]
+  },
+  {
+    "id": "r014",
+    "passageJa": "第15回 年次ビジネスリーダーシップ会議\n\n第15回年次ビジネスリーダーシップ会議が、9月10日から12日までメトロポリタン・コンベンションセンターにて開催されます。今年のテーマは「デジタル経済における変化への対応」です。\n\n本会議では、業界のリーダーによる基調講演、最新技術に関するパネルディスカッション、および連日実施される交流セッションが行われます。8月1日までの早期申し込みでは、通常参加費から25%の割引が適用されます。\n\n参加者は、リーダーシップ開発、デジタル変革、持続可能なビジネス手法などのトピックを扱う30以上の分科会セッションから選択できます。詳細なスケジュールは参加登録時にお渡しいたします。\n\n5名以上の従業員を一括登録する企業には団体割引が適用されます。詳細につきましては、弊社ウェブサイトをご覧いただくか、会議主催者に直接お問い合わせください。",
+    "vocab": [
+      "keynote speech：基調講演",
+      "breakout session：分科会、分科セッション",
+      "sustainable：持続可能な",
+      "organizer：主催者、幹事"
+    ],
+    "questions": [
+      {
+        "id": "r014q1",
+        "questionJa": "今年の会議のテーマは何ですか。",
+        "choicesJa": [
+          "リーダーシップ開発",
+          "デジタル経済における変化への対応",
+          "持続可能なビジネス手法",
+          "世界市場の動向"
+        ],
+        "explanationDetail": "第1段落に「今年のテーマは『デジタル経済における変化への対応（Navigating Change in a Digital Economy）』である」と明確に書かれているため、選択肢Bが正解です。リーダーシップ開発や持続可能なビジネス手法は個別セッションのテーマとして挙げられており、大会全体のメインテーマではありません。"
+      },
+      {
+        "id": "r014q2",
+        "questionJa": "早期割引の締め切りはいつですか。",
+        "choicesJa": [
+          "8月1日",
+          "9月1日",
+          "9月10日",
+          "9月12日"
+        ],
+        "explanationDetail": "第2段落に「8月1日まで利用可能な早期申込（Early bird registration, available until August 1st）」と規定されているため、8月1日（選択肢A）が正解です。9月10日〜12日は会議の開催期間であり、早期割引の期限ではありません。"
+      },
+      {
+        "id": "r014q3",
+        "questionJa": "団体割引を受けるには、企業は何名以上の従業員を登録する必要がありますか。",
+        "choicesJa": [
+          "2名以上",
+          "3名以上",
+          "5名以上",
+          "10名以上"
+        ],
+        "explanationDetail": "第4段落において「5名以上の従業員を登録する会社（registering five or more employees）に団体割引が適用される」と示されているため、5名以上（選択肢C）が正解です。2名、3名、10名といった数字は条件に当てはまりません。"
+      }
+    ]
+  },
+  {
+    "id": "r015",
+    "passageJa": "製品レビュー：UltraBook Pro 15\n\n3ヶ月前に仕事用と個人用の両方を兼ねてUltraBook Pro 15を購入しましたが、全体として非常に満足しています。バッテリー駆動時間が素晴らしく、途中で充電することなく仕事の1日を余裕で乗り切ることができます。\n\n画面のクオリティも魅力的で、屋外の明るい場所でも鮮やかな発色と良好な輝度を保っています。ただし、長時間使用しているとき、特に複数のアプリケーションを同時に実行していると、本体が熱を持ちやすい傾向にあることが気になりました。\n\nソフトウェアのインストールに関して質問があった際のカスタマーサポートの対応も親切で、数時間以内に返信メールが届きました。競合他社製品に比べて価格設定はやや高めですが、ビルドクオリティ（造りの良さ）とパフォーマンスを考慮すれば、信頼できるマシンを求めるプロフェッショナルにとって投資する価値のある一台だと確信しています。\n\n総合評価：星5つ中 4つ",
+    "vocab": [
+      "recharge：再充電する",
+      "simultaneously：同時に",
+      "worthwhile：価値がある、やる価値のある",
+      "investment：投資"
+    ],
+    "questions": [
+      {
+        "id": "r015q1",
+        "questionJa": "レビュアーはこのノートPCの何を称賛していますか。",
+        "choicesJa": [
+          "価格の安さ",
+          "バッテリーの持ち",
+          "軽量なデザイン",
+          "キーボードの打ちやすさ"
+        ],
+        "explanationDetail": "第1段落で「バッテリーの持ちが素晴らしく、充電なしで丸一日持つ（battery life is excellent, easily lasting a full workday）」と絶賛しているため、選択肢Bが正解です。価格については「やや高め（slightly higher）」と評されており、軽量さやキーボードへの評価は述べられていません。"
+      },
+      {
+        "id": "r015q2",
+        "questionJa": "レビュアーはどのような問題を挙げていますか。",
+        "choicesJa": [
+          "画面品質の悪さ",
+          "本体が熱を持つこと",
+          "カスタマーサポートの遅さ",
+          "保証期間の短さ"
+        ],
+        "explanationDetail": "第2段落で「長時間使用や複数アプリの同時起動時に、ノートPCが熱を持つ傾向がある（tends to run warm）」と指摘されているため、選択肢Bが正解です。画面品質は高評価であり、サポートの返信も数時間以内と迅速であったと述べられています。"
+      },
+      {
+        "id": "r015q3",
+        "questionJa": "レビュアーは価格についてどのように感じていますか。",
+        "choicesJa": [
+          "高すぎる",
+          "妥当な価格である",
+          "他より高いが、その価値はある",
+          "最も安い選択肢である"
+        ],
+        "explanationDetail": "第3段落で「競合他社より少し高いが、品質と性能を考えると投資価値のある製品である（slightly higher... but a worthwhile investment）」と述べているため、選択肢Cが正解です。単に高すぎる（選択肢A）と否定しているわけでも、最安（選択肢D）と言っているわけでもありません。"
+      }
+    ]
+  },
+  {
+    "id": "r016",
+    "passageJa": "福利厚生のお知らせ：ジム会員割引のご案内\n\nFitLife Gymとの新たな提携により、全従業員を対象に月額会員料金の30%割引を提供することとなりました。この特典は、従業員の健康増進（ウェルネス）に対する当社の取り組みの一環です。\n\n本特典をご利用いただくには、全国のFitLife Gym店舗にて従業員IDカードをご提示ください。割引は個人会員・ファミリー会員の双方に適用され、グループフィットネスクラスへの参加も含まれます。\n\n本提携は全国のすべてのFitLife店舗で有効であるため、出張の多い従業員や別のオフィスで勤務する従業員にとっても便利です。割引は来年末まで有効で、その時点で更新に向けた見直しが行われます。\n\n詳細は、社内イントラネットの人事福利厚生ページをご覧ください。",
+    "vocab": [
+      "partnership：提携、パートナーシップ",
+      "commitment：取り組み、コミットメント",
+      "wellness：健康増進、ウェルネス",
+      "valid：有効な",
+      "renewal：更新"
+    ],
+    "questions": [
+      {
+        "id": "r016q1",
+        "questionJa": "ジムの会員料金に対してどのくらいの割引が提供されていますか。",
+        "choicesJa": [
+          "10%",
+          "20%",
+          "30%",
+          "50%"
+        ],
+        "explanationDetail": "第1段落において「月額会員料金の30%割引を提供する（30% discount on monthly memberships）」と記載されているため、30%（選択肢C）が正解です。10%や20%、50%といった他の数値は誤りです。"
+      },
+      {
+        "id": "r016q2",
+        "questionJa": "割引を受けるために従業員は何を提示しなければなりませんか。",
+        "choicesJa": [
+          "割引コード",
+          "従業員IDカード（社員証）",
+          "入会申込書",
+          "給与明細"
+        ],
+        "explanationDetail": "第2段落冒頭に「店舗にて従業員IDカードを提示すること（present your employee ID card）」と条件が示されているため、選択肢Bが正解です。割引コードや入会書、給与明細の提示は求められていません。"
+      },
+      {
+        "id": "r016q3",
+        "questionJa": "この提携関係はいつまで保証されていますか。",
+        "choicesJa": [
+          "6ヶ月間",
+          "1年間",
+          "来年末まで",
+          "無期限に"
+        ],
+        "explanationDetail": "第3段落に「割引は来年末まで有効であり、その時点で更新の見直しが行われる（through the end of next year）」と書かれているため、選択肢Cが正解です。6ヶ月間や1年間、あるいは無期限といった期間指定ではありません。"
+      }
+    ]
+  }
+]
+
+# Verify JSON formatting and dump
+output_str = json.dumps(result_r009_to_r016, ensure_ascii=False, indent=2)
+print("Validation succeeded! Length:", len(output_str))
+
+
+```
+
+```text
+Validation succeeded! Length: 13711
+
+
+```
+
+[
+{
+"id": "r009",
+"passageJa": "カスタマーサービス担当者募集\n\nグリーンライン・ロジスティクス社では、拡大中のチームに加わっていただくフルタイムのカスタマーサービス担当者を募集しています。本職種では、電話や電子メールによるお客様からの問い合わせへの対応、荷物の追跡、および配送問題の解決を担当します。\n\n応募要件には、優れたコミュニケーション能力、基本的なコンピュータースキル、および1年以上のカスタマーサービス実務経験が含まれます。二言語話者（バイリンガル）の応募者は優遇されますが、必須ではありません。\n\n本職種の初任給は年収38,000ドルで、採用から90日経過後に健康保険および有給休暇の受給資格が得られます。勤務時間は月曜日から金曜日の午前9時から午後5時までです。\n\n応募希望者は、今月20日の応募締め切りまでに、弊社ウェブサイト（[greenlinelogistics.com/careers](https://www.google.com/search?q=https%3A%2F%2Fgreenlinelogistics.com%2Fcareers)）よりご応募ください。",
+"vocab": [
+"inquiry：問い合わせ",
+"proficiency：熟練度、能力",
+"eligible：資格がある",
+"paid time off：有給休暇",
+"applicant：応募者"
+],
+"questions": [
+{
+"id": "r009q1",
+"questionJa": "この職種の主な職務内容の一つは何ですか。",
+"choicesJa": [
+"倉庫の在庫管理",
+"荷物の追跡",
+"新しいスタッフの採用",
+"マーケティング資料のデザイン"
+],
+"explanationDetail": "第1段落で、具体的な業務として「荷物の追跡（tracking shipments）」が挙げられているため、選択肢Bが正解です。倉庫の在庫管理やスタッフ採用、マーケティング資料のデザインといった他の業務については本文中に記載がありません。"
+},
+{
+"id": "r009q2",
+"questionJa": "従業員はいつ有給休暇を取得する資格を得ますか。",
+"choicesJa": [
+"採用後すぐに",
+"30日後",
+"90日後",
+"1年後"
+],
+"explanationDetail": "第3段落に「採用から90日経過後に健康保険および有給休暇が提供される（paid time off after 90 days of employment）」と明記されているため、90日後（選択肢C）が正解です。即時支給や30日後、1年後とする他の選択肢は条件と一致しません。"
+},
+{
+"id": "r009q3",
+"questionJa": "応募者はこの職種にどのように応募すべきですか。",
+"choicesJa": [
+"オフィスに電話する",
+"履歴書を郵送する",
+"会社のウェブサイト経由で",
+"直接訪問する"
+],
+"explanationDetail": "第4段落において「会社のウェブサイト（[greenlinelogistics.com/careers](https://www.google.com/search?q=https%3A%2F%2Fgreenlinelogistics.com%2Fcareers)）を通じて応募すること（apply through our website）」と指示されているため、選択肢Cが正解です。電話対応や郵送、直接の来社による応募手順は案内されていません。"
+}
+]
+},
+{
+"id": "r010",
+"passageJa": "ご案内：年次優秀社員表彰式・ガラパーティー\n\nレイクサイド・ホテルのグランドボールルームにて6月14日（土）に開催される今年の年次表彰ガラパーティーで、優れた従業員の功績をともにお祝いしましょう。\n\n当夜はフォーマルディナー、授賞式、およびライブエンターテインメントが行われます。今年は、永年勤続の節目を迎えた従業員を表彰するとともに、各部門の優秀業績者を讃えます。\n\n開場は午後6時30分で、ディナーは午後7時より提供されます。服装はフォーマル着用をお願いいたします。座席数に限りがございますので、6月1日までに人事ポータルより出欠の回答（RSVP）をお願いします。ご同伴者の参加も歓迎いたします。回答の際に同伴者数をご明記ください。",
+"vocab": [
+"gala：特別催事、ガラパーティー",
+"milestone：節目、記念すべき出来事",
+"attire：服装、衣装",
+"RSVP：返信する、出欠を連絡する"
+],
+"questions": [
+{
+"id": "r010q1",
+"questionJa": "イベントはどこで開催されますか。",
+"choicesJa": [
+"本社ビル",
+"レイクサイド・ホテルのグランドボールルーム",
+"地元のレストラン",
+"メイン講堂"
+],
+"explanationDetail": "第1段落でイベントの開催場所が「レイクサイド・ホテルのグランドボールルーム（Grand Ballroom of the Lakeside Hotel）」と特定されているため、選択肢Bが正解です。本社ビルや地元のレストラン、講堂で開催されるわけではありません。"
+},
+{
+"id": "r010q2",
+"questionJa": "従業員はいつまでに出欠（RSVP）の連絡をしなければなりませんか。",
+"choicesJa": [
+"6月1日",
+"6月14日",
+"6月30日",
+"イベント当日"
+],
+"explanationDetail": "第3段落に「座席に限りがあるため、6月1日までに人事ポータル経由で回答すること（RSVP by June 1st）」と求められているため、6月1日（選択肢A）が正解です。6月14日はイベントの開催日であり、回答の締め切り日ではありません。"
+},
+{
+"id": "r010q3",
+"questionJa": "服装に関して何が求められていますか。",
+"choicesJa": [
+"カジュアルな服装",
+"オフィスカジュアル",
+"フォーマルな服装",
+"会社の制服"
+],
+"explanationDetail": "第3段落に「フォーマルな服装が求められる（Formal attire is requested）」と記載されているため、選択肢Cが正解です。カジュアルウェアやビジネスカジュアル、制服での参加は指定されていません。"
+}
+]
+},
+{
+"id": "r011",
+"passageJa": "件名：ご意見をお聞かせください！\n\nお客様へ\n\nこのたびはTechHub Electronicsにてご購入いただき、誠にありがとうございます。弊社の顧客満足度アンケートにご回答いただけますと幸いに存じます。皆様からのフィードバックは、製品やサービスの向上に役立てられます。\n\nアンケートは10個の短い質問で構成されており、回答にかかる時間は5分程度です。ご協力いただいたお礼として、回答完了時に次回のお買い物で使える10%オフのクーポンコードを進呈いたします。\n\n以下のリンクをクリックしてアンケートを開始してください。アンケートは今月末まで受付けておりますが、それ以降はクーポン特典が利用できなくなりますのでご注意ください。\n\n今後ともご愛顧のほどよろしくお願い申し上げます。",
+"vocab": [
+"appreciation：感謝、評価",
+"satisfaction：満足度",
+"consist of：〜で構成されている",
+"completion：完了、完成"
+],
+"questions": [
+{
+"id": "r011q1",
+"questionJa": "アンケートの回答にはどのくらいの時間がかかりますか。",
+"choicesJa": [
+"1分",
+"5分",
+"10分",
+"30分"
+],
+"explanationDetail": "第2段落において「回答にかかる時間は5分以内（take no more than five minutes）」と説明されているため、5分（選択肢B）が正解です。1分、10分、30分といったその他の所要時間は本文の記述と一致しません。"
+},
+{
+"id": "r011q2",
+"questionJa": "アンケート回答者には特典として何が提供されますか。",
+"choicesJa": [
+"無料の商品",
+"10%割引クーポン",
+"キャッシュバック",
+"ギフトカード"
+],
+"explanationDetail": "第2段落に「回答完了時に次回のお買い物で使える10%オフのクーポンコードを進呈する（coupon code for 10% off your next purchase）」と書かれているため、選択肢Bが正解です。無料製品やキャッシュバック、ギフトカードが贈られるわけではありません。"
+},
+{
+"id": "r011q3",
+"questionJa": "アンケート期間が終わるとどうなりますか。",
+"choicesJa": [
+"アンケートが自動的に延長される",
+"クーポン特典の有効期限が切れる",
+"顧客に返金が行われる",
+"新しい質問が追加される"
+],
+"explanationDetail": "第3段落で「アンケートは今月末まで公開され、その後はクーポン特典が利用不可になる（coupon offer will no longer be available）」と説明されているため、クーポン特典の失効を意味する選択肢Bが正解です。期間の自動延長や返金、質問の追加といった対応は行われません。"
+}
+]
+},
+{
+"id": "r012",
+"passageJa": "社内連絡：ITセキュリティポリシー改定のお知らせ\n\n全従業員へ\n\n昨今の業界全体におけるセキュリティ上の懸念を受け、IT部門では会社のデータセキュリティポリシーを改定いたしました。すべての従業員は、今週末までにネットワークパスワードを変更する必要があります。\n\n新しいパスワードは12文字以上で、大文字、小文字、数字、および特殊記号を組み合わせる必要があります。さらに、会社の電子メールや社内システムへ外部からリモートアクセスする際には、二要素認証が必須となります。\n\n金曜日までにこれらの更新を完了していない従業員は、変更が行われるまでアカウントが一時的にロックされます。問題が発生した場合は、内線350のITヘルプデスクまでご連絡ください。\n\nシステムのセキュリティ維持に対するご協力をお願い申し上げます。",
+"vocab": [
+"mandatory：義務的な、必須の",
+"remotely：遠隔で、外部から",
+"lock：ロックする、凍結する",
+"cooperation：協力"
+],
+"questions": [
+{
+"id": "r012q1",
+"questionJa": "すべての従業員は週末までに何をしなければなりませんか。",
+"choicesJa": [
+"新しいソフトウェアをインストールする",
+"パスワードを変更する",
+"研修会に参加する",
+"セキュリティレポートを提出する"
+],
+"explanationDetail": "第1段落末尾で「今週末までにネットワークパスワードを変更することが求められている（required to change their network passwords by the end of this week）」と指示されているため、パスワード変更（選択肢B）が正解です。ソフトウェアの導入や研修への参加などは指示されていません。"
+},
+{
+"id": "r012q2",
+"questionJa": "社内システムへのリモートアクセスにおいて、何が新たに必須となりましたか。",
+"choicesJa": [
+"VPN接続",
+"二要素認証",
+"署名済みの合意書",
+"上司の承認"
+],
+"explanationDetail": "第2段落に「リモートアクセス時に二要素認証が必須となる（two-factor authentication will now be mandatory）」と指定されているため、選択肢Bが正解です。VPN接続や上司の承認が必要であるとは述べられていません。"
+},
+{
+"id": "r012q3",
+"questionJa": "金曜日までに設定変更を完了しなかった場合、どうなりますか。",
+"choicesJa": [
+"警告メールが送信される",
+"アカウントがロックされる",
+"罰金が科される",
+"何も起きない"
+],
+"explanationDetail": "第3段落冒頭に「金曜日までに更新を行わなかった従業員は、変更が行われるまでアカウントが一時的にロックされる（accounts temporarily locked）」と記されているため、選択肢Bが正解です。警告メールの送信や罰金などのペナルティについての記載はありません。"
+}
+]
+},
+{
+"id": "r013",
+"passageJa": "FastTrack Delivery社からの重要なお知らせ\n\nお客様へ\n\nホリデーシーズン中の需要増加に伴い、本日より今月末までに受け付けたすべての標準配送のご注文につきまして、お届けに通常より2〜3営業日ほど追加でお時間をいただく可能性がございますのでお知らせいたします。\n\nお急ぎ便（速達配送）オプションは影響を受けず、当初提示いたしましたお届け日程の通りに到着いたします。この期間中に到着期日を指定されるご注文につきましては、お急ぎ便のご利用をお勧めいたします。\n\nご不便をおかけしますことをお詫び申し上げます。弊社チーム一同、一日も早くお届けできるよう迅速な出荷処理に努めております。なお、ご注文状況は確認メールに記載の追跡番号を使用していつでもご確認いただけます。\n\n何卒ご理解とご協力を賜りますようお願い申し上げます。",
+"vocab": [
+"extend：延長する、伸ばす",
+"expedited：迅速な、お急ぎの",
+"time-sensitive：時間的制約のある、急を要する",
+"timeframe：時間枠、期間"
+],
+"questions": [
+{
+"id": "r013q1",
+"questionJa": "なぜ配送時間が延長されているのですか。",
+"choicesJa": [
+"ドライバー不足のため",
+"ホリデーシーズンの需要増加のため",
+"倉庫閉鎖のため",
+"天候不良のため"
+],
+"explanationDetail": "第1段落に「ホリデーシーズン中の需要増加のため（due to increased demand during the holiday season）」と原因が明示されているため、選択肢Bが正解です。ドライバー不足や倉庫の閉鎖、悪天候などが理由として挙げられているわけではありません。"
+},
+{
+"id": "r013q2",
+"questionJa": "遅延の影響を受けない配送オプションはどれですか。",
+"choicesJa": [
+"標準配送",
+"国際配送",
+"お急ぎ便（速達配送）",
+"送料無料配送"
+],
+"explanationDetail": "第2段落冒頭で「お急ぎ便（Expedited shipping options）は影響を受けない（remain unaffected）」と述べられているため、選択肢Cが正解です。標準配送（選択肢A）は遅延の対象となっており、その他の配送手段には触れられていません。"
+},
+{
+"id": "r013q3",
+"questionJa": "お客様はどのようにして注文状況を確認できますか。",
+"choicesJa": [
+"カスタマーサービスに電話する",
+"追跡番号を使用する",
+"店舗を訪問する",
+"メールに返信する"
+],
+"explanationDetail": "第3段落後半に「確認メールに記載された追跡番号を使っていつでも確認できる（using the tracking number provided in your confirmation email）」とあるため、選択肢Bが正解です。電話での問い合わせや直接の来店、メールへの返信などは確認手順として挙げられていません。"
+}
+]
+},
+{
+"id": "r014",
+"passageJa": "第15回 年次ビジネスリーダーシップ会議\n\n第15回年次ビジネスリーダーシップ会議が、9月10日から12日までメトロポリタン・コンベンションセンターにて開催されます。今年のテーマは「デジタル経済における変化への対応」です。\n\n本会議では、業界のリーダーによる基調講演、最新技術に関するパネルディスカッション、および連日実施される交流セッションが行われます。8月1日までの早期申し込みでは、通常参加費から25%の割引が適用されます。\n\n参加者は、リーダーシップ開発、デジタル変革、持続可能なビジネス手法などのトピックを扱う30以上の分科会セッションから選択できます。詳細なスケジュールは参加登録時にお渡しいたします。\n\n5名以上の従業員を一括登録する企業には団体割引が適用されます。詳細につきましては、弊社ウェブサイトをご覧いただくか、会議主催者に直接お問い合わせください。",
+"vocab": [
+"keynote speech：基調講演",
+"breakout session：分科会、分科セッション",
+"sustainable：持続可能な",
+"organizer：主催者、幹事"
+],
+"questions": [
+{
+"id": "r014q1",
+"questionJa": "今年の会議のテーマは何ですか。",
+"choicesJa": [
+"リーダーシップ開発",
+"デジタル経済における変化への対応",
+"持続可能なビジネス手法",
+"世界市場の動向"
+],
+"explanationDetail": "第1段落に「今年のテーマは『デジタル経済における変化への対応（Navigating Change in a Digital Economy）』である」と明確に書かれているため、選択肢Bが正解です。リーダーシップ開発や持続可能なビジネス手法は個別セッションのテーマとして挙げられており、大会全体のメインテーマではありません。"
+},
+{
+"id": "r014q2",
+"questionJa": "早期割引の締め切りはいつですか。",
+"choicesJa": [
+"8月1日",
+"9月1日",
+"9月10日",
+"9月12日"
+],
+"explanationDetail": "第2段落に「8月1日まで利用可能な早期申込（Early bird registration, available until August 1st）」と規定されているため、8月1日（選択肢A）が正解です。9月10日〜12日は会議の開催期間であり、早期割引の期限ではありません。"
+},
+{
+"id": "r014q3",
+"questionJa": "団体割引を受けるには、企業は何名以上の従業員を登録する必要がありますか。",
+"choicesJa": [
+"2名以上",
+"3名以上",
+"5名以上",
+"10名以上"
+],
+"explanationDetail": "第4段落において「5名以上の従業員を登録する会社（registering five or more employees）に団体割引が適用される」と示されているため、5名以上（選択肢C）が正解です。2名、3名、10名といった数字は条件に当てはまりません。"
+}
+]
+},
+{
+"id": "r015",
+"passageJa": "製品レビュー：UltraBook Pro 15\n\n3ヶ月前に仕事用と個人用の両方を兼ねてUltraBook Pro 15を購入しましたが、全体として非常に満足しています。バッテリー駆動時間が素晴らしく、途中で充電することなく仕事の1日を余裕で乗り切ることができます。\n\n画面のクオリティも魅力的で、屋外の明るい場所でも鮮やかな発色と良好な輝度を保っています。ただし、長時間使用しているとき、特に複数のアプリケーションを同時に実行していると、本体が熱を持ちやすい傾向にあることが気になりました。\n\nソフトウェアのインストールに関して質問があった際のカスタマーサポートの対応も親切で、数時間以内に返信メールが届きました。競合他社製品に比べて価格設定はやや高めですが、ビルドクオリティ（造りの良さ）とパフォーマンスを考慮すれば、信頼できるマシンを求めるプロフェッショナルにとって投資する価値のある一台だと確信しています。\n\n総合評価：星5つ中 4つ",
+"vocab": [
+"recharge：再充電する",
+"simultaneously：同時に",
+"worthwhile：価値がある、やる価値のある",
+"investment：投資"
+],
+"questions": [
+{
+"id": "r015q1",
+"questionJa": "レビュアーはこのノートPCの何を称賛していますか。",
+"choicesJa": [
+"価格の安さ",
+"バッテリーの持ち",
+"軽量なデザイン",
+"キーボードの打ちやすさ"
+],
+"explanationDetail": "第1段落で「バッテリーの持ちが素晴らしく、充電なしで丸一日持つ（battery life is excellent, easily lasting a full workday）」と絶賛しているため、選択肢Bが正解です。価格については「やや高め（slightly higher）」と評されており、軽量さやキーボードへの評価は述べられていません。"
+},
+{
+"id": "r015q2",
+"questionJa": "レビュアーはどのような問題を挙げていますか。",
+"choicesJa": [
+"画面品質の悪さ",
+"本体が熱を持つこと",
+"カスタマーサポートの遅さ",
+"保証期間の短さ"
+],
+"explanationDetail": "第2段落で「長時間使用や複数アプリの同時起動時に、ノートPCが熱を持つ傾向がある（tends to run warm）」と指摘されているため、選択肢Bが正解です。画面品質は高評価であり、サポートの返信も数時間以内と迅速であったと述べられています。"
+},
+{
+"id": "r015q3",
+"questionJa": "レビュアーは価格についてどのように感じていますか。",
+"choicesJa": [
+"高すぎる",
+"妥当な価格である",
+"他より高いが、その価値はある",
+"最も安い選択肢である"
+],
+"explanationDetail": "第3段落で「競合他社より少し高いが、品質と性能を考えると投資価値のある製品である（slightly higher... but a worthwhile investment）」と述べているため、選択肢Cが正解です。単に高すぎる（選択肢A）と否定しているわけでも、最安（選択肢D）と言っているわけでもありません。"
+}
+]
+},
+{
+"id": "r016",
+"passageJa": "福利厚生のお知らせ：ジム会員割引のご案内\n\nFitLife Gymとの新たな提携により、全従業員を対象に月額会員料金の30%割引を提供することとなりました。この特典は、従業員の健康増進（ウェルネス）に対する当社の取り組みの一環です。\n\n本特典をご利用いただくには、全国のFitLife Gym店舗にて従業員IDカードをご提示ください。割引は個人会員・ファミリー会員の双方に適用され、グループフィットネスクラスへの参加も含まれます。\n\n本提携は全国のすべてのFitLife店舗で有効であるため、出張の多い従業員や別のオフィスで勤務する従業員にとっても便利です。割引は来年末まで有効で、その時点で更新に向けた見直しが行われます。\n\n詳細は、社内イントラネットの人事福利厚生ページをご覧ください。",
+"vocab": [
+"partnership：提携、パートナーシップ",
+"commitment：取り組み、コミットメント",
+"wellness：健康増進、ウェルネス",
+"valid：有効な",
+"renewal：更新"
+],
+"questions": [
+{
+"id": "r016q1",
+"questionJa": "ジムの会員料金に対してどのくらいの割引が提供されていますか。",
+"choicesJa": [
+"10%",
+"20%",
+"30%",
+"50%"
+],
+"explanationDetail": "第1段落において「月額会員料金の30%割引を提供する（30% discount on monthly memberships）」と記載されているため、30%（選択肢C）が正解です。10%や20%、50%といった他の数値は誤りです。"
+},
+{
+"id": "r016q2",
+"questionJa": "割引を受けるために従業員は何を提示しなければなりませんか。",
+"choicesJa": [
+"割引コード",
+"従業員IDカード（社員証）",
+"入会申込書",
+"給与明細"
+],
+"explanationDetail": "第2段落冒頭に「店舗にて従業員IDカードを提示すること（present your employee ID card）」と条件が示されているため、選択肢Bが正解です。割引コードや入会書、給与明細の提示は求められていません。"
+},
+{
+"id": "r016q3",
+"questionJa": "この提携関係はいつまで保証されていますか。",
+"choicesJa": [
+"6ヶ月間",
+"1年間",
+"来年末まで",
+"無期限に"
+],
+"explanationDetail": "第3段落に「割引は来年末まで有効であり、その時点で更新の見直しが行われる（through the end of next year）」と書かれているため、選択肢Cが正解です。6ヶ月間や1年間、あるいは無期限といった期間指定ではありません。"
+}
+]
+}
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "r193",
+  "passage": "Hi All,\n\nFor those who couldn't attend yesterday's product strategy meeting, I've uploaded the recording to our shared drive under \"Meeting Recordings > Q3 Strategy.\" The recording includes the full discussion as well as the slides presented.\n\nA few action items came out of the meeting, which I'll follow up on separately in a more detailed summary email later today. In the meantime, please watch the recording before our follow-up session next Tuesday.\n\nLet me know if you have trouble accessing the file.\n\nThanks,\nOmar",
+  "questions": [
+   {
+    "id": "r193q1",
+    "question": "Where was the meeting recording uploaded?",
+    "choices": [
+     "Email attachment",
+     "The shared drive",
+     "A printed handout",
+     "A company blog"
+    ]
+   },
+   {
+    "id": "r193q2",
+    "question": "What will Omar send later today?",
+    "choices": [
+     "A revised agenda",
+     "A more detailed summary email",
+     "A survey",
+     "A calendar invite"
+    ]
+   },
+   {
+    "id": "r193q3",
+    "question": "What are recipients asked to do before Tuesday?",
+    "choices": [
+     "Submit feedback",
+     "Watch the recording",
+     "Prepare a presentation",
+     "Reply to confirm attendance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r194",
+  "passage": "To reduce energy consumption, all office lighting will be upgraded to motion-sensor fixtures over the coming weeks. Lights will automatically turn on when someone enters a room and switch off after 15 minutes of no detected movement.\n\nEmployees working quietly at their desks, such as reading printed materials, may occasionally need to wave a hand to reactivate the lights if they turn off unexpectedly. We apologize in advance for any inconvenience during the adjustment period.\n\nThis upgrade is expected to reduce the building's overall energy usage by approximately 15 percent.",
+  "questions": [
+   {
+    "id": "r194q1",
+    "question": "What change is being made to the lighting?",
+    "choices": [
+     "Brighter bulbs are being installed",
+     "Lights are being upgraded to motion sensors",
+     "Lighting is being removed from some rooms",
+     "Colored lighting is being added"
+    ]
+   },
+   {
+    "id": "r194q2",
+    "question": "After how long of no movement will lights turn off?",
+    "choices": [
+     "5 minutes",
+     "10 minutes",
+     "15 minutes",
+     "30 minutes"
+    ]
+   },
+   {
+    "id": "r194q3",
+    "question": "What is the expected result of the upgrade?",
+    "choices": [
+     "Increased energy usage",
+     "A 15 percent reduction in energy usage",
+     "No change in energy usage",
+     "A 50 percent reduction in energy usage"
+    ]
+   }
+  ]
+ }
+]

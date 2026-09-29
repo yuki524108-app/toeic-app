@@ -1,0 +1,378 @@
+[
+ {
+  "id": "l34-c79z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you get a chance to review the new benefits package HR sent out?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I did. The updated dental coverage looks great, but I'm not sure about the change to the retirement plan."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I felt the same way. There's an information session tomorrow if you want more details."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds helpful. I'll try to attend during my lunch break."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c79z-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A new benefits package",
+     "A performance review",
+     "An office relocation",
+     "A vacation policy"
+    ]
+   },
+   {
+    "id": "l34-c79z-q2",
+    "question": "What is the man unsure about?",
+    "choices": [
+     "The dental coverage",
+     "The change to the retirement plan",
+     "The vacation days",
+     "The salary increase"
+    ]
+   },
+   {
+    "id": "l34-c79z-q3",
+    "question": "What will the man probably do?",
+    "choices": [
+     "Ignore the changes",
+     "Attend an information session",
+     "Ask for a raise",
+     "Resign from the company"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c80z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The booth materials for the trade show just arrived, but the banner looks smaller than what we ordered."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's odd. Let's measure it and compare it to the order confirmation."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good idea. If it's wrong, we might need a rush order to get a replacement before Friday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll call the vendor right now just in case."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c80z-q1",
+    "question": "What problem does the man notice?",
+    "choices": [
+     "The booth is missing",
+     "The banner looks smaller than ordered",
+     "The materials are damaged",
+     "The wrong colors were used"
+    ]
+   },
+   {
+    "id": "l34-c80z-q2",
+    "question": "What does the woman suggest doing first?",
+    "choices": [
+     "Canceling the order",
+     "Measuring it and comparing to the confirmation",
+     "Returning all materials",
+     "Ignoring the issue"
+    ]
+   },
+   {
+    "id": "l34-c80z-q3",
+    "question": "What will the woman do next?",
+    "choices": [
+     "Redesign the banner",
+     "Call the vendor",
+     "Cancel the trade show",
+     "Order new booth furniture"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c81z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "How did the first day of new employee training go?"
+   },
+   {
+    "speaker": "Man",
+    "line": "It went well overall, but a few new hires said the software demo moved too quickly."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll ask the trainer to slow down for tomorrow's session and add a short practice exercise."
+   },
+   {
+    "speaker": "Man",
+    "line": "That should help. I'll let the new hires know about the change."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c81z-q1",
+    "question": "What feedback did new hires give?",
+    "choices": [
+     "The training room was too small",
+     "The software demo moved too quickly",
+     "The trainer was unprepared",
+     "The schedule was too long"
+    ]
+   },
+   {
+    "id": "l34-c81z-q2",
+    "question": "What will the woman do?",
+    "choices": [
+     "Cancel tomorrow's session",
+     "Ask the trainer to slow down and add practice",
+     "Replace the trainer",
+     "Extend the training by a week"
+    ]
+   },
+   {
+    "id": "l34-c81z-q3",
+    "question": "What will the man do?",
+    "choices": [
+     "Attend the session himself",
+     "Let the new hires know about the change",
+     "Write a formal complaint",
+     "Interview the trainer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c82z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "I still need to schedule my annual check-up, but the clinic's phone line has been busy all morning."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Have you tried booking online? Our insurance provider has a portal for that now."
+   },
+   {
+    "speaker": "Man",
+    "line": "I didn't know that. I'll give it a try during my break."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me know if you need the link. I just used it last week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c82z-q1",
+    "question": "What problem does the man have?",
+    "choices": [
+     "He missed his appointment",
+     "The clinic's phone line has been busy",
+     "He lost his insurance card",
+     "The clinic is closed"
+    ]
+   },
+   {
+    "id": "l34-c82z-q2",
+    "question": "What does the woman suggest?",
+    "choices": [
+     "Visiting the clinic in person",
+     "Booking online through the insurance portal",
+     "Rescheduling for next month",
+     "Calling a different clinic"
+    ]
+   },
+   {
+    "id": "l34-c82z-q3",
+    "question": "What does the woman offer to do?",
+    "choices": [
+     "Book the appointment for him",
+     "Share the link if needed",
+     "Cancel her own appointment",
+     "Drive him to the clinic"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t40z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention shoppers, for the next hour only, all winter clothing items in aisle 5 are marked down an additional 20 percent. This is in addition to our already discounted clearance prices. Be sure to check out our new spring arrivals near the front entrance as well. Thank you for shopping with us today, and enjoy your visit."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t40z-q1",
+    "question": "What is on sale?",
+    "choices": [
+     "Spring clothing",
+     "Winter clothing in aisle 5",
+     "Electronics",
+     "Home goods"
+    ]
+   },
+   {
+    "id": "l34-t40z-q2",
+    "question": "How long will the sale last?",
+    "choices": [
+     "All day",
+     "For the next hour only",
+     "Until closing",
+     "One week"
+    ]
+   },
+   {
+    "id": "l34-t40z-q3",
+    "question": "Where can shoppers find new arrivals?",
+    "choices": [
+     "Near the front entrance",
+     "In aisle 5",
+     "In the basement",
+     "Online only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t41z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Thank you all for joining today's information session. Our company has grown by over 40 percent in the past two years, and we're now looking to expand our engineering team. We offer competitive salaries, flexible working arrangements, and a strong focus on professional development. After this presentation, we'll open the floor for questions, and representatives will be available at tables near the exit to discuss specific roles."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t41z-q1",
+    "question": "What department is the company looking to expand?",
+    "choices": [
+     "Marketing",
+     "Engineering",
+     "Sales",
+     "Human Resources"
+    ]
+   },
+   {
+    "id": "l34-t41z-q2",
+    "question": "How much has the company grown?",
+    "choices": [
+     "Over 10 percent",
+     "Over 25 percent",
+     "Over 40 percent",
+     "Over 60 percent"
+    ]
+   },
+   {
+    "id": "l34-t41z-q3",
+    "question": "What will happen after the presentation?",
+    "choices": [
+     "A tour of the office",
+     "A question and answer session",
+     "A group interview",
+     "A catered lunch"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t42z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Hello, this message is for Ms. Delgado. This is Ray calling from Fastline Delivery regarding your package. We attempted delivery this morning, but no one was available to sign for it. We will try again tomorrow between 9 AM and noon. If this time doesn't work, please call us to arrange a different delivery window or pickup location."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t42z-q1",
+    "question": "Why is Ray calling?",
+    "choices": [
+     "To confirm an order",
+     "To explain a failed delivery attempt",
+     "To offer a discount",
+     "To apologize for a damaged item"
+    ]
+   },
+   {
+    "id": "l34-t42z-q2",
+    "question": "When will delivery be attempted again?",
+    "choices": [
+     "Later today",
+     "Tomorrow between 9 AM and noon",
+     "Next week",
+     "This evening"
+    ]
+   },
+   {
+    "id": "l34-t42z-q3",
+    "question": "What should Ms. Delgado do if the new time doesn't work?",
+    "choices": [
+     "Ignore the message",
+     "Call to arrange a different time or location",
+     "Go to the post office",
+     "Wait for another message"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t43z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "A quick reminder to all employees regarding conference room usage. Rooms must be booked in advance through the online calendar system, and meetings should not exceed their scheduled time. If you finish early, please cancel any remaining reservation so others can use the space. Also, please remember to erase whiteboards and clear the table before leaving."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t43z-q1",
+    "question": "How should rooms be booked?",
+    "choices": [
+     "By calling the front desk",
+     "Through the online calendar system",
+     "By emailing facilities",
+     "On a first-come, first-served basis"
+    ]
+   },
+   {
+    "id": "l34-t43z-q2",
+    "question": "What should employees do if a meeting ends early?",
+    "choices": [
+     "Leave the reservation as is",
+     "Cancel the remaining reservation",
+     "Extend the meeting",
+     "Notify security"
+    ]
+   },
+   {
+    "id": "l34-t43z-q3",
+    "question": "What are employees asked to do before leaving?",
+    "choices": [
+     "Turn off the lights",
+     "Erase whiteboards and clear the table",
+     "Lock the door",
+     "Submit a room usage report"
+    ]
+   }
+  ]
+ }
+]

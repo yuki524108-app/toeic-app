@@ -1,0 +1,43 @@
+[
+ {
+  "id": "l34-t57z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Hello, this message is for Ms. Whitmore. This is Carlos from Bella Vista Restaurant. Unfortunately, we need to cancel your reservation for eight people this Saturday due to a kitchen equipment issue. We sincerely apologize for the short notice and would like to offer you a complimentary dinner for four at a later date. Please call us back to reschedule."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t57z-q1",
+    "question": "Why is the reservation being canceled?",
+    "choices": [
+     "Overbooking",
+     "A kitchen equipment issue",
+     "Bad weather",
+     "Staff shortage"
+    ]
+   },
+   {
+    "id": "l34-t57z-q2",
+    "question": "How many people was the reservation for?",
+    "choices": [
+     "4",
+     "6",
+     "8",
+     "10"
+    ]
+   },
+   {
+    "id": "l34-t57z-q3",
+    "question": "What is offered as compensation?",
+    "choices": [
+     "A full refund",
+     "A complimentary dinner for four",
+     "A discount coupon",
+     "Free delivery"
+    ]
+   }
+  ]
+ }
+]

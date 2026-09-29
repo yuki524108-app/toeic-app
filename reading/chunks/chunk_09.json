@@ -1,0 +1,332 @@
+[
+ {
+  "id": "r065",
+  "passage": "Extend Your Warranty – Special Offer for VistaHome Appliance Owners\n\nCongratulations on your recent purchase of a VistaHome appliance! We want to make sure your investment is protected for years to come.\n\nFor a limited time, you can extend your standard one-year warranty to a full three years for just $49.99. This extended warranty covers parts and labor for any manufacturing defects, as well as one free maintenance check per year.\n\nTo take advantage of this offer, register your appliance online within 30 days of purchase and select the extended warranty option at checkout. This offer is not available for appliances purchased through third-party resellers.\n\nIf you have questions about your warranty coverage, please contact our customer care team at 1-800-555-0199.",
+  "questions": [
+   {
+    "id": "r065q1",
+    "question": "How long is the extended warranty?",
+    "choices": [
+     "One year",
+     "Two years",
+     "Three years",
+     "Five years"
+    ]
+   },
+   {
+    "id": "r065q2",
+    "question": "What is included in the extended warranty?",
+    "choices": [
+     "A replacement appliance",
+     "Parts, labor, and one free maintenance check per year",
+     "Free shipping on future purchases",
+     "A cash refund"
+    ]
+   },
+   {
+    "id": "r065q3",
+    "question": "What is required to take advantage of this offer?",
+    "choices": [
+     "Purchasing from a third-party reseller",
+     "Registering the appliance within 30 days of purchase",
+     "Calling customer care immediately",
+     "Owning more than one VistaHome appliance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r066",
+  "passage": "To: All Staff\nFrom: Employee Engagement Committee\nSubject: Annual Company Picnic – Save the Date!\n\nMark your calendars! Our annual company picnic will be held on Saturday, June 14th, from 11:00 AM to 4:00 PM at Cedar Grove Park.\n\nThis year's picnic will feature a barbecue lunch, lawn games, a photo booth, and activities for children. Employees are welcome to bring family members. Please RSVP by June 1st so we can plan for enough food and activities.\n\nIf you have any dietary restrictions, please note them on the RSVP form so our catering team can accommodate your needs. Vegetarian and gluten-free options will be available.\n\nParking is limited at Cedar Grove Park, so carpooling is encouraged. A shuttle will also run from the office parking lot every 30 minutes starting at 10:30 AM.\n\nWe look forward to a fun day together!",
+  "questions": [
+   {
+    "id": "r066q1",
+    "question": "Who is invited to the picnic?",
+    "choices": [
+     "Employees only",
+     "Employees and their family members",
+     "Managers only",
+     "New employees only"
+    ]
+   },
+   {
+    "id": "r066q2",
+    "question": "Why should employees note dietary restrictions on the RSVP form?",
+    "choices": [
+     "To receive a discount",
+     "So the catering team can accommodate their needs",
+     "To reserve a parking spot",
+     "To enter a prize drawing"
+    ]
+   },
+   {
+    "id": "r066q3",
+    "question": "How can employees get to the park if parking is limited?",
+    "choices": [
+     "Walk from the office",
+     "Take a shuttle from the office parking lot",
+     "Rent a car",
+     "Take a taxi at their own expense"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r067",
+  "passage": "To: All Employees\nFrom: IT Department\nSubject: Scheduled System Maintenance This Weekend\n\nThis is a reminder that our internal network and email system will undergo scheduled maintenance this Saturday, from 10:00 PM to 2:00 AM. During this time, employees will not be able to access company email, shared drives, or internal applications.\n\nWe recommend saving any work and logging out of company systems before 9:45 PM on Saturday to avoid losing unsaved data. This maintenance is necessary to improve system security and performance.\n\nIf the maintenance is completed ahead of schedule, systems will be restored as soon as possible. However, please plan for the full window of downtime described above.\n\nIf you experience any issues accessing systems after 2:00 AM on Sunday, please submit a ticket through the IT help desk portal.\n\nThank you for your understanding.",
+  "questions": [
+   {
+    "id": "r067q1",
+    "question": "What is the purpose of the maintenance?",
+    "choices": [
+     "To install new office furniture",
+     "To improve system security and performance",
+     "To move to a new office building",
+     "To train new IT staff"
+    ]
+   },
+   {
+    "id": "r067q2",
+    "question": "What are employees advised to do before 9:45 PM on Saturday?",
+    "choices": [
+     "Submit a help desk ticket",
+     "Save their work and log out",
+     "Turn off their computers completely",
+     "Contact their managers"
+    ]
+   },
+   {
+    "id": "r067q3",
+    "question": "What should employees do if they have trouble accessing systems after 2:00 AM Sunday?",
+    "choices": [
+     "Wait until Monday",
+     "Submit a ticket through the IT help desk portal",
+     "Call the CEO's office",
+     "Restart their computer three times"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r068",
+  "passage": "Dear Mr. Takahashi,\n\nThis letter serves as formal notice that Bramwell & Co. will not be renewing our supply contract with Northgate Packaging, effective at the end of the current contract term on December 31st.\n\nThis decision follows a review of our supplier partnerships and is not a reflection of the quality of service Northgate Packaging has provided over the past three years. We have decided to consolidate our packaging suppliers as part of a broader cost-reduction strategy.\n\nWe kindly ask that all remaining orders under the current contract be fulfilled as scheduled. Any outstanding invoices should be submitted no later than January 15th for final processing.\n\nWe appreciate the partnership we have shared and wish Northgate Packaging continued success in the future.\n\nSincerely,\nProcurement Department, Bramwell & Co.",
+  "questions": [
+   {
+    "id": "r068q1",
+    "question": "What is the purpose of the letter?",
+    "choices": [
+     "To request a price increase",
+     "To notify Northgate Packaging that the contract will not be renewed",
+     "To place a new order",
+     "To apologize for a late payment"
+    ]
+   },
+   {
+    "id": "r068q2",
+    "question": "Why is Bramwell & Co. ending the contract?",
+    "choices": [
+     "Poor service quality",
+     "A cost-reduction strategy involving supplier consolidation",
+     "A legal dispute",
+     "Northgate Packaging requested it"
+    ]
+   },
+   {
+    "id": "r068q3",
+    "question": "By when should outstanding invoices be submitted?",
+    "choices": [
+     "December 31st",
+     "January 15th",
+     "The end of the year",
+     "Within 30 days of the letter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r069",
+  "passage": "Join the Fairview Library Book Club!\n\nLooking for a way to connect with fellow readers in your community? The Fairview Library Book Club meets on the first Thursday of every month at 6:30 PM in the Community Room.\n\nThis month, we will be discussing \"The Silent Orchard\" by Maria Lindqvist. Copies of the book are available for checkout at the front desk, with a limit of two weeks per loan. E-book and audiobook versions are also available through our library app.\n\nNew members are always welcome, and there is no need to sign up in advance. Light refreshments will be provided. Each session includes a guided discussion led by one of our librarians, followed by suggestions for next month's book.\n\nFor questions, please contact the library front desk or visit our website for the full reading schedule.",
+  "questions": [
+   {
+    "id": "r069q1",
+    "question": "When does the book club meet?",
+    "choices": [
+     "Every Thursday",
+     "The first Thursday of every month",
+     "The last Friday of every month",
+     "Twice a month"
+    ]
+   },
+   {
+    "id": "r069q2",
+    "question": "How can members access the book?",
+    "choices": [
+     "Only in physical copy from the front desk",
+     "Physical copy, e-book, or audiobook",
+     "By purchasing it online",
+     "It is not available through the library"
+    ]
+   },
+   {
+    "id": "r069q3",
+    "question": "What is true about joining the book club?",
+    "choices": [
+     "Advance sign-up is required",
+     "New members must bring their own book",
+     "No advance sign-up is needed",
+     "Only library card holders may join"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r070",
+  "passage": "To: Department Heads\nFrom: Office Administration\nSubject: Quarterly Office Supply Orders\n\nAs we approach the end of the quarter, please submit your department's office supply requests by October 5th. Requests received after this date will be included in the following quarter's order unless the item is urgently needed.\n\nPlease use the standard supply request form, available on the shared drive, and specify quantities clearly. Common items such as paper, pens, and folders do not require manager approval. However, requests for equipment such as printers or monitors must be approved by your department manager before submission.\n\nOnce approved, orders typically arrive within 10 business days. If you need an item sooner due to an urgent situation, please mark the request as \"urgent\" and contact the office administration team directly.\n\nThank you for your cooperation in keeping our ordering process efficient.",
+  "questions": [
+   {
+    "id": "r070q1",
+    "question": "What is the deadline for submitting supply requests?",
+    "choices": [
+     "September 5th",
+     "October 5th",
+     "The end of the year",
+     "The first day of the quarter"
+    ]
+   },
+   {
+    "id": "r070q2",
+    "question": "What requires manager approval?",
+    "choices": [
+     "Paper and pens",
+     "Folders",
+     "Equipment such as printers or monitors",
+     "All office supplies"
+    ]
+   },
+   {
+    "id": "r070q3",
+    "question": "What should someone do if they need an item urgently?",
+    "choices": [
+     "Wait for the next quarter",
+     "Mark the request as urgent and contact office administration",
+     "Purchase the item themselves",
+     "Ask a coworker to share their supplies"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r071",
+  "passage": "Job Opening: Web Developer\nCompany: Pinehill Digital Solutions\n\nPinehill Digital Solutions is looking for a Web Developer to join our growing team. Responsibilities include building and maintaining client websites, collaborating with the design team, and testing new features before launch.\n\nRequirements:\n- At least two years of experience with HTML, CSS, and JavaScript\n- Familiarity with React is a strong plus\n- Ability to work both independently and as part of a team\n\nThis is a full-time, on-site position located in our downtown office. Salary range is $55,000-$70,000, depending on experience, plus benefits.\n\nInterested candidates should send a resume and a link to a portfolio or GitHub profile to jobs@pinehilldigital.com by October 20th. Please include \"Web Developer Application\" in the subject line.",
+  "passage2": "To: jobs@pinehilldigital.com\nFrom: rtanaka92@mailbox.com\nSubject: Web Developer Application\n\nDear Hiring Manager,\n\nI am writing to apply for the Web Developer position posted on your careers page. I have three years of experience building websites using HTML, CSS, JavaScript, and React, and I am confident my skills align well with your requirements.\n\nIn my current role at Solstice Media, I have developed and maintained over a dozen client websites and worked closely with our design team to implement responsive layouts. I am comfortable working both independently and collaboratively.\n\nI have attached my resume and a link to my portfolio, which includes several React-based projects. I would welcome the opportunity to discuss how I can contribute to Pinehill Digital Solutions.\n\nThank you for your consideration. I look forward to hearing from you.\n\nBest regards,\nRen Tanaka",
+  "questions": [
+   {
+    "id": "r071q1",
+    "question": "What is a requirement for the Web Developer position?",
+    "choices": [
+     "A degree in graphic design",
+     "At least two years of experience with HTML, CSS, and JavaScript",
+     "Fluency in a second language",
+     "Five years of management experience"
+    ]
+   },
+   {
+    "id": "r071q2",
+    "question": "What is true about the position's work location?",
+    "choices": [
+     "It is fully remote",
+     "It is on-site in a downtown office",
+     "It requires frequent travel",
+     "It is based overseas"
+    ]
+   },
+   {
+    "id": "r071q3",
+    "question": "What does Mr. Tanaka mention about his current job?",
+    "choices": [
+     "He manages a design team",
+     "He has developed and maintained over a dozen client websites",
+     "He is looking to change careers",
+     "He works part-time"
+    ]
+   },
+   {
+    "id": "r071q4",
+    "question": "What experience does Mr. Tanaka have that matches the job posting?",
+    "choices": [
+     "One year less than required",
+     "Exactly the minimum required",
+     "One more year than the minimum required",
+     "No relevant experience"
+    ]
+   },
+   {
+    "id": "r071q5",
+    "question": "What did Mr. Tanaka include with his email?",
+    "choices": [
+     "A list of references",
+     "A resume and a portfolio link",
+     "A cover letter only",
+     "A salary requirement"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r072",
+  "passage": "From: orders@brightdesk-supplies.com\nTo: p.morgan@northfieldco.com\nSubject: Order Confirmation #48213\n\nDear Ms. Morgan,\n\nThank you for your order. Below is a summary of your purchase:\n\n- 5 x Adjustable Standing Desk – $220 each\n- 10 x Ergonomic Office Chair – $95 each\n- 3 x Desk Lamp (LED) – $28 each\n\nSubtotal: $2,134\nShipping: $75\nTotal: $2,209\n\nYour order is expected to arrive within 7-10 business days. You will receive a separate email with tracking information once your order has shipped. If you need to make any changes, please contact us within 24 hours of this confirmation.\n\nThank you for choosing Brightdesk Supplies.",
+  "passage2": "From: p.morgan@northfieldco.com\nTo: orders@brightdesk-supplies.com\nSubject: RE: Order Confirmation #48213\n\nHello,\n\nThank you for the confirmation. I noticed that the order includes 10 ergonomic office chairs, but our team actually needs 15, since we are furnishing a larger office than originally planned.\n\nCould you please update the order to include the additional 5 chairs? I understand this may affect the total cost and delivery timeline, and I would appreciate an updated confirmation once the change has been made.\n\nPlease let me know if this can still be processed, since I understand there is a 24-hour window for changes.\n\nThank you for your help.\n\nBest regards,\nPatricia Morgan\nNorthfield Co.",
+  "questions": [
+   {
+    "id": "r072q1",
+    "question": "What was the total cost of the original order?",
+    "choices": [
+     "$2,134",
+     "$2,209",
+     "$75",
+     "$220"
+    ]
+   },
+   {
+    "id": "r072q2",
+    "question": "How will Ms. Morgan be notified once the order ships?",
+    "choices": [
+     "By phone call",
+     "By a separate email with tracking information",
+     "By text message",
+     "She will not be notified"
+    ]
+   },
+   {
+    "id": "r072q3",
+    "question": "Why does Ms. Morgan want to change the order?",
+    "choices": [
+     "The chairs are the wrong color",
+     "Her office is larger than originally planned",
+     "The price is too high",
+     "The chairs arrived damaged"
+    ]
+   },
+   {
+    "id": "r072q4",
+    "question": "How many additional chairs does Ms. Morgan request?",
+    "choices": [
+     "3",
+     "5",
+     "10",
+     "15"
+    ]
+   },
+   {
+    "id": "r072q5",
+    "question": "What is Ms. Morgan aware of regarding her request?",
+    "choices": [
+     "That changes cannot be made after shipping",
+     "That there is a 24-hour window for changes",
+     "That the price will not change",
+     "That the order has already shipped"
+    ]
+   }
+  ]
+ }
+]

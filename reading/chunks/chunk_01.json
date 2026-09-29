@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r001",
+  "passage": "To: All Staff\nFrom: Facilities Management\nSubject: Office Relocation Notice\n\nWe are pleased to announce that our company will be relocating to a new office building at 450 Market Street, effective March 1st. The new office offers significantly more space, a modern conference center, and is conveniently located near public transportation.\n\nEmployees are asked to pack their personal belongings by February 25th. Moving boxes will be distributed to each department by February 15th. IT equipment, including computers and monitors, will be handled separately by the IT department and should not be packed by individual employees.\n\nParking permits for the new location will be issued during the first week of March. Employees who currently have a parking permit do not need to reapply; permits will be automatically transferred.\n\nIf you have any questions about the move, please contact the Facilities Management office at extension 204.",
+  "questions": [
+   {
+    "id": "r001q1",
+    "question": "When will the company move to the new office?",
+    "choices": [
+     "February 15th",
+     "February 25th",
+     "March 1st",
+     "The first week of March"
+    ]
+   },
+   {
+    "id": "r001q2",
+    "question": "What should employees NOT do with their IT equipment?",
+    "choices": [
+     "Contact IT department",
+     "Pack it themselves",
+     "Use it until the move",
+     "Label it clearly"
+    ]
+   },
+   {
+    "id": "r001q3",
+    "question": "What do employees with existing parking permits need to do?",
+    "choices": [
+     "Reapply immediately",
+     "Contact extension 204",
+     "Nothing; permits transfer automatically",
+     "Wait until February 25th"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r002",
+  "passage": "Marketing Manager Position Available\n\nBrightWave Media is seeking an experienced Marketing Manager to lead our digital marketing team. The ideal candidate will have at least five years of experience in digital marketing, strong analytical skills, and a proven track record of managing successful campaigns.\n\nResponsibilities include developing marketing strategies, managing a team of four specialists, analyzing campaign performance data, and presenting quarterly reports to senior management. The position offers a competitive salary, comprehensive health benefits, and opportunities for professional development.\n\nCandidates should submit a resume and cover letter to careers@brightwavemedia.com by the end of this month. Only shortlisted candidates will be contacted for an interview. No phone calls, please.",
+  "questions": [
+   {
+    "id": "r002q1",
+    "question": "How many years of experience does the position require?",
+    "choices": [
+     "Two years",
+     "Three years",
+     "Four years",
+     "Five years"
+    ]
+   },
+   {
+    "id": "r002q2",
+    "question": "How many specialists will the new manager supervise?",
+    "choices": [
+     "Two",
+     "Three",
+     "Four",
+     "Five"
+    ]
+   },
+   {
+    "id": "r002q3",
+    "question": "How should interested candidates apply?",
+    "choices": [
+     "By calling the office",
+     "By visiting in person",
+     "By sending an email",
+     "By mailing a letter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r003",
+  "passage": "Dear Valued Customer,\n\nThank you for your recent order (Order #48291). We regret to inform you that due to an unexpected delay at our supplier's warehouse, your shipment will be delayed by approximately five business days.\n\nWe understand this may cause inconvenience, and we sincerely apologize. As a gesture of goodwill, we would like to offer you a 15% discount on your next purchase. A discount code will be sent to your registered email address within 24 hours.\n\nYour order is expected to ship by the end of this week and should arrive within 3-5 business days after shipping. You will receive a tracking number via email once the order has shipped.\n\nIf you would prefer to cancel your order instead, please contact our customer service team at support@retailco.com, and we will process a full refund within 3 business days.",
+  "questions": [
+   {
+    "id": "r003q1",
+    "question": "Why was the shipment delayed?",
+    "choices": [
+     "A shipping error",
+     "A supplier warehouse delay",
+     "A payment issue",
+     "A weather problem"
+    ]
+   },
+   {
+    "id": "r003q2",
+    "question": "What is being offered to the customer as compensation?",
+    "choices": [
+     "A full refund",
+     "A 15% discount on the next purchase",
+     "Free shipping",
+     "A replacement product"
+    ]
+   },
+   {
+    "id": "r003q3",
+    "question": "What should the customer do to cancel the order?",
+    "choices": [
+     "Reply to this email",
+     "Call customer service",
+     "Contact support@retailco.com",
+     "Visit the store"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r004",
+  "passage": "New Conference Room Booking System\n\nStarting next Monday, all conference room reservations must be made through our new online booking system, RoomFlow. This system replaces the previous paper-based sign-up sheets that were used in each department.\n\nTo book a room, log in to RoomFlow using your company email address and select an available time slot. Rooms can be booked up to 30 days in advance, but no more than 4 hours per booking. If you need a room for a longer period, please contact the office administrator directly.\n\nCancellations must be made at least 2 hours before the scheduled time. Failure to cancel or show up for three consecutive bookings may result in temporary suspension of booking privileges.\n\nTraining sessions on how to use RoomFlow will be held on Tuesday and Wednesday at 10 AM in the main conference room. Attendance is optional but recommended for all employees.",
+  "questions": [
+   {
+    "id": "r004q1",
+    "question": "What is being replaced by the new system?",
+    "choices": [
+     "Email requests",
+     "Paper-based sign-up sheets",
+     "Phone reservations",
+     "A different app"
+    ]
+   },
+   {
+    "id": "r004q2",
+    "question": "What is the maximum length of a single booking?",
+    "choices": [
+     "2 hours",
+     "4 hours",
+     "6 hours",
+     "30 days"
+    ]
+   },
+   {
+    "id": "r004q3",
+    "question": "What could happen after missing three consecutive bookings?",
+    "choices": [
+     "A warning email",
+     "A mandatory training session",
+     "Suspension of booking privileges",
+     "A fine"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r005",
+  "passage": "Restaurant Review: Riverside Bistro\n\nRiverside Bistro, located along the waterfront downtown, has quickly become one of the city's most popular dining destinations since opening six months ago. The restaurant specializes in modern European cuisine with a focus on locally sourced ingredients.\n\nThe menu changes seasonally, offering dishes that highlight fresh, regional produce. Standout dishes include the grilled salmon with herb butter and the roasted vegetable risotto. Portion sizes are generous, and prices are reasonable for the quality offered.\n\nThe atmosphere is elegant yet relaxed, making it suitable for both business lunches and casual dinners with friends. However, the restaurant does not accept reservations for parties of fewer than four, which can result in long wait times during peak hours, especially on weekends.\n\nOverall, Riverside Bistro earns high marks for food quality and ambiance, though the lack of reservations for small groups is a notable drawback.",
+  "questions": [
+   {
+    "id": "r005q1",
+    "question": "How long has Riverside Bistro been open?",
+    "choices": [
+     "Three months",
+     "Six months",
+     "One year",
+     "Two years"
+    ]
+   },
+   {
+    "id": "r005q2",
+    "question": "What type of cuisine does the restaurant specialize in?",
+    "choices": [
+     "Asian fusion",
+     "Modern European",
+     "Traditional American",
+     "Mediterranean"
+    ]
+   },
+   {
+    "id": "r005q3",
+    "question": "What is mentioned as a drawback of the restaurant?",
+    "choices": [
+     "High prices",
+     "Small portions",
+     "No reservations for small groups",
+     "Limited menu options"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r006",
+  "passage": "Notice: Changes to Employee Health Insurance Plan\n\nEffective January 1st of next year, our company will be switching health insurance providers from MediCare Plus to WellPath Health. This change comes after a thorough review process aimed at providing better coverage options and reducing costs for employees.\n\nKey changes include a lower monthly premium for individual coverage, expanded dental and vision benefits, and a broader network of participating doctors and hospitals in the area. However, employees currently seeing specialists outside the new network may need to switch providers or pay out-of-network rates.\n\nOpen enrollment will run from November 1st to November 30th. During this period, employees can review plan details and select their preferred coverage options through the HR portal. Employees who do not take action during open enrollment will be automatically enrolled in the plan most similar to their current coverage.\n\nInformational sessions will be held in the main auditorium on November 5th and November 12th at noon. HR representatives will be available to answer questions.",
+  "questions": [
+   {
+    "id": "r006q1",
+    "question": "When does the new health insurance plan take effect?",
+    "choices": [
+     "November 1st",
+     "November 30th",
+     "December 1st",
+     "January 1st"
+    ]
+   },
+   {
+    "id": "r006q2",
+    "question": "What happens to employees who do not act during open enrollment?",
+    "choices": [
+     "They lose coverage",
+     "They are automatically enrolled in a similar plan",
+     "They must pay a penalty",
+     "They keep the old provider"
+    ]
+   },
+   {
+    "id": "r006q3",
+    "question": "What might happen to employees seeing specialists outside the new network?",
+    "choices": [
+     "They will be reimbursed fully",
+     "They may need to pay out-of-network rates",
+     "Their coverage will be canceled",
+     "They will receive a discount"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r007",
+  "passage": "NOTICE: Parking Lot Maintenance\n\nThe main employee parking lot will undergo resurfacing work from Monday through Wednesday next week. During this time, the lot will be closed, and employees are asked to use the overflow lot located on Elm Street, about a five-minute walk from the building.\n\nA shuttle service will run every 15 minutes between the overflow lot and the main entrance from 7:30 AM to 9:30 AM and 4:30 PM to 6:30 PM. Employees with mobility concerns should contact Facilities at extension 112 to arrange alternative transportation.\n\nWe apologize for any inconvenience and appreciate your patience during this improvement project.",
+  "questions": [
+   {
+    "id": "r007q1",
+    "question": "How long will the parking lot be closed?",
+    "choices": [
+     "One day",
+     "Two days",
+     "Three days",
+     "One week"
+    ]
+   },
+   {
+    "id": "r007q2",
+    "question": "Where should employees park during the closure?",
+    "choices": [
+     "A nearby garage",
+     "The overflow lot on Elm Street",
+     "The visitor parking area",
+     "Street parking downtown"
+    ]
+   },
+   {
+    "id": "r007q3",
+    "question": "Who should employees with mobility concerns contact?",
+    "choices": [
+     "Human Resources",
+     "IT Department",
+     "Facilities",
+     "Security"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r008",
+  "passage": "Introducing the ErgoPlus Office Chair\n\nDesigned for all-day comfort, the ErgoPlus Office Chair features adjustable lumbar support, breathable mesh fabric, and a fully customizable armrest system. Whether you're working from home or in a busy office, this chair adapts to your body for maximum productivity.\n\nFor a limited time, customers who purchase two or more chairs will receive a 20% discount on their entire order. Free shipping is included on all orders over $150.\n\nThe ErgoPlus comes with a 5-year warranty covering manufacturing defects. Visit our showroom or order online at www.ergoplusfurniture.com. Orders placed before 2 PM ship the same business day.",
+  "questions": [
+   {
+    "id": "r008q1",
+    "question": "What discount is offered for purchasing multiple chairs?",
+    "choices": [
+     "10%",
+     "15%",
+     "20%",
+     "25%"
+    ]
+   },
+   {
+    "id": "r008q2",
+    "question": "What is required for free shipping?",
+    "choices": [
+     "Purchasing two chairs",
+     "Ordering before 2 PM",
+     "Spending over $150",
+     "Visiting the showroom"
+    ]
+   },
+   {
+    "id": "r008q3",
+    "question": "How long is the product warranty?",
+    "choices": [
+     "1 year",
+     "2 years",
+     "3 years",
+     "5 years"
+    ]
+   }
+  ]
+ }
+]

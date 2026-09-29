@@ -1,0 +1,462 @@
+[
+ {
+  "id": "r161",
+  "passage": "MEMO\nTo: All Staff\nFrom: Facilities Management\nRe: New Conference Room Booking Policy\n\nEffective next Monday, all conference room reservations must be made at least 24 hours in advance through the online booking system. Same-day bookings will only be accepted if a room remains available after the 24-hour cutoff.\n\nAdditionally, meetings longer than two hours will require approval from a department manager. This policy is intended to reduce scheduling conflicts and ensure fair access to our limited meeting spaces.\n\nQuestions about the new policy should be directed to facilities@company.com.",
+  "passage2": "To: facilities@company.com\nFrom: dpatel@company.com\nSubject: Question about the new booking policy\n\nHello,\n\nI read the memo about the new conference room booking policy and had a quick question. I have a recurring weekly meeting that runs two and a half hours. Does this mean I now need manager approval every single week, or can I get approval once for the whole series?\n\nAlso, is there any flexibility for urgent same-day meetings with clients?\n\nThank you for clarifying.\n\nBest,\nDeepa Patel",
+  "questions": [
+   {
+    "id": "r161q1",
+    "question": "What is the main purpose of the memo?",
+    "choices": [
+     "To announce a new office location",
+     "To explain a new conference room booking policy",
+     "To introduce new facilities staff",
+     "To cancel all meetings"
+    ]
+   },
+   {
+    "id": "r161q2",
+    "question": "How far in advance must rooms normally be booked?",
+    "choices": [
+     "1 hour",
+     "12 hours",
+     "24 hours",
+     "48 hours"
+    ]
+   },
+   {
+    "id": "r161q3",
+    "question": "What requires manager approval under the new policy?",
+    "choices": [
+     "All bookings",
+     "Meetings longer than two hours",
+     "Same-day bookings only",
+     "Bookings made online"
+    ]
+   },
+   {
+    "id": "r161q4",
+    "question": "Why is Deepa Patel writing the email?",
+    "choices": [
+     "To complain about the policy",
+     "To ask about approval for a recurring meeting",
+     "To request a new conference room",
+     "To report a broken projector"
+    ]
+   },
+   {
+    "id": "r161q5",
+    "question": "What additional question does Deepa ask?",
+    "choices": [
+     "About parking availability",
+     "About flexibility for urgent same-day client meetings",
+     "About the cost of booking a room",
+     "About who manages the booking system"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r162",
+  "passage": "WorkSpace Furniture — End of Season Sale\n\nUpgrade your office with savings of up to 35% on ergonomic chairs, standing desks, and storage solutions. Sale runs from October 1 through October 15 at all locations and online.\n\nBusiness customers who spend over $2,000 qualify for free delivery and installation within a 50-mile radius. All furniture comes with a two-year warranty covering manufacturing defects.\n\nVisit worksapcefurniture.com or call 555-0192 to place an order or schedule a showroom visit.",
+  "passage2": "To: orders@worksapcefurniture.com\nFrom: t.reyes@brightpath.com\nSubject: Order Confirmation Request - Order #48213\n\nHello,\n\nI recently placed an order for 12 ergonomic chairs and 4 standing desks, totaling $3,450, which I believe qualifies for the free delivery and installation offer mentioned in your sale advertisement.\n\nCould you please confirm that installation is included, and let me know the estimated delivery date? Our office is located about 30 miles from your downtown warehouse.\n\nThank you,\nTomas Reyes\nBright Path Consulting",
+  "questions": [
+   {
+    "id": "r162q1",
+    "question": "What is on sale at WorkSpace Furniture?",
+    "choices": [
+     "Kitchen appliances",
+     "Office furniture",
+     "Computer equipment",
+     "Vehicles"
+    ]
+   },
+   {
+    "id": "r162q2",
+    "question": "How long does the sale last?",
+    "choices": [
+     "One week",
+     "Two weeks",
+     "One month",
+     "Three months"
+    ]
+   },
+   {
+    "id": "r162q3",
+    "question": "What is required to qualify for free delivery?",
+    "choices": [
+     "Spending over $2,000",
+     "Being a first-time customer",
+     "Ordering online only",
+     "Living within 10 miles"
+    ]
+   },
+   {
+    "id": "r162q4",
+    "question": "How much did Tomas Reyes spend?",
+    "choices": [
+     "$2,000",
+     "$2,450",
+     "$3,450",
+     "$4,000"
+    ]
+   },
+   {
+    "id": "r162q5",
+    "question": "What does Tomas want to confirm?",
+    "choices": [
+     "The chair color",
+     "Whether installation is included and the delivery date",
+     "The warranty period",
+     "The showroom hours"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r163",
+  "passage": "Innovation Challenge 2026 — Call for Submissions\n\nWe're excited to launch this year's Innovation Challenge, inviting employees from all departments to submit ideas that could improve our products, processes, or workplace culture. Submissions can be made individually or as a team of up to four people.\n\nFinalists will present their ideas to a panel of senior leaders in December, and the winning team will receive a $5,000 budget to develop a prototype, along with company-wide recognition.\n\nSubmission forms are available on the intranet and must be completed by November 15. Each submission should include a one-page summary and, if applicable, any supporting materials such as sketches or mockups.",
+  "passage2": "To: innovation@company.com\nFrom: k.oyelaran@company.com\nSubject: Team submission question\n\nHi,\n\nMy colleague and I would like to submit an idea together for the Innovation Challenge, but we're not sure if we both need to fill out separate forms or if one submission per team is sufficient.\n\nAlso, if we're selected as finalists, will both of us present, or just one representative? We want to make sure we understand the process correctly before the November 15 deadline.\n\nThanks for your help,\nKemi Oyelaran",
+  "questions": [
+   {
+    "id": "r163q1",
+    "question": "What is the purpose of the Innovation Challenge?",
+    "choices": [
+     "To hire new employees",
+     "To gather ideas for improvement",
+     "To celebrate a company anniversary",
+     "To reduce company expenses"
+    ]
+   },
+   {
+    "id": "r163q2",
+    "question": "What will the winning team receive?",
+    "choices": [
+     "A paid vacation",
+     "A $5,000 budget for a prototype",
+     "A promotion",
+     "Extra vacation days"
+    ]
+   },
+   {
+    "id": "r163q3",
+    "question": "When is the submission deadline?",
+    "choices": [
+     "October 15",
+     "November 15",
+     "December 1",
+     "December 15"
+    ]
+   },
+   {
+    "id": "r163q4",
+    "question": "Why is Kemi Oyelaran writing the email?",
+    "choices": [
+     "To withdraw a submission",
+     "To ask about the team submission process",
+     "To request an extension",
+     "To report a technical issue"
+    ]
+   },
+   {
+    "id": "r163q5",
+    "question": "What specific question does Kemi ask about finalists?",
+    "choices": [
+     "Whether they get paid",
+     "Whether both team members present if selected",
+     "Whether they can change their idea later",
+     "Whether the presentation is recorded"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r164",
+  "passage": "Bilingual Customer Support Representative\nGlobeLink Communications\n\nWe are seeking a Bilingual Customer Support Representative (English/Spanish) to assist our growing customer base. Responsibilities include responding to customer inquiries via phone, email, and live chat, and escalating complex issues to the appropriate department.\n\nRequirements:\n- Fluency in both English and Spanish, written and spoken\n- At least one year of customer service experience\n- Strong problem-solving skills and patience under pressure\n\nThis is a full-time, hybrid position, with three days in the office and two days remote after the first 60 days. Interested applicants should send a resume to careers@globelink.com by August 20.",
+  "passage2": "To: careers@globelink.com\nFrom: m.alvarez@quickmail.com\nSubject: Question about the Bilingual Customer Support role\n\nDear Hiring Team,\n\nI'm very interested in applying for the Bilingual Customer Support Representative position. I am fluent in both English and Spanish and have two years of call center experience.\n\nBefore I submit my resume, I wanted to confirm whether the hybrid schedule begins immediately or only after the 60-day period mentioned in the posting. I currently live about an hour from the office, so this would affect my planning.\n\nThank you for your time, and I look forward to your response.\n\nBest regards,\nMaria Alvarez",
+  "questions": [
+   {
+    "id": "r164q1",
+    "question": "What languages are required for the position?",
+    "choices": [
+     "English and French",
+     "English and Spanish",
+     "Spanish and Portuguese",
+     "English and Mandarin"
+    ]
+   },
+   {
+    "id": "r164q2",
+    "question": "How much experience is required?",
+    "choices": [
+     "No experience needed",
+     "At least one year",
+     "At least three years",
+     "At least five years"
+    ]
+   },
+   {
+    "id": "r164q3",
+    "question": "When does the hybrid schedule begin according to the job posting?",
+    "choices": [
+     "Immediately",
+     "After the first 60 days",
+     "After one year",
+     "It is never hybrid"
+    ]
+   },
+   {
+    "id": "r164q4",
+    "question": "How much experience does Maria Alvarez have?",
+    "choices": [
+     "One year",
+     "Two years",
+     "Three years",
+     "No experience"
+    ]
+   },
+   {
+    "id": "r164q5",
+    "question": "Why does Maria ask about the hybrid schedule timing?",
+    "choices": [
+     "She wants to work fully remote",
+     "It would affect her commute planning",
+     "She dislikes working in an office",
+     "She wants extra pay"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r165",
+  "passage": "Notice: New Wellness Program Launching Next Month\n\nWe're pleased to announce the launch of WellLife, a new employee wellness program offering fitness classes, nutrition workshops, and mental health resources at no cost to staff.\n\nClasses will be held three times a week in the fourth-floor activity room, and virtual sessions will also be available for remote employees. To participate, employees must register through the wellness portal, as space in each session is limited to 20 participants.\n\nA full class schedule will be published on the intranet by the end of this week.",
+  "passage2": "To: wellness@company.com\nFrom: h.kimura@company.com\nSubject: Registration question\n\nHello,\n\nI'm excited about the new WellLife program and would like to register for the yoga class, but the wellness portal isn't showing a schedule yet. Could you let me know when registration will open?\n\nAlso, since I work remotely most days, I wanted to confirm that the virtual sessions will be live rather than pre-recorded, as I'd like to ask questions during the class.\n\nThank you,\nHana Kimura",
+  "passage3": "To: h.kimura@company.com\nFrom: wellness@company.com\nSubject: RE: Registration question\n\nHi Hana,\n\nThank you for your patience! The full schedule, including the yoga class times, will be posted on the intranet this Friday, and registration will open that same day at 9 AM.\n\nTo answer your question, yes, all virtual sessions will be held live via video conference so participants can ask questions in real time. A recording will also be available afterward for anyone who misses a session.\n\nWe hope to see you in class soon!\n\nBest,\nThe Wellness Team",
+  "questions": [
+   {
+    "id": "r165q1",
+    "question": "What is WellLife?",
+    "choices": [
+     "A new health insurance plan",
+     "A new employee wellness program",
+     "A new gym membership discount",
+     "A new cafeteria menu"
+    ]
+   },
+   {
+    "id": "r165q2",
+    "question": "How many participants can join each session?",
+    "choices": [
+     "10",
+     "15",
+     "20",
+     "30"
+    ]
+   },
+   {
+    "id": "r165q3",
+    "question": "Why is Hana Kimura writing her first email?",
+    "choices": [
+     "To cancel her registration",
+     "To ask when registration opens and about virtual sessions",
+     "To complain about the schedule",
+     "To request a refund"
+    ]
+   },
+   {
+    "id": "r165q4",
+    "question": "When will registration open?",
+    "choices": [
+     "Immediately",
+     "This Friday at 9 AM",
+     "Next Monday",
+     "At the end of the month"
+    ]
+   },
+   {
+    "id": "r165q5",
+    "question": "What happens if someone misses a virtual session?",
+    "choices": [
+     "They cannot make it up",
+     "A recording will be available afterward",
+     "They must pay a fee",
+     "They are removed from the program"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r166",
+  "passage": "Marketing Internship — Summer Program\nBrightWave Media\n\nBrightWave Media is seeking a Marketing Intern for our 10-week summer program, running from June through August. Interns will assist with social media content creation, campaign analytics, and market research under the guidance of our senior marketing team.\n\nThis is a paid internship at $18 per hour, requiring availability of at least 20 hours per week. Preference will be given to students currently pursuing a degree in marketing, communications, or a related field.\n\nInterested applicants should submit a resume and a brief writing sample to internships@brightwave.com by April 30.",
+  "passage2": "To: internships@brightwave.com\nFrom: c.delacruz@university.edu\nSubject: Marketing Internship Application - Carlos De La Cruz\n\nDear Hiring Team,\n\nI am writing to apply for the Marketing Internship posted on your website. I am currently a junior majoring in Communications at Westfield University, with previous experience managing social media accounts for my school's student organization.\n\nAttached please find my resume and a writing sample from a recent class project analyzing a regional ad campaign. I am available to work 25 hours per week throughout the summer.\n\nThank you for considering my application. I look forward to hearing from you.\n\nBest regards,\nCarlos De La Cruz",
+  "passage3": "To: c.delacruz@university.edu\nFrom: internships@brightwave.com\nSubject: RE: Marketing Internship Application - Interview Invitation\n\nDear Carlos,\n\nThank you for your application. Your writing sample stood out to our team, and we would like to invite you for a virtual interview next Tuesday at 2 PM.\n\nThe interview will last approximately 30 minutes and will be conducted by our Marketing Director. Please be prepared to discuss your experience with social media management and any questions you have about the internship.\n\nWe will send a video call link 24 hours before the scheduled interview. Please confirm your availability by replying to this email.\n\nBest regards,\nBrightWave Media Internship Team",
+  "questions": [
+   {
+    "id": "r166q1",
+    "question": "How long does the internship program run?",
+    "choices": [
+     "4 weeks",
+     "10 weeks",
+     "6 months",
+     "1 year"
+    ]
+   },
+   {
+    "id": "r166q2",
+    "question": "What is the hourly pay for the internship?",
+    "choices": [
+     "$15",
+     "$18",
+     "$20",
+     "$25"
+    ]
+   },
+   {
+    "id": "r166q3",
+    "question": "What is Carlos De La Cruz's major?",
+    "choices": [
+     "Marketing",
+     "Communications",
+     "Business Administration",
+     "Journalism"
+    ]
+   },
+   {
+    "id": "r166q4",
+    "question": "How many hours per week is Carlos available to work?",
+    "choices": [
+     "15 hours",
+     "20 hours",
+     "25 hours",
+     "30 hours"
+    ]
+   },
+   {
+    "id": "r166q5",
+    "question": "When will Carlos receive the video call link for his interview?",
+    "choices": [
+     "Immediately",
+     "24 hours before the interview",
+     "One week before",
+     "On the day after the interview"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r167",
+  "passage": "Notice: Office Relocation Information Session\n\nAs previously announced, our company will be relocating to a new office building at 450 Harbor Street starting next quarter. To help everyone prepare, we will be holding an information session next Wednesday at 3 PM in the main conference room.\n\nTopics will include the moving timeline, new desk assignments, parking arrangements, and how to pack and label personal items for the move. Employees who cannot attend in person may join via video call.\n\nPlease submit any questions in advance through the relocation portal so we can address them during the session.",
+  "passage2": "To: relocation@company.com\nFrom: s.novak@company.com\nSubject: Question for the info session\n\nHello,\n\nI won't be able to attend the information session in person, but I plan to join via video call. My question is about parking: will the new building have its own parking garage, or will employees need to use a nearby public lot?\n\nAlso, is there a specific date by which we need to have our desks packed and ready to move?\n\nThanks,\nSofia Novak",
+  "passage3": "To: s.novak@company.com\nFrom: relocation@company.com\nSubject: RE: Question for the info session\n\nHi Sofia,\n\nGreat questions! The new building has its own underground parking garage, and all employees will receive a parking pass during the move. There is no additional cost for parking at the new location.\n\nRegarding packing, all desks should be cleared and boxed by the Friday before the move, which is three weeks from today. Moving boxes and labels will be distributed to everyone next week.\n\nWe'll cover both of these topics in more detail during Wednesday's session as well.\n\nBest,\nThe Relocation Team",
+  "questions": [
+   {
+    "id": "r167q1",
+    "question": "Where is the company relocating to?",
+    "choices": [
+     "A different city",
+     "450 Harbor Street",
+     "A smaller office",
+     "A home-based model"
+    ]
+   },
+   {
+    "id": "r167q2",
+    "question": "What will NOT be covered in the information session?",
+    "choices": [
+     "The moving timeline",
+     "New desk assignments",
+     "Employee salaries",
+     "Parking arrangements"
+    ]
+   },
+   {
+    "id": "r167q3",
+    "question": "Why is Sofia Novak writing the email?",
+    "choices": [
+     "To request a day off",
+     "To ask about parking and packing deadlines",
+     "To decline the relocation",
+     "To report a broken desk"
+    ]
+   },
+   {
+    "id": "r167q4",
+    "question": "What will employees receive for parking at the new building?",
+    "choices": [
+     "A discount coupon",
+     "A parking pass at no additional cost",
+     "A reserved spot only for managers",
+     "Nothing, parking is not provided"
+    ]
+   },
+   {
+    "id": "r167q5",
+    "question": "By when should desks be packed?",
+    "choices": [
+     "Today",
+     "The Friday before the move, three weeks away",
+     "The day of the move",
+     "One week after the info session"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r168",
+  "passage": "PeakForm Fitness Club — New Member Special\n\nJoin PeakForm this month and get your first three months at half price! Membership includes unlimited access to group classes, our state-of-the-art weight room, and two indoor pools.\n\nAll new members receive a free consultation with a certified trainer to help set personalized fitness goals. Family plans are also available, offering discounted rates for spouses and children under 18.\n\nVisit any of our five locations or sign up online at peakformfitness.com to take advantage of this limited-time offer, valid through the end of the month.",
+  "passage2": "To: membership@peakformfitness.com\nFrom: j.oconnell@mailbox.com\nSubject: Family plan question\n\nHello,\n\nI'm interested in signing up for the family plan special before it ends. I have two children, ages 10 and 15. Does the family plan cover both children, and is there an age limit for using the weight room?\n\nAlso, can we choose different home locations for different family members, since my spouse works closer to your downtown branch?\n\nThank you,\nJenna O'Connell",
+  "passage3": "To: j.oconnell@mailbox.com\nFrom: membership@peakformfitness.com\nSubject: RE: Family plan question\n\nDear Jenna,\n\nThank you for reaching out! Yes, the family plan covers both of your children at the discounted rate. However, please note that members must be at least 14 years old to use the weight room, so your 10-year-old would only have access to the pools and family-friendly classes.\n\nRegarding locations, family members are welcome to use any of our five locations regardless of which one is listed as their \"home\" branch, so your spouse is welcome to primarily use the downtown location.\n\nWe'd be happy to help you complete your sign-up whenever you're ready.\n\nBest,\nPeakForm Membership Team",
+  "questions": [
+   {
+    "id": "r168q1",
+    "question": "What is the new member special?",
+    "choices": [
+     "A free first month",
+     "Half price for the first three months",
+     "A free gym bag",
+     "Unlimited guest passes"
+    ]
+   },
+   {
+    "id": "r168q2",
+    "question": "What do new members receive for free?",
+    "choices": [
+     "A free t-shirt",
+     "A consultation with a certified trainer",
+     "A free towel",
+     "A protein shake"
+    ]
+   },
+   {
+    "id": "r168q3",
+    "question": "Why is Jenna O'Connell writing the email?",
+    "choices": [
+     "To cancel her membership",
+     "To ask about the family plan for her children",
+     "To complain about a class",
+     "To request a refund"
+    ]
+   },
+   {
+    "id": "r168q4",
+    "question": "What is the minimum age to use the weight room?",
+    "choices": [
+     "10",
+     "12",
+     "14",
+     "18"
+    ]
+   },
+   {
+    "id": "r168q5",
+    "question": "Can family members use different locations?",
+    "choices": [
+     "No, only their home branch",
+     "Yes, any of the five locations",
+     "Only on weekends",
+     "Only with a manager's approval"
+    ]
+   }
+  ]
+ }
+]

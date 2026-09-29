@@ -1,0 +1,430 @@
+[
+ {
+  "id": "l34-c47m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hello, I booked a taxi online for six a.m. tomorrow to the airport, but I haven't received a confirmation yet."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let me check our system... I'm sorry, it looks like there was an error and your reservation wasn't saved."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Oh no, I really need a ride at that time. My flight leaves at eight."
+   },
+   {
+    "speaker": "Man",
+    "line": "I can book a new reservation for you right now over the phone. Could you confirm your pickup address?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, it's 42 Baker Street. Please make sure the driver arrives a few minutes early."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c47m-q1",
+    "question": "What is the woman's problem?",
+    "choices": [
+     "Her flight was canceled",
+     "Her taxi reservation was not saved",
+     "Her payment was declined",
+     "Her luggage was lost"
+    ]
+   },
+   {
+    "id": "l34-c47m-q2",
+    "question": "Why does the woman need the taxi urgently?",
+    "choices": [
+     "She has a meeting",
+     "Her flight leaves at eight",
+     "She is late for work",
+     "She has a doctor's appointment"
+    ]
+   },
+   {
+    "id": "l34-c47m-q3",
+    "question": "What does the man ask the woman to do?",
+    "choices": [
+     "Cancel her flight",
+     "Confirm her pickup address",
+     "Pay in advance",
+     "Come to the office"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t27m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention passengers, please have your boarding pass and photo identification ready as you approach the security checkpoint."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All laptops and tablets must be removed from your bags and placed in a separate bin for screening."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Liquids and gels are limited to containers of one hundred milliliters or less, and must fit inside a single clear plastic bag."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you are traveling with any of these items and have questions, please speak to one of our staff members before entering the line."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t27m-q1",
+    "question": "What should passengers have ready?",
+    "choices": [
+     "A boarding pass and ID",
+     "A printed receipt",
+     "A hotel confirmation",
+     "A visa application"
+    ]
+   },
+   {
+    "id": "l34-t27m-q2",
+    "question": "What must be placed in a separate bin?",
+    "choices": [
+     "Shoes",
+     "Laptops and tablets",
+     "Food items",
+     "Umbrellas"
+    ]
+   },
+   {
+    "id": "l34-t27m-q3",
+    "question": "What should passengers do if they have questions about liquids?",
+    "choices": [
+     "Throw the items away",
+     "Speak to staff before the line",
+     "Call the airline",
+     "Check the website"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t28m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good afternoon, everyone. Today I'm excited to introduce our spring catalog, which features over fifty new items across three product lines."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The most notable addition is our new eco-friendly packaging, which reduces plastic use by nearly forty percent compared to last year."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We've also expanded our outdoor furniture collection based on customer feedback from last summer's survey."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Printed copies of the catalog will be available at the front desk, and the digital version will go live on our website next Monday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t28m-q1",
+    "question": "What is the main topic of the talk?",
+    "choices": [
+     "A staff meeting",
+     "A new product catalog",
+     "A company merger",
+     "A safety inspection"
+    ]
+   },
+   {
+    "id": "l34-t28m-q2",
+    "question": "What is notable about the new packaging?",
+    "choices": [
+     "It is more colorful",
+     "It uses less plastic",
+     "It is heavier",
+     "It is more expensive"
+    ]
+   },
+   {
+    "id": "l34-t28m-q3",
+    "question": "When will the digital catalog be available?",
+    "choices": [
+     "Immediately",
+     "Next Monday",
+     "In two months",
+     "Next year"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t29m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Before we close tonight's dinner, I'd like to take a moment to recognize an outstanding member of our team."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "This year's Employee of the Year award goes to someone in the customer service department who consistently receives the highest satisfaction ratings from clients."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "She has also mentored three new employees this year, helping them adjust quickly to their roles."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please join me in congratulating Maria Gonzalez, and let's give her a round of applause as she comes up to accept this award."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t29m-q1",
+    "question": "What event is taking place?",
+    "choices": [
+     "A product launch",
+     "An award ceremony",
+     "A safety training",
+     "A budget meeting"
+    ]
+   },
+   {
+    "id": "l34-t29m-q2",
+    "question": "What department does the award winner work in?",
+    "choices": [
+     "Marketing",
+     "Customer service",
+     "Accounting",
+     "Human resources"
+    ]
+   },
+   {
+    "id": "l34-t29m-q3",
+    "question": "What else has the award winner done this year?",
+    "choices": [
+     "Led a sales campaign",
+     "Mentored new employees",
+     "Opened a new branch",
+     "Written a training manual"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t30m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for calling Orion Retail's automated order tracking line."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have your order number, please enter it now using your telephone keypad."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Based on the information provided, your package left our warehouse yesterday and is expected to arrive within two to three business days."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you would like to speak with a representative for further assistance, please stay on the line and someone will be with you shortly."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t30m-q1",
+    "question": "What kind of service is this?",
+    "choices": [
+     "A live customer service call",
+     "An automated order tracking line",
+     "A radio advertisement",
+     "A store announcement"
+    ]
+   },
+   {
+    "id": "l34-t30m-q2",
+    "question": "What does the caller need to enter?",
+    "choices": [
+     "A credit card number",
+     "An order number",
+     "A zip code",
+     "A phone number"
+    ]
+   },
+   {
+    "id": "l34-t30m-q3",
+    "question": "When is the package expected to arrive?",
+    "choices": [
+     "The same day",
+     "Within two to three business days",
+     "In one week",
+     "In one month"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t31m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to Bridgeway Manufacturing. My name is Tom, and I'll be guiding your tour of our facility today."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll begin in the design department, where our engineers develop new product prototypes, and then move on to the main production floor."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please remember to wear the safety glasses and vests provided, as some areas involve heavy machinery."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The tour will last about forty-five minutes, and we'll finish with a short question-and-answer session in the lobby."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t31m-q1",
+    "question": "Where does the tour begin?",
+    "choices": [
+     "The lobby",
+     "The design department",
+     "The parking lot",
+     "The cafeteria"
+    ]
+   },
+   {
+    "id": "l34-t31m-q2",
+    "question": "What are visitors asked to wear?",
+    "choices": [
+     "Formal suits",
+     "Safety glasses and vests",
+     "Company uniforms",
+     "Name tags only"
+    ]
+   },
+   {
+    "id": "l34-t31m-q3",
+    "question": "What will happen at the end of the tour?",
+    "choices": [
+     "A meal will be served",
+     "A question-and-answer session",
+     "A safety inspection",
+     "A product sale"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t32m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "May I have your attention please. The National Weather Service has issued a severe thunderstorm warning for this area until six o'clock this evening."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "As a precaution, we recommend that all outdoor activities scheduled on the rooftop terrace be moved indoors."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Visitors currently on the upper floors should avoid using the glass elevators until the warning has been lifted."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We will provide another update as soon as conditions improve. Thank you for your understanding."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t32m-q1",
+    "question": "What has been issued for the area?",
+    "choices": [
+     "A fire alarm",
+     "A severe thunderstorm warning",
+     "A flood evacuation order",
+     "A power outage notice"
+    ]
+   },
+   {
+    "id": "l34-t32m-q2",
+    "question": "What is recommended for rooftop activities?",
+    "choices": [
+     "Cancel them entirely",
+     "Move them indoors",
+     "Postpone them until next week",
+     "Continue as planned"
+    ]
+   },
+   {
+    "id": "l34-t32m-q3",
+    "question": "What should visitors on upper floors avoid?",
+    "choices": [
+     "Using the stairs",
+     "Using the glass elevators",
+     "Opening windows",
+     "Leaving the building"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t33m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you all for taking part in this year's employee satisfaction survey. The response rate was over eighty percent, which is the highest we've ever recorded."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Overall satisfaction improved compared to last year, particularly in the areas of work-life balance and communication from management."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "However, several employees mentioned that the current break room facilities need improvement, and we take that feedback seriously."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting next month, we'll begin renovating the break room on the third floor, and a detailed plan will be shared by the end of this week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t33m-q1",
+    "question": "What was notable about the survey response rate?",
+    "choices": [
+     "It was the lowest ever",
+     "It was over eighty percent",
+     "It was under fifty percent",
+     "It decreased from last year"
+    ]
+   },
+   {
+    "id": "l34-t33m-q2",
+    "question": "In which areas did satisfaction improve?",
+    "choices": [
+     "Salary and benefits",
+     "Work-life balance and communication",
+     "Office location",
+     "Vacation policy"
+    ]
+   },
+   {
+    "id": "l34-t33m-q3",
+    "question": "What will happen next month?",
+    "choices": [
+     "A new survey will begin",
+     "The break room will be renovated",
+     "The office will relocate",
+     "A hiring freeze will start"
+    ]
+   }
+  ]
+ }
+]

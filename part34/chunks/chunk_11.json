@@ -1,0 +1,440 @@
+[
+ {
+  "id": "l34-t34m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This is an announcement regarding changes to the parking garage that will take effect starting next Monday."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The second floor of the garage will now be reserved exclusively for visitors, so employees should park on the third floor or higher."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "In addition, all vehicles will need a new digital parking pass, which can be requested through the facilities office."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please make sure to update your pass before the end of this week to avoid any issues entering the garage."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t34m-q1",
+    "question": "When will the change take effect?",
+    "choices": [
+     "Immediately",
+     "Next Monday",
+     "Next month",
+     "At the end of the year"
+    ]
+   },
+   {
+    "id": "l34-t34m-q2",
+    "question": "Who is the second floor now reserved for?",
+    "choices": [
+     "Employees",
+     "Visitors",
+     "Delivery trucks",
+     "Management only"
+    ]
+   },
+   {
+    "id": "l34-t34m-q3",
+    "question": "What do employees need to do by the end of the week?",
+    "choices": [
+     "Pay a parking fee",
+     "Update their parking pass",
+     "Move their car",
+     "Submit a request form to HR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t35m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "That concludes our morning session. We'll now take a thirty-minute break before the afternoon workshops begin."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Coffee and light refreshments are available in the lobby just outside this hall."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you registered for the marketing workshop, please head to Room B, while those attending the data analysis session should go to Room C."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We ask that everyone return to their seats by one-thirty so we can start on time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t35m-q1",
+    "question": "How long is the break?",
+    "choices": [
+     "Fifteen minutes",
+     "Thirty minutes",
+     "One hour",
+     "Two hours"
+    ]
+   },
+   {
+    "id": "l34-t35m-q2",
+    "question": "Where can refreshments be found?",
+    "choices": [
+     "In Room B",
+     "In the lobby",
+     "In Room C",
+     "In the parking lot"
+    ]
+   },
+   {
+    "id": "l34-t35m-q3",
+    "question": "What time should attendees return to their seats?",
+    "choices": [
+     "12:30",
+     "1:00",
+     "1:30",
+     "2:00"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t36m",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good morning, drivers, here's your traffic update for the downtown area."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "There's a major backup on Route 9 near the river bridge due to ongoing repair work that started earlier this morning."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Drivers heading into the city center should expect delays of at least twenty minutes and are advised to use Fifth Avenue as an alternate route."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The repair work is expected to continue through the end of the week, so plan for similar delays each morning until then."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll have another update in thirty minutes. Stay safe out there."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t36m-q1",
+    "question": "What is causing the traffic backup?",
+    "choices": [
+     "A car accident",
+     "Repair work on a bridge",
+     "A parade",
+     "A power outage"
+    ]
+   },
+   {
+    "id": "l34-t36m-q2",
+    "question": "What alternate route is suggested?",
+    "choices": [
+     "Route 9",
+     "Fifth Avenue",
+     "The river bridge",
+     "Main Street"
+    ]
+   },
+   {
+    "id": "l34-t36m-q3",
+    "question": "How long is the repair work expected to continue?",
+    "choices": [
+     "One day",
+     "Through the end of the week",
+     "One month",
+     "It has already finished"
+    ]
+   },
+   {
+    "id": "l34-t36m-q4",
+    "question": "When will the next traffic update be given?",
+    "choices": [
+     "In ten minutes",
+     "In thirty minutes",
+     "In one hour",
+     "Tomorrow morning"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c48x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hi, I wanted to ask about the book I borrowed from the office library corner. Is there a due date?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, all books need to be returned within two weeks. I can check the exact date for you if you tell me the title."
+   },
+   {
+    "speaker": "Woman",
+    "line": "It's the marketing strategy book on the second shelf. I think I've had it for about ten days now."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let me look that up... okay, it's due this Friday. If you need more time, you can renew it once at the front desk."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c48x-q1",
+    "question": "What is the woman asking about?",
+    "choices": [
+     "A missing book",
+     "A return deadline",
+     "A new book order",
+     "A membership fee"
+    ]
+   },
+   {
+    "id": "l34-c48x-q2",
+    "question": "What does the man offer to do?",
+    "choices": [
+     "Order a new copy",
+     "Check the exact due date",
+     "Cancel the loan",
+     "Extend the library hours"
+    ]
+   },
+   {
+    "id": "l34-c48x-q3",
+    "question": "How can the woman get more time with the book?",
+    "choices": [
+     "Pay a late fee",
+     "Ask a coworker",
+     "Renew it at the front desk",
+     "Return it early"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c49x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The finance team approved the budget for a new office printer. Have you looked at any models yet?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I found two options that both support color printing and scanning, but one is significantly quieter."
+   },
+   {
+    "speaker": "Man",
+    "line": "Quiet would be great since it'll be placed near the meeting rooms. What about the cost of ink cartridges?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "The quieter one actually has cheaper cartridges too, so I'd recommend going with that one."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c49x-q1",
+    "question": "What has the finance team done?",
+    "choices": [
+     "Rejected a request",
+     "Approved a budget",
+     "Hired a technician",
+     "Canceled a meeting"
+    ]
+   },
+   {
+    "id": "l34-c49x-q2",
+    "question": "Why does the man prefer a quiet printer?",
+    "choices": [
+     "It will be near meeting rooms",
+     "It prints faster",
+     "It is cheaper overall",
+     "It has a warranty"
+    ]
+   },
+   {
+    "id": "l34-c49x-q3",
+    "question": "What does the woman recommend?",
+    "choices": [
+     "Buying both printers",
+     "Choosing the quieter model",
+     "Waiting for a sale",
+     "Renting a printer instead"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c50x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We need to decide on a venue for the year-end party soon. Have you gotten any quotes back?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I got two quotes. The downtown restaurant is a bit pricier, but it can seat all forty of us in one room."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That matters a lot, since last year we were split into two separate rooms and it felt disconnected."
+   },
+   {
+    "speaker": "Man",
+    "line": "Agreed. I'll go ahead and book the downtown restaurant, then send the details to everyone by email."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c50x-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A venue for a party",
+     "A client meeting location",
+     "A training schedule",
+     "A new office lease"
+    ]
+   },
+   {
+    "id": "l34-c50x-q2",
+    "question": "What happened at last year's event?",
+    "choices": [
+     "It was canceled",
+     "Guests were split into two rooms",
+     "The food ran out",
+     "It started late"
+    ]
+   },
+   {
+    "id": "l34-c50x-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Ask for another quote",
+     "Book the downtown restaurant",
+     "Cancel the event",
+     "Visit the venue in person"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c51x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Thank you for calling customer service. I understand you'd like a refund for a damaged item?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, the blender I ordered arrived with a cracked lid. I'd like a full refund rather than a replacement."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'm sorry to hear that. I can process the refund right away if you send us a photo of the damage."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Sure, I'll email the photo this afternoon. How long will the refund take once you receive it?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c51x-q1",
+    "question": "What problem does the woman report?",
+    "choices": [
+     "A missing item",
+     "A damaged product",
+     "A late delivery",
+     "A billing error"
+    ]
+   },
+   {
+    "id": "l34-c51x-q2",
+    "question": "What does the woman want instead of a replacement?",
+    "choices": [
+     "A discount",
+     "A full refund",
+     "A store credit",
+     "An apology letter"
+    ]
+   },
+   {
+    "id": "l34-c51x-q3",
+    "question": "What does the man ask the woman to send?",
+    "choices": [
+     "A receipt",
+     "A photo of the damage",
+     "Her account number",
+     "The original box"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c52x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you see the notice about the shuttle bus schedule? It looks like the morning route has changed."
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, the first bus now leaves fifteen minutes earlier because of the new parking lot construction."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's going to be a problem for me. I usually catch the second bus, but that one might be too crowded now."
+   },
+   {
+    "speaker": "Man",
+    "line": "You could try the shuttle from the north entrance instead. It runs on the same old schedule."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c52x-q1",
+    "question": "Why has the shuttle schedule changed?",
+    "choices": [
+     "A new driver was hired",
+     "Parking lot construction",
+     "A fuel shortage",
+     "Low ridership"
+    ]
+   },
+   {
+    "id": "l34-c52x-q2",
+    "question": "What concern does the woman have?",
+    "choices": [
+     "The bus fare increased",
+     "Her usual bus may be crowded",
+     "The route was canceled",
+     "She missed the announcement"
+    ]
+   },
+   {
+    "id": "l34-c52x-q3",
+    "question": "What does the man suggest?",
+    "choices": [
+     "Walking to work",
+     "Using the north entrance shuttle",
+     "Driving instead",
+     "Talking to HR"
+    ]
+   }
+  ]
+ }
+]

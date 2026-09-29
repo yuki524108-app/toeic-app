@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r009",
+  "passage": "Customer Service Representative Wanted\n\nGreenline Logistics is hiring a full-time Customer Service Representative to join our growing team. This role involves responding to customer inquiries via phone and email, tracking shipments, and resolving delivery issues.\n\nRequirements include excellent communication skills, basic computer proficiency, and at least one year of customer service experience. Bilingual candidates are preferred but not required.\n\nThis position offers a starting salary of $38,000 per year, along with health insurance and paid time off after 90 days of employment. The work schedule is Monday through Friday, 9 AM to 5 PM.\n\nInterested applicants should apply through our website at greenlinelogistics.com/careers before the application deadline of the 20th of this month.",
+  "questions": [
+   {
+    "id": "r009q1",
+    "question": "What is one of the main responsibilities of this position?",
+    "choices": [
+     "Managing warehouse inventory",
+     "Tracking shipments",
+     "Hiring new staff",
+     "Designing marketing materials"
+    ]
+   },
+   {
+    "id": "r009q2",
+    "question": "When do employees become eligible for paid time off?",
+    "choices": [
+     "Immediately",
+     "After 30 days",
+     "After 90 days",
+     "After one year"
+    ]
+   },
+   {
+    "id": "r009q3",
+    "question": "How should candidates apply for this position?",
+    "choices": [
+     "By calling the office",
+     "By mailing a resume",
+     "Through the company website",
+     "By visiting in person"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r010",
+  "passage": "You're Invited: Annual Employee Recognition Gala\n\nJoin us in celebrating the achievements of our outstanding employees at this year's Annual Recognition Gala, taking place on Saturday, June 14th, at the Grand Ballroom of the Lakeside Hotel.\n\nThe evening will include a formal dinner, awards ceremony, and live entertainment. This year, we will be honoring employees who have reached significant service milestones, as well as recognizing top performers in each department.\n\nDoors open at 6:30 PM, with dinner served at 7:00 PM. Formal attire is requested. Please RSVP by June 1st through the HR portal, as seating is limited. Guests are welcome; please indicate the number of attendees when you RSVP.",
+  "questions": [
+   {
+    "id": "r010q1",
+    "question": "Where will the event be held?",
+    "choices": [
+     "The company headquarters",
+     "The Grand Ballroom of the Lakeside Hotel",
+     "A local restaurant",
+     "The main auditorium"
+    ]
+   },
+   {
+    "id": "r010q2",
+    "question": "By when should employees RSVP?",
+    "choices": [
+     "June 1st",
+     "June 14th",
+     "June 30th",
+     "The day of the event"
+    ]
+   },
+   {
+    "id": "r010q3",
+    "question": "What is requested regarding attire?",
+    "choices": [
+     "Casual clothing",
+     "Business casual",
+     "Formal attire",
+     "Company uniform"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r011",
+  "passage": "Subject: We Want Your Feedback!\n\nDear Customer,\n\nThank you for your recent purchase from TechHub Electronics. We would greatly appreciate it if you could take a few minutes to complete our customer satisfaction survey. Your feedback helps us improve our products and services.\n\nThe survey consists of ten short questions and should take no more than five minutes to complete. As a thank-you for your time, you will receive a coupon code for 10% off your next purchase upon completion.\n\nPlease click the link below to begin the survey. The survey will remain open until the end of this month, after which the coupon offer will no longer be available.\n\nWe value your business and look forward to hearing your thoughts.",
+  "questions": [
+   {
+    "id": "r011q1",
+    "question": "How long does the survey take to complete?",
+    "choices": [
+     "One minute",
+     "Five minutes",
+     "Ten minutes",
+     "Thirty minutes"
+    ]
+   },
+   {
+    "id": "r011q2",
+    "question": "What incentive is offered for completing the survey?",
+    "choices": [
+     "A free product",
+     "A 10% discount coupon",
+     "Cash back",
+     "A gift card"
+    ]
+   },
+   {
+    "id": "r011q3",
+    "question": "What happens after the survey period ends?",
+    "choices": [
+     "The survey extends automatically",
+     "The coupon offer expires",
+     "Customers get a refund",
+     "New questions are added"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r012",
+  "passage": "Memo: Updated IT Security Policy\n\nTo all staff,\n\nIn light of recent industry-wide security concerns, our IT department has updated the company's data security policy. All employees are required to change their network passwords by the end of this week.\n\nNew passwords must be at least 12 characters long and include a combination of uppercase letters, lowercase letters, numbers, and special symbols. Additionally, two-factor authentication will now be mandatory for accessing company email and internal systems remotely.\n\nEmployees who have not completed these updates by Friday will have their accounts temporarily locked until the changes are made. If you experience any issues, please contact the IT help desk at extension 350.\n\nThank you for your cooperation in keeping our systems secure.",
+  "questions": [
+   {
+    "id": "r012q1",
+    "question": "What must all employees do by the end of the week?",
+    "choices": [
+     "Install new software",
+     "Change their passwords",
+     "Attend a training session",
+     "Submit a security report"
+    ]
+   },
+   {
+    "id": "r012q2",
+    "question": "What is now required for remote access to company systems?",
+    "choices": [
+     "A VPN connection",
+     "Two-factor authentication",
+     "A signed agreement",
+     "Manager approval"
+    ]
+   },
+   {
+    "id": "r012q3",
+    "question": "What happens if the changes are not completed by Friday?",
+    "choices": [
+     "A warning email is sent",
+     "The account is locked",
+     "The employee is fined",
+     "Nothing happens"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r013",
+  "passage": "Important Update from FastTrack Delivery\n\nDear Customer,\n\nWe are writing to inform you that due to increased demand during the holiday season, delivery times may be extended by 2-3 additional business days for all standard shipping orders placed between now and the end of the month.\n\nExpedited shipping options remain unaffected and will continue to arrive within the originally quoted timeframes. We recommend selecting expedited shipping for any time-sensitive deliveries during this period.\n\nWe apologize for any inconvenience this may cause. Our team is working hard to process orders as quickly as possible. You can track your order at any time using the tracking number provided in your confirmation email.\n\nThank you for your understanding and continued support.",
+  "questions": [
+   {
+    "id": "r013q1",
+    "question": "Why are delivery times being extended?",
+    "choices": [
+     "A shortage of drivers",
+     "Increased holiday demand",
+     "A warehouse closure",
+     "Weather conditions"
+    ]
+   },
+   {
+    "id": "r013q2",
+    "question": "What shipping option is NOT affected by the delay?",
+    "choices": [
+     "Standard shipping",
+     "International shipping",
+     "Expedited shipping",
+     "Free shipping"
+    ]
+   },
+   {
+    "id": "r013q3",
+    "question": "How can customers check their order status?",
+    "choices": [
+     "By calling customer service",
+     "Using the tracking number",
+     "By visiting the store",
+     "By replying to the email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r014",
+  "passage": "Annual Business Leadership Conference\n\nThe 15th Annual Business Leadership Conference will be held from September 10th to 12th at the Metropolitan Convention Center. This year's theme is \"Navigating Change in a Digital Economy.\"\n\nThe conference will feature keynote speeches from industry leaders, panel discussions on emerging technologies, and networking sessions throughout each day. Early bird registration, available until August 1st, offers a 25% discount off the standard registration fee.\n\nAttendees can choose from over 30 breakout sessions covering topics such as leadership development, digital transformation, and sustainable business practices. A detailed schedule will be provided upon registration.\n\nGroup discounts are available for companies registering five or more employees. For more information, visit our website or contact the conference organizers directly.",
+  "questions": [
+   {
+    "id": "r014q1",
+    "question": "What is this year's conference theme?",
+    "choices": [
+     "Leadership Development",
+     "Navigating Change in a Digital Economy",
+     "Sustainable Business Practices",
+     "Global Market Trends"
+    ]
+   },
+   {
+    "id": "r014q2",
+    "question": "What is the deadline for the early bird discount?",
+    "choices": [
+     "August 1st",
+     "September 1st",
+     "September 10th",
+     "September 12th"
+    ]
+   },
+   {
+    "id": "r014q3",
+    "question": "How many employees must a company register to receive a group discount?",
+    "choices": [
+     "Two or more",
+     "Three or more",
+     "Five or more",
+     "Ten or more"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r015",
+  "passage": "Product Review: UltraBook Pro 15\n\nI purchased the UltraBook Pro 15 three months ago for both work and personal use, and overall, I've been quite satisfied. The battery life is excellent, easily lasting a full workday without needing to recharge.\n\nThe screen quality is impressive, with sharp colors and good brightness even in outdoor lighting. However, I did notice that the laptop tends to run warm during extended use, particularly when running multiple applications simultaneously.\n\nCustomer support was helpful when I had questions about software installation, responding to my email within a few hours. The price point is slightly higher than competitors, but given the build quality and performance, I believe it's a worthwhile investment for professionals who need a reliable machine.\n\nOverall rating: 4 out of 5 stars.",
+  "questions": [
+   {
+    "id": "r015q1",
+    "question": "What does the reviewer praise about the laptop?",
+    "choices": [
+     "Its low price",
+     "Its battery life",
+     "Its lightweight design",
+     "Its keyboard"
+    ]
+   },
+   {
+    "id": "r015q2",
+    "question": "What issue does the reviewer mention?",
+    "choices": [
+     "Poor screen quality",
+     "The laptop running warm",
+     "Slow customer support",
+     "A short warranty"
+    ]
+   },
+   {
+    "id": "r015q3",
+    "question": "How does the reviewer feel about the price?",
+    "choices": [
+     "It's too expensive",
+     "It's reasonably priced",
+     "It's higher but worth it",
+     "It's the cheapest option"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r016",
+  "passage": "Employee Benefit: Gym Membership Discount\n\nWe are pleased to announce a new partnership with FitLife Gym, offering all employees a 30% discount on monthly memberships. This benefit is part of our ongoing commitment to employee wellness.\n\nTo take advantage of this offer, simply present your employee ID card at any FitLife Gym location. The discount applies to both individual and family memberships and includes access to group fitness classes.\n\nThis partnership is valid at all FitLife locations nationwide, making it convenient for employees who travel frequently or work from different offices. The discount will remain in effect through the end of next year, at which point it will be reviewed for renewal.\n\nFor more details, please visit the HR benefits page on the company intranet.",
+  "questions": [
+   {
+    "id": "r016q1",
+    "question": "What discount is being offered on gym memberships?",
+    "choices": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ]
+   },
+   {
+    "id": "r016q2",
+    "question": "What must employees show to receive the discount?",
+    "choices": [
+     "A discount code",
+     "Their employee ID card",
+     "A membership form",
+     "A pay stub"
+    ]
+   },
+   {
+    "id": "r016q3",
+    "question": "How long is this partnership guaranteed to last?",
+    "choices": [
+     "Six months",
+     "One year",
+     "Until the end of next year",
+     "Indefinitely"
+    ]
+   }
+  ]
+ }
+]

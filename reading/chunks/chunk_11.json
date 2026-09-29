@@ -1,0 +1,464 @@
+[
+ {
+  "id": "r081",
+  "passage": "To: All Sales Staff\nFrom: Training Department\nSubject: Upcoming Sales Training Session\n\nWe are pleased to announce a training session titled \"Advanced Negotiation Techniques,\" scheduled for Wednesday, October 15th, from 1:00 PM to 4:00 PM in Conference Room C.\n\nThis session will be led by an outside consultant, Marcus Webb, and will cover strategies for handling client objections, closing deals more effectively, and building long-term client relationships.\n\nAttendance is strongly encouraged for all sales team members, though it is not mandatory. Space is limited to 30 participants, so please reply to this email by October 8th to reserve your seat. A light snack will be provided.\n\nWe believe this training will be valuable for improving your sales performance.",
+  "passage2": "To: training@northfieldco.com\nFrom: k.ferrer@northfieldco.com\nSubject: RE: Upcoming Sales Training Session\n\nHello,\n\nI would like to register for the \"Advanced Negotiation Techniques\" training session on October 15th. This sounds very relevant to some of the challenges I've been facing with a few of my larger accounts recently.\n\nI do have a scheduling conflict from 1:00 to 1:30 PM due to a client call that cannot be moved, so I may arrive about 30 minutes late. Would that be an issue, or should I consider attending a future session instead?\n\nPlease let me know if late arrival is acceptable, and thank you for organizing this training.\n\nBest,\nKaren Ferrer",
+  "questions": [
+   {
+    "id": "r081q1",
+    "question": "Who will lead the training session?",
+    "choices": [
+     "A member of the Training Department",
+     "An outside consultant, Marcus Webb",
+     "The sales team manager",
+     "A client representative"
+    ]
+   },
+   {
+    "id": "r081q2",
+    "question": "By when should employees reply to reserve a seat?",
+    "choices": [
+     "October 8th",
+     "October 15th",
+     "October 1st",
+     "The day of the session"
+    ]
+   },
+   {
+    "id": "r081q3",
+    "question": "Why is Ms. Ferrer interested in this particular training?",
+    "choices": [
+     "It is mandatory for her role",
+     "It is relevant to challenges with her larger accounts",
+     "She wants to meet Marcus Webb",
+     "It offers a certificate"
+    ]
+   },
+   {
+    "id": "r081q4",
+    "question": "Why might Ms. Ferrer arrive late to the session?",
+    "choices": [
+     "She is attending another training",
+     "She has a client call that cannot be moved",
+     "She is unfamiliar with the location",
+     "She needs to finish a report first"
+    ]
+   },
+   {
+    "id": "r081q5",
+    "question": "Based on both documents, approximately how much of the session would Ms. Ferrer miss if she arrives as expected?",
+    "choices": [
+     "The entire session",
+     "About 30 minutes",
+     "About 2 hours",
+     "None of it"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r082",
+  "passage": "Bella Vista Trattoria – Now Accepting Online Reservations\n\nBella Vista Trattoria, known for its authentic Italian cuisine, is now available for online reservations through TableTime.\n\nHours: Tuesday-Sunday, 5:00 PM - 10:00 PM (Closed Mondays)\nParty size: Reservations available for parties of 2-8. For larger groups, please call the restaurant directly.\n\nReservations can be cancelled or modified up to 2 hours before the reservation time without penalty. Cancellations made less than 2 hours in advance, or failure to show up, may result in a $20 per person charge.\n\nA credit card is required to hold your reservation, though you will only be charged in the event of a late cancellation or no-show.",
+  "passage2": "From: reservations@tabletime.com\nTo: h.suzuki@mailbox.com\nSubject: Your Reservation is Confirmed – Bella Vista Trattoria\n\nDear Ms. Suzuki,\n\nYour reservation at Bella Vista Trattoria has been confirmed:\n\nDate: Saturday, October 19th\nTime: 7:30 PM\nParty size: 6 guests\n\nPlease arrive on time, as tables may be released after a 15-minute grace period. If you need to cancel or modify your reservation, please do so through the TableTime app at least 2 hours in advance to avoid a cancellation charge.\n\nWe hope you enjoy your dining experience at Bella Vista Trattoria.",
+  "questions": [
+   {
+    "id": "r082q1",
+    "question": "On which day is Bella Vista Trattoria closed?",
+    "choices": [
+     "Sunday",
+     "Monday",
+     "Saturday",
+     "Tuesday"
+    ]
+   },
+   {
+    "id": "r082q2",
+    "question": "What is required to hold a reservation?",
+    "choices": [
+     "A deposit paid in cash",
+     "A credit card",
+     "A membership to TableTime",
+     "Proof of a previous visit"
+    ]
+   },
+   {
+    "id": "r082q3",
+    "question": "How many guests are in Ms. Suzuki's party?",
+    "choices": [
+     "2",
+     "4",
+     "6",
+     "8"
+    ]
+   },
+   {
+    "id": "r082q4",
+    "question": "What happens if Ms. Suzuki's party arrives more than 15 minutes late?",
+    "choices": [
+     "They will be charged double",
+     "Their table may be released",
+     "The restaurant will call them",
+     "Nothing will happen"
+    ]
+   },
+   {
+    "id": "r082q5",
+    "question": "If Ms. Suzuki needed to cancel her reservation just one hour before the reservation time, what would likely happen, based on both documents?",
+    "choices": [
+     "No charge would apply",
+     "She would receive a discount on her next visit",
+     "She could be charged $20 per person",
+     "Her credit card would be cancelled"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r083",
+  "passage": "Position: Project Manager\nCompany: Ridgeline Construction Group\n\nRidgeline Construction Group is seeking an experienced Project Manager to oversee residential construction projects from start to finish. Responsibilities include coordinating with subcontractors, managing budgets, and ensuring projects are completed on schedule.\n\nRequirements:\n- At least four years of project management experience in construction\n- PMP certification preferred\n- Strong communication and problem-solving skills\n\nThis is a full-time position with a salary range of $75,000-$95,000, based on experience. Interested candidates should submit a resume and cover letter to careers@ridgelineconstruction.com by October 20th.",
+  "passage2": "To: careers@ridgelineconstruction.com\nFrom: m.okafor@quickmail.com\nSubject: Application for Project Manager Position\n\nDear Hiring Manager,\n\nI am writing to apply for the Project Manager position at Ridgeline Construction Group. I have five years of experience managing residential construction projects and hold a PMP certification, which I earned in 2022.\n\nIn my current role at Summit Builders, I have successfully managed budgets exceeding $2 million and coordinated with over a dozen subcontractors on multiple simultaneous projects.\n\nI have attached my resume and cover letter for your review. I am available for an interview at your earliest convenience and can be reached at this email address or by phone.\n\nThank you for considering my application.\n\nSincerely,\nMichael Okafor",
+  "passage3": "To: m.okafor@quickmail.com\nFrom: careers@ridgelineconstruction.com\nSubject: Interview Invitation – Project Manager Position\n\nDear Mr. Okafor,\n\nThank you for your application. Your experience managing large-scale residential projects stood out to our hiring committee, and we would like to invite you for an in-person interview.\n\nThe interview is scheduled for Thursday, October 26th, at 10:00 AM at our main office. Please plan for approximately one hour, as you will meet with both our Operations Director and a current Project Manager.\n\nPlease bring a copy of your PMP certification and be prepared to discuss a project you managed from planning through completion.\n\nIf this time does not work for you, please let us know as soon as possible so we can arrange an alternative.\n\nBest regards,\nHuman Resources, Ridgeline Construction Group",
+  "questions": [
+   {
+    "id": "r083q1",
+    "question": "What certification is preferred for the Project Manager position?",
+    "choices": [
+     "CPA",
+     "PMP",
+     "MBA",
+     "OSHA"
+    ]
+   },
+   {
+    "id": "r083q2",
+    "question": "How much experience does Mr. Okafor have managing residential construction projects?",
+    "choices": [
+     "Two years",
+     "Four years",
+     "Five years",
+     "Ten years"
+    ]
+   },
+   {
+    "id": "r083q3",
+    "question": "Who will Mr. Okafor meet during his interview?",
+    "choices": [
+     "Only the Operations Director",
+     "The Operations Director and a current Project Manager",
+     "The company's CEO",
+     "A group of subcontractors"
+    ]
+   },
+   {
+    "id": "r083q4",
+    "question": "What should Mr. Okafor bring to the interview?",
+    "choices": [
+     "A list of references",
+     "A copy of his PMP certification",
+     "A signed contract",
+     "A project budget report"
+    ]
+   },
+   {
+    "id": "r083q5",
+    "question": "Based on all three documents, why was Mr. Okafor likely invited to interview?",
+    "choices": [
+     "He is the only applicant",
+     "His experience exceeds the minimum requirement and matches the preferred certification",
+     "He applied after the deadline",
+     "He knows someone at the company"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r084",
+  "passage": "Riverside City News – Community Section\n\nThe 10th Annual Riverside City Marathon will take place on Sunday, April 12th, starting and finishing at Riverside Park. The event includes a full marathon, half marathon, and a 5K fun run, welcoming runners of all skill levels.\n\nRegistration opens online on January 15th, with early bird pricing available until February 28th. Race packets, including bib numbers and t-shirts, can be picked up at the Riverside Convention Center on April 10th and 11th.\n\nProceeds from this year's race will benefit the Riverside Youth Sports Foundation. Volunteers are also needed for the event; anyone interested in volunteering should contact the race organizers directly.",
+  "passage2": "To: a.whitfield@mailbox.com\nFrom: registration@riversidemarathon.org\nSubject: Registration Confirmed – Riverside City Marathon\n\nDear Ms. Whitfield,\n\nThank you for registering for the Half Marathon at this year's Riverside City Marathon. Your registration was completed on February 20th, which qualifies you for the early bird rate of $55.\n\nPlease remember to pick up your race packet, including your bib number and t-shirt, at the Riverside Convention Center on April 10th or 11th. Packets cannot be picked up on race day.\n\nYou will receive additional information about parking and the race-day schedule approximately one week before the event.\n\nGood luck with your training!\n\nRiverside City Marathon Team",
+  "passage3": "To: All Registered Runners\nFrom: Riverside City Marathon Team\nSubject: Important Race-Day Information\n\nAs race day approaches, please review the following important details:\n\nParking: Runners should park in Lot C at Riverside Park, as Lots A and B will be reserved for volunteers and event staff. Parking opens at 5:30 AM.\n\nStart Times: The full marathon starts at 7:00 AM, the half marathon at 7:15 AM, and the 5K at 7:30 AM.\n\nWeather: In the event of severe weather, updates will be posted on our website and sent via email by 6:00 AM on race day.\n\nWe look forward to seeing you at the starting line!",
+  "questions": [
+   {
+    "id": "r084q1",
+    "question": "What events are included in the Riverside City Marathon?",
+    "choices": [
+     "Only a full marathon",
+     "A full marathon, half marathon, and 5K",
+     "A triathlon",
+     "A cycling race"
+    ]
+   },
+   {
+    "id": "r084q2",
+    "question": "What rate did Ms. Whitfield qualify for?",
+    "choices": [
+     "Standard rate",
+     "Early bird rate of $55",
+     "Volunteer discount",
+     "Group rate"
+    ]
+   },
+   {
+    "id": "r084q3",
+    "question": "Where should Ms. Whitfield pick up her race packet?",
+    "choices": [
+     "At Riverside Park on race day",
+     "At the Riverside Convention Center on April 10th or 11th",
+     "By mail",
+     "At a local sporting goods store"
+    ]
+   },
+   {
+    "id": "r084q4",
+    "question": "What time does the half marathon start?",
+    "choices": [
+     "7:00 AM",
+     "7:15 AM",
+     "7:30 AM",
+     "5:30 AM"
+    ]
+   },
+   {
+    "id": "r084q5",
+    "question": "Based on all three documents, in which parking lot should Ms. Whitfield park on race day?",
+    "choices": [
+     "Lot A",
+     "Lot B",
+     "Lot C",
+     "She cannot park at the venue"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r085",
+  "passage": "Nordbrook Office Furniture – Fall Catalog Highlights\n\nThis season, we are featuring our most popular ergonomic office furniture at special catalog prices, valid through November 30th.\n\n- Elevate Standing Desk: $349 (regularly $420)\n- ComfortPlus Mesh Chair: $189 (regularly $230)\n- FlexArm Monitor Mount: $59 (regularly $75)\n\nOrders over $300 qualify for free delivery within our standard service area. Orders can be placed online, by phone, or by visiting one of our showroom locations. Please allow 5-7 business days for delivery.",
+  "passage2": "To: orders@nordbrookoffice.com\nFrom: p.laurent@brightlineconsulting.com\nSubject: Furniture Order – Catalog Items\n\nHello,\n\nI would like to place an order for the following items from your fall catalog:\n\n- 2 x Elevate Standing Desk\n- 2 x ComfortPlus Mesh Chair\n\nOur office address is 88 Harbor Street, Suite 400. Please let me know the total cost including any applicable delivery charges, and confirm whether these items are still in stock, as we are hoping to have them delivered before the end of the month.\n\nThank you,\nPaul Laurent\nBrightline Consulting",
+  "passage3": "To: p.laurent@brightlineconsulting.com\nFrom: orders@nordbrookoffice.com\nSubject: RE: Furniture Order – Catalog Items\n\nDear Mr. Laurent,\n\nThank you for your order. Your total comes to $1,076, and since your order exceeds $300, delivery is free of charge.\n\nAll items are in stock and have been scheduled for delivery. Based on our standard delivery window, you should expect your order to arrive within 5-7 business days, which falls within your requested timeframe.\n\nYou will receive a tracking notification once the items leave our warehouse. Please let us know if you have any questions in the meantime.\n\nBest regards,\nNordbrook Office Furniture",
+  "questions": [
+   {
+    "id": "r085q1",
+    "question": "What is the catalog price of the Elevate Standing Desk?",
+    "choices": [
+     "$189",
+     "$349",
+     "$420",
+     "$59"
+    ]
+   },
+   {
+    "id": "r085q2",
+    "question": "How many chairs did Mr. Laurent order?",
+    "choices": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   {
+    "id": "r085q3",
+    "question": "Why does Mr. Laurent's order qualify for free delivery?",
+    "choices": [
+     "He is a returning customer",
+     "His total exceeds $300",
+     "He ordered directly from a showroom",
+     "All orders include free delivery"
+    ]
+   },
+   {
+    "id": "r085q4",
+    "question": "What is Mr. Laurent's order total?",
+    "choices": [
+     "$696",
+     "$1,076",
+     "$1,200",
+     "$300"
+    ]
+   },
+   {
+    "id": "r085q5",
+    "question": "Based on all three documents, will Mr. Laurent likely receive his order within his requested timeframe?",
+    "choices": [
+     "No, it will be delayed significantly",
+     "Yes, the standard delivery window matches his request",
+     "The order has been cancelled",
+     "It is unclear from the information given"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r086",
+  "passage": "To: All Department Heads\nFrom: Office of the President\nSubject: Quarterly Strategy Meeting\n\nThis is a reminder that our quarterly strategy meeting will be held on Thursday, November 9th, from 9:00 AM to 12:00 PM in the Main Conference Room. All department heads are required to attend and should come prepared to present a brief update on their team's progress toward this year's goals.\n\nPlease submit your presentation slides to the Office of the President by November 6th so they can be compiled into a single meeting deck. A detailed agenda will follow in a separate email.\n\nLunch will be provided immediately following the meeting for those who would like to stay and discuss follow-up items informally.",
+  "passage2": "Quarterly Strategy Meeting – Agenda\nNovember 9th, 9:00 AM - 12:00 PM, Main Conference Room\n\n9:00 - 9:15   Opening remarks (President)\n9:15 - 10:15  Department updates (10 minutes each department)\n10:15 - 10:30  Break\n10:30 - 11:15  Discussion: Budget planning for next quarter\n11:15 - 11:45  Discussion: New client acquisition strategy\n11:45 - 12:00  Closing remarks and next steps\n\nNote: Department heads unable to present in person may join by video call, but slides must still be submitted in advance.",
+  "passage3": "To: office-president@northfieldco.com\nFrom: r.chen@northfieldco.com\nSubject: RE: Quarterly Strategy Meeting\n\nHello,\n\nI will be attending the quarterly strategy meeting on November 9th, but I wanted to let you know that I will be traveling that week and may need to join the department updates portion by video call instead of in person.\n\nI will still submit my presentation slides by November 6th as requested, and I plan to arrive in person in time for the budget planning discussion, if that is acceptable.\n\nPlease let me know if this arrangement works, and thank you for compiling the agenda in advance.\n\nBest,\nRachel Chen\nHead of Marketing",
+  "questions": [
+   {
+    "id": "r086q1",
+    "question": "By when should department heads submit their presentation slides?",
+    "choices": [
+     "November 6th",
+     "November 9th",
+     "November 15th",
+     "The day of the meeting"
+    ]
+   },
+   {
+    "id": "r086q2",
+    "question": "What will happen immediately after the meeting?",
+    "choices": [
+     "A video call",
+     "Lunch will be provided",
+     "The office will close",
+     "A new agenda will be sent"
+    ]
+   },
+   {
+    "id": "r086q3",
+    "question": "According to the agenda, how long is allotted for each department's update?",
+    "choices": [
+     "5 minutes",
+     "10 minutes",
+     "15 minutes",
+     "30 minutes"
+    ]
+   },
+   {
+    "id": "r086q4",
+    "question": "Why does Ms. Chen plan to join part of the meeting by video call?",
+    "choices": [
+     "She is unwell",
+     "She will be traveling that week",
+     "She disagrees with the agenda",
+     "Her department has no update to share"
+    ]
+   },
+   {
+    "id": "r086q5",
+    "question": "Based on all three documents, which agenda item does Ms. Chen plan to attend in person?",
+    "choices": [
+     "Opening remarks",
+     "Department updates",
+     "Budget planning for next quarter",
+     "Closing remarks only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r087",
+  "passage": "Fairview Public Library – New Borrowing Policy\n\nStarting November 1st, Fairview Public Library will implement a new borrowing policy for all patrons.\n\n- Standard borrowing period extends from 2 weeks to 3 weeks for books\n- Patrons may now borrow up to 15 items at a time, up from 10\n- Overdue fines are eliminated for books; however, a $1 per day fee will still apply to overdue DVDs and equipment rentals\n\nThese changes are part of our effort to make library resources more accessible to the community. Patrons with existing overdue books as of November 1st will have those fines waived automatically.",
+  "passage2": "To: All Library Members\nFrom: Fairview Public Library\nSubject: Reminder: New Borrowing Policy Starts November 1st\n\nDear Member,\n\nAs a reminder, our new borrowing policy takes effect on November 1st. We encourage you to take advantage of the extended borrowing period and increased item limit.\n\nIf you currently have items checked out under the old policy, your due dates will remain as originally scheduled, but any new items borrowed on or after November 1st will follow the new 3-week period.\n\nWe have also updated our website's FAQ page with answers to common questions about the new policy. Please take a look if you have any questions.\n\nThank you for being a valued member of Fairview Public Library.",
+  "passage3": "Frequently Asked Questions – New Borrowing Policy\n\nQ: Will my current overdue book fines be forgiven?\nA: Yes, any overdue fines on books as of November 1st will be automatically removed from your account. This does not apply to DVDs or equipment rentals.\n\nQ: Can I still be charged for a late DVD?\nA: Yes, a $1 per day fee still applies to overdue DVDs and equipment.\n\nQ: Do I need to do anything to receive the new 3-week borrowing period?\nA: No action is needed. The new period will apply automatically to any items borrowed on or after November 1st.",
+  "questions": [
+   {
+    "id": "r087q1",
+    "question": "What is the new maximum number of items a patron may borrow?",
+    "choices": [
+     "10",
+     "12",
+     "15",
+     "20"
+    ]
+   },
+   {
+    "id": "r087q2",
+    "question": "What happens to overdue fines on books as of November 1st?",
+    "choices": [
+     "They double",
+     "They are waived automatically",
+     "They must be paid in person",
+     "They are transferred to the next item borrowed"
+    ]
+   },
+   {
+    "id": "r087q3",
+    "question": "What happens to items already checked out before November 1st?",
+    "choices": [
+     "They must be returned immediately",
+     "Their due dates remain as originally scheduled",
+     "They are automatically renewed for 3 weeks",
+     "They are subject to a new fine"
+    ]
+   },
+   {
+    "id": "r087q4",
+    "question": "According to the FAQ, is a fee still charged for overdue DVDs?",
+    "choices": [
+     "No, all fines are eliminated",
+     "Yes, $1 per day still applies",
+     "Only for the first offense",
+     "Only if not returned within a month"
+    ]
+   },
+   {
+    "id": "r087q5",
+    "question": "Based on all three documents, what must a patron do to receive the new 3-week borrowing period?",
+    "choices": [
+     "Submit a request form",
+     "Pay a membership fee",
+     "Nothing; it applies automatically to new items borrowed after November 1st",
+     "Wait until their current items are returned"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r088",
+  "passage": "Notice of Contract Renewal\nFrom: Crestpoint Office Solutions\nTo: Bramwell & Co.\n\nThis letter serves as notice that your current service contract for printer maintenance and supplies with Crestpoint Office Solutions is set to expire on December 31st. Your current contract includes quarterly maintenance visits and a discounted rate on toner supplies.\n\nTo renew your contract at the current rate, please confirm in writing by December 1st. Contracts renewed after this date will be subject to a 5% rate increase, reflecting updated service costs.\n\nIf you do not wish to renew, no action is needed, and the contract will simply expire on December 31st. Please contact our account services team with any questions.",
+  "passage2": "To: accounts@crestpointoffice.com\nFrom: d.harmon@bramwellco.com\nSubject: Question About Contract Renewal\n\nHello,\n\nI received the notice about our printer maintenance contract renewal. Before we confirm, I have a question: if we renew after December 1st but before the contract actually expires on December 31st, would we still be able to renew at the current rate, or would the 5% increase apply?\n\nWe are still finalizing our budget for next year and may not be able to confirm until mid-December.\n\nThank you for clarifying.\n\nDavid Harmon\nBramwell & Co.",
+  "passage3": "To: d.harmon@bramwellco.com\nFrom: accounts@crestpointoffice.com\nSubject: RE: Question About Contract Renewal\n\nDear Mr. Harmon,\n\nThank you for reaching out. To clarify, the December 1st date is the deadline to lock in the current rate. Any renewal confirmed after that date, even if before the contract's expiration on December 31st, will be subject to the 5% rate increase.\n\nIf your budget approval process may extend past December 1st, we recommend confirming a provisional renewal now to secure the current rate, with the option to adjust service details later if needed.\n\nPlease let us know how you would like to proceed.\n\nBest regards,\nAccount Services, Crestpoint Office Solutions",
+  "questions": [
+   {
+    "id": "r088q1",
+    "question": "What does the current contract include?",
+    "choices": [
+     "Only toner supplies",
+     "Quarterly maintenance visits and discounted toner",
+     "Unlimited service calls",
+     "A replacement printer"
+    ]
+   },
+   {
+    "id": "r088q2",
+    "question": "What happens to contracts renewed after December 1st?",
+    "choices": [
+     "They are automatically cancelled",
+     "They are subject to a 5% rate increase",
+     "They receive an additional discount",
+     "They require a new application"
+    ]
+   },
+   {
+    "id": "r088q3",
+    "question": "Why is Mr. Harmon concerned about the renewal timing?",
+    "choices": [
+     "He wants to cancel the contract",
+     "His company may not confirm until mid-December",
+     "He does not understand the service details",
+     "He wants to switch providers"
+    ]
+   },
+   {
+    "id": "r088q4",
+    "question": "What does Crestpoint recommend Mr. Harmon do?",
+    "choices": [
+     "Cancel the contract now",
+     "Confirm a provisional renewal now to secure the current rate",
+     "Wait until the contract expires",
+     "Switch to a monthly plan"
+    ]
+   },
+   {
+    "id": "r088q5",
+    "question": "Based on all three documents, if Mr. Harmon confirms renewal on December 15th, what rate will apply?",
+    "choices": [
+     "The current rate, since it is before December 31st",
+     "The increased rate, since it is after December 1st",
+     "No rate, since the contract will have expired",
+     "A rate determined by negotiation"
+    ]
+   }
+  ]
+ }
+]

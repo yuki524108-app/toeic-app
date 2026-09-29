@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r145",
+  "passage": "Effective next month, smoking will no longer be permitted anywhere on company property, including the previously designated smoking area behind Building C. This change is part of our broader initiative to promote employee health and wellness.\n\nEmployees who smoke are encouraged to take advantage of the company's free smoking cessation program, which includes counseling sessions and nicotine replacement therapy at no cost. Details about the program can be found on the wellness portal.\n\nWe understand this change may be difficult for some employees and appreciate everyone's understanding and cooperation as we work to create a healthier workplace for all.",
+  "questions": [
+   {
+    "id": "r145q1",
+    "question": "What change is being announced?",
+    "choices": [
+     "A new cafeteria menu",
+     "A company-wide smoking ban",
+     "New parking rules",
+     "A dress code change"
+    ]
+   },
+   {
+    "id": "r145q2",
+    "question": "What is offered to employees who smoke?",
+    "choices": [
+     "A cash bonus",
+     "A free smoking cessation program",
+     "Extra break time",
+     "A discount on health insurance"
+    ]
+   },
+   {
+    "id": "r145q3",
+    "question": "Where can employees find more details?",
+    "choices": [
+     "The HR office",
+     "The wellness portal",
+     "A printed flyer",
+     "Their manager"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r146",
+  "passage": "Learn a new language faster with LinguaLeap! Our app uses proven techniques like spaced repetition and interactive conversation practice to help you build real-world fluency, not just memorize vocabulary.\n\nFor a limited time, get 40% off an annual subscription when you sign up before the end of the month. All plans include offline lesson downloads, perfect for learning on the go without using data.\n\nJoin over five million learners worldwide and start your first lesson for free today, no credit card required.",
+  "questions": [
+   {
+    "id": "r146q1",
+    "question": "What does the app focus on according to the ad?",
+    "choices": [
+     "Memorizing vocabulary only",
+     "Building real-world fluency",
+     "Grammar exercises only",
+     "Test preparation"
+    ]
+   },
+   {
+    "id": "r146q2",
+    "question": "What discount is being offered?",
+    "choices": [
+     "20% off",
+     "40% off an annual subscription",
+     "A free year",
+     "50% off for students"
+    ]
+   },
+   {
+    "id": "r146q3",
+    "question": "What is required to start the first lesson?",
+    "choices": [
+     "A credit card",
+     "Nothing, it's free",
+     "A referral code",
+     "A paid subscription"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r147",
+  "passage": "The regional transit authority approved a fare increase this week, the first in five years, citing rising operational costs and the need to fund system upgrades. Starting in January, single ride fares will increase from $2.50 to $2.75, while monthly passes will rise from $80 to $88.\n\nTransit officials emphasized that the additional revenue will be used to purchase new buses and improve service reliability on several routes that have faced frequent delays. Reduced fares for seniors, students, and individuals with disabilities will remain unchanged.\n\nPublic hearings were held over the past two months to gather community input before the decision was finalized.",
+  "questions": [
+   {
+    "id": "r147q1",
+    "question": "Why is the fare increasing?",
+    "choices": [
+     "To reduce ridership",
+     "Rising operational costs and system upgrades",
+     "A new law",
+     "Reduced government funding"
+    ]
+   },
+   {
+    "id": "r147q2",
+    "question": "What will stay the same?",
+    "choices": [
+     "The bus routes",
+     "Reduced fares for seniors, students, and disabled individuals",
+     "The monthly pass price",
+     "The single ride fare"
+    ]
+   },
+   {
+    "id": "r147q3",
+    "question": "What happened before the decision was finalized?",
+    "choices": [
+     "A lawsuit",
+     "Public hearings",
+     "A ridership survey only",
+     "A budget freeze"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r148",
+  "passage": "Hi Team,\n\nI'm excited to officially kick off the Riverside project. Attached you'll find the project charter, which outlines our goals, timeline, and key deliverables for the next six months.\n\nOur first team meeting will be this Thursday at 2 PM, where we'll review roles and responsibilities in more detail. Please come prepared with any initial questions or concerns about the scope of work.\n\nI'm confident that with everyone's expertise, we'll deliver excellent results for the client. Looking forward to working with all of you on this.\n\nBest,\nPriya",
+  "questions": [
+   {
+    "id": "r148q1",
+    "question": "What is attached to the email?",
+    "choices": [
+     "A budget report",
+     "The project charter",
+     "A client contract",
+     "A meeting recording"
+    ]
+   },
+   {
+    "id": "r148q2",
+    "question": "What will be discussed at Thursday's meeting?",
+    "choices": [
+     "The final budget",
+     "Roles and responsibilities",
+     "The client's feedback",
+     "A performance review"
+    ]
+   },
+   {
+    "id": "r148q3",
+    "question": "What are team members asked to bring to the meeting?",
+    "choices": [
+     "A laptop",
+     "Initial questions or concerns",
+     "A printed report",
+     "Their calendars"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r149",
+  "passage": "Get ready to move! The Wellness Committee is launching a six-week Step Challenge starting next Monday. Employees can form teams of up to five people and track their daily steps using a fitness app or pedometer.\n\nWeekly leaderboards will be posted in the break room, and the winning team at the end of the challenge will receive a catered lunch along with wellness prizes. Participation is completely optional and open to all employees, regardless of fitness level.\n\nTo sign up, complete the registration form on the wellness portal by this Friday. We hope to see great participation and a lot of friendly competition!",
+  "questions": [
+   {
+    "id": "r149q1",
+    "question": "How long will the challenge last?",
+    "choices": [
+     "Two weeks",
+     "Four weeks",
+     "Six weeks",
+     "Eight weeks"
+    ]
+   },
+   {
+    "id": "r149q2",
+    "question": "What will the winning team receive?",
+    "choices": [
+     "A cash prize",
+     "A catered lunch and wellness prizes",
+     "Extra vacation days",
+     "Gym memberships"
+    ]
+   },
+   {
+    "id": "r149q3",
+    "question": "By when should employees sign up?",
+    "choices": [
+     "This Friday",
+     "Next Monday",
+     "The end of the challenge",
+     "Anytime during the challenge"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r150",
+  "passage": "Greenfield Energy announced this week that its newest solar power facility is now fully operational, capable of generating enough electricity to power approximately 8,000 homes annually. The facility, built on previously unused farmland, represents the company's largest renewable energy investment to date.\n\nCompany officials say the project took just under two years to complete and created roughly 150 temporary construction jobs, along with a handful of permanent maintenance positions. The facility is expected to reduce carbon emissions in the region significantly compared to traditional power sources.\n\nGreenfield Energy has announced plans to build two additional solar facilities in neighboring counties over the next three years.",
+  "questions": [
+   {
+    "id": "r150q1",
+    "question": "How many homes can the facility power?",
+    "choices": [
+     "1,000",
+     "8,000",
+     "15,000",
+     "20,000"
+    ]
+   },
+   {
+    "id": "r150q2",
+    "question": "Where was the facility built?",
+    "choices": [
+     "On a former industrial site",
+     "On previously unused farmland",
+     "In the city center",
+     "Near the coast"
+    ]
+   },
+   {
+    "id": "r150q3",
+    "question": "What does the company plan to do next?",
+    "choices": [
+     "Close the facility",
+     "Sell the land",
+     "Build two more facilities in neighboring counties",
+     "Switch to wind power"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r151",
+  "passage": "Dear Gold Member,\n\nAs a valued member of our rewards program, you're invited to an exclusive preview event for our upcoming fall collection this Saturday from 6 to 9 PM at our flagship store.\n\nEnjoy complimentary refreshments, personalized styling advice, and early access to shop new arrivals before they're available to the public. Gold members will also receive a special 20% discount code valid for the entire evening.\n\nSpace is limited, so please RSVP through the link below by Thursday to secure your spot.\n\nWe look forward to seeing you there!",
+  "questions": [
+   {
+    "id": "r151q1",
+    "question": "Who is invited to the event?",
+    "choices": [
+     "All customers",
+     "Gold members only",
+     "New customers only",
+     "Store employees"
+    ]
+   },
+   {
+    "id": "r151q2",
+    "question": "What will attendees receive?",
+    "choices": [
+     "A free gift",
+     "Early access and a 20% discount code",
+     "A membership upgrade",
+     "Free shipping for a year"
+    ]
+   },
+   {
+    "id": "r151q3",
+    "question": "By when should members RSVP?",
+    "choices": [
+     "Thursday",
+     "Saturday",
+     "The day of the event",
+     "There is no deadline"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r152",
+  "passage": "As part of our office reorganization to better support cross-team collaboration, desk assignments will be changing effective next Monday. Employees will be grouped by project team rather than by department, allowing for easier communication on shared initiatives.\n\nA seating chart showing the new arrangement has been posted on the intranet. Please plan to move your personal belongings to your new desk by end of day this Friday. Facilities staff will be available to assist with moving larger items such as monitors or filing cabinets.\n\nIf you have any concerns about your new seating arrangement, please speak with your manager directly.",
+  "questions": [
+   {
+    "id": "r152q1",
+    "question": "Why are desk assignments changing?",
+    "choices": [
+     "To save money",
+     "To support cross-team collaboration",
+     "Due to an office renovation",
+     "Because of new hires"
+    ]
+   },
+   {
+    "id": "r152q2",
+    "question": "Where can employees see the new seating chart?",
+    "choices": [
+     "On the intranet",
+     "In a printed memo",
+     "By asking HR",
+     "On the company app"
+    ]
+   },
+   {
+    "id": "r152q3",
+    "question": "What should employees do by Friday?",
+    "choices": [
+     "Submit feedback",
+     "Move their belongings to the new desk",
+     "Attend a meeting",
+     "Approve the new layout"
+    ]
+   }
+  ]
+ }
+]

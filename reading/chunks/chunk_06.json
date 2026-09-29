@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r041",
+  "passage": "Notice of Contract Renewal\n\nDear Business Partner,\n\nThis letter serves as formal notice that your current service contract with us is set to expire on the last day of next month. We value our partnership and would like to discuss renewal terms for the upcoming year.\n\nOur records indicate that under the current contract, you have received priority technical support and a 10% discount on all service calls. We are pleased to offer these same benefits under the renewed contract, along with a new option for extended warranty coverage at an additional cost.\n\nPlease review the attached renewal agreement and return a signed copy within 30 days of receiving this notice. If we do not receive a response by the deadline, your services will continue on a month-to-month basis at standard rates, without the discount benefits currently applied.\n\nWe look forward to continuing our successful partnership.",
+  "questions": [
+   {
+    "id": "r041q1",
+    "question": "When does the current contract expire?",
+    "choices": [
+     "This month",
+     "The last day of next month",
+     "In three months",
+     "At the end of the year"
+    ]
+   },
+   {
+    "id": "r041q2",
+    "question": "What benefit is included in the current contract?",
+    "choices": [
+     "Free installation",
+     "A 10% discount on service calls",
+     "Unlimited service calls",
+     "A money-back guarantee"
+    ]
+   },
+   {
+    "id": "r041q3",
+    "question": "What happens if the signed agreement is not returned within 30 days?",
+    "choices": [
+     "The contract is automatically renewed",
+     "Services continue at standard rates without discounts",
+     "Services are terminated immediately",
+     "A penalty fee is charged"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r042",
+  "passage": "Professional Development: Leadership Training Program\n\nWe are pleased to announce the opening of registration for our annual Leadership Development Program, designed for employees who have demonstrated leadership potential within their current roles.\n\nThe program consists of six monthly workshops covering topics such as effective communication, conflict resolution, strategic planning, and team motivation. Each workshop will be led by experienced facilitators, both internal leaders and external consultants specializing in organizational development.\n\nEligible employees must have at least two years of tenure with the company and a recommendation from their direct supervisor. Space is limited to 20 participants per cohort, and selection will be based on application quality and manager endorsement.\n\nApplications must be submitted through the HR portal by the end of this month. Selected participants will be notified within two weeks of the application deadline.",
+  "questions": [
+   {
+    "id": "r042q1",
+    "question": "How many workshops does the program consist of?",
+    "choices": [
+     "Four",
+     "Five",
+     "Six",
+     "Eight"
+    ]
+   },
+   {
+    "id": "r042q2",
+    "question": "What is required for eligibility?",
+    "choices": [
+     "A college degree",
+     "At least two years of tenure and a supervisor recommendation",
+     "Management experience",
+     "A perfect attendance record"
+    ]
+   },
+   {
+    "id": "r042q3",
+    "question": "How many participants can join each cohort?",
+    "choices": [
+     "10",
+     "15",
+     "20",
+     "30"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r043",
+  "passage": "Important Safety Notice: Product Recall\n\nHomeSafe Appliances is voluntarily recalling certain models of its Model X200 space heater due to a potential fire hazard identified during routine safety testing.\n\nAffected units were manufactured between January and June of last year and can be identified by the serial number located on the bottom of the unit, beginning with the letters \"HS20.\" Customers should immediately stop using the affected units.\n\nCustomers who own an affected unit should contact our recall hotline at 1-800-555-0177 to arrange for a free replacement or full refund. Please have your serial number and proof of purchase ready when calling.\n\nWe sincerely apologize for any inconvenience this recall may cause and appreciate your cooperation in ensuring the safety of our customers.",
+  "questions": [
+   {
+    "id": "r043q1",
+    "question": "Why is the product being recalled?",
+    "choices": [
+     "A defective battery",
+     "A potential fire hazard",
+     "Incorrect labeling",
+     "A shipping error"
+    ]
+   },
+   {
+    "id": "r043q2",
+    "question": "How can customers identify an affected unit?",
+    "choices": [
+     "By the purchase date",
+     "By the serial number",
+     "By the store where it was bought",
+     "By the color of the unit"
+    ]
+   },
+   {
+    "id": "r043q3",
+    "question": "What should customers do if they own an affected unit?",
+    "choices": [
+     "Continue using it carefully",
+     "Return it to any store",
+     "Contact the recall hotline",
+     "Repair it themselves"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r044",
+  "passage": "Membership Renewal Reminder\n\nDear FitZone Member,\n\nYour annual membership is set to expire in 30 days. We hope you've enjoyed access to our facilities, classes, and personal training services over the past year.\n\nTo continue your membership without interruption, please renew before your expiration date. Members who renew at least two weeks before expiration will lock in the current rate of $45 per month, avoiding the upcoming rate increase to $50 per month for new members.\n\nAs a loyal member, you are also eligible for a complimentary personal training session upon renewal. This session must be scheduled within 60 days of your renewal date.\n\nYou can renew online through our member portal, by phone, or in person at the front desk. If you have any questions about your membership options, our staff would be happy to assist you.",
+  "questions": [
+   {
+    "id": "r044q1",
+    "question": "What rate can members lock in by renewing early?",
+    "choices": [
+     "$40 per month",
+     "$45 per month",
+     "$50 per month",
+     "$55 per month"
+    ]
+   },
+   {
+    "id": "r044q2",
+    "question": "What bonus is offered upon renewal?",
+    "choices": [
+     "A free month of membership",
+     "A complimentary personal training session",
+     "A gym bag",
+     "A discount on merchandise"
+    ]
+   },
+   {
+    "id": "r044q3",
+    "question": "By when must the training session be scheduled?",
+    "choices": [
+     "Within 30 days",
+     "Within 60 days",
+     "Within 90 days",
+     "Anytime"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r045",
+  "passage": "IT Announcement: Cloud Storage Migration\n\nOver the next two weeks, our IT department will be migrating all company files from our current server-based storage system to a new cloud-based platform, CloudDrive Enterprise.\n\nThis migration will improve file access speed, enable easier collaboration across departments, and provide better security through automatic backups. Employees will notice a new CloudDrive icon on their desktops once the migration is complete for their department.\n\nDuring the migration period, some files may be temporarily inaccessible for a few hours as they are transferred. IT will notify each department 24 hours in advance of their scheduled migration window to minimize disruption to daily work.\n\nAfter migration, all new files should be saved directly to CloudDrive rather than local drives. Training sessions on using the new platform will be offered throughout next month.",
+  "questions": [
+   {
+    "id": "r045q1",
+    "question": "What is one benefit of the new cloud storage system?",
+    "choices": [
+     "Lower costs",
+     "Improved file access speed",
+     "Fewer employees needed",
+     "Simplified job titles"
+    ]
+   },
+   {
+    "id": "r045q2",
+    "question": "How much advance notice will departments receive before migration?",
+    "choices": [
+     "1 hour",
+     "24 hours",
+     "One week",
+     "No notice"
+    ]
+   },
+   {
+    "id": "r045q3",
+    "question": "Where should new files be saved after migration?",
+    "choices": [
+     "Local drives",
+     "Email attachments",
+     "CloudDrive",
+     "USB drives"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r046",
+  "passage": "Learn a New Language with LinguaFlow\n\nLinguaFlow makes learning a new language easier and more enjoyable than ever before. With over 30 languages available, our app uses proven techniques based on spaced repetition and interactive exercises to help you retain what you learn.\n\nUnlike traditional classroom learning, LinguaFlow allows you to study at your own pace, anywhere and anytime, through short 10-15 minute daily lessons that fit easily into a busy schedule.\n\nOur premium subscription, available for $9.99 per month or $79.99 annually, unlocks offline access, personalized learning plans, and live conversation practice with native speakers. A free version with limited features is also available for those who want to try the app first.\n\nDownload LinguaFlow today from the App Store or Google Play and start your language learning journey.",
+  "questions": [
+   {
+    "id": "r046q1",
+    "question": "How many languages does LinguaFlow offer?",
+    "choices": [
+     "10",
+     "20",
+     "30",
+     "40"
+    ]
+   },
+   {
+    "id": "r046q2",
+    "question": "How long are the daily lessons?",
+    "choices": [
+     "5 minutes",
+     "10-15 minutes",
+     "30 minutes",
+     "1 hour"
+    ]
+   },
+   {
+    "id": "r046q3",
+    "question": "What is included in the premium subscription?",
+    "choices": [
+     "Only offline access",
+     "Live conversation practice with native speakers",
+     "A certificate of completion",
+     "In-person classes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r047",
+  "passage": "To: j.martinez@brightline.com\nFrom: registration@techforward-conf.com\nSubject: Your Registration is Confirmed – TechForward Conference 2025\n\nDear Ms. Martinez,\n\nThank you for registering for the TechForward Conference 2025, taking place November 12-13 at the Riverside Convention Center. Your registration type is \"Full Access Pass,\" which includes entry to all keynote sessions, workshops, and the networking dinner on November 12.\n\nPlease note that workshop seats are limited and assigned on a first-come, first-served basis. We recommend arriving at least 30 minutes before your chosen workshop begins. Your badge and welcome kit can be collected at the registration desk starting at 8:00 AM on the first day.\n\nIf you need to make any changes to your registration, please contact us by November 5th. Changes requested after this date cannot be guaranteed.\n\nWe look forward to seeing you in November.\n\nBest regards,\nTechForward Conference Team",
+  "questions": [
+   {
+    "id": "r047q1",
+    "question": "What does Ms. Martinez's registration include?",
+    "choices": [
+     "Only the keynote sessions",
+     "Access to all sessions and the networking dinner",
+     "A workshop seat guarantee",
+     "Travel to the convention center"
+    ]
+   },
+   {
+    "id": "r047q2",
+    "question": "What is suggested about workshop seats?",
+    "choices": [
+     "They are reserved in advance for all attendees",
+     "They are unlimited",
+     "They should be claimed early by arriving before the session",
+     "They require an extra fee"
+    ]
+   },
+   {
+    "id": "r047q3",
+    "question": "What should Ms. Martinez do if she wants to change her registration?",
+    "choices": [
+     "Wait until the conference starts",
+     "Contact the team by November 5th",
+     "Cancel and re-register",
+     "Email the workshop instructor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r048",
+  "passage": "To: All Employees\nFrom: Office of the CEO\nSubject: Merger with Delridge Solutions\n\nI am writing to inform you that our company will officially merge with Delridge Solutions effective January 1st. This merger will allow us to expand our service offerings and enter new markets more effectively.\n\nIn the coming weeks, representatives from both companies will hold joint meetings to discuss integration plans, including how our teams will be combined and how existing projects will continue. No employee will lose their job as a direct result of this merger.\n\nYour department managers will schedule individual meetings with each team over the next two weeks to answer specific questions. In the meantime, please continue your regular duties as usual.\n\nWe believe this merger represents an exciting new chapter for our company, and we appreciate your patience during this transition.",
+  "questions": [
+   {
+    "id": "r048q1",
+    "question": "What is the purpose of the memo?",
+    "choices": [
+     "To announce a merger with another company",
+     "To announce layoffs",
+     "To introduce a new CEO",
+     "To announce a new office location"
+    ]
+   },
+   {
+    "id": "r048q2",
+    "question": "What is stated about employee job security?",
+    "choices": [
+     "Some positions will be eliminated",
+     "No one will lose their job because of the merger",
+     "Only managers are affected",
+     "Job security was not discussed"
+    ]
+   },
+   {
+    "id": "r048q3",
+    "question": "What will department managers do in the next two weeks?",
+    "choices": [
+     "Announce salary changes",
+     "Hold individual team meetings",
+     "Relocate their offices",
+     "Interview new employees"
+    ]
+   }
+  ]
+ }
+]

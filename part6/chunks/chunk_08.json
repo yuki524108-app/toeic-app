@@ -1,0 +1,632 @@
+[
+ {
+  "id": "p706",
+  "passage": "Riverside General Hospital officially opened its new pediatric wing this week, featuring brightly decorated rooms, a dedicated play area, and state-of-the-art medical equipment designed specifically for young patients. Hospital administrators say the $15 million project was (1) entirely through private donations and community fundraising efforts over the past three years.\n\nThe new wing can accommodate up to 40 patients and includes private rooms for families to (2) with their children during extended stays. Hospital staff say the redesign was guided by feedback from (3) patients and their families about what would make hospital stays less stressful.\n\nThe hospital plans to (4) a similar renovation of its emergency department next year.",
+  "blanks": [
+   {
+    "id": "p706b1",
+    "choices": [
+     "fund",
+     "funded",
+     "funding",
+     "funds"
+    ]
+   },
+   {
+    "id": "p706b2",
+    "choices": [
+     "stay",
+     "stayed",
+     "staying",
+     "stays"
+    ]
+   },
+   {
+    "id": "p706b3",
+    "choices": [
+     "prior",
+     "priority",
+     "previously",
+     "preview"
+    ]
+   },
+   {
+    "id": "p706b4",
+    "choices": [
+     "undergo",
+     "undertake",
+     "underlie",
+     "undermine"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p707",
+  "passage": "Dear Employees,\n\nAs part of our ongoing efforts to protect company data, we are implementing a new password policy (1) next Monday. All employees will be required to update their passwords and enable two-factor authentication on their accounts.\n\nDetailed instructions will be (2) to your company email account this week. If you experience any (3) logging in after the change, please contact the IT help desk for support.\n\nThank you for your cooperation in helping us maintain a (4) work environment.",
+  "blanks": [
+   {
+    "id": "p707b1",
+    "choices": [
+     "effect",
+     "effective",
+     "effectively",
+     "effectiveness"
+    ]
+   },
+   {
+    "id": "p707b2",
+    "choices": [
+     "send",
+     "sent",
+     "sending",
+     "sends"
+    ]
+   },
+   {
+    "id": "p707b3",
+    "choices": [
+     "difficult",
+     "difficulty",
+     "difficulties",
+     "difficultly"
+    ]
+   },
+   {
+    "id": "p707b4",
+    "choices": [
+     "secure",
+     "security",
+     "securely",
+     "secured"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p708",
+  "passage": "The city's annual Food Truck Festival will (1) place this Saturday and Sunday in Riverside Park from 11 AM to 8 PM. More than 30 food trucks will be (2), offering a wide variety of cuisines from tacos to gourmet desserts.\n\nAdmission is free, though individual food items will be sold (3) by each vendor. Live music and family activities will also be featured throughout the weekend, making it a great event for visitors of all (4).",
+  "blanks": [
+   {
+    "id": "p708b1",
+    "choices": [
+     "take",
+     "taken",
+     "taking",
+     "takes"
+    ]
+   },
+   {
+    "id": "p708b2",
+    "choices": [
+     "present",
+     "presented",
+     "presenting",
+     "presence"
+    ]
+   },
+   {
+    "id": "p708b3",
+    "choices": [
+     "separate",
+     "separated",
+     "separately",
+     "separation"
+    ]
+   },
+   {
+    "id": "p708b4",
+    "choices": [
+     "age",
+     "aged",
+     "ages",
+     "aging"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p709",
+  "passage": "The city announced this week that free public Wi-Fi is now (1) in all downtown parks and along the main shopping district. The service, which took nearly a year to (2), is intended to support local businesses and improve access to online resources for residents without home internet.\n\nUsers can connect by selecting the \"CityConnect\" network and agreeing to the terms of service. Officials say usage data will be (3) anonymously to help plan future improvements, and they emphasized that the service will remain (4) of charge indefinitely.",
+  "blanks": [
+   {
+    "id": "p709b1",
+    "choices": [
+     "available",
+     "availability",
+     "avail",
+     "availed"
+    ]
+   },
+   {
+    "id": "p709b2",
+    "choices": [
+     "implement",
+     "implemented",
+     "implementing",
+     "implementation"
+    ]
+   },
+   {
+    "id": "p709b3",
+    "choices": [
+     "collect",
+     "collected",
+     "collecting",
+     "collection"
+    ]
+   },
+   {
+    "id": "p709b4",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "frees"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p710",
+  "passage": "Dear Loyalty Member,\n\nWe are updating our rewards program to give you even more ways to earn and redeem points, (1) next month. Points will now be earned not just on purchases, but also on product reviews and referrals.\n\nAll existing points in your account will (2) carry over automatically and will not expire under the new system, unlike the previous policy. We encourage you to log in to your account to (3) your updated point balance and explore new redemption options.\n\nAs always, thank you for your continued (4) to our brand.",
+  "blanks": [
+   {
+    "id": "p710b1",
+    "choices": [
+     "effect",
+     "effective",
+     "effectively",
+     "effecting"
+    ]
+   },
+   {
+    "id": "p710b2",
+    "choices": [
+     "automatic",
+     "automatically",
+     "automation",
+     "automate"
+    ]
+   },
+   {
+    "id": "p710b3",
+    "choices": [
+     "view",
+     "viewed",
+     "viewing",
+     "views"
+    ]
+   },
+   {
+    "id": "p710b4",
+    "choices": [
+     "loyal",
+     "loyalty",
+     "loyally",
+     "loyalist"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p711",
+  "passage": "Dear Employees,\n\nOpen enrollment for health insurance plans begins next Monday and will remain (1) for two weeks. During this period, you may review plan options and make changes to your current coverage.\n\nA virtual information session will be (2) this Wednesday at noon to answer common questions. Employees who do not make changes will automatically be (3) in their current plan for the coming year.\n\nPlease direct any questions to the benefits team (4) November 5.",
+  "blanks": [
+   {
+    "id": "p711b1",
+    "choices": [
+     "open",
+     "opened",
+     "opening",
+     "opens"
+    ]
+   },
+   {
+    "id": "p711b2",
+    "choices": [
+     "hold",
+     "held",
+     "holding",
+     "holds"
+    ]
+   },
+   {
+    "id": "p711b3",
+    "choices": [
+     "enroll",
+     "enrolled",
+     "enrolling",
+     "enrollment"
+    ]
+   },
+   {
+    "id": "p711b4",
+    "choices": [
+     "before",
+     "after",
+     "during",
+     "by"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p712",
+  "passage": "TechNova, a local software startup, announced this week that it has (1) $15 million in a new funding round led by two venture capital firms. The company plans to use the funds to (2) its engineering team and accelerate development of its flagship product.\n\nFounded just three years ago, TechNova has grown from a five-person team to over 60 employees. CEO Priya Nair said the investment is a (3) of the hard work the team has put in.\n\nThe company expects to (4) hiring across multiple departments in the coming months.",
+  "blanks": [
+   {
+    "id": "p712b1",
+    "choices": [
+     "raise",
+     "raised",
+     "raising",
+     "raises"
+    ]
+   },
+   {
+    "id": "p712b2",
+    "choices": [
+     "expand",
+     "expanded",
+     "expanding",
+     "expansion"
+    ]
+   },
+   {
+    "id": "p712b3",
+    "choices": [
+     "reflect",
+     "reflected",
+     "reflection",
+     "reflective"
+    ]
+   },
+   {
+    "id": "p712b4",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p713",
+  "passage": "To All Staff,\n\nAs part of our annual records update, please take a moment to (1) your emergency contact information in the HR system. It's important that this information is (2) in case of an urgent situation.\n\nTo update your details, log in to the employee portal and navigate to the \"Personal Information\" tab. This should take no (3) than five minutes to complete.\n\nPlease complete this task by the end of the month if you haven't already (4) so.",
+  "blanks": [
+   {
+    "id": "p713b1",
+    "choices": [
+     "verify",
+     "verified",
+     "verifying",
+     "verification"
+    ]
+   },
+   {
+    "id": "p713b2",
+    "choices": [
+     "accurate",
+     "accurately",
+     "accuracy",
+     "accurateness"
+    ]
+   },
+   {
+    "id": "p713b3",
+    "choices": [
+     "long",
+     "longer",
+     "longest",
+     "length"
+    ]
+   },
+   {
+    "id": "p713b4",
+    "choices": [
+     "do",
+     "did",
+     "done",
+     "doing"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p714",
+  "passage": "TutorConnect makes it easy to find a qualified tutor (1) any subject, from elementary math to advanced calculus. Our platform matches students with tutors based on learning style, schedule, and academic goals.\n\nAll tutors undergo a background check and must hold a relevant degree or (2) certification. Sessions can be booked in as little as 15-minute increments, and the first session comes with a satisfaction (3).\n\nSign up today and get your first hour of tutoring (4) charge.",
+  "blanks": [
+   {
+    "id": "p714b1",
+    "choices": [
+     "for",
+     "with",
+     "in",
+     "at"
+    ]
+   },
+   {
+    "id": "p714b2",
+    "choices": [
+     "teach",
+     "teaching",
+     "taught",
+     "teacher"
+    ]
+   },
+   {
+    "id": "p714b3",
+    "choices": [
+     "guarantee",
+     "guaranteed",
+     "guaranteeing",
+     "guarantees"
+    ]
+   },
+   {
+    "id": "p714b4",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "frees"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p715",
+  "passage": "Dear Colleagues,\n\nAs part of our efforts to improve workplace culture, we are (1) a brief survey about employee satisfaction. Your honest feedback will directly (2) decisions about future initiatives.\n\nThe survey takes approximately five minutes to (3) and all responses will remain completely anonymous. We ask that everyone submit their responses (4) this Friday.\n\nThank you in advance for your participation.",
+  "blanks": [
+   {
+    "id": "p715b1",
+    "choices": [
+     "conduct",
+     "conducted",
+     "conducting",
+     "conducts"
+    ]
+   },
+   {
+    "id": "p715b2",
+    "choices": [
+     "influence",
+     "influenced",
+     "influencing",
+     "influential"
+    ]
+   },
+   {
+    "id": "p715b3",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   },
+   {
+    "id": "p715b4",
+    "choices": [
+     "before",
+     "until",
+     "by",
+     "since"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p716",
+  "passage": "Lakeview Medical Center has (1) a new $2 million imaging system, allowing doctors to detect certain conditions earlier and with greater accuracy. The equipment, which took several months to (2), is the first of its kind in the region.\n\nHospital administrators say the investment reflects their (3) commitment to providing high-quality care to the community. Patients requiring imaging services can now expect (4) wait times as a result of the upgrade.",
+  "blanks": [
+   {
+    "id": "p716b1",
+    "choices": [
+     "install",
+     "installed",
+     "installing",
+     "installation"
+    ]
+   },
+   {
+    "id": "p716b2",
+    "choices": [
+     "install",
+     "installed",
+     "installing",
+     "installation"
+    ]
+   },
+   {
+    "id": "p716b3",
+    "choices": [
+     "continue",
+     "continued",
+     "continuing",
+     "continuous"
+    ]
+   },
+   {
+    "id": "p716b4",
+    "choices": [
+     "short",
+     "shorter",
+     "shortest",
+     "shortness"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p717",
+  "passage": "We are looking for volunteers to help build homes with Habitat for Humanity next month as part of our community outreach program. No construction (1) is necessary, as experienced supervisors will guide all volunteers through each task.\n\nParticipants should wear closed-toe shoes and clothing that can get (2). Lunch and refreshments will be (3) throughout the day.\n\nSpace is limited to 25 volunteers, so please sign up (4) if you're interested in joining.",
+  "blanks": [
+   {
+    "id": "p717b1",
+    "choices": [
+     "experience",
+     "experienced",
+     "experiencing",
+     "experiential"
+    ]
+   },
+   {
+    "id": "p717b2",
+    "choices": [
+     "dirty",
+     "dirtied",
+     "dirtying",
+     "dirtiness"
+    ]
+   },
+   {
+    "id": "p717b3",
+    "choices": [
+     "provide",
+     "provided",
+     "providing",
+     "provision"
+    ]
+   },
+   {
+    "id": "p717b4",
+    "choices": [
+     "early",
+     "earlier",
+     "earliest",
+     "earliness"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p718",
+  "passage": "Dear Staff,\n\nWe are pleased to announce the launch of ExpenseEase, a new mobile app that will (1) the process of submitting expense reports. With this app, receipts can be photographed and uploaded (2) directly from your phone.\n\nThe app also automatically (3) expenses into the correct budget category, saving time for both employees and the finance team. Training materials will be (4) to all staff by email this week.",
+  "blanks": [
+   {
+    "id": "p718b1",
+    "choices": [
+     "simplify",
+     "simplified",
+     "simplifying",
+     "simplification"
+    ]
+   },
+   {
+    "id": "p718b2",
+    "choices": [
+     "instant",
+     "instantly",
+     "instance",
+     "instantaneous"
+    ]
+   },
+   {
+    "id": "p718b3",
+    "choices": [
+     "sort",
+     "sorted",
+     "sorting",
+     "sorts"
+    ]
+   },
+   {
+    "id": "p718b4",
+    "choices": [
+     "send",
+     "sent",
+     "sending",
+     "sends"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p719",
+  "passage": "After a six-month renovation, the Central City municipal pool reopened to the public this weekend, featuring a new heating system, updated locker rooms, and an expanded lap-swimming area. The $3.5 million project was (1) funded through a combination of city funds and a state recreation grant.\n\nCity officials say the improvements will (2) the pool to remain open year-round for the first time, rather than closing during the winter months as it had in previous years. Swimming lessons and water aerobics classes will (3) at the facility starting next week.\n\nResidents have (4) the reopening, with many expressing excitement about the extended hours.",
+  "blanks": [
+   {
+    "id": "p719b1",
+    "choices": [
+     "complete",
+     "completely",
+     "completion",
+     "completing"
+    ]
+   },
+   {
+    "id": "p719b2",
+    "choices": [
+     "allow",
+     "allowed",
+     "allowing",
+     "allows"
+    ]
+   },
+   {
+    "id": "p719b3",
+    "choices": [
+     "resume",
+     "resumed",
+     "resuming",
+     "resumes"
+    ]
+   },
+   {
+    "id": "p719b4",
+    "choices": [
+     "welcome",
+     "welcomed",
+     "welcoming",
+     "welcomes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p720",
+  "passage": "We are excited to introduce a new career counseling service, available to all employees who would like guidance on professional development within the company. Sessions will be (1) by trained career coaches and can cover topics such as skill development, internal job transfers, and long-term career planning.\n\nAppointments can be (2) through the HR portal and typically last 45 minutes. This service is completely confidential and (3) of charge for all employees.\n\nWe encourage anyone interested in growing their career here to take (4) of this new resource.",
+  "blanks": [
+   {
+    "id": "p720b1",
+    "choices": [
+     "conduct",
+     "conducted",
+     "conducting",
+     "conducts"
+    ]
+   },
+   {
+    "id": "p720b2",
+    "choices": [
+     "schedule",
+     "scheduled",
+     "scheduling",
+     "schedules"
+    ]
+   },
+   {
+    "id": "p720b3",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "frees"
+    ]
+   },
+   {
+    "id": "p720b4",
+    "choices": [
+     "advantage",
+     "advantages",
+     "advantaged",
+     "advantageous"
+    ]
+   }
+  ]
+ }
+]

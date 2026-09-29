@@ -1,0 +1,458 @@
+[
+ {
+  "id": "r089",
+  "passage": "Dear Customer,\n\nYour subscription to DataSync Pro (Business Tier, $89/month) is scheduled to renew automatically on November 3rd. This plan includes unlimited cloud storage, priority customer support, and access for up to 10 team members.\n\nIf you would like to make changes to your plan before the renewal date, please log in to your account and visit the \"Subscription\" tab. Downgrades take effect at the start of the next billing cycle, while upgrades take effect immediately.\n\nPlease note that switching to a lower tier may reduce your storage limit and the number of team member seats available. Any files exceeding the new storage limit will remain accessible but you will be unable to upload new files until space is freed.\n\nIf you have any questions, please contact our billing support team.",
+  "passage2": "To: billing@datasyncpro.com\nFrom: n.abara@brightlineconsulting.com\nSubject: Request to Downgrade Plan\n\nHello,\n\nOur team has shrunk from 10 members to 4 over the past few months, and we no longer need the Business Tier plan. I would like to downgrade to the Standard Tier ($39/month, up to 5 team members) starting with our next billing cycle.\n\nCould you confirm that this change will take effect on November 3rd, as described in your renewal notice? I also want to make sure our current files, which total about 150 GB, will not be affected, since I understand the Standard Tier has a lower storage limit.\n\nPlease let me know if any action is needed on our end before the change takes place.\n\nThank you,\nNadia Abara",
+  "questions": [
+   {
+    "id": "r089q1",
+    "question": "What is included in the Business Tier plan?",
+    "choices": [
+     "Storage for up to 5 members only",
+     "Unlimited cloud storage and access for up to 10 team members",
+     "A one-time setup fee",
+     "Free training sessions"
+    ]
+   },
+   {
+    "id": "r089q2",
+    "question": "When do downgrades take effect, according to the notice?",
+    "choices": [
+     "Immediately",
+     "At the start of the next billing cycle",
+     "After 30 days",
+     "Only at the end of the year"
+    ]
+   },
+   {
+    "id": "r089q3",
+    "question": "Why does Ms. Abara want to downgrade her plan?",
+    "choices": [
+     "The service quality has declined",
+     "Her team has shrunk from 10 to 4 members",
+     "The price increased",
+     "She found a cheaper competitor"
+    ]
+   },
+   {
+    "id": "r089q4",
+    "question": "What is Ms. Abara concerned about regarding her files?",
+    "choices": [
+     "They might be deleted permanently",
+     "They total 150 GB, which may exceed the new storage limit",
+     "They are not backed up",
+     "They cannot be shared with her team"
+    ]
+   },
+   {
+    "id": "r089q5",
+    "question": "Based on both documents, what will happen to Ms. Abara's files if they exceed the new storage limit?",
+    "choices": [
+     "They will be automatically deleted",
+     "They will remain accessible, but new uploads will be blocked until space is freed",
+     "They will be moved to a paid archive",
+     "Nothing will change"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r090",
+  "passage": "Position: HR Coordinator\nCompany: Wrenfield Manufacturing\n\nWrenfield Manufacturing is seeking an HR Coordinator to support our growing human resources team. Responsibilities include scheduling interviews, maintaining employee records, and assisting with onboarding for new hires.\n\nRequirements:\n- Associate's degree or equivalent experience\n- At least one year of administrative or HR-related experience\n- Strong organizational skills and attention to detail\n\nThis is a full-time, on-site position. Interviews will be conducted over two rounds: an initial phone screening followed by an in-person interview with the HR Manager. Interested applicants should submit a resume to hr@wrenfieldmfg.com by October 30th.",
+  "passage2": "To: hr@wrenfieldmfg.com\nFrom: s.dupont@quickmail.com\nSubject: RE: HR Coordinator – Interview Scheduling\n\nHello,\n\nThank you for inviting me to the initial phone screening for the HR Coordinator position. I am available any weekday morning next week, though I would prefer to avoid Wednesday, as I already have a prior commitment that day.\n\nIf the phone screening goes well, I understand there will be a second, in-person interview with the HR Manager. Could you let me know approximately how much time I should set aside for that stage, so I can plan my schedule accordingly?\n\nThank you for your flexibility, and I look forward to speaking with you soon.\n\nBest regards,\nSophie Dupont",
+  "questions": [
+   {
+    "id": "r090q1",
+    "question": "What is a requirement for the HR Coordinator position?",
+    "choices": [
+     "A bachelor's degree in HR only",
+     "At least one year of administrative or HR-related experience",
+     "Five years of management experience",
+     "Fluency in two languages"
+    ]
+   },
+   {
+    "id": "r090q2",
+    "question": "How many rounds of interviews will be conducted?",
+    "choices": [
+     "One",
+     "Two",
+     "Three",
+     "Four"
+    ]
+   },
+   {
+    "id": "r090q3",
+    "question": "When is Ms. Dupont NOT available for the phone screening?",
+    "choices": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Friday"
+    ]
+   },
+   {
+    "id": "r090q4",
+    "question": "What does Ms. Dupont ask about in her email?",
+    "choices": [
+     "The salary for the position",
+     "How much time to set aside for the in-person interview",
+     "Whether the position is still open",
+     "The dress code for interviews"
+    ]
+   },
+   {
+    "id": "r090q5",
+    "question": "Based on both documents, who will Ms. Dupont likely meet in her second interview?",
+    "choices": [
+     "A recruiting agency",
+     "The HR Manager",
+     "The company's CEO",
+     "A current HR Coordinator"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r091",
+  "passage": "From: reservations@skywardair.com\nTo: t.okonkwo@fastmail.com\nSubject: Booking Confirmation – Flight SW 4471\n\nDear Mr. Okonkwo,\n\nThis confirms your booking for Flight SW 4471, departing December 3rd at 8:45 AM from Terminal 2. Your seat assignment is 14C (aisle seat, economy class).\n\nPlease arrive at least two hours before departure for domestic flights. Check-in counters close 45 minutes before departure.\n\nSeat changes can be requested online through your booking reference, subject to availability, up until 24 hours before departure. Changes made within 24 hours of departure must be handled at the airport check-in counter.\n\nThank you for choosing Skyward Air.",
+  "passage2": "To: reservations@skywardair.com\nFrom: t.okonkwo@fastmail.com\nSubject: RE: Booking Confirmation – Flight SW 4471\n\nHello,\n\nI would like to request a change to my seat assignment for Flight SW 4471 on December 3rd. I am currently assigned seat 14C, but I would prefer a window seat if one is available, ideally toward the front of the cabin.\n\nI understand this flight departs in two days, so I wanted to check whether I can still make this change online, or whether I will need to handle it at the airport.\n\nPlease let me know what options are available.\n\nThank you,\nTobi Okonkwo",
+  "questions": [
+   {
+    "id": "r091q1",
+    "question": "What is Mr. Okonkwo's current seat assignment?",
+    "choices": [
+     "12A",
+     "14C",
+     "20F",
+     "8B"
+    ]
+   },
+   {
+    "id": "r091q2",
+    "question": "When do check-in counters close, according to the confirmation?",
+    "choices": [
+     "2 hours before departure",
+     "45 minutes before departure",
+     "At departure time",
+     "1 hour after arrival"
+    ]
+   },
+   {
+    "id": "r091q3",
+    "question": "What type of seat does Mr. Okonkwo want instead?",
+    "choices": [
+     "An aisle seat",
+     "A window seat",
+     "An exit row seat",
+     "A middle seat"
+    ]
+   },
+   {
+    "id": "r091q4",
+    "question": "What is Mr. Okonkwo unsure about?",
+    "choices": [
+     "Whether his flight is on time",
+     "Whether he can still change his seat online",
+     "Whether he needs a visa",
+     "Whether his flight has been cancelled"
+    ]
+   },
+   {
+    "id": "r091q5",
+    "question": "Based on both documents, how will Mr. Okonkwo likely need to change his seat?",
+    "choices": [
+     "Online, since his flight is more than 24 hours away",
+     "At the airport check-in counter, since his flight is within 24 hours",
+     "By calling customer service only",
+     "He cannot change his seat at all"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r092",
+  "passage": "PeakForm Fitness – Membership Plans\n\nBasic ($29/month): Access to gym floor and cardio equipment during standard hours (6 AM - 10 PM).\n\nPremium ($49/month): All Basic benefits, plus 24-hour access, unlimited group fitness classes, and use of the sauna and pool.\n\nAll memberships require a minimum 3-month commitment. Members who need to pause their membership due to travel, injury, or other circumstances may request a freeze for up to 2 months per year at no additional cost. Freeze requests must be submitted at least 5 business days in advance.\n\nCancellations after the minimum commitment period require 30 days' written notice.",
+  "passage2": "To: membership@peakformfitness.com\nFrom: l.hassan@mailbox.com\nSubject: Question About Freezing My Membership\n\nHello,\n\nI am a Premium member and will be traveling for work for about six weeks starting December 1st. I would like to freeze my membership during this time, since I won't be able to use the gym.\n\nI just signed up two months ago, so I want to confirm whether I am still within the required commitment period or if that would affect my ability to freeze my account. I also want to make sure I submit my request with enough advance notice.\n\nPlease let me know what I need to do.\n\nThank you,\nLayla Hassan",
+  "questions": [
+   {
+    "id": "r092q1",
+    "question": "What is included in the Premium membership that is not included in Basic?",
+    "choices": [
+     "Access during standard hours only",
+     "24-hour access and use of the sauna and pool",
+     "A personal trainer",
+     "Free parking"
+    ]
+   },
+   {
+    "id": "r092q2",
+    "question": "How far in advance must freeze requests be submitted?",
+    "choices": [
+     "1 business day",
+     "5 business days",
+     "30 days",
+     "2 months"
+    ]
+   },
+   {
+    "id": "r092q3",
+    "question": "Why does Ms. Hassan want to freeze her membership?",
+    "choices": [
+     "She is cancelling permanently",
+     "She will be traveling for work for about six weeks",
+     "The gym is closing temporarily",
+     "She is switching to a different plan"
+    ]
+   },
+   {
+    "id": "r092q4",
+    "question": "How long has Ms. Hassan been a member?",
+    "choices": [
+     "Two weeks",
+     "Two months",
+     "Six months",
+     "One year"
+    ]
+   },
+   {
+    "id": "r092q5",
+    "question": "Based on both documents, is Ms. Hassan within the minimum commitment period?",
+    "choices": [
+     "Yes, since memberships require a minimum 3-month commitment and she has only been a member for 2 months",
+     "No, since the minimum commitment is only 1 month",
+     "It cannot be determined",
+     "The commitment period does not apply to freezes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r093",
+  "passage": "To: dr.patel@greenfieldresearch.com\nFrom: programs@futurebuild-summit.com\nSubject: Invitation to Speak at FutureBuild Summit 2026\n\nDear Dr. Patel,\n\nWe would be honored to have you speak at the FutureBuild Summit, taking place March 4-5 at the Cascade Convention Center. Based on your recent research in sustainable construction materials, we would like to invite you to give a 45-minute keynote presentation on the summit's opening day.\n\nWe are able to cover round-trip travel expenses and provide two nights of hotel accommodation for speakers. A modest speaking honorarium of $1,500 is also offered.\n\nPlease let us know by December 1st if you are able to accept this invitation, and if so, whether you have any specific requirements for your presentation.\n\nWe hope you will join us for this event.",
+  "passage2": "To: programs@futurebuild-summit.com\nFrom: dr.patel@greenfieldresearch.com\nSubject: RE: Invitation to Speak at FutureBuild Summit 2026\n\nDear Summit Team,\n\nThank you for the invitation. I am delighted to accept and will prepare a keynote presentation on recent developments in sustainable construction materials.\n\nSince I will be traveling from out of state, could you please arrange my flight to arrive the evening of March 3rd, so I have time to prepare before my presentation the next day? I will also need a projector and a microphone for my talk.\n\nPlease send me the necessary travel details once they are confirmed, and let me know if there is anything else you need from me before the event.\n\nThank you again for this opportunity.\n\nDr. Amara Patel",
+  "questions": [
+   {
+    "id": "r093q1",
+    "question": "How long is Dr. Patel's keynote presentation expected to be?",
+    "choices": [
+     "20 minutes",
+     "30 minutes",
+     "45 minutes",
+     "60 minutes"
+    ]
+   },
+   {
+    "id": "r093q2",
+    "question": "What does the invitation offer to speakers?",
+    "choices": [
+     "A cash prize only",
+     "Travel expenses, hotel accommodation, and an honorarium",
+     "A permanent research position",
+     "Free admission for colleagues"
+    ]
+   },
+   {
+    "id": "r093q3",
+    "question": "When does Dr. Patel want her flight to arrive?",
+    "choices": [
+     "The morning of March 4th",
+     "The evening of March 3rd",
+     "March 5th",
+     "The morning of March 3rd"
+    ]
+   },
+   {
+    "id": "r093q4",
+    "question": "What equipment does Dr. Patel request for her presentation?",
+    "choices": [
+     "A whiteboard and markers",
+     "A projector and a microphone",
+     "A translation service",
+     "Printed handouts for attendees"
+    ]
+   },
+   {
+    "id": "r093q5",
+    "question": "Based on both documents, why does Dr. Patel want to arrive a day before the summit begins?",
+    "choices": [
+     "To attend a separate meeting",
+     "To have time to prepare before her presentation",
+     "Because there are no flights on March 4th",
+     "To meet other speakers socially"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r094",
+  "passage": "Dear Customer,\n\nThank you for your recent order of the Everline Adjustable Bookshelf (Order #77291). Unfortunately, this item is currently on backorder due to unexpectedly high demand.\n\nWe expect new inventory to arrive at our warehouse within 3-4 weeks, at which point your order will be shipped immediately. You will not be charged until your item ships.\n\nIf you would prefer not to wait, you may cancel your order for a full refund, or choose a similar in-stock item from our website at no additional cost if the price is equal or lower.\n\nWe apologize for the inconvenience and appreciate your patience.",
+  "passage2": "To: support@homelinefurniture.com\nFrom: g.ivanov@mailbox.com\nSubject: RE: Order #77291 – Backorder Question\n\nHello,\n\nThank you for letting me know about the delay with my order. I understand these things happen, but I do have a question: is the 3-4 week estimate firm, or could it potentially take longer?\n\nI'm asking because I'm moving into a new apartment on the 15th of next month and was hoping to have the bookshelf by then. If there's a chance it won't arrive in time, I would consider switching to a similar in-stock item instead, as mentioned in your email.\n\nCould you let me know if there are any comparable in-stock options available?\n\nThank you,\nGrigor Ivanov",
+  "questions": [
+   {
+    "id": "r094q1",
+    "question": "Why is the bookshelf on backorder?",
+    "choices": [
+     "It has been discontinued",
+     "Due to unexpectedly high demand",
+     "It failed a quality inspection",
+     "The manufacturer went out of business"
+    ]
+   },
+   {
+    "id": "r094q2",
+    "question": "When will the customer be charged for the order?",
+    "choices": [
+     "Immediately",
+     "Only when the item ships",
+     "After 3-4 weeks regardless of shipping",
+     "They will not be charged at all"
+    ]
+   },
+   {
+    "id": "r094q3",
+    "question": "Why is Mr. Ivanov concerned about the delay?",
+    "choices": [
+     "He no longer wants the item",
+     "He is moving into a new apartment and hoped to have it by a certain date",
+     "He found a cheaper item elsewhere",
+     "He is unhappy with customer service"
+    ]
+   },
+   {
+    "id": "r094q4",
+    "question": "What alternative does Mr. Ivanov consider?",
+    "choices": [
+     "Cancelling the order for a refund",
+     "Switching to a similar in-stock item",
+     "Requesting expedited shipping",
+     "Asking for a discount"
+    ]
+   },
+   {
+    "id": "r094q5",
+    "question": "Based on both documents, what option did the original notice offer that Mr. Ivanov is now asking to use?",
+    "choices": [
+     "A full refund with no replacement",
+     "Choosing a similar in-stock item at no additional cost if the price is equal or lower",
+     "A discount on his next order",
+     "Free expedited shipping"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r095",
+  "passage": "To: All Employees\nFrom: Human Resources\nSubject: Annual Benefits Enrollment Period Now Open\n\nThe annual benefits enrollment period is now open and will remain open until November 15th. During this time, you may enroll in or make changes to your health insurance, dental coverage, and retirement savings plan.\n\nTo add a spouse or dependent to your health insurance plan, you will need to submit proof of relationship, such as a marriage certificate or birth certificate, along with your enrollment form.\n\nChanges made during this period will take effect on January 1st of next year. Outside of this enrollment window, changes can only be made if you experience a qualifying life event, such as marriage or the birth of a child.\n\nPlease contact HR with any questions.",
+  "passage2": "To: hr@northfieldco.com\nFrom: j.beaumont@northfieldco.com\nSubject: Question About Adding My Spouse to My Plan\n\nHello,\n\nI would like to add my spouse to my health insurance plan during this enrollment period. We got married last month, and I have our marriage certificate ready to submit.\n\nI have two questions: first, do I need to submit the marriage certificate along with my enrollment form by November 15th, or is there a separate deadline? Second, since we got married last month, would this count as a qualifying life event that lets me make this change outside the enrollment period as well, or should I just proceed with enrolling now?\n\nThank you for your help.\n\nJames Beaumont",
+  "questions": [
+   {
+    "id": "r095q1",
+    "question": "What is required to add a spouse to the health insurance plan?",
+    "choices": [
+     "A letter from a manager",
+     "Proof of relationship, such as a marriage certificate",
+     "A medical exam",
+     "A separate insurance application fee"
+    ]
+   },
+   {
+    "id": "r095q2",
+    "question": "When will changes made during the enrollment period take effect?",
+    "choices": [
+     "Immediately",
+     "January 1st of next year",
+     "At the end of the current month",
+     "Only after HR approval, with no specific date"
+    ]
+   },
+   {
+    "id": "r095q3",
+    "question": "What does Mr. Beaumont have ready to submit?",
+    "choices": [
+     "A birth certificate",
+     "A marriage certificate",
+     "A tax return",
+     "A doctor's note"
+    ]
+   },
+   {
+    "id": "r095q4",
+    "question": "What is one of Mr. Beaumont's questions?",
+    "choices": [
+     "Whether he can add a second dependent",
+     "Whether his marriage counts as a qualifying life event",
+     "How much the insurance costs",
+     "Whether HR received his email"
+    ]
+   },
+   {
+    "id": "r095q5",
+    "question": "Based on both documents, does Mr. Beaumont need to wait for a qualifying life event to make this change?",
+    "choices": [
+     "Yes, marriage is not covered during open enrollment",
+     "No, since the enrollment period is currently open, he can make the change now regardless",
+     "Only if HR approves his marriage certificate first",
+     "He must wait until January 1st to submit anything"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r096",
+  "passage": "To: r.okafor@freelancewriter.com\nFrom: content@brightlinemedia.com\nSubject: Freelance Writing Project Proposal\n\nDear Mr. Okafor,\n\nWe came across your portfolio and would like to propose a freelance project. We need eight articles (800-1,000 words each) on topics related to sustainable business practices, to be delivered over the course of one month.\n\nOur standard rate for freelance contributors is $0.15 per word, which would total approximately $960-$1,200 for this project, paid within 30 days of final delivery.\n\nPlease let us know if you are interested and available to take on this project. If so, we can send over a formal contract with the full details.\n\nLooking forward to hearing from you.",
+  "passage2": "To: content@brightlinemedia.com\nFrom: r.okafor@freelancewriter.com\nSubject: RE: Freelance Writing Project Proposal\n\nDear Team,\n\nThank you for reaching out. I'm very interested in this project, as sustainable business practices is a topic I write about frequently.\n\nHowever, my standard rate is $0.20 per word, which is a bit higher than what you proposed. Given the specialized nature of this topic and the research it requires, I would like to ask if this rate would be possible. If budget is a concern, I would also be open to reducing the article count from eight to six at my proposed rate, which would keep the total cost similar to your original budget.\n\nPlease let me know your thoughts, and I look forward to working together.\n\nBest,\nRenn Okafor",
+  "questions": [
+   {
+    "id": "r096q1",
+    "question": "How many articles does Brightline Media need?",
+    "choices": [
+     "Four",
+     "Six",
+     "Eight",
+     "Ten"
+    ]
+   },
+   {
+    "id": "r096q2",
+    "question": "What is Brightline Media's standard rate per word?",
+    "choices": [
+     "$0.10",
+     "$0.15",
+     "$0.20",
+     "$0.25"
+    ]
+   },
+   {
+    "id": "r096q3",
+    "question": "What is Mr. Okafor's standard rate?",
+    "choices": [
+     "$0.10 per word",
+     "$0.15 per word",
+     "$0.20 per word",
+     "$0.30 per word"
+    ]
+   },
+   {
+    "id": "r096q4",
+    "question": "What alternative does Mr. Okafor propose?",
+    "choices": [
+     "Writing longer articles for the same total price",
+     "Reducing the article count to six at his proposed rate",
+     "Accepting the original offer without changes",
+     "Delaying the project by one month"
+    ]
+   },
+   {
+    "id": "r096q5",
+    "question": "Based on both documents, why does Mr. Okafor suggest reducing the article count?",
+    "choices": [
+     "He does not have enough time",
+     "It would keep the total cost similar to the original budget",
+     "He believes six articles are sufficient for the topic",
+     "Brightline Media requested fewer articles"
+    ]
+   }
+  ]
+ }
+]

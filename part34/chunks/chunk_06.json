@@ -1,0 +1,430 @@
+[
+ {
+  "id": "l34-c23n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The event ended well, but we still have the catering company's serving trays here. Should we return them today?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let's check the contract — I think they said they'd pick everything up themselves within forty-eight hours."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's right, I found the note. We just need to leave the trays stacked near the loading dock."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good, I'll let building security know so they can let the driver in when he arrives."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c23n-q1",
+    "question": "What are the man and woman discussing?",
+    "choices": [
+     "Ordering more food.",
+     "Returning catering equipment.",
+     "Paying an invoice.",
+     "Canceling a future event."
+    ]
+   },
+   {
+    "id": "l34-c23n-q2",
+    "question": "According to the contract, who will collect the trays?",
+    "choices": [
+     "The man will deliver them.",
+     "The catering company will pick them up.",
+     "A courier service will collect them.",
+     "The woman will mail them."
+    ]
+   },
+   {
+    "id": "l34-c23n-q3",
+    "question": "What will the woman do next?",
+    "choices": [
+     "Call the catering company.",
+     "Notify building security.",
+     "Wash the trays.",
+     "Write a review."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c24n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Have you tried the new seating app for the office move? You can see which desk is assigned to you."
+   },
+   {
+    "speaker": "Man",
+    "line": "Not yet. Is it easy to use?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Pretty simple — you just log in with your employee ID, and it shows a map of the new floor with your name on your desk."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's convenient. Does it also show where the meeting rooms and printers are?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, everything is labeled, including the kitchen and the supply closet."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c24n-q1",
+    "question": "What is the app used for?",
+    "choices": [
+     "Booking meeting rooms only.",
+     "Showing desk assignments for the office move.",
+     "Ordering office supplies.",
+     "Tracking work hours."
+    ]
+   },
+   {
+    "id": "l34-c24n-q2",
+    "question": "How do users log in?",
+    "choices": [
+     "With a company email.",
+     "With their employee ID.",
+     "With a QR code.",
+     "With a temporary password sent by IT."
+    ]
+   },
+   {
+    "id": "l34-c24n-q3",
+    "question": "What else does the app show?",
+    "choices": [
+     "Only desk locations.",
+     "Meeting rooms, printers, kitchen, and supply closet.",
+     "Parking spaces only.",
+     "Employee salaries."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c25n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Have you scheduled your annual health checkup yet? HR sent a reminder that it needs to be done by the end of next month."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Not yet. Do we go to the clinic downstairs, or can we choose our own doctor?"
+   },
+   {
+    "speaker": "Man",
+    "line": "You can choose your own clinic this year, as long as you submit the results form by the deadline."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's good to know. I'll book an appointment with my usual doctor this week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c25n-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A vacation schedule.",
+     "An annual health checkup.",
+     "A dentist appointment.",
+     "A gym membership."
+    ]
+   },
+   {
+    "id": "l34-c25n-q2",
+    "question": "By when must the checkup be completed?",
+    "choices": [
+     "By the end of this week.",
+     "By the end of next month.",
+     "By the end of the year.",
+     "There is no deadline."
+    ]
+   },
+   {
+    "id": "l34-c25n-q3",
+    "question": "What is different about this year's process?",
+    "choices": [
+     "It is now mandatory for the first time.",
+     "Employees can choose their own clinic.",
+     "It must be done at the office.",
+     "It is no longer covered by insurance."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c26n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I think I left my company phone in a taxi this morning. I've been trying to call it, but no one is answering."
+   },
+   {
+    "speaker": "Man",
+    "line": "You should report it to IT right away so they can remotely lock the device and protect any company data on it."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll do that now. Will I need a new phone today, or can it wait until tomorrow?"
+   },
+   {
+    "speaker": "Man",
+    "line": "IT usually has loaner phones available, so you can pick one up this afternoon while they process your replacement request."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c26n-q1",
+    "question": "What problem does the woman have?",
+    "choices": [
+     "Her phone screen is broken.",
+     "She lost her company phone.",
+     "Her phone was stolen from her desk.",
+     "Her phone won't turn on."
+    ]
+   },
+   {
+    "id": "l34-c26n-q2",
+    "question": "What does the man recommend doing first?",
+    "choices": [
+     "Buying a new phone personally.",
+     "Reporting it to IT to lock the device.",
+     "Calling the taxi company.",
+     "Waiting until tomorrow."
+    ]
+   },
+   {
+    "id": "l34-c26n-q3",
+    "question": "What can the woman get from IT this afternoon?",
+    "choices": [
+     "A refund.",
+     "A loaner phone.",
+     "A new laptop.",
+     "A replacement SIM card only."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c27n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Did you see the draft of the new company logo? Marketing shared it in this morning's meeting."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I did. I like the color scheme, but I think the font might be hard to read on smaller screens."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's a fair point. I'll bring it up when we give feedback tomorrow — they're collecting comments until Friday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good, because once it's finalized, it'll be used on everything from business cards to the website."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c27n-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A new product design.",
+     "A new company logo.",
+     "A website redesign.",
+     "A marketing budget."
+    ]
+   },
+   {
+    "id": "l34-c27n-q2",
+    "question": "What concern does the woman raise?",
+    "choices": [
+     "The colors are too bright.",
+     "The font may be hard to read on small screens.",
+     "The logo is too similar to a competitor's.",
+     "The logo is too expensive to produce."
+    ]
+   },
+   {
+    "id": "l34-c27n-q3",
+    "question": "Until when is feedback being collected?",
+    "choices": [
+     "Today.",
+     "Tomorrow.",
+     "Friday.",
+     "Next month."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c28n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hi, I placed an order online yesterday, but I just noticed I selected the wrong shipping address."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let me look that up. Since the order hasn't shipped yet, I should be able to update the address for you right now."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a relief. Could you also confirm the new estimated delivery date once it's updated?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Of course — with the corrected address, it looks like it will now arrive on Thursday instead of Wednesday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c28n-q1",
+    "question": "Why is the woman calling?",
+    "choices": [
+     "To cancel her order.",
+     "To fix a shipping address error.",
+     "To request a refund.",
+     "To ask about a discount code."
+    ]
+   },
+   {
+    "id": "l34-c28n-q2",
+    "question": "Why can the man make the change easily?",
+    "choices": [
+     "The order hasn't shipped yet.",
+     "The woman is a premium member.",
+     "The item is out of stock anyway.",
+     "The order was placed today."
+    ]
+   },
+   {
+    "id": "l34-c28n-q3",
+    "question": "What is the new estimated delivery date?",
+    "choices": [
+     "Tuesday.",
+     "Wednesday.",
+     "Thursday.",
+     "Friday."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c29n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "I noticed a new sign at the bike rack saying we need to register our bicycles now. Do you know why?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, there were a couple of bikes stolen last month, so building management wants a record of who parks there."
+   },
+   {
+    "speaker": "Man",
+    "line": "That makes sense. How do we register?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "You just need to fill out a short form at the security desk with your bike's color and serial number."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c29n-q1",
+    "question": "What changed at the bike rack?",
+    "choices": [
+     "It was moved to a new location.",
+     "Registration is now required.",
+     "It was removed entirely.",
+     "It now requires a fee."
+    ]
+   },
+   {
+    "id": "l34-c29n-q2",
+    "question": "Why was this change made?",
+    "choices": [
+     "To save space.",
+     "Because of recent bike thefts.",
+     "For a new company policy on parking fees.",
+     "Because of a building inspection."
+    ]
+   },
+   {
+    "id": "l34-c29n-q3",
+    "question": "How does one register a bicycle?",
+    "choices": [
+     "Online only.",
+     "By calling facilities.",
+     "By filling out a form at the security desk.",
+     "By emailing HR."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c30n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Could you send me the notes from yesterday's strategy meeting? I had to leave early and missed the second half."
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, I took pretty detailed notes. I'll clean them up and send them to you by this afternoon."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Thanks. Did the team decide on a launch date for the new campaign?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, they settled on the fifteenth of next month, but I'll include all the details in the notes."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c30n-q1",
+    "question": "What does the woman ask for?",
+    "choices": [
+     "A budget report.",
+     "Notes from a meeting.",
+     "A list of attendees.",
+     "A presentation file."
+    ]
+   },
+   {
+    "id": "l34-c30n-q2",
+    "question": "Why does the woman need the notes?",
+    "choices": [
+     "She wasn't invited to the meeting.",
+     "She left the meeting early.",
+     "The meeting was canceled.",
+     "She lost her own notes."
+    ]
+   },
+   {
+    "id": "l34-c30n-q3",
+    "question": "What did the team decide?",
+    "choices": [
+     "To cancel the campaign.",
+     "A launch date for the campaign.",
+     "A new marketing budget.",
+     "To postpone the meeting."
+    ]
+   }
+  ]
+ }
+]

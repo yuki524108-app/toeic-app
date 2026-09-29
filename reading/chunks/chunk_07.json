@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r049",
+  "passage": "Dear Amanda Cho,\n\nThank you for enrolling in \"Introduction to Data Analysis,\" starting October 3rd. This confirms your enrollment and provides important details about the course.\n\nThe course consists of six weekly modules, each requiring approximately three hours of study. All materials, including video lectures and reading assignments, will be available on our learning platform starting the first day of the course. A live Q&A session with the instructor is held every Friday at 4:00 PM (Eastern Time).\n\nTo receive a certificate of completion, you must complete all module quizzes with a score of 70% or higher and submit the final project by November 21st.\n\nIf you experience any technical issues accessing the platform, please contact our support team at support@skillbridge-learning.com.\n\nWe hope you enjoy the course.\n\nSkillBridge Learning Team",
+  "questions": [
+   {
+    "id": "r049q1",
+    "question": "How long does the course last?",
+    "choices": [
+     "Three weeks",
+     "Six weeks",
+     "Six months",
+     "One year"
+    ]
+   },
+   {
+    "id": "r049q2",
+    "question": "What is required to receive a certificate of completion?",
+    "choices": [
+     "Attending every live Q&A session",
+     "Paying an additional fee",
+     "Passing all quizzes and submitting the final project",
+     "Watching all video lectures twice"
+    ]
+   },
+   {
+    "id": "r049q3",
+    "question": "What should Ms. Cho do if she has trouble accessing the platform?",
+    "choices": [
+     "Wait for the next module",
+     "Contact the support team",
+     "Attend the Friday Q&A",
+     "Re-enroll in the course"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r050",
+  "passage": "Dear Valued Customer,\n\nWe are releasing an update to CloudTask, version 4.2, on September 15th. This update addresses several issues reported by users, including a bug that caused the app to close unexpectedly when syncing large files, and a display error affecting the calendar view.\n\nIn addition to these fixes, version 4.2 introduces a new feature that allows users to set recurring reminders for tasks. The update will be installed automatically for users who have enabled automatic updates. Others will need to download the update manually from the settings menu.\n\nPlease note that after the update, you may be asked to sign in again for security purposes. Your data will not be affected by this update.\n\nIf you notice any issues after updating, please reach out to our customer support team.\n\nThank you for using CloudTask.",
+  "questions": [
+   {
+    "id": "r050q1",
+    "question": "What is one issue that the update fixes?",
+    "choices": [
+     "Slow internet connection",
+     "The app closing unexpectedly during syncing",
+     "Incorrect billing information",
+     "Password reset failures"
+    ]
+   },
+   {
+    "id": "r050q2",
+    "question": "What new feature does version 4.2 include?",
+    "choices": [
+     "Dark mode",
+     "Recurring task reminders",
+     "Video calling",
+     "File sharing with external users"
+    ]
+   },
+   {
+    "id": "r050q3",
+    "question": "What might users need to do after the update is installed?",
+    "choices": [
+     "Pay a subscription fee",
+     "Sign in again",
+     "Uninstall the previous version",
+     "Contact their manager"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r051",
+  "passage": "Position: Graphic Designer\nCompany: Fernwood Creative Studio\nLocation: Portland, Oregon (Hybrid – 3 days in office)\n\nFernwood Creative Studio is seeking a talented Graphic Designer to join our growing team. The ideal candidate has at least two years of experience designing marketing materials, including brochures, social media graphics, and website layouts.\n\nResponsibilities include collaborating with our marketing team to develop visual content, maintaining brand consistency across all platforms, and presenting design concepts to clients when needed.\n\nRequirements:\n- Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)\n- A portfolio demonstrating a range of design styles\n- Strong communication skills\n\nThis is a full-time position with benefits, including health insurance and paid time off. Interested candidates should submit a resume and portfolio link to careers@fernwoodcreative.com by October 10th.",
+  "questions": [
+   {
+    "id": "r051q1",
+    "question": "How many days per week is the position in the office?",
+    "choices": [
+     "One",
+     "Two",
+     "Three",
+     "Five"
+    ]
+   },
+   {
+    "id": "r051q2",
+    "question": "What is a requirement for the position?",
+    "choices": [
+     "A degree in business administration",
+     "Proficiency in Adobe Creative Suite",
+     "Five years of management experience",
+     "Fluency in a second language"
+    ]
+   },
+   {
+    "id": "r051q3",
+    "question": "What should interested candidates submit?",
+    "choices": [
+     "A cover letter only",
+     "A resume and portfolio link",
+     "Three references",
+     "A completed design test"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r052",
+  "passage": "You Are Invited: Annual Charity Gala for Riverside Children's Hospital\n\nDate: Saturday, November 8th\nTime: 6:30 PM – 10:00 PM\nLocation: Grand Pavilion Hotel, Ballroom A\n\nJoin us for an elegant evening supporting Riverside Children's Hospital. The evening will include a three-course dinner, live music, and a silent auction featuring items donated by local businesses. All proceeds from ticket sales and the auction will go directly toward funding new pediatric equipment.\n\nTickets are $150 per person or $1,200 for a table of ten. Formal attire is requested. Free parking is available in the hotel's east garage; please show your ticket to the attendant.\n\nTo reserve your seat, please respond by October 25th at rsvp@riversidegala.org. We hope you will join us for this meaningful cause.",
+  "questions": [
+   {
+    "id": "r052q1",
+    "question": "What will the proceeds from the event be used for?",
+    "choices": [
+     "Building a new hotel wing",
+     "Funding pediatric equipment",
+     "Paying hospital staff salaries",
+     "Sponsoring a music festival"
+    ]
+   },
+   {
+    "id": "r052q2",
+    "question": "How much does a table for ten cost?",
+    "choices": [
+     "$150",
+     "$800",
+     "$1,200",
+     "$1,500"
+    ]
+   },
+   {
+    "id": "r052q3",
+    "question": "What is mentioned about parking?",
+    "choices": [
+     "It is not available",
+     "It costs an additional fee",
+     "Free parking is available with a ticket",
+     "Valet service is required"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r053",
+  "passage": "Notice to All Tenants: Building Maintenance Schedule\n\nThe management office would like to inform all tenants of scheduled maintenance work occurring over the next two weeks.\n\nWater Supply: The water supply to floors 3-7 will be shut off on Tuesday, October 14th, from 9:00 AM to 1:00 PM for pipe repairs. Tenants on these floors should store water in advance if needed.\n\nElevator Maintenance: Elevator B will be out of service from October 16th to October 18th for routine inspection. Elevator A will remain available during this time.\n\nHVAC System: The heating system will undergo annual servicing on October 20th. No disruption to building temperature is expected, but a technician may need brief access to some offices.\n\nWe apologize for any inconvenience and appreciate your cooperation. Questions can be directed to the building management office at extension 110.",
+  "questions": [
+   {
+    "id": "r053q1",
+    "question": "Why will the water be shut off on October 14th?",
+    "choices": [
+     "For a fire drill",
+     "For pipe repairs",
+     "For a tenant meeting",
+     "For a power outage"
+    ]
+   },
+   {
+    "id": "r053q2",
+    "question": "What is suggested about Elevator A during the maintenance period?",
+    "choices": [
+     "It will also be out of service",
+     "It will remain in use",
+     "It will be replaced",
+     "It will require a special key"
+    ]
+   },
+   {
+    "id": "r053q3",
+    "question": "What might happen during the HVAC servicing?",
+    "choices": [
+     "The building will be closed",
+     "A technician may need access to some offices",
+     "Tenants must leave the building",
+     "Heating will be turned off for a week"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r054",
+  "passage": "Dear Mr. Alvarez,\n\nThank you for bringing your recent experience with our delivery service to our attention. I sincerely apologize for the delay in receiving your order and for the damaged packaging you described.\n\nAfter reviewing your case, I can confirm that a replacement order has been shipped today with expedited delivery, at no additional cost to you. You should receive it within two business days.\n\nAdditionally, we have issued a 20% discount code, SORRY20, which can be applied to your next purchase as an apology for the inconvenience.\n\nWe take feedback like yours seriously, as it helps us improve our service. If you have any further concerns, please do not hesitate to contact me directly.\n\nSincerely,\nDiane Foster\nCustomer Relations Manager",
+  "questions": [
+   {
+    "id": "r054q1",
+    "question": "What two problems did Mr. Alvarez experience?",
+    "choices": [
+     "Wrong item and late payment",
+     "Delayed delivery and damaged packaging",
+     "Missing invoice and rude staff",
+     "Incorrect address and cancelled order"
+    ]
+   },
+   {
+    "id": "r054q2",
+    "question": "What has already been done to resolve the issue?",
+    "choices": [
+     "A refund was issued",
+     "A replacement order was shipped with expedited delivery",
+     "The order was cancelled",
+     "A manager will call Mr. Alvarez"
+    ]
+   },
+   {
+    "id": "r054q3",
+    "question": "What can Mr. Alvarez do with the code SORRY20?",
+    "choices": [
+     "Track his current order",
+     "Get a 20% discount on his next purchase",
+     "Contact customer service directly",
+     "Cancel his account"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r055",
+  "passage": "Greenfield Grocers is Opening a New Location!\n\nWe are excited to announce that our fourth location will open on Maple Avenue on November 1st. This new store will feature an expanded produce section, a full-service bakery, and a larger selection of organic products than our other locations.\n\nTo celebrate the grand opening, we will offer a 15% discount on all purchases during the first weekend (November 1-3). The first 100 customers each day will also receive a free reusable shopping bag.\n\nStore hours will be 7:00 AM to 10:00 PM, seven days a week. Free parking is available in the adjacent lot, with additional street parking nearby.\n\nWe look forward to serving the Maple Avenue community!",
+  "questions": [
+   {
+    "id": "r055q1",
+    "question": "What makes the new store different from other locations?",
+    "choices": [
+     "It is open 24 hours",
+     "It has an expanded produce section and larger organic selection",
+     "It only sells organic products",
+     "It does not accept credit cards"
+    ]
+   },
+   {
+    "id": "r055q2",
+    "question": "What will the first 100 customers each day receive?",
+    "choices": [
+     "A 15% discount coupon",
+     "A free reusable shopping bag",
+     "A gift card",
+     "Free delivery for a month"
+    ]
+   },
+   {
+    "id": "r055q3",
+    "question": "How can customers park at the new store?",
+    "choices": [
+     "Only in a paid garage",
+     "In an adjacent lot for free",
+     "By reservation only",
+     "Parking is not available"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r056",
+  "passage": "To: All Staff\nFrom: Human Resources\nSubject: New Employee Wellness Program\n\nWe are pleased to introduce a new wellness program designed to support your physical and mental well-being. Beginning next month, all full-time employees will have access to the following benefits:\n\n- A subsidized gym membership at any of our three partner fitness centers\n- Monthly wellness workshops on topics such as stress management and nutrition\n- Access to a confidential counseling service, available 24 hours a day\n\nTo enroll in the gym membership benefit, please complete the enrollment form available on the HR portal by the end of this month. The wellness workshops require no registration; simply attend the session listed on the company calendar.\n\nWe encourage everyone to take advantage of these new resources. Questions can be directed to the HR office.",
+  "questions": [
+   {
+    "id": "r056q1",
+    "question": "Who is eligible for the wellness program benefits?",
+    "choices": [
+     "Only managers",
+     "All full-time employees",
+     "New employees only",
+     "Employees with more than five years of service"
+    ]
+   },
+   {
+    "id": "r056q2",
+    "question": "What must employees do to use the gym membership benefit?",
+    "choices": [
+     "Pay the full cost upfront",
+     "Complete an enrollment form by the end of the month",
+     "Attend a wellness workshop first",
+     "Get approval from their manager"
+    ]
+   },
+   {
+    "id": "r056q3",
+    "question": "What is true about the wellness workshops?",
+    "choices": [
+     "They require advance registration",
+     "They cost an additional fee",
+     "They require no registration",
+     "They are only for managers"
+    ]
+   }
+  ]
+ }
+]

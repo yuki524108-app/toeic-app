@@ -1,0 +1,422 @@
+[
+ {
+  "id": "r105",
+  "passage": "To: All Exhibitors\nFrom: TradeConnect Expo Organizing Committee\nSubject: Exhibitor Information – TradeConnect Expo 2026\n\nThank you for registering as an exhibitor for this year's TradeConnect Expo, taking place November 14-15 at the Riverside Convention Center. Booth setup will be permitted starting at 7:00 AM on November 14th, with the expo floor opening to attendees at 9:00 AM.\n\nYour booth assignment is included in the attached floor plan. Please note that all electrical equipment must be registered with the organizing committee in advance for safety inspection.\n\nBooth teardown must be completed by 6:00 PM on November 15th. Any items left behind after this time may be discarded.",
+  "passage2": "TradeConnect Expo 2026 – Booth Assignments (Excerpt)\n\nBooth 12: Northfield Consulting\nBooth 13: Bramwell Financial Services\nBooth 14: Greenleaf Home & Garden\nBooth 15: Wrenfield Manufacturing\nBooth 16: Fernwood Creative Studio\n\nNote: Booths 12-16 are located near the main entrance, in a high-traffic area. Exhibitors in these booths are asked to complete setup by 8:00 AM, one hour earlier than the general 9:00 AM opening, since this section will be used for a photo opportunity with the expo organizers before doors open.",
+  "passage3": "To: Booth 12-16 Exhibitors\nFrom: TradeConnect Expo Organizing Committee\nSubject: Special Instructions for Main Entrance Booths\n\nDear Exhibitors,\n\nAs mentioned in the booth assignment sheet, your booths are located in the main entrance section, which will be featured in a photo opportunity before the expo floor opens.\n\nPlease ensure your booth is fully set up by 8:00 AM on November 14th, and have a staff member available near your booth at that time for the photo. Regular booth setup for other exhibitors will continue until 9:00 AM.\n\nIf you have any questions about this special arrangement, please contact the organizing committee.",
+  "questions": [
+   {
+    "id": "r105q1",
+    "question": "When does the expo floor open to attendees?",
+    "choices": [
+     "7:00 AM",
+     "8:00 AM",
+     "9:00 AM",
+     "6:00 PM"
+    ]
+   },
+   {
+    "id": "r105q2",
+    "question": "What must be registered with the organizing committee in advance?",
+    "choices": [
+     "Marketing materials",
+     "All electrical equipment",
+     "Staff badges",
+     "Parking permits"
+    ]
+   },
+   {
+    "id": "r105q3",
+    "question": "Which company is assigned to Booth 14?",
+    "choices": [
+     "Northfield Consulting",
+     "Bramwell Financial Services",
+     "Greenleaf Home & Garden",
+     "Wrenfield Manufacturing"
+    ]
+   },
+   {
+    "id": "r105q4",
+    "question": "Why must Booths 12-16 be set up earlier than other booths?",
+    "choices": [
+     "They require more equipment",
+     "A photo opportunity will take place before doors open",
+     "They are being inspected for safety",
+     "They are located far from the entrance"
+    ]
+   },
+   {
+    "id": "r105q5",
+    "question": "Based on all three documents, by what time must Wrenfield Manufacturing complete its booth setup?",
+    "choices": [
+     "7:00 AM",
+     "8:00 AM",
+     "9:00 AM",
+     "6:00 PM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r106",
+  "passage": "To: All Department Managers\nFrom: Employee Recognition Committee\nSubject: Nominations Open – Employee of the Year Award\n\nWe are now accepting nominations for this year's Employee of the Year award. Managers are encouraged to nominate employees who have demonstrated exceptional performance, leadership, or teamwork over the past year.\n\nPlease complete the attached nomination form, including specific examples of the nominee's contributions, and submit it by October 25th. Each manager may submit up to two nominations.\n\nWinners will be announced at the annual company dinner in December and will receive a $500 bonus along with public recognition.",
+  "passage2": "Employee of the Year Nomination Form\n\nNominee: Fatima Nasser\nDepartment: Customer Support\nNominated by: Manager, Customer Support Department\n\nReason for nomination: Fatima has consistently exceeded her monthly customer satisfaction targets and voluntarily mentored three new hires this year, helping them reach full productivity in half the usual time. She also redesigned our customer response templates, reducing average response time by 20%.\n\nSubmitted: October 20th",
+  "passage3": "To: All Employees\nFrom: Employee Recognition Committee\nSubject: Congratulations to Our Employee of the Year!\n\nWe are delighted to announce that Fatima Nasser from the Customer Support Department has been selected as this year's Employee of the Year, out of a strong pool of nominees.\n\nFatima will be recognized at the annual company dinner on December 12th and will receive a $500 bonus. We received nominations highlighting her mentorship of new hires and her contributions to improving our customer response process.\n\nCongratulations, Fatima, and thank you to everyone who submitted a nomination this year.",
+  "questions": [
+   {
+    "id": "r106q1",
+    "question": "By when must nomination forms be submitted?",
+    "choices": [
+     "October 20th",
+     "October 25th",
+     "December 12th",
+     "The end of the year"
+    ]
+   },
+   {
+    "id": "r106q2",
+    "question": "How many nominations may each manager submit?",
+    "choices": [
+     "One",
+     "Up to two",
+     "Up to five",
+     "As many as they like"
+    ]
+   },
+   {
+    "id": "r106q3",
+    "question": "What did Fatima Nasser do for new hires?",
+    "choices": [
+     "She hired them",
+     "She voluntarily mentored three new hires",
+     "She wrote their performance reviews",
+     "She trained them on a new software system"
+    ]
+   },
+   {
+    "id": "r106q4",
+    "question": "What improvement did Fatima Nasser make to customer response templates?",
+    "choices": [
+     "She translated them into other languages",
+     "She reduced average response time by 20%",
+     "She automated them completely",
+     "She removed them entirely"
+    ]
+   },
+   {
+    "id": "r106q5",
+    "question": "Based on all three documents, when and where will Fatima Nasser be formally recognized?",
+    "choices": [
+     "October 25th, in the customer support office",
+     "December 12th, at the annual company dinner",
+     "Immediately after the nomination was submitted",
+     "At a separate private ceremony"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r107",
+  "passage": "To: travel@northfieldco.com\nFrom: h.lindqvist@northfieldco.com\nSubject: Travel Arrangement Request – Chicago Conference\n\nHello,\n\nI need to arrange travel for the Midwest Business Conference in Chicago, taking place November 18-19. I will need a round-trip flight departing on the 17th and returning on the 20th, as well as hotel accommodation for three nights near the conference venue.\n\nPlease book according to our standard travel policy, and let me know the itinerary once everything is confirmed. I would also like an aisle seat if possible.\n\nThank you,\nHanna Lindqvist",
+  "passage2": "Travel Itinerary – Hanna Lindqvist\nTrip: Midwest Business Conference, Chicago\n\nOutbound Flight: November 17th, departs 8:15 AM, arrives 10:05 AM (Seat 22C, aisle)\nReturn Flight: November 20th, departs 6:30 PM, arrives 8:20 PM\n\nHotel: Lakeshore Business Hotel, November 17-20 (3 nights)\nRate: $175/night, total $525\n\nAll bookings comply with company travel policy. Please retain all receipts for expenses not covered by direct billing, including meals, for reimbursement purposes.",
+  "passage3": "To: travel@northfieldco.com\nFrom: h.lindqvist@northfieldco.com\nSubject: RE: Travel Arrangement Request – Chicago Conference\n\nHello,\n\nThank you for arranging my trip. I have a quick question about reimbursement: since the hotel is being billed directly to the company, do I still need to submit anything for that expense, or only for meals and other incidental costs during the trip?\n\nAlso, could you confirm the total number of nights the hotel booking covers, since my conference is only two days but I noticed the itinerary shows three nights?\n\nThank you for your help.\n\nHanna",
+  "questions": [
+   {
+    "id": "r107q1",
+    "question": "What dates does Ms. Lindqvist need her flight for?",
+    "choices": [
+     "November 18-19",
+     "November 17-20",
+     "November 14-16",
+     "November 20-22"
+    ]
+   },
+   {
+    "id": "r107q2",
+    "question": "What seat preference did Ms. Lindqvist request?",
+    "choices": [
+     "Window seat",
+     "Middle seat",
+     "Aisle seat",
+     "Exit row seat"
+    ]
+   },
+   {
+    "id": "r107q3",
+    "question": "How many nights does the hotel booking cover?",
+    "choices": [
+     "2 nights",
+     "3 nights",
+     "4 nights",
+     "5 nights"
+    ]
+   },
+   {
+    "id": "r107q4",
+    "question": "What does Ms. Lindqvist ask about regarding reimbursement?",
+    "choices": [
+     "Whether she needs to submit anything for the directly billed hotel",
+     "Whether her flight was booked correctly",
+     "Whether she can extend her trip",
+     "Whether she can change her seat"
+    ]
+   },
+   {
+    "id": "r107q5",
+    "question": "Based on all three documents, why does the hotel booking cover 3 nights even though the conference is only 2 days?",
+    "choices": [
+     "The hotel required a minimum 3-night stay",
+     "Her travel dates (November 17-20) span 3 nights due to her outbound and return flight times",
+     "She requested an extra day for sightseeing",
+     "It was a booking error"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r108",
+  "passage": "To: Sales and Distribution Teams\nFrom: Product Marketing\nSubject: Launch Schedule – Aurora Smart Thermostat\n\nThe Aurora Smart Thermostat will officially launch on December 1st. Please review the attached distributor communication for details on how retail partners should prepare.\n\nMarketing materials, including product samples and point-of-sale displays, will be shipped to all authorized retailers by November 20th. Please ensure your retail contacts are aware of the embargo date; no sales or public display of the product may occur before December 1st.\n\nQuestions about the launch timeline should be directed to the Product Marketing team.",
+  "passage2": "To: All Authorized Retail Partners\nFrom: Product Marketing, Northfield Co.\nSubject: Aurora Smart Thermostat – Launch Preparation\n\nDear Partner,\n\nWe are excited to announce the upcoming launch of the Aurora Smart Thermostat on December 1st. To prepare, please note the following:\n\n- Marketing materials and product samples will arrive at your location by November 20th\n- Products may be unboxed and inspected upon arrival, but must not be displayed publicly or sold before December 1st\n- Any violation of the embargo date may affect your standing as an authorized retailer\n\nIf you have questions about display setup, please contact your regional sales representative.",
+  "passage3": "To: sales-support@northfieldco.com\nFrom: purchasing@westgateelectronics.com\nSubject: Question About Aurora Thermostat Launch\n\nHello,\n\nWe received the notice about the Aurora Smart Thermostat launch and have a question. We received our shipment of samples on November 18th, earlier than expected, and want to make sure we understand the rules correctly.\n\nCan we set up our in-store display now, as long as we keep it covered until December 1st? Or does the embargo mean we cannot even begin display setup until that date?\n\nWe want to be fully compliant with your policy.\n\nThank you,\nWestgate Electronics",
+  "questions": [
+   {
+    "id": "r108q1",
+    "question": "When will the Aurora Smart Thermostat officially launch?",
+    "choices": [
+     "November 18th",
+     "November 20th",
+     "December 1st",
+     "December 20th"
+    ]
+   },
+   {
+    "id": "r108q2",
+    "question": "By when will marketing materials be shipped to retailers?",
+    "choices": [
+     "November 18th",
+     "November 20th",
+     "December 1st",
+     "December 15th"
+    ]
+   },
+   {
+    "id": "r108q3",
+    "question": "What is prohibited before the embargo date?",
+    "choices": [
+     "Unboxing the product",
+     "Public display or sale of the product",
+     "Contacting the sales representative",
+     "Placing future orders"
+    ]
+   },
+   {
+    "id": "r108q4",
+    "question": "What might happen if a retailer violates the embargo date?",
+    "choices": [
+     "A cash penalty",
+     "Their standing as an authorized retailer may be affected",
+     "The product will be recalled",
+     "Nothing will happen"
+    ]
+   },
+   {
+    "id": "r108q5",
+    "question": "Based on all three documents, is it acceptable for Westgate Electronics to set up a covered display before December 1st?",
+    "choices": [
+     "Yes, as long as it remains covered",
+     "No, since the policy prohibits any public display before the launch date, regardless of covering",
+     "Yes, but only after November 20th",
+     "It is unclear from the information given"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r109",
+  "passage": "To: All Employees\nFrom: Office of Operations\nSubject: Office Relocation Plan – New Headquarters\n\nWe are pleased to announce that our company will relocate to a new headquarters at 500 Commerce Plaza, beginning the move in phases starting December 1st. The move is expected to be completed by December 15th.\n\nThe new office will feature more collaborative workspace, updated conference rooms, and a larger break room. Employees will be assigned new desk locations based on department, as shown in the attached floor plan.\n\nPlease direct any questions about the move to the Operations team. A separate FAQ document will be distributed to address common concerns.",
+  "passage2": "500 Commerce Plaza – Floor Plan (3rd Floor)\n\nNorth Wing: Marketing and Sales departments\nEast Wing: Finance and Human Resources departments\nSouth Wing: Customer Support department\nWest Wing: IT and Product Development departments\n\nNote: The South Wing is closest to the elevators and the break room. All wings have access to the new collaborative workspace located in the center of the floor.",
+  "passage3": "Office Relocation – Frequently Asked Questions\n\nQ: Will I need to pack my own belongings?\nA: Yes, employees are responsible for packing personal items into provided moving boxes by November 28th. IT equipment will be handled separately by the IT department.\n\nQ: Which department is located closest to the break room?\nA: The Customer Support department, located in the South Wing, is closest to both the elevators and the break room.\n\nQ: Will parking be available at the new location?\nA: Yes, parking is available in the building's underground garage, with badge access required.",
+  "questions": [
+   {
+    "id": "r109q1",
+    "question": "When is the move expected to be completed?",
+    "choices": [
+     "November 28th",
+     "December 1st",
+     "December 15th",
+     "January 1st"
+    ]
+   },
+   {
+    "id": "r109q2",
+    "question": "Which department is located in the West Wing?",
+    "choices": [
+     "Marketing and Sales",
+     "Finance and Human Resources",
+     "Customer Support",
+     "IT and Product Development"
+    ]
+   },
+   {
+    "id": "r109q3",
+    "question": "By when must employees pack their personal items?",
+    "choices": [
+     "November 28th",
+     "December 1st",
+     "December 15th",
+     "The day of the move"
+    ]
+   },
+   {
+    "id": "r109q4",
+    "question": "Who handles IT equipment during the move?",
+    "choices": [
+     "Each employee individually",
+     "The IT department",
+     "An outside moving company",
+     "The Operations team"
+    ]
+   },
+   {
+    "id": "r109q5",
+    "question": "Based on all three documents, which department will be located closest to the break room?",
+    "choices": [
+     "Marketing and Sales",
+     "Finance and Human Resources",
+     "Customer Support",
+     "IT and Product Development"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r110",
+  "passage": "To: All Employees\nFrom: Human Resources\nSubject: Annual Health Check-Up – Schedule Your Appointment\n\nAs part of our employee wellness program, the annual health check-up will be conducted from November 10th to November 21st at the on-site clinic. All full-time employees are required to complete a basic check-up, which includes blood pressure, vision, and basic blood work.\n\nPlease use the online booking form to select an available time slot. Appointments typically take 30 minutes. Results will be sent directly to each employee within two weeks of their appointment.\n\nIf you have concerns about your results, you may schedule a follow-up consultation with the on-site nurse.",
+  "passage2": "To: k.iversen@northfieldco.com\nFrom: wellness@northfieldco.com\nSubject: Appointment Confirmed – Annual Health Check-Up\n\nDear Ms. Iversen,\n\nYour annual health check-up appointment has been confirmed for November 14th at 10:30 AM at the on-site clinic. Please arrive 10 minutes early and avoid eating for at least 2 hours before your appointment, as basic blood work will be conducted.\n\nYour results will be sent to you directly within two weeks of your appointment date. If you need to reschedule, please do so at least 24 hours in advance through the online booking system.\n\nThank you for participating in our wellness program.",
+  "passage3": "To: wellness@northfieldco.com\nFrom: k.iversen@northfieldco.com\nSubject: Question About My Health Check-Up Results\n\nHello,\n\nI had my annual health check-up on November 14th as scheduled, but it has now been three weeks and I have not yet received my results. Could you please check on the status of my results?\n\nAdditionally, if there happens to be anything unusual in my results, would I need to request a follow-up consultation myself, or would someone from the clinic contact me directly?\n\nThank you for your help.\n\nKari Iversen",
+  "questions": [
+   {
+    "id": "r110q1",
+    "question": "What does the basic check-up include?",
+    "choices": [
+     "Only vision testing",
+     "Blood pressure, vision, and basic blood work",
+     "A full-body MRI scan",
+     "Dental and vision only"
+    ]
+   },
+   {
+    "id": "r110q2",
+    "question": "How should employees book their appointment?",
+    "choices": [
+     "By calling HR",
+     "Using the online booking form",
+     "By visiting the clinic in person",
+     "Through their department manager"
+    ]
+   },
+   {
+    "id": "r110q3",
+    "question": "What should Ms. Iversen do before her appointment, according to the confirmation email?",
+    "choices": [
+     "Bring a copy of a previous test result",
+     "Avoid eating for at least 2 hours before the appointment",
+     "Fast for 24 hours",
+     "Bring a family member"
+    ]
+   },
+   {
+    "id": "r110q4",
+    "question": "Why is Ms. Iversen writing to the wellness team?",
+    "choices": [
+     "To reschedule her appointment",
+     "Because she has not received her results after three weeks",
+     "To cancel her participation in the program",
+     "To request a different clinic location"
+    ]
+   },
+   {
+    "id": "r110q5",
+    "question": "Based on all three documents, how much later than expected is Ms. Iversen's wait for results?",
+    "choices": [
+     "About the same as expected",
+     "About one week longer than the stated two-week timeframe",
+     "About one month longer",
+     "Results are never provided within a set timeframe"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r111",
+  "passage": "Bright Horizons Retail is seeking a full-time Customer Service Representative for our downtown location. Responsibilities include answering customer inquiries by phone and email, processing returns, and assisting the sales floor during busy periods.\n\nApplicants should have at least one year of customer service experience and strong communication skills. Experience with point-of-sale systems is preferred but not required. The position offers a starting salary of $18 per hour plus benefits after 90 days.\n\nInterested candidates should submit a resume and cover letter to hr@brighthorizons.com by June 15. Only shortlisted applicants will be contacted for an interview.",
+  "questions": [
+   {
+    "id": "r111q1",
+    "question": "What is one responsibility of the position?",
+    "choices": [
+     "Managing the warehouse",
+     "Processing returns",
+     "Hiring new staff",
+     "Designing advertisements"
+    ]
+   },
+   {
+    "id": "r111q2",
+    "question": "What experience is preferred but not required?",
+    "choices": [
+     "Retail management",
+     "Foreign language skills",
+     "Point-of-sale systems",
+     "Graphic design"
+    ]
+   },
+   {
+    "id": "r111q3",
+    "question": "How should applicants apply?",
+    "choices": [
+     "By calling the store",
+     "By visiting in person",
+     "By emailing a resume and cover letter",
+     "By submitting an online quiz"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r112",
+  "passage": "The Central City Library will be closed from July 3 to July 5 for essential maintenance work, including repairs to the heating and cooling system. All due dates for borrowed items during this period will automatically be extended by three days, so patrons do not need to worry about late fees.\n\nThe library's online catalog and e-book services will remain available throughout the closure. Patrons with urgent questions may contact the library by email, as phone lines will not be staffed during this time.\n\nWe apologize for any inconvenience and look forward to welcoming you back on July 6.",
+  "questions": [
+   {
+    "id": "r112q1",
+    "question": "Why is the library closing?",
+    "choices": [
+     "Staff training",
+     "Essential maintenance work",
+     "A public holiday",
+     "A book fair"
+    ]
+   },
+   {
+    "id": "r112q2",
+    "question": "What happens to due dates during the closure?",
+    "choices": [
+     "They are canceled",
+     "They are extended by three days",
+     "They remain unchanged",
+     "They are moved up"
+    ]
+   },
+   {
+    "id": "r112q3",
+    "question": "How can patrons contact the library during the closure?",
+    "choices": [
+     "By phone",
+     "By email",
+     "In person only",
+     "Through social media"
+    ]
+   }
+  ]
+ }
+]

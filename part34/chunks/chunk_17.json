@@ -1,0 +1,366 @@
+[
+ {
+  "id": "l34-t35z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention shoppers. Please note that starting next week, our store hours will change. We will now open at 9 AM instead of 8 AM on weekdays, but we will remain open an extra hour on weekends, closing at 9 PM instead of 8 PM. These changes are being made based on customer feedback about weekend shopping demand. Thank you for shopping with us, and we look forward to serving you under our new hours."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t35z-q1",
+    "question": "What is changing next week?",
+    "choices": [
+     "The store location",
+     "The store hours",
+     "The return policy",
+     "The store's name"
+    ]
+   },
+   {
+    "id": "l34-t35z-q2",
+    "question": "What time will the store now open on weekdays?",
+    "choices": [
+     "8 AM",
+     "9 AM",
+     "10 AM",
+     "7 AM"
+    ]
+   },
+   {
+    "id": "l34-t35z-q3",
+    "question": "Why is the store making this change?",
+    "choices": [
+     "To reduce costs",
+     "Based on customer feedback",
+     "Due to a new law",
+     "To match a competitor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t36z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Hi, this message is for Mr. Coleman. This is Grace from Riverside Dental confirming your appointment for a cleaning this Thursday at 2 PM. Please remember to arrive 10 minutes early to complete some paperwork. If you need to reschedule, please call our office before Wednesday at noon. We look forward to seeing you soon."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t36z-q1",
+    "question": "What is the purpose of the message?",
+    "choices": [
+     "To cancel an appointment",
+     "To confirm an appointment",
+     "To request payment",
+     "To offer a discount"
+    ]
+   },
+   {
+    "id": "l34-t36z-q2",
+    "question": "What is Mr. Coleman asked to do?",
+    "choices": [
+     "Bring a friend",
+     "Arrive 10 minutes early",
+     "Pay in advance",
+     "Bring his insurance card"
+    ]
+   },
+   {
+    "id": "l34-t36z-q3",
+    "question": "By when should he call to reschedule?",
+    "choices": [
+     "Wednesday at noon",
+     "Thursday morning",
+     "Friday at 5 PM",
+     "Any time before the appointment"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t37z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "All production staff, please be reminded that mandatory safety training will be held tomorrow morning at 8 AM in the main break room. Attendance is required for all employees working on the factory floor, regardless of shift. The training will cover updated procedures for operating the new packaging machines. Employees who miss the session must complete an online module by the end of the week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t37z-q1",
+    "question": "Who must attend the training?",
+    "choices": [
+     "Only new employees",
+     "All employees working on the factory floor",
+     "Only managers",
+     "Office staff only"
+    ]
+   },
+   {
+    "id": "l34-t37z-q2",
+    "question": "What will the training cover?",
+    "choices": [
+     "Customer service skills",
+     "Updated procedures for new packaging machines",
+     "Financial reporting",
+     "Marketing strategies"
+    ]
+   },
+   {
+    "id": "l34-t37z-q3",
+    "question": "What should employees who miss the session do?",
+    "choices": [
+     "Nothing, it's optional",
+     "Complete an online module by the end of the week",
+     "Wait for the next session",
+     "Ask a coworker for notes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t38z",
+  "script": [
+   {
+    "speaker": "Guide",
+    "line": "Welcome, everyone, to the history museum. Before we begin, please make sure your phones are on silent mode. Our tour will take approximately 90 minutes and will cover three main exhibit halls. Photography is allowed in most areas, but flash photography is prohibited near the ancient artifacts. If you have any questions during the tour, feel free to raise your hand at any time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t38z-q1",
+    "question": "How long will the tour last?",
+    "choices": [
+     "30 minutes",
+     "60 minutes",
+     "90 minutes",
+     "2 hours"
+    ]
+   },
+   {
+    "id": "l34-t38z-q2",
+    "question": "What is restricted near the ancient artifacts?",
+    "choices": [
+     "Talking",
+     "Flash photography",
+     "Eating",
+     "Touching the walls"
+    ]
+   },
+   {
+    "id": "l34-t38z-q3",
+    "question": "What should visitors do if they have questions?",
+    "choices": [
+     "Wait until the end",
+     "Raise their hand",
+     "Ask another visitor",
+     "Check the brochure"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t39z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "In local traffic news, construction on Highway 9 near the downtown exit will begin tonight and continue through the weekend. Drivers should expect lane closures between 10 PM and 5 AM each night. Commuters are advised to use the Route 12 bypass during these hours to avoid delays. The construction is part of a larger project to repair bridge supports and is expected to be completed by the end of next month."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t39z-q1",
+    "question": "What will begin tonight?",
+    "choices": [
+     "A bridge closure",
+     "Construction on Highway 9",
+     "A traffic accident investigation",
+     "A new bus route"
+    ]
+   },
+   {
+    "id": "l34-t39z-q2",
+    "question": "What is advised for commuters?",
+    "choices": [
+     "To avoid driving entirely",
+     "To use the Route 12 bypass",
+     "To leave earlier than usual",
+     "To take public transportation"
+    ]
+   },
+   {
+    "id": "l34-t39z-q3",
+    "question": "When is the project expected to be completed?",
+    "choices": [
+     "By tomorrow",
+     "By the end of the week",
+     "By the end of next month",
+     "In one year"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c76z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Have you seen the proposed floor plan for the office redesign?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I like the open layout, but I'm worried it will be too noisy for people who need to focus."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's a fair point. Maybe we should suggest adding a few quiet rooms."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good idea. I'll bring it up at tomorrow's planning meeting."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c76z-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A new hiring policy",
+     "A proposed office floor plan",
+     "A client complaint",
+     "A software update"
+    ]
+   },
+   {
+    "id": "l34-c76z-q2",
+    "question": "What concern does the woman have?",
+    "choices": [
+     "The cost is too high",
+     "The layout will be too noisy",
+     "There isn't enough parking",
+     "The design takes too long"
+    ]
+   },
+   {
+    "id": "l34-c76z-q3",
+    "question": "What will the woman do next?",
+    "choices": [
+     "Cancel the redesign",
+     "Bring up the idea at tomorrow's meeting",
+     "Hire an architect",
+     "Move to a different floor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c77z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "How is the preparation for next week's product launch going?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Pretty well. The venue is booked and the catering has been arranged. We're just waiting on the final version of the presentation slides."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I can help with that. When do you need them by?"
+   },
+   {
+    "speaker": "Man",
+    "line": "If you could finish your review by Wednesday, that would be perfect."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c77z-q1",
+    "question": "What event are they preparing for?",
+    "choices": [
+     "A shareholder meeting",
+     "A product launch",
+     "A retirement party",
+     "A training session"
+    ]
+   },
+   {
+    "id": "l34-c77z-q2",
+    "question": "What is still needed?",
+    "choices": [
+     "A venue",
+     "Catering",
+     "The final presentation slides",
+     "Guest invitations"
+    ]
+   },
+   {
+    "id": "l34-c77z-q3",
+    "question": "What does the man ask the woman to do?",
+    "choices": [
+     "Book the venue",
+     "Finish her review by Wednesday",
+     "Order more food",
+     "Cancel the event"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c78z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "A customer just called about returning a defective blender she bought last week."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Did she still have the receipt?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, and it's within our 30-day return window, so I told her she could bring it in for a full refund."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Great. Let's make sure to note the issue in our defect log as well."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c78z-q1",
+    "question": "What is the customer's issue?",
+    "choices": [
+     "A late delivery",
+     "A defective blender",
+     "An overcharge",
+     "A missing item"
+    ]
+   },
+   {
+    "id": "l34-c78z-q2",
+    "question": "What did the man tell the customer?",
+    "choices": [
+     "She cannot return the item",
+     "She can bring it in for a full refund",
+     "She needs to pay a restocking fee",
+     "She should contact the manufacturer"
+    ]
+   },
+   {
+    "id": "l34-c78z-q3",
+    "question": "What does the woman suggest doing?",
+    "choices": [
+     "Calling the customer back",
+     "Noting the issue in the defect log",
+     "Offering a discount instead",
+     "Ordering a replacement immediately"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,463 @@
+[
+ {
+  "id": "r169",
+  "passage": "GreenPath Manufacturing announced this week that it has received official Green Business Certification, recognizing the company's efforts to reduce waste, conserve energy, and use sustainable materials in its production processes.\n\nThe certification process, which took over a year to complete, required GreenPath to overhaul its waste management system and install solar panels at its main facility. Company officials say the changes have already reduced energy costs by 20 percent.\n\nGreenPath plans to host a community open house next month to showcase its sustainable practices and share what it has learned with other local businesses interested in pursuing similar certification.",
+  "passage2": "To: events@greenpath.com\nFrom: r.chowdhury@localbiz.com\nSubject: Open house registration\n\nHello,\n\nI read about GreenPath's new certification and would love to attend the community open house next month with a few colleagues from our own manufacturing business. Could you tell me how many people we can bring and whether registration is required in advance?\n\nWe're especially interested in learning more about the solar panel installation process.\n\nThank you,\nRina Chowdhury",
+  "passage3": "To: r.chowdhury@localbiz.com\nFrom: events@greenpath.com\nSubject: RE: Open house registration\n\nDear Rina,\n\nThank you for your interest! We'd be happy to have you and your colleagues join us. Groups of up to five people are welcome, and yes, advance registration is required so we can plan accordingly.\n\nWe will actually have a representative from our solar panel installer on site that day to answer detailed technical questions, so this should be a great opportunity for your team.\n\nPlease reply with the names of everyone attending by the end of next week to secure your spots.\n\nBest,\nGreenPath Events Team",
+  "questions": [
+   {
+    "id": "r169q1",
+    "question": "What did GreenPath Manufacturing receive?",
+    "choices": [
+     "A safety award",
+     "Green Business Certification",
+     "A government contract",
+     "An industry design award"
+    ]
+   },
+   {
+    "id": "r169q2",
+    "question": "How much did energy costs decrease?",
+    "choices": [
+     "10 percent",
+     "20 percent",
+     "30 percent",
+     "50 percent"
+    ]
+   },
+   {
+    "id": "r169q3",
+    "question": "Why is Rina Chowdhury writing the email?",
+    "choices": [
+     "To complain about pollution",
+     "To ask about attending the open house",
+     "To request a job",
+     "To offer a partnership"
+    ]
+   },
+   {
+    "id": "r169q4",
+    "question": "How many people can Rina bring?",
+    "choices": [
+     "Up to 2",
+     "Up to 3",
+     "Up to 5",
+     "Unlimited"
+    ]
+   },
+   {
+    "id": "r169q5",
+    "question": "What will be available on-site during the open house?",
+    "choices": [
+     "A cooking demonstration",
+     "A representative from the solar panel installer",
+     "A live band",
+     "A legal advisor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r170",
+  "passage": "Notice: Company Library Going Digital\n\nStarting next month, our physical company library on the second floor will transition to a fully digital lending system. All books, journals, and reference materials will be accessible through a new app, available on both desktop and mobile devices.\n\nExisting physical books may still be checked out during a three-month transition period, after which the physical collection will be donated to local schools. Employees are encouraged to begin exploring the digital catalog now to familiarize themselves with the new system.\n\nA training session on using the new app will be offered twice next week, on Tuesday and Thursday at noon.",
+  "passage2": "To: library@company.com\nFrom: b.nakamura@company.com\nSubject: Training session question\n\nHi,\n\nI'd like to attend one of the training sessions for the new digital library app, but I have a scheduling conflict on Tuesday. Is the Thursday session covering the same material, or will there be differences between the two sessions?\n\nAlso, will recordings of either session be made available for employees who can't attend live?\n\nThanks,\nBen Nakamura",
+  "passage3": "To: b.nakamura@company.com\nFrom: library@company.com\nSubject: RE: Training session question\n\nHi Ben,\n\nGood news — both sessions will cover exactly the same content, so please feel free to join us on Thursday instead. The session will last about 30 minutes and include a live demo of the app's search and checkout features.\n\nWe will also be recording the Thursday session and posting it on the intranet by the following Monday for anyone who is unable to attend either live session.\n\nLet us know if you have any other questions before then!\n\nBest,\nThe Library Team",
+  "questions": [
+   {
+    "id": "r170q1",
+    "question": "What change is being made to the company library?",
+    "choices": [
+     "It is closing permanently",
+     "It is transitioning to a digital system",
+     "It is moving to a new floor",
+     "It is expanding its physical collection"
+    ]
+   },
+   {
+    "id": "r170q2",
+    "question": "What will happen to physical books after the transition period?",
+    "choices": [
+     "They will be sold",
+     "They will be donated to local schools",
+     "They will be stored indefinitely",
+     "They will be recycled"
+    ]
+   },
+   {
+    "id": "r170q3",
+    "question": "Why is Ben Nakamura writing the email?",
+    "choices": [
+     "To cancel his library account",
+     "To ask about the training sessions",
+     "To report a broken app",
+     "To request more books"
+    ]
+   },
+   {
+    "id": "r170q4",
+    "question": "Do the two training sessions cover different content?",
+    "choices": [
+     "Yes, completely different content",
+     "No, they cover the same content",
+     "Only the Thursday session includes a demo",
+     "Only the Tuesday session is recorded"
+    ]
+   },
+   {
+    "id": "r170q5",
+    "question": "When will the recording be posted?",
+    "choices": [
+     "Immediately after the session",
+     "By the following Monday",
+     "Within a month",
+     "It will not be posted"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r171",
+  "passage": "Event Coordinator — Full-Time Position\nHarborview Events\n\nHarborview Events is looking for an organized and creative Event Coordinator to help plan and execute corporate events, weddings, and private parties. Responsibilities include coordinating with vendors, managing timelines, and ensuring events run smoothly from setup to breakdown.\n\nThe ideal candidate has at least two years of event planning experience and is comfortable working evenings and weekends, as many events take place outside standard business hours.\n\nThis position offers a competitive salary plus performance bonuses. Interested candidates should send a resume along with two professional references to hr@harborviewevents.com by September 10.",
+  "passage2": "To: hr@harborviewevents.com\nFrom: l.fitzgerald@mailbox.com\nSubject: Application for Event Coordinator position\n\nDear Hiring Manager,\n\nI am excited to apply for the Event Coordinator position at Harborview Events. I have three years of experience coordinating corporate events and weddings at a boutique event planning firm, and I am very comfortable with evening and weekend work.\n\nAttached is my resume, along with contact information for two professional references who can speak to my organizational skills and vendor management experience.\n\nI would welcome the opportunity to discuss how I can contribute to your team.\n\nSincerely,\nLena Fitzgerald",
+  "passage3": "To: l.fitzgerald@mailbox.com\nFrom: hr@harborviewevents.com\nSubject: RE: Application for Event Coordinator position - Interview Invitation\n\nDear Lena,\n\nThank you for your application. Your experience with corporate events and weddings is exactly what we're looking for, and we'd like to invite you for an interview this Friday at 11 AM at our main office.\n\nThe interview will include a short case study exercise where you'll be asked to outline a plan for a hypothetical corporate event. Please allow about 45 minutes for the full process.\n\nPlease confirm your availability by replying to this email at your earliest convenience.\n\nBest regards,\nHarborview Events HR Team",
+  "questions": [
+   {
+    "id": "r171q1",
+    "question": "What does the Event Coordinator position involve?",
+    "choices": [
+     "Managing a restaurant",
+     "Planning and executing events",
+     "Selling event tickets",
+     "Designing event venues"
+    ]
+   },
+   {
+    "id": "r171q2",
+    "question": "What is required regarding work hours?",
+    "choices": [
+     "Standard 9-to-5 only",
+     "Comfortable working evenings and weekends",
+     "Remote work only",
+     "Part-time hours"
+    ]
+   },
+   {
+    "id": "r171q3",
+    "question": "How much experience does Lena Fitzgerald have?",
+    "choices": [
+     "One year",
+     "Two years",
+     "Three years",
+     "Five years"
+    ]
+   },
+   {
+    "id": "r171q4",
+    "question": "What will the interview include?",
+    "choices": [
+     "A written exam",
+     "A case study exercise",
+     "A group interview",
+     "A skills test on software"
+    ]
+   },
+   {
+    "id": "r171q5",
+    "question": "What is Lena asked to do after receiving the interview invitation?",
+    "choices": [
+     "Submit new references",
+     "Confirm her availability",
+     "Send additional writing samples",
+     "Call the office immediately"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r172",
+  "passage": "Memo: New Shift Scheduling System for Customer Service\n\nStarting next month, the customer service department will move to a new self-scheduling system, allowing representatives to choose their preferred shifts from available slots each week, rather than being assigned a fixed schedule by a supervisor.\n\nShift slots will be released every Sunday for the following week, and representatives will have 48 hours to submit their preferences before slots are finalized on a first-come, first-served basis. Full-time staff will be guaranteed at least 32 hours per week regardless of the shifts they choose.\n\nA short training video explaining how to use the new scheduling app will be sent to all department staff by email this Friday.",
+  "passage2": "To: cssupervisor@company.com\nFrom: o.brennan@company.com\nSubject: Question about guaranteed hours\n\nHi,\n\nI read the memo about the new self-scheduling system and had a question about the guaranteed hours for full-time staff. If I only manage to select 28 hours of shifts one week because popular slots fill up quickly, will I still receive 32 hours of pay, or will I be assigned additional shifts to make up the difference?\n\nI just want to make sure I understand how this works before the new system starts.\n\nThanks,\nOwen Brennan",
+  "passage3": "To: o.brennan@company.com\nFrom: cssupervisor@company.com\nSubject: RE: Question about guaranteed hours\n\nHi Owen,\n\nGreat question. If a full-time employee is unable to select 32 hours of shifts on their own due to limited availability, a supervisor will assign the remaining hours to ensure you still reach the guaranteed 32-hour minimum.\n\nHowever, we do encourage everyone to submit their preferences as early as possible within the 48-hour window, since popular time slots do fill up quickly, and choosing early gives you more control over which shifts you get.\n\nLet me know if you have any other questions before the launch!\n\nBest,\nCustomer Service Supervisor",
+  "questions": [
+   {
+    "id": "r172q1",
+    "question": "What is changing in the customer service department?",
+    "choices": [
+     "Salaries are increasing",
+     "A new self-scheduling system is being introduced",
+     "The department is relocating",
+     "New software for customer calls"
+    ]
+   },
+   {
+    "id": "r172q2",
+    "question": "How much time do representatives have to submit shift preferences?",
+    "choices": [
+     "24 hours",
+     "48 hours",
+     "72 hours",
+     "One week"
+    ]
+   },
+   {
+    "id": "r172q3",
+    "question": "Why is Owen Brennan writing the email?",
+    "choices": [
+     "To request a raise",
+     "To ask about guaranteed hours if shifts fill up",
+     "To complain about his supervisor",
+     "To resign from his position"
+    ]
+   },
+   {
+    "id": "r172q4",
+    "question": "What will happen if a full-time employee can't select 32 hours on their own?",
+    "choices": [
+     "They will receive reduced pay",
+     "A supervisor will assign the remaining hours",
+     "They must find a replacement themselves",
+     "They will be moved to part-time"
+    ]
+   },
+   {
+    "id": "r172q5",
+    "question": "What does the supervisor recommend?",
+    "choices": [
+     "Waiting until the last minute to choose shifts",
+     "Submitting preferences as early as possible",
+     "Avoiding popular time slots",
+     "Requesting a fixed schedule instead"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r173",
+  "passage": "Memo: New Book Request Program\n\nStarting this month, employees can request business or professional development books to be added to our company reading collection. Simply submit a title through the intranet request form, and if approved, the book will be purchased and made available for checkout within two weeks.\n\nEach employee may request up to three books per quarter. Priority will be given to titles that align with current training initiatives, such as leadership and project management.\n\nQuestions can be directed to the HR development team.",
+  "passage2": "To: hrdevelopment@company.com\nFrom: a.mercer@company.com\nSubject: Book request question\n\nHi,\n\nI'd like to request a book on data visualization for my team, but I wasn't sure if it counts as \"professional development\" under the new program. Could you clarify what types of books are eligible?\n\nAlso, if my request is approved, will I be notified by email once the book is available for checkout?\n\nThanks,\nAndre Mercer",
+  "questions": [
+   {
+    "id": "r173q1",
+    "question": "What is the new program about?",
+    "choices": [
+     "A book club",
+     "Employees requesting books for the company collection",
+     "A writing contest",
+     "A publishing partnership"
+    ]
+   },
+   {
+    "id": "r173q2",
+    "question": "How many books can an employee request per quarter?",
+    "choices": [
+     "One",
+     "Two",
+     "Three",
+     "Five"
+    ]
+   },
+   {
+    "id": "r173q3",
+    "question": "What type of books get priority?",
+    "choices": [
+     "Fiction novels",
+     "Titles aligned with current training initiatives",
+     "Books under $20",
+     "Books already in print"
+    ]
+   },
+   {
+    "id": "r173q4",
+    "question": "Why is Andre Mercer writing the email?",
+    "choices": [
+     "To cancel a book order",
+     "To ask if a data visualization book qualifies",
+     "To report a missing book",
+     "To request a refund"
+    ]
+   },
+   {
+    "id": "r173q5",
+    "question": "What else does Andre want to know?",
+    "choices": [
+     "The price of the book",
+     "Whether he'll be notified when it's available",
+     "Who approves the requests",
+     "How to return the book"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r174",
+  "passage": "SecureVault Cloud — Enterprise Storage Solutions\n\nProtect and organize your company's data with SecureVault, offering scalable cloud storage plans starting at just $8 per user per month. Features include automatic backups, advanced encryption, and seamless integration with popular office software.\n\nSign up for an annual plan before the end of the month and receive a 15% discount, plus a free onboarding session with our support team to help migrate your existing files.\n\nContact our sales team at sales@securevault.com for a personalized quote based on your company's size and needs.",
+  "passage2": "To: sales@securevault.com\nFrom: p.singh@brightfield.com\nSubject: Quote request for 45 users\n\nHello,\n\nI'm interested in getting a quote for SecureVault for our company, which has 45 employees who would need access. We're also considering signing up for the annual plan to take advantage of the discount mentioned in your advertisement.\n\nCould you let me know the total estimated monthly cost, and whether the free onboarding session includes help migrating data from our current provider?\n\nThank you,\nPriya Singh",
+  "questions": [
+   {
+    "id": "r174q1",
+    "question": "What is the starting price of SecureVault's plans?",
+    "choices": [
+     "$5 per user per month",
+     "$8 per user per month",
+     "$15 per user per month",
+     "$20 per user per month"
+    ]
+   },
+   {
+    "id": "r174q2",
+    "question": "What discount is offered for annual plans?",
+    "choices": [
+     "10%",
+     "15%",
+     "20%",
+     "25%"
+    ]
+   },
+   {
+    "id": "r174q3",
+    "question": "What is included with the annual plan sign-up?",
+    "choices": [
+     "A free laptop",
+     "A free onboarding session",
+     "Unlimited storage",
+     "A dedicated account manager"
+    ]
+   },
+   {
+    "id": "r174q4",
+    "question": "How many employees does Priya Singh's company have?",
+    "choices": [
+     "15",
+     "30",
+     "45",
+     "60"
+    ]
+   },
+   {
+    "id": "r174q5",
+    "question": "What does Priya want to confirm about onboarding?",
+    "choices": [
+     "Its cost",
+     "Whether it includes data migration help",
+     "Its duration",
+     "Who will lead the session"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r175",
+  "passage": "Quality Control Specialist — Manufacturing Division\nApex Industrial\n\nApex Industrial is seeking a detail-oriented Quality Control Specialist to inspect products and ensure compliance with company and industry standards. Responsibilities include conducting inspections, documenting defects, and working with production teams to resolve quality issues.\n\nCandidates should have at least two years of quality control experience in a manufacturing environment and familiarity with ISO standards. A background in engineering or a related field is a plus.\n\nThis is a full-time position with day shift hours. Interested candidates should submit a resume to qc-jobs@apexindustrial.com by the 25th of this month.",
+  "passage2": "To: qc-jobs@apexindustrial.com\nFrom: t.iwasaki@mailbox.com\nSubject: Question about ISO certification requirement\n\nDear Hiring Team,\n\nI am very interested in the Quality Control Specialist position and have three years of relevant experience. However, I noticed the posting mentions familiarity with ISO standards, and I wanted to ask whether formal ISO certification is required, or if practical work experience with these standards would be sufficient.\n\nI look forward to your response and plan to submit my full application shortly.\n\nBest regards,\nTaro Iwasaki",
+  "questions": [
+   {
+    "id": "r175q1",
+    "question": "What does the Quality Control Specialist role involve?",
+    "choices": [
+     "Designing new products",
+     "Inspecting products and documenting defects",
+     "Managing the sales team",
+     "Training new hires"
+    ]
+   },
+   {
+    "id": "r175q2",
+    "question": "What experience is required?",
+    "choices": [
+     "One year",
+     "At least two years of quality control experience",
+     "Five years",
+     "No experience required"
+    ]
+   },
+   {
+    "id": "r175q3",
+    "question": "What is a plus for candidates?",
+    "choices": [
+     "A law degree",
+     "A background in engineering",
+     "Fluency in multiple languages",
+     "Sales experience"
+    ]
+   },
+   {
+    "id": "r175q4",
+    "question": "How much experience does Taro Iwasaki have?",
+    "choices": [
+     "One year",
+     "Two years",
+     "Three years",
+     "Ten years"
+    ]
+   },
+   {
+    "id": "r175q5",
+    "question": "What does Taro want to clarify?",
+    "choices": [
+     "The salary range",
+     "Whether formal ISO certification is required",
+     "The interview process",
+     "The starting date"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r176",
+  "passage": "Notice: Annual Company Conference Details\n\nThis year's company-wide conference will be held March 18-20 at the Meridian Convention Center. The theme is \"Innovating Together,\" and the agenda will include keynote speeches, breakout sessions, and networking events.\n\nAll department heads are required to attend, and other employees are encouraged to participate based on department budget allowances. Hotel accommodations will be arranged for employees traveling from other offices.\n\nRegistration opens next Monday through the events portal. Space in certain breakout sessions is limited, so early registration is recommended.",
+  "passage2": "To: events@company.com\nFrom: l.abara@company.com\nSubject: Travel arrangements question\n\nHello,\n\nI'll be attending the conference from our Chicago office and wanted to ask about the hotel arrangements mentioned in the notice. Will the company book the hotel directly, or do I need to make my own reservation and submit it for reimbursement?\n\nAlso, is airfare covered separately, or is there a fixed travel budget per person?\n\nThank you,\nLina Abara",
+  "passage3": "To: l.abara@company.com\nFrom: events@company.com\nSubject: RE: Travel arrangements question\n\nHi Lina,\n\nGreat questions! For employees traveling from other offices, our events team will book hotel rooms directly at a nearby partner hotel, so you won't need to arrange or pay for that yourself.\n\nFor airfare, please book your own flight and submit the receipt for reimbursement through the standard travel expense process. There isn't a fixed per-person budget, but we do ask that you choose economical options where possible.\n\nLet us know if you have any other questions before registration opens!\n\nBest,\nEvents Team",
+  "questions": [
+   {
+    "id": "r176q1",
+    "question": "Where will the conference be held?",
+    "choices": [
+     "A company office",
+     "The Meridian Convention Center",
+     "A hotel ballroom",
+     "A virtual platform"
+    ]
+   },
+   {
+    "id": "r176q2",
+    "question": "Who is required to attend?",
+    "choices": [
+     "All employees",
+     "Department heads",
+     "Only new hires",
+     "Only remote employees"
+    ]
+   },
+   {
+    "id": "r176q3",
+    "question": "Why is Lina Abara writing the email?",
+    "choices": [
+     "To decline attending",
+     "To ask about hotel and airfare arrangements",
+     "To request a different conference date",
+     "To report a scheduling conflict"
+    ]
+   },
+   {
+    "id": "r176q4",
+    "question": "Who will book the hotel for out-of-office employees?",
+    "choices": [
+     "Employees themselves",
+     "The events team",
+     "The hotel directly",
+     "Department heads"
+    ]
+   },
+   {
+    "id": "r176q5",
+    "question": "How should airfare be handled?",
+    "choices": [
+     "It is fully covered automatically",
+     "Employees book their own and submit for reimbursement",
+     "It is not covered at all",
+     "The events team books it directly"
+    ]
+   }
+  ]
+ }
+]

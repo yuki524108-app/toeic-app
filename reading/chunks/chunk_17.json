@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r129",
+  "passage": "Dear Mr. Yamada,\n\nAs your current service contract with us is set to expire at the end of this month, I wanted to reach out to discuss renewal options. We have introduced several new plans since your last contract that may offer better value for your business needs.\n\nI would be happy to schedule a brief call this week to walk you through the available options and answer any questions you may have. Please let me know a few times that work for you.\n\nWe truly appreciate your continued partnership and look forward to discussing how we can best support your business going forward.\n\nWarm regards,\nEmily Chen, Account Manager",
+  "questions": [
+   {
+    "id": "r129q1",
+    "question": "Why is Emily Chen writing to Mr. Yamada?",
+    "choices": [
+     "To cancel his contract",
+     "To discuss contract renewal options",
+     "To apologize for a service issue",
+     "To introduce a new employee"
+    ]
+   },
+   {
+    "id": "r129q2",
+    "question": "What does Emily offer to do?",
+    "choices": [
+     "Send a written proposal only",
+     "Schedule a call to discuss options",
+     "Visit Mr. Yamada's office",
+     "Extend the contract automatically"
+    ]
+   },
+   {
+    "id": "r129q3",
+    "question": "What is Mr. Yamada asked to provide?",
+    "choices": [
+     "Payment information",
+     "A few times that work for him",
+     "A written complaint",
+     "His current contract number"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r130",
+  "passage": "We are pleased to invite all staff to this year's Employee Excellence Awards ceremony, taking place on Friday, November 8, at 6 PM in the Grand Ballroom. The event will recognize outstanding achievements across several categories, including Innovation, Teamwork, and Customer Service.\n\nDinner and refreshments will be provided, and formal attire is requested. Nominations for awards were submitted by department managers earlier this fall, and winners will be announced during the ceremony.\n\nPlease RSVP by November 1 through the link in this email, as seating is limited and will be assigned on a first-come, first-served basis.",
+  "questions": [
+   {
+    "id": "r130q1",
+    "question": "What is the purpose of the event?",
+    "choices": [
+     "To announce new hires",
+     "To recognize outstanding achievements",
+     "To discuss the annual budget",
+     "To celebrate a company anniversary"
+    ]
+   },
+   {
+    "id": "r130q2",
+    "question": "Who submitted the nominations?",
+    "choices": [
+     "Employees themselves",
+     "Department managers",
+     "Outside judges",
+     "Customers"
+    ]
+   },
+   {
+    "id": "r130q3",
+    "question": "By when should employees RSVP?",
+    "choices": [
+     "November 1",
+     "November 8",
+     "October 1",
+     "The day of the event"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r131",
+  "passage": "SparkleClean Home Services is offering a special introductory rate for new customers this month: 30% off your first deep-cleaning service. Our trained professionals use eco-friendly products and provide thorough cleaning for kitchens, bathrooms, and living spaces.\n\nAll of our cleaners are background-checked and insured for your peace of mind. Booking is easy through our website or mobile app, and same-week appointments are often available.\n\nContact us today to schedule your first cleaning and see why SparkleClean is rated the top-reviewed cleaning service in the area.",
+  "questions": [
+   {
+    "id": "r131q1",
+    "question": "What discount is being offered?",
+    "choices": [
+     "10% off all services",
+     "30% off the first deep-cleaning service",
+     "A free trial cleaning",
+     "50% off for referrals"
+    ]
+   },
+   {
+    "id": "r131q2",
+    "question": "What is true about the cleaners?",
+    "choices": [
+     "They are volunteers",
+     "They are background-checked and insured",
+     "They work only on weekends",
+     "They require a long-term contract"
+    ]
+   },
+   {
+    "id": "r131q3",
+    "question": "How can customers book a service?",
+    "choices": [
+     "By mail only",
+     "Through the website or mobile app",
+     "By visiting the office in person",
+     "Through a travel agency"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r132",
+  "passage": "The Milbank Public Library has begun a multi-year project to digitize thousands of historical documents, photographs, and newspapers related to the town's founding. Once complete, the collection will be freely accessible online to researchers and the public worldwide.\n\nThe project is being funded by a state grant along with donations from local history enthusiasts. Library staff say the most challenging part of the work is handling fragile materials, some of which date back over a century.\n\nThe library plans to release the first batch of digitized materials, covering the town's early industrial period, by the end of this year.",
+  "questions": [
+   {
+    "id": "r132q1",
+    "question": "What is the library doing?",
+    "choices": [
+     "Building a new wing",
+     "Digitizing historical documents",
+     "Closing permanently",
+     "Hosting a book sale"
+    ]
+   },
+   {
+    "id": "r132q2",
+    "question": "How is the project being funded?",
+    "choices": [
+     "Entirely by the city",
+     "A state grant and local donations",
+     "Federal taxes",
+     "Library membership fees"
+    ]
+   },
+   {
+    "id": "r132q3",
+    "question": "What is described as the most challenging part of the work?",
+    "choices": [
+     "Scanning speed",
+     "Handling fragile materials",
+     "Finding funding",
+     "Training staff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r133",
+  "passage": "Dear Ms. Alvarado,\n\nThank you for recently purchasing our SoundWave Bluetooth speaker. We hope you have been enjoying it! As a small business, customer feedback plays a huge role in helping us improve our products.\n\nWould you be willing to share your experience by writing a short review on our website? It should only take about two minutes. As a thank-you, we'll send you a discount code for 15% off your next purchase.\n\nIf you experienced any issues with your speaker, please reply directly to this email instead, and our support team will assist you right away.\n\nBest,\nThe SoundWave Team",
+  "questions": [
+   {
+    "id": "r133q1",
+    "question": "What is the main purpose of this email?",
+    "choices": [
+     "To announce a product recall",
+     "To request a customer review",
+     "To confirm a shipping address",
+     "To advertise a new product line"
+    ]
+   },
+   {
+    "id": "r133q2",
+    "question": "What will customers receive for leaving a review?",
+    "choices": [
+     "A free speaker",
+     "A 15% discount code",
+     "A cash refund",
+     "A gift card"
+    ]
+   },
+   {
+    "id": "r133q3",
+    "question": "What should customers do if they have a problem with the product?",
+    "choices": [
+     "Post about it online",
+     "Reply to the email for support",
+     "Return it to a store",
+     "Ignore the issue"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r134",
+  "passage": "The facilities team is excited to invite all employees to a menu tasting event this Thursday from 11:30 AM to 1:30 PM in the main cafeteria. Several new dishes are being considered for the upcoming menu update, and we want your input before finalizing the choices.\n\nEmployees who attend will be able to sample five new dishes and vote for their favorites using a short survey. Dietary information, including vegetarian and allergen labels, will be clearly posted at each station.\n\nNo registration is required, so feel free to stop by anytime during the event window.",
+  "questions": [
+   {
+    "id": "r134q1",
+    "question": "What is the purpose of the event?",
+    "choices": [
+     "To celebrate a company holiday",
+     "To let employees sample and vote on new dishes",
+     "To train new cafeteria staff",
+     "To announce a menu price increase"
+    ]
+   },
+   {
+    "id": "r134q2",
+    "question": "What will be posted at each food station?",
+    "choices": [
+     "Prices",
+     "Dietary information",
+     "Chef names",
+     "Cooking times"
+    ]
+   },
+   {
+    "id": "r134q3",
+    "question": "Do employees need to register to attend?",
+    "choices": [
+     "Yes, in advance online",
+     "Yes, by calling HR",
+     "No registration is required",
+     "Only managers need to register"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r135",
+  "passage": "After three years of construction, the new Harborview Bridge officially opened to traffic this morning, connecting the eastern and western sides of the city for the first time without a lengthy detour. Local officials gathered for a ribbon-cutting ceremony, calling the bridge a major milestone for regional transportation.\n\nThe $80 million project was designed to reduce commute times by up to 20 minutes for thousands of daily drivers. It also includes a dedicated lane for cyclists and pedestrians, a feature that was added after public input sessions held early in the planning process.\n\nOfficials expect traffic patterns in the area to stabilize within the next few weeks as drivers adjust to the new route.",
+  "questions": [
+   {
+    "id": "r135q1",
+    "question": "What does the new bridge connect?",
+    "choices": [
+     "Two nearby cities",
+     "The eastern and western sides of the city",
+     "The airport and downtown",
+     "Two neighboring states"
+    ]
+   },
+   {
+    "id": "r135q2",
+    "question": "What feature was added based on public input?",
+    "choices": [
+     "A toll booth",
+     "A dedicated lane for cyclists and pedestrians",
+     "A scenic overlook",
+     "Extra parking"
+    ]
+   },
+   {
+    "id": "r135q3",
+    "question": "What do officials expect in the coming weeks?",
+    "choices": [
+     "Increased construction",
+     "Traffic patterns to stabilize",
+     "A toll increase",
+     "Bridge closures"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r136",
+  "passage": "Dear Clients,\n\nWe are excited to announce that our office will be relocating to a new address at 88 Wellington Avenue, effective the first of next month. The new location offers improved accessibility, including nearby public transit and additional parking for visitors.\n\nAll phone numbers and email addresses will remain the same, so you can continue reaching us as usual. Please note that our office will be closed for two business days during the move, from the 30th through the 31st.\n\nWe look forward to welcoming you to our new space and thank you for your continued business.\n\nSincerely,\nThe Client Services Team",
+  "questions": [
+   {
+    "id": "r136q1",
+    "question": "What will change about the company?",
+    "choices": [
+     "Its phone number",
+     "Its office address",
+     "Its business hours permanently",
+     "Its ownership"
+    ]
+   },
+   {
+    "id": "r136q2",
+    "question": "What will stay the same?",
+    "choices": [
+     "The office hours",
+     "The phone numbers and email addresses",
+     "The parking situation",
+     "The staff"
+    ]
+   },
+   {
+    "id": "r136q3",
+    "question": "When will the office be closed?",
+    "choices": [
+     "The entire next month",
+     "From the 30th through the 31st",
+     "Only on the 1st",
+     "Every Friday"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,458 @@
+[
+ {
+  "id": "l34-c09",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "The copier on the third floor is jammed again. This is the third time this month."
+   },
+   {
+    "speaker": "Man",
+    "line": "I know, it's getting old. I already put in a request to replace it, but facilities said it could take a few weeks."
+   },
+   {
+    "speaker": "Woman",
+    "line": "A few weeks? I have client documents to print for tomorrow's presentation."
+   },
+   {
+    "speaker": "Man",
+    "line": "You can use the one in the marketing department for now — I'll let them know you're coming. It's a bit slower, but it's reliable."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That works. Could you also ask facilities to prioritize the replacement given how often it breaks down?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c09-q1",
+    "question": "What is the problem being discussed?",
+    "choices": [
+     "A computer virus.",
+     "A broken copier.",
+     "A missing document.",
+     "A power outage."
+    ]
+   },
+   {
+    "id": "l34-c09-q2",
+    "question": "What does the man say about the replacement?",
+    "choices": [
+     "It has already arrived.",
+     "It could take a few weeks.",
+     "It was canceled.",
+     "It will arrive tomorrow."
+    ]
+   },
+   {
+    "id": "l34-c09-q3",
+    "question": "What does the man suggest the woman do?",
+    "choices": [
+     "Print the documents at home.",
+     "Use the copier in marketing.",
+     "Reschedule the presentation.",
+     "Buy a new printer."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c10",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Have you finished booking your flight for the Osaka conference next week?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Not yet. I was waiting to see if the schedule would change, but it looks confirmed now, so I'll book it this afternoon."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good. Also, don't forget to submit your travel expense form before you leave — accounting needs it at least three days in advance."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Right, I'll take care of that today as well. Do you know if the hotel near the venue still has rooms available?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I checked yesterday and there were a few left, but I'd book soon since it's a popular hotel during conference season."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c10-q1",
+    "question": "What is the woman planning to do this afternoon?",
+    "choices": [
+     "Attend the conference.",
+     "Book her flight.",
+     "Meet a client.",
+     "Submit a report."
+    ]
+   },
+   {
+    "id": "l34-c10-q2",
+    "question": "What does the man remind the woman about?",
+    "choices": [
+     "Packing warm clothes.",
+     "Submitting a travel expense form.",
+     "Confirming her passport.",
+     "Renewing her ID badge."
+    ]
+   },
+   {
+    "id": "l34-c10-q3",
+    "question": "What does the man say about the hotel?",
+    "choices": [
+     "It is fully booked.",
+     "It is under renovation.",
+     "A few rooms are still available.",
+     "It has been changed to a different one."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c11",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I think there's a mix-up — I booked the main conference room for two o'clock, but another team is already in there."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let me check the booking system... it looks like both your reservation and theirs were entered for the same time slot by mistake."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's frustrating. My client is arriving in fifteen minutes, so I really need a room now."
+   },
+   {
+    "speaker": "Man",
+    "line": "The small meeting room on the fourth floor is free until four. It's smaller, but it should be fine for a client meeting."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That'll do. Could you update the booking system so this doesn't happen again next time?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c11-q1",
+    "question": "What is the woman's problem?",
+    "choices": [
+     "Her meeting was canceled.",
+     "Her reserved room is occupied.",
+     "Her client canceled the visit.",
+     "Her presentation file is missing."
+    ]
+   },
+   {
+    "id": "l34-c11-q2",
+    "question": "Why did the mix-up happen?",
+    "choices": [
+     "The system double-booked the room.",
+     "The woman forgot to reserve a room.",
+     "The room was closed for cleaning.",
+     "The client changed the meeting time."
+    ]
+   },
+   {
+    "id": "l34-c11-q3",
+    "question": "What does the man suggest?",
+    "choices": [
+     "Canceling the client meeting.",
+     "Using a smaller room on the fourth floor.",
+     "Meeting in the cafeteria.",
+     "Moving the meeting to tomorrow."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c12",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, I'm supposed to start in the accounting department today, but I'm not sure where to go."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Welcome! You must be Daniel. I'm from HR — I'll walk you to your desk and introduce you to your team."
+   },
+   {
+    "speaker": "Man",
+    "line": "Thank you. Is there anything I need to fill out before I get started?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, just a few forms for your ID badge and direct deposit, which we can finish in about ten minutes. After that, your manager will give you a tour of the office."
+   },
+   {
+    "speaker": "Man",
+    "line": "Sounds good. I also received a laptop in the mail last week — should I bring it with me every day?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, please do. IT will set it up with your accounts once you're at your desk."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c12-q1",
+    "question": "Who most likely is the woman?",
+    "choices": [
+     "A client.",
+     "An HR staff member.",
+     "A security guard.",
+     "A delivery worker."
+    ]
+   },
+   {
+    "id": "l34-c12-q2",
+    "question": "What will the man do before the office tour?",
+    "choices": [
+     "Meet his manager.",
+     "Fill out some forms.",
+     "Attend a training session.",
+     "Have lunch with his team."
+    ]
+   },
+   {
+    "id": "l34-c12-q3",
+    "question": "What does the woman say about the man's laptop?",
+    "choices": [
+     "He should return it to IT.",
+     "He should bring it every day.",
+     "It will be replaced soon.",
+     "It is not needed at work."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c13",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "How is the preparation for next month's trade show going? Have the banners arrived yet?"
+   },
+   {
+    "speaker": "Man",
+    "line": "The banners came in yesterday, but the printing company made an error — the company logo is slightly cut off on two of them."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's not good. Can we get them reprinted in time for the show?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I already contacted the printer, and they agreed to redo them at no extra cost. They said the corrected banners will arrive by next Wednesday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a relief. Let's also double-check the booth layout before then so we're not fixing two things at once."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c13-q1",
+    "question": "What is the conversation mainly about?",
+    "choices": [
+     "Hiring new staff.",
+     "Preparing for a trade show.",
+     "Ordering office supplies.",
+     "Planning a company party."
+    ]
+   },
+   {
+    "id": "l34-c13-q2",
+    "question": "What problem does the man describe?",
+    "choices": [
+     "The banners were delivered late.",
+     "The banners have a printing error.",
+     "The booth space was canceled.",
+     "The printer went out of business."
+    ]
+   },
+   {
+    "id": "l34-c13-q3",
+    "question": "When will the corrected banners arrive?",
+    "choices": [
+     "The same day.",
+     "By next Wednesday.",
+     "In two months.",
+     "After the trade show."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c14",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hello, I recently purchased one of your blenders, and I'm having trouble finding a replacement part for it."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'd be happy to help. Could you tell me the model number? It should be printed on the bottom of the base."
+   },
+   {
+    "speaker": "Woman",
+    "line": "It's model BX-220. I'm looking for a replacement blade, since mine cracked after a few months of use."
+   },
+   {
+    "speaker": "Man",
+    "line": "That model is still under warranty for one year, so we can send you a free replacement blade. I just need your order number to process it."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Great, let me find it... here it is. Also, how long will shipping take?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Once I process this today, it should arrive within five business days."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c14-q1",
+    "question": "Why is the woman calling?",
+    "choices": [
+     "To request a refund.",
+     "To ask about a replacement part.",
+     "To cancel her order.",
+     "To complain about the price."
+    ]
+   },
+   {
+    "id": "l34-c14-q2",
+    "question": "What does the man say about the product?",
+    "choices": [
+     "It has been discontinued.",
+     "It is still under warranty.",
+     "It was recalled.",
+     "It is out of stock."
+    ]
+   },
+   {
+    "id": "l34-c14-q3",
+    "question": "What does the man need from the woman?",
+    "choices": [
+     "Her credit card number.",
+     "Her order number.",
+     "Her home address.",
+     "A photo of the product."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t09",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good evening, here's your weather forecast for the rest of the week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Tomorrow will be mostly sunny with a high of twenty-two degrees, making it a great day for outdoor activities."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "However, conditions will change by Thursday, when a storm system is expected to bring heavy rain and strong winds throughout the afternoon."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have outdoor plans later this week, it would be wise to reschedule them for Wednesday instead. We'll have another update tomorrow morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t09-q1",
+    "question": "What will the weather be like tomorrow?",
+    "choices": [
+     "Rainy and windy.",
+     "Mostly sunny.",
+     "Very cold.",
+     "Snowy."
+    ]
+   },
+   {
+    "id": "l34-t09-q2",
+    "question": "What is expected on Thursday?",
+    "choices": [
+     "A heat wave.",
+     "A storm with heavy rain.",
+     "Clear skies all day.",
+     "Light fog in the morning."
+    ]
+   },
+   {
+    "id": "l34-t09-q3",
+    "question": "What does the speaker suggest listeners do?",
+    "choices": [
+     "Cancel all outdoor plans.",
+     "Move outdoor plans to Wednesday.",
+     "Stay indoors all week.",
+     "Check the forecast again tomorrow only."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t10",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "May I have your attention, please. The eight-fifteen express train to Central Station is currently delayed by approximately twenty minutes due to a signal problem."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We apologize for the inconvenience this may cause to your morning commute."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Passengers who need to arrive at Central Station sooner may consider taking the local train departing from platform three in five minutes, although it will make more stops along the way."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We appreciate your patience and will provide updates as more information becomes available."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t10-q1",
+    "question": "Why is the express train delayed?",
+    "choices": [
+     "Heavy passenger traffic.",
+     "A signal problem.",
+     "Bad weather.",
+     "A mechanical failure."
+    ]
+   },
+   {
+    "id": "l34-t10-q2",
+    "question": "About how long will the delay be?",
+    "choices": [
+     "Five minutes.",
+     "Twenty minutes.",
+     "One hour.",
+     "The rest of the day."
+    ]
+   },
+   {
+    "id": "l34-t10-q3",
+    "question": "What alternative is suggested for passengers in a hurry?",
+    "choices": [
+     "Taking a taxi instead.",
+     "Waiting at platform one.",
+     "Taking the local train from platform three.",
+     "Walking to the next station."
+    ]
+   }
+  ]
+ }
+]

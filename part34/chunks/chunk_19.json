@@ -1,0 +1,378 @@
+[
+ {
+  "id": "l34-t44z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Passengers arriving on Flight 118 from Miami, your luggage will be available at carousel 6. Please note that due to a system delay, bags may take up to 20 minutes longer than usual to arrive. We apologize for the inconvenience. If your luggage does not arrive within one hour, please visit the baggage service counter located near carousel 4."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t44z-q1",
+    "question": "Where will luggage from Flight 118 be available?",
+    "choices": [
+     "Carousel 4",
+     "Carousel 6",
+     "Gate 12",
+     "The baggage service counter"
+    ]
+   },
+   {
+    "id": "l34-t44z-q2",
+    "question": "Why might luggage take longer than usual?",
+    "choices": [
+     "A staff shortage",
+     "A system delay",
+     "Weather conditions",
+     "A security check"
+    ]
+   },
+   {
+    "id": "l34-t44z-q3",
+    "question": "What should passengers do if their luggage doesn't arrive within an hour?",
+    "choices": [
+     "Call the airline",
+     "Visit the baggage service counter near carousel 4",
+     "Return to the gate",
+     "Wait at carousel 6"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t45z",
+  "script": [
+   {
+    "speaker": "Guide",
+    "line": "Welcome to our manufacturing facility. Before we begin the tour, please put on the safety goggles and vests provided at the entrance. The tour will take about 45 minutes and will show you our full production line, from raw materials to finished products. Please stay within the marked walkways at all times for your safety, and feel free to take photos except in the quality control lab."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t45z-q1",
+    "question": "What must visitors do before the tour begins?",
+    "choices": [
+     "Sign a waiver",
+     "Put on safety goggles and vests",
+     "Leave their bags",
+     "Watch a safety video"
+    ]
+   },
+   {
+    "id": "l34-t45z-q2",
+    "question": "How long will the tour last?",
+    "choices": [
+     "15 minutes",
+     "30 minutes",
+     "45 minutes",
+     "1 hour"
+    ]
+   },
+   {
+    "id": "l34-t45z-q3",
+    "question": "Where is photography not allowed?",
+    "choices": [
+     "The entrance",
+     "The production line",
+     "The quality control lab",
+     "The break room"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t46z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "This is a weather advisory for the downtown area. Heavy rainfall is expected between 3 PM and 7 PM this evening, with possible localized flooding in low-lying areas. Residents are advised to avoid unnecessary travel during this period and to move any vehicles parked near storm drains. This advisory will be updated as conditions change."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t46z-q1",
+    "question": "What is expected this evening?",
+    "choices": [
+     "Strong winds",
+     "Heavy rainfall",
+     "A heat wave",
+     "Snow"
+    ]
+   },
+   {
+    "id": "l34-t46z-q2",
+    "question": "What are residents advised to do?",
+    "choices": [
+     "Evacuate the area",
+     "Avoid unnecessary travel",
+     "Stock up on food",
+     "Turn off electricity"
+    ]
+   },
+   {
+    "id": "l34-t46z-q3",
+    "question": "What should drivers do with vehicles near storm drains?",
+    "choices": [
+     "Leave them as is",
+     "Move them",
+     "Report them to the city",
+     "Cover them with tarps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t47z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention all staff, the facilities team will be conducting a routine inspection of emergency exits and fire extinguishers throughout the building this afternoon between 1 and 3 PM. Some hallways may be temporarily blocked during this time. We apologize for any disruption and appreciate your cooperation in keeping our workplace safe."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t47z-q1",
+    "question": "What will the facilities team inspect?",
+    "choices": [
+     "Computer equipment",
+     "Emergency exits and fire extinguishers",
+     "Office furniture",
+     "The parking lot"
+    ]
+   },
+   {
+    "id": "l34-t47z-q2",
+    "question": "When will the inspection take place?",
+    "choices": [
+     "This morning",
+     "Between 1 and 3 PM this afternoon",
+     "Tomorrow",
+     "Next week"
+    ]
+   },
+   {
+    "id": "l34-t47z-q3",
+    "question": "What might happen during the inspection?",
+    "choices": [
+     "The building will be closed",
+     "Some hallways may be blocked",
+     "All meetings will be canceled",
+     "Power will be shut off"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c83z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Do you know how to use the new copier? I can't figure out how to print double-sided."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Oh, you have to press the settings button first, then select the duplex option."
+   },
+   {
+    "speaker": "Man",
+    "line": "I tried that, but it still printed single-sided."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me come over and show you. It can be a little tricky the first time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c83z-q1",
+    "question": "What is the man having trouble with?",
+    "choices": [
+     "Turning on the copier",
+     "Printing double-sided",
+     "Scanning documents",
+     "Adding paper"
+    ]
+   },
+   {
+    "id": "l34-c83z-q2",
+    "question": "What did the man already try?",
+    "choices": [
+     "Restarting the copier",
+     "Pressing settings and selecting duplex",
+     "Calling IT support",
+     "Reading the manual"
+    ]
+   },
+   {
+    "id": "l34-c83z-q3",
+    "question": "What will the woman do?",
+    "choices": [
+     "Order a new copier",
+     "Come over and show him",
+     "Call the manufacturer",
+     "Send him instructions by email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c84z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Have you registered for the marketing conference next month yet?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Not yet. I heard early registration ends this Friday, though."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's right, and the price goes up by $100 after that."
+   },
+   {
+    "speaker": "Man",
+    "line": "Thanks for reminding me. I'll register today before I forget."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c84z-q1",
+    "question": "What are they discussing?",
+    "choices": [
+     "A job interview",
+     "Registering for a conference",
+     "A vacation plan",
+     "A product launch"
+    ]
+   },
+   {
+    "id": "l34-c84z-q2",
+    "question": "When does early registration end?",
+    "choices": [
+     "Today",
+     "This Friday",
+     "Next Monday",
+     "The day of the conference"
+    ]
+   },
+   {
+    "id": "l34-c84z-q3",
+    "question": "What will happen if the man doesn't register by Friday?",
+    "choices": [
+     "He can't attend",
+     "The price will increase by $100",
+     "He'll need a different ticket type",
+     "He'll be put on a waitlist"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c85z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The new hire starts on Monday. Has her desk been set up yet?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Almost. IT is still installing her computer, but everything else is ready."
+   },
+   {
+    "speaker": "Man",
+    "line": "Great. Can you make sure her badge and parking pass are ready too?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I'll pick those up from security this afternoon."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c85z-q1",
+    "question": "What is still being completed?",
+    "choices": [
+     "The desk furniture",
+     "The computer installation",
+     "The badge photo",
+     "The training schedule"
+    ]
+   },
+   {
+    "id": "l34-c85z-q2",
+    "question": "What does the man ask the woman to check on?",
+    "choices": [
+     "The new hire's salary",
+     "Her badge and parking pass",
+     "Her job title",
+     "Her start date"
+    ]
+   },
+   {
+    "id": "l34-c85z-q3",
+    "question": "What will the woman do this afternoon?",
+    "choices": [
+     "Meet the new hire",
+     "Pick up items from security",
+     "Set up the computer herself",
+     "Call IT support"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c86z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "A lot of employees have been asking for more vegan options in the cafeteria."
+   },
+   {
+    "speaker": "Man",
+    "line": "I've noticed that too. Maybe we should talk to the catering company about adding a few dishes."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I already reached out to them. They said they could add two new options starting next month."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's great news. I'll let the team know."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c86z-q1",
+    "question": "What have employees been requesting?",
+    "choices": [
+     "Lower prices",
+     "More vegan options",
+     "Longer lunch breaks",
+     "A new cafeteria location"
+    ]
+   },
+   {
+    "id": "l34-c86z-q2",
+    "question": "What did the woman already do?",
+    "choices": [
+     "Hired a new chef",
+     "Contacted the catering company",
+     "Changed the menu herself",
+     "Surveyed all employees"
+    ]
+   },
+   {
+    "id": "l34-c86z-q3",
+    "question": "When will new dishes be added?",
+    "choices": [
+     "Immediately",
+     "Next month",
+     "Next year",
+     "It's undecided"
+    ]
+   }
+  ]
+ }
+]

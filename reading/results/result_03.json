@@ -1,0 +1,368 @@
+[
+  {
+    "id": "r017",
+    "passageJa": "注文確認 - 注文番号 #77234[cite: 3]\n\nHomeGoods Directをご利用いただきありがとうございます。このメールは、お客様の注文を受け付け、現在処理中であることを確認するものです。[cite: 3]\n\n注文詳細：\n- セラミックディナーセット 2点 - $89.98[cite: 3]\n- ステンレス調理器具セット 1点 - $149.99[cite: 3]\n- 配送費：標準配送（5〜7営業日） - $8.99[cite: 3]\n\n合計：$248.96[cite: 3]\n\nご注文商品は、チェックアウト時にご提示いただいた住所へ配送されます。発送が完了し次第（通常1〜2営業日以内）、追跡情報を記載した別のメールをお送りいたします。[cite: 3]\n\nご注文内容の変更が必要な場合は、処理がすぐに開始されるため、ご注文後24時間以内にご連絡ください。ご不明な点がございましたら、サポートチーム（support@homegoodsdirect.com）までお問い合わせください。[cite: 3]",
+    "vocab": [
+      "confirmation：確認、確定",
+      "process：処理する",
+      "cookware：調理器具",
+      "typically：通常、一般的に",
+      "shortly：間もなく、すぐに"
+    ],
+    "questions": [
+      {
+        "id": "r017q1",
+        "questionJa": "配送料を含む注文の合計金額はいくらですか。",
+        "choicesJa": [
+          "$89.98",
+          "$149.99",
+          "$239.97",
+          "$248.96"
+        ],
+        "explanationDetail": "「Total: $248.96」と記載されているため、配送料を含めた合計金額は$248.96（選択肢D）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r017q2",
+        "questionJa": "顧客はいつ追跡情報を受け取ると予想されますか。",
+        "choicesJa": [
+          "すぐに",
+          "1〜2営業日以内",
+          "5〜7営業日以内",
+          "配達完了後"
+        ],
+        "explanationDetail": "「typically within 1-2 business days（通常1〜2営業日以内）」と記されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r017q3",
+        "questionJa": "顧客が注文の変更を申請できる期限はどれくらいですか。",
+        "choicesJa": [
+          "12時間",
+          "24時間",
+          "48時間",
+          "72時間"
+        ],
+        "explanationDetail": "「contact us within 24 hours of placing this order（注文後24時間以内にご連絡ください）」と記載されているため、24時間（選択肢B）が正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r018",
+    "passageJa": "会議議事録：製品開発チーム[cite: 3]\n日時：3月3日[cite: 3]\n\n出席者：J・マルティネス、K・チェン、R・パテル、S・キム[cite: 3]\n\n1. プロジェクトタイムラインの確認[cite: 3]\nチームはモバイルアプリ再設計の現在の進捗状況について議論した。K・チェンは、デザインフェーズが80%完了しており、3月15日までに終了する見込みであると報告した。[cite: 3]\n\n2. 予算の最新情報[cite: 3]\nR・パテルは更新された予算を発表し、プロジェクトが当初の見積もりの5%以内に収まっていることを指摘した。4月のユーザーテストには追加資金が必要となる可能性がある。[cite: 3]\n\n3. アクションアイテム（決定事項・課題）[cite: 3]\n- J・マルティネスは3月8日までにワイヤーフレームを確定する[cite: 3]\n- S・キムは4月初旬のユーザーテストセッションのスケジュールを設定する[cite: 3]\n- チームは完了したデザインをレビューするため3月17日に再召集する[cite: 3]\n\n午後3時45分に会議終了。[cite: 3]",
+    "vocab": [
+      "minutes：議事録",
+      "attendee：出席者",
+      "estimate：見積もり、予測",
+      "wireframe：ワイヤーフレーム",
+      "reconvene：再召集する、再開する"
+    ],
+    "questions": [
+      {
+        "id": "r018q1",
+        "questionJa": "デザインフェーズは何パーセント完了していますか。",
+        "choicesJa": [
+          "50%",
+          "65%",
+          "80%",
+          "100%"
+        ],
+        "explanationDetail": "「design phase is 80% complete」と述べられているため、80%（選択肢C）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r018q2",
+        "questionJa": "追加の資金調達はいつ必要になる可能性がありますか。",
+        "choicesJa": [
+          "デザインフェーズのため",
+          "4月のユーザーテストのため",
+          "ワイヤーフレーム作成のため",
+          "次回の会議のため"
+        ],
+        "explanationDetail": "「Additional funding may be required for user testing in April」と記載されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r018q3",
+        "questionJa": "チームは次にいつ集まる予定ですか。",
+        "choicesJa": [
+          "3月3日",
+          "3月8日",
+          "3月15日",
+          "3月17日"
+        ],
+        "explanationDetail": "「Team to reconvene on March 17th（チームは3月17日に再召集する）」とあるため、3月17日（選択肢D）が正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r019",
+    "passageJa": "リモートワークの台頭：そのメリットと課題[cite: 3]\n\n過去数年間で、リモートワークは珍しい特典から多くの企業にとって標準的な働き方へと変化しました。研究によると、リモートで働く従業員は職務満足度が高く、ワークライフバランスが改善したと報告しています。[cite: 3]\n\nしかし、リモートワークにも課題が無いわけではありません。多くの従業員が孤立感や、仕事と私生活の分離の難しさを報告しています。企業はこれに対し、バーチャルでのチームビルディング活動の実施や、管理者とスタッフ間の定期的な面談を推奨することで対応しています。[cite: 3]\n\n専門家は、リモートワークと出社勤務を組み合わせたハイブリッドモデルが双方の利点を提供できる可能性があると提案しています。このアプローチにより、従業員はリモートワークの柔軟性を享受しながら、対面でのやり取りによる社会的つながりやコラボレーション上の利点を維持できます。[cite: 3]\n\n企業が適応を続ける中、働き方の柔軟性が優秀な人材を引き付け、繋ぎ止めるための重要な要因であり続けることは明確です。[cite: 3]",
+    "vocab": [
+      "transform：変化する、変容する",
+      "isolation：孤立、分離",
+      "hybrid：ハイブリッドの、複合の",
+      "flexibility：柔軟性",
+      "retain：維持する、繋ぎ止める"
+    ],
+    "questions": [
+      {
+        "id": "r019q1",
+        "questionJa": "記事内で挙げられているリモートワークのメリットは何ですか。",
+        "choicesJa": [
+          "より高い給与",
+          "ワークライフバランスの改善",
+          "より早い昇進",
+          "仕事量の削減"
+        ],
+        "explanationDetail": "第1段落末尾に「higher job satisfaction and improved work-life balance」とあるため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r019q2",
+        "questionJa": "リモート勤務の従業員が報告している課題は何ですか。",
+        "choicesJa": [
+          "機器の不足",
+          "孤立感",
+          "より長い労働時間",
+          "給与の減額"
+        ],
+        "explanationDetail": "第2段落に「feelings of isolation and difficulty separating work from personal life」と記されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r019q3",
+        "questionJa": "専門家は理想的なアプローチとして何を提案していますか。",
+        "choicesJa": [
+          "完全リモートワーク",
+          "完全出社勤務",
+          "ハイブリッドモデル",
+          "フレックスタイム制のみ"
+        ],
+        "explanationDetail": "第3段落冒頭に「Experts suggest that a hybrid model... may offer the best of both worlds」と記載されているため、選択肢Cが正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r020",
+    "passageJa": "製品保証情報[cite: 3]\n\nSoundWave Bluetoothスピーカーをご購入いただきありがとうございます。本製品には、ご購入日から1年間の限定保証が適用されます。[cite: 3]\n\nこの保証は、通常の使用下における材料および製造上の欠陥を対象としています。誤用、事故、不正な修理、または通常の摩耗や損傷に起因する損害は補償対象外となります。[cite: 3]\n\n保証請求を行うには、購入証明書の原文を保管の上、カスタマーサービス部門（warranty@soundwaveaudio.com）までご連絡ください。問題の状況について説明が求められ、検査のために製品を修理センターへ送付していただく場合があります。[cite: 3]\n\n本保証の条件に基づいて製品に欠陥があると認められた場合、無償で修理または交換いたします。修理または交換手続きの完了までに2〜3週間ほどお時間をいただきますのでご了承ください。[cite: 3]",
+    "vocab": [
+      "warranty：保証",
+      "defect：欠陥、不具合",
+      "workmanship：製造技術、出来栄え",
+      "misuse：誤用、誤った使用",
+      "inspection：検査、点検"
+    ],
+    "questions": [
+      {
+        "id": "r020q1",
+        "questionJa": "保証期間はどれくらいですか。",
+        "choicesJa": [
+          "6ヶ月",
+          "1年",
+          "2年",
+          "5年"
+        ],
+        "explanationDetail": "「for a period of one year from the date of purchase」とあるため、1年（選択肢B）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r020q2",
+        "questionJa": "この保証の対象とならないものはどれですか。",
+        "choicesJa": [
+          "製造上の欠陥",
+          "材料の欠陥",
+          "誤用による損傷",
+          "通常使用での問題"
+        ],
+        "explanationDetail": "「does not cover damage resulting from misuse, accidents...」とあるため、選択肢Cが正解です。[cite: 3]"
+      },
+      {
+        "id": "r020q3",
+        "questionJa": "保証を請求するために顧客は何を提示しなければなりませんか。",
+        "choicesJa": [
+          "書面による苦情申し立て",
+          "購入証明書",
+          "交換手数料",
+          "署名入りの書類"
+        ],
+        "explanationDetail": "「retain your original proof of purchase」と案内されているため、購入証明書（選択肢B）が正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r021",
+    "passageJa": "従業員満足度調査の結果[cite: 3]\n\n今年度の従業員満足度調査にご協力いただき、誠にありがとうございました。全従業員の78%から回答を得ることができ、強みとなる分野や改善の機会に関する貴重な知見を得ることができました。[cite: 3]\n\n全体的な満足度は前年と比較してわずかに上昇し、回答者の82%が自身の役割に対して「満足」または「非常に満足」と回答しました。最も評価が高かった分野は「チームの協調性」であり、最も評価が低かった分野は「キャリアアップの機会」でした。[cite: 3]\n\nこのフィードバックに基づき、経営陣は今年度第3四半期までに新しいメンターシッププログラムを開始することを決定いたしました。さらに、より頻繁なフィードバックの機会を提供するため、年次評価ではなく四半期ごとの面談を実施する予定です。[cite: 3]\n\n皆様の率直なご意見に感謝するとともに、今後ともともにより良い職場環境づくりに努めてまいります。[cite: 3]",
+    "vocab": [
+      "insight：知見、洞察",
+      "collaboration：協調、協力",
+      "advancement：昇進、進歩",
+      "commit to：〜を約束する、決定する",
+      "quarterly：四半期ごとの"
+    ],
+    "questions": [
+      {
+        "id": "r021q1",
+        "questionJa": "何パーセントの従業員がアンケートに参加しましたか。",
+        "choicesJa": [
+          "58%",
+          "68%",
+          "78%",
+          "88%"
+        ],
+        "explanationDetail": "「We received responses from 78% of our workforce」と明記されているため、78%（選択肢C）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r021q2",
+        "questionJa": "最も低い評価を受けた分野は何ですか。",
+        "choicesJa": [
+          "チームの協調性",
+          "キャリアアップの機会",
+          "給与",
+          "ワークライフバランス"
+        ],
+        "explanationDetail": "「lowest-rated area was opportunities for career advancement」と記述されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r021q3",
+        "questionJa": "人事評価に関してどのような変更が行われますか。",
+        "choicesJa": [
+          "廃止される",
+          "年次から四半期ごとに変更される",
+          "同僚によって実施される",
+          "短縮される"
+        ],
+        "explanationDetail": "「conducting quarterly check-ins, rather than annual reviews」と書かれているため、選択肢Bが正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r022",
+    "passageJa": "プレスリリース：NovaTech社が次世代スマートウォッチを発売[cite: 3]\n\nNovaTech Inc.は本日、最新製品である「NovaWatch X3」の発売を発表いたしました。本製品は高度なヘルスモニタリング機能を備え、1回の充電で最大10日間の長時間バッテリー駆動を実現しています。[cite: 3]\n\nNovaWatch X3には、継続的な血中酸素濃度測定、睡眠の質分析、iOSおよびAndroidデバイスとの互換性など、新しい機能が搭載されています。本端末は3つのカラーバリエーションと2つのサイズオプションで展開されます。[cite: 3]\n\n「このレベルの健康テクノロジーをお求めやすい価格でお客様にお届けできることを大変嬉しく思います」と、NovaTechの最高製品責任者（CPO）であるマリア・チェンは述べています。NovaWatch X3の先行予約は来週の月曜日から開始され、出荷は5月初旬に始まる予定です。[cite: 3]\n\n価格はベースモデルが249ドルからで、追加機能を備えたプレミアムバージョンは299ドルとなっています。[cite: 3]",
+    "vocab": [
+      "capability：能力、機能",
+      "extended：拡張された、長時間の",
+      "compatibility：互換性",
+      "accessible：入手しやすい、お手頃な",
+      "pre-order：先行予約"
+    ],
+    "questions": [
+      {
+        "id": "r022q1",
+        "questionJa": "NovaWatch X3の主な特徴は何ですか。",
+        "choicesJa": [
+          "内蔵カメラ",
+          "長時間のバッテリー駆動",
+          "音声操作",
+          "防水設計"
+        ],
+        "explanationDetail": "「extended battery life of up to 10 days」と説明されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r022q2",
+        "questionJa": "このデバイスはどのオペレーティングシステム（OS）と互換性がありますか。",
+        "choicesJa": [
+          "iOSのみ",
+          "Androidのみ",
+          "iOSとAndroidの両方",
+          "Windowsのみ"
+        ],
+        "explanationDetail": "「compatibility with both iOS and Android devices」と明確に示されているため、選択肢Cが正解です。[cite: 3]"
+      },
+      {
+        "id": "r022q3",
+        "questionJa": "先行予約はいつ開始されますか。",
+        "choicesJa": [
+          "すぐに",
+          "来週の月曜日",
+          "5月初旬",
+          "年末"
+        ],
+        "explanationDetail": "「available for pre-order starting next Monday」とあるため、選択肢Bが正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r023",
+    "passageJa": "従業員ハンドブック抜粋：休暇ポリシー[cite: 3]\n\nフルタイムの従業員は、社での勤続年数に応じて有給休暇が付与されます。勤続年数が3年未満の従業員には年間10日、3年から7年の従業員には15日、7年を超える従業員には年間20日の休暇が付与されます。[cite: 3]\n\n休暇の申請は、可能な限り少なくとも2週間前に人事ポータルを通じて提出する必要があります。申請は事業上のニーズに基づいて承認され、先着順で処理されます。[cite: 3]\n\n未使用の休暇は、最大5日を上限として翌年に繰り越すことができます。マネージャーによる特別承認がない限り、それを超える未使用分はカレンダー年の終わりに失効します。[cite: 3]\n\nパートタイムの従業員は、本ポリシーに基づく有給休暇の対象外となります。[cite: 3]",
+    "vocab": [
+      "accrue：発生する、付与される",
+      "advance：事前に、あらかじめ",
+      "forfeit：失効する、没収される",
+      "eligible：資格のある"
+    ],
+    "questions": [
+      {
+        "id": "r023q1",
+        "questionJa": "勤続5年の従業員は何日間の有給休暇を取得できますか。",
+        "choicesJa": [
+          "10日",
+          "15日",
+          "20日",
+          "25日"
+        ],
+        "explanationDetail": "勤続3年から7年の従業員には15日が付与される（three to seven years accrue 15 days）ため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r023q2",
+        "questionJa": "休暇の申請はどれくらい前までに提出すべきですか。",
+        "choicesJa": [
+          "1週間前",
+          "2週間前",
+          "1ヶ月前",
+          "事前通知は不要"
+        ],
+        "explanationDetail": "「at least two weeks in advance」とあるため、2週間前（選択肢B）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r023q3",
+        "questionJa": "翌年に繰り越すことができる休暇日数の上限は何日ですか。",
+        "choicesJa": [
+          "3日",
+          "5日",
+          "10日",
+          "未使用の全日数"
+        ],
+        "explanationDetail": "「up to a maximum of 5 days」と明記されているため、5日（選択肢B）が正解です。[cite: 3]"
+      }
+    ]
+  },
+  {
+    "id": "r024",
+    "passageJa": "旅行日程確認書[cite: 3]\n\nトンプソン様\n\nSkyline Travelにて出張のご予約をいただきありがとうございます。以下は、予定されているシカゴへのご旅行の確定日程です。[cite: 3]\n\n往路：フライト245便、月曜日 午前8:15 第2ターミナル出発[cite: 3]\n復路：フライト312便、木曜日 午後6:30 オヘア国際空港出発[cite: 3]\n宿泊施設：ダウンタウン・ビジネス・スイート、3泊、月曜日午後チェックイン[cite: 3]\n\n滞在期間中のレンタカーが予約されており、到着時に空港にてお受け取りいただけます。運転免許証と本メールに記載された確認番号をお持ちください。[cite: 3]\n\n本行程の変更が必要な場合は、変更手数料を回避するため、ご出発日の少なくとも48時間前までにご連絡ください。実りある快適なご旅行になりますようお祈り申し上げます。[cite: 3]",
+    "vocab": [
+      "itinerary：旅行日程、行程表",
+      "duration：期間、所要時間",
+      "avoid：避ける、回避する",
+      "productive：実りある、生産的な"
+    ],
+    "questions": [
+      {
+        "id": "r024q1",
+        "questionJa": "トンプソン様はホテルに何泊滞在しますか。",
+        "choicesJa": [
+          "2泊",
+          "3泊",
+          "4泊",
+          "5泊"
+        ],
+        "explanationDetail": "「Hotel: Downtown Business Suites, 3 nights」と明記されているため、3泊（選択肢B）が正解です。[cite: 3]"
+      },
+      {
+        "id": "r024q2",
+        "questionJa": "レンタカーを受け取るためにトンプソン様は何を持参しなければなりませんか。",
+        "choicesJa": [
+          "クレジットカードのみ",
+          "運転免許証と確認番号",
+          "パスポート",
+          "デポジット用の現金"
+        ],
+        "explanationDetail": "「bring your driver's license and the confirmation number」と指示されているため、選択肢Bが正解です。[cite: 3]"
+      },
+      {
+        "id": "r024q3",
+        "questionJa": "手数料を回避するには、どれくらい前までに変更を申請しなければなりませんか。",
+        "choicesJa": [
+          "24時間前",
+          "48時間前",
+          "72時間前",
+          "1週間前"
+        ],
+        "explanationDetail": "「contact us at least 48 hours before your departure date」と記載されているため、48時間前（選択肢B）が正解です。[cite: 3]"
+      }
+    ]
+  }
+]

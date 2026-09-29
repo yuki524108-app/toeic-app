@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-t11",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good afternoon, everyone. Thank you for joining this quarter's results briefing."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "I'm pleased to report that overall revenue grew by twelve percent compared to the same period last year, largely driven by strong performance in our online division."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "However, our retail division saw a slight decline, which we believe is related to reduced foot traffic in several locations."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Going forward, we'll be investing more resources into improving the in-store shopping experience. I'll now hand things over to the sales director for further details."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t11-q1",
+    "question": "What is mainly being reported?",
+    "choices": [
+     "A new product line.",
+     "Quarterly financial results.",
+     "A merger announcement.",
+     "A staff reorganization."
+    ]
+   },
+   {
+    "id": "l34-t11-q2",
+    "question": "Which division performed well?",
+    "choices": [
+     "The retail division.",
+     "The online division.",
+     "The manufacturing division.",
+     "The overseas division."
+    ]
+   },
+   {
+    "id": "l34-t11-q3",
+    "question": "What will the company invest in?",
+    "choices": [
+     "New factories.",
+     "The in-store shopping experience.",
+     "Employee training abroad.",
+     "A new logo design."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t12",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good morning, and welcome to today's seminar on effective leadership."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Our speaker today has over fifteen years of experience managing teams across the technology and finance industries, and has written two books on workplace communication."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "After the presentation, there will be a thirty-minute question and answer session, so please save your questions until then."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Without further delay, please join me in welcoming our speaker to the stage."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t12-q1",
+    "question": "What is the seminar about?",
+    "choices": [
+     "Effective leadership.",
+     "Financial planning.",
+     "Product design.",
+     "Customer service."
+    ]
+   },
+   {
+    "id": "l34-t12-q2",
+    "question": "What has the speaker written?",
+    "choices": [
+     "Two books on workplace communication.",
+     "A company newsletter.",
+     "A research paper on finance.",
+     "A training manual for new hires."
+    ]
+   },
+   {
+    "id": "l34-t12-q3",
+    "question": "When can listeners ask questions?",
+    "choices": [
+     "During the presentation.",
+     "After the presentation.",
+     "Before the seminar starts.",
+     "Only by e-mail."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t13",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to our production facility. Before we begin the tour, please put on the safety goggles and vests provided at the entrance."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll start on the assembly line, where you can see how our products are put together, then move to the packaging area."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please note that photography is not allowed inside the facility for confidentiality reasons, but you're welcome to take notes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The tour will take about forty-five minutes, and we'll end with a short question session in the visitor lounge."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t13-q1",
+    "question": "What are visitors asked to do before the tour?",
+    "choices": [
+     "Sign a waiver.",
+     "Put on safety equipment.",
+     "Watch a short video.",
+     "Show identification."
+    ]
+   },
+   {
+    "id": "l34-t13-q2",
+    "question": "What is NOT allowed during the tour?",
+    "choices": [
+     "Taking notes.",
+     "Asking questions.",
+     "Taking photographs.",
+     "Wearing casual clothes."
+    ]
+   },
+   {
+    "id": "l34-t13-q3",
+    "question": "How long will the tour last?",
+    "choices": [
+     "Fifteen minutes.",
+     "Thirty minutes.",
+     "Forty-five minutes.",
+     "Two hours."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t14",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Are you looking for a new career opportunity? Greenfield Logistics is now hiring warehouse associates and delivery drivers."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We offer competitive pay, flexible scheduling, and full health benefits after just three months of employment."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "No prior experience is required for warehouse positions, and we provide full training during your first two weeks."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "To apply, visit our website or stop by our office on Fifth Street between nine and five, Monday through Friday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t14-q1",
+    "question": "What positions are being advertised?",
+    "choices": [
+     "Office managers.",
+     "Warehouse associates and delivery drivers.",
+     "Sales representatives.",
+     "IT technicians."
+    ]
+   },
+   {
+    "id": "l34-t14-q2",
+    "question": "When do employees receive health benefits?",
+    "choices": [
+     "Immediately upon hiring.",
+     "After three months.",
+     "After one year.",
+     "Only for full-time managers."
+    ]
+   },
+   {
+    "id": "l34-t14-q3",
+    "question": "How can interested people apply?",
+    "choices": [
+     "By calling a hotline.",
+     "Through the website or in-person visit.",
+     "By mailing a resume only.",
+     "Through a job fair."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t15",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "I'd like to share an update on our company's new sustainability initiative."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting next month, all offices will switch to recycled paper products, and single-use plastic cups in the break rooms will be replaced with reusable ones."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We're also introducing a carpooling program to reduce emissions from employee commutes, with incentives for those who participate."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "More details, including how to sign up for the carpooling program, will be shared through an email next week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t15-q1",
+    "question": "What is the main topic of the announcement?",
+    "choices": [
+     "A budget cut.",
+     "A sustainability initiative.",
+     "A new product launch.",
+     "An office relocation."
+    ]
+   },
+   {
+    "id": "l34-t15-q2",
+    "question": "What change will happen in the break rooms?",
+    "choices": [
+     "New coffee machines will be installed.",
+     "Plastic cups will be replaced with reusable ones.",
+     "The break rooms will be closed.",
+     "Snacks will be free."
+    ]
+   },
+   {
+    "id": "l34-t15-q3",
+    "question": "How will employees learn more about the carpooling program?",
+    "choices": [
+     "Through a poster in the lobby.",
+     "Through an email next week.",
+     "During a meeting today.",
+     "By asking their manager."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t16",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for calling Fairview Electronics customer support."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you are calling about an existing order, please press one. For technical support with a product, press two. To speak with a representative about a return, press three."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Our office hours are Monday through Friday, nine AM to six PM. Outside these hours, please leave a message and we will return your call within one business day."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "For faster service, you may also visit our website to chat with a support agent online."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t16-q1",
+    "question": "What should callers do to ask about a return?",
+    "choices": [
+     "Press one.",
+     "Press two.",
+     "Press three.",
+     "Stay on the line."
+    ]
+   },
+   {
+    "id": "l34-t16-q2",
+    "question": "What happens if someone calls outside office hours?",
+    "choices": [
+     "The call will not go through.",
+     "They can leave a message for a callback.",
+     "They will be charged a fee.",
+     "The office will remain open regardless."
+    ]
+   },
+   {
+    "id": "l34-t16-q3",
+    "question": "What alternative option is mentioned for faster service?",
+    "choices": [
+     "Visiting a physical store.",
+     "Sending a letter.",
+     "Chatting online through the website.",
+     "Calling a different number."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t17",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention all staff, this is a reminder about the company sports day happening this Saturday at Lincoln Park."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Activities will include a relay race, a soccer tournament, and a tug-of-war competition, with prizes awarded to the winning teams."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please arrive by nine thirty for registration, and remember to bring comfortable clothing and sunscreen, as most activities will be held outdoors."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Lunch and drinks will be provided free of charge for all participants and their families."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t17-q1",
+    "question": "What is the announcement about?",
+    "choices": [
+     "A company sports day.",
+     "A safety training session.",
+     "A holiday schedule change.",
+     "A charity fundraiser."
+    ]
+   },
+   {
+    "id": "l34-t17-q2",
+    "question": "What should participants bring?",
+    "choices": [
+     "Their own lunch.",
+     "Comfortable clothing and sunscreen.",
+     "A team uniform.",
+     "A signed waiver form."
+    ]
+   },
+   {
+    "id": "l34-t17-q3",
+    "question": "What is provided free of charge?",
+    "choices": [
+     "Transportation.",
+     "Lunch and drinks.",
+     "Sports equipment.",
+     "Team photos."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t18",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to the Riverside Public Library. Please note that the library will be closing early today at five PM for building maintenance."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have items to return, the outdoor book drop remains available even after closing hours."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting next week, our study rooms on the second floor can be reserved online up to seven days in advance."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for visiting, and we apologize for any inconvenience caused by today's early closing."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t18-q1",
+    "question": "Why is the library closing early today?",
+    "choices": [
+     "A public holiday.",
+     "Building maintenance.",
+     "A staff shortage.",
+     "A power outage."
+    ]
+   },
+   {
+    "id": "l34-t18-q2",
+    "question": "How can visitors return items after closing?",
+    "choices": [
+     "Using the outdoor book drop.",
+     "Mailing them back.",
+     "Returning them the next day only.",
+     "Leaving them with a security guard."
+    ]
+   },
+   {
+    "id": "l34-t18-q3",
+    "question": "What change will happen next week?",
+    "choices": [
+     "The library will extend its hours.",
+     "Study rooms can be reserved online.",
+     "Membership fees will be introduced.",
+     "The second floor will close permanently."
+    ]
+   }
+  ]
+ }
+]

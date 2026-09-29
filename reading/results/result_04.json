@@ -1,0 +1,394 @@
+[
+  {
+    "id": "r025",
+    "passageJa": "重要なお知らせ：口座に関する変更事項\n\n大切なお客様へ\n\n来月1日より、当行の普通預金口座の口座維持手数料体系が変更となりますのでお知らせいたします[cite: 4]。標準普通預金口座の月額維持手数料は、8ドルから12ドルに値上げされます[cite: 4]。\n\nただし、一日あたりの最低残高1,500ドルを維持するか、月額500ドル以上の口座振込（ダイレクトデポジット）を設定することで、この手数料は完全に免除されます[cite: 4]。プレミアム口座をお持ちのお客様は、この変更の影響を受けません[cite: 4]。\n\nこれらの変更がお客様の口座に与える影響についてご質問がある場合は、お近くの支店にご来店いただくか、カスタマーサービス（1-800-555-0199）までお電話ください[cite: 4]。今後とも変わらぬご愛顧を賜りますようお願い申し上げます[cite: 4]。",
+    "vocab": [
+      "fee structure: 手数料体系",
+      "maintenance fee: 維持手数料",
+      "waive: 免除する",
+      "direct deposit: 口座振込み",
+      "unaffected: 影響を受けない"
+    ],
+    "questions": [
+      {
+        "id": "r025q1",
+        "questionJa": "標準普通預金口座の新しい月額維持手数料はいくらですか？",
+        "choicesJa": [
+          "$8",
+          "$10",
+          "$12",
+          "$15"
+        ],
+        "answer": "$12",
+        "explanationDetail": "本文第1段落に「The monthly maintenance fee will increase from $8 to $12 for standard checking accounts（標準普通預金口座の月額維持手数料は8ドルから12ドルに値上げされます）」と記載されているため、$12が正解です[cite: 4]。"
+      },
+      {
+        "id": "r025q2",
+        "questionJa": "顧客はどのようにして月額手数料を回避できますか？",
+        "choicesJa": [
+          "口座を解約することによって",
+          "最低残高を維持するか自動振込を設定することによって",
+          "銀行を変更することによって",
+          "年払いにすることによって"
+        ],
+        "answer": "By maintaining a minimum balance or direct deposit",
+        "explanationDetail": "本文第2段落に「this fee can be waived entirely by maintaining a minimum daily balance of $1,500 or by setting up a direct deposit...（一日あたりの最低残高1,500ドルを維持するか、月額500ドル以上の口座振込を設定することで、この手数料は免除されます）」とあります[cite: 4]。"
+      },
+      {
+        "id": "r025q3",
+        "questionJa": "どの顧客がこの変更の影響を受けませんか？",
+        "choicesJa": [
+          "標準口座保有者",
+          "新規顧客",
+          "プレミアム口座保有者",
+          "普通預金（Savings）口座保有者"
+        ],
+        "answer": "Premium account holders",
+        "explanationDetail": "本文第2段落の終わりに「Customers with Premium accounts will not be affected by this change（プレミアム口座をお持ちのお客様はこの変更の影響を受けません）」と記載されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r026",
+    "passageJa": "FreshBox ミールデリバリーのご案内\n\nFreshBoxは、シェフが調理した健康的でおいしい料理をあなたのご自宅に直接お届けします[cite: 4]。ベジタリアン、低糖質、グルテンフリーなど、さまざまな食事の好みに対応した20種類以上の週替わりメニューからお選びいただけます[cite: 4]。\n\n週額サブスクリプションは5食で59.99ドルからスタートし、大口注文には割引が適用されます[cite: 4]。すべての料理は新鮮に調理され、配送中も新鮮さを保てるよう環境に優しいリサイクル可能な包装でお届けします[cite: 4]。\n\n配達は毎週火曜日と金曜日の午前8時から午後6時の間に行われます[cite: 4]。モバイルアプリを通じて、長期の縛りなしでいつでも簡単に定期購入の休止、スキップ、解約が可能です[cite: 4]。\n\n新規のお客様は、チェックアウト時にプロモコード「FRESH30」を使用すると、初回注文が30%引きになります[cite: 4]。",
+    "vocab": [
+      "catering to: ～に対応する",
+      "dietary preferences: 食事の嗜好",
+      "subscription: 定期購入・サブスクリプション",
+      "eco-friendly: 環境に優しい",
+      "commitment: 誓約・拘束"
+    ],
+    "questions": [
+      {
+        "id": "r026q1",
+        "questionJa": "週額サブスクリプションの開始価格はいくらですか？",
+        "choicesJa": [
+          "$39.99",
+          "$49.99",
+          "$59.99",
+          "$69.99"
+        ],
+        "answer": "$59.99",
+        "explanationDetail": "本文第2段落に「Our weekly subscription starts at $59.99 for 5 meals（当社の週額サブスクリプションは5食で59.99ドルからスタートします）」と書かれているため、$59.99が正解です[cite: 4]。"
+      },
+      {
+        "id": "r026q2",
+        "questionJa": "配達は何曜日に行われますか？",
+        "choicesJa": [
+          "月曜日と木曜日",
+          "火曜日と金曜日",
+          "水曜日と土曜日",
+          "毎日"
+        ],
+        "answer": "Tuesday and Friday",
+        "explanationDetail": "本文第3段落に「Deliveries occur every Tuesday and Friday between 8 AM and 6 PM（配達は毎週火曜日と金曜日の午前8時から午後6時の間に行われます）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r026q3",
+        "questionJa": "新規顧客はどのような割引を受けられますか？",
+        "choicesJa": [
+          "10%",
+          "20%",
+          "30%",
+          "50%"
+        ],
+        "answer": "30%",
+        "explanationDetail": "本文最終段落に「New customers receive 30% off their first order（新規のお客様は初回注文が30%引きになります）」とあります[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r027",
+    "passageJa": "件名：お別れと感謝のご挨拶\n\n同僚の皆様へ\n\nBright Solutionsで素晴らしく充実した8年間を過ごした後、私は新たな挑戦をすることを決め、今月末をもって退職することになりました[cite: 4]。最終出社日は28日となります[cite: 4]。\n\nこのような才能豊かで熱心な方々と一緒に働けたことは、私のキャリアにおける最高の出来事の一つでした[cite: 4]。特にマーケティング部門で過ごした期間にいただいたご支援とご指導に深く感謝しております[cite: 4]。\n\n今後2週間で、現在のプロジェクトをサラ・ウィリアムズさんに引き継ぎます[cite: 4]。ご質問等ございましたら、お気軽にサラさんまでご連絡ください[cite: 4]。すべての業務がスムーズに引き継がれるよう全力を尽くします[cite: 4]。\n\nたくさんの思い出をありがとうございました[cite: 4]。またいつかお会いできることを願っております[cite: 4]。\n\n敬具\nデヴィッド・リー[cite: 4]",
+    "vocab": [
+      "pursue: 追求する",
+      "dedicated: 献身的な・熱心な",
+      "mentorship: 指導・助言",
+      "transitioning: 移行させる・引き継ぐ",
+      "handover: 引き継ぎ"
+    ],
+    "questions": [
+      {
+        "id": "r027q1",
+        "questionJa": "デヴィッドはこの会社で何年間働きましたか？",
+        "choicesJa": [
+          "5年間",
+          "6年間",
+          "7年間",
+          "8年間"
+        ],
+        "answer": "Eight years",
+        "explanationDetail": "本文冒頭に「After eight wonderful years with Bright Solutions（Bright Solutionsでの素晴らしい8年間を経て）」と書かれています[cite: 4]。"
+      },
+      {
+        "id": "r027q2",
+        "questionJa": "誰がデヴィッドのプロジェクトを引き継ぎますか？",
+        "choicesJa": [
+          "新入社員",
+          "サラ・ウィリアムズ",
+          "部署のマネージャー",
+          "まだ決まっていない"
+        ],
+        "answer": "Sarah Williams",
+        "explanationDetail": "本文第3段落に「I will be transitioning my current projects to Sarah Williams（現在のプロジェクトをサラ・ウィリアムズに引き継ぎます）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r027q3",
+        "questionJa": "デヴィッドが最も感謝していたことは何ですか？",
+        "choicesJa": [
+          "給与",
+          "オフィスの立地",
+          "支援と指導（メンターシップ）",
+          "柔軟な勤務時間"
+        ],
+        "answer": "Support and mentorship",
+        "explanationDetail": "本文第2段落に「I am especially grateful for the support and mentorship I received（いただいた支援と指導に特に感謝しています）」と明記されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r028",
+    "passageJa": "リバーサイド市立図書館：会員サービス改定のお知らせ\n\n今月より図書館サービスの一部を更新いたします[cite: 4]。平日の開館時間を延長し、従来の午後7時閉館から午後9時まで開館することになりました[cite: 4]。\n\nさらに、貸出枠が一度に最大10点から15点に拡大されます[cite: 4]。ほとんどの資料の貸出期間は3週間のままで、他の利用者が予約していない場合に限り、2回まで更新が可能です[cite: 4]。\n\n新しいデジタル利用カードを使用すると、モバイルアプリから電子書籍やオーディオブックに直接アクセスできるようになり、デジタルサービスのために物理的なカードを持ち歩く必要がなくなります[cite: 4]。\n\nこれらの変更により、地域の皆様がリバーサイド市立図書館の資料をより利用しやすくなることを願っております[cite: 4]。",
+    "vocab": [
+      "extended hours: 延長時間",
+      "borrow: 借りる",
+      "loan period: 貸出期間",
+      "renew: 更新する",
+      "eliminating: 不要にする・排除する"
+    ],
+    "questions": [
+      {
+        "id": "r028q1",
+        "questionJa": "平日の新しい閉館時間は何時ですか？",
+        "choicesJa": [
+          "午後7時",
+          "午後8時",
+          "午後9時",
+          "午後10時"
+        ],
+        "answer": "9 PM",
+        "explanationDetail": "本文第1段落に「remaining open until 9 PM on weekdays, an increase from the previous closing time of 7 PM（従来の午後7時閉館から延長し、平日午後9時まで開館）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r028q2",
+        "questionJa": "会員は一度に何点まで借りられるようになりましたか？",
+        "choicesJa": [
+          "10点",
+          "12点",
+          "15点",
+          "20点"
+        ],
+        "answer": "15",
+        "explanationDetail": "本文第2段落に「borrow up to 15 items at a time, up from the previous limit of 10（これまでの10点から増加し、一度に最大15点まで借りられる）」と書かれています[cite: 4]。"
+      },
+      {
+        "id": "r028q3",
+        "questionJa": "会員は新しいデジタル利用カードで何ができますか？",
+        "choicesJa": [
+          "遠隔で実物本を借りる",
+          "アプリを通じて電子書籍やオーディオブックにアクセスする",
+          "学習室を予約する",
+          "文書を印刷する"
+        ],
+        "answer": "Access e-books and audiobooks through the app",
+        "explanationDetail": "本文第3段落に「access e-books and audiobooks directly through our mobile app（モバイルアプリから電子書籍やオーディオブックに直接アクセスする）」と書かれています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r029",
+    "passageJa": "社内連絡：事務用品発注手順変更のお知らせ\n\n購買プロセスを効率化するため、即日より事務用品の注文に関する新しい手順を導入します[cite: 4]。すべての用品リクエストは、以前の紙の申請書ではなく、オンライン購買システムを通じて提出する必要があります[cite: 4]。\n\n従業員は従業員IDとパスワードで購買ポータルにログインし、承認されたベンダーカタログから商品を選択してください[cite: 4]。100ドル未満の注文は自動承認されますが、この金額を超える注文は処理前に上司（マネージャー）の承認が必要となります[cite: 4]。\n\n正午（12時）前に提出された注文は通常、即日処理および出荷されます。正午以降に提出された注文は翌営業日に処理されます[cite: 4]。お届けまでに3〜5営業日かかりますのでご了承ください[cite: 4]。\n\n新システムに関するご質問は、購買チーム（procurement@company.com）までお問い合わせください[cite: 4]。",
+    "vocab": [
+      "streamline: 効率化する・簡素化する",
+      "procurement: 購買・調達",
+      "credentials: 資格情報・ログイン情報",
+      "exceeding: 超える",
+      "business day: 営業日"
+    ],
+    "questions": [
+      {
+        "id": "r029q1",
+        "questionJa": "従業員は今後、用品リクエストの提出に何を使用しなければなりませんか？",
+        "choicesJa": [
+          "紙の申請書",
+          "オンライン購買システム",
+          "メールでの依頼",
+          "電話連絡"
+        ],
+        "answer": "An online procurement system",
+        "explanationDetail": "本文第1段落に「must now be submitted through the online procurement system（オンライン購買システムを通じて提出しなければならない）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r029q2",
+        "questionJa": "マネージャーの承認が必要かどうかは何によって決まりますか？",
+        "choicesJa": [
+          "品目の種類",
+          "注文金額",
+          "配達日",
+          "従業員の部署"
+        ],
+        "answer": "The order amount",
+        "explanationDetail": "本文第2段落に「Orders under $100 will be automatically approved, while orders exceeding this amount will require manager approval（100ドル未満は自動承認、これを超える金額はマネージャーの承認が必要）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r029q3",
+        "questionJa": "正午過ぎに提出された注文はいつ処理されますか？",
+        "choicesJa": [
+          "当日",
+          "翌営業日",
+          "1週間以内",
+          "即時"
+        ],
+        "answer": "The following business day",
+        "explanationDetail": "本文第3段落に「those submitted after noon will be processed the following business day（正午以降に提出されたものは翌営業日に処理されます）」と明記されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r030",
+    "passageJa": "お詫びとお客様へのお約束\n\nお客様へ\n\n先週の火曜日、約6時間にわたり、お客様を含む多くのお客様に影響を与えるサービス障害が発生いたしました[cite: 4]。業務にご迷惑をおかけしましたことを心よりお詫び申し上げます[cite: 4]。\n\n弊社の技術チームが問題の根本原因を特定し、将来同様の事象が発生するのを防ぐための追加の安全対策を実施いたしました[cite: 4]。弊社はサービスの信頼性を極めて重視しており、今回の障害がいかに大きな支障をきたしたかを重く受け止めております[cite: 4]。\n\nお詫びの気持ちを込めまして、お客様の口座に1か月分のサービス料に相当する金額を無料でクレジット還元（請求減額）いたします[cite: 4]。このクレジットは次回の請求書に自動的に反映されます[cite: 4]。\n\n今回の障害に関連して個別にご相談したい不具合などがございましたら、専用サポートライン（1-800-555-0142）まで遠慮なくお問い合わせください[cite: 4]。",
+    "vocab": [
+      "outage: サービス停止・障害",
+      "root cause: 根本原因",
+      "safeguards: 安全対策・予防措置",
+      "disruptive: 混乱をもたらす",
+      "gesture of goodwill: 好意のしるし・お詫びの気持ち"
+    ],
+    "questions": [
+      {
+        "id": "r030q1",
+        "questionJa": "サービス障害はどれくらいの期間続きましたか？",
+        "choicesJa": [
+          "2時間",
+          "4時間",
+          "6時間",
+          "丸1日"
+        ],
+        "answer": "Six hours",
+        "explanationDetail": "本文第1段落に「affected many of our customers... for approximately six hours（約6時間にわたり多くのお客様に影響を与えた）」と書かれています[cite: 4]。"
+      },
+      {
+        "id": "r030q2",
+        "questionJa": "会社はこの問題に対処するために何を行いましたか？",
+        "choicesJa": [
+          "新しいスタッフを雇った",
+          "追加の安全対策を導入した",
+          "サービスプロバイダーを変更した",
+          "永久に値下げした"
+        ],
+        "answer": "Implemented additional safeguards",
+        "explanationDetail": "本文第2段落に「implemented additional safeguards to prevent similar incidents in the future（将来の同様のインシデントを防ぐため追加の安全対策を実施した）」とあります[cite: 4]。"
+      },
+      {
+        "id": "r030q3",
+        "questionJa": "影響を受けた顧客にどのような補償が提供されていますか？",
+        "choicesJa": [
+          "全額返金",
+          "1か月分のサービス無料クレジット",
+          "ギフトカード",
+          "永久割引"
+        ],
+        "answer": "One month of free service credit",
+        "explanationDetail": "本文第3段落に「crediting your account with an amount equivalent to one month of service at no charge（1か月分の無料サービスに相当する金額を口座にクレジット付与する）」と記載されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r031",
+    "passageJa": "新入社員オリエンテーション日程\n\nチームへようこそ！オリエンテーションは2日間にわたって行われ、会社の文化、規定、および具体的な職務に慣れていただくよう設計されています[cite: 4]。\n\n1日目は会社概要、福利厚生の概要、施設見学を行い、会議室Bにて午前9時に開始します[cite: 4]。建物への入館設定に必要な有効な顔写真付き身分証明書と、給与支払手続きに必要な書類をお持ちください[cite: 4]。\n\n2日目は部署別の研修に焦点を当て、直属の上司やチームメンバーと面談します[cite: 4]。このセッションは午前10時に開始し、部署の研修要件に応じて通常午後3時までに終了します[cite: 4]。\n\n両日とも昼食が用意されます[cite: 4]。食事に関する制限（アレルギー等）がある場合は、事前に対処できるよう事前に人事部（HR）までお知らせください[cite: 4]。",
+    "vocab": [
+      "orientation: 新入社員研修・オリエンテーション",
+      "get acquainted with: ～に慣れ親しむ",
+      "payroll: 給与管理・給与支払い",
+      "concludes: 終了する",
+      "dietary restrictions: 食事の制限（アレルギー・宗教上の制限など）"
+    ],
+    "questions": [
+      {
+        "id": "r031q1",
+        "questionJa": "新入社員は1日目に何を持参すべきですか？",
+        "choicesJa": [
+          "ノートパソコン",
+          "有効な顔写真付き身分証明書",
+          "名刺",
+          "履歴書"
+        ],
+        "answer": "A valid photo ID",
+        "explanationDetail": "本文第2段落に「Please bring a valid photo ID for building access setup（建物アクセス設定のために有効な写真付き身分証明書をお持ちください）」とあります[cite: 4]。"
+      },
+      {
+        "id": "r031q2",
+        "questionJa": "2日目の中心内容は何ですか？",
+        "choicesJa": [
+          "会社の歴史",
+          "福利厚生の概要",
+          "部署別の研修",
+          "施設見学"
+        ],
+        "answer": "Department-specific training",
+        "explanationDetail": "本文第3段落に「Day 2 will focus on department-specific training（2日目は部署ごとの研修に焦点を当てます）」と書かれています[cite: 4]。"
+      },
+      {
+        "id": "r031q3",
+        "questionJa": "食事制限がある場合、従業員はどうすべきですか？",
+        "choicesJa": [
+          "自分の昼食を持参する",
+          "事前に人事部（HR）に連絡する",
+          "昼食を抜く",
+          "食堂に連絡する"
+        ],
+        "answer": "Inform HR in advance",
+        "explanationDetail": "本文最終段落に「If you have any dietary restrictions, please inform HR in advance（食事の制限がある場合は、事前に人事部（HR）にお知らせください）」と書かれています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r032",
+    "passageJa": "四半期決算報告要約\n\nApex Industriesは第2四半期において好調な業績を発表し、売上高は前年同期比12%増の4,520万ドルとなりました[cite: 4]。純利益率は前年同期の15%から18%に改善しました[cite: 4]。\n\n同社の成長は主に産業機器部門の強い需要に牽引されたもので、同部門の売上高は20%増加しました[cite: 4]。一方で、消費財部門は市場の競争激化により3%のわずかな減少となりました[cite: 4]。\n\n今後の見通しとして、経営陣は継続的なサプライチェーンの改善と第4四半期に予定されている2つの新製品ラインの投入を挙げ、残りの期間について慎重ながらも楽観的な見方を示しました[cite: 4]。また、同社は四半期配当を1株あたり0.25ドルから0.30ドルへ増配することを発表しました[cite: 4]。",
+    "vocab": [
+      "revenue: 売上高・収入",
+      "net profit margin: 純利益率",
+      "driven by: ～によって推進された・牽引された",
+      "cautious optimism: 慎重な楽観論",
+      "dividend: 配当金"
+    ],
+    "questions": [
+      {
+        "id": "r032q1",
+        "questionJa": "前年と比較した会社の売上高成長率はどれくらいでしたか？",
+        "choicesJa": [
+          "8%",
+          "10%",
+          "12%",
+          "15%"
+        ],
+        "answer": "12%",
+        "explanationDetail": "本文第1段落に「with revenue increasing 12% year-over-year（売上高が前年同期比12%増加）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r032q2",
+        "questionJa": "どの部門が会社の成長を牽引しましたか？",
+        "choicesJa": [
+          "消費財部門",
+          "産業機器部門",
+          "ソフトウェアサービス部門",
+          "小売部門"
+        ],
+        "answer": "Industrial equipment",
+        "explanationDetail": "本文第2段落に「primarily driven by strong demand in its industrial equipment division（主に産業機器部門における強い需要によって牽引された）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r032q3",
+        "questionJa": "1株あたりの新しい四半期配当金はいくらですか？",
+        "choicesJa": [
+          "$0.20",
+          "$0.25",
+          "$0.30",
+          "$0.35"
+        ],
+        "answer": "$0.30",
+        "explanationDetail": "本文最終段落に「announced a quarterly dividend increase from $0.25 to $0.30 per share（四半期配当を1株あたり0.25ドルから0.30ドルへ引き上げ）」と明記されています[cite: 4]。"
+      }
+    ]
+  }
+]

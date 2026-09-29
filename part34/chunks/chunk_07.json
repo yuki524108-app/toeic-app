@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-c31n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Are we ready for the client visit tomorrow? I want to make sure the meeting room is set up properly."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I already reserved the room and ordered coffee and snacks for ten people, as you asked."
+   },
+   {
+    "speaker": "Man",
+    "line": "Great. Could you also print extra copies of the proposal in case they bring more people than expected?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll print five extra copies just to be safe, along with the updated pricing sheet."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c31n-q1",
+    "question": "What is being prepared for?",
+    "choices": [
+     "A job interview.",
+     "A client visit.",
+     "A company party.",
+     "A product launch."
+    ]
+   },
+   {
+    "id": "l34-c31n-q2",
+    "question": "What has the woman already arranged?",
+    "choices": [
+     "Transportation for the client.",
+     "The meeting room and refreshments.",
+     "A hotel for the client.",
+     "A gift for the client."
+    ]
+   },
+   {
+    "id": "l34-c31n-q3",
+    "question": "What extra item does the man request?",
+    "choices": [
+     "More chairs.",
+     "Extra copies of the proposal.",
+     "A projector.",
+     "A translator."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c32n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I finished reviewing the customer survey results. Overall satisfaction is up, but several people mentioned slow response times from support."
+   },
+   {
+    "speaker": "Man",
+    "line": "That matches what I've been hearing. Do you think we need to hire more support staff?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Possibly, but first I'd like to see if better training or a new ticketing system could solve the issue."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let's present both options to management next week and let them decide on the budget."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c32n-q1",
+    "question": "What did the survey reveal?",
+    "choices": [
+     "Sales have dropped.",
+     "Satisfaction is up, but support is slow.",
+     "Customers want a new product.",
+     "Prices are too high."
+    ]
+   },
+   {
+    "id": "l34-c32n-q2",
+    "question": "What does the woman want to try first?",
+    "choices": [
+     "Hiring more staff immediately.",
+     "Better training or a new ticketing system.",
+     "Closing the support department.",
+     "Raising prices."
+    ]
+   },
+   {
+    "id": "l34-c32n-q3",
+    "question": "What will happen next week?",
+    "choices": [
+     "A new hire will start.",
+     "Options will be presented to management.",
+     "The survey will be repeated.",
+     "The support department will be closed."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c33n",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Who's been watering the plants in the break room lately? A few of them look like they're wilting."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I think it used to be Sarah's job, but she moved to a different floor last month, so maybe no one picked it up."
+   },
+   {
+    "speaker": "Man",
+    "line": "I can water them twice a week if someone shows me which ones need more sunlight."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That would be great. I'll send you a quick guide I found on caring for office plants."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c33n-q1",
+    "question": "What problem is being discussed?",
+    "choices": [
+     "Broken office furniture.",
+     "Wilting plants that need care.",
+     "A messy break room.",
+     "Missing office supplies."
+    ]
+   },
+   {
+    "id": "l34-c33n-q2",
+    "question": "Why might the plants have been neglected?",
+    "choices": [
+     "The person responsible moved to another floor.",
+     "The office ran out of water.",
+     "The plants were replaced recently.",
+     "The break room was closed."
+    ]
+   },
+   {
+    "id": "l34-c33n-q3",
+    "question": "What does the man offer to do?",
+    "choices": [
+     "Buy new plants.",
+     "Water the plants twice a week.",
+     "Remove the plants entirely.",
+     "Hire a gardening service."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c34n",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "The local community center asked if our company would like to sponsor their summer festival again this year."
+   },
+   {
+    "speaker": "Man",
+    "line": "We sponsored it last year, right? How did that go over with the marketing team?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "It went well — it got us some good local press. I think we should do it again, maybe with a bigger booth this time."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let's put together a proposal with the cost estimate and send it to the director for approval by next week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c34n-q1",
+    "question": "What is the community center asking about?",
+    "choices": [
+     "A job posting.",
+     "Sponsorship of a summer festival.",
+     "A charity donation.",
+     "A building lease."
+    ]
+   },
+   {
+    "id": "l34-c34n-q2",
+    "question": "How did last year's sponsorship go?",
+    "choices": [
+     "It was a failure.",
+     "It got good local press.",
+     "It was too expensive.",
+     "It was canceled."
+    ]
+   },
+   {
+    "id": "l34-c34n-q3",
+    "question": "What will the speakers do next?",
+    "choices": [
+     "Cancel the sponsorship.",
+     "Prepare a proposal for the director.",
+     "Contact a different event.",
+     "Increase their marketing budget immediately."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t19n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Please note that starting next Monday, our store hours will change slightly."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We will now open one hour earlier, at eight in the morning, but close one hour earlier as well, at seven in the evening."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "This change is based on customer feedback requesting earlier access before work hours."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Weekend hours will remain the same. Thank you for shopping with us."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t19n-q1",
+    "question": "What is changing next Monday?",
+    "choices": [
+     "The store's location.",
+     "The store's hours.",
+     "The store's return policy.",
+     "The store's staff."
+    ]
+   },
+   {
+    "id": "l34-t19n-q2",
+    "question": "What time will the store now open?",
+    "choices": [
+     "Seven in the morning.",
+     "Eight in the morning.",
+     "Nine in the morning.",
+     "Ten in the morning."
+    ]
+   },
+   {
+    "id": "l34-t19n-q3",
+    "question": "Why was this change made?",
+    "choices": [
+     "To save on electricity.",
+     "Based on customer feedback.",
+     "Due to a staff shortage.",
+     "Because of new regulations."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t20n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you all for coming to today's recruitment information session."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll begin with a short presentation about our company culture and available positions, followed by a chance to speak one-on-one with hiring managers from different departments."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you're interested in applying, please bring your resume to the tables set up near the entrance after the presentation."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll also be holding a raffle at the end, so make sure to sign in at the front desk to be eligible."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t20n-q1",
+    "question": "What is this event?",
+    "choices": [
+     "A shareholder meeting.",
+     "A recruitment information session.",
+     "A product demonstration.",
+     "A retirement party."
+    ]
+   },
+   {
+    "id": "l34-t20n-q2",
+    "question": "What will happen after the presentation?",
+    "choices": [
+     "A factory tour.",
+     "One-on-one talks with hiring managers.",
+     "A written exam.",
+     "A group interview."
+    ]
+   },
+   {
+    "id": "l34-t20n-q3",
+    "question": "What should attendees do to enter the raffle?",
+    "choices": [
+     "Submit a resume.",
+     "Sign in at the front desk.",
+     "Answer a survey.",
+     "Purchase a ticket."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t21n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This is a reminder that this year's on-site health checkup will take place next Tuesday and Wednesday in the third-floor conference room."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Employees should arrive during their scheduled time slot, which was sent by email last week, and should not eat for at least eight hours beforehand."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please bring your employee ID and a valid form of identification."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you haven't received a time slot or need to reschedule, please contact the HR office before Friday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t21n-q1",
+    "question": "Where will the checkup take place?",
+    "choices": [
+     "An outside clinic.",
+     "The third-floor conference room.",
+     "The cafeteria.",
+     "The parking garage."
+    ]
+   },
+   {
+    "id": "l34-t21n-q2",
+    "question": "What are employees asked to do before the checkup?",
+    "choices": [
+     "Drink plenty of water.",
+     "Not eat for at least eight hours.",
+     "Submit a medical history form.",
+     "Take a day off."
+    ]
+   },
+   {
+    "id": "l34-t21n-q3",
+    "question": "What should employees do if they need to reschedule?",
+    "choices": [
+     "Just show up on a different day.",
+     "Contact HR before Friday.",
+     "Email the clinic directly.",
+     "Call the front desk."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t22n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention library visitors, please note a temporary change to our closing time this month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Due to staff training sessions, the library will now close at six in the evening instead of the usual nine, every Wednesday this month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All other days will keep their regular hours, and the book return box outside will remain available at all times."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We apologize for any inconvenience and thank you for your understanding."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t22n-q1",
+    "question": "What is changing this month?",
+    "choices": [
+     "The library's location.",
+     "The Wednesday closing time.",
+     "The membership fee.",
+     "The number of books allowed."
+    ]
+   },
+   {
+    "id": "l34-t22n-q2",
+    "question": "Why is the change happening?",
+    "choices": [
+     "A renovation.",
+     "Staff training sessions.",
+     "A holiday.",
+     "Low visitor numbers."
+    ]
+   },
+   {
+    "id": "l34-t22n-q3",
+    "question": "What remains available at all times?",
+    "choices": [
+     "The reading room.",
+     "The book return box.",
+     "The computer lab.",
+     "The café."
+    ]
+   }
+  ]
+ }
+]

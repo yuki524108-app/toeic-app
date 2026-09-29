@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r057",
+  "passage": "Introducing the TrailPack Laptop Bag – Built for the Modern Professional\n\nThe TrailPack combines durability and style, making it the perfect companion for your commute or business trip. Made from water-resistant fabric, it protects your laptop (up to 15 inches) and other electronics from unexpected weather.\n\nFeatures include a padded laptop compartment, a separate pocket for documents and cables, and an adjustable strap for comfortable carrying. The exterior also includes a hidden pocket for valuables, providing extra security while traveling.\n\nAvailable in three colors: charcoal gray, navy blue, and forest green. The TrailPack is priced at $89.99 and comes with a two-year warranty against manufacturing defects.\n\nOrder now on our website and receive free shipping on orders over $50.",
+  "questions": [
+   {
+    "id": "r057q1",
+    "question": "What laptop size can the TrailPack accommodate?",
+    "choices": [
+     "Up to 13 inches",
+     "Up to 15 inches",
+     "Up to 17 inches",
+     "Any size"
+    ]
+   },
+   {
+    "id": "r057q2",
+    "question": "What feature is designed for security?",
+    "choices": [
+     "A combination lock",
+     "A hidden pocket for valuables",
+     "GPS tracking",
+     "A reinforced zipper"
+    ]
+   },
+   {
+    "id": "r057q3",
+    "question": "How can customers receive free shipping?",
+    "choices": [
+     "By joining a membership program",
+     "By ordering over $50",
+     "By choosing forest green",
+     "Shipping is always free"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r058",
+  "passage": "Now Showing at the Hallowell Art Museum: \"Light and Shadow: A Century of Photography\"\n\nThis special exhibition features over 150 photographs from renowned photographers spanning the last hundred years, exploring how artists have used light and shadow to tell stories.\n\nThe exhibition runs from September 5th through January 10th. Museum members receive free admission, while general admission is $18 for adults and $10 for students and seniors. Children under 12 enter free.\n\nGuided tours are offered every Saturday and Sunday at 11:00 AM and 2:00 PM. Reservations are recommended, as tours have limited capacity. Audio guides are also available in five languages for self-guided visits.\n\nThe museum gift shop will feature a special collection of photography books and prints related to the exhibition.",
+  "questions": [
+   {
+    "id": "r058q1",
+    "question": "What is the exhibition about?",
+    "choices": [
+     "Modern sculpture",
+     "The history of photography using light and shadow",
+     "Ancient paintings",
+     "Digital art"
+    ]
+   },
+   {
+    "id": "r058q2",
+    "question": "Who can enter the museum for free?",
+    "choices": [
+     "Students",
+     "Seniors",
+     "Museum members and children under 12",
+     "Anyone on weekends"
+    ]
+   },
+   {
+    "id": "r058q3",
+    "question": "What is recommended for visitors who want a guided tour?",
+    "choices": [
+     "Arriving early without a reservation",
+     "Making a reservation in advance",
+     "Purchasing an audio guide instead",
+     "Visiting on a weekday"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r059",
+  "passage": "Company Newsletter – Employee Spotlight\n\nThis month, we are proud to recognize three employees whose outstanding contributions have made a real difference to our company.\n\nSarah Kim, from the Sales Department, exceeded her quarterly sales target by 35%, the highest increase in the company this year. James Whitfield, from IT Support, was recognized for resolving over 200 support tickets in record time while maintaining a customer satisfaction rating of 98%. Finally, the Logistics team, led by Carlos Mendes, successfully redesigned our shipping process, reducing delivery times by an average of two days.\n\nEach recognized employee will receive a certificate of achievement and a $200 bonus. A celebratory lunch will be held on the last Friday of this month to honor their achievements.\n\nCongratulations to all award recipients!",
+  "questions": [
+   {
+    "id": "r059q1",
+    "question": "What did Sarah Kim achieve?",
+    "choices": [
+     "She resolved 200 support tickets",
+     "She exceeded her sales target by 35%",
+     "She redesigned the shipping process",
+     "She trained new employees"
+    ]
+   },
+   {
+    "id": "r059q2",
+    "question": "What result did the Logistics team achieve?",
+    "choices": [
+     "Increased sales",
+     "Reduced delivery times by an average of two days",
+     "Improved customer satisfaction ratings",
+     "Lowered shipping costs by 35%"
+    ]
+   },
+   {
+    "id": "r059q3",
+    "question": "What will award recipients receive?",
+    "choices": [
+     "A promotion",
+     "A certificate and a $200 bonus",
+     "An extra vacation day",
+     "A company car"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r060",
+  "passage": "Flight Notice: AeroLink Airlines\n\nDear Passenger,\n\nWe regret to inform you that Flight AL 2284, scheduled to depart at 3:15 PM, has been delayed due to a mechanical inspection. The new estimated departure time is 5:45 PM.\n\nWe understand this delay may cause inconvenience, and we apologize for any disruption to your travel plans. All passengers will receive a meal voucher, redeemable at any restaurant in Terminal B, and complimentary Wi-Fi access while waiting.\n\nPassengers with connecting flights affected by this delay should visit the AeroLink service desk near Gate 22 for rebooking assistance. Please monitor the departure boards for further updates, as boarding time may change.\n\nThank you for your patience and understanding.",
+  "questions": [
+   {
+    "id": "r060q1",
+    "question": "Why has the flight been delayed?",
+    "choices": [
+     "Bad weather",
+     "A mechanical inspection",
+     "A staffing shortage",
+     "A security issue"
+    ]
+   },
+   {
+    "id": "r060q2",
+    "question": "What will passengers receive because of the delay?",
+    "choices": [
+     "A refund",
+     "A meal voucher and free Wi-Fi",
+     "A hotel room",
+     "A seat upgrade"
+    ]
+   },
+   {
+    "id": "r060q3",
+    "question": "What should passengers with connecting flights do?",
+    "choices": [
+     "Wait at their current gate",
+     "Visit the service desk near Gate 22",
+     "Contact the airline by phone",
+     "Book a new flight online"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r061",
+  "passage": "WorkHive Coworking – Find Your Perfect Plan\n\nWhether you need a desk for a day or a permanent office for your growing team, WorkHive has a plan for you.\n\nDay Pass ($25): Includes access to shared desks, high-speed Wi-Fi, and complimentary coffee for one day.\n\nFlex Membership ($150/month): Includes unlimited access to shared desks during business hours, two hours of meeting room use per month, and a mailing address.\n\nDedicated Desk ($300/month): Includes a reserved desk available 24/7, five hours of meeting room use per month, and access to printing services.\n\nPrivate Office (starting at $800/month): Fully furnished private offices for teams of two to eight, with 24/7 access and unlimited meeting room use.\n\nAll members receive access to our monthly networking events. Sign up online or visit any of our five locations for a tour.",
+  "questions": [
+   {
+    "id": "r061q1",
+    "question": "What is included with the Day Pass?",
+    "choices": [
+     "A reserved desk",
+     "Shared desks, Wi-Fi, and coffee",
+     "Unlimited meeting room use",
+     "A mailing address"
+    ]
+   },
+   {
+    "id": "r061q2",
+    "question": "Which plan provides 24/7 access to a reserved desk?",
+    "choices": [
+     "Day Pass",
+     "Flex Membership",
+     "Dedicated Desk",
+     "None of the plans"
+    ]
+   },
+   {
+    "id": "r061q3",
+    "question": "What do all members receive, regardless of plan?",
+    "choices": [
+     "Free printing",
+     "Access to monthly networking events",
+     "A private office",
+     "Unlimited coffee"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r062",
+  "passage": "To: All Employees\nFrom: Human Resources\nSubject: Updated Dress Code Policy\n\nEffective October 1st, we are updating our dress code policy to a \"business casual\" standard for all departments, replacing the previous formal dress requirement.\n\nUnder the new policy, employees may wear collared shirts, blouses, sweaters, dress pants, and knee-length skirts or dresses. Jeans in good condition are permitted on Fridays only. Athletic wear, flip-flops, and clothing with offensive graphics remain prohibited at all times.\n\nEmployees meeting with clients in person should continue to dress more formally, as appropriate for the occasion. Department managers may provide additional guidance specific to their team's needs.\n\nWe believe this update reflects a more comfortable and modern workplace while maintaining a professional appearance. Questions may be directed to Human Resources.",
+  "questions": [
+   {
+    "id": "r062q1",
+    "question": "What is the main purpose of the memo?",
+    "choices": [
+     "To announce a new office location",
+     "To announce an update to the dress code",
+     "To introduce a new HR manager",
+     "To announce a holiday schedule"
+    ]
+   },
+   {
+    "id": "r062q2",
+    "question": "When are jeans permitted under the new policy?",
+    "choices": [
+     "Every day",
+     "Only on Fridays",
+     "Only for managers",
+     "Never"
+    ]
+   },
+   {
+    "id": "r062q3",
+    "question": "What should employees do when meeting with clients in person?",
+    "choices": [
+     "Wear athletic wear",
+     "Dress more formally as appropriate",
+     "Follow the Friday jeans policy",
+     "Ask HR for a special exception"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r063",
+  "passage": "Dear Customer,\n\nThank you for your recent stay at the Lakeside Inn. We hope you enjoyed your time with us.\n\nWe would greatly appreciate it if you could take five minutes to complete our online satisfaction survey. Your feedback helps us identify areas for improvement and continue providing excellent service to future guests.\n\nAs a token of our appreciation, everyone who completes the survey by the end of this month will be entered into a drawing for a free two-night stay at any of our properties. Winners will be notified by email in early next month.\n\nThe survey can be accessed through the link below and takes only a few minutes to complete. All responses are kept confidential and will only be used to improve our services.\n\nWe hope to welcome you back again soon.\n\nLakeside Inn Guest Relations",
+  "questions": [
+   {
+    "id": "r063q1",
+    "question": "What is the purpose of the email?",
+    "choices": [
+     "To offer a discount on a future stay",
+     "To request feedback through a survey",
+     "To confirm a reservation",
+     "To announce a hotel closure"
+    ]
+   },
+   {
+    "id": "r063q2",
+    "question": "What incentive is offered for completing the survey?",
+    "choices": [
+     "A discount coupon",
+     "Entry into a drawing for a free stay",
+     "Extra loyalty points",
+     "A refund"
+    ]
+   },
+   {
+    "id": "r063q3",
+    "question": "What is stated about the survey responses?",
+    "choices": [
+     "They will be published publicly",
+     "They are kept confidential",
+     "They require a follow-up phone call",
+     "They must be submitted in person"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r064",
+  "passage": "Position Available: Accountant\nCompany: Bramwell & Co. Financial Services\n\nBramwell & Co. is seeking an experienced Accountant to join our finance team. The successful candidate will be responsible for preparing monthly financial statements, reconciling accounts, and assisting with the annual budgeting process.\n\nQualifications:\n- Bachelor's degree in Accounting or Finance\n- At least three years of relevant experience\n- Certified Public Accountant (CPA) license preferred but not required\n- Strong attention to detail and organizational skills\n\nThis is a full-time position based in our downtown office, with the option to work remotely on Fridays. Salary is competitive and commensurate with experience, and includes a full benefits package.\n\nQualified candidates should send a resume and cover letter to hiring@bramwellco.com. Applications will be accepted until all positions are filled.",
+  "questions": [
+   {
+    "id": "r064q1",
+    "question": "What will the Accountant be responsible for?",
+    "choices": [
+     "Managing the marketing budget",
+     "Preparing financial statements and reconciling accounts",
+     "Hiring new employees",
+     "Designing the company website"
+    ]
+   },
+   {
+    "id": "r064q2",
+    "question": "What is true about the CPA license?",
+    "choices": [
+     "It is required for the position",
+     "It is preferred but not required",
+     "It disqualifies applicants if they have one",
+     "It is only needed for remote work"
+    ]
+   },
+   {
+    "id": "r064q3",
+    "question": "What work arrangement is offered?",
+    "choices": [
+     "Fully remote",
+     "Remote work on Fridays only",
+     "Travel required weekly",
+     "Night shift only"
+    ]
+   }
+  ]
+ }
+]

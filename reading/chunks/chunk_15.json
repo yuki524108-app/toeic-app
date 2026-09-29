@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r113",
+  "passage": "Bean & Leaf, a locally owned coffee shop, opened its doors on Maple Street last Friday, drawing long lines of customers eager to try its signature roasts. Owner Diane Cho, who previously worked as a barista in Seattle for over a decade, says she wanted to bring specialty coffee to her hometown.\n\nThe shop sources its beans directly from small farms in Colombia and Ethiopia, and all pastries are baked fresh daily on-site. In addition to coffee, Bean & Leaf offers a small selection of teas and light snacks.\n\nCho plans to introduce a loyalty program next month, offering regular customers discounts and free drinks after a certain number of purchases.",
+  "questions": [
+   {
+    "id": "r113q1",
+    "question": "What is true about the shop's owner?",
+    "choices": [
+     "She is new to the coffee industry",
+     "She previously worked as a barista in Seattle",
+     "She owns several other shops",
+     "She imports coffee from Europe"
+    ]
+   },
+   {
+    "id": "r113q2",
+    "question": "Where does the shop get its coffee beans?",
+    "choices": [
+     "Local farms only",
+     "Small farms in Colombia and Ethiopia",
+     "A large distributor",
+     "Its own farm"
+    ]
+   },
+   {
+    "id": "r113q3",
+    "question": "What does the article say will happen next month?",
+    "choices": [
+     "The shop will close temporarily",
+     "A loyalty program will be introduced",
+     "New pastries will be discontinued",
+     "The shop will move locations"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r114",
+  "passage": "Dear Mr. Alvarez,\n\nI am writing to inform you that your business trip to the Chicago office, originally scheduled for next Tuesday, has been moved to the following Monday due to a scheduling conflict with the client's team.\n\nYour flight and hotel reservations have already been updated to reflect the new dates, and confirmation emails should arrive in your inbox shortly. Please let me know if the new schedule creates any conflicts with your other commitments.\n\nIf you have any questions, feel free to reach out to me directly.\n\nBest regards,\nJanet Kim, Travel Coordinator",
+  "questions": [
+   {
+    "id": "r114q1",
+    "question": "Why was the trip rescheduled?",
+    "choices": [
+     "Bad weather",
+     "A scheduling conflict with the client's team",
+     "Mr. Alvarez requested it",
+     "Flight cancellations"
+    ]
+   },
+   {
+    "id": "r114q2",
+    "question": "What has already been done?",
+    "choices": [
+     "The trip has been canceled",
+     "Flight and hotel reservations have been updated",
+     "A new client has been assigned",
+     "The budget has been increased"
+    ]
+   },
+   {
+    "id": "r114q3",
+    "question": "What is Mr. Alvarez asked to do?",
+    "choices": [
+     "Book his own flight",
+     "Contact the client directly",
+     "Report any scheduling conflicts",
+     "Cancel the trip"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r115",
+  "passage": "As part of our annual employee wellness program, free health check-ups will be offered to all full-time staff between March 10 and March 21. The check-ups will take place in Conference Room B and include basic screenings such as blood pressure, vision, and cholesterol tests.\n\nEmployees who wish to participate should sign up through the HR portal at least three days in advance, as slots are limited. Appointments typically take about 30 minutes and will be conducted during regular working hours.\n\nParticipation is voluntary, and all results will be kept strictly confidential between the employee and the healthcare provider.",
+  "questions": [
+   {
+    "id": "r115q1",
+    "question": "Who is eligible for the free check-ups?",
+    "choices": [
+     "Only managers",
+     "All full-time staff",
+     "New employees only",
+     "Part-time staff only"
+    ]
+   },
+   {
+    "id": "r115q2",
+    "question": "How should employees sign up?",
+    "choices": [
+     "By calling HR",
+     "Through the HR portal",
+     "By emailing their manager",
+     "In person at Conference Room B"
+    ]
+   },
+   {
+    "id": "r115q3",
+    "question": "What is true about the results of the check-ups?",
+    "choices": [
+     "They will be shared with managers",
+     "They will be posted publicly",
+     "They will be kept confidential",
+     "They will be sent to insurance companies"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r116",
+  "passage": "Master new skills from the comfort of your home with SkillBridge Online Academy! We offer over 200 courses in fields ranging from graphic design to data analysis, taught by industry professionals.\n\nFor a limited time, new students can enroll in any course for 50% off the regular price. All courses include lifetime access, downloadable resources, and a certificate of completion.\n\nNot sure where to start? Take our free five-minute assessment on our website to receive personalized course recommendations based on your goals and experience level.",
+  "questions": [
+   {
+    "id": "r116q1",
+    "question": "What is being advertised?",
+    "choices": [
+     "A physical classroom",
+     "An online learning platform",
+     "A job placement agency",
+     "A software product"
+    ]
+   },
+   {
+    "id": "r116q2",
+    "question": "What special offer is mentioned?",
+    "choices": [
+     "Free courses for a year",
+     "50% off for new students",
+     "A money-back guarantee",
+     "Free textbooks"
+    ]
+   },
+   {
+    "id": "r116q3",
+    "question": "What can students do on the website?",
+    "choices": [
+     "Chat with instructors live",
+     "Take a free assessment",
+     "Print a certificate immediately",
+     "Request a refund"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r117",
+  "passage": "To All Staff,\n\nEffective next month, employees will be permitted to work from home up to two days per week, subject to manager approval. This new policy is designed to offer greater flexibility while maintaining team collaboration and productivity.\n\nEmployees wishing to participate should discuss their preferred remote days with their manager and confirm the arrangement in writing. Core hours of 10 AM to 3 PM must still be observed, during which employees should be available for meetings and calls regardless of their location.\n\nWe will review the effectiveness of this policy after six months and make adjustments as needed.",
+  "questions": [
+   {
+    "id": "r117q1",
+    "question": "How many days per week can employees work from home?",
+    "choices": [
+     "One",
+     "Two",
+     "Three",
+     "Five"
+    ]
+   },
+   {
+    "id": "r117q2",
+    "question": "What must employees do to work from home?",
+    "choices": [
+     "Submit a formal application to HR",
+     "Get manager approval",
+     "Complete a training course",
+     "Purchase their own equipment"
+    ]
+   },
+   {
+    "id": "r117q3",
+    "question": "What are employees expected to do during core hours?",
+    "choices": [
+     "Take a lunch break",
+     "Be available for meetings and calls",
+     "Submit a daily report",
+     "Attend in-person training"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r118",
+  "passage": "The city council approved plans last week to add 15 miles of new bicycle lanes throughout the downtown area, aiming to reduce traffic congestion and promote environmentally friendly transportation. Construction is expected to begin in early spring and finish before the summer tourist season.\n\nLocal cycling groups have praised the decision, noting that the current lanes are often disconnected and unsafe. However, some downtown business owners have expressed concern about the temporary loss of parking spaces during construction.\n\nCity officials say they will work closely with businesses to minimize disruption and have promised additional parking studies once the project is complete.",
+  "questions": [
+   {
+    "id": "r118q1",
+    "question": "What did the city council approve?",
+    "choices": [
+     "A new parking garage",
+     "15 miles of new bicycle lanes",
+     "A public transit fare increase",
+     "A downtown park renovation"
+    ]
+   },
+   {
+    "id": "r118q2",
+    "question": "What concern do some business owners have?",
+    "choices": [
+     "Increased noise",
+     "Loss of parking spaces",
+     "Higher taxes",
+     "Reduced foot traffic"
+    ]
+   },
+   {
+    "id": "r118q3",
+    "question": "What have city officials promised?",
+    "choices": [
+     "To cancel the project",
+     "To conduct additional parking studies",
+     "To lower business taxes",
+     "To build a new highway"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r119",
+  "passage": "Hi Team,\n\nAhead of tomorrow's quarterly planning meeting, I've attached the proposed agenda for your review. We'll be covering the Q3 budget results, updates on the marketing campaign, and a discussion on staffing for the new project.\n\nPlease come prepared with any questions or updates related to your department. If you have additional items you'd like to add to the agenda, let me know by the end of today so I can adjust the schedule accordingly.\n\nThe meeting will start promptly at 9 AM in the third-floor conference room. Coffee and light refreshments will be provided.\n\nThanks,\nMarcus",
+  "questions": [
+   {
+    "id": "r119q1",
+    "question": "What is attached to the email?",
+    "choices": [
+     "A budget report",
+     "The proposed agenda",
+     "A marketing plan",
+     "A staffing list"
+    ]
+   },
+   {
+    "id": "r119q2",
+    "question": "What should team members do if they want to add items to the agenda?",
+    "choices": [
+     "Bring them up during the meeting",
+     "Notify Marcus by the end of the day",
+     "Email the whole company",
+     "Wait for the next meeting"
+    ]
+   },
+   {
+    "id": "r119q3",
+    "question": "Where will the meeting be held?",
+    "choices": [
+     "In a virtual meeting room",
+     "In the third-floor conference room",
+     "At a nearby cafe",
+     "In the main lobby"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r120",
+  "passage": "GreenLeaf Appliances is voluntarily recalling its Model X200 electric kettle due to a potential electrical malfunction that could pose a fire hazard. Approximately 12,000 units sold between January and April of this year are affected.\n\nCustomers who own an affected model should stop using it immediately and contact GreenLeaf's customer service line for a free replacement or full refund. The model number can be found on a label on the bottom of the kettle.\n\nGreenLeaf apologizes for any inconvenience this may cause and emphasizes that customer safety remains its top priority.",
+  "questions": [
+   {
+    "id": "r120q1",
+    "question": "Why is the product being recalled?",
+    "choices": [
+     "It does not heat water properly",
+     "It could pose a fire hazard",
+     "The price was incorrect",
+     "It was discontinued"
+    ]
+   },
+   {
+    "id": "r120q2",
+    "question": "What should affected customers do?",
+    "choices": [
+     "Continue using it carefully",
+     "Stop using it and contact customer service",
+     "Return it to any store",
+     "Wait for a repair kit"
+    ]
+   },
+   {
+    "id": "r120q3",
+    "question": "Where can customers find the model number?",
+    "choices": [
+     "On the receipt",
+     "On the box only",
+     "On a label on the bottom of the kettle",
+     "On the company website"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-t45x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to our regional office. Before you begin your visit, let me go over a few important details."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Visitor badges must be worn at all times and returned to the front desk before you leave the building."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The cafeteria on the second floor is available for all visitors between 11:30 and 2 p.m."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you need Wi-Fi access, the guest network password is printed on the back of your visitor badge."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t45x-q1",
+    "question": "Who is this announcement intended for?",
+    "choices": [
+     "New employees",
+     "Visiting staff",
+     "Job applicants",
+     "Delivery drivers"
+    ]
+   },
+   {
+    "id": "l34-t45x-q2",
+    "question": "What must visitors do with their badge before leaving?",
+    "choices": [
+     "Keep it as a souvenir",
+     "Return it to the front desk",
+     "Mail it back later",
+     "Give it to a colleague"
+    ]
+   },
+   {
+    "id": "l34-t45x-q3",
+    "question": "Where can visitors find the Wi-Fi password?",
+    "choices": [
+     "On the front desk sign",
+     "On the back of their badge",
+     "In their email",
+     "On the cafeteria menu"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t46x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good morning, everyone, and welcome to the launch event for our newest smart home device."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Over the next hour, our product team will walk you through its key features and live demonstrations."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Following the presentation, there will be a Q&A session where you can ask our engineers directly."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Refreshments will be available in the lobby throughout the event, so please help yourselves at any time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t46x-q1",
+    "question": "What is being launched?",
+    "choices": [
+     "A mobile app",
+     "A smart home device",
+     "A financial service",
+     "A clothing line"
+    ]
+   },
+   {
+    "id": "l34-t46x-q2",
+    "question": "What will happen after the presentation?",
+    "choices": [
+     "A product giveaway",
+     "A Q&A session",
+     "A press conference",
+     "A factory tour"
+    ]
+   },
+   {
+    "id": "l34-t46x-q3",
+    "question": "Where can attendees find refreshments?",
+    "choices": [
+     "In the main hall",
+     "In the lobby",
+     "On the second floor",
+     "Outside the building"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t47x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This is a follow-up announcement regarding last night's scheduled system maintenance."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We are pleased to report that the maintenance was completed successfully ahead of schedule."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All systems, including email and the internal file server, are now fully operational."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you continue to experience any issues, please submit a ticket to the IT help desk immediately."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t47x-q1",
+    "question": "What is this announcement about?",
+    "choices": [
+     "A new software rollout",
+     "Completed system maintenance",
+     "A security breach",
+     "An office closure"
+    ]
+   },
+   {
+    "id": "l34-t47x-q2",
+    "question": "How did the maintenance go?",
+    "choices": [
+     "It was canceled",
+     "It finished ahead of schedule",
+     "It took longer than expected",
+     "It is still ongoing"
+    ]
+   },
+   {
+    "id": "l34-t47x-q3",
+    "question": "What should employees do if problems continue?",
+    "choices": [
+     "Restart their computers",
+     "Submit a ticket to IT",
+     "Wait until next week",
+     "Call the front desk"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t48x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention passengers. A black umbrella was found on the platform of Track 4 this morning."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If this item belongs to you, please come to the station office located near the main entrance."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "You will be asked to describe the item in detail before it can be returned to you."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Unclaimed items will be transferred to the central lost and found office after seven days."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t48x-q1",
+    "question": "What item was found?",
+    "choices": [
+     "A wallet",
+     "A black umbrella",
+     "A laptop bag",
+     "A pair of glasses"
+    ]
+   },
+   {
+    "id": "l34-t48x-q2",
+    "question": "Where should the owner go to claim the item?",
+    "choices": [
+     "The platform",
+     "The station office near the main entrance",
+     "The ticket counter",
+     "The central lost and found"
+    ]
+   },
+   {
+    "id": "l34-t48x-q3",
+    "question": "What happens to unclaimed items after seven days?",
+    "choices": [
+     "They are discarded",
+     "They are transferred to the central lost and found",
+     "They are donated",
+     "They are auctioned"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t49x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to this brief overview of how to access our new online training modules."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "You can log in to the training portal using the same credentials as your company email account."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Each module takes about twenty minutes to complete and includes a short quiz at the end."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All employees are required to complete the first three modules by the end of next month."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t49x-q1",
+    "question": "What is this announcement explaining?",
+    "choices": [
+     "A new benefits plan",
+     "How to access online training",
+     "A change in job titles",
+     "A performance review process"
+    ]
+   },
+   {
+    "id": "l34-t49x-q2",
+    "question": "How can employees log in to the training portal?",
+    "choices": [
+     "With a new password sent by mail",
+     "Using their company email credentials",
+     "By visiting the HR office",
+     "Through a mobile app only"
+    ]
+   },
+   {
+    "id": "l34-t49x-q3",
+    "question": "What must all employees do by next month?",
+    "choices": [
+     "Complete the first three modules",
+     "Attend an in-person seminar",
+     "Submit feedback forms",
+     "Renew their employee ID"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t50x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "I'd like to update everyone on the timeline for our move to the new office building downtown."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Packing materials will be distributed to all desks starting next Monday, and boxes should be labeled clearly."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The physical move will take place over the weekend of the 20th, so please have your desks cleared by Friday."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We expect to resume normal operations at the new location the following Monday morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t50x-q1",
+    "question": "What is the announcement about?",
+    "choices": [
+     "A company merger",
+     "The office relocation schedule",
+     "A new dress code",
+     "A holiday schedule"
+    ]
+   },
+   {
+    "id": "l34-t50x-q2",
+    "question": "When will packing materials be distributed?",
+    "choices": [
+     "Immediately",
+     "Next Monday",
+     "The day of the move",
+     "Next month"
+    ]
+   },
+   {
+    "id": "l34-t50x-q3",
+    "question": "When will normal operations resume?",
+    "choices": [
+     "The same weekend",
+     "The following Monday",
+     "Two weeks later",
+     "At the end of the month"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t51x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you all for being here. Today I'll be presenting the results of our latest customer satisfaction survey."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Overall satisfaction increased by twelve percent compared to last year, largely due to faster response times."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "However, customers noted that our product packaging could be improved for easier recycling."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Based on this feedback, the product team will begin reviewing packaging options next quarter."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t51x-q1",
+    "question": "What is the presentation about?",
+    "choices": [
+     "Sales figures",
+     "Customer satisfaction survey results",
+     "A new hiring plan",
+     "A marketing budget"
+    ]
+   },
+   {
+    "id": "l34-t51x-q2",
+    "question": "What contributed to the increase in satisfaction?",
+    "choices": [
+     "Lower prices",
+     "Faster response times",
+     "A new logo",
+     "Free shipping"
+    ]
+   },
+   {
+    "id": "l34-t51x-q3",
+    "question": "What will the product team do next quarter?",
+    "choices": [
+     "Launch a new product",
+     "Review packaging options",
+     "Cut production costs",
+     "Hire more staff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t52x",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "As our headquarters relocates next month, we want to help you plan your new commute."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The new building is located two blocks from Central Station, making it easily accessible by train."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "For those who drive, a parking garage is available on-site, though spaces are limited and assigned by seniority."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "A detailed commuting guide with maps and public transit options will be emailed to everyone next week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t52x-q1",
+    "question": "What is the announcement mainly about?",
+    "choices": [
+     "A new dress code",
+     "Commuting to the new headquarters",
+     "A change in work hours",
+     "A company car program"
+    ]
+   },
+   {
+    "id": "l34-t52x-q2",
+    "question": "How far is the new building from Central Station?",
+    "choices": [
+     "One block",
+     "Two blocks",
+     "Five blocks",
+     "It is not near the station"
+    ]
+   },
+   {
+    "id": "l34-t52x-q3",
+    "question": "How are parking spaces assigned?",
+    "choices": [
+     "First come, first served",
+     "By seniority",
+     "By department",
+     "Randomly"
+    ]
+   }
+  ]
+ }
+]

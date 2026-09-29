@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r137",
+  "passage": "Human Resources is now accepting applications for mentors to participate in our upcoming Mentorship Program, designed to pair experienced employees with newer staff members for professional guidance and support.\n\nMentors are expected to meet with their assigned mentee at least twice a month for six months and provide feedback on career development, workplace skills, and company culture. While mentoring is a volunteer role, participants will receive a certificate of recognition and priority consideration for future leadership training opportunities.\n\nEmployees interested in becoming a mentor should have at least three years of experience with the company and submit an application through the HR portal by the end of the month.",
+  "questions": [
+   {
+    "id": "r137q1",
+    "question": "What is the purpose of the program?",
+    "choices": [
+     "To recruit new employees",
+     "To pair experienced employees with newer staff",
+     "To reduce turnover through bonuses",
+     "To train customer service representatives"
+    ]
+   },
+   {
+    "id": "r137q2",
+    "question": "How often must mentors meet with their mentee?",
+    "choices": [
+     "Once a week",
+     "At least twice a month",
+     "Once a quarter",
+     "Every day"
+    ]
+   },
+   {
+    "id": "r137q3",
+    "question": "What is a requirement to become a mentor?",
+    "choices": [
+     "A management title",
+     "At least three years of experience with the company",
+     "A college degree",
+     "Completion of a training exam"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r138",
+  "passage": "The Chamber of Commerce announced a new low-interest loan program this week aimed at helping small businesses recover from recent economic challenges. Loans of up to $50,000 will be available to qualifying businesses with fewer than 25 employees.\n\nApplicants must demonstrate at least one year of operation and provide basic financial documentation as part of the application process. Unlike traditional bank loans, this program offers a simplified application and faster approval times, with most decisions made within two weeks.\n\nThe Chamber says the program was developed in response to feedback from local business owners who cited difficulty accessing capital through conventional lenders.",
+  "questions": [
+   {
+    "id": "r138q1",
+    "question": "Who is eligible for the loan program?",
+    "choices": [
+     "Any business regardless of size",
+     "Small businesses with fewer than 25 employees",
+     "Only new startups",
+     "Large corporations"
+    ]
+   },
+   {
+    "id": "r138q2",
+    "question": "What is an advantage of this loan program?",
+    "choices": [
+     "No repayment required",
+     "A simplified application and faster approval",
+     "Unlimited loan amounts",
+     "No documentation needed"
+    ]
+   },
+   {
+    "id": "r138q3",
+    "question": "Why was the program developed?",
+    "choices": [
+     "Due to a new law",
+     "In response to feedback from business owners",
+     "To compete with other cities",
+     "Because of a government mandate"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r139",
+  "passage": "Dear IT Administrator,\n\nThis is a reminder that your organization's license for CloudSuite Pro will expire on August 31. To avoid any interruption to your team's access, please renew your subscription before this date.\n\nRenewing is simple: log in to your account dashboard and select the \"Renew Now\" option. If you choose to upgrade to our Enterprise plan at this time, you will also receive additional storage and priority customer support at no extra cost for the first three months.\n\nIf you need assistance with the renewal process, our support team is available via live chat 24 hours a day.\n\nThank you for being a CloudSuite customer.",
+  "questions": [
+   {
+    "id": "r139q1",
+    "question": "What is the purpose of this email?",
+    "choices": [
+     "To announce a price increase",
+     "To remind the recipient to renew a license",
+     "To report a system outage",
+     "To offer a full refund"
+    ]
+   },
+   {
+    "id": "r139q2",
+    "question": "What happens if the customer upgrades to Enterprise now?",
+    "choices": [
+     "They pay double the price",
+     "They receive extra storage and support at no extra cost for three months",
+     "They lose access temporarily",
+     "They must contact sales by phone"
+    ]
+   },
+   {
+    "id": "r139q3",
+    "question": "How can customers get help with renewal?",
+    "choices": [
+     "By visiting an office",
+     "Via live chat 24 hours a day",
+     "By mailing a form",
+     "Through a scheduled phone call only"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r140",
+  "passage": "As part of our commitment to community involvement, the company will host its annual Volunteer Day on Saturday, October 5. Employees are invited to sign up for one of three activities: a park cleanup, a food bank sorting event, or a home-building project with a local housing charity.\n\nEmployees who participate will receive a paid day off in lieu of a regular workday, along with a company-branded volunteer T-shirt. Transportation to and from each site will be provided from the main office parking lot, departing at 8 AM sharp.\n\nSign-ups are open through the HR portal and close one week before the event, as each activity has limited space.",
+  "questions": [
+   {
+    "id": "r140q1",
+    "question": "What are employees invited to do?",
+    "choices": [
+     "Attend a training seminar",
+     "Choose one of three volunteer activities",
+     "Submit project proposals",
+     "Compete in a company sports event"
+    ]
+   },
+   {
+    "id": "r140q2",
+    "question": "What will participating employees receive?",
+    "choices": [
+     "A cash bonus",
+     "A paid day off and a T-shirt",
+     "Extra vacation days for the year",
+     "A gift card"
+    ]
+   },
+   {
+    "id": "r140q3",
+    "question": "When do sign-ups close?",
+    "choices": [
+     "The day of the event",
+     "One week before the event",
+     "One month before the event",
+     "There is no deadline"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r141",
+  "passage": "Falcon Logistics is hiring an experienced Warehouse Supervisor to oversee daily operations at our distribution center. Responsibilities include managing a team of 15 warehouse associates, scheduling shifts, and ensuring safety protocols are followed at all times.\n\nThe ideal candidate has at least three years of warehouse management experience and familiarity with inventory software. Forklift certification is a plus but not required, as training will be provided.\n\nThis is a full-time position with benefits, including health insurance and paid time off. Interested candidates should apply through our careers website by the end of the month.",
+  "questions": [
+   {
+    "id": "r141q1",
+    "question": "How many associates will the supervisor manage?",
+    "choices": [
+     "5",
+     "10",
+     "15",
+     "20"
+    ]
+   },
+   {
+    "id": "r141q2",
+    "question": "What experience is required?",
+    "choices": [
+     "Five years in sales",
+     "At least three years of warehouse management experience",
+     "A college degree",
+     "International shipping experience"
+    ]
+   },
+   {
+    "id": "r141q3",
+    "question": "What benefit is mentioned?",
+    "choices": [
+     "A company car",
+     "Health insurance and paid time off",
+     "Free housing",
+     "Stock options"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r142",
+  "passage": "Please be advised that the west parking lot will be closed for resurfacing from Monday through Thursday of next week. Employees who normally park in this lot should use the visitor lot on the south side of the building during this time.\n\nShuttle service will be available every 15 minutes between the overflow lot on Maple Street and the main building entrance for those who need it. We recommend allowing extra time for your commute during the closure.\n\nWe apologize for any inconvenience and appreciate your patience as we complete this necessary maintenance work.",
+  "questions": [
+   {
+    "id": "r142q1",
+    "question": "Why is the parking lot closing?",
+    "choices": [
+     "A construction accident",
+     "Resurfacing work",
+     "A security issue",
+     "A special event"
+    ]
+   },
+   {
+    "id": "r142q2",
+    "question": "Where should affected employees park?",
+    "choices": [
+     "On the street",
+     "The visitor lot on the south side",
+     "A nearby garage",
+     "They should not come to work"
+    ]
+   },
+   {
+    "id": "r142q3",
+    "question": "How often does the shuttle run?",
+    "choices": [
+     "Every 5 minutes",
+     "Every 15 minutes",
+     "Every 30 minutes",
+     "Every hour"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r143",
+  "passage": "Local baker James Whitfield took home the top prize at the Regional Bread Championship last weekend, competing against more than 50 bakers from across the state. Whitfield's winning entry, a rosemary and sea salt sourdough, impressed judges with its crust and complex flavor.\n\nWhitfield, who has run his small bakery for just three years, said he was inspired to enter the competition by his customers, many of whom encouraged him to test his skills against other professionals. He plans to add the award-winning bread to his bakery's regular menu next month.\n\nThe competition, now in its tenth year, aims to celebrate craftsmanship in traditional baking techniques.",
+  "questions": [
+   {
+    "id": "r143q1",
+    "question": "What did James Whitfield win?",
+    "choices": [
+     "A cooking show",
+     "The top prize at the Regional Bread Championship",
+     "A restaurant award",
+     "A cookbook deal"
+    ]
+   },
+   {
+    "id": "r143q2",
+    "question": "What inspired him to enter the competition?",
+    "choices": [
+     "A magazine article",
+     "His customers' encouragement",
+     "A social media challenge",
+     "His culinary school teacher"
+    ]
+   },
+   {
+    "id": "r143q3",
+    "question": "What will he do with the winning bread?",
+    "choices": [
+     "Sell it only online",
+     "Add it to his bakery's regular menu",
+     "Donate the recipe",
+     "Stop making it"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r144",
+  "passage": "Dear Ms. Fontaine,\n\nAttached is the revised vendor agreement incorporating the changes we discussed during our call last week. Please review the updated payment terms in Section 4 and the revised delivery schedule in Section 6.\n\nIf everything looks acceptable, please sign and return the document by next Wednesday so we can finalize the agreement before the new quarter begins. If you have any further changes, let's schedule a quick call to discuss them.\n\nThank you for your continued flexibility throughout this process.\n\nBest regards,\nDaniel Osei",
+  "questions": [
+   {
+    "id": "r144q1",
+    "question": "What is attached to the email?",
+    "choices": [
+     "An invoice",
+     "A revised vendor agreement",
+     "A meeting agenda",
+     "A product catalog"
+    ]
+   },
+   {
+    "id": "r144q2",
+    "question": "What should Ms. Fontaine specifically review?",
+    "choices": [
+     "The company logo",
+     "The payment terms and delivery schedule",
+     "The employee list",
+     "The marketing plan"
+    ]
+   },
+   {
+    "id": "r144q3",
+    "question": "By when should the document be returned?",
+    "choices": [
+     "By the end of the day",
+     "By next Wednesday",
+     "By the end of the month",
+     "There is no deadline"
+    ]
+   }
+  ]
+ }
+]

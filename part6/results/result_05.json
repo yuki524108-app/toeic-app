@@ -1,0 +1,2228 @@
+```python
+import json
+
+chunk_data = [
+ {
+  "id": "p661",
+  "passage": "To: All Department Managers\nFrom: Finance Department\n\nPlease remind your team members that all expense reports for this quarter must be (1) by the 5th of next month. Reports (2) after the deadline may not be processed until the following cycle.\n\nEach report should be (3) by original receipts. Managers are (4) for reviewing and approving reports before submission.",
+  "blanks": [
+   {
+    "id": "p661b1",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p661b2",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submits"
+    ]
+   },
+   {
+    "id": "p661b3",
+    "choices": [
+     "accompany",
+     "accompanied",
+     "accompanying",
+     "accompaniment"
+    ]
+   },
+   {
+    "id": "p661b4",
+    "choices": [
+     "response",
+     "responsive",
+     "responsible",
+     "responsibility"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p662",
+  "passage": "FitZone Gym is proud to announce the (1) of our newest location downtown! Starting this Saturday, all new members who sign up will receive a free personal training session and a (2) gym bag.\n\nOur facility is equipped (3) the latest cardio and strength equipment, along with spacious group classrooms. Whether you are a beginner or an experienced athlete, our trainers are ready to help you reach your goals (4) safely and effectively.",
+  "blanks": [
+   {
+    "id": "p662b1",
+    "choices": [
+     "open",
+     "opens",
+     "opening",
+     "opened"
+    ]
+   },
+   {
+    "id": "p662b2",
+    "choices": [
+     "complimentary",
+     "complement",
+     "complementary",
+     "compliment"
+    ]
+   },
+   {
+    "id": "p662b3",
+    "choices": [
+     "of",
+     "with",
+     "for",
+     "by"
+    ]
+   },
+   {
+    "id": "p662b4",
+    "choices": [
+     "quick",
+     "quickly",
+     "quickness",
+     "quicker"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p663",
+  "passage": "Notice to All Shareholders,\n\nThe annual general meeting will be (1) on November 12 at the downtown convention center. Shareholders who are unable to attend (2) may vote by proxy.\n\nAll voting materials must be (3) at least one week before the meeting date. A detailed agenda will be sent to shareholders (4) two weeks prior to the meeting.",
+  "blanks": [
+   {
+    "id": "p663b1",
+    "choices": [
+     "hold",
+     "held",
+     "holding",
+     "holds"
+    ]
+   },
+   {
+    "id": "p663b2",
+    "choices": [
+     "personal",
+     "personally",
+     "personalize",
+     "personality"
+    ]
+   },
+   {
+    "id": "p663b3",
+    "choices": [
+     "return",
+     "returned",
+     "returning",
+     "returns"
+    ]
+   },
+   {
+    "id": "p663b4",
+    "choices": [
+     "approximate",
+     "approximately",
+     "approximation",
+     "approximated"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p664",
+  "passage": "Dear IT Team,\n\nWe would like to inform you that a new software update will be (1) across all company devices this weekend. The update is designed to (2) system security and fix several known bugs.\n\nPlease save all your work before Friday at 5 PM, as devices will (3) restart automatically during the update. If you experience any issues (4) the update, contact the help desk immediately.",
+  "blanks": [
+   {
+    "id": "p664b1",
+    "choices": [
+     "install",
+     "installed",
+     "installing",
+     "installation"
+    ]
+   },
+   {
+    "id": "p664b2",
+    "choices": [
+     "improve",
+     "improved",
+     "improving",
+     "improvement"
+    ]
+   },
+   {
+    "id": "p664b3",
+    "choices": [
+     "be",
+     "have",
+     "has",
+     "having"
+    ]
+   },
+   {
+    "id": "p664b4",
+    "choices": [
+     "following",
+     "follow",
+     "followed",
+     "follows"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p665",
+  "passage": "To All Staff,\n\nAs the holiday season approaches, please submit your vacation requests as (1) as possible. Requests should be (2) to your direct supervisor at least two weeks in advance.\n\nDue to the high volume of requests expected, approvals will be granted on a first-come, first-(3) basis. We encourage everyone to plan (4) to avoid scheduling conflicts.",
+  "blanks": [
+   {
+    "id": "p665b1",
+    "choices": [
+     "soon",
+     "sooner",
+     "soonest",
+     "sooning"
+    ]
+   },
+   {
+    "id": "p665b2",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p665b3",
+    "choices": [
+     "serve",
+     "served",
+     "serving",
+     "serves"
+    ]
+   },
+   {
+    "id": "p665b4",
+    "choices": [
+     "ahead",
+     "forward",
+     "early",
+     "before"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p666",
+  "passage": "The city's new light rail line officially (1) service last Monday, connecting the downtown business district with the airport in under thirty minutes. City officials say the project, which took nearly four years to (2), will significantly reduce traffic congestion.\n\nDuring the first week, rides will be offered (3) charge to encourage residents to try the new system. Regular fares will (4) into effect the following Monday.",
+  "blanks": [
+   {
+    "id": "p666b1",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   },
+   {
+    "id": "p666b2",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   },
+   {
+    "id": "p666b3",
+    "choices": [
+     "free",
+     "of",
+     "without",
+     "with"
+    ]
+   },
+   {
+    "id": "p666b4",
+    "choices": [
+     "go",
+     "goes",
+     "going",
+     "gone"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p667",
+  "passage": "Dear Colleagues,\n\nWe are currently experiencing technical difficulties with the conference room booking system. Our IT team is (1) to resolve the issue as quickly as possible.\n\nIn the meantime, please (2) the front desk directly to reserve a room. We apologize for any (3) this may cause and appreciate your patience while the issue is (4) fixed.",
+  "blanks": [
+   {
+    "id": "p667b1",
+    "choices": [
+     "work",
+     "working",
+     "worked",
+     "works"
+    ]
+   },
+   {
+    "id": "p667b2",
+    "choices": [
+     "contact",
+     "contacted",
+     "contacting",
+     "contacts"
+    ]
+   },
+   {
+    "id": "p667b3",
+    "choices": [
+     "convenient",
+     "convenience",
+     "conveniently",
+     "convenienced"
+    ]
+   },
+   {
+    "id": "p667b4",
+    "choices": [
+     "be",
+     "being",
+     "been",
+     "is"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p668",
+  "passage": "Notice to Library Patrons,\n\nStarting next semester, the university library will (1) extended hours during final exam weeks. The library will remain open until 2 AM, (2) the usual closing time of 10 PM.\n\nAdditional study rooms will also be made (3) during this period. Students are encouraged to reserve rooms online (4) they are not left without a place to study.",
+  "blanks": [
+   {
+    "id": "p668b1",
+    "choices": [
+     "offer",
+     "offers",
+     "offering",
+     "offered"
+    ]
+   },
+   {
+    "id": "p668b2",
+    "choices": [
+     "instead",
+     "instead of",
+     "rather",
+     "despite"
+    ]
+   },
+   {
+    "id": "p668b3",
+    "choices": [
+     "available",
+     "availability",
+     "availed",
+     "avail"
+    ]
+   },
+   {
+    "id": "p668b4",
+    "choices": [
+     "so that",
+     "in order",
+     "so as",
+     "because"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p669",
+  "passage": "Hi Team,\n\nNow that the conference has ended, please (1) your trip reports within five business days. Each report should include a brief summary of the sessions you (2) and any key takeaways relevant to our department.\n\nIf you incurred any expenses that have not yet been (3), please attach the receipts to your report. Let me know if you have questions (4) the reporting process.",
+  "blanks": [
+   {
+    "id": "p669b1",
+    "choices": [
+     "submit",
+     "submits",
+     "submitted",
+     "submitting"
+    ]
+   },
+   {
+    "id": "p669b2",
+    "choices": [
+     "attend",
+     "attended",
+     "attending",
+     "attendance"
+    ]
+   },
+   {
+    "id": "p669b3",
+    "choices": [
+     "reimburse",
+     "reimbursed",
+     "reimbursing",
+     "reimbursement"
+    ]
+   },
+   {
+    "id": "p669b4",
+    "choices": [
+     "about",
+     "of",
+     "at",
+     "in"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p670",
+  "passage": "Volunteers gathered at Riverside Park last weekend to (1) in the city's annual river cleanup event. More than two hundred participants (2) up nearly three tons of litter along the riverbank.\n\nOrganizers say the event has grown significantly since it (3) five years ago, and they hope to expand it further next year. Anyone interested in (4) should visit the city's website for more information.",
+  "blanks": [
+   {
+    "id": "p670b1",
+    "choices": [
+     "participate",
+     "participated",
+     "participating",
+     "participation"
+    ]
+   },
+   {
+    "id": "p670b2",
+    "choices": [
+     "pick",
+     "picked",
+     "picking",
+     "picks"
+    ]
+   },
+   {
+    "id": "p670b3",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   },
+   {
+    "id": "p670b4",
+    "choices": [
+     "volunteer",
+     "volunteered",
+     "volunteering",
+     "volunteers"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p671",
+  "passage": "Dear New Employee,\n\nWelcome to Larkspur Technologies! Your orientation session is (1) to begin at 9 AM on your first day in the main training room. Please bring a valid ID and two forms of (2) documentation for your employment file.\n\nDuring the session, you will learn about company policies and meet your (3) team members. Lunch will be (4) for all new hires on this day.",
+  "blanks": [
+   {
+    "id": "p671b1",
+    "choices": [
+     "schedule",
+     "scheduled",
+     "scheduling",
+     "schedules"
+    ]
+   },
+   {
+    "id": "p671b2",
+    "choices": [
+     "identify",
+     "identified",
+     "identifying",
+     "identification"
+    ]
+   },
+   {
+    "id": "p671b3",
+    "choices": [
+     "immediate",
+     "immediately",
+     "immediacy",
+     "immediateness"
+    ]
+   },
+   {
+    "id": "p671b4",
+    "choices": [
+     "provide",
+     "provided",
+     "providing",
+     "provision"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p672",
+  "passage": "To All Members,\n\nWe are updating our membership terms, (1) next month. Members will now be able to freeze their membership for up to two months per year at no additional (2).\n\nAdditionally, guest passes will be (3) from two to four per month. We believe these changes will provide greater flexibility and (4) to all of our valued members.",
+  "blanks": [
+   {
+    "id": "p672b1",
+    "choices": [
+     "effect",
+     "effective",
+     "effectively",
+     "effectiveness"
+    ]
+   },
+   {
+    "id": "p672b2",
+    "choices": [
+     "cost",
+     "costly",
+     "costing",
+     "costs"
+    ]
+   },
+   {
+    "id": "p672b3",
+    "choices": [
+     "increase",
+     "increased",
+     "increasing",
+     "increases"
+    ]
+   },
+   {
+    "id": "p672b4",
+    "choices": [
+     "convenient",
+     "convenience",
+     "conveniently",
+     "convenienced"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p673",
+  "passage": "The city transit authority announced plans this week to (1) three new bus routes connecting outlying neighborhoods to downtown. Officials say the expansion is a direct (2) to growing complaints about limited transportation options.\n\nConstruction of new bus stops will begin in the spring, with full service (3) by early summer. Residents can view proposed maps and (4) feedback at upcoming public meetings.",
+  "blanks": [
+   {
+    "id": "p673b1",
+    "choices": [
+     "introduce",
+     "introduced",
+     "introducing",
+     "introduction"
+    ]
+   },
+   {
+    "id": "p673b2",
+    "choices": [
+     "response",
+     "respond",
+     "responsive",
+     "responded"
+    ]
+   },
+   {
+    "id": "p673b3",
+    "choices": [
+     "expect",
+     "expected",
+     "expecting",
+     "expectation"
+    ]
+   },
+   {
+    "id": "p673b4",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p674",
+  "passage": "Dear Team,\n\nI would like to (1) everyone to attend next Tuesday's strategy meeting, as we will be discussing important changes to our project timeline. Your (2) input will be valuable in shaping our next steps.\n\nPlease review the attached document (3) the meeting so we can make the most of our time together. If you are unable to attend, please let me know (4) advance.",
+  "blanks": [
+   {
+    "id": "p674b1",
+    "choices": [
+     "invite",
+     "invites",
+     "inviting",
+     "invitation"
+    ]
+   },
+   {
+    "id": "p674b2",
+    "choices": [
+     "individual",
+     "individually",
+     "individuality",
+     "individualize"
+    ]
+   },
+   {
+    "id": "p674b3",
+    "choices": [
+     "before",
+     "after",
+     "during",
+     "since"
+    ]
+   },
+   {
+    "id": "p674b4",
+    "choices": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p675",
+  "passage": "Introducing TaskFlow, the productivity app (1) to help you manage your daily schedule effortlessly. With TaskFlow, you can create to-do lists, set reminders, and (2) your progress with detailed reports.\n\nThe app is available for (3) download on both iOS and Android devices. Upgrade to premium for advanced features, including team collaboration tools and unlimited (4) storage.",
+  "blanks": [
+   {
+    "id": "p675b1",
+    "choices": [
+     "design",
+     "designed",
+     "designing",
+     "designs"
+    ]
+   },
+   {
+    "id": "p675b2",
+    "choices": [
+     "track",
+     "tracked",
+     "tracking",
+     "tracks"
+    ]
+   },
+   {
+    "id": "p675b3",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "freeing"
+    ]
+   },
+   {
+    "id": "p675b4",
+    "choices": [
+     "clouds",
+     "cloud",
+     "clouded",
+     "clouding"
+    ]
+   }
+  ]
+ }
+]
+
+print(f"Total passages: {len(chunk_data)}")
+
+
+```
+
+```text
+Total passages: 15
+
+
+```
+
+```python
+result = [
+  {
+    "id": "p661",
+    "passageJa": "宛先：全部門マネージャー\n差出人：財務部\n\nチームメンバーに対し、今四半期のすべての経費精算書を来月5日までに提出する必要があることを周知してください。締め切り後に提出された報告書は、次の周期まで処理されない可能性があります。\n\n各報告書には領収書の原文を添える必要があります。マネージャーは、提出前に報告書を確認し承認する責任があります。",
+    "vocab": [
+      "expense report：経費精算書",
+      "deadline：締め切り",
+      "accompany：〜に添える、に同行する",
+      "submission：提出"
+    ],
+    "blanks": [
+      {
+        "id": "p661b1",
+        "choicesJa": [
+          "提出する（原形）",
+          "提出された（過去分詞）",
+          "提出している（動名詞/現在分詞）",
+          "提出（名詞）"
+        ],
+        "explanationDetail": "助動詞 must の後の be 動詞に続くため、主語 (expense reports) と受動の関係になる過去分詞 submitted（提出された）が適切です。原形 submit や現在分詞 submitting は能動の意味になり意味が通らず、名詞 submission は文脈上適合しません。"
+      },
+      {
+        "id": "p661b2",
+        "choicesJa": [
+          "提出する（原形）",
+          "提出された（過去分詞）",
+          "提出している（現在分詞）",
+          "提出する（三人称単数現在）"
+        ],
+        "explanationDetail": "名詞 Reports を後置修飾する分詞を選ぶ問題で、「提出された報告書」という意味の受動を表す過去分詞 submitted が正解です。後続の may not be processed が本動詞であるため、動詞の原形 submit や屈折形 submits は置けません。"
+      },
+      {
+        "id": "p661b3",
+        "choicesJa": [
+          "〜に添える（原形）",
+          "〜が添えられた（過去分詞）",
+          "〜を添えている（現在分詞）",
+          "伴奏/付属物（名詞）"
+        ],
+        "explanationDetail": "should be に続く受動態の形を作る過去分詞 accompanied が正解です。「be accompanied by 〜」で「〜が添えられている」という定型表現になります。原形 accompany や名詞 accompaniment、能動の現在分詞 accompanying は文法的に不適切です。"
+      },
+      {
+        "id": "p661b4",
+        "choicesJa": [
+          "返答（名詞）",
+          "反応が良い（形容詞）",
+          "責任がある（形容詞）",
+          "責任（名詞）"
+        ],
+        "explanationDetail": "be 動詞 are の補語となり、後続の for と結びついて「〜に責任がある」を意味する形容詞 responsible が適切です。「be responsible for 〜」は TOEIC 頻出の熟語です。名詞 response や responsibility、意味の異なる形容詞 responsive は当てはまりません。"
+      }
+    ]
+  },
+  {
+    "id": "p662",
+    "passageJa": "FitZone Gym は、ダウンタウンに開設される最新店舗のオープンを発表できることを嬉しく思います！ 今週の土曜日より、新規入会された会員様全員に、無料のパーソナルトレーニングセッションと無料のジムバッグを差し上げます。\n\n当施設は、広々としたグループエクササイズ室に加えて、最新の有酸素運動・筋力トレーニング機器を備えています。初心者の方でも経験豊富なアスリートの方でも、当ジムのトレーナーが目標を迅速かつ安全、効果的に達成できるようサポートいたします。",
+    "vocab": [
+      "complimentary：無料の",
+      "facility：施設",
+      "be equipped with：〜を備えている",
+      "effectively：効果的に"
+    ],
+    "blanks": [
+      {
+        "id": "p662b1",
+        "choicesJa": [
+          "開く（原形）",
+          "開く（三人称単数現在）",
+          "オープン/開店（名詞/動名詞）",
+          "開いた（過去形/過去分詞）"
+        ],
+        "explanationDetail": "定冠詞 the と前置詞 of の間に位置するため、名詞として機能する opening（開店・オープン）が正解です。動詞の原形 open や活用形 opens/opened は冠詞の直後に単独で名詞として置くことはできません。"
+      },
+      {
+        "id": "p662b2",
+        "choicesJa": [
+          "無料の（形容詞）",
+          "補足する（動詞）/補完物（名詞）",
+          "補完的な（形容詞）",
+          "褒める（動詞）/賛辞（名詞）"
+        ],
+        "explanationDetail": "名詞 gym bag を修飾して「無料のジムバッグ」という意味を作る形容詞 complimentary（無料の、進呈の）が正解です。音や綴りが似ている complementary（補完的な）や、動詞・名詞の complement / compliment は意味上不適切です。"
+      },
+      {
+        "id": "p662b3",
+        "choicesJa": [
+          "〜の",
+          "〜を（〜を備えて）",
+          "〜のために",
+          "〜によって"
+        ],
+        "explanationDetail": "「be equipped with 〜」で「〜を設備として備えている」という意味を表す慣用表現を作る前置詞 with が正解です。of、for、by などの他の前置詞ではこの定型表現を作ることができません。"
+      },
+      {
+        "id": "p662b4",
+        "choicesJa": [
+          "素早い（形容詞）",
+          "素早く（副詞）",
+          "素早さ（名詞）",
+          "より素早い（比較級形容詞/副詞）"
+        ],
+        "explanationDetail": "safely and effectively と並列になり、動詞 reach を修飾する副詞 quickly（素早く・迅速に）が適切です。形容詞 quick や名詞 quickness、比較級の quicker は and で結ばれる副詞の列挙に合致しません。"
+      }
+    ]
+  },
+  {
+    "id": "p663",
+    "passageJa": "株主の皆様へのお知らせ\n\n定時株主総会は、11月12日にダウンタウンのコンベンションセンターで開催されます。ご自身で直接出席できない株主の皆様は、代理人によって議決権を行使することができます。\n\nすべての議決権行使書類は、総会開催日の少なくとも1週間前までに返送されなければなりません。詳細な議題は、総会の約2週間前に株主の皆様へ送信されます。",
+    "vocab": [
+      "shareholder：株主",
+      "annual general meeting：定時株主総会",
+      "vote by proxy：代理投票する",
+      "approximately：およそ、約"
+    ],
+    "blanks": [
+      {
+        "id": "p663b1",
+        "choicesJa": [
+          "開催する（原形）",
+          "開催された（過去形/過去分詞）",
+          "開催している（現在分詞）",
+          "開催する（三人称単数現在）"
+        ],
+        "explanationDetail": "主語 The annual general meeting に対し「開催される」という受動態 (will be + 過去分詞) を作るため、held が正解です。原形 hold や現在分詞 holding では能動の意味になってしまいます。"
+      },
+      {
+        "id": "p663b2",
+        "choicesJa": [
+          "個人の（形容詞）",
+          "自ら・直接（副詞）",
+          "個人化する（動詞）",
+          "個性/性格（名詞）"
+        ],
+        "explanationDetail": "動詞 attend を修飾して「直接/自身で出席する」という意味を表す副詞 personally が適切です。形容詞 personal や動詞 personalize、名詞 personality は動詞を修飾できません。"
+      },
+      {
+        "id": "p663b3",
+        "choicesJa": [
+          "返却する（原形）",
+          "返却された（過去形/過去分詞）",
+          "返却している（現在分詞）",
+          "返却する（三人称単数現在）"
+        ],
+        "explanationDetail": "主語 All voting materials に対応し、助動詞＋be動詞 (must be) の後に続く受動態を作る過去分詞 returned（返送される）が適切です。原形 return や現在分詞 returning、屈折形 returns では文法的に成り立ちません。"
+      },
+      {
+        "id": "p663b4",
+        "choicesJa": [
+          "おおよその（形容詞）",
+          "およそ・約（副詞）",
+          "概算（名詞）",
+          "見積もられた（過去形/過去分詞）"
+        ],
+        "explanationDetail": "数量表現 two weeks prior to... を修飾して「およそ2週間前」という意味を作る副詞 approximately が正解です。形容詞 approximate や名詞 approximation、動詞形 approximated は時間を表す表現を直接修飾できません。"
+      }
+    ]
+  },
+  {
+    "id": "p664",
+    "passageJa": "ITチームの皆様へ\n\n今週末に、すべての社内機器を対象として新しいソフトウェアのアップデートがインストールされることをお知らせいたします。このアップデートは、システムのセキュリティを向上させ、いくつかの既知のバグを修正するように設計されています。\n\nアップデート中に機器が自動的に再起動されるため、金曜日の午後5時までにすべての作業を保存してください。アップデート後に問題が発生した場合は、すぐにヘルプデスクまでご連絡ください。",
+    "vocab": [
+      "inform：通知する",
+      "device：機器、端末",
+      "automatically：自動的に",
+      "following：〜の後に（前置詞）"
+    ],
+    "blanks": [
+      {
+        "id": "p664b1",
+        "choicesJa": [
+          "インストールする（原形）",
+          "インストールされた（過去形/過去分詞）",
+          "インストールしている（現在分詞）",
+          "インストール（名詞）"
+        ],
+        "explanationDetail": "will be の後に続く受動態を作る過去分詞 installed が正解です。「アップデートがインストールされる」という受動の意味になります。原形 install や名詞 installation では文法的に成り立ちません。"
+      },
+      {
+        "id": "p664b2",
+        "choicesJa": [
+          "向上させる（原形）",
+          "向上させた（過去形/過去分詞）",
+          "向上させている（現在分詞）",
+          "向上・改善（名詞）"
+        ],
+        "explanationDetail": "「be designed to + 動詞の原形」のパターンで「〜するように設計されている」という意味を表すため、原形の improve が正解です。過去分詞 improved や名詞 improvement は to の直後に置くことができません。"
+      },
+      {
+        "id": "p664b3",
+        "choicesJa": [
+          "〜になる/存在する（原形）",
+          "〜を持つ（原形）",
+          "〜を持つ（三人称単数）",
+          "〜を持っている（現在分詞）"
+        ],
+        "explanationDetail": "助動詞 will の直後には動詞の原形が続くため、三単現の has や分詞 having は除外されます。文脈上、機器が自動的に再起動される状態（will be restart / be restarted）を示す助動詞の be が適切です。"
+      },
+      {
+        "id": "p664b4",
+        "choicesJa": [
+          "〜の後に（前置詞/現在分詞）",
+          "〜に従う（原形）",
+          "〜に従った（過去形/過去分詞）",
+          "〜に従う（三人称単数現在）"
+        ],
+        "explanationDetail": "名詞 the update を目的に取り、「アップデートの後に」という意味を表す前置詞としての following が正解です。動詞の原形 follow や過去形 followed、三単現 follows はこの文脈で前置詞の役割を果たせません。"
+      }
+    ]
+  },
+  {
+    "id": "p665",
+    "passageJa": "全スタッフへ\n\n休暇シーズンが近づいておりますので、休暇届はできるだけ早く提出してください。申請は、少なくとも2週間前に直属の上司へ提出する必要があります。\n\n多数の申請が予想されるため、承認は先着順（申請順）で行われます。スケジュールの重複を避けるため、皆様があらかじめ計画を立てることをお勧めします。",
+    "vocab": [
+      "approach：近づく",
+      "vacation request：休暇申請",
+      "in advance：事前に",
+      "first-come, first-served：先着順の"
+    ],
+    "blanks": [
+      {
+        "id": "p665b1",
+        "choicesJa": [
+          "早く（原級）",
+          "より早く（比較級）",
+          "最も早く（最上級）",
+          "（誤用形）"
+        ],
+        "explanationDetail": "「as + 原級 + as possible」で「できるだけ〜」という定型表現を作るため、原級の soon が正解です。比較級 sooner や最上級 soonest、存在しない sooning はこの構文で使用できません。"
+      },
+      {
+        "id": "p665b2",
+        "choicesJa": [
+          "提出する（原形）",
+          "提出された（過去形/過去分詞）",
+          "提出している（現在分詞）",
+          "提出（名詞）"
+        ],
+        "explanationDetail": "should be に続く受動態の形を作る過去分詞 submitted が正解です。主語 Requests（申請）が「提出される」という受動の意味になります。原形 submit や名詞 submission では受動態を形成できません。"
+      },
+      {
+        "id": "p665b3",
+        "choicesJa": [
+          "サービスを提供する（原形）",
+          "サービスを提供された（過去形/過去分詞）",
+          "サービスを提供している（現在分詞）",
+          "提供する（三人称単数現在）"
+        ],
+        "explanationDetail": "「先着順」を意味する定型句「first-come, first-served」の一部をなす過去分詞 served が正解です。慣用表現として確立しているため、他の活用形 serve, serving, serves は使用できません。"
+      },
+      {
+        "id": "p665b4",
+        "choicesJa": [
+          "あらかじめ/事前に（副詞）",
+          "前方へ（副詞）",
+          "早く（形容詞/副詞）",
+          "〜の前に（前置詞/接続詞）"
+        ],
+        "explanationDetail": "「あらかじめ計画する」を意味する定型表現「plan ahead」を作る副詞 ahead が正解です。forward（前方へ）や before（〜の前に：前置詞/接続詞）、early（早い時間帯に）は plan とのこの組み合わせで定型表現を作りません。"
+      }
+    ]
+  },
+  {
+    "id": "p666",
+    "passageJa": "市の新しいライトレール（次世代型路面電車）路線が先週の月曜日に正式に運行を開始し、ダウンタウンのビジネス街と空港を30分未満で結びました。市の関係者は、完成までに約4年を要したこの事業により、交通渋滞が大幅に緩和されると述べています。\n\n最初の1週間は、住民に新しいシステムを試してもらうため、無料で乗車が提供されます。通常の運賃は翌週の月曜日から適用されます。",
+    "vocab": [
+      "congestion：混雑、渋滞",
+      "free of charge：無料で",
+      "encourage：奨励する、促す",
+      "go into effect：（法律や料金設定などが）発効する、実施される"
+    ],
+    "blanks": [
+      {
+        "id": "p666b1",
+        "choicesJa": [
+          "開始する（原形）",
+          "開始した（過去形）",
+          "開始された（過去分詞）",
+          "開始している（現在分詞）"
+        ],
+        "explanationDetail": "過去の特定の日時を表す last Monday があるため、過去形の began が正解です。原形 begin や過去分詞 begun、現在分詞 beginning は過去の確定した出来事を単独で表す述語動詞になれません。"
+      },
+      {
+        "id": "p666b2",
+        "choicesJa": [
+          "完成させる（原形）",
+          "完成させた（過去形/過去分詞）",
+          "完成させている（現在分詞）",
+          "完成（名詞）"
+        ],
+        "explanationDetail": "「took + 時間 + to + 動詞の原形」（〜するのに時間がかかった）の不定詞構文であるため、原形の complete が適切です。過去形 completed や名詞 completion は to の直後に置けません。"
+      },
+      {
+        "id": "p666b3",
+        "choicesJa": [
+          "無料の（形容詞/副詞）",
+          "〜の（前置詞）",
+          "〜なしで（前置詞）",
+          "〜とともに（前置詞）"
+        ],
+        "explanationDetail": "「無料の/無料で」を意味する定型句「free of charge」を構成する free が正解です。of, without, with などの単語を代わりに入れてもこの定型表現は作れません。"
+      },
+      {
+        "id": "p666b4",
+        "choicesJa": [
+          "行く/〜になる（原形）",
+          "〜になる（三人称単数現在）",
+          "〜になっている（現在分詞）",
+          "〜になった（過去分詞）"
+        ],
+        "explanationDetail": "助動詞 will の直後には動詞の原形が続くため、go が正解です。また、「go into effect」で「（規則や運賃などが）実施される・効力を生じる」という定型表現になります。屈折形 goes や分詞 going/gone は助動詞の後には置けません。"
+      }
+    ]
+  },
+  {
+    "id": "p667",
+    "passageJa": "同僚の皆様へ\n\n現在、会議室予約システムに技術的な不具合が発生しております。ITチームが問題の早期解決に向けて対応を行っています。\n\nそれまでの間、部屋を予約される際は受付まで直接ご連絡ください。ご不便をおかけしますことをお詫び申し上げますとともに、問題の修正作業中のご理解とご協力に感謝いたします。",
+    "vocab": [
+      "technical difficulty：技術的障害、不具合",
+      "in the meantime：その間に",
+      "reserve：予約する",
+      "patience：忍耐、ご理解"
+    ],
+    "blanks": [
+      {
+        "id": "p667b1",
+        "choicesJa": [
+          "働く/作業する（原形）",
+          "作業している（現在分詞）",
+          "作業した（過去形/過去分詞）",
+          "作業する（三人称単数現在）"
+        ],
+        "explanationDetail": "be 動詞 is とともに現在進行形 (is working) を形成する現在分詞 working が正解です。原形 work や過去形/過去分詞 worked、三単現 works は is の直後に進行形を作ることができません。"
+      },
+      {
+        "id": "p667b2",
+        "choicesJa": [
+          "連絡する（原形）",
+          "連絡した（過去形/過去分詞）",
+          "連絡している（現在分詞）",
+          "連絡する（三人称単数現在）"
+        ],
+        "explanationDetail": "please に続く丁寧な命令文の主語のない構造であるため、動詞の原形 contact が正解です。過去形/過去分詞 contacted や現在分詞 contacting、三単現 contacts は命令文の述語になれません。"
+      },
+      {
+        "id": "p667b3",
+        "choicesJa": [
+          "便利な（形容詞）",
+          "便利さ/ご不便（名詞）",
+          "便利に（副詞）",
+          "便利にされた（過去形/過去分詞）"
+        ],
+        "explanationDetail": "前置詞 for や限定詞 any の後に位置するため、名詞の convenience が適切です。定型表現「apologize for any inconvenience」の枠組みに基づく名詞選択問題です。形容詞 convenient や副詞 conveniently は不可です。"
+      },
+      {
+        "id": "p667b4",
+        "choicesJa": [
+          "〜である（原形）",
+          "〜されている（現在分詞）",
+          "〜であった（過去分詞）",
+          "〜である（三人称単数現在）"
+        ],
+        "explanationDetail": "現在進行受動態 (is being + 過去分詞) を作るため、being が正解です。「問題が現在修復されている最中」という継続的な進行受動の意味を表します。be, been, is では進行受動態を正しく形成できません。"
+      }
+    ]
+  },
+  {
+    "id": "p668",
+    "passageJa": "図書館ご利用の皆様へのお知らせ\n\n来学期より、大学図書館は期末試験期間中に開館時間を延長いたします。通常の閉館時間である午後10時の代わりに、午前2時まで開館いたします。\n\nこの期間中は、追加の自習室も利用可能になります。勉強する場所がなくなることがないよう、学生の皆様はオンラインで部屋を予約することをお勧めします。",
+    "vocab": [
+      "patron：利用客、愛顧者",
+      "extended hours：延長時間、開館延長",
+      "instead of：〜の代わりに",
+      "available：利用可能な"
+    ],
+    "blanks": [
+      {
+        "id": "p668b1",
+        "choicesJa": [
+          "提供する（原形）",
+          "提供する（三人称単数現在）",
+          "提供している（現在分詞）",
+          "提供された（過去形/過去分詞）"
+        ],
+        "explanationDetail": "助動詞 will の直後であるため、動詞の原形 offer が正解です。三単現の offers や分詞の offering/offered は助動詞の後には置けません。"
+      },
+      {
+        "id": "p668b2",
+        "choicesJa": [
+          "その代わりに（副詞）",
+          "〜の代わりに（前置詞）",
+          "むしろ（副詞）",
+          "〜にもかかわらず（前置詞）"
+        ],
+        "explanationDetail": "後続の名詞句 the usual closing time of 10 PM を目的語に取る前置詞句 instead of（〜の代わりに）が適切です。単独の副詞 instead や rather は名詞を直後に取れず、despite は文脈上の意味が合いません。"
+      },
+      {
+        "id": "p668b3",
+        "choicesJa": [
+          "利用可能な（形容詞）",
+          "利用可能性（名詞）",
+          "利用した（過去形/過去分詞）",
+          "利用する（動詞/名詞）"
+        ],
+        "explanationDetail": "「make + 目的語 + 形容詞」（〜を…な状態にする）の受動態 (be made + 形容詞) であるため、形容詞 available が適切です。名詞 availability や動詞由来の availed/avail は補語として不適切です。"
+      },
+      {
+        "id": "p668b4",
+        "choicesJa": [
+          "〜するように（接続詞）",
+          "〜のために（in order to等の構成要素）",
+          "〜するように（so as to等の構成要素）",
+          "〜なので（接続詞）"
+        ],
+        "explanationDetail": "後続に完全な節 (they are not left...) が続いているため、目的を表す接続詞 so that（〜となるように）が正解です。in order や so as は to 不定詞を伴う句をつくるため節を従えられず、because は理由を表すため文脈に合いません。"
+      }
+    ]
+  },
+  {
+    "id": "p669",
+    "passageJa": "チームの皆様\n\n会議が終了しましたので、5営業日以内に出張報告書を提出してください。各報告書には、参加したセッションの簡潔な要約と、当部門に関連する主要な学びを含めてください。\n\nまだ精算されていない費用が発生した場合は、報告書に領収書を添付してください。報告手順に関してご質問がある場合は、お知らせください。",
+    "vocab": [
+      "summary：要約",
+      "takeaway：重要なポイント、学び",
+      "incur：(費用など)を被る、発生させる",
+      "reimburse：〜を払い戻す、精算する"
+    ],
+    "blanks": [
+      {
+        "id": "p669b1",
+        "choicesJa": [
+          "提出する（原形）",
+          "提出する（三人称単数現在）",
+          "提出した（過去形/過去分詞）",
+          "提出している（現在分詞）"
+        ],
+        "explanationDetail": "please の後に続く命令文の動詞であるため、原形の submit が正解です。三単現の submits、過去形/過去分詞 submitted、現在分詞 submitting は命令文の述語動詞になれません。"
+      },
+      {
+        "id": "p669b2",
+        "choicesJa": [
+          "参加する（原形）",
+          "参加した（過去形/過去分詞）",
+          "参加している（現在分詞）",
+          "出席/参加（名詞）"
+        ],
+        "explanationDetail": "関係代名詞節内で過去に終了した「会議で出席したセッション」を表すため、過去形の attended が正解です。原形 attend、現在分詞 attending、名詞 attendance は過渡的な出来事の述語になれません。"
+      },
+      {
+        "id": "p669b3",
+        "choicesJa": [
+          "払い戻す（原形）",
+          "払い戻された（過去形/過去分詞）",
+          "払い戻している（現在分詞）",
+          "払い戻し/精算（名詞）"
+        ],
+        "explanationDetail": "完了形受動態 (have not yet been + 過去分詞) を作るため、過去分詞 reimbursed が正解です。費用 (expenses) が「払い戻される」という受動関係を表します。原形 reimburse や名詞 reimbursement はこの構文に適合しません。"
+      },
+      {
+        "id": "p669b4",
+        "choicesJa": [
+          "〜について（前置詞）",
+          "〜の（前置詞）",
+          "〜で（前置詞）",
+          "〜の中に（前置詞）"
+        ],
+        "explanationDetail": "questions を修飾して「〜に関する質問」という意味を表す最も適切な前置詞は about です。of, at, in はこの文脈で「〜に関する質問」という具体的な関連を示す前置詞として不適切です。"
+      }
+    ]
+  },
+  {
+    "id": "p670",
+    "passageJa": "先週末、リバーサイド・パークにボランティアが集まり、市が毎年開催する川の清掃イベントに参加しました。200人以上の参加者が、川岸沿いで3トン近くのゴミを拾い集めました。\n\n主催者によると、このイベントは5年前に始まって以来大幅に規模が拡大しており、来年はさらに拡大したいと考えています。ボランティア活動に関心のある方は、詳細について市のウェブサイトをご覧ください。",
+    "vocab": [
+      "volunteer：ボランティア、志願者",
+      "litter：ゴミ、散らかしゴミ",
+      "organizer：主催者",
+      "expand：拡大する"
+    ],
+    "blanks": [
+      {
+        "id": "p670b1",
+        "choicesJa": [
+          "参加する（原形）",
+          "参加した（過去形/過去分詞）",
+          "参加している（現在分詞）",
+          "参加（名詞）"
+        ],
+        "explanationDetail": "目的を表す to 不定詞 (to + 動詞の原形) を作るため、原形の participate が正解です。「participate in 〜」で「〜に参加する」という熟語を作ります。過去形 participated や名詞 participation は to の後に置けません。"
+      },
+      {
+        "id": "p670b2",
+        "choicesJa": [
+          "拾う（原形）",
+          "拾った（過去形/過去分詞）",
+          "拾っている（現在分詞）",
+          "拾う（三人称単数現在）"
+        ],
+        "explanationDetail": "文章全体が先週末 (last weekend) に起きた過去の出来事について語っているため、動詞の過去形 picked が適切です。原形 pick や現在分詞 picking、三単現 picks では時制が合いません。"
+      },
+      {
+        "id": "p670b3",
+        "choicesJa": [
+          "始まる（原形）",
+          "始まった（過去形）",
+          "始まった（過去分詞）",
+          "始まっている（現在分詞）"
+        ],
+        "explanationDetail": "接続詞 since（〜以来）が率いる節内で、過去の特定の時点 (five years ago) に起きた動作を表すため、過去形の began が正解です。原形 begin や過去分詞 begun、現在分詞 beginning は単独で述語動詞になれません。"
+      },
+      {
+        "id": "p670b4",
+        "choicesJa": [
+          "ボランティアをする（原形）",
+          "ボランティアをした（過去形/過去分詞）",
+          "ボランティアをすること（動名詞）",
+          "ボランティア（複数形名詞/三単現）"
+        ],
+        "explanationDetail": "前置詞 in の目的語となるため、動名詞の volunteering（ボランティア活動をすること）が正解です。「be interested in + 動名詞」で「〜することに関心がある」という表現になります。原形 volunteer や過去形 volunteered は前置詞の直後に置けません。"
+      }
+    ]
+  },
+  {
+    "id": "p671",
+    "passageJa": "新入社員の皆様へ\n\nラークスパー・テクノロジーズへようこそ！ オリエンテーション・セッションは、初日の午前9時よりメイン研修室にて開始される予定です。雇用ファイルに必要なため、有効な身分証明書と2種類の本人確認書類をご持参ください。\n\nセッション中、会社の規定について学び、直属のチームメンバーと面談します。当日はすべての新入社員に昼食が提供されます。",
+    "vocab": [
+      "orientation：説明会、研修",
+      "valid：有効な",
+      "documentation：書類、証明文書",
+      "new hire：新入社員"
+    ],
+    "blanks": [
+      {
+        "id": "p671b1",
+        "choicesJa": [
+          "予定を立てる（原形）",
+          "予定されている（過去形/過去分詞）",
+          "予定を立てている（現在分詞）",
+          "予定を立てる（三人称単数現在）"
+        ],
+        "explanationDetail": "「be scheduled to + 動詞の原形」で「〜する予定である」という受動表現を作るため、過去分詞 scheduled が適切です。原形 schedule や現在分詞 scheduling、三単現 schedules はこの構文を作りません。"
+      },
+      {
+        "id": "p671b2",
+        "choicesJa": [
+          "特定する（原形）",
+          "特定された（過去形/過去分詞）",
+          "特定している（現在分詞）",
+          "身元確認/本人確認（名詞）"
+        ],
+        "explanationDetail": "documentation を修飾して「本人確認用書類」を意味する複合名詞を作る名詞 identification が正解です（identification documentation）。動詞 identify や分詞 identified/identifying はこの文脈の名詞修飾として適しません。"
+      },
+      {
+        "id": "p671b3",
+        "choicesJa": [
+          "直属の/即座の（形容詞）",
+          "即座に（副詞）",
+          "即時性（名詞）",
+          "直接性（名詞）"
+        ],
+        "explanationDetail": "名詞句 team members を修飾して「直属のチームメンバー」という意味を作る形容詞 immediate が正解です。副詞 immediately や名詞 immediacy / immediateness は名詞を直修飾できません。"
+      },
+      {
+        "id": "p671b4",
+        "choicesJa": [
+          "提供する（原形）",
+          "提供された（過去形/過去分詞）",
+          "提供している（現在分詞）",
+          "提供（名詞）"
+        ],
+        "explanationDetail": "will be の後に続く受動態 (will be provided) を作る過去分詞 provided が適切です。「昼食が提供される」という受動の意味を表します。原形 provide や名詞 provision では受動態になりません。"
+      }
+    ]
+  },
+  {
+    "id": "p672",
+    "passageJa": "会員の皆様へ\n\n来月より会員規約を改定いたします。会員の皆様は、追加費用なしで年に最大2ヶ月まで会員資格を休止できるようになります。\n\nさらに、ゲストパスの枚数が月2枚から4枚に増額されます。これらの変更により、大切なお客様一人ひとりにより大きな柔軟性と利便性を提供できると確信しております。",
+    "vocab": [
+      "effective：（日時について）〜から適用される",
+      "freeze：（権利や資格などを）休止する、凍結する",
+      "additionally：さらに、加えて",
+      "flexibility：柔軟性"
+    ],
+    "blanks": [
+      {
+        "id": "p672b1",
+        "choicesJa": [
+          "効果/影響（名詞）",
+          "発効して/〜より適用で（形容詞）",
+          "効果的に（副詞）",
+          "有効性（名詞）"
+        ],
+        "explanationDetail": "「effective + 日付」で「〜付けで発効する、〜から適用される」という意味を表す分詞構文的な形容詞用法であるため、effective が正解です。名詞 effect/effectiveness や副詞 effectively はこの日時を修飾する定型構文を作れません。"
+      },
+      {
+        "id": "p672b2",
+        "choicesJa": [
+          "費用（不可算名詞/単数名詞）",
+          "費用がかかる（形容詞）",
+          "費用がかかっている（現在分詞）",
+          "費用（複数形名詞）"
+        ],
+        "explanationDetail": "「at no additional cost」で「追加費用なしで」という定型表現を作る単数/不可算形式の名詞 cost が正解です。形容詞 costly や分詞 costing、不自然な複数形 costs はこの慣用表現に適しません。"
+      },
+      {
+        "id": "p672b3",
+        "choicesJa": [
+          "増加させる（原形）",
+          "増加された（過去形/過去分詞）",
+          "増加している（現在分詞）",
+          "増加させる（三人称単数現在）"
+        ],
+        "explanationDetail": "will be の後に続く受動態を作る過去分詞 increased が適切です。「ゲストパスが増やされる」という受動の意味になります。原形 increase や現在分詞 increasing では文法・意味が成立しません。"
+      },
+      {
+        "id": "p672b4",
+        "choicesJa": [
+          "便利な（形容詞）",
+          "利便性（名詞）",
+          "便利に（副詞）",
+          "便利にされた（過去形/過去分詞）"
+        ],
+        "explanationDetail": "等位接続詞 and によって抽象名詞 flexibility（柔軟性）と並列に結ばれているため、名詞の convenience（利便性）が正解です。形容詞 convenient や副詞 conveniently は名詞と並列になれません。"
+      }
+    ]
+  },
+  {
+    "id": "p673",
+    "passageJa": "市交通局は今週、郊外の地域とダウンタウンを結ぶ3つの新しいバス路線を新設する計画を発表しました。当局は、この拡張計画は限られた交通手段に対する増大する不満への直接的な対応であると述べています。\n\n新しいバス停の建設は春に始まり、初夏までに全サービスが開始される見込みです。住民の皆様は、今後の公聴会で提案中の路線図を閲覧し、フィードバックを提出することができます。",
+    "vocab": [
+      "transit authority：交通局",
+      "outlying：郊外の、離れた",
+      "expansion：拡大、拡張",
+      "feedback：意見、フィードバック"
+    ],
+    "blanks": [
+      {
+        "id": "p673b1",
+        "choicesJa": [
+          "導入する/新設する（原形）",
+          "導入した（過去形/過去分詞）",
+          "導入している（現在分詞）",
+          "導入（名詞）"
+        ],
+        "explanationDetail": "「plans ... to + 動詞の原形」の不定詞構文を作るため、原形の introduce が適切です。過去形/過去分詞 introduced や名詞 introduction は to の直後に置くことができません。"
+      },
+      {
+        "id": "p673b2",
+        "choicesJa": [
+          "対応/回答（名詞）",
+          "対応する（動詞）",
+          "反応が良い（形容詞）",
+          "対応した（過去形/過去分詞）"
+        ],
+        "explanationDetail": "冠詞 a と形容詞 direct の後に位置するため、名詞の response が正解です。「a direct response to 〜」で「〜への直接的な対応」という意味になります。動詞 respond や形容詞 responsive は冠詞・形容詞の後に置けません。"
+      },
+      {
+        "id": "p673b3",
+        "choicesJa": [
+          "予期する（原形）",
+          "予期される（過去形/過去分詞）",
+          "予期している（現在分詞）",
+          "期待/予期（名詞）"
+        ],
+        "explanationDetail": "「with + 目的語 + 過去分詞」で「〜が…される状態で」という付帯状況の with 構文を作るため、過去分詞 expected が適切です。全サービス (full service) は「予想される」という受動の関係になります。原形 expect や名詞 expectation は使えません。"
+      },
+      {
+        "id": "p673b4",
+        "choicesJa": [
+          "提出する（原形）",
+          "提出した（過去形/過去分詞）",
+          "提出している（現在分詞）",
+          "提出（名詞）"
+        ],
+        "explanationDetail": "助動詞 can に続く動詞 view と and で並列に繋がれているため、動詞の原形 submit が正解です。「can view ... and submit ...」の並列構造になっています。過去形 submitted や名詞 submission では文法的に成立しません。"
+      }
+    ]
+  },
+  {
+    "id": "p674",
+    "passageJa": "チームの皆様\n\nプロジェクトのタイムラインに関する重要な変更点について協議いたしますので、来週火曜日の戦略会議に皆様をご招待いたします。皆様個々の意見は、今後のステップを形作る上で非常に貴重です。\n\n限られた時間を最大限に活用できるよう、会議の前に添付文書をご確認ください。ご欠席の場合は、事前にお知らせくださいますようお願いいたします。",
+    "vocab": [
+      "strategy：戦略",
+      "timeline：予定表、タイムライン",
+      "input：意見、入力",
+      "make the most of：〜を最大限に活用する"
+    ],
+    "blanks": [
+      {
+        "id": "p674b1",
+        "choicesJa": [
+          "招待する（原形）",
+          "招待する（三人称単数現在）",
+          "招待している（現在分詞）",
+          "招待（名詞）"
+        ],
+        "explanationDetail": "「would like to + 動詞の原形」で「〜したい」という丁寧な申し出を表すため、原形の invite が正解です。三単現の invites や分詞 inviting、名詞 invitation は to の後に置けません。"
+      },
+      {
+        "id": "p674b2",
+        "choicesJa": [
+          "個々の（形容詞/名詞）",
+          "個別に（副詞）",
+          "個性（名詞）",
+          "個別化する（動詞）"
+        ],
+        "explanationDetail": "不可算名詞 input（意見・フィードバック）を修飾して「各自の/個々の意見」という意味を作る形容詞 individual が適切です。副詞 individually や名詞 individuality、動詞 individualize は名詞 input を直接修飾できません。"
+      },
+      {
+        "id": "p674b3",
+        "choicesJa": [
+          "〜の前に（前置詞）",
+          "〜の後に（前置詞）",
+          "〜の間に（前置詞）",
+          "〜以来（前置詞/接続詞）"
+        ],
+        "explanationDetail": "文脈上「時間を最大限に活用するために、会議が始まる前に資料を読む」という意味が通るため、前置詞 before が正解です。after（後に）や during（最中に）では事前に読むという文脈に矛盾します。"
+      },
+      {
+        "id": "p674b4",
+        "choicesJa": [
+          "〜の中で（in advanceを構成）",
+          "〜の上に（前置詞）",
+          "〜において（前置詞）",
+          "〜までに（前置詞）"
+        ],
+        "explanationDetail": "「あらかじめ・事前に」を意味する熟語「in advance」を作る前置詞 in が正解です。on advance, at advance, by advance などの組み合わせはこの慣用表現を作りません。"
+      }
+    ]
+  },
+  {
+    "id": "p675",
+    "passageJa": "毎日のスケジュールを簡単に管理できるよう設計された生産性向上アプリ、TaskFlow をご紹介します。TaskFlow を使えば、やることリストの作成やリマインダーの設定、詳細なレポートによる進捗状況の追跡が可能です。\n\nこのアプリは iOS と Android の両方の端末で無料ダウンロードが可能です。チーム共同作業ツールや無制限のクラウドストレージなどの高度な機能を利用するには、プレミアム版にアップグレードしてください。",
+    "vocab": [
+      "effortlessly：簡単に、力かけずに",
+      "progress：進捗、進歩",
+      "collaboration：共同作業、コラボレーション",
+      "unlimited：無制限の"
+    ],
+    "blanks": [
+      {
+        "id": "p675b1",
+        "choicesJa": [
+          "設計する（原形）",
+          "設計された（過去形/過去分詞）",
+          "設計している（現在分詞）",
+          "設計する（三人称単数現在）"
+        ],
+        "explanationDetail": "名詞 app を後置修飾して「〜するように設計されたアプリ」という受動の意味を作る過去分詞 designed が正解です。原形 design や動詞形 designs では後置修飾できず、現在分詞 designing では能動になってしまいます。"
+      },
+      {
+        "id": "p675b2",
+        "choicesJa": [
+          "追跡する（原形）",
+          "追跡した（過去形/過去分詞）",
+          "追跡している（現在分詞）",
+          "追跡する（三人称単数現在）"
+        ],
+        "explanationDetail": "助動詞 can に続く動詞 create, set と as well as/and で並列接続されているため、動詞の原形 track が正解です。「can create ..., set ..., and track ...」の構文になっています。過去形 tracked や動名詞 tracking は型が崩れるため置けません。"
+      },
+      {
+        "id": "p675b3",
+        "choicesJa": [
+          "無料の（形容詞）",
+          "自由に（副詞）",
+          "自由（名詞）",
+          "自由にする（現在分詞）"
+        ],
+        "explanationDetail": "名詞 download を修飾して「無料ダウンロード」という意味を作る形容詞 free が適切です。副詞 freely や名詞 freedom、分詞 freeing は名詞 download を直接限定修飾する語として不適切です。"
+      },
+      {
+        "id": "p675b4",
+        "choicesJa": [
+          "雲（複数形名詞）",
+          "クラウド（名詞/名詞修飾）",
+          "曇った（過去形/形容詞）",
+          "曇らせている（現在分詞）"
+        ],
+        "explanationDetail": "storage と結合して「クラウドストレージ」を意味する複合名詞を作る単数形名詞/名詞修飾の cloud が正解です。複合名詞の前置修飾語には通常単数形を用いるため、複数形の clouds や形容詞/分詞の clouded/clouding は不適切です。"
+      }
+    ]
+  }
+]
+
+# Verify valid JSON serialization
+json_str = json.dumps(result, ensure_ascii=False, indent=2)
+print("Length of json_str:", len(json_str))
+print("Valid JSON parse test:", json.loads(json_str)[0]["id"])
+
+
+```
+
+```text
+Length of json_str: 25556
+Valid JSON parse test: p661
+
+
+```
+
+[
+{
+"id": "p661",
+"passageJa": "宛先：全部門マネージャー\n差出人：経理部\n\n今四半期のすべての経費報告書は、来月5日までに提出する必要があることをチームメンバーに周知してください。締め切り後に提出された報告書は、次の処理周期まで処理されない可能性があります。\n\n各報告書には領収書の原本を添付する必要があります。マネージャーは、提出前に報告書を確認し承認する責任があります。",
+"vocab": [
+"expense report：経費報告書",
+"process：処理する",
+"accompany：〜に添える・添付する",
+"responsible：責任がある"
+],
+"blanks": [
+{
+"id": "p661b1",
+"choicesJa": [
+"提出する（原形）",
+"提出された（過去分詞）",
+"提出している（動名詞/現在分詞）",
+"提出（名詞）"
+],
+"explanationDetail": "助動詞 must be の直後に位置するため、受動態を形成する過去分詞の submitted が正解です。「提出されなければならない」という意味になります。他の品詞や活用形では be 動詞に続けて受動構文を作ることができません。"
+},
+{
+"id": "p661b2",
+"choicesJa": [
+"提出する（原形）",
+"提出された（過去分詞）",
+"提出している（動名詞/現在分詞）",
+"提出する（三人称単数現在）"
+],
+"explanationDetail": "名詞 Reports を後置修飾する分詞を選ぶ問題です。「提出された報告書」という受動の意味になるため、過去分詞の submitted が適切です。動詞の原形や現在形は直接名詞を修飾できません。"
+},
+{
+"id": "p661b3",
+"choicesJa": [
+"添える（原形）",
+"添えられた（過去分詞）",
+"添えている（動名詞/現在分詞）",
+"伴奏/付属品（名詞）"
+],
+"explanationDetail": "be accompanied by ... で「〜が添えられている、〜を添付する」という意味を表す定番の受動態表現です。過去分詞の accompanied が正解となります。"
+},
+{
+"id": "p661b4",
+"choicesJa": [
+"返答（名詞）",
+"反応が良い（形容詞）",
+"責任がある（形容詞）",
+"責任（名詞）"
+],
+"explanationDetail": "be responsible for ... で「〜に責任がある」という意味の重要フレーズです。文脈に適した形容詞 responsible が正解です。"
+}
+]
+},
+{
+"id": "p662",
+"passageJa": "FitZone Gymは、ダウンタウンに最新店舗をオープンすることを誇りをもってお知らせいたします！今週の土曜日より、新規入会された会員様全員に無料のパーソナルトレーニングセッションと進呈品のジムバッグを差し上げます。\n\n当施設には最新の有酸素運動・筋トレ器具のほか、広々としたグループエクササイズ室が備わっています。初心者の方も経験豊富なアスリートの方も、トレーナーが目標を安全かつ効果的に達成できるようサポートいたします。",
+"vocab": [
+"location：店舗・拠点",
+"complimentary：無料の・進呈の",
+"equip：備え付ける",
+"spacious：広々とした"
+],
+"blanks": [
+{
+"id": "p662b1",
+"choicesJa": [
+"開く（原形/形容詞）",
+"開く（三人称単数現在）",
+"開店・オープン（名詞/動名詞）",
+"開いた（過去形/過去分詞）"
+],
+"explanationDetail": "定冠詞 the と前置詞 of の間に入るため、名詞として機能する opening（開店・オープン）が適切です。動詞の原形や過去形は冠詞の後ろに置くことができません。"
+},
+{
+"id": "p662b2",
+"choicesJa": [
+"無料の・進呈の（形容詞）",
+"補う（動詞）/補完物（名詞）",
+"補完的な（形容詞）",
+"褒め言葉（名詞）/褒める（動詞）"
+],
+"explanationDetail": "名詞 gym bag を修飾して「進呈品の/無料のジムバッグ」という意味を作る形容詞 complimentary が正解です。似た綴りの complementary は「補完的な」という意味であり文脈に合いません。"
+},
+{
+"id": "p662b3",
+"choicesJa": [
+"〜の",
+"〜を備えて",
+"〜のために",
+"〜によって"
+],
+"explanationDetail": "be equipped with ... で「〜を備えている」という受け身の熟語表現です。前置詞 with が正解となります。"
+},
+{
+"id": "p662b4",
+"choicesJa": [
+"速い（形容詞）",
+"素早く（副詞）",
+"素早さ（名詞）",
+"より速い（比較級形容詞）"
+],
+"explanationDetail": "動詞 reach を修飾し、and で結ばれた safely や effectively と並列になる副詞が必要です。副詞の quickly が適しています。"
+}
+]
+},
+{
+"id": "p663",
+"passageJa": "全株主の皆様へのお知らせ\n\n定時株主総会は11月12日にダウンタウン・コンベンションセンターにて開催されます。ご本人で出席できない株主の皆様は、代理人によって投票することができます。\n\nすべての投票書類は総会開催日の少なくとも1週間前までに返送されなければなりません。詳細な議題は、総会の約2週間前に株主に送信されます。",
+"vocab": [
+"shareholder：株主",
+"annual general meeting：定時株主総会",
+"proxy：代理・委任",
+"agenda：議題"
+],
+"blanks": [
+{
+"id": "p663b1",
+"choicesJa": [
+"開催する（原形）",
+"開催された（過去分詞）",
+"開催している（動名詞/現在分詞）",
+"開催する（三人称単数現在）"
+],
+"explanationDetail": "主語の The annual general meeting（定時株主総会）は「開催される」対象であるため、will be の後は受動態を作る過去分詞の held が正解です。"
+},
+{
+"id": "p663b2",
+"choicesJa": [
+"個人の（形容詞）",
+"自ら・直接（副詞）",
+"個人化する（動詞）",
+"個性・性格（名詞）"
+],
+"explanationDetail": "動詞 attend を修飾する副詞 personally（自ら、直接）が正解です。「自ら出席する」という意味になります。形容詞や名詞では動詞を修飾できません。"
+},
+{
+"id": "p663b3",
+"choicesJa": [
+"返送する（原形）",
+"返送された（過去分詞）",
+"返送している（動名詞/現在分詞）",
+"返送する（三人称単数現在）"
+],
+"explanationDetail": "主語 Voting materials（投票用書類）が「返送される」関係にあるため、must be に続ける受動態の過去分詞 returned が入ります。"
+},
+{
+"id": "p663b4",
+"choicesJa": [
+"おおよその（形容詞）",
+"およそ・約（副詞）",
+"概算（名詞）",
+"見積もられた（過去分詞）"
+],
+"explanationDetail": "「two weeks（2週間）」という数量表現を修飾して「約2週間前」とするため、副詞の approximately が適しています。"
+}
+]
+},
+{
+"id": "p664",
+"passageJa": "ITチームの皆様へ\n\n今週末に、すべての会社用デバイスを対象に新しいソフトウェアアップデートがインストールされますことをお知らせいたします。このアップデートは、システムのセキュリティを向上させ、いくつかの既知のバグを修正するように設計されています。\n\nアップデート中にデバイスが自動的に再起動されるため、金曜日の午後5時までにすべての作業を保存してください。アップデート後に問題が発生した場合は、すぐにヘルプデスクまでご連絡ください。",
+"vocab": [
+"inform：知らせる",
+"device：端末・機器",
+"security：安全性・セキュリティ",
+"automatically：自動的に"
+],
+"blanks": [
+{
+"id": "p664b1",
+"choicesJa": [
+"インストールする（原形）",
+"インストールされた（過去分詞）",
+"インストールしている（動名詞/現在分詞）",
+"インストール（名詞）"
+],
+"explanationDetail": "update は「インストールされる」ものであるため、will be の後ろには受動態を形成する過去分詞 installed が入ります。"
+},
+{
+"id": "p664b2",
+"choicesJa": [
+"向上させる（原形）",
+"向上させた（過去形/過去分詞）",
+"向上させている（動名詞/現在分詞）",
+"向上（名詞）"
+],
+"explanationDetail": "is designed to ...（〜するように設計されている）の to 不定詞の動詞原形が必要です。そのため improve が正解です。"
+},
+{
+"id": "p664b3",
+"choicesJa": [
+"〜になる/存在する（原形）",
+"〜を持つ/行う（原形）",
+"〜を持つ（三人称単数）",
+"〜を持っている（現在分詞）"
+],
+"explanationDetail": "助動詞 will の直後には動詞の原形が位置するため、原形の be または have が候補となります。文脈上デバイスが再起動の状態に入る・行われることを表すため、助動詞直後に置ける原形形態が文法的に正しく入ります。"
+},
+{
+"id": "p664b4",
+"choicesJa": [
+"〜の後に（前置詞/現在分詞）",
+"従う（原形）",
+"従った（過去形/過去分詞）",
+"従う（三人称単数現在）"
+],
+"explanationDetail": "名詞句 the update の前に置かれて「アップデートの後に」という意味を作る前置詞 following が正解です。"
+}
+]
+},
+{
+"id": "p665",
+"passageJa": "全スタッフへ\n\n休暇シーズンが近づいていますので、休暇申請はできるだけ早く提出してください。申請は少なくとも2週間前に、直属の上司へ提出する必要があります。\n\n多数の申請が予想されるため、承認は先着順で行われます。スケジュールの重複を避けるため、皆様であらかじめ計画を立てることをお勧めします。",
+"vocab": [
+"approach：近づく",
+"vacation request：休暇申請",
+"supervisor：上司",
+"first-come, first-served：先着順の"
+],
+"blanks": [
+{
+"id": "p665b1",
+"choicesJa": [
+"早く（副詞原級）",
+"より早く（比較級）",
+"最も早く（最上級）",
+"（誤答異形）"
+],
+"explanationDetail": "as ... as possible（できるだけ〜）の構文では、as と as の間に副詞・形容詞の原級を置きます。そのため soon が正解です。"
+},
+{
+"id": "p665b2",
+"choicesJa": [
+"提出する（原形）",
+"提出された（過去分詞）",
+"提出している（動名詞/現在分詞）",
+"提出（名詞）"
+],
+"explanationDetail": "Requests（申請）は「提出される」対象のため、should be の直後には過去分詞の submitted が入ります。"
+},
+{
+"id": "p665b3",
+"choicesJa": [
+"提供する/もてなす（原形）",
+"提供された（過去分詞）",
+"提供している（動名詞/現在分詞）",
+"提供する（三人称単数現在）"
+],
+"explanationDetail": "「先着順」を表す定型フレーズは first-come, first-served basis です。過去分詞の served が正しい形となります。"
+},
+{
+"id": "p665b4",
+"choicesJa": [
+"事前に・あらかじめ（副詞）",
+"前方へ（副詞）",
+"早く（副詞/形容詞）",
+"〜の前に（前置詞/接続詞）"
+],
+"explanationDetail": "plan ahead で「あらかじめ計画を立てる」という決まり文句を作ります。before は目的語なしでこの位置に副詞として置くには不適当です。"
+}
+]
+},
+{
+"id": "p666",
+"passageJa": "市の新しいライトレール線が先週月曜日に正式に運行を開始し、ダウンタウンのビジネス街と空港を30分未満で結びました。市の関係者によると、完成までにほぼ4年を要したこの事業により、交通渋滞が大幅に緩和されるとのことです。\n\n最初の1週間は、住民に新しいシステムを試してもらうため無料で乗車が提供されます。正規運賃は翌週の月曜日に適用開始となります。",
+"vocab": [
+"light rail：ライトレール（軽軌道電車）",
+"congestion：混雑・渋滞",
+"free of charge：無料で",
+"go into effect：発効する・施行される"
+],
+"blanks": [
+{
+"id": "p666b1",
+"choicesJa": [
+"開始する（原形）",
+"開始した（過去形）",
+"開始された（過去分詞）",
+"開始している（動名詞/現在分詞）"
+],
+"explanationDetail": "last Monday（先週の月曜日）という明確な過去を表す語句があるため、述語動詞には過去形の began が入ります。"
+},
+{
+"id": "p666b2",
+"choicesJa": [
+"完成させる（原形）",
+"完成させた（過去形/過去分詞）",
+"完成させている（動名詞/現在分詞）",
+"完成（名詞）"
+],
+"explanationDetail": "took nearly four years to ...（完成させるのにほぼ4年かかった）という to 不定詞の形を作るため、to の後ろには原形 complete が位置します。"
+},
+{
+"id": "p666b3",
+"choicesJa": [
+"無料の（形容詞）",
+"〜の（前置詞）",
+"〜なしで（前置詞）",
+"〜と共に（前置詞）"
+],
+"explanationDetail": "free of charge で「無料で」を意味するイディオムです。空欄の後に of charge が続いているため free が正解です。"
+},
+{
+"id": "p666b4",
+"choicesJa": [
+"行く/移行する（原形）",
+"行く（三人称単数現在）",
+"行くこと（動名詞/現在分詞）",
+"行った（過去分詞）"
+],
+"explanationDetail": "助動詞 will の後ろには動詞の原形が続くため go が正解です。go into effect で「（運賃や法律などが）実施される・発効する」という意味になります。"
+}
+]
+},
+{
+"id": "p667",
+"passageJa": "同僚の皆様へ\n\n現在、会議室予約システムに技術的な不具合が発生しております。ITチームが問題の早期解決に向けて対応を行っております。\n\nそれまでの間、部屋のご予約は受付へ直接ご連絡ください。ご不便をおかけしますことをお詫び申し上げますとともに、問題の修復作業中のご理解とご協力に感謝いたします。",
+"vocab": [
+"technical difficulty：技術的障害・不具合",
+"resolve：解決する",
+"inconvenience：不便・ご迷惑",
+"patience：忍耐・ご理解"
+],
+"blanks": [
+{
+"id": "p667b1",
+"choicesJa": [
+"取り組む（原形）",
+"取り組んでいる（動名詞/現在分詞）",
+"取り組んだ（過去形/過去分詞）",
+"取り組む（三人称単数現在）"
+],
+"explanationDetail": "be 動詞 is の後ろに続けて現在進行形 (is working) を作るため、現在分詞の working が正解です。"
+},
+{
+"id": "p667b2",
+"choicesJa": [
+"連絡する（原形）",
+"連絡した（過去形/過去分詞）",
+"連絡している（動名詞/現在分詞）",
+"連絡する（三人称単数現在）"
+],
+"explanationDetail": "please で始まる命令文の構造となっているため、動詞の原形 contact を置きます。"
+},
+{
+"id": "p667b3",
+"choicesJa": [
+"便利な（形容詞）",
+"便利さ・都合（名詞）",
+"便利に（副詞）",
+"便利にした（過去形）"
+],
+"explanationDetail": "前置詞 for および限定詞 any の後ろに置く名詞が必要です。文脈上、不便や都合に関する名詞 convenience が入ります。"
+},
+{
+"id": "p667b4",
+"choicesJa": [
+"〜である（原形）",
+"〜されている（現在分詞）",
+"〜であった（過去分詞）",
+"〜である（三人称単数）"
+],
+"explanationDetail": "is being fixed の形で「（現在）修復されている最中である」という受動態進行形を表します。is と過去分詞 fixed の間に挟むのは being です。"
+}
+]
+},
+{
+"id": "p668",
+"passageJa": "図書館利用者の皆様へのお知らせ\n\n来学期より、大学図書館は期末試験期間中に開館時間を延長します。通常の閉館時間である午後10時ではなく、午前2時まで開館します。\n\nまた、この期間中は追加の自習室も利用可能になります。勉強する場所がなくなることがないよう、学生の皆様にはオンラインで部屋を予約することをお勧めします。",
+"vocab": [
+"patron：利用者・愛顧者",
+"extended hours：延長時間",
+"instead of：〜の代わりに",
+"available：利用可能な"
+],
+"blanks": [
+{
+"id": "p668b1",
+"choicesJa": [
+"提供する（原形）",
+"提供する（三人称単数現在）",
+"提供している（動名詞/現在分詞）",
+"提供された（過去形/過去分詞）"
+],
+"explanationDetail": "助動詞 will の直後にあるため、動詞の原形 offer が入ります。"
+},
+{
+"id": "p668b2",
+"choicesJa": [
+"代わりに（副詞）",
+"〜の代わりに（前置詞句）",
+"むしろ（副詞）",
+"〜にもかかわらず（前置詞）"
+],
+"explanationDetail": "後ろに名詞句 the usual closing time... が続いているため、前置詞句の instead of が必要です。副詞の instead は直後に名詞をとれません。"
+},
+{
+"id": "p668b3",
+"choicesJa": [
+"利用可能な（形容詞）",
+"利用可能性（名詞）",
+"利用した（過去形/過去分詞）",
+"利用する/役立つ（動詞）"
+],
+"explanationDetail": "make + 目的語 + 形容詞（〜を利用可能な状態にする）の文型が受動態（be made available）になった形です。補語となる形容詞 available が適切です。"
+},
+{
+"id": "p668b4",
+"choicesJa": [
+"〜するように（接続詞）",
+"〜するために（熟語構成要素）",
+"〜するように（熟語構成要素）",
+"〜なので（接続詞）"
+],
+"explanationDetail": "後ろに完全な節（they are not left...）が従っているため、目的を表す接続詞 so that が正解です。in order や so as は to 不定詞を伴います。"
+}
+]
+},
+{
+"id": "p669",
+"passageJa": "チームの皆さんへ\n\nカンファレンスが終了しましたので、5営業日以内に出張報告書を提出してください。各報告書には、参加したセッションの簡単な要約と、当部門に関連する重要な要点を含めてください。\n\nまだ払い戻されていない費用が発生している場合は、報告書に領収書を添付してください。報告プロセスについてご質問があればお知らせください。",
+"vocab": [
+"trip report：出張報告書",
+"takeaway：学んだこと・要点",
+"incur：(費用を)発生させる・被る",
+"reimburse：払い戻す"
+],
+"blanks": [
+{
+"id": "p669b1",
+"choicesJa": [
+"提出する（原形）",
+"提出する（三人称単数現在）",
+"提出した（過去形/過去分詞）",
+"提出している（動名詞/現在分詞）"
+],
+"explanationDetail": "please に続く命令文であるため、動詞の原形 submit が正解です。"
+},
+{
+"id": "p669b2",
+"choicesJa": [
+"出席する（原形）",
+"出席した（過去形/過去分詞）",
+"出席している（動名詞/現在分詞）",
+"出席（名詞）"
+],
+"explanationDetail": "過去に参加したセッションを表す関係代名詞節内の動詞であるため、過去形の attended が適切です。"
+},
+{
+"id": "p669b3",
+"choicesJa": [
+"払い戻す（原形）",
+"払い戻された（過去分詞）",
+"払い戻している（動名詞/現在分詞）",
+"払い戻し（名詞）"
+],
+"explanationDetail": "have not yet been に続けて完了形の受動態を作るため、過去分詞 reimbursed が正解です。"
+},
+{
+"id": "p669b4",
+"choicesJa": [
+"〜について",
+"〜の",
+"〜において",
+"〜の中で"
+],
+"explanationDetail": "questions about ... で「〜についての質問」という意味を作る自然な前置詞表現です。"
+}
+]
+},
+{
+"id": "p670",
+"passageJa": "先週末、リバーサイド・パークにボランティアが集まり、市が毎年開催する川の清掃イベントに参加しました。200人以上の参加者が、川岸に沿って3トン近くのごみを拾い集めました。\n\n主催者によると、このイベントは5年前に始まって以来大幅に拡大しており、来年はさらに拡大したいと考えているとのことです。ボランティア活動に興味のある方は、市のウェブサイトで詳細をご確認ください。",
+"vocab": [
+"volunteer：ボランティア・有志",
+"participate in：〜に参加する",
+"litter：ごみ",
+"organizer：主催者"
+],
+"blanks": [
+{
+"id": "p670b1",
+"choicesJa": [
+"参加する（原形）",
+"参加した（過去形/過去分詞）",
+"参加している（動名詞/現在分詞）",
+"参加（名詞）"
+],
+"explanationDetail": "to 不定詞 (to + 動詞の原形) の形を完成させるため、原形の participate が入ります。"
+},
+{
+"id": "p670b2",
+"choicesJa": [
+"拾う（原形）",
+"拾った（過去形/過去分詞）",
+"拾っている（動名詞/現在分詞）",
+"拾う（三人称単数現在）"
+],
+"explanationDetail": "文全体の時制が last weekend（先週末）という過去の事実を述べているため、過去形の picked が正解です。"
+},
+{
+"id": "p670b3",
+"choicesJa": [
+"始まる（原形）",
+"始まった（過去形）",
+"始まった（過去分詞）",
+"始まっている（動名詞/現在分詞）"
+],
+"explanationDetail": "since 節内で過去の特定時点（5年前）の出来事を表しているため、過去形の began が入ります。"
+},
+{
+"id": "p670b4",
+"choicesJa": [
+"ボランティアをする（原形）",
+"ボランティアをした（過去形）",
+"ボランティアをすること（動名詞）",
+"ボランティア（複数形/動詞三人称単数）"
+],
+"explanationDetail": "前置詞 in の目的語となるため動名詞が必要です。be interested in doing の構文により volunteering が正解です。"
+}
+]
+},
+{
+"id": "p671",
+"passageJa": "新入社員の皆様へ\n\nラークスパー・テクノロジーズへようこそ！オリエンテーションは、初日の午前9時よりメイン研修室にて開始予定です。有効な身分証明書と、雇用ファイル用の身元確認書類2通をご持参ください。\n\nセッション中には会社の規定について学び、直属のチームメンバーと面談します。この日、すべての新入社員に昼食が提供されます。",
+"vocab": [
+"orientation：オリエンテーション・研修",
+"identification：身元確認・身分証明",
+"immediate：直属の・すぐの",
+"new hire：新入社員"
+],
+"blanks": [
+{
+"id": "p671b1",
+"choicesJa": [
+"予定を立てる（原形）",
+"予定されている（過去分詞）",
+"予定を立てている（動名詞/現在分詞）",
+"予定（複数形/動詞三人称単数）"
+],
+"explanationDetail": "be scheduled to do で「〜する予定である」という受動態表現を作ります。過去分詞の scheduled が正解です。"
+},
+{
+"id": "p671b2",
+"choicesJa": [
+"特定する（原形）",
+"特定された（過去分詞）",
+"特定している（動名詞/現在分詞）",
+"身元確認（名詞）"
+],
+"explanationDetail": "名詞 documentation（書類）を前置修飾して「身元確認書類」という複合名詞を作るため、名詞の identification が入ります。"
+},
+{
+"id": "p671b3",
+"choicesJa": [
+"直属の・即座の（形容詞）",
+"すぐに（副詞）",
+"即時性（名詞）",
+"直接性（名詞）"
+],
+"explanationDetail": "名詞句 team members を修飾する形容詞が必要です。immediate team members で「直属のチームメンバー」という意味になります。"
+},
+{
+"id": "p671b4",
+"choicesJa": [
+"提供する（原形）",
+"提供された（過去分詞）",
+"提供している（動名詞/現在分詞）",
+"提供（名詞）"
+],
+"explanationDetail": "Lunch（昼食）は「提供される」側であるため、will be の直後には受動態を完成させる過去分詞 provided が適しています。"
+}
+]
+},
+{
+"id": "p672",
+"passageJa": "会員の皆様へ\n\n来月より会員規約を改定いたします。会員様は今後、年間最大2か月まで追加費用なしで会員権を一時停止できるようになります。\n\nさらに、ゲストパスの発行枚数が月2枚から4枚に増額されます。これらの変更により、大切なお客さま全員に更なる柔軟性と利便性を提供できると確信しております。",
+"vocab": [
+"effective：発効して・適用の",
+"freeze：凍結する・一時停止する",
+"flexibility：柔軟性",
+"valued：大切な・貴重な"
+],
+"blanks": [
+{
+"id": "p672b1",
+"choicesJa": [
+"効果/影響（名詞）",
+"発効した・有効な（形容詞）",
+"効果的に（副詞）",
+"有効性（名詞）"
+],
+"explanationDetail": "effective + 時期 で「〜より発効して、〜から適用で」という意味を表す慣用表現です。形容詞の effective が入ります。"
+},
+{
+"id": "p672b2",
+"choicesJa": [
+"費用（名詞/原形）",
+"費用がかかる（形容詞）",
+"費用がかかっている（動名詞/現在分詞）",
+"費用（複数形名詞/三人称単数）"
+],
+"explanationDetail": "at no additional cost で「追加費用なしで」という決まり文句です。不可算名詞の単数形 cost が用いられます。"
+},
+{
+"id": "p672b3",
+"choicesJa": [
+"増やす（原形）",
+"増やされた（過去分詞）",
+"増やしている（動名詞/現在分詞）",
+"増やす（三人称単数現在）"
+],
+"explanationDetail": "主語 guest passes は「増やされる」ため、will be の後ろには受動態を作る過去分詞の increased が適切です。"
+},
+{
+"id": "p672b4",
+"choicesJa": [
+"便利な（形容詞）",
+"利便性（名詞）",
+"便利に（副詞）",
+"便利にされた（過去形）"
+],
+"explanationDetail": "and の前にある不可算名詞 flexibility（柔軟性）と並列関係をなす名詞が必要です。名詞の convenience（利便性）が正解です。"
+}
+]
+},
+{
+"id": "p673",
+"passageJa": "市交通局は今週、郊外の地域とダウンタウンを結ぶ3つの新バス路線を新設する計画を発表しました。関係者によると、この拡大は限られた交通手段への苦情が増加していることに対する直接的な対応策であるとのことです。\n\n新しいバス停の建設は春に始まり、初夏までに全線で運行開始が見込まれています。住民の皆様は、今後の公聴会で提案された路線図を閲覧し、意見を提出することができます。",
+"vocab": [
+"transit authority：交通局",
+"outlying：郊外の・離れた",
+"complaint：苦情",
+"proposed：提案された"
+],
+"blanks": [
+{
+"id": "p673b1",
+"choicesJa": [
+"導入する/新設する（原形）",
+"導入した（過去形/過去分詞）",
+"導入している（動名詞/現在分詞）",
+"導入（名詞）"
+],
+"explanationDetail": "plans to do（〜する計画）の構文を作るため、to の直後には動詞の原形 introduce が必要です。"
+},
+{
+"id": "p673b2",
+"choicesJa": [
+"返答・対応（名詞）",
+"応答する（原形）",
+"反応が良い（形容詞）",
+"応答した（過去形/過去分詞）"
+],
+"explanationDetail": "冠詞 a と形容詞 direct の直後には名詞が入ります。a direct response to ... で「〜への直接的な対応・返答」となります。"
+},
+{
+"id": "p673b3",
+"choicesJa": [
+"予期する（原形）",
+"予期された（過去分詞）",
+"予期している（動名詞/現在分詞）",
+"期待（名詞）"
+],
+"explanationDetail": "with + 名詞 + 過去分詞（付帯状況の with）で「全線運行が〜までに見込まれている状態で」という意味になります。受動の関係なので過去分詞 expected が入ります。"
+},
+{
+"id": "p673b4",
+"choicesJa": [
+"提出する（原形）",
+"提出した（過去形/過去分詞）",
+"提出している（動名詞/現在分詞）",
+"提出（名詞）"
+],
+"explanationDetail": "助動詞 can に接続する動詞 view と and で並列に結ばれているため、原形の submit が入ります。"
+}
+]
+},
+{
+"id": "p674",
+"passageJa": "チームの皆さんへ\n\n来週火曜日の戦略会議に皆様をご招待いたします。プロジェクトのタイムラインに関する重要な変更点について協議する予定です。今後の進め方を決定するにあたり、皆様一人ひとりのご意見が非常に貴重となります。\n\n限られた時間を最大限に活用するため、会議の前に添付書類をご確認ください。出席できない場合は、事前にお知らせください。",
+"vocab": [
+"timeline：工程表・スケジュール",
+"valuable：貴重な",
+"make the most of：〜を最大限に活用する",
+"in advance：あらかじめ・事前に"
+],
+"blanks": [
+{
+"id": "p674b1",
+"choicesJa": [
+"招待する（原形）",
+"招待する（三人称単数現在）",
+"招待している（動名詞/現在分詞）",
+"招待（名詞）"
+],
+"explanationDetail": "would like to の後ろには動詞の原形が続くため、原形の invite が入ります。"
+},
+{
+"id": "p674b2",
+"choicesJa": [
+"個々の・個人の（形容詞）",
+"個別に（副詞）",
+"個性（名詞）",
+"個別化する（動詞）"
+],
+"explanationDetail": "名詞 input（意見・入力）を修飾する形容詞が必要です。形容詞の individual（一人ひとりの、個々の）が適切です。"
+},
+{
+"id": "p674b3",
+"choicesJa": [
+"〜の前に",
+"〜の後に",
+"〜の間に",
+"〜以来"
+],
+"explanationDetail": "時間を有効活用するために「会議の前に」確認しておくという文脈が適しているため、前置詞 before が適しています。"
+},
+{
+"id": "p674b4",
+"choicesJa": [
+"〜の中に",
+"〜の上に",
+"〜において",
+"〜までに"
+],
+"explanationDetail": "in advance で「前もって、事前に」という決まり文句を作ります。前置詞 in が入ります。"
+}
+]
+},
+{
+"id": "p675",
+"passageJa": "毎日のスケジュールを無理なく管理できるよう設計された生産性向上アプリ「TaskFlow」のご紹介です。TaskFlowを使えば、やることリストの作成やリマインダーの設定、詳細なレポートによる進捗状況の記録が可能です。\n\nこのアプリはiOSおよびAndroid端末の双方で無料ダウンロードが可能です。チームでの共同作業ツールや無制限のクラウドストレージなど、高度な機能をご利用いただくにはプレミアムプランにアップグレードしてください。",
+"vocab": [
+"productivity：生産性",
+"effortlessly：簡単に・労せず",
+"collaboration：共同作業・コラボレーション",
+"unlimited：無制限の"
+],
+"blanks": [
+{
+"id": "p675b1",
+"choicesJa": [
+"設計する（原形）",
+"設計された（過去分詞）",
+"設計している（動名詞/現在分詞）",
+"設計する（三人称単数現在）"
+],
+"explanationDetail": "名詞 the productivity app を修飾する分詞が必要です。「〜されるよう設計されたアプリ」という受動の意味になるため過去分詞の designed が正解です。"
+},
+{
+"id": "p675b2",
+"choicesJa": [
+"追跡する・記録する（原形）",
+"記録した（過去形/過去分詞）",
+"記録している（動名詞/現在分詞）",
+"記録する（三人称単数現在）"
+],
+"explanationDetail": "助動詞 can に接続する動詞 create, set と as/and で並列接続（原形 A, B, and C）されるため、原形の track が入ります。"
+},
+{
+"id": "p675b3",
+"choicesJa": [
+"無料の（形容詞）",
+"自由に（副詞）",
+"自由（名詞）",
+"解放すること（動名詞）"
+],
+"explanationDetail": "名詞 download を修飾して「無料ダウンロード」という意味を作る形容詞 free が正解です。"
+},
+{
+"id": "p675b4",
+"choicesJa": [
+"雲（複数形名詞）",
+"クラウド/雲（名詞）",
+"曇った（過去形/形容詞）",
+"曇らせている（現在分詞）"
+],
+"explanationDetail": "cloud storage で「クラウドストレージ」という複合名詞を形成します。名詞修飾語として単数形の cloud が適切です。"
+}
+]
+}
+]

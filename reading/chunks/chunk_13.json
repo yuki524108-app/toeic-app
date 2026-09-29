@@ -1,0 +1,461 @@
+[
+ {
+  "id": "r097",
+  "passage": "To: All Suppliers and Vendors\nFrom: Logistics Department, Meridian Retail Group\n\nThis notice is to inform you that our primary distribution warehouse will relocate to a new facility beginning November 1st. All future shipments and deliveries should be sent to the new address below:\n\nNew Address: 1450 Industrial Parkway, Unit 12, Fairhaven\n\nPlease update your shipping records accordingly. Any shipments sent to our old address after October 25th may experience delays, as we will be gradually transferring operations. We recommend confirming the correct address with any shipments scheduled for late October or November.\n\nIf you have any questions or need to confirm a specific delivery date, please contact our logistics coordinator.",
+  "passage2": "To: logistics@meridianretail.com\nFrom: orders@harborsupply.com\nSubject: Confirming Updated Delivery Address\n\nHello,\n\nThank you for the notice regarding your warehouse relocation. We have a shipment currently scheduled for delivery on October 28th and want to confirm whether we should send it to the new address or the old one, given the timing.\n\nWe also have a second shipment scheduled for November 5th, which we assume should go to the new address at 1450 Industrial Parkway, Unit 12.\n\nPlease confirm both of these details so we can update our records and avoid any delivery issues.\n\nThank you,\nHarbor Supply Co.",
+  "questions": [
+   {
+    "id": "r097q1",
+    "question": "When does the warehouse relocation begin?",
+    "choices": [
+     "October 1st",
+     "October 25th",
+     "November 1st",
+     "November 5th"
+    ]
+   },
+   {
+    "id": "r097q2",
+    "question": "What might happen to shipments sent to the old address after October 25th?",
+    "choices": [
+     "They will be refused entirely",
+     "They may experience delays",
+     "They will be redirected automatically at no cost",
+     "They will be destroyed"
+    ]
+   },
+   {
+    "id": "r097q3",
+    "question": "Why is Harbor Supply Co. writing this email?",
+    "choices": [
+     "To cancel a shipment",
+     "To confirm which address to use for upcoming shipments",
+     "To complain about a late delivery",
+     "To request a new supplier contract"
+    ]
+   },
+   {
+    "id": "r097q4",
+    "question": "What is the new warehouse address mentioned in Harbor Supply's email?",
+    "choices": [
+     "1450 Industrial Parkway, Unit 12",
+     "12 Fairhaven Road",
+     "1450 Fairhaven Street",
+     "Unit 12, Meridian Plaza"
+    ]
+   },
+   {
+    "id": "r097q5",
+    "question": "Based on both documents, which address should Harbor Supply likely use for its October 28th shipment?",
+    "choices": [
+     "The old address only",
+     "Likely the new address, since October 28th falls after the October 25th caution date",
+     "It does not matter which address is used",
+     "Neither, the shipment should be cancelled"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r098",
+  "passage": "Fairmont University Alumni Association – Annual Reunion Dinner\n\nYou are cordially invited to the Annual Reunion Dinner, celebrating graduates from all class years. The event will take place on Saturday, October 12th, from 6:00 PM to 9:30 PM at the Fairmont University Grand Hall.\n\nThe evening will include a three-course dinner, remarks from the university president, and a slideshow featuring highlights from the past year. Tickets are $65 per person, and proceeds will support the university's student scholarship fund.\n\nPlease indicate any dietary restrictions when registering, and note that the venue is wheelchair accessible. RSVP by September 28th at alumni@fairmontuniv.edu.",
+  "passage2": "To: alumni@fairmontuniv.edu\nFrom: c.reyes-alumna@mailbox.com\nSubject: RSVP – Annual Reunion Dinner\n\nHello,\n\nI would like to RSVP for the Annual Reunion Dinner on October 12th. I will be attending along with one guest, so please reserve two seats under my name.\n\nI wanted to let you know that I follow a vegetarian diet, and my guest has a shellfish allergy. Could you please confirm that the dinner menu can accommodate both of these needs?\n\nAlso, since my guest uses a wheelchair, I appreciate that the venue is accessible, but could you let me know if there is accessible parking nearby as well?\n\nThank you, and I look forward to the event.\n\nCarmen Reyes",
+  "questions": [
+   {
+    "id": "r098q1",
+    "question": "What will proceeds from the event support?",
+    "choices": [
+     "A new campus building",
+     "The university's student scholarship fund",
+     "Faculty salaries",
+     "A sports team"
+    ]
+   },
+   {
+    "id": "r098q2",
+    "question": "By when should guests RSVP?",
+    "choices": [
+     "September 28th",
+     "October 12th",
+     "October 1st",
+     "The day of the event"
+    ]
+   },
+   {
+    "id": "r098q3",
+    "question": "How many seats does Ms. Reyes request?",
+    "choices": [
+     "One",
+     "Two",
+     "Three",
+     "Four"
+    ]
+   },
+   {
+    "id": "r098q4",
+    "question": "What dietary need does Ms. Reyes's guest have?",
+    "choices": [
+     "A vegetarian diet",
+     "A shellfish allergy",
+     "A gluten-free diet",
+     "No dietary restrictions"
+    ]
+   },
+   {
+    "id": "r098q5",
+    "question": "Based on both documents, why does Ms. Reyes ask about parking?",
+    "choices": [
+     "She does not know where the venue is",
+     "Her guest uses a wheelchair and she wants to confirm accessible parking",
+     "She is arriving separately from her guest",
+     "She wants to avoid a parking fee"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r099",
+  "passage": "From: reservations@driveeasy-rentals.com\nTo: m.faulkner@mailbox.com\nSubject: Rental Confirmation – Booking #RC5528\n\nDear Ms. Faulkner,\n\nThis confirms your car rental reservation:\n\nPick-up: October 8th, 10:00 AM, Downtown Branch\nReturn: October 11th, 10:00 AM, Downtown Branch\nVehicle: Midsize Sedan\nRate: $45/day (3 days, total $135 plus insurance and taxes)\n\nA valid driver's license and credit card are required at pick-up. Only drivers listed on the rental agreement are permitted to operate the vehicle. Additional drivers can be added for a fee of $10/day each and must be present at pick-up with a valid license.\n\nThank you for choosing DriveEasy Rentals.",
+  "passage2": "To: reservations@driveeasy-rentals.com\nFrom: m.faulkner@mailbox.com\nSubject: RE: Rental Confirmation – Booking #RC5528\n\nHello,\n\nThank you for the confirmation. I would like to add my colleague, David Kwan, as an additional driver for this rental, since we will be sharing the driving during our trip.\n\nCould you let me know the total additional cost for adding him for the full rental period, and confirm that he just needs to bring his driver's license when we pick up the car together?\n\nPlease update the reservation and let me know if any other information is needed from him in advance.\n\nThank you,\nMelissa Faulkner",
+  "questions": [
+   {
+    "id": "r099q1",
+    "question": "What is required at pick-up, according to the confirmation?",
+    "choices": [
+     "A passport only",
+     "A valid driver's license and credit card",
+     "Proof of insurance from home",
+     "A signed rental agreement mailed in advance"
+    ]
+   },
+   {
+    "id": "r099q2",
+    "question": "What is the daily fee for an additional driver?",
+    "choices": [
+     "$5/day",
+     "$10/day",
+     "$15/day",
+     "$45/day"
+    ]
+   },
+   {
+    "id": "r099q3",
+    "question": "Why does Ms. Faulkner want to add David Kwan as a driver?",
+    "choices": [
+     "He is picking up the car alone",
+     "They will be sharing the driving during their trip",
+     "Her license has expired",
+     "He is returning the car separately"
+    ]
+   },
+   {
+    "id": "r099q4",
+    "question": "What does Ms. Faulkner ask David Kwan to bring?",
+    "choices": [
+     "A credit card",
+     "His driver's license",
+     "Proof of address",
+     "A copy of the confirmation email"
+    ]
+   },
+   {
+    "id": "r099q5",
+    "question": "Based on both documents, approximately how much would it cost to add David Kwan for the full rental period?",
+    "choices": [
+     "$10",
+     "$30",
+     "$45",
+     "$135"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r100",
+  "passage": "Welcome to the GreenLeaf Home & Garden Newsletter!\n\nThank you for signing up. As a subscriber, you'll receive weekly emails featuring gardening tips, seasonal plant care advice, and exclusive discounts on select products.\n\nYou can expect to receive newsletters every Tuesday and Friday, along with occasional special promotions during holiday seasons. If at any point you would like to change your email preferences or unsubscribe, you can do so by clicking the link at the bottom of any newsletter email.\n\nWe hope you enjoy the content and find it helpful for your gardening projects!",
+  "passage2": "To: newsletter@greenleafhg.com\nFrom: p.oyelaran@mailbox.com\nSubject: Request to Reduce Email Frequency\n\nHello,\n\nI've enjoyed reading the GreenLeaf newsletter, but I'm currently receiving more emails than I have time to read, since it seems to arrive twice a week plus additional promotional emails.\n\nRather than unsubscribing completely, is there an option to receive only one newsletter per week, or perhaps just the seasonal plant care tips without the promotional emails? If no such option exists, I may need to unsubscribe for now and resubscribe later when I have more time.\n\nPlease let me know what options are available.\n\nThank you,\nPriya Oyelaran",
+  "questions": [
+   {
+    "id": "r100q1",
+    "question": "How often are newsletters normally sent?",
+    "choices": [
+     "Once a month",
+     "Every Tuesday and Friday",
+     "Daily",
+     "Only during holidays"
+    ]
+   },
+   {
+    "id": "r100q2",
+    "question": "How can a subscriber unsubscribe?",
+    "choices": [
+     "By calling customer service",
+     "By clicking the link at the bottom of any newsletter email",
+     "By replying to the email",
+     "By visiting a physical store"
+    ]
+   },
+   {
+    "id": "r100q3",
+    "question": "Why is Ms. Oyelaran writing to GreenLeaf?",
+    "choices": [
+     "To report a billing issue",
+     "Because she is receiving more emails than she has time to read",
+     "To request a refund",
+     "To complain about the newsletter's content quality"
+    ]
+   },
+   {
+    "id": "r100q4",
+    "question": "What does Ms. Oyelaran ask about?",
+    "choices": [
+     "Whether she can get a paper newsletter instead",
+     "Whether she can reduce the frequency or type of emails she receives",
+     "Whether she can get a discount",
+     "Whether she can share her subscription with a friend"
+    ]
+   },
+   {
+    "id": "r100q5",
+    "question": "What will Ms. Oyelaran likely do if no reduced-frequency option is available?",
+    "choices": [
+     "Continue receiving all emails as before",
+     "Unsubscribe for now and resubscribe later",
+     "File a complaint with customer service",
+     "Ask a friend to manage her subscription"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r101",
+  "passage": "WorkHive Presents: \"Freelancing 101\" Workshop\n\nJoin us for a half-day workshop designed for new and aspiring freelancers. Topics include setting your rates, finding clients, managing contracts, and basic bookkeeping for freelancers.\n\nDate: Saturday, October 19th\nTime: 10:00 AM - 2:00 PM\nLocation: WorkHive Coworking, Main Event Room\n\nCost: $45 for WorkHive members, $65 for non-members. Includes a light lunch and a printed workbook. Space is limited to 25 participants.\n\nA certificate of completion will be provided to attendees who stay for the full session. To register, visit our website or speak with the front desk staff.",
+  "passage2": "To: events@workhivecoworking.com\nFrom: t.reddy@mailbox.com\nSubject: Question About the Freelancing Workshop\n\nHello,\n\nI'm interested in registering for the \"Freelancing 101\" workshop on October 19th, but I have a scheduling conflict and may need to leave around 1:00 PM, about an hour before the session ends.\n\nWould I still be eligible to receive the certificate of completion if I leave early, or is full attendance required? I'm currently a WorkHive member, so I understand the cost would be $45.\n\nIf leaving early means I can't receive the certificate, I may try to rearrange my schedule instead, since that's an important reason I wanted to attend.\n\nThank you,\nTara Reddy",
+  "questions": [
+   {
+    "id": "r101q1",
+    "question": "What topics does the workshop cover?",
+    "choices": [
+     "Only bookkeeping",
+     "Setting rates, finding clients, contracts, and bookkeeping",
+     "Marketing and social media only",
+     "Legal advice for startups"
+    ]
+   },
+   {
+    "id": "r101q2",
+    "question": "How much does the workshop cost for non-members?",
+    "choices": [
+     "$25",
+     "$45",
+     "$65",
+     "$100"
+    ]
+   },
+   {
+    "id": "r101q3",
+    "question": "What is required to receive a certificate of completion?",
+    "choices": [
+     "Paying an extra fee",
+     "Staying for the full session",
+     "Submitting a written assignment",
+     "Bringing a guest"
+    ]
+   },
+   {
+    "id": "r101q4",
+    "question": "Why is Ms. Reddy concerned about the certificate?",
+    "choices": [
+     "She cannot afford the fee",
+     "She may need to leave about an hour before the session ends",
+     "She has already attended a similar workshop",
+     "She does not think the workshop is worthwhile"
+    ]
+   },
+   {
+    "id": "r101q5",
+    "question": "Based on both documents, will Ms. Reddy likely receive a certificate if she leaves at 1:00 PM as planned?",
+    "choices": [
+     "Yes, since she is a WorkHive member",
+     "No, since the certificate requires staying for the full session, which ends at 2:00 PM",
+     "Yes, as long as she pays the non-member fee",
+     "It cannot be determined from the information given"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r102",
+  "passage": "To: New Employees Starting in November\nFrom: Human Resources\nSubject: New Employee Orientation\n\nWelcome to Northfield Co.! Your orientation will take place on Monday, November 3rd, from 9:00 AM to 3:00 PM in the Main Training Room. Please bring a photo ID and any completed paperwork sent to you separately.\n\nThe orientation will cover company policies, benefits enrollment, and an introduction to our internal systems. A detailed schedule is attached below. Lunch will be provided.\n\nPlease arrive by 8:45 AM to allow time for check-in and to receive your employee badge.",
+  "passage2": "New Employee Orientation Schedule – November 3rd\n\n9:00 - 9:30    Welcome and check-in\n9:30 - 10:30   Company overview and history (presented by the CEO)\n10:30 - 11:30  Benefits enrollment session (HR team)\n11:30 - 12:30  Lunch (provided)\n12:30 - 2:00   Introduction to internal systems (IT team)\n2:00 - 3:00    Meet your department manager\n\nNote: The benefits enrollment session requires you to bring any dependent information if you plan to add family members to your health plan.",
+  "passage3": "To: hr@northfieldco.com\nFrom: d.marchetti@personalmail.com\nSubject: RE: New Employee Orientation\n\nHello,\n\nThank you for the orientation details. I will be attending on November 3rd and will arrive by 8:45 AM as requested.\n\nI do have a question: since I plan to add my spouse to my health insurance during the benefits session, should I bring our marriage certificate that day, or can I submit it separately afterward?\n\nAlso, I noticed the schedule mentions meeting my department manager at the end of the day. Could you let me know who that will be, so I know who to expect?\n\nThank you,\nDiego Marchetti",
+  "questions": [
+   {
+    "id": "r102q1",
+    "question": "What should new employees bring to orientation?",
+    "choices": [
+     "A resume",
+     "A photo ID and completed paperwork",
+     "A laptop",
+     "A letter of recommendation"
+    ]
+   },
+   {
+    "id": "r102q2",
+    "question": "Who presents the company overview session?",
+    "choices": [
+     "The HR team",
+     "The CEO",
+     "The IT team",
+     "The department manager"
+    ]
+   },
+   {
+    "id": "r102q3",
+    "question": "What does the benefits enrollment session require attendees to bring, if applicable?",
+    "choices": [
+     "A bank statement",
+     "Dependent information for adding family members",
+     "A copy of their resume",
+     "Proof of address"
+    ]
+   },
+   {
+    "id": "r102q4",
+    "question": "Why does Mr. Marchetti mention his marriage certificate?",
+    "choices": [
+     "He needs it for a background check",
+     "He plans to add his spouse to his health insurance",
+     "He is changing his name",
+     "He needs it for his employee badge"
+    ]
+   },
+   {
+    "id": "r102q5",
+    "question": "Based on all three documents, at what time will Mr. Marchetti likely meet his department manager?",
+    "choices": [
+     "9:00 AM",
+     "11:30 AM",
+     "2:00 PM",
+     "3:00 PM"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r103",
+  "passage": "Free Webinar: \"Mastering Time Management for Remote Teams\"\n\nJoin productivity expert Elena Marsh for a free 60-minute webinar on effective time management strategies for remote and hybrid teams.\n\nDate: Thursday, October 24th\nTime: 1:00 PM (Eastern Time)\n\nTopics include prioritizing tasks, reducing meeting fatigue, and using digital tools to track team productivity. A live Q&A session will follow the presentation.\n\nRegistration is required, and space is limited to 500 participants. Register at least 24 hours in advance to receive the webinar materials by email.",
+  "passage2": "To: f.nkemelu@mailbox.com\nFrom: webinars@productivitypro.com\nSubject: You're Registered! – Time Management Webinar\n\nDear Ms. Nkemelu,\n\nThank you for registering for \"Mastering Time Management for Remote Teams\" on October 24th at 1:00 PM Eastern Time.\n\nYou will receive a separate email containing the webinar access link and downloadable materials approximately one hour before the session begins. Please make sure to check your spam folder if you do not see this email in your inbox.\n\nIf you are unable to attend live, a recording will be made available to all registrants within 48 hours after the session.\n\nWe look forward to your participation!",
+  "passage3": "To: f.nkemelu@mailbox.com\nFrom: webinars@productivitypro.com\nSubject: Your Webinar Link – Starting Soon\n\nDear Ms. Nkemelu,\n\nOur webinar, \"Mastering Time Management for Remote Teams,\" begins in one hour. Please use the link below to join the session at 1:00 PM Eastern Time.\n\nWebinar Link: [access link]\nDownloadable Handout: [materials link]\n\nIf you experience any technical difficulties joining, please email support@productivitypro.com. Remember, if you cannot attend live, a recording will be sent to you within 48 hours after the session ends.\n\nSee you soon!",
+  "questions": [
+   {
+    "id": "r103q1",
+    "question": "How long is the webinar?",
+    "choices": [
+     "30 minutes",
+     "45 minutes",
+     "60 minutes",
+     "90 minutes"
+    ]
+   },
+   {
+    "id": "r103q2",
+    "question": "How far in advance should participants register to receive materials by email?",
+    "choices": [
+     "1 hour",
+     "24 hours",
+     "48 hours",
+     "1 week"
+    ]
+   },
+   {
+    "id": "r103q3",
+    "question": "When will Ms. Nkemelu receive the access link, according to the confirmation email?",
+    "choices": [
+     "Immediately after registering",
+     "Approximately one hour before the session begins",
+     "24 hours before the session",
+     "The day after the session"
+    ]
+   },
+   {
+    "id": "r103q4",
+    "question": "What should Ms. Nkemelu do if she has technical issues joining the webinar?",
+    "choices": [
+     "Wait for the recording",
+     "Email support@productivitypro.com",
+     "Call the presenter directly",
+     "Restart her computer and try again in an hour"
+    ]
+   },
+   {
+    "id": "r103q5",
+    "question": "Based on all three documents, if Ms. Nkemelu misses the live session, when can she expect to receive a recording?",
+    "choices": [
+     "Within 1 hour",
+     "Within 24 hours",
+     "Within 48 hours after the session ends",
+     "Recordings are not provided"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r104",
+  "passage": "For Rent: Modern 2-Bedroom Apartment – Downtown District\n\nThis bright and spacious 2-bedroom, 1-bathroom apartment is available starting November 1st. Features include hardwood floors, an updated kitchen with stainless steel appliances, and in-unit laundry.\n\nRent: $1,850/month, plus utilities\nSecurity Deposit: One month's rent\nLease Term: 12 months minimum\n\nPets are allowed with an additional $300 non-refundable pet deposit. Parking is available for an additional $100/month. To schedule a viewing, please contact the property management office.",
+  "passage2": "To: leasing@cityviewrentals.com\nFrom: a.sørensen@mailbox.com\nSubject: Viewing Request – Downtown 2-Bedroom Apartment\n\nHello,\n\nI saw your listing for the 2-bedroom apartment downtown and would like to schedule a viewing. I am available this Thursday or Friday afternoon, if either works for your team.\n\nI also have a small dog, so I wanted to confirm the pet deposit amount before moving forward, and ask whether the parking space is covered or uncovered.\n\nPlease let me know a convenient time for the viewing.\n\nThank you,\nAnja Sørensen",
+  "passage3": "To: a.sørensen@mailbox.com\nFrom: leasing@cityviewrentals.com\nSubject: RE: Viewing Request – Downtown 2-Bedroom Apartment\n\nDear Ms. Sørensen,\n\nThank you for your interest. We can schedule your viewing for this Friday at 3:00 PM.\n\nTo confirm, the pet deposit is $300, which is non-refundable, and parking is available in our covered garage for an additional $100/month. If you decide to move forward after the viewing, the lease requires a 12-month minimum commitment and a security deposit equal to one month's rent.\n\nPlease let us know if Friday at 3:00 PM works for you, and we look forward to showing you the apartment.\n\nBest regards,\nCityView Rentals",
+  "questions": [
+   {
+    "id": "r104q1",
+    "question": "What is the monthly rent for the apartment?",
+    "choices": [
+     "$1,500",
+     "$1,850",
+     "$2,000",
+     "$300"
+    ]
+   },
+   {
+    "id": "r104q2",
+    "question": "What is required for tenants with pets?",
+    "choices": [
+     "A signed waiver only",
+     "An additional $300 non-refundable pet deposit",
+     "A separate lease agreement",
+     "Pets are not allowed"
+    ]
+   },
+   {
+    "id": "r104q3",
+    "question": "What does Ms. Sørensen ask about in her email?",
+    "choices": [
+     "The lease term length",
+     "The pet deposit amount and whether parking is covered",
+     "The apartment's square footage",
+     "Whether utilities are included"
+    ]
+   },
+   {
+    "id": "r104q4",
+    "question": "When is Ms. Sørensen's viewing scheduled?",
+    "choices": [
+     "Thursday morning",
+     "Friday at 3:00 PM",
+     "Saturday afternoon",
+     "Monday at 3:00 PM"
+    ]
+   },
+   {
+    "id": "r104q5",
+    "question": "Based on all three documents, what will Ms. Sørensen need to pay in total if she moves forward, including her pet deposit?",
+    "choices": [
+     "Only one month's rent",
+     "One month's rent as a security deposit plus a $300 pet deposit",
+     "Only the $300 pet deposit",
+     "A $100 parking fee only"
+    ]
+   }
+  ]
+ }
+]

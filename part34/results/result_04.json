@@ -1,0 +1,1352 @@
+```python
+import json
+
+data = [
+ {
+  "id": "l34-c15",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Thanks for meeting with me today. I wanted to discuss the quote you sent for the office chairs — the price is a bit higher than our budget allows."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I understand. If you're able to order more than fifty units, I can offer a ten percent discount on the total."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's helpful, but we were only planning to order thirty for now, with more possibly next quarter."
+   },
+   {
+    "speaker": "Woman",
+    "line": "In that case, I could offer a smaller discount now and apply the full ten percent once your next order brings the total past fifty units."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds fair. Could you send over a revised quote reflecting that arrangement?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c15-q1",
+    "question": "Why did the man request the meeting?",
+    "choices": [
+     "To cancel an order.",
+     "To negotiate a price.",
+     "To report a delivery problem.",
+     "To request a product catalog."
+    ]
+   },
+   {
+    "id": "l34-c15-q2",
+    "question": "What does the woman offer for orders over fifty units?",
+    "choices": [
+     "Free installation.",
+     "A ten percent discount.",
+     "Extended warranty.",
+     "Priority shipping."
+    ]
+   },
+   {
+    "id": "l34-c15-q3",
+    "question": "What does the man ask the woman to send?",
+    "choices": [
+     "A product sample.",
+     "A revised quote.",
+     "A shipping schedule.",
+     "A contract template."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c16",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I heard we might be moving to the new building downtown next spring. Do you know anything about the timeline?"
+   },
+   {
+    "speaker": "Man",
+    "line": "From what I've heard, the lease starts in March, but we probably won't move in until early April so the new space can be set up."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's not too far off. Will each department keep the same layout, or will things be rearranged?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Management mentioned an open-plan layout this time, with fewer private offices. There will be a meeting next week where they'll share the full floor plan."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll make sure to attend that. Thanks for the update."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c16-q1",
+    "question": "What are the speakers mainly discussing?",
+    "choices": [
+     "A company merger.",
+     "An office relocation.",
+     "A new hiring policy.",
+     "A budget cut."
+    ]
+   },
+   {
+    "id": "l34-c16-q2",
+    "question": "When will the move likely take place?",
+    "choices": [
+     "This month.",
+     "Early April.",
+     "Next December.",
+     "In two years."
+    ]
+   },
+   {
+    "id": "l34-c16-q3",
+    "question": "What will happen next week?",
+    "choices": [
+     "The lease will be signed.",
+     "A meeting about the floor plan.",
+     "Furniture will be delivered.",
+     "The old office will close."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c17",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, I'm here to register for the marketing conference. I registered online, but I don't have my confirmation printed."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's no problem — could I have your name so I can look it up in our system?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, it's Kevin Park, from Bluewave Media."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Found it. Here's your badge and a program schedule. The morning keynote starts in fifteen minutes in the main hall."
+   },
+   {
+    "speaker": "Man",
+    "line": "Perfect timing. Is there somewhere I can leave my bag during the sessions?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, there's a coat check just past the registration desk, to your right."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c17-q1",
+    "question": "What problem does the man have?",
+    "choices": [
+     "He lost his ticket.",
+     "He forgot to print his confirmation.",
+     "He arrived at the wrong venue.",
+     "He missed the keynote."
+    ]
+   },
+   {
+    "id": "l34-c17-q2",
+    "question": "What does the woman give the man?",
+    "choices": [
+     "A refund.",
+     "A badge and schedule.",
+     "A parking pass.",
+     "A meal voucher."
+    ]
+   },
+   {
+    "id": "l34-c17-q3",
+    "question": "Where can the man leave his bag?",
+    "choices": [
+     "In the main hall.",
+     "At the coat check near the desk.",
+     "In his car.",
+     "At the hotel front desk."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c18",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Good morning. I'd like to open a business account for my new consulting company."
+   },
+   {
+    "speaker": "Man",
+    "line": "Of course. Do you already have your business registration documents with you?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I brought both the registration certificate and my ID. What else will I need?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That should be enough to get started today. You'll also need to make an initial deposit of at least two hundred dollars to activate the account."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's fine. How long before I can start using the account for transactions?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Once everything is processed, it usually takes about one business day before the account is fully active."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c18-q1",
+    "question": "What does the woman want to do?",
+    "choices": [
+     "Apply for a loan.",
+     "Open a business account.",
+     "Close an account.",
+     "Report a lost card."
+    ]
+   },
+   {
+    "id": "l34-c18-q2",
+    "question": "What is required to activate the account?",
+    "choices": [
+     "A monthly fee.",
+     "An initial deposit of at least two hundred dollars.",
+     "A co-signer.",
+     "A credit check."
+    ]
+   },
+   {
+    "id": "l34-c18-q3",
+    "question": "How long will it take for the account to become active?",
+    "choices": [
+     "Immediately.",
+     "About one business day.",
+     "One week.",
+     "One month."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c19",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "I noticed a notice about a system update happening this weekend. Will it affect our access to the shared drive?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, actually. The servers will be down from Saturday night through Sunday morning, so you won't be able to access shared files during that time."
+   },
+   {
+    "speaker": "Man",
+    "line": "I have a deadline on Monday, so I should probably download the files I need before then."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a good idea. I'd recommend saving copies locally by Friday evening, just to be safe in case the update takes longer than planned."
+   },
+   {
+    "speaker": "Man",
+    "line": "Will you send a reminder email to the whole team about this?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I already sent one this morning, but I'll send a follow-up on Friday as well."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c19-q1",
+    "question": "What will happen this weekend?",
+    "choices": [
+     "A company party.",
+     "A system update.",
+     "An office inspection.",
+     "A staff meeting."
+    ]
+   },
+   {
+    "id": "l34-c19-q2",
+    "question": "What does the woman recommend the man do?",
+    "choices": [
+     "Work from home.",
+     "Save files locally by Friday.",
+     "Cancel his deadline.",
+     "Contact IT support."
+    ]
+   },
+   {
+    "id": "l34-c19-q3",
+    "question": "What will the woman do on Friday?",
+    "choices": [
+     "Restart the servers.",
+     "Send a follow-up reminder email.",
+     "Meet with the IT team.",
+     "Update the shared drive."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c20",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you see the results from last month's employee satisfaction survey? Overall scores went up compared to last year."
+   },
+   {
+    "speaker": "Man",
+    "line": "I did. It looks like the biggest improvement was in the flexible working hours category."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Right, but communication between departments was actually rated lower than before. I think we need to address that in the next planning meeting."
+   },
+   {
+    "speaker": "Man",
+    "line": "Agreed. Maybe we could set up regular cross-department meetings, or at least a shared newsletter to keep everyone updated."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Both are good ideas. Let's put together a short proposal before Thursday's meeting."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c20-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A budget report.",
+     "Survey results.",
+     "A hiring plan.",
+     "A customer complaint."
+    ]
+   },
+   {
+    "id": "l34-c20-q2",
+    "question": "What area received a lower score than before?",
+    "choices": [
+     "Flexible working hours.",
+     "Communication between departments.",
+     "Office cleanliness.",
+     "Salary satisfaction."
+    ]
+   },
+   {
+    "id": "l34-c20-q3",
+    "question": "What will the speakers do before Thursday?",
+    "choices": [
+     "Interview new employees.",
+     "Put together a short proposal.",
+     "Publish the survey results.",
+     "Cancel the planning meeting."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c21",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Excuse me, I think there's been a mistake — someone else's car is parked in my assigned spot, number fourteen."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'm sorry about that. Let me check the parking assignment list... it looks like a visitor was mistakenly given that spot for today."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's fine, mistakes happen, but is there another spot I can use for now?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, spot twenty-two on the lower level is currently empty — you're welcome to use that today, and I'll make sure this doesn't happen again."
+   },
+   {
+    "speaker": "Man",
+    "line": "Thank you, I appreciate it."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c21-q1",
+    "question": "What is the man's problem?",
+    "choices": [
+     "His parking pass expired.",
+     "His assigned spot is occupied.",
+     "His car was towed.",
+     "He lost his parking pass."
+    ]
+   },
+   {
+    "id": "l34-c21-q2",
+    "question": "Why is the man's spot occupied?",
+    "choices": [
+     "It was reassigned permanently.",
+     "A visitor was mistakenly given the spot.",
+     "The lot is under repair.",
+     "The man arrived late."
+    ]
+   },
+   {
+    "id": "l34-c21-q3",
+    "question": "What does the woman suggest?",
+    "choices": [
+     "Using a spot on the lower level.",
+     "Parking on the street.",
+     "Waiting until the visitor leaves.",
+     "Taking public transportation instead."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c22",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We need to finalize the venue for this year's year-end party. Have you gotten quotes from any restaurants yet?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I checked three places. The one downtown near the station has the best price, but it can only seat forty people, and we have around sixty attending."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That won't work then. What about the hotel banquet hall we used two years ago?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That's an option, but it's about twenty percent more expensive than our budget this year. I could ask if they offer any discount for a weekday event."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Please do, and let's decide by the end of this week so we can send out invitations."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c22-q1",
+    "question": "What are the speakers planning?",
+    "choices": [
+     "A product launch.",
+     "A year-end party.",
+     "A training workshop.",
+     "A client dinner."
+    ]
+   },
+   {
+    "id": "l34-c22-q2",
+    "question": "Why is the downtown restaurant not suitable?",
+    "choices": [
+     "It is too expensive.",
+     "It cannot seat enough people.",
+     "It is too far away.",
+     "It is fully booked."
+    ]
+   },
+   {
+    "id": "l34-c22-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Cancel the event.",
+     "Ask about a weekday discount.",
+     "Book the downtown restaurant.",
+     "Increase the budget."
+    ]
+   }
+  ]
+ }
+]
+
+print(f"Total items: {len(data)}")
+
+
+```
+
+```text
+Total items: 8
+
+
+```
+
+```python
+output_data = [
+    {
+        "id": "l34-c15",
+        "scriptJa": [
+            "本日はお時間いただきありがとうございます。お送りいただいたオフィスチェアの見積もりについてご相談したかったのですが、価格が私たちの予算を少しオーバーしているんです。",
+            "承知いたしました。もし50脚以上ご注文いただけるようでしたら、合計金額から10％割引させていただきます。",
+            "それは助かりますが、今のところは30脚だけの注文を予定していまして、次の四半期に追加購入する可能性があります。",
+            "それでしたら、今回は少なめの割引をご提示し、次のご注文で合計が50脚を超えた時点で満額の10％割引を適用するというのはいかがでしょうか。",
+            "それは公平でいいですね。その条件を反映した修正見積書を送っていただけますか？"
+        ],
+        "vocab": [
+            "quote：（価格の）見積もり、見積書",
+            "budget：予算",
+            "revised quote：修正見積書",
+            "reflect：（条件などを）反映する"
+        ],
+        "questions": [
+            {
+                "id": "l34-c15-q1",
+                "questionJa": "男性が打ち合わせを依頼した理由は何ですか。",
+                "choicesJa": [
+                    "注文を取り消すため",
+                    "価格交渉をするため",
+                    "配送の問題を報告するため",
+                    "製品カタログを請求するため"
+                ],
+                "explanationDetail": "男性が第1発言で「送ってもらった見積もりの価格が予算を超えているので話し合いたい」と述べており、価格交渉をするため（2番目）が正解です。注文のキャンセルや配送に関する報告については言及されておらず、カタログ請求もしていません。"
+            },
+            {
+                "id": "l34-c15-q2",
+                "questionJa": "女性は50脚を超える注文に対して何を提示していますか。",
+                "choicesJa": [
+                    "無料設置",
+                    "10％の割引",
+                    "延長保証",
+                    "優先配送"
+                ],
+                "explanationDetail": "女性が第2発言で「50脚以上注文できれば、合計から10％割引（a ten percent discount）できる」と提示しているため、10％の割引（2番目）が正解です。無料設置や延長保証、優先配送についての提案はありません。"
+            },
+            {
+                "id": "l34-c15-q3",
+                "questionJa": "男性は女性に何を送信するよう頼んでいますか。",
+                "choicesJa": [
+                    "製品サンプル",
+                    "修正見積書",
+                    "配送スケジュール",
+                    "契約書のテンプレート"
+                ],
+                "explanationDetail": "男性が最後の発言で「その条件を反映した修正見積書（revised quote）を送ってほしい」と頼んでいるため、修正見積書（2番目）が正解です。サンプルや配送予定、契約書テンプレートについては触れられていません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c16",
+        "scriptJa": [
+            "来年の春にダウンタウンの新しいビルへ引っ越すかもしれないって聞いたんだけど、スケジュールについて何か知ってる？",
+            "僕が聞いた限りでは、賃貸契約は3月に始まるんだけど、新しい場所の準備があるから実際に引っ越すのは4月初旬になりそうだよ。",
+            "それならもうすぐだね。各部署のレイアウトは今のままなのかな、それとも配置が変更されるの？",
+            "経営陣は今回、個室を減らしてオープンプランのレイアウトにすると言っていたよ。来週ミーティングがあって、そこでフロアプランの全体が共有される予定だ。",
+            "絶対に参加するわ。情報ありがとう。"
+        ],
+        "vocab": [
+            "timeline：スケジュール、タイムライン",
+            "lease：賃貸契約",
+            "open-plan layout：オープンプラン（仕切りの少ない）レイアウト",
+            "floor plan：間取り図、フロアプラン"
+        ],
+        "questions": [
+            {
+                "id": "l34-c16-q1",
+                "questionJa": "話し手たちは主に何について話し合っていますか。",
+                "choicesJa": [
+                    "企業の合併",
+                    "オフィスの移転",
+                    "新しい採用方針",
+                    "予算の削減"
+                ],
+                "explanationDetail": "女性が第1発言で「新しいビルへ引っ越す（moving to the new building）」ことについて尋ねており、会話全体がオフィス移転に関する内容のため、オフィスの移転（2番目）が正解です。企業の合併や採用方針、予算削減は話題に上がっていません。"
+            },
+            {
+                "id": "l34-c16-q2",
+                "questionJa": "引っ越しはいつ頃行われる可能性が高いですか。",
+                "choicesJa": [
+                    "今月",
+                    "4月初旬",
+                    "来年の12月",
+                    "2年後"
+                ],
+                "explanationDetail": "男性が第2発言で「新しい場所を準備するため、実際に入居（引っ越し）するのは4月初旬（early April）になるだろう」と述べているため、4月初旬（2番目）が正解です。賃貸契約が始まる「3月」と混同しやすいですが、引っ越し自体は4月初旬です。"
+            },
+            {
+                "id": "l34-c16-q3",
+                "questionJa": "来週何が行われますか。",
+                "choicesJa": [
+                    "賃貸契約が結ばれる",
+                    "フロアプランに関する会議",
+                    "家具が納品される",
+                    "旧オフィスが閉鎖される"
+                ],
+                "explanationDetail": "男性が第4発言で「来週ミーティングがあり、そこで全体のフロアプラン（floor plan）が共有される」と説明しているため、フロアプランに関する会議（2番目）が正解です。賃貸契約は3月開始であり、家具の納品や旧オフィスの閉鎖については語られていません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c17",
+        "scriptJa": [
+            "こんにちは、マーケティング会議の受付をしに来ました。オンラインで登録したのですが、確認書を印刷して持ってきていません。",
+            "問題ありませんよ。システムでお調べしますので、お名前を教えていただけますか？",
+            "はい、ブルーウェーブ・メディアのケビン・パークです。",
+            "見つかりました。こちらがネームバッジとプログラムのスケジュールです。午前の基調講演は、あと15分後にメインホールで始まります。",
+            "バッチリなタイミングですね。セッション中に荷物を預けられる場所はありますか？",
+            "はい、受付デスクのすぐ先、右側にクローク（手荷物預かり所）がありますよ。"
+        ],
+        "vocab": [
+            "confirmation：確認書、予約確認",
+            "look up：（情報を）調べる、検索する",
+            "keynote：（会議などの）基調講演",
+            "coat check：手荷物預かり所、クローク"
+        ],
+        "questions": [
+            {
+                "id": "l34-c17-q1",
+                "questionJa": "男性にはどのような問題がありますか。",
+                "choicesJa": [
+                    "チケットを失くした",
+                    "確認書を印刷してくるのを忘れた",
+                    "間違った会場に到着した",
+                    "基調講演を聞き逃した"
+                ],
+                "explanationDetail": "男性が第1発言で「オンラインで登録したが、確認書を印刷して持ってきていない（don't have my confirmation printed）」と言っているため、確認書を印刷してくるのを忘れた（2番目）が正解です。チケットの紛失や会場の間違い、遅刻ではありません。"
+            },
+            {
+                "id": "l34-c17-q2",
+                "questionJa": "女性は男性に何を渡しますか。",
+                "choicesJa": [
+                    "返金",
+                    "バッジとスケジュール表",
+                    "駐車許可証",
+                    "食事券"
+                ],
+                "explanationDetail": "女性が第4発言で「こちらがバッジとプログラムスケジュールです（Here's your badge and a program schedule）」と手渡しているため、バッジとスケジュール表（2番目）が正解です。返金や駐車証、食事券についての言及はありません。"
+            },
+            {
+                "id": "l34-c17-q3",
+                "questionJa": "男性はどこに荷物を預けることができますか。",
+                "choicesJa": [
+                    "メインホールの中",
+                    "受付近くのクローク",
+                    "自分の車の中",
+                    "ホテルのフロント"
+                ],
+                "explanationDetail": "女性が第6発言で「受付デスクのすぐ先、右側にクローク（coat check）がある」と案内しているため、受付近くのクローク（2番目）が正解です。メインホールは基調講演の会場であり、荷物預かり場所ではありません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c18",
+        "scriptJa": [
+            "おはようございます。新しく立ち上げたコンサルティング会社用に、事業用口座を開設したいのですが。",
+            "承知いたしました。事業登録書類はお持ちですか？",
+            "はい、登記証明書と身分証明書の両方を持ってきました。他に何が必要ですか？",
+            "本日の手続きを開始するにはそれで十分です。また、口座を有効化するには、最低200ドルの初回預け入れが必要となります。",
+            "わかりました。取引のために口座を使い始められるまで、どれくらいかかりますか？",
+            "すべての処理が完了してから、口座が完全に有効化されるまで通常1営業日ほどかかります。"
+        ],
+        "vocab": [
+            "open a business account：事業用口座を開設する",
+            "registration certificate：登記証明書、事業登録証",
+            "initial deposit：初回預け入れ（金）",
+            "business day：営業日"
+        ],
+        "questions": [
+            {
+                "id": "l34-c18-q1",
+                "questionJa": "女性は何をしたいと考えていますか。",
+                "choicesJa": [
+                    "融資の申し込みをする",
+                    "事業用口座を開設する",
+                    "口座を解約する",
+                    "カードの紛失を届ける"
+                ],
+                "explanationDetail": "女性が第1発言で「新しいコンサルティング会社のために事業用口座を開設したい（open a business account）」と伝えているため、事業用口座を開設する（2番目）が正解です。ローン申請や口座解約、カード紛失の届け出ではありません。"
+            },
+            {
+                "id": "l34-c18-q2",
+                "questionJa": "口座を有効化するには何が必要ですか。",
+                "choicesJa": [
+                    "月額手数料",
+                    "最低200ドルの初回預け入れ",
+                    "連帯保証人",
+                    "信用調査"
+                ],
+                "explanationDetail": "男性が第4発言で「口座を有効化するには、最低200ドルの初回預け入れ（initial deposit of at least two hundred dollars）が必要」と説明しているため、最低200ドルの初回預け入れ（2番目）が正解です。月額手数料や保証人、信用調査が必要だとは述べていません。"
+            },
+            {
+                "id": "l34-c18-q3",
+                "questionJa": "口座が有効になるまでにどのくらいかかりますか。",
+                "choicesJa": [
+                    "即時",
+                    "約1営業日",
+                    "1週間",
+                    "1ヶ月"
+                ],
+                "explanationDetail": "男性が最後の発言で「処理が完了してから完全に有効化されるまで通常約1営業日（about one business day）かかる」と答えているため、約1営業日（2番目）が正解です。即時や1週間ではありません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c19",
+        "scriptJa": [
+            "今週末にシステムアップデートがあるという知らせを見ました。共有ドライブへのアクセスに影響はありますか？",
+            "ええ、実はそうなんです。土曜の夜から日曜の朝までサーバーが停止するため、その間は共有ファイルにアクセスできなくなります。",
+            "月曜日に締め切りがあるので、それまでに必要なファイルをダウンロードしておいた方がよさそうですね。",
+            "それがいいですね。アップデートが予定より長引いた場合に備えて、念のため金曜の夕方までにローカルにコピーを保存しておくことをお勧めします。",
+            "この件について、チーム全体にリマインドのメールを送ってもらえますか？",
+            "今朝すでに1通送りましたが、金曜日にも確認の追跡メールを送るようにしますね。"
+        ],
+        "vocab": [
+            "shared drive：共有ドライブ",
+            "server is down：サーバーが停止している",
+            "save locally：ローカル（自分のPC内）に保存する",
+            "follow-up：（確認などの）追跡連絡、追加連絡"
+        ],
+        "questions": [
+            {
+                "id": "l34-c19-q1",
+                "questionJa": "今週末に何が行われますか。",
+                "choicesJa": [
+                    "社内パーティー",
+                    "システムアップデート",
+                    "オフィスの点検",
+                    "スタッフ会議"
+                ],
+                "explanationDetail": "男性が第1発言で「今週末のシステムアップデート（system update）の知らせを見た」と話しており、女性もそれを認めているため、システムアップデート（2番目）が正解です。パーティーや点検、会議についての話ではありません。"
+            },
+            {
+                "id": "l34-c19-q2",
+                "questionJa": "女性は男性に何をすることを勧めていますか。",
+                "choicesJa": [
+                    "在宅勤務をする",
+                    "金曜日までにファイルをローカルに保存する",
+                    "締め切りをキャンセルする",
+                    "ITサポートに連絡する"
+                ],
+                "explanationDetail": "女性が第4発言で「金曜の夕方までにローカルにコピーを保存しておくこと（saving copies locally by Friday evening）」を推奨しているため、金曜日までにファイルをローカルに保存する（2番目）が正解です。在宅勤務や締め切りの撤回を勧めているわけではありません。"
+            },
+            {
+                "id": "l34-c19-q3",
+                "questionJa": "女性は金曜日に何をしますか。",
+                "choicesJa": [
+                    "サーバーを再起動する",
+                    "リマインドの追跡メールを送る",
+                    "ITチームと面談する",
+                    "共有ドライブを更新する"
+                ],
+                "explanationDetail": "女性が最後の発言で「金曜日にも追跡のメールを送る（send a follow-up on Friday）」と言っているため、リマインドの追跡メールを送る（2番目）が正解です。すでに今朝1通送っていますが、金曜にも再度送る予定です。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c20",
+        "scriptJa": [
+            "先月の従業員満足度調査の結果は見ましたか？ 全体的なスコアは前年と比べて上がっていましたね。",
+            "見ましたよ。一番改善が見られたのはフレックスタイム制（柔軟な勤務時間）の項目のようですね。",
+            "そうですね、でも部署間のコミュニケーションは以前より評価が下がっていたんです。次の企画会議で対応を協議する必要があると思います。",
+            "同感です。定期的な部署間ミーティングを設けるか、少なくとも情報共有のための共通ニュースレターを発行するといいかもしれません。",
+            "どちらも良いアイデアですね。木曜日の会議までに簡単な提案書をまとめましょう。"
+        ],
+        "vocab": [
+            "employee satisfaction survey：従業員満足度調査",
+            "flexible working hours：フレックスタイム制、柔軟な労働時間",
+            "address：（問題などに）取り組む、対応する",
+            "put together：（提案書などを）まとめる、作成する"
+        ],
+        "questions": [
+            {
+                "id": "l34-c20-q1",
+                "questionJa": "話し手たちは何について話し合っていますか。",
+                "choicesJa": [
+                    "予算報告書",
+                    "調査結果",
+                    "採用計画",
+                    "顧客からの苦情"
+                ],
+                "explanationDetail": "女性が第1発言で「従業員満足度調査の結果（results from last month's employee satisfaction survey）」について尋ねているため、調査結果（2番目）が正解です。予算報告や採用、顧客の苦情に関する議論ではありません。"
+            },
+            {
+                "id": "l34-c20-q2",
+                "questionJa": "以前より評価が低かった項目は何ですか。",
+                "choicesJa": [
+                    "柔軟な勤務時間",
+                    "部署間のコミュニケーション",
+                    "オフィスの清潔さ",
+                    "給与の満足度"
+                ],
+                "explanationDetail": "女性が第3発言で「部署間のコミュニケーション（communication between departments）の評価が以前より下がっていた」と明確に述べているため、部署間のコミュニケーション（2番目）が正解です。勤務時間は最も改善した項目として挙げられています。"
+            },
+            {
+                "id": "l34-c20-q3",
+                "questionJa": "話し手たちは木曜日までに何をしますか。",
+                "choicesJa": [
+                    "新しい従業員面接を行う",
+                    "短い提案書を作成する",
+                    "調査結果を公表する",
+                    "企画会議を中止する"
+                ],
+                "explanationDetail": "女性が最後の発言で「木曜日の会議の前に簡単な提案書をまとめましょう（put together a short proposal）」と提案し、男性も同意しているため、短い提案書を作成する（2番目）が正解です。採用面接や結果の公表を行うわけではありません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c21",
+        "scriptJa": [
+            "すみません、手違いがあったようなのですが……指定された14番の駐車スペースに他の人の車が止まっているんです。",
+            "申し訳ありません。駐車場割り当てリストを確認させてください……今日、間違えて来訪者にその場所を案内してしまったようです。",
+            "わかりました、ミスは誰にでもありますから。ただ、とりあえず使える他のスペースはありますか？",
+            "はい、下の階の22番スペースが現在空いていますので、本日はそちらをご利用ください。今後はこのようなことがないようにいたします。",
+            "ありがとうございます、助かります。"
+        ],
+        "vocab": [
+            "assigned spot：指定の駐車場所、割り当てられた区画",
+            "mistakenly：誤って、手違いで",
+            "lower level：階下、地下",
+            "appreciate：感謝する"
+        ],
+        "questions": [
+            {
+                "id": "l34-c21-q1",
+                "questionJa": "男性の問題は何ですか。",
+                "choicesJa": [
+                    "駐車許可証の期限が切れた",
+                    "指定された駐車場所が使われている",
+                    "車がレッカー移動された",
+                    "駐車許可証をなくした"
+                ],
+                "explanationDetail": "男性が第1発言で「指定された14番の場所に他の車が止まっている（someone else's car is parked in my assigned spot）」と訴えているため、指定された駐車場所が使われている（2番目）が正解です。許可証の期限切れや紛失、レッカー移動ではありません。"
+            },
+            {
+                "id": "l34-c21-q2",
+                "questionJa": "なぜ男性の駐車場所が埋まっているのですか。",
+                "choicesJa": [
+                    "永久的に再割り当てされたから",
+                    "間違えて来訪者にその場所を与えてしまったから",
+                    "駐車場が修理中だから",
+                    "男性が遅れて到着したから"
+                ],
+                "explanationDetail": "女性が第2発言で「間違えて来訪者にその場所を案内してしまった（a visitor was mistakenly given that spot）」と説明しているため、間違えて来訪者にその場所を与えてしまったから（2番目）が正解です。再割り当てや工事が理由ではありません。"
+            },
+            {
+                "id": "l34-c21-q3",
+                "questionJa": "女性は何を提案していますか。",
+                "choicesJa": [
+                    "下の階の駐車スペースを使うこと",
+                    "路上に駐車すること",
+                    "来訪者が帰るまで待つこと",
+                    "代わりに公共交通機関を利用すること"
+                ],
+                "explanationDetail": "女性が第4発言で「下の階の22番スペース（spot twenty-two on the lower level）が空いているので利用してほしい」と案内しているため、下の階の駐車スペースを使うこと（1番目）が正解です。路上駐車や待機を促したわけではありません。"
+            }
+        ]
+    },
+    {
+        "id": "l34-c22",
+        "scriptJa": [
+            "今年の忘年会の会場を確定させる必要がありますね。レストランから見積もりはもう取りましたか？",
+            "3店舗確認しました。駅近くのダウンタウンにあるお店が一番安かったのですが、40人しか入れず、今回の参加予定者は60人ほどいます。",
+            "それじゃあ駄目ですね。2年前に使ったホテルの宴会場はどうですか？",
+            "候補の一つですが、今年の予算より20％ほど高いんです。平日開催の割引があるかどうか聞いてみましょうか。",
+            "ぜひそうしてください。招待状を出せるように今週末までに決めましょう。"
+        ],
+        "vocab": [
+            "finalize：（計画や会場などを）確定する、最終決定する",
+            "year-end party：忘年会、年末パーティー",
+            "banquet hall：（ホテルの）宴会場",
+            "weekday：平日"
+        ],
+        "questions": [
+            {
+                "id": "l34-c22-q1",
+                "questionJa": "話し手たちは何を計画していますか。",
+                "choicesJa": [
+                    "製品のお披露目会",
+                    "忘年会",
+                    "研修ワークショップ",
+                    "顧客との会食"
+                ],
+                "explanationDetail": "女性が第1発言で「今年の忘年会（year-end party）の会場を確定させたい」と言っているため、忘年会（2番目）が正解です。新製品発表や研修、顧客との会食ではありません。"
+            },
+            {
+                "id": "l34-c22-q2",
+                "questionJa": "なぜダウンタウンのレストランは適していないのですか。",
+                "choicesJa": [
+                    "価格が高すぎるから",
+                    "十分な人数を収容できないから",
+                    "場所が遠すぎるから",
+                    "予約が埋まっているから"
+                ],
+                "explanationDetail": "男性が第2発言で「参加者が約60人いるのに対し、その店は40人しか入れない（can only seat forty people）」と語っているため、十分な人数を収容できないから（2番目）が正解です。値段が高すぎるのではなく一番安いと述べています。"
+            },
+            {
+                "id": "l34-c22-q3",
+                "questionJa": "男性は次に何をしますか。",
+                "choicesJa": [
+                    "イベントを中止する",
+                    "平日割引があるか問い合わせる",
+                    "ダウンタウンのレストランを予約する",
+                    "予算を増額する"
+                ],
+                "explanationDetail": "男性が第4発言で「平日開催の割引（discount for a weekday event）があるか聞いてみる」と言い、女性もそれを承諾しているため、平日割引があるか問い合わせる（2番目）が正解です。イベント中止や予算増額は予定していません。"
+            }
+        ]
+    }
+]
+
+json_str = json.dumps(output_data, ensure_ascii=False, indent=2)
+print(json_str[:500])
+
+
+```
+
+```text
+[
+  {
+    "id": "l34-c15",
+    "scriptJa": [
+      "本日はお時間いただきありがとうございます。お送りいただいたオフィスチェアの見積もりについてご相談したかったのですが、価格が私たちの予算を少しオーバーしているんです。",
+      "承知いたしました。もし50脚以上ご注文いただけるようでしたら、合計金額から10％割引させていただきます。",
+      "それは助かりますが、今のところは30脚だけの注文を予定していまして、次の四半期に追加購入する可能性があります。",
+      "それでしたら、今回は少なめの割引をご提示し、次のご注文で合計が50脚を超えた時点で満額の10％割引を適用するというのはいかがでしょうか。",
+      "それは公平でいいですね。その条件を反映した修正見積書を送っていただけますか？"
+    ],
+    "vocab": [
+      "quote：（価格の）見積もり、見積書",
+      "budget：予算",
+      "revised quote：修正見積書",
+      "refle
+
+
+```
+
+```python
+full_json = json.dumps(output_data, ensure_ascii=False, indent=2)
+print("Length of json:", len(full_json))
+
+
+```
+
+```text
+Length of json: 13211
+
+
+```
+
+[
+{
+"id": "l34-c15",
+"scriptJa": [
+"本日はお時間いただきありがとうございます。お送りいただいたオフィスチェアの見積もりについてご相談したかったのですが、価格が私たちの予算を少しオーバーしているんです。",
+"承知いたしました。もし50脚以上ご注文いただけるようでしたら、合計金額から10％割引させていただきます。",
+"それは助かりますが、今のところは30脚だけの注文を予定していまして、次の四半期に追加購入する可能性があります。",
+"それでしたら、今回は少なめの割引をご提示し、次のご注文で合計が50脚を超えた時点で満額の10％割引を適用するというのはいかがでしょうか。",
+"それは公平でいいですね。その条件を反映した修正見積書を送っていただけますか？"
+],
+"vocab": [
+"quote：（価格の）見積もり、見積書",
+"budget：予算",
+"revised quote：修正見積書",
+"reflect：（条件などを）反映する"
+],
+"questions": [
+{
+"id": "l34-c15-q1",
+"questionJa": "男性が打ち合わせを依頼した理由は何ですか。",
+"choicesJa": [
+"注文を取り消すため",
+"価格交渉をするため",
+"配送の問題を報告するため",
+"製品カタログを請求するため"
+],
+"explanationDetail": "男性が第1発言で「送ってもらった見積もりの価格が予算を超えているので話し合いたい」と述べており、価格交渉をするため（2番目）が正解です。注文のキャンセルや配送に関する報告については言及されておらず、カタログ請求もしていません。"
+},
+{
+"id": "l34-c15-q2",
+"questionJa": "女性は50脚を超える注文に対して何を提示していますか。",
+"choicesJa": [
+"無料設置",
+"10％の割引",
+"延長保証",
+"優先配送"
+],
+"explanationDetail": "女性が第2発言で「50脚以上注文できれば、合計から10％割引（a ten percent discount）できる」と提示しているため、10％の割引（2番目）が正解です。無料設置や延長保証、優先配送についての提案はありません。"
+},
+{
+"id": "l34-c15-q3",
+"questionJa": "男性は女性に何を送信するよう頼んでいますか。",
+"choicesJa": [
+"製品サンプル",
+"修正見積書",
+"配送スケジュール",
+"契約書のテンプレート"
+],
+"explanationDetail": "男性が最後の発言で「その条件を反映した修正見積書（revised quote）を送ってほしい」と頼んでいるため、修正見積書（2番目）が正解です。サンプルや配送予定、契約書テンプレートについては触れられていません。"
+}
+]
+},
+{
+"id": "l34-c16",
+"scriptJa": [
+"来年の春にダウンタウンの新しいビルへ引っ越すかもしれないって聞いたんだけど、スケジュールについて何か知ってる？",
+"僕が聞いた限りでは、賃貸契約は3月に始まるんだけど、新しい場所の準備があるから実際に引っ越すのは4月初旬になりそうだよ。",
+"それならもうすぐだね。各部署のレイアウトは今のままなのかな、それとも配置が変更されるの？",
+"経営陣は今回、個室を減らしてオープンプランのレイアウトにすると言っていたよ。来週ミーティングがあって、そこでフロアプランの全体が共有される予定だ。",
+"絶対に参加するわ。情報ありがとう。"
+],
+"vocab": [
+"timeline：スケジュール、タイムライン",
+"lease：賃貸契約",
+"open-plan layout：オープンプラン（仕切りの少ない）レイアウト",
+"floor plan：間取り図、フロアプラン"
+],
+"questions": [
+{
+"id": "l34-c16-q1",
+"questionJa": "話し手たちは主に何について話し合っていますか。",
+"choicesJa": [
+"企業の合併",
+"オフィスの移転",
+"新しい採用方針",
+"予算の削減"
+],
+"explanationDetail": "女性が第1発言で「新しいビルへ引っ越す（moving to the new building）」ことについて尋ねており、会話全体がオフィス移転に関する内容のため、オフィスの移転（2番目）が正解です。企業の合併や採用方針、予算削減は話題に上がっていません。"
+},
+{
+"id": "l34-c16-q2",
+"questionJa": "引っ越しはいつ頃行われる可能性が高いですか。",
+"choicesJa": [
+"今月",
+"4月初旬",
+"来年の12月",
+"2年後"
+],
+"explanationDetail": "男性が第2発言で「新しい場所を準備するため、実際に入居（引っ越し）するのは4月初旬（early April）になるだろう」と述べているため、4月初旬（2番目）が正解です。賃貸契約が始まる「3月」と混同しやすいですが、引っ越し自体は4月初旬です。"
+},
+{
+"id": "l34-c16-q3",
+"questionJa": "来週何が行われますか。",
+"choicesJa": [
+"賃貸契約が結ばれる",
+"フロアプランに関する会議",
+"家具が納品される",
+"旧オフィスが閉鎖される"
+],
+"explanationDetail": "男性が第4発言で「来週ミーティングがあり、そこで全体のフロアプラン（floor plan）が共有される」と説明しているため、フロアプランに関する会議（2番目）が正解です。賃貸契約は3月開始であり、家具の納品や旧オフィスの閉鎖については語られていません。"
+}
+]
+},
+{
+"id": "l34-c17",
+"scriptJa": [
+"こんにちは、マーケティング会議の受付をしに来ました。オンラインで登録したのですが、確認書を印刷して持ってきていません。",
+"問題ありませんよ。システムでお調べしますので、お名前を教えていただけますか？",
+"はい、ブルーウェーブ・メディアのケビン・パークです。",
+"見つかりました。こちらがネームバッジとプログラムのスケジュールです。午前の基調講演は、あと15分後にメインホールで始まります。",
+"バッチリなタイミングですね。セッション中に荷物を預けられる場所はありますか？",
+"はい、受付デスクのすぐ先、右側にクローク（手荷物預かり所）がありますよ。"
+],
+"vocab": [
+"confirmation：確認書、予約確認",
+"look up：（情報を）調べる、検索する",
+"keynote：（会議などの）基調講演",
+"coat check：手荷物預かり所、クローク"
+],
+"questions": [
+{
+"id": "l34-c17-q1",
+"questionJa": "男性にはどのような問題がありますか。",
+"choicesJa": [
+"チケットを失くした",
+"確認書を印刷してくるのを忘れた",
+"間違った会場に到着した",
+"基調講演を聞き逃した"
+],
+"explanationDetail": "男性が第1発言で「オンラインで登録したが、確認書を印刷して持ってきていない（don't have my confirmation printed）」と言っているため、確認書を印刷してくるのを忘れた（2番目）が正解です。チケットの紛失や会場の間違い、遅刻ではありません。"
+},
+{
+"id": "l34-c17-q2",
+"questionJa": "女性は男性に何を渡しますか。",
+"choicesJa": [
+"返金",
+"バッジとスケジュール表",
+"駐車許可証",
+"食事券"
+],
+"explanationDetail": "女性が第4発言で「こちらがバッジとプログラムスケジュールです（Here's your badge and a program schedule）」と手渡しているため、バッジとスケジュール表（2番目）が正解です。返金や駐車証、食事券についての言及はありません。"
+},
+{
+"id": "l34-c17-q3",
+"questionJa": "男性はどこに荷物を預けることができますか。",
+"choicesJa": [
+"メインホールの中",
+"受付近くのクローク",
+"自分の車の中",
+"ホテルのフロント"
+],
+"explanationDetail": "女性が第6発言で「受付デスクのすぐ先、右側にクローク（coat check）がある」と案内しているため、受付近くのクローク（2番目）が正解です。メインホールは基調講演の会場であり、荷物預かり場所ではありません。"
+}
+]
+},
+{
+"id": "l34-c18",
+"scriptJa": [
+"おはようございます。新しく立ち上げたコンサルティング会社用に、事業用口座を開設したいのですが。",
+"承知いたしました。事業登録書類はお持ちですか？",
+"はい、登記証明書と身分証明書の両方を持ってきました。他に何が必要ですか？",
+"本日の手続きを開始するにはそれで十分です。また、口座を有効化するには、最低200ドルの初回預け入れが必要となります。",
+"わかりました。取引のために口座を使い始められるまで、どれくらいかかりますか？",
+"すべての処理が完了してから、口座が完全に有効化されるまで通常1営業日ほどかかります。"
+],
+"vocab": [
+"open a business account：事業用口座を開設する",
+"registration certificate：登記証明書、事業登録証",
+"initial deposit：初回預け入れ（金）",
+"business day：営業日"
+],
+"questions": [
+{
+"id": "l34-c18-q1",
+"questionJa": "女性は何をしたいと考えていますか。",
+"choicesJa": [
+"融資の申し込みをする",
+"事業用口座を開設する",
+"口座を解約する",
+"カードの紛失を届ける"
+],
+"explanationDetail": "女性が第1発言で「新しいコンサルティング会社のために事業用口座を開設したい（open a business account）」と伝えているため、事業用口座を開設する（2番目）が正解です。ローン申請や口座解約、カード紛失の届け出ではありません。"
+},
+{
+"id": "l34-c18-q2",
+"questionJa": "口座を有効化するには何が必要ですか。",
+"choicesJa": [
+"月額手数料",
+"最低200ドルの初回預け入れ",
+"連帯保証人",
+"信用調査"
+],
+"explanationDetail": "男性が第4発言で「口座を有効化するには、最低200ドルの初回預け入れ（initial deposit of at least two hundred dollars）が必要」と説明しているため、最低200ドルの初回預け入れ（2番目）が正解です。月額手数料や保証人、信用調査が必要だとは述べていません。"
+},
+{
+"id": "l34-c18-q3",
+"questionJa": "口座が有効になるまでにどのくらいかかりますか。",
+"choicesJa": [
+"即時",
+"約1営業日",
+"1週間",
+"1ヶ月"
+],
+"explanationDetail": "男性が最後の発言で「処理が完了してから完全に有効化されるまで通常約1営業日（about one business day）かかる」と答えているため、約1営業日（2番目）が正解です。即時や1週間ではありません。"
+}
+]
+},
+{
+"id": "l34-c19",
+"scriptJa": [
+"今週末にシステムアップデートがあるという知らせを見ました。共有ドライブへのアクセスに影響はありますか？",
+"ええ、実はそうなんです。土曜の夜から日曜の朝までサーバーが停止するため、その間は共有ファイルにアクセスできなくなります。",
+"月曜日に締め切りがあるので、それまでに必要なファイルをダウンロードしておいた方がよさそうですね。",
+"それがいいですね。アップデートが予定より長引いた場合に備えて、念のため金曜の夕方までにローカルにコピーを保存しておくことをお勧めします。",
+"この件について、チーム全体にリマインドのメールを送ってもらえますか？",
+"今朝すでに1通送りましたが、金曜日にも確認の追跡メールを送るようにしますね。"
+],
+"vocab": [
+"shared drive：共有ドライブ",
+"server is down：サーバーが停止している",
+"save locally：ローカル（自分のPC内）に保存する",
+"follow-up：（確認などの）追跡連絡、追加連絡"
+],
+"questions": [
+{
+"id": "l34-c19-q1",
+"questionJa": "今週末に何が行われますか。",
+"choicesJa": [
+"社内パーティー",
+"システムアップデート",
+"オフィスの点検",
+"スタッフ会議"
+],
+"explanationDetail": "男性が第1発言で「今週末のシステムアップデート（system update）の知らせを見た」と話しており、女性もそれを認めているため、システムアップデート（2番目）が正解です。パーティーや点検、会議についての話ではありません。"
+},
+{
+"id": "l34-c19-q2",
+"questionJa": "女性は男性に何をすることを勧めていますか。",
+"choicesJa": [
+"在宅勤務をする",
+"金曜日までにファイルをローカルに保存する",
+"締め切りをキャンセルする",
+"ITサポートに連絡する"
+],
+"explanationDetail": "女性が第4発言で「金曜の夕方までにローカルにコピーを保存しておくこと（saving copies locally by Friday evening）」を推奨しているため、金曜日までにファイルをローカルに保存する（2番目）が正解です。在宅勤務や締め切りの撤回を勧めているわけではありません。"
+},
+{
+"id": "l34-c19-q3",
+"questionJa": "女性は金曜日に何をしますか。",
+"choicesJa": [
+"サーバーを再起動する",
+"リマインドの追跡メールを送る",
+"ITチームと面談する",
+"共有ドライブを更新する"
+],
+"explanationDetail": "女性が最後の発言で「金曜日にも追跡のメールを送る（send a follow-up on Friday）」と言っているため、リマインドの追跡メールを送る（2番目）が正解です。すでに今朝1通送っていますが、金曜にも再度送る予定です。"
+}
+]
+},
+{
+"id": "l34-c20",
+"scriptJa": [
+"先月の従業員満足度調査の結果は見ましたか？ 全体的なスコアは前年と比べて上がっていましたね。",
+"見ましたよ。一番改善が見られたのはフレックスタイム制（柔軟な勤務時間）の項目のようですね。",
+"そうですね、でも部署間のコミュニケーションは以前より評価が下がっていたんです。次の企画会議で対応を協議する必要があると思います。",
+"同感です。定期的な部署間ミーティングを設けるか、少なくとも情報共有のための共通ニュースレターを発行するといいかもしれません。",
+"どちらも良いアイデアですね。木曜日の会議までに簡単な提案書をまとめましょう。"
+],
+"vocab": [
+"employee satisfaction survey：従業員満足度調査",
+"flexible working hours：フレックスタイム制、柔軟な労働時間",
+"address：（問題などに）取り組む、対応する",
+"put together：（提案書などを）まとめる、作成する"
+],
+"questions": [
+{
+"id": "l34-c20-q1",
+"questionJa": "話し手たちは何について話し合っていますか。",
+"choicesJa": [
+"予算報告書",
+"調査結果",
+"採用計画",
+"顧客からの苦情"
+],
+"explanationDetail": "女性が第1発言で「従業員満足度調査の結果（results from last month's employee satisfaction survey）」について尋ねているため、調査結果（2番目）が正解です。予算報告や採用、顧客の苦情に関する議論ではありません。"
+},
+{
+"id": "l34-c20-q2",
+"questionJa": "以前より評価が低かった項目は何ですか。",
+"choicesJa": [
+"柔軟な勤務時間",
+"部署間のコミュニケーション",
+"オフィスの清潔さ",
+"給与の満足度"
+],
+"explanationDetail": "女性が第3発言で「部署間のコミュニケーション（communication between departments）の評価が以前より下がっていた」と明確に述べているため、部署間のコミュニケーション（2番目）が正解です。勤務時間は最も改善した項目として挙げられています。"
+},
+{
+"id": "l34-c20-q3",
+"questionJa": "話し手たちは木曜日までに何をしますか。",
+"choicesJa": [
+"新しい従業員面接を行う",
+"短い提案書を作成する",
+"調査結果を公表する",
+"企画会議を中止する"
+],
+"explanationDetail": "女性が最後の発言で「木曜日の会議の前に簡単な提案書をまとめましょう（put together a short proposal）」と提案し、男性も同意しているため、短い提案書を作成する（2番目）が正解です。採用面接や結果の公表を行うわけではありません。"
+}
+]
+},
+{
+"id": "l34-c21",
+"scriptJa": [
+"すみません、手違いがあったようなのですが……指定された14番の駐車スペースに他の人の車が止まっているんです。",
+"申し訳ありません。駐車場割り当てリストを確認させてください……今日、間違えて来訪者にその場所を案内してしまったようです。",
+"わかりました、ミスは誰にでもありますから。ただ、とりあえず使える他のスペースはありますか？",
+"はい、下の階の22番スペースが現在空いていますので、本日はそちらをご利用ください。今後はこのようなことがないようにいたします。",
+"ありがとうございます、助かります。"
+],
+"vocab": [
+"assigned spot：指定の駐車場所、割り当てられた区画",
+"mistakenly：誤って、手違いで",
+"lower level：階下、地下",
+"appreciate：感謝する"
+],
+"questions": [
+{
+"id": "l34-c21-q1",
+"questionJa": "男性の問題は何ですか。",
+"choicesJa": [
+"駐車許可証の期限が切れた",
+"指定された駐車場所が使われている",
+"車がレッカー移動された",
+"駐車許可証をなくした"
+],
+"explanationDetail": "男性が第1発言で「指定された14番の場所に他の車が止まっている（someone else's car is parked in my assigned spot）」と訴えているため、指定された駐車場所が使われている（2番目）が正解です。許可証の期限切れや紛失、レッカー移動ではありません。"
+},
+{
+"id": "l34-c21-q2",
+"questionJa": "なぜ男性の駐車場所が埋まっているのですか。",
+"choicesJa": [
+"永久的に再割り当てされたから",
+"間違えて来訪者にその場所を与えてしまったから",
+"駐車場が修理中だから",
+"男性が遅れて到着したから"
+],
+"explanationDetail": "女性が第2発言で「間違えて来訪者にその場所を案内してしまった（a visitor was mistakenly given that spot）」と説明しているため、間違えて来訪者にその場所を与えてしまったから（2番目）が正解です。再割り当てや工事が理由ではありません。"
+},
+{
+"id": "l34-c21-q3",
+"questionJa": "女性は何を提案していますか。",
+"choicesJa": [
+"下の階の駐車スペースを使うこと",
+"路上に駐車すること",
+"来訪者が帰るまで待つこと",
+"代わりに公共交通機関を利用すること"
+],
+"explanationDetail": "女性が第4発言で「下の階の22番スペース（spot twenty-two on the lower level）が空いているので利用してほしい」と案内しているため、下の階の駐車スペースを使うこと（1番目）が正解です。路上駐車や待機を促したわけではありません。"
+}
+]
+},
+{
+"id": "l34-c22",
+"scriptJa": [
+"今年の忘年会の会場を確定させる必要がありますね。レストランから見積もりはもう取りましたか？",
+"3店舗確認しました。駅近くのダウンタウンにあるお店が一番安かったのですが、40人しか入れず、今回の参加予定者は60人ほどいます。",
+"それじゃあ駄目ですね。2年前に使ったホテルの宴会場はどうですか？",
+"候補の一つですが、今年の予算より20％ほど高いんです。平日開催の割引があるかどうか聞いてみましょうか。",
+"ぜひそうしてください。招待状を出せるように今週末までに決めましょう。"
+],
+"vocab": [
+"finalize：（計画や会場などを）確定する、最終決定する",
+"year-end party：忘年会、年末パーティー",
+"banquet hall：（ホテルの）宴会場",
+"weekday：平日"
+],
+"questions": [
+{
+"id": "l34-c22-q1",
+"questionJa": "話し手たちは何を計画していますか。",
+"choicesJa": [
+"製品のお披露目会",
+"忘年会",
+"研修ワークショップ",
+"顧客との会食"
+],
+"explanationDetail": "女性が第1発言で「今年の忘年会（year-end party）の会場を確定させたい」と言っているため、忘年会（2番目）が正解です。新製品発表や研修、顧客との会食ではありません。"
+},
+{
+"id": "l34-c22-q2",
+"questionJa": "なぜダウンタウンのレストランは適していないのですか。",
+"choicesJa": [
+"価格が高すぎるから",
+"十分な人数を収容できないから",
+"場所が遠すぎるから",
+"予約が埋まっているから"
+],
+"explanationDetail": "男性が第2発言で「参加者が約60人いるのに対し、その店は40人しか入れない（can only seat forty people）」と語っているため、十分な人数を収容できないから（2番目）が正解です。値段が高すぎるのではなく一番安いと述べています。"
+},
+{
+"id": "l34-c22-q3",
+"questionJa": "男性は次に何をしますか。",
+"choicesJa": [
+"イベントを中止する",
+"平日割引があるか問い合わせる",
+"ダウンタウンのレストランを予約する",
+"予算を増額する"
+],
+"explanationDetail": "男性が第4発言で「平日開催の割引（discount for a weekday event）があるか聞いてみる」と言い、女性もそれを承諾しているため、平日割引があるか問い合わせる（2番目）が正解です。イベント中止や予算増額は予定していません。"
+}
+]
+}
+]

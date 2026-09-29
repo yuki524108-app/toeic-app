@@ -1,0 +1,378 @@
+[
+ {
+  "id": "l34-c90z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you try the new benefits app HR rolled out last week?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I did, and it's much easier to use than the old website."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I agree, though I had trouble linking my dental insurance information at first."
+   },
+   {
+    "speaker": "Man",
+    "line": "You might need to update it manually. I can show you how after lunch if you'd like."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c90z-q1",
+    "question": "What are they discussing?",
+    "choices": [
+     "A new payroll system",
+     "A new benefits app",
+     "A new office chair",
+     "A new parking system"
+    ]
+   },
+   {
+    "id": "l34-c90z-q2",
+    "question": "What problem did the woman have?",
+    "choices": [
+     "The app crashed",
+     "Trouble linking dental insurance information",
+     "She forgot her password",
+     "The app was too slow"
+    ]
+   },
+   {
+    "id": "l34-c90z-q3",
+    "question": "What does the man offer to do?",
+    "choices": [
+     "Fix it himself remotely",
+     "Show her how to update it after lunch",
+     "Report it to HR",
+     "Uninstall the app"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c91z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Have you had a chance to look over the slides for tomorrow's client presentation?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I think the data section needs a clearer chart. The current one is hard to read."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good catch. I'll redo it tonight and send you the updated version."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Perfect. Let's do a final run-through first thing in the morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c91z-q1",
+    "question": "What are they preparing for?",
+    "choices": [
+     "A job interview",
+     "A client presentation",
+     "A training session",
+     "A company party"
+    ]
+   },
+   {
+    "id": "l34-c91z-q2",
+    "question": "What issue does the woman point out?",
+    "choices": [
+     "Missing data",
+     "A hard-to-read chart",
+     "Incorrect numbers",
+     "Too many slides"
+    ]
+   },
+   {
+    "id": "l34-c91z-q3",
+    "question": "What will they do in the morning?",
+    "choices": [
+     "Cancel the presentation",
+     "Do a final run-through",
+     "Meet the client early",
+     "Print new materials"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c92z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I noticed we're ordering office supplies separately for each department. Wouldn't it be cheaper to combine orders?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That's a good point. We might get a bulk discount if we order together."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll reach out to the other department assistants and see if they're interested."
+   },
+   {
+    "speaker": "Man",
+    "line": "Great, let me know what you find out by next week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c92z-q1",
+    "question": "What does the woman notice?",
+    "choices": [
+     "Supplies are being wasted",
+     "Departments order supplies separately",
+     "The budget was cut",
+     "Orders are always late"
+    ]
+   },
+   {
+    "id": "l34-c92z-q2",
+    "question": "What benefit does the man mention?",
+    "choices": [
+     "Faster delivery",
+     "A bulk discount",
+     "Better quality supplies",
+     "Less paperwork"
+    ]
+   },
+   {
+    "id": "l34-c92z-q3",
+    "question": "What will the woman do next?",
+    "choices": [
+     "Place the order immediately",
+     "Contact other department assistants",
+     "Cancel current orders",
+     "Talk to the supplier directly"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c93z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The interior designer sent over a few color options for the new office walls."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I like the light gray, but I'm worried it might make the space feel a bit cold."
+   },
+   {
+    "speaker": "Man",
+    "line": "We could add some warm wood accents to balance it out."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That sounds good. Let's ask the designer for a sample before we commit."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c93z-q1",
+    "question": "What is being discussed?",
+    "choices": [
+     "New furniture",
+     "Wall color options",
+     "Office layout",
+     "Lighting fixtures"
+    ]
+   },
+   {
+    "id": "l34-c93z-q2",
+    "question": "What concern does the woman have about the light gray?",
+    "choices": [
+     "It's too expensive",
+     "It might feel cold",
+     "It's hard to clean",
+     "It's not available"
+    ]
+   },
+   {
+    "id": "l34-c93z-q3",
+    "question": "What will they ask the designer for?",
+    "choices": [
+     "A full quote",
+     "A sample",
+     "A different designer",
+     "A discount"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t53z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Welcome to Lakeside Hotel. Check-in time begins at 3 PM, and check-out is at 11 AM. If you arrive early, our staff will be happy to store your luggage while your room is being prepared. Complimentary breakfast is served in the main dining room from 7 to 10 AM daily. Please let the front desk know if you have any special requests during your stay."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t53z-q1",
+    "question": "What time does check-in begin?",
+    "choices": [
+     "11 AM",
+     "1 PM",
+     "3 PM",
+     "5 PM"
+    ]
+   },
+   {
+    "id": "l34-t53z-q2",
+    "question": "What can guests do if they arrive early?",
+    "choices": [
+     "Wait in the lobby only",
+     "Have their luggage stored",
+     "Get a free upgrade",
+     "Check in immediately"
+    ]
+   },
+   {
+    "id": "l34-t53z-q3",
+    "question": "When is breakfast served?",
+    "choices": [
+     "6 to 9 AM",
+     "7 to 10 AM",
+     "8 to 11 AM",
+     "All day"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t54z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention shoppers, please note that due to the upcoming holiday, our store will close at 6 PM this Thursday instead of our usual 9 PM closing time. We will resume normal hours on Friday. We apologize for any inconvenience and thank you for your understanding as our staff prepares for the holiday weekend."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t54z-q1",
+    "question": "Why is the store closing early?",
+    "choices": [
+     "A power outage",
+     "An upcoming holiday",
+     "A renovation",
+     "A staff shortage"
+    ]
+   },
+   {
+    "id": "l34-t54z-q2",
+    "question": "What time will the store close on Thursday?",
+    "choices": [
+     "5 PM",
+     "6 PM",
+     "7 PM",
+     "9 PM"
+    ]
+   },
+   {
+    "id": "l34-t54z-q3",
+    "question": "When will normal hours resume?",
+    "choices": [
+     "Thursday night",
+     "Friday",
+     "The following Monday",
+     "Next week"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t55z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Before we finish today's orientation, let's go over your IT setup. Each of you should have received a temporary password by email this morning. Please log in to the employee portal and change your password within 24 hours. If you have any trouble accessing your account, visit the IT help desk on the second floor, open until 6 PM today."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t55z-q1",
+    "question": "What did new employees receive this morning?",
+    "choices": [
+     "A company laptop",
+     "A temporary password by email",
+     "A welcome gift",
+     "An ID badge"
+    ]
+   },
+   {
+    "id": "l34-t55z-q2",
+    "question": "What must employees do within 24 hours?",
+    "choices": [
+     "Submit paperwork",
+     "Change their password",
+     "Attend a meeting",
+     "Return their badge"
+    ]
+   },
+   {
+    "id": "l34-t55z-q3",
+    "question": "Where is the IT help desk located?",
+    "choices": [
+     "First floor",
+     "Second floor",
+     "Third floor",
+     "Off-site"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t56z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Ladies and gentlemen, we will begin our descent shortly. Please return your seat to the upright position and make sure your tray table is stored. Cabin crew will be passing through the aisles to collect any remaining service items. We ask that you remain seated with your seatbelt fastened until the captain turns off the seatbelt sign."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t56z-q1",
+    "question": "What should passengers do with their seats?",
+    "choices": [
+     "Recline them fully",
+     "Return them to the upright position",
+     "Leave them as they are",
+     "Move to a different seat"
+    ]
+   },
+   {
+    "id": "l34-t56z-q2",
+    "question": "What will cabin crew be doing?",
+    "choices": [
+     "Serving meals",
+     "Collecting remaining service items",
+     "Checking passports",
+     "Handing out headphones"
+    ]
+   },
+   {
+    "id": "l34-t56z-q3",
+    "question": "When can passengers unfasten their seatbelt?",
+    "choices": [
+     "Immediately",
+     "After landing begins",
+     "When the captain turns off the sign",
+     "Whenever they want"
+    ]
+   }
+  ]
+ }
+]

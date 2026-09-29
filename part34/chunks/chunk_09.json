@@ -1,0 +1,462 @@
+[
+ {
+  "id": "l34-c39m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hello, I'm calling about a blender I bought from your store two months ago. It stopped working yesterday."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'm sorry to hear that. Do you still have the receipt or the order confirmation email?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I have the email confirmation right here. It shows I purchased it on March fifteenth."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good, that's well within our one-year warranty. If you bring it to any of our branches with that email, we can repair it or exchange it for free."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a relief. Which branch would be fastest for a repair?"
+   },
+   {
+    "speaker": "Man",
+    "line": "The downtown branch usually has parts in stock, so I'd recommend going there."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c39m-q1",
+    "question": "Why is the woman calling?",
+    "choices": [
+     "To ask for a refund policy",
+     "To report a broken blender",
+     "To place a new order",
+     "To complain about delivery"
+    ]
+   },
+   {
+    "id": "l34-c39m-q2",
+    "question": "What does the woman have available?",
+    "choices": [
+     "A warranty card",
+     "An email confirmation",
+     "A gift receipt",
+     "A user manual"
+    ]
+   },
+   {
+    "id": "l34-c39m-q3",
+    "question": "What does the man recommend?",
+    "choices": [
+     "Ordering a new blender online",
+     "Mailing the item back",
+     "Visiting the downtown branch",
+     "Waiting for a replacement part by mail"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c40m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi Nancy, I heard our team is switching to remote work two days a week starting next month."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's right. HR is asking each of us to submit a request for equipment we'll need at home, like a monitor or a keyboard."
+   },
+   {
+    "speaker": "Man",
+    "line": "Do you know what the budget limit is per person?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I believe it's around two hundred dollars, but you'll need manager approval if you go over that."
+   },
+   {
+    "speaker": "Man",
+    "line": "Okay, I'll fill out the form today and ask my manager to approve it before the deadline."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c40m-q1",
+    "question": "What change is happening next month?",
+    "choices": [
+     "Office relocation",
+     "A shift to remote work two days a week",
+     "A company merger",
+     "A reduction in staff"
+    ]
+   },
+   {
+    "id": "l34-c40m-q2",
+    "question": "What does HR want employees to do?",
+    "choices": [
+     "Return old equipment",
+     "Submit an equipment request",
+     "Attend a training session",
+     "Sign a new contract"
+    ]
+   },
+   {
+    "id": "l34-c40m-q3",
+    "question": "What does the man plan to do?",
+    "choices": [
+     "Buy equipment with his own money",
+     "Ask his manager for approval",
+     "Refuse to work remotely",
+     "Postpone the request"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c41m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you notice the cafeteria changed its lunch menu this week?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yeah, they added more vegetarian options. A lot of people had been asking for that."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I like it, but the prices seem to have gone up a bit compared to last month."
+   },
+   {
+    "speaker": "Man",
+    "line": "I heard that's because they started using fresher, locally sourced ingredients. There's a suggestion box near the entrance if you want to leave feedback."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good to know. I'll write a note about the pricing when I go down for lunch."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c41m-q1",
+    "question": "What change does the woman notice?",
+    "choices": [
+     "The cafeteria closed early",
+     "The lunch menu changed",
+     "The cafeteria moved locations",
+     "The seating was rearranged"
+    ]
+   },
+   {
+    "id": "l34-c41m-q2",
+    "question": "What does the man say caused the price increase?",
+    "choices": [
+     "A new chef",
+     "Locally sourced ingredients",
+     "A tax increase",
+     "Reduced seating"
+    ]
+   },
+   {
+    "id": "l34-c41m-q3",
+    "question": "What will the woman probably do?",
+    "choices": [
+     "Stop eating at the cafeteria",
+     "Leave feedback in the suggestion box",
+     "Complain to her manager",
+     "Bring her own lunch"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c42m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, this is David from Norwich Tools. We met at the trade show last week and you asked me to follow up about our new line of power drills."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Oh yes, thanks for calling. We were interested in placing a bulk order, but I wanted to check on the delivery timeline first."
+   },
+   {
+    "speaker": "Man",
+    "line": "For orders over one hundred units, delivery usually takes about three weeks from the date the order is confirmed."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That should work for our schedule. Could you send me a formal quote for two hundred units by email?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Absolutely, I'll have that sent over by tomorrow morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c42m-q1",
+    "question": "Where did the speakers first meet?",
+    "choices": [
+     "At a trade show",
+     "At a job interview",
+     "At a client's office",
+     "At a training seminar"
+    ]
+   },
+   {
+    "id": "l34-c42m-q2",
+    "question": "What does the woman want to know?",
+    "choices": [
+     "The product warranty",
+     "The delivery timeline",
+     "The return policy",
+     "The company's history"
+    ]
+   },
+   {
+    "id": "l34-c42m-q3",
+    "question": "What does the woman ask the man to send?",
+    "choices": [
+     "A product sample",
+     "A formal quote",
+     "A repair manual",
+     "A discount coupon"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c43m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Is your internet connection working okay? Mine keeps disconnecting every few minutes."
+   },
+   {
+    "speaker": "Man",
+    "line": "Same here. I think it started right after the building management did some maintenance work this morning."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I already emailed the IT department, but I haven't heard back yet."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let's try calling them directly instead. I have an important video call in twenty minutes and I really need a stable connection."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good idea, I'll call now and ask if there's a backup network we can use in the meantime."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c43m-q1",
+    "question": "What problem are the speakers experiencing?",
+    "choices": [
+     "A power outage",
+     "An unstable internet connection",
+     "A broken printer",
+     "A locked office door"
+    ]
+   },
+   {
+    "id": "l34-c43m-q2",
+    "question": "What does the woman say she already did?",
+    "choices": [
+     "Called a technician",
+     "Emailed the IT department",
+     "Restarted the router",
+     "Left the office"
+    ]
+   },
+   {
+    "id": "l34-c43m-q3",
+    "question": "Why is the man in a hurry?",
+    "choices": [
+     "He has a video call soon",
+     "He is leaving for the airport",
+     "He needs to print a document",
+     "He has a lunch appointment"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c44m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi Laura, I noticed the new hire orientation is scheduled for the same day as the department meeting. Did you plan it that way?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Oh no, I didn't realize there was a conflict. Let me check the calendar again."
+   },
+   {
+    "speaker": "Man",
+    "line": "It looks like both are set for Tuesday morning. We probably need to move one of them."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll move the orientation to Wednesday instead since the new hires haven't been notified of the exact time yet."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds like the easier fix. I'll let the trainers know about the change."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c44m-q1",
+    "question": "What problem does the man point out?",
+    "choices": [
+     "A scheduling conflict",
+     "A missing budget",
+     "A canceled event",
+     "A room shortage"
+    ]
+   },
+   {
+    "id": "l34-c44m-q2",
+    "question": "What will the woman do to solve the problem?",
+    "choices": [
+     "Cancel the meeting",
+     "Move the orientation to Wednesday",
+     "Ask new hires to skip orientation",
+     "Hold both events at the same time"
+    ]
+   },
+   {
+    "id": "l34-c44m-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Inform the trainers",
+     "Book a new room",
+     "Email the new hires",
+     "Reschedule the department meeting"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c45m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Mr. Chen, I'm calling to let you know that your order will be delayed by about a week due to a shortage of materials."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's disappointing. We were planning to launch the product next week using those parts."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I completely understand. As an apology, we'd like to offer a ten percent discount on this order and waive the shipping fee."
+   },
+   {
+    "speaker": "Man",
+    "line": "I appreciate that. Can you give me an updated delivery date in writing so I can plan around it?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Of course, I'll send you a confirmation email with the new date within the hour."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c45m-q1",
+    "question": "Why is the woman calling?",
+    "choices": [
+     "To confirm an address",
+     "To announce a delay in delivery",
+     "To cancel an order",
+     "To request payment"
+    ]
+   },
+   {
+    "id": "l34-c45m-q2",
+    "question": "What does the woman offer as compensation?",
+    "choices": [
+     "A full refund",
+     "Free shipping and a discount",
+     "A replacement product",
+     "An extended warranty"
+    ]
+   },
+   {
+    "id": "l34-c45m-q3",
+    "question": "What does the man ask for?",
+    "choices": [
+     "A phone call every day",
+     "A written confirmation of the new date",
+     "A visit to the factory",
+     "A meeting with the manager"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c46m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi Jenny, I'm putting together this month's company newsletter, and I'd like to feature your team's community volunteer event."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Sure, I'd be happy to help. What kind of information do you need from us?"
+   },
+   {
+    "speaker": "Man",
+    "line": "A short summary of the event and a few photos would be great, if you have any."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I have some photos from the event, but I'll need to check with a few coworkers before using their pictures."
+   },
+   {
+    "speaker": "Man",
+    "line": "No problem, just make sure to send everything to me by Thursday so I can include it in this issue."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c46m-q1",
+    "question": "What does the man want to feature in the newsletter?",
+    "choices": [
+     "A new product launch",
+     "A community volunteer event",
+     "A retirement announcement",
+     "A company merger"
+    ]
+   },
+   {
+    "id": "l34-c46m-q2",
+    "question": "What does the man ask the woman to provide?",
+    "choices": [
+     "A budget report",
+     "A summary and photos",
+     "A list of attendees",
+     "A video recording"
+    ]
+   },
+   {
+    "id": "l34-c46m-q3",
+    "question": "What does the woman need to do before sending photos?",
+    "choices": [
+     "Edit the photos",
+     "Get approval from coworkers",
+     "Buy a new camera",
+     "Print the photos"
+    ]
+   }
+  ]
+ }
+]

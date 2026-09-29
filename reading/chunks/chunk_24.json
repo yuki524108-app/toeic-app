@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r185",
+  "passage": "CodeForge is a new online platform designed to help beginners learn programming through hands-on projects rather than passive video lessons. Each course walks you through building a real application, step by step, with instant feedback on your code.\n\nCourses cover popular languages including Python, JavaScript, and Java, with new content added monthly. A free trial gives you access to the first three lessons of any course, no credit card required.\n\nSubscribers also gain access to a community forum where they can ask questions and get help from more experienced programmers.",
+  "questions": [
+   {
+    "id": "r185q1",
+    "question": "How does CodeForge teach programming?",
+    "choices": [
+     "Through passive video lessons",
+     "Through hands-on projects",
+     "Through textbook reading",
+     "Through group lectures"
+    ]
+   },
+   {
+    "id": "r185q2",
+    "question": "What is offered in the free trial?",
+    "choices": [
+     "The entire course library",
+     "The first three lessons of any course",
+     "One month of full access",
+     "A certificate only"
+    ]
+   },
+   {
+    "id": "r185q3",
+    "question": "What do subscribers get access to besides courses?",
+    "choices": [
+     "A private tutor",
+     "A community forum",
+     "Free hardware",
+     "Job placement services"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r186",
+  "passage": "This year's Riverside City Marathon drew a record 12,000 participants, surpassing last year's total by nearly 20 percent. Race organizers credit the growth to a new scenic route along the waterfront and expanded categories for walkers and wheelchair racers.\n\nProceeds from registration fees will go toward funding youth sports programs throughout the city, with organizers estimating this year's event will raise over $150,000. \n\nDespite the larger crowd, organizers reported the race ran smoothly, with only minor delays at the starting line due to the increased number of runners.",
+  "questions": [
+   {
+    "id": "r186q1",
+    "question": "How many participants joined this year's marathon?",
+    "choices": [
+     "8,000",
+     "10,000",
+     "12,000",
+     "15,000"
+    ]
+   },
+   {
+    "id": "r186q2",
+    "question": "What is credited for the increase in participants?",
+    "choices": [
+     "Lower registration fees",
+     "A new scenic route and expanded categories",
+     "Celebrity endorsements",
+     "A shorter race distance"
+    ]
+   },
+   {
+    "id": "r186q3",
+    "question": "What will the registration proceeds fund?",
+    "choices": [
+     "New race equipment",
+     "Youth sports programs",
+     "Staff salaries",
+     "Next year's marketing"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r187",
+  "passage": "Hi Everyone,\n\nThe new office printer on the third floor is now fully installed and ready to use. To print, simply select \"Office Printer 3F\" from your printer list — no additional software installation is needed for most devices.\n\nPlease remember that color printing now requires entering your employee ID at the printer screen, as we're tracking usage to help manage costs. Black and white printing does not require this step.\n\nIf you run into any issues, please contact IT support at extension 4521.",
+  "questions": [
+   {
+    "id": "r187q1",
+    "question": "What is the email mainly about?",
+    "choices": [
+     "A printer malfunction",
+     "How to use the new printer",
+     "A printer being removed",
+     "A software update"
+    ]
+   },
+   {
+    "id": "r187q2",
+    "question": "What is required for color printing?",
+    "choices": [
+     "A special login card",
+     "Entering your employee ID",
+     "Manager approval",
+     "A paid subscription"
+    ]
+   },
+   {
+    "id": "r187q3",
+    "question": "Who should employees contact for issues?",
+    "choices": [
+     "Facilities",
+     "IT support at extension 4521",
+     "The printer manufacturer",
+     "HR"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r188",
+  "passage": "We're introducing a new way for employees to share ideas for improving our workplace: the Idea Box, available both physically in the break room and digitally through the intranet.\n\nAny employee can submit suggestions on anything from process improvements to new benefits ideas. Submissions can be anonymous if preferred. A committee will review submissions monthly and select at least one idea to implement, with credit given to the employee if they choose to be identified.\n\nWe believe our employees have valuable insights, and we look forward to hearing your ideas!",
+  "questions": [
+   {
+    "id": "r188q1",
+    "question": "What is the Idea Box?",
+    "choices": [
+     "A suggestion program for employees",
+     "A new storage unit",
+     "A lost and found box",
+     "A donation collection point"
+    ]
+   },
+   {
+    "id": "r188q2",
+    "question": "Can submissions be anonymous?",
+    "choices": [
+     "No, names are always required",
+     "Yes, if preferred",
+     "Only for certain topics",
+     "Only for digital submissions"
+    ]
+   },
+   {
+    "id": "r188q3",
+    "question": "How often will submissions be reviewed?",
+    "choices": [
+     "Weekly",
+     "Monthly",
+     "Quarterly",
+     "Annually"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r189",
+  "passage": "The county agricultural department launched a new grant program this week aimed at helping small family farms adopt sustainable farming practices. Grants of up to $10,000 will be available to cover costs such as soil testing, drip irrigation systems, and cover crop seeds.\n\nFarms with fewer than 200 acres are eligible to apply, and priority will be given to farms that have been in operation for at least five years. The application window opens next month and will remain open for eight weeks.\n\nProgram coordinators say the initiative aims to help local farms remain competitive while reducing their environmental impact.",
+  "questions": [
+   {
+    "id": "r189q1",
+    "question": "What is the grant program for?",
+    "choices": [
+     "Building new farm buildings",
+     "Helping farms adopt sustainable practices",
+     "Purchasing farmland",
+     "Hiring farm workers"
+    ]
+   },
+   {
+    "id": "r189q2",
+    "question": "What is the maximum grant amount?",
+    "choices": [
+     "$5,000",
+     "$10,000",
+     "$25,000",
+     "$50,000"
+    ]
+   },
+   {
+    "id": "r189q3",
+    "question": "Which farms are eligible?",
+    "choices": [
+     "Any farm regardless of size",
+     "Farms with fewer than 200 acres",
+     "Only organic farms",
+     "Only new farms"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r190",
+  "passage": "Dear Tenants,\n\nWe are writing to inform you that starting next month, our building will be switching to a new cleaning service provider, GreenClean Solutions. This change comes after a thorough review process and is aimed at improving both cleaning quality and environmental sustainability, as GreenClean uses eco-friendly cleaning products exclusively.\n\nCleaning schedules will remain the same, with common areas serviced daily and individual offices cleaned three times per week. If you notice any issues with cleanliness during the transition period, please report them to building management immediately.\n\nWe appreciate your patience as we make this improvement.",
+  "questions": [
+   {
+    "id": "r190q1",
+    "question": "What change is being announced?",
+    "choices": [
+     "A rent increase",
+     "A new cleaning service provider",
+     "New building hours",
+     "A change in building ownership"
+    ]
+   },
+   {
+    "id": "r190q2",
+    "question": "What is notable about the new provider?",
+    "choices": [
+     "They work only at night",
+     "They use eco-friendly products exclusively",
+     "They charge lower fees",
+     "They are a global company"
+    ]
+   },
+   {
+    "id": "r190q3",
+    "question": "How often will individual offices be cleaned?",
+    "choices": [
+     "Daily",
+     "Three times per week",
+     "Once a week",
+     "Once a month"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r191",
+  "passage": "In response to employee requests, we're launching a new workplace language learning program starting next semester. Employees can choose from beginner or intermediate courses in Spanish, Mandarin, or French, taught by a certified instructor twice a week during lunch hours.\n\nThe company will cover the full cost of the program for employees who commit to attending at least 80 percent of sessions. Employees who fall below this attendance threshold may be asked to reimburse a portion of the course fee.\n\nRegistration is open through the training portal, with spots limited to 15 students per language.",
+  "questions": [
+   {
+    "id": "r191q1",
+    "question": "When will classes be held?",
+    "choices": [
+     "In the evening",
+     "During lunch hours",
+     "Before work",
+     "On weekends"
+    ]
+   },
+   {
+    "id": "r191q2",
+    "question": "What is required for the company to cover the full cost?",
+    "choices": [
+     "Passing a final exam",
+     "Attending at least 80 percent of sessions",
+     "Being a manager",
+     "Signing a one-year contract"
+    ]
+   },
+   {
+    "id": "r191q3",
+    "question": "How many students can enroll per language?",
+    "choices": [
+     "5",
+     "10",
+     "15",
+     "20"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r192",
+  "passage": "Roastworks Coffee, a regional café chain with 18 locations, announced this week that it will offer all employees the opportunity to become part owners of the company through a new employee stock ownership plan. Employees who have worked at the company for at least one year will be automatically enrolled.\n\nCompany founder Diane Okafor said the decision reflects her belief that employees who helped build the business should share in its success. The plan will gradually transfer 20 percent of company ownership to employees over the next decade.\n\nIndustry analysts say the move is relatively rare among small regional chains and could help Roastworks retain staff in a competitive hiring market.",
+  "questions": [
+   {
+    "id": "r192q1",
+    "question": "What new plan is Roastworks Coffee introducing?",
+    "choices": [
+     "A pension plan",
+     "An employee stock ownership plan",
+     "A profit-sharing bonus",
+     "A retirement savings match"
+    ]
+   },
+   {
+    "id": "r192q2",
+    "question": "Who will be automatically enrolled?",
+    "choices": [
+     "Only managers",
+     "Employees with at least one year of service",
+     "New hires only",
+     "Part-time employees only"
+    ]
+   },
+   {
+    "id": "r192q3",
+    "question": "How much ownership will eventually transfer to employees?",
+    "choices": [
+     "5 percent",
+     "10 percent",
+     "20 percent",
+     "50 percent"
+    ]
+   }
+  ]
+ }
+]

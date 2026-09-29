@@ -1,0 +1,1062 @@
+```python
+import json
+
+data = [
+ {
+  "id": "r001",
+  "passage": "To: All Staff\nFrom: Facilities Management\nSubject: Office Relocation Notice\n\nWe are pleased to announce that our company will be relocating to a new office building at 450 Market Street, effective March 1st. The new office offers significantly more space, a modern conference center, and is conveniently located near public transportation.\n\nEmployees are asked to pack their personal belongings by February 25th. Moving boxes will be distributed to each department by February 15th. IT equipment, including computers and monitors, will be handled separately by the IT department and should not be packed by individual employees.\n\nParking permits for the new location will be issued during the first week of March. Employees who currently have a parking permit do not need to reapply; permits will be automatically transferred.\n\nIf you have any questions about the move, please contact the Facilities Management office at extension 204.",
+  "questions": [
+   {
+    "id": "r001q1",
+    "question": "When will the company move to the new office?",
+    "choices": [
+     "February 15th",
+     "February 25th",
+     "March 1st",
+     "The first week of March"
+    ]
+   },
+   {
+    "id": "r001q2",
+    "question": "What should employees NOT do with their IT equipment?",
+    "choices": [
+     "Contact IT department",
+     "Pack it themselves",
+     "Use it until the move",
+     "Label it clearly"
+    ]
+   },
+   {
+    "id": "r001q3",
+    "question": "What do employees with existing parking permits need to do?",
+    "choices": [
+     "Reapply immediately",
+     "Contact extension 204",
+     "Nothing; permits transfer automatically",
+     "Wait until February 25th"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r002",
+  "passage": "Marketing Manager Position Available\n\nBrightWave Media is seeking an experienced Marketing Manager to lead our digital marketing team. The ideal candidate will have at least five years of experience in digital marketing, strong analytical skills, and a proven track record of managing successful campaigns.\n\nResponsibilities include developing marketing strategies, managing a team of four specialists, analyzing campaign performance data, and presenting quarterly reports to senior management. The position offers a competitive salary, comprehensive health benefits, and opportunities for professional development.\n\nCandidates should submit a resume and cover letter to careers@brightwavemedia.com by the end of this month. Only shortlisted candidates will be contacted for an interview. No phone calls, please.",
+  "questions": [
+   {
+    "id": "r002q1",
+    "question": "How many years of experience does the position require?",
+    "choices": [
+     "Two years",
+     "Three years",
+     "Four years",
+     "Five years"
+    ]
+   },
+   {
+    "id": "r002q2",
+    "question": "How many specialists will the new manager supervise?",
+    "choices": [
+     "Two",
+     "Three",
+     "Four",
+     "Five"
+    ]
+   },
+   {
+    "id": "r002q3",
+    "question": "How should interested candidates apply?",
+    "choices": [
+     "By calling the office",
+     "By visiting in person",
+     "By sending an email",
+     "By mailing a letter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r003",
+  "passage": "Dear Valued Customer,\n\nThank you for your recent order (Order #48291). We regret to inform you that due to an unexpected delay at our supplier's warehouse, your shipment will be delayed by approximately five business days.\n\nWe understand this may cause inconvenience, and we sincerely apologize. As a gesture of goodwill, we would like to offer you a 15% discount on your next purchase. A discount code will be sent to your registered email address within 24 hours.\n\nYour order is expected to ship by the end of this week and should arrive within 3-5 business days after shipping. You will receive a tracking number via email once the order has shipped.\n\nIf you would prefer to cancel your order instead, please contact our customer service team at support@retailco.com, and we will process a full refund within 3 business days.",
+  "questions": [
+   {
+    "id": "r003q1",
+    "question": "Why was the shipment delayed?",
+    "choices": [
+     "A shipping error",
+     "A supplier warehouse delay",
+     "A payment issue",
+     "A weather problem"
+    ]
+   },
+   {
+    "id": "r003q2",
+    "question": "What is being offered to the customer as compensation?",
+    "choices": [
+     "A full refund",
+     "A 15% discount on the next purchase",
+     "Free shipping",
+     "A replacement product"
+    ]
+   },
+   {
+    "id": "r003q3",
+    "question": "What should the customer do to cancel the order?",
+    "choices": [
+     "Reply to this email",
+     "Call customer service",
+     "Contact support@retailco.com",
+     "Visit the store"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r004",
+  "passage": "New Conference Room Booking System\n\nStarting next Monday, all conference room reservations must be made through our new online booking system, RoomFlow. This system replaces the previous paper-based sign-up sheets that were used in each department.\n\nTo book a room, log in to RoomFlow using your company email address and select an available time slot. Rooms can be booked up to 30 days in advance, but no more than 4 hours per booking. If you need a room for a longer period, please contact the office administrator directly.\n\nCancellations must be made at least 2 hours before the scheduled time. Failure to cancel or show up for three consecutive bookings may result in temporary suspension of booking privileges.\n\nTraining sessions on how to use RoomFlow will be held on Tuesday and Wednesday at 10 AM in the main conference room. Attendance is optional but recommended for all employees.",
+  "questions": [
+   {
+    "id": "r004q1",
+    "question": "What is being replaced by the new system?",
+    "choices": [
+     "Email requests",
+     "Paper-based sign-up sheets",
+     "Phone reservations",
+     "A different app"
+    ]
+   },
+   {
+    "id": "r004q2",
+    "question": "What is the maximum length of a single booking?",
+    "choices": [
+     "2 hours",
+     "4 hours",
+     "6 hours",
+     "30 days"
+    ]
+   },
+   {
+    "id": "r004q3",
+    "question": "What could happen after missing three consecutive bookings?",
+    "choices": [
+     "A warning email",
+     "A mandatory training session",
+     "Suspension of booking privileges",
+     "A fine"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r005",
+  "passage": "Restaurant Review: Riverside Bistro\n\nRiverside Bistro, located along the waterfront downtown, has quickly become one of the city's most popular dining destinations since opening six months ago. The restaurant specializes in modern European cuisine with a focus on locally sourced ingredients.\n\nThe menu changes seasonally, offering dishes that highlight fresh, regional produce. Standout dishes include the grilled salmon with herb butter and the roasted vegetable risotto. Portion sizes are generous, and prices are reasonable for the quality offered.\n\nThe atmosphere is elegant yet relaxed, making it suitable for both business lunches and casual dinners with friends. However, the restaurant does not accept reservations for parties of fewer than four, which can result in long wait times during peak hours, especially on weekends.\n\nOverall, Riverside Bistro earns high marks for food quality and ambiance, though the lack of reservations for small groups is a notable drawback.",
+  "questions": [
+   {
+    "id": "r005q1",
+    "question": "How long has Riverside Bistro been open?",
+    "choices": [
+     "Three months",
+     "Six months",
+     "One year",
+     "Two years"
+    ]
+   },
+   {
+    "id": "r005q2",
+    "question": "What type of cuisine does the restaurant specialize in?",
+    "choices": [
+     "Asian fusion",
+     "Modern European",
+     "Traditional American",
+     "Mediterranean"
+    ]
+   },
+   {
+    "id": "r005q3",
+    "question": "What is mentioned as a drawback of the restaurant?",
+    "choices": [
+     "High prices",
+     "Small portions",
+     "No reservations for small groups",
+     "Limited menu options"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r006",
+  "passage": "Notice: Changes to Employee Health Insurance Plan\n\nEffective January 1st of next year, our company will be switching health insurance providers from MediCare Plus to WellPath Health. This change comes after a thorough review process aimed at providing better coverage options and reducing costs for employees.\n\nKey changes include a lower monthly premium for individual coverage, expanded dental and vision benefits, and a broader network of participating doctors and hospitals in the area. However, employees currently seeing specialists outside the new network may need to switch providers or pay out-of-network rates.\n\nOpen enrollment will run from November 1st to November 30th. During this period, employees can review plan details and select their preferred coverage options through the HR portal. Employees who do not take action during open enrollment will be automatically enrolled in the plan most similar to their current coverage.\n\nInformational sessions will be held in the main auditorium on November 5th and November 12th at noon. HR representatives will be available to answer questions.",
+  "questions": [
+   {
+    "id": "r006q1",
+    "question": "When does the new health insurance plan take effect?",
+    "choices": [
+     "November 1st",
+     "November 30th",
+     "December 1st",
+     "January 1st"
+    ]
+   },
+   {
+    "id": "r006q2",
+    "question": "What happens to employees who do not act during open enrollment?",
+    "choices": [
+     "They lose coverage",
+     "They are automatically enrolled in a similar plan",
+     "They must pay a penalty",
+     "They keep the old provider"
+    ]
+   },
+   {
+    "id": "r006q3",
+    "question": "What might happen to employees seeing specialists outside the new network?",
+    "choices": [
+     "They will be reimbursed fully",
+     "They may need to pay out-of-network rates",
+     "Their coverage will be canceled",
+     "They will receive a discount"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r007",
+  "passage": "NOTICE: Parking Lot Maintenance\n\nThe main employee parking lot will undergo resurfacing work from Monday through Wednesday next week. During this time, the lot will be closed, and employees are asked to use the overflow lot located on Elm Street, about a five-minute walk from the building.\n\nA shuttle service will run every 15 minutes between the overflow lot and the main entrance from 7:30 AM to 9:30 AM and 4:30 PM to 6:30 PM. Employees with mobility concerns should contact Facilities at extension 112 to arrange alternative transportation.\n\nWe apologize for any inconvenience and appreciate your patience during this improvement project.",
+  "questions": [
+   {
+    "id": "r007q1",
+    "question": "How long will the parking lot be closed?",
+    "choices": [
+     "One day",
+     "Two days",
+     "Three days",
+     "One week"
+    ]
+   },
+   {
+    "id": "r007q2",
+    "question": "Where should employees park during the closure?",
+    "choices": [
+     "A nearby garage",
+     "The overflow lot on Elm Street",
+     "The visitor parking area",
+     "Street parking downtown"
+    ]
+   },
+   {
+    "id": "r007q3",
+    "question": "Who should employees with mobility concerns contact?",
+    "choices": [
+     "Human Resources",
+     "IT Department",
+     "Facilities",
+     "Security"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r008",
+  "passage": "Introducing the ErgoPlus Office Chair\n\nDesigned for all-day comfort, the ErgoPlus Office Chair features adjustable lumbar support, breathable mesh fabric, and a fully customizable armrest system. Whether you're working from home or in a busy office, this chair adapts to your body for maximum productivity.\n\nFor a limited time, customers who purchase two or more chairs will receive a 20% discount on their entire order. Free shipping is included on all orders over $150.\n\nThe ErgoPlus comes with a 5-year warranty covering manufacturing defects. Visit our showroom or order online at www.ergoplusfurniture.com. Orders placed before 2 PM ship the same business day.",
+  "questions": [
+   {
+    "id": "r008q1",
+    "question": "What discount is offered for purchasing multiple chairs?",
+    "choices": [
+     "10%",
+     "15%",
+     "20%",
+     "25%"
+    ]
+   },
+   {
+    "id": "r008q2",
+    "question": "What is required for free shipping?",
+    "choices": [
+     "Purchasing two chairs",
+     "Ordering before 2 PM",
+     "Spending over $150",
+     "Visiting the showroom"
+    ]
+   },
+   {
+    "id": "r008q3",
+    "question": "How long is the product warranty?",
+    "choices": [
+     "1 year",
+     "2 years",
+     "3 years",
+     "5 years"
+    ]
+   }
+  ]
+ }
+]
+
+print(f"Total passages: {len(data)}")
+
+
+```
+
+```text
+Total passages: 8
+
+
+```
+
+```python
+result_json = [
+  {
+    "id": "r001",
+    "passageJa": "宛先：全従業員\n送信者：施設管理部\n件名：オフィス移転のお知らせ\n\n弊社は3月1日付けで、マーケット通り450番地の新しいオフィスビルに移転する運びとなりましたのでお知らせいたします。新オフィスは大幅に広いスペースと最新の会議センターを備え、公共交通機関の近くという便利な立地にあります。\n\n従業員の皆様は、2月25日までに私物を梱包してください。引越し用ダンボールは2月15日までに各部署へ配布されます。コンピュータやモニターを含むIT機器はIT部門が別途取り扱うため、従業員個人の手で梱包しないようにしてください。\n\n新オフィスの駐車許可証は3月の第1週に発行されます。現在駐車許可証をお持ちの方は再申請の必要はありません。許可証は自動的に引き継がれます。\n\n移転に関してご質問がある場合は、施設管理部（内線204）までご連絡ください。",
+    "vocab": [
+      "relocate：移転する",
+      "effective：〜付けで、有効な",
+      "belongings：所持品、私物",
+      "separately：別途、個別に",
+      "transfer：引き継ぐ、転送する",
+      "extension：内線"
+    ],
+    "questions": [
+      {
+        "id": "r001q1",
+        "questionJa": "会社はいつ新しいオフィスに移転しますか。",
+        "choicesJa": [
+          "2月15日",
+          "2月25日",
+          "3月1日",
+          "3月の第1週"
+        ],
+        "explanationDetail": "第1段落に「3月1日付けで新しいオフィスビルに移転する（relocating... effective March 1st）」と明記されているため、3月1日（選択肢C）が正解です。2月15日はダンボールの配布予定日、2月25日は私物の梱包期限日、3月の第1週は新しい駐車許可証が発行される時期であり、移転日そのものを指しているわけではありません。"
+      },
+      {
+        "id": "r001q2",
+        "questionJa": "従業員がIT機器に対してしてはならないことは何ですか。",
+        "choicesJa": [
+          "IT部門に連絡すること",
+          "自分たちで梱包すること",
+          "移転まで使用すること",
+          "明確にラベルを貼ること"
+        ],
+        "explanationDetail": "第2段落において「IT機器はIT部門が別途取り扱うため、従業員個人の手で梱包しないように（should not be packed by individual employees）」と明確に指示されているため、自分たちで梱包すること（選択肢B）が正解です。個人による梱包は禁止されています。IT部門への連絡や使用継続などは禁止事項として記載されていません。"
+      },
+      {
+        "id": "r001q3",
+        "questionJa": "既存の駐車許可証を持っている従業員は何をする必要がありますか。",
+        "choicesJa": [
+          "すぐに再申請する",
+          "内線204に連絡する",
+          "何もしない（許可証は自動的に引き継がれる）",
+          "2月25日まで待つ"
+        ],
+        "explanationDetail": "第3段落に「現在駐車許可証をお持ちの方は再申請の必要はなく、許可証は自動的に引き継がれる（permits will be automatically transferred）」とあります。そのため、特別な手続きを行う必要がない「何もしない」（選択肢C）が正解です。再申請手続き（選択肢A）は不要と明記されており、内線204（選択肢B）は移転全般の問い合わせ先です。"
+      }
+    ]
+  },
+  {
+    "id": "r002",
+    "passageJa": "マーケティングマネージャー募集\n\nBrightWave Media社では、デジタルマーケティングチームを率いる経験豊富なマーケティングマネージャーを募集しています。理想的な応募者は、デジタルマーケティングにおける5年以上の経験、優れた分析能力、およびキャンペーンを成功させてきた実績を持つ人物です。\n\n主な業務には、マーケティング戦略の立案、4名の専門スタッフの管理、キャンペーン実績データの分析、経営陣への四半期報告のプレゼンテーションが含まれます。本役職では、魅力的な給与、充実した医療手当、ならびにキャリア開発の機会を提供いたします。\n\n応募希望者は、今月末までに履歴書と添え状（カバーレター）を careers@brightwavemedia.com まで提出してください。一次選考を通過した方にのみ、面接のご連絡を差し上げます。お電話でのお問い合わせはご遠慮ください。",
+    "vocab": [
+      "analytical：分析の、分析力のある",
+      "proven track record：確かな実績",
+      "comprehensive：総合的な、充実した",
+      "shortlist：一次選考で候補者を絞り込む"
+    ],
+    "questions": [
+      {
+        "id": "r002q1",
+        "questionJa": "この職種には何年の経験が必要とされていますか。",
+        "choicesJa": [
+          "2年",
+          "3年",
+          "4年",
+          "5年"
+        ],
+        "explanationDetail": "第1段落で、求める人材の条件として「デジタルマーケティングにおける最低5年の経験（at least five years of experience）」が明確に規定されているため、5年（選択肢D）が正解です。本文では5年以上の実務経験を条件として定めており、2年・3年・4年といったその他の年数は誤りとなります。"
+      },
+      {
+        "id": "r002q2",
+        "questionJa": "新しいマネージャーは何名の専門スタッフを監督することになりますか。",
+        "choicesJa": [
+          "2名",
+          "3名",
+          "4名",
+          "5名"
+        ],
+        "explanationDetail": "第2段落の職務内容の中で「4名のスペシャリストチームの管理（managing a team of four specialists）」と述べられているため、4名（選択肢C）が正解です。マネージャーが直接管理・監督する専門スタッフの人数は4名と明記されており、2名や3名、5名とする他の選択肢は記述に一致しません。"
+      },
+      {
+        "id": "r002q3",
+        "questionJa": "応募希望者はどのように応募すべきですか。",
+        "choicesJa": [
+          "オフィスに電話する",
+          "直接訪問する",
+          "メールを送信する",
+          "手紙を郵送する"
+        ],
+        "explanationDetail": "第3段落に「履歴書とカバーレターを指定のメールアドレス（careers@brightwavemedia.com）へ提出すること」と記載されているため、メール送信（選択肢C）が正解です。なお、同段落末尾で「電話不可（No phone calls, please）」と指示されているため、お電話（選択肢A）による問い合わせや応募は誤りです。"
+      }
+    ]
+  },
+  {
+    "id": "r003",
+    "passageJa": "大切なお客様へ\n\nこのたびはご注文（注文番号 #48291）いただき、誠にありがとうございます。サプライヤーの倉庫における予期せぬ遅延により、ご注文商品の発送が約5営業日遅れる見込みとなりましたことをお知らせいたします。\n\nご不便をおかけしますことを深くお詫び申し上げます。お詫びのしるしとして、次回のお買い物でご利用いただける15%割引クーポンを進呈いたします。割引コードは24時間以内にご登録のメールアドレス宛にお送りいたします。\n\nご注文商品は今週末までに発送される予定で、発送後3〜5営業日以内にお手元に届く見込みです。発送が完了いたしましたら、メールにて追跡番号をお知らせいたします。\n\nなお、注文のキャンセルをご希望の場合は、カスタマーサービスチーム（support@retailco.com）までご連絡いただければ、3営業日以内に全額返金手続きを行います。",
+    "vocab": [
+      "unexpected：予期せぬ、思いがけない",
+      "shipment：発送品、配送",
+      "gesture of goodwill：好意のしるし、お詫びのしるし",
+      "tracking number：追跡番号",
+      "process：処理する"
+    ],
+    "questions": [
+      {
+        "id": "r003q1",
+        "questionJa": "なぜ発送が遅れたのですか。",
+        "choicesJa": [
+          "配送エラー",
+          "サプライヤーの倉庫での遅延",
+          "支払いの問題",
+          "悪天候"
+        ],
+        "explanationDetail": "第1段落に「サプライヤーの倉庫における予期せぬ遅延（delay at our supplier's warehouse）」が原因で発送が遅れる旨が説明されているため、選択肢Bが正解です。配送トラブルや決済の問題、天候不順など、その他の要因については本文中で言及されていません。"
+      },
+      {
+        "id": "r003q2",
+        "questionJa": "補償としてお客様に何が提供されていますか。",
+        "choicesJa": [
+          "全額返金",
+          "次回購入時の15%割引",
+          "送料無料",
+          "代替品"
+        ],
+        "explanationDetail": "第2段落において「お詫びのしるしとして次回購入時に使える15%割引（15% discount on your next purchase）を提供する」と書かれているため、選択肢Bが正解です。全額返金（選択肢A）は注文をキャンセルした場合の対応であり、遅延に対する補償そのものではありません。送料無料や代替え品に関する記述はありません。"
+      },
+      {
+        "id": "r003q3",
+        "questionJa": "注文をキャンセルするために、お客様は何をすべきですか。",
+        "choicesJa": [
+          "このメールに返信する",
+          "カスタマーサービスに電話する",
+          "support@retailco.com に連絡する",
+          "店舗を訪問する"
+        ],
+        "explanationDetail": "第4段落において「キャンセルをご希望の場合は support@retailco.com までご連絡ください」と連絡先のアドレスが示されているため、選択肢Cが正解です。受信メールへの直接返信や電話連絡、実店舗への来店といった方法は案内されていません。"
+      }
+    ]
+  },
+  {
+    "id": "r004",
+    "passageJa": "新会議室予約システムのご案内\n\n来週の月曜日より、すべての会議室予約は新しいオンライン予約システム「RoomFlow」をご利用いただくことになります。本システムは、これまで各部署で使用されていた紙ベースの記入シートに代わるものです。\n\n会議室を予約するには、会社用のメールアドレスでRoomFlowにログインし、空いている時間帯を選択してください。予約は最大30日前から可能ですが、1回の予約につき最長4時間までとなります。それ以上の長時間ご利用希望の場合は、オフィス管理者に直接ご連絡ください。\n\nキャンセルは予定時刻の2時間前までに行う必要があります。事前連絡なしの不参加やキャンセル漏れが3回連続した場合は、予約権限が一時的に停止されることがあります。\n\nRoomFlowの使用方法に関する研修会を、火曜日と水曜日の午前10時よりメイン会議室にて開催いたします。参加は任意ですが、全従業員の受講を推奨します。",
+    "vocab": [
+      "reservation：予約",
+      "replace：〜に取って代わる",
+      "in advance：あらかじめ、事前に",
+      "consecutive：連続した",
+      "suspension：停止、一時中断",
+      "optional：任意の、自由選択の"
+    ],
+    "questions": [
+      {
+        "id": "r004q1",
+        "questionJa": "新しいシステムによって何が置き換えられますか。",
+        "choicesJa": [
+          "メールでの申請",
+          "紙ベースの記入シート",
+          "電話予約",
+          "別のアプリ"
+        ],
+        "explanationDetail": "第1段落において、新システムは「各部署で使用されていた以前の紙ベースの記入シート（previous paper-based sign-up sheets）に代わるもの」と説明されているため、選択肢Bが正解です。メールや電話での予約、あるいは他のアプリを代替するわけではありません。"
+      },
+      {
+        "id": "r004q2",
+        "questionJa": "1回の予約における最長利用時間はどれくらいですか。",
+        "choicesJa": [
+          "2時間",
+          "4時間",
+          "6時間",
+          "30日"
+        ],
+        "explanationDetail": "第2段落に「1回の予約につき4時間まで（no more than 4 hours per booking）」と規定されているため、4時間（選択肢B）が正解です。2時間（選択肢A）はキャンセルの期限であり、30日（選択肢D）は事前に予約可能な日数を示しています。"
+      },
+      {
+        "id": "r004q3",
+        "questionJa": "3回連続で予約をすっぽかした場合、どうなる可能性がありますか。",
+        "choicesJa": [
+          "警告メールが届く",
+          "研修への参加が義務付けられる",
+          "予約権限が停止される",
+          "罰金が科される"
+        ],
+        "explanationDetail": "第3段落で「3回連続してキャンセルや出席を怠った場合、予約権限が一時停止される可能性がある（suspension of booking privileges）」と述べられているため、選択肢Cが正解です。警告メールの送信や罰金ペナルティの記述はなく、研修への参加も任意（optional）とされています。"
+      }
+    ]
+  },
+  {
+    "id": "r005",
+    "passageJa": "レストランレビュー：リバーサイド・ビストロ\n\nダウンタウンのウォーターフロント沿いに位置する「リバーサイド・ビストロ」は、半年前のオープン以来、市内で最も人気のある飲食店の一つへと急速に成長しました。同店は地場産の食材を重視したモダンヨーロッパ料理を専門としています。\n\nメニューは季節ごとに変わり、新鮮な地元産品を活かした料理を提供しています。名物料理には、ハーブバターを添えたサーモンのグリルや、ロースト野菜のリゾットなどがあります。料理の量はボリュームがあり、質の高さを考えると価格も手頃です。\n\n雰囲気は洗練されつつもリラックスでき、ビジネスランチにも友人とのカジュアルな夕食にも適しています。ただし、4名未満のグループでの予約は受け付けておらず、混雑する時間帯（特に週末）には長い待ち時間が発生することがあります。\n\n総合的に見て、リバーサイド・ビストロは料理の品質と雰囲気で高い評価を得ていますが、少人数グループの予約ができない点が惜しいところです。",
+    "vocab": [
+      "locally sourced：地場産の、地元で調達された",
+      "seasonally：季節ごとに",
+      "generous：気前の良い、非常に多い",
+      "ambiance：雰囲気",
+      "drawback：欠点、難点"
+    ],
+    "questions": [
+      {
+        "id": "r005q1",
+        "questionJa": "リバーサイド・ビストロがオープンしてからどれくらい経ちますか。",
+        "choicesJa": [
+          "3ヶ月",
+          "6ヶ月",
+          "1年",
+          "2年"
+        ],
+        "explanationDetail": "第1段落において「6ヶ月前にオープンして以来（since opening six months ago）」と書かれているため、6ヶ月（選択肢B）が正解です。その他の選択肢（3ヶ月、1年、2年）は本文の時期と一致しません。"
+      },
+      {
+        "id": "r005q2",
+        "questionJa": "レストランはどのような料理を専門としていますか。",
+        "choicesJa": [
+          "アジアンフュージョン",
+          "モダンヨーロッパ料理",
+          "伝統的なアメリカ料理",
+          "地中海料理"
+        ],
+        "explanationDetail": "第1段落の終わりに「地場産食材を活かしたモダンヨーロッパ料理を専門としている（specializes in modern European cuisine）」と明記されているため、選択肢Bが正解です。アジアン料理やアメリカ料理、地中海料理を専門としているという記述はありません。"
+      },
+      {
+        "id": "r005q3",
+        "questionJa": "レストランの難点として何が挙げられていますか。",
+        "choicesJa": [
+          "価格が高いこと",
+          "量が少ないこと",
+          "少人数の予約ができないこと",
+          "メニューの選択肢が限られていること"
+        ],
+        "explanationDetail": "第3段落および第4段落で「4名未満のグループの予約を受け付けていないこと（lack of reservations for small groups）」が難点（drawback）として挙げられているため、選択肢Cが正解です。価格は「手頃（reasonable）」、量は「多い（generous）」とむしろ高評価されています。"
+      }
+    ]
+  },
+  {
+    "id": "r006",
+    "passageJa": "お知らせ：従業員健康保険プランの変更について\n\n来年の1月1日付で、当社の健康保険提供会社がMediCare Plus社からWellPath Health社へと変更になります。この変更は、より良い補償オプションを提供し、従業員のコスト負担を軽減することを目的とした詳細な検討を経て決定されました。\n\n主な変更点としては、個人補償の月額保険料の値下げ、歯科および眼科補償の拡大、ならびに地域内の提携医師・病院ネットワークの拡大が挙げられます。ただし、新ネットワーク外の専門医にかかっている従業員は、医療機関を変更するか、ネットワーク外料金を支払う必要がある場合があります。\n\nオープンエントリー（自由加入手続き期間）は11月1日から11月30日まで実施されます。この期間中、従業員は人事ポータルを通じてプランの詳細を確認し、希望する補償内容を選択できます。期間中に手続きを行わなかった従業員は、現在の補償内容に最も近いプランに自動的に加入させられます。\n\n説明会は11月5日と11月12日の正午よりメイン講堂にて開催されます。会場では人事担当者が質問にお答えします。",
+    "vocab": [
+      "thorough：徹底的な、詳細な",
+      "premium：保険料",
+      "coverage：補償内容、補償範囲",
+      "specialist：専門医",
+      "open enrollment：自由加入期間"
+    ],
+    "questions": [
+      {
+        "id": "r006q1",
+        "questionJa": "新しい健康保険プランはいつから有効になりますか。",
+        "choicesJa": [
+          "11月1日",
+          "11月30日",
+          "12月1日",
+          "1月1日"
+        ],
+        "explanationDetail": "第1段落冒頭に「来年の1月1日付けで変更される（Effective January 1st of next year）」と明記されているため、1月1日（選択肢D）が正解です。11月1日〜30日は加入手続きの受入期間（オープンエントリー）であり、保険プラン自体の開始日ではありません。"
+      },
+      {
+        "id": "r006q2",
+        "questionJa": "オープンエントリー期間中に手続きをしなかった従業員はどうなりますか。",
+        "choicesJa": [
+          "補償を失う",
+          "最も似たプランに自動的に加入させられる",
+          "罰金を支払わなければならない",
+          "以前の提供会社を維持する"
+        ],
+        "explanationDetail": "第3段落の終わりに「手続きを行わなかった従業員は、現在の補償に最も近いプランに自動的に登録される（automatically enrolled in the plan most similar）」と記載されているため、選択肢Bが正解です。補償の失効や罰金といったペナルティはなく、旧社との契約を継続することもできません。"
+      },
+      {
+        "id": "r006q3",
+        "questionJa": "新しいネットワーク外の専門医にかかっている従業員には何が起こる可能性がありますか。",
+        "choicesJa": [
+          "全額返還される",
+          "ネットワーク外の料金を支払う必要があるかもしれない",
+          "補償が取り消される",
+          "割引を受ける"
+        ],
+        "explanationDetail": "第2段落の後半に「新ネットワーク外の専門医を受診している場合は、医師を変更するかネットワーク外の料金を支払う必要がある（pay out-of-network rates）」とあるため、選択肢Bが正解です。全額の払い戻しを受けられるわけではなく、受診自体や補償が即座に取り消されるわけでもありません。"
+      }
+    ]
+  },
+  {
+    "id": "r007",
+    "passageJa": "お知らせ：駐車場整備工事について\n\n来週の月曜日から水曜日まで、従業員用メイン駐車場の再舗装工事を実施いたします。工事期間中は同駐車場を閉鎖いたしますので、従業員の皆様は建物から徒歩約5分のエルム通りにある臨時駐車場をご利用ください。\n\n臨時駐車場と正面玄関の間では、午前7:30〜9:30および午後4:30〜6:30の間、15分おきにシャトルバスを運行いたします。移動に不自由のある従業員の方は、代替移動手段の手配のため、内線112の施設管理部までご連絡ください。\n\nご不便をおかけしますが、この改修プロジェクトへのご理解とご協力をお願い申し上げます。",
+    "vocab": [
+      "undergo：受ける、経験する",
+      "resurfacing：再舗装",
+      "overflow lot：臨時駐車場、増設駐車場",
+      "shuttle service：シャトル便、折り返しバス",
+      "mobility：移動能力、機動性"
+    ],
+    "questions": [
+      {
+        "id": "r007q1",
+        "questionJa": "駐車場はどのくらいの期間閉鎖されますか。",
+        "choicesJa": [
+          "1日",
+          "2日",
+          "3日",
+          "1週間"
+        ],
+        "explanationDetail": "第1段落において工事期間が「来週の月曜日から水曜日まで（Monday through Wednesday next week）」と案内されており、計3日間にわたるため、選択肢Cが正解です。1日や2日、1週間といったその他の期間は不適切です。"
+      },
+      {
+        "id": "r007q2",
+        "questionJa": "閉鎖中、従業員はどこに駐車すべきですか。",
+        "choicesJa": [
+          "近くの立体駐車場",
+          "エルム通りの臨時駐車場",
+          "来客用駐車場",
+          "ダウンタウンの路上駐車スペース"
+        ],
+        "explanationDetail": "第1段落で「エルム通りにある臨時駐車場（overflow lot located on Elm Street）を利用すること」が指示されているため、選択肢Bが正解です。近くの立体駐車場や来客用駐車場、路上駐車などは案内されていません。"
+      },
+      {
+        "id": "r007q3",
+        "questionJa": "身体の移動に不安がある従業員は誰に連絡すべきですか。",
+        "choicesJa": [
+          "人事部",
+          "IT部門",
+          "施設管理部",
+          "警備部"
+        ],
+        "explanationDetail": "第2段落後半において「移動に不自由のある方は内線112の施設管理部（Facilities at extension 112）へ連絡するように」と明記されているため、選択肢Cが正解です。人事部やIT部門、警備部への連絡指示ではありません。"
+      }
+    ]
+  },
+  {
+    "id": "r008",
+    "passageJa": "ErgoPlus オフィスチェアのご紹介\n\n一日中快適に過ごせるよう設計されたErgoPlusオフィスチェアは、調節可能なランバーサポート（腰当て）、通気性の良いメッシュ素材、そして完全にカスタマイズ可能な肘掛けシステムを備えています。在宅勤務でも賑やかなオフィスでも、このチェアが体にフィットし生産性を最大限に高めます。\n\n期間限定で、2脚以上ご購入いただいたお客様にはご注文全額から20%の割引を提供いたします。また、150ドル以上のご注文はすべて送料無料となります。\n\nErgoPlusには、製造上の欠陥を補償する5年間の保証が付いています。ショールームにお越しいただくか、ウェブサイト（www.ergoplusfurniture.com）よりオンラインでご注文ください。午後2時までにご注文いただいた場合、即日発送いたします。",
+    "vocab": [
+      "adjustable：調節可能な",
+      "lumbar support：ランバーサポート（腰部支持パーツ）",
+      "breathable：通気性のある",
+      "customizable：カスタマイズ可能な",
+      "defect：欠陥、不具合"
+    ],
+    "questions": [
+      {
+        "id": "r008q1",
+        "questionJa": "複数脚のチェアを購入した場合、どのくらいの割引が提供されますか。",
+        "choicesJa": [
+          "10%",
+          "15%",
+          "20%",
+          "25%"
+        ],
+        "explanationDetail": "第2段落に「2脚以上購入したお客様には注文全額から20%の割引（20% discount on their entire order）」と書かれているため、20%（選択肢C）が正解です。10%や15%、25%といった数字は本文の記載と一致しません。"
+      },
+      {
+        "id": "r008q2",
+        "questionJa": "送料が無料になる条件は何ですか。",
+        "choicesJa": [
+          "チェアを2脚購入すること",
+          "午後2時前に注文すること",
+          "150ドル以上購入すること",
+          "ショールームを訪問すること"
+        ],
+        "explanationDetail": "第2段落後半に「150ドルを超えるすべての注文で送料無料になる（Free shipping is included on all orders over $150）」とあるため、150ドル以上の購入（選択肢C）が正解です。2脚の購入は20%割引の条件であり、午後2時前の注文は即日発送の条件です。"
+      },
+      {
+        "id": "r008q3",
+        "questionJa": "製品保証の期間はどのくらいですか。",
+        "choicesJa": [
+          "1年",
+          "2年",
+          "3年",
+          "5年"
+        ],
+        "explanationDetail": "第3段落冒頭に「製造上の欠陥を補償する5年保証（5-year warranty）が付属している」と明確に示されているため、5年（選択肢D）が正解です。1年や2年、3年といった期間ではありません。"
+      }
+    ]
+  }
+]
+
+# Check json validity
+formatted_str = json.dumps(result_json, ensure_ascii=False, indent=2)
+print("Length of JSON string:", len(formatted_str))
+
+
+```
+
+```text
+Length of JSON string: 14331
+
+
+```
+
+[
+{
+"id": "r001",
+"passageJa": "宛先：全従業員\n送信者：施設管理部\n件名：オフィス移転のお知らせ\n\n弊社は3月1日付けで、マーケット通り450番地の新しいオフィスビルに移転する運びとなりましたのでお知らせいたします。新オフィスは大幅に広いスペースと最新の会議センターを備え、公共交通機関の近くという便利な立地にあります。\n\n従業員の皆様は、2月25日までに私物を梱包してください。引越し用ダンボールは2月15日までに各部署へ配布されます。コンピュータやモニターを含むIT機器はIT部門が別途取り扱うため、従業員個人の手で梱包しないようにしてください。\n\n新オフィスの駐車許可証は3月の第1週に発行されます。現在駐車許可証をお持ちの方は再申請の必要はありません。許可証は自動的に引き継がれます。\n\n移転に関してご質問がある場合は、施設管理部（内線204）までご連絡ください。",
+"vocab": [
+"relocate：移転する",
+"effective：〜付けで、有効な",
+"belongings：所持品、私物",
+"separately：別途、個別に",
+"transfer：引き継ぐ、転送する",
+"extension：内線"
+],
+"questions": [
+{
+"id": "r001q1",
+"questionJa": "会社はいつ新しいオフィスに移転しますか。",
+"choicesJa": [
+"2月15日",
+"2月25日",
+"3月1日",
+"3月の第1週"
+],
+"explanationDetail": "第1段落に「3月1日付けで新しいオフィスビルに移転する（relocating... effective March 1st）」と明記されているため、3月1日（選択肢C）が正解です。2月15日はダンボールの配布予定日、2月25日は私物の梱包期限日、3月の第1週は新しい駐車許可証が発行される時期であり、移転日そのものを指しているわけではありません。"
+},
+{
+"id": "r001q2",
+"questionJa": "従業員がIT機器に対してしてはならないことは何ですか。",
+"choicesJa": [
+"IT部門に連絡すること",
+"自分たちで梱包すること",
+"移転まで使用すること",
+"明確にラベルを貼ること"
+],
+"explanationDetail": "第2段落において「IT機器はIT部門が別途取り扱うため、従業員個人の手で梱包しないように（should not be packed by individual employees）」と明確に指示されているため、自分たちで梱包すること（選択肢B）が正解です。個人による梱包は禁止されています。IT部門への連絡や使用継続などは禁止事項として記載されていません。"
+},
+{
+"id": "r001q3",
+"questionJa": "既存の駐車許可証を持っている従業員は何をする必要がありますか。",
+"choicesJa": [
+"すぐに再申請する",
+"内線204に連絡する",
+"何もしない（許可証は自動的に引き継がれる）",
+"2月25日まで待つ"
+],
+"explanationDetail": "第3段落に「現在駐車許可証をお持ちの方は再申請の必要はなく、許可証は自動的に引き継がれる（permits will be automatically transferred）」とあります。そのため、特別な手続きを行う必要がない「何もしない」（選択肢C）が正解です。再申請手続き（選択肢A）は不要と明記されており、内線204（選択肢B）は移転全般の問い合わせ先です。"
+}
+]
+},
+{
+"id": "r002",
+"passageJa": "マーケティングマネージャー募集\n\nBrightWave Media社では、デジタルマーケティングチームを率いる経験豊富なマーケティングマネージャーを募集しています。理想的な応募者は、デジタルマーケティングにおける5年以上の経験、優れた分析能力、およびキャンペーンを成功させてきた実績を持つ人物です。\n\n主な業務には、マーケティング戦略の立案、4名の専門スタッフの管理、キャンペーン実績データの分析、経営陣への四半期報告のプレゼンテーションが含まれます。本役職では、魅力的な給与、充実した医療手当、ならびにキャリア開発の機会を提供いたします。\n\n応募希望者は、今月末までに履歴書と添え状（カバーレター）を careers@brightwavemedia.com まで提出してください。一次選考を通過した方にのみ、面接のご連絡を差し上げます。お電話でのお問い合わせはご遠慮ください。",
+"vocab": [
+"analytical：分析の、分析力のある",
+"proven track record：確かな実績",
+"comprehensive：総合的な、充実した",
+"shortlist：一次選考で候補者を絞り込む"
+],
+"questions": [
+{
+"id": "r002q1",
+"questionJa": "この職種には何年の経験が必要とされていますか。",
+"choicesJa": [
+"2年",
+"3年",
+"4年",
+"5年"
+],
+"explanationDetail": "第1段落で、求める人材の条件として「デジタルマーケティングにおける最低5年の経験（at least five years of experience）」が明確に規定されているため、5年（選択肢D）が正解です。本文では5年以上の実務経験を条件として定めており、2年・3年・4年といったその他の年数は誤りとなります。"
+},
+{
+"id": "r002q2",
+"questionJa": "新しいマネージャーは何名の専門スタッフを監督することになりますか。",
+"choicesJa": [
+"2名",
+"3名",
+"4名",
+"5名"
+],
+"explanationDetail": "第2段落の職務内容の中で「4名のスペシャリストチームの管理（managing a team of four specialists）」と述べられているため、4名（選択肢C）が正解です。マネージャーが直接管理・監督する専門スタッフの人数は4名と明記されており、2名や3名、5名とする他の選択肢は記述に一致しません。"
+},
+{
+"id": "r002q3",
+"questionJa": "応募希望者はどのように応募すべきですか。",
+"choicesJa": [
+"オフィスに電話する",
+"直接訪問する",
+"メールを送信する",
+"手紙を郵送する"
+],
+"explanationDetail": "第3段落に「履歴書とカバーレターを指定のメールアドレス（careers@brightwavemedia.com）へ提出すること」と記載されているため、メール送信（選択肢C）が正解です。なお、同段落末尾で「電話不可（No phone calls, please）」と指示されているため、お電話（選択肢A）による問い合わせや応募は誤りです。"
+}
+]
+},
+{
+"id": "r003",
+"passageJa": "大切なお客様へ\n\nこのたびはご注文（注文番号 #48291）いただき、誠にありがとうございます。サプライヤーの倉庫における予期せぬ遅延により、ご注文商品の発送が約5営業日遅れる見込みとなりましたことをお知らせいたします。\n\nご不便をおかけしますことを深くお詫び申し上げます。お詫びのしるしとして、次回のお買い物でご利用いただける15%割引クーポンを進呈いたします。割引コードは24時間以内にご登録のメールアドレス宛にお送りいたします。\n\nご注文商品は今週末までに発送される予定で、発送後3〜5営業日以内にお手元に届く見込みです。発送が完了いたしましたら、メールにて追跡番号をお知らせいたします。\n\nなお、注文のキャンセルをご希望の場合は、カスタマーサービスチーム（support@retailco.com）までご連絡いただければ、3営業日以内に全額返金手続きを行います。",
+"vocab": [
+"unexpected：予期せぬ、思いがけない",
+"shipment：発送品、配送",
+"gesture of goodwill：好意のしるし、お詫びのしるし",
+"tracking number：追跡番号",
+"process：処理する"
+],
+"questions": [
+{
+"id": "r003q1",
+"questionJa": "なぜ発送が遅れたのですか。",
+"choicesJa": [
+"配送エラー",
+"サプライヤーの倉庫での遅延",
+"支払いの問題",
+"悪天候"
+],
+"explanationDetail": "第1段落に「サプライヤーの倉庫における予期せぬ遅延（delay at our supplier's warehouse）」が原因で発送が遅れる旨が説明されているため、選択肢Bが正解です。配送トラブルや決済の問題、天候不順など、その他の要因については本文中で言及されていません。"
+},
+{
+"id": "r003q2",
+"questionJa": "補償としてお客様に何が提供されていますか。",
+"choicesJa": [
+"全額返金",
+"次回購入時の15%割引",
+"送料無料",
+"代替品"
+],
+"explanationDetail": "第2段落において「お詫びのしるしとして次回購入時に使える15%割引（15% discount on your next purchase）を提供する」と書かれているため、選択肢Bが正解です。全額返金（選択肢A）は注文をキャンセルした場合の対応であり、遅延に対する補償そのものではありません。送料無料や代替え品に関する記述はありません。"
+},
+{
+"id": "r003q3",
+"questionJa": "注文をキャンセルするために、お客様は何をすべきですか。",
+"choicesJa": [
+"このメールに返信する",
+"カスタマーサービスに電話する",
+"support@retailco.com に連絡する",
+"店舗を訪問する"
+],
+"explanationDetail": "第4段落において「キャンセルをご希望の場合は support@retailco.com までご連絡ください」と連絡先のアドレスが示されているため、選択肢Cが正解です。受信メールへの直接返信や電話連絡、実店舗への来店といった方法は案内されていません。"
+}
+]
+},
+{
+"id": "r004",
+"passageJa": "新会議室予約システムのご案内\n\n来週の月曜日より、すべての会議室予約は新しいオンライン予約システム「RoomFlow」をご利用いただくことになります。本システムは、これまで各部署で使用されていた紙ベースの記入シートに代わるものです。\n\n会議室を予約するには、会社用のメールアドレスでRoomFlowにログインし、空いている時間帯を選択してください。予約は最大30日前から可能ですが、1回の予約につき最長4時間までとなります。それ以上の長時間ご利用希望の場合は、オフィス管理者に直接ご連絡ください。\n\nキャンセルは予定時刻の2時間前までに行う必要があります。事前連絡なしの不参加やキャンセル漏れが3回連続した場合は、予約権限が一時的に停止されることがあります。\n\nRoomFlowの使用方法に関する研修会を、火曜日と水曜日の午前10時よりメイン会議室にて開催いたします。参加は任意ですが、全従業員の受講を推奨します。",
+"vocab": [
+"reservation：予約",
+"replace：〜に取って代わる",
+"in advance：あらかじめ、事前に",
+"consecutive：連続した",
+"suspension：停止、一時中断",
+"optional：任意の、自由選択の"
+],
+"questions": [
+{
+"id": "r004q1",
+"questionJa": "新しいシステムによって何が置き換えられますか。",
+"choicesJa": [
+"メールでの申請",
+"紙ベースの記入シート",
+"電話予約",
+"別のアプリ"
+],
+"explanationDetail": "第1段落において、新システムは「各部署で使用されていた以前の紙ベースの記入シート（previous paper-based sign-up sheets）に代わるもの」と説明されているため、選択肢Bが正解です。メールや電話での予約、あるいは他のアプリを代替するわけではありません。"
+},
+{
+"id": "r004q2",
+"questionJa": "1回の予約における最長利用時間はどれくらいですか。",
+"choicesJa": [
+"2時間",
+"4時間",
+"6時間",
+"30日"
+],
+"explanationDetail": "第2段落に「1回の予約につき4時間まで（no more than 4 hours per booking）」と規定されているため、4時間（選択肢B）が正解です。2時間（選択肢A）はキャンセルの期限であり、30日（選択肢D）は事前に予約可能な日数を示しています。"
+},
+{
+"id": "r004q3",
+"questionJa": "3回連続で予約をすっぽかした場合、どうなる可能性がありますか。",
+"choicesJa": [
+"警告メールが届く",
+"研修への参加が義務付けられる",
+"予約権限が停止される",
+"罰金が科される"
+],
+"explanationDetail": "第3段落で「3回連続してキャンセルや出席を怠った場合、予約権限が一時停止される可能性がある（suspension of booking privileges）」と述べられているため、選択肢Cが正解です。警告メールの送信や罰金ペナルティの記述はなく、研修への参加も任意（optional）とされています。"
+}
+]
+},
+{
+"id": "r005",
+"passageJa": "レストランレビュー：リバーサイド・ビストロ\n\nダウンタウンのウォーターフロント沿いに位置する「リバーサイド・ビストロ」は、半年前のオープン以来、市内で最も人気のある飲食店の一つへと急速に成長しました。同店は地場産の食材を重視したモダンヨーロッパ料理を専門としています。\n\nメニューは季節ごとに変わり、新鮮な地元産品を活かした料理を提供しています。名物料理には、ハーブバターを添えたサーモンのグリルや、ロースト野菜のリゾットなどがあります。料理の量はボリュームがあり、質の高さを考えると価格も手頃です。\n\n雰囲気は洗練されつつもリラックスでき、ビジネスランチにも友人とのカジュアルな夕食にも適しています。ただし、4名未満のグループでの予約は受け付けておらず、混雑する時間帯（特に週末）には長い待ち時間が発生することがあります。\n\n総合的に見て、リバーサイド・ビストロは料理の品質と雰囲気で高い評価を得ていますが、少人数グループの予約ができない点が惜しいところです。",
+"vocab": [
+"locally sourced：地場産の、地元で調達された",
+"seasonally：季節ごとに",
+"generous：気前の良い、非常に多い",
+"ambiance：雰囲気",
+"drawback：欠点、難点"
+],
+"questions": [
+{
+"id": "r005q1",
+"questionJa": "リバーサイド・ビストロがオープンしてからどれくらい経ちますか。",
+"choicesJa": [
+"3ヶ月",
+"6ヶ月",
+"1年",
+"2年"
+],
+"explanationDetail": "第1段落において「6ヶ月前にオープンして以来（since opening six months ago）」と書かれているため、6ヶ月（選択肢B）が正解です。その他の選択肢（3ヶ月、1年、2年）は本文の時期と一致しません。"
+},
+{
+"id": "r005q2",
+"questionJa": "レストランはどのような料理を専門としていますか。",
+"choicesJa": [
+"アジアンフュージョン",
+"モダンヨーロッパ料理",
+"伝統的なアメリカ料理",
+"地中海料理"
+],
+"explanationDetail": "第1段落の終わりに「地場産食材を活かしたモダンヨーロッパ料理を専門としている（specializes in modern European cuisine）」と明記されているため、選択肢Bが正解です。アジアン料理やアメリカ料理、地中海料理を専門としているという記述はありません。"
+},
+{
+"id": "r005q3",
+"questionJa": "レストランの難点として何が挙げられていますか。",
+"choicesJa": [
+"価格が高いこと",
+"量が少ないこと",
+"少人数の予約ができないこと",
+"メニューの選択肢が限られていること"
+],
+"explanationDetail": "第3段落および第4段落で「4名未満のグループの予約を受け付けていないこと（lack of reservations for small groups）」が難点（drawback）として挙げられているため、選択肢Cが正解です。価格は「手頃（reasonable）」、量は「多い（generous）」とむしろ高評価されています。"
+}
+]
+},
+{
+"id": "r006",
+"passageJa": "お知らせ：従業員健康保険プランの変更について\n\n来年の1月1日付で、当社の健康保険提供会社がMediCare Plus社からWellPath Health社へと変更になります。この変更は、より良い補償オプションを提供し、従業員のコスト負担を軽減することを目的とした詳細な検討を経て決定されました。\n\n主な変更点としては、個人補償の月額保険料の値下げ、歯科および眼科補償の拡大、ならびに地域内の提携医師・病院ネットワークの拡大が挙げられます。ただし、新ネットワーク外の専門医にかかっている従業員は、医療機関を変更するか、ネットワーク外料金を支払う必要がある場合があります。\n\nオープンエントリー（自由加入手続き期間）は11月1日から11月30日まで実施されます。この期間中、従業員は人事ポータルを通じてプランの詳細を確認し、希望する補償内容を選択できます。期間中に手続きを行わなかった従業員は、現在の補償内容に最も近いプランに自動的に加入させられます。\n\n説明会は11月5日と11月12日の正午よりメイン講堂にて開催されます。会場では人事担当者が質問にお答えします。",
+"vocab": [
+"thorough：徹底的な、詳細な",
+"premium：保険料",
+"coverage：補償内容、補償範囲",
+"specialist：専門医",
+"open enrollment：自由加入期間"
+],
+"questions": [
+{
+"id": "r006q1",
+"questionJa": "新しい健康保険プランはいつから有効になりますか。",
+"choicesJa": [
+"11月1日",
+"11月30日",
+"12月1日",
+"1月1日"
+],
+"explanationDetail": "第1段落冒頭に「来年の1月1日付けで変更される（Effective January 1st of next year）」と明記されているため、1月1日（選択肢D）が正解です。11月1日〜30日は加入手続きの受入期間（オープンエントリー）であり、保険プラン自体の開始日ではありません。"
+},
+{
+"id": "r006q2",
+"questionJa": "オープンエントリー期間中に手続きをしなかった従業員はどうなりますか。",
+"choicesJa": [
+"補償を失う",
+"最も似たプランに自動的に加入させられる",
+"罰金を支払わなければならない",
+"以前の提供会社を維持する"
+],
+"explanationDetail": "第3段落の終わりに「手続きを行わなかった従業員は、現在の補償に最も近いプランに自動的に登録される（automatically enrolled in the plan most similar）」と記載されているため、選択肢Bが正解です。補償の失効や罰金といったペナルティはなく、旧社との契約を継続することもできません。"
+},
+{
+"id": "r006q3",
+"questionJa": "新しいネットワーク外の専門医にかかっている従業員には何が起こる可能性がありますか。",
+"choicesJa": [
+"全額返還される",
+"ネットワーク外の料金を支払う必要があるかもしれない",
+"補償が取り消される",
+"割引を受ける"
+],
+"explanationDetail": "第2段落の後半に「新ネットワーク外の専門医を受診している場合は、医師を変更するかネットワーク外の料金を支払う必要がある（pay out-of-network rates）」とあるため、選択肢Bが正解です。全額の払い戻しを受けられるわけではなく、受診自体や補償が即座に取り消されるわけでもありません。"
+}
+]
+},
+{
+"id": "r007",
+"passageJa": "お知らせ：駐車場整備工事について\n\n来週の月曜日から水曜日まで、従業員用メイン駐車場の再舗装工事を実施いたします。工事期間中は同駐車場を閉鎖いたしますので、従業員の皆様は建物から徒歩約5分のエルム通りにある臨時駐車場をご利用ください。\n\n臨時駐車場と正面玄関の間では、午前7:30〜9:30および午後4:30〜6:30の間、15分おきにシャトルバスを運行いたします。移動に不自由のある従業員の方は、代替移動手段の手配のため、内線112の施設管理部までご連絡ください。\n\nご不便をおかけしますが、この改修プロジェクトへのご理解とご協力をお願い申し上げます。",
+"vocab": [
+"undergo：受ける、経験する",
+"resurfacing：再舗装",
+"overflow lot：臨時駐車場、増設駐車場",
+"shuttle service：シャトル便、折り返しバス",
+"mobility：移動能力、機動性"
+],
+"questions": [
+{
+"id": "r007q1",
+"questionJa": "駐車場はどのくらいの期間閉鎖されますか。",
+"choicesJa": [
+"1日",
+"2日",
+"3日",
+"1週間"
+],
+"explanationDetail": "第1段落において工事期間が「来週の月曜日から水曜日まで（Monday through Wednesday next week）」と案内されており、計3日間にわたるため、選択肢Cが正解です。1日や2日、1週間といったその他の期間は不適切です。"
+},
+{
+"id": "r007q2",
+"questionJa": "閉鎖中、従業員はどこに駐車すべきですか。",
+"choicesJa": [
+"近くの立体駐車場",
+"エルム通りの臨時駐車場",
+"来客用駐車場",
+"ダウンタウンの路上駐車スペース"
+],
+"explanationDetail": "第1段落で「エルム通りにある臨時駐車場（overflow lot located on Elm Street）を利用すること」が指示されているため、選択肢Bが正解です。近くの立体駐車場や来客用駐車場、路上駐車などは案内されていません。"
+},
+{
+"id": "r007q3",
+"questionJa": "身体の移動に不安がある従業員は誰に連絡すべきですか。",
+"choicesJa": [
+"人事部",
+"IT部門",
+"施設管理部",
+"警備部"
+],
+"explanationDetail": "第2段落後半において「移動に不自由のある方は内線112の施設管理部（Facilities at extension 112）へ連絡するように」と明記されているため、選択肢Cが正解です。人事部やIT部門、警備部への連絡指示ではありません。"
+}
+]
+},
+{
+"id": "r008",
+"passageJa": "ErgoPlus オフィスチェアのご紹介\n\n一日中快適に過ごせるよう設計されたErgoPlusオフィスチェアは、調節可能なランバーサポート（腰当て）、通気性の良いメッシュ素材、そして完全にカスタマイズ可能な肘掛けシステムを備えています。在宅勤務でも賑やかなオフィスでも、このチェアが体にフィットし生産性を最大限に高めます。\n\n期間限定で、2脚以上ご購入いただいたお客様にはご注文全額から20%の割引を提供いたします。また、150ドル以上のご注文はすべて送料無料となります。\n\nErgoPlusには、製造上の欠陥を補償する5年間の保証が付いています。ショールームにお越しいただくか、ウェブサイト（[www.ergoplusfurniture.com](https://www.google.com/search?q=https%3A%2F%2Fwww.ergoplusfurniture.com)）よりオンラインでご注文ください。午後2時までにご注文いただいた場合、即日発送いたします。",
+"vocab": [
+"adjustable：調節可能な",
+"lumbar support：ランバーサポート（腰部支持パーツ）",
+"breathable：通気性のある",
+"customizable：カスタマイズ可能な",
+"defect：欠陥、不具合"
+],
+"questions": [
+{
+"id": "r008q1",
+"questionJa": "複数脚のチェアを購入した場合、どのくらいの割引が提供されますか。",
+"choicesJa": [
+"10%",
+"15%",
+"20%",
+"25%"
+],
+"explanationDetail": "第2段落に「2脚以上購入したお客様には注文全額から20%の割引（20% discount on their entire order）」と書かれているため、20%（選択肢C）が正解です。10%や15%、25%といった数字は本文の記載と一致しません。"
+},
+{
+"id": "r008q2",
+"questionJa": "送料が無料になる条件は何ですか。",
+"choicesJa": [
+"チェアを2脚購入すること",
+"午後2時前に注文すること",
+"150ドル以上購入すること",
+"ショールームを訪問すること"
+],
+"explanationDetail": "第2段落後半に「150ドルを超えるすべての注文で送料無料になる（Free shipping is included on all orders over $150）」とあるため、150ドル以上の購入（選択肢C）が正解です。2脚の購入は20%割引の条件であり、午後2時前の注文は即日発送の条件です。"
+},
+{
+"id": "r008q3",
+"questionJa": "製品保証の期間はどのくらいですか。",
+"choicesJa": [
+"1年",
+"2年",
+"3年",
+"5年"
+],
+"explanationDetail": "第3段落冒頭に「製造上の欠陥を補償する5年保証（5-year warranty）が付属している」と明確に示されているため、5年（選択肢D）が正解です。1年や2年、3年といった期間ではありません。"
+}
+]
+}
+]

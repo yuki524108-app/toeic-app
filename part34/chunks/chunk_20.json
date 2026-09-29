@@ -1,0 +1,366 @@
+[
+ {
+  "id": "l34-c87z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "What do you think of the new logo designs the agency sent over?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I like the blue version, but I think the font is a little hard to read on small screens."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good point. I'll ask them to test it on mobile devices before we make a final decision."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Sounds good. Let's revisit this at Friday's meeting."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c87z-q1",
+    "question": "What are they reviewing?",
+    "choices": [
+     "A new office design",
+     "New logo designs",
+     "A marketing budget",
+     "A product prototype"
+    ]
+   },
+   {
+    "id": "l34-c87z-q2",
+    "question": "What concern does the woman have?",
+    "choices": [
+     "The color is wrong",
+     "The font is hard to read on small screens",
+     "The logo is too large",
+     "The design took too long"
+    ]
+   },
+   {
+    "id": "l34-c87z-q3",
+    "question": "What will the man do?",
+    "choices": [
+     "Reject the design",
+     "Ask the agency to test it on mobile devices",
+     "Approve it immediately",
+     "Redesign it himself"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c88z",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I noticed the hotel I booked for the conference is over our usual travel budget."
+   },
+   {
+    "speaker": "Man",
+    "line": "How much over is it?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "About $30 per night. All the closer hotels were already fully booked."
+   },
+   {
+    "speaker": "Man",
+    "line": "That should be fine given the circumstances. I'll approve the exception."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c88z-q1",
+    "question": "What is the issue with the hotel booking?",
+    "choices": [
+     "It's the wrong location",
+     "It's over the usual travel budget",
+     "It was canceled",
+     "It doesn't have availability"
+    ]
+   },
+   {
+    "id": "l34-c88z-q2",
+    "question": "Why did the woman book a more expensive hotel?",
+    "choices": [
+     "She prefers luxury hotels",
+     "Closer hotels were fully booked",
+     "The company requested it",
+     "It had better reviews"
+    ]
+   },
+   {
+    "id": "l34-c88z-q3",
+    "question": "What does the man decide?",
+    "choices": [
+     "To deny the request",
+     "To approve the exception",
+     "To book a different hotel",
+     "To cancel the trip"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t48z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Attention visitors, please note that the museum will close early today at 4 PM instead of the usual 6 PM due to a private event. All galleries will begin closing at 3:45, so please plan your visit accordingly. We apologize for any inconvenience and look forward to welcoming you back tomorrow during our regular hours."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t48z-q1",
+    "question": "Why is the museum closing early?",
+    "choices": [
+     "A power outage",
+     "A private event",
+     "Staff shortage",
+     "Weather conditions"
+    ]
+   },
+   {
+    "id": "l34-t48z-q2",
+    "question": "What time will the museum close today?",
+    "choices": [
+     "3:45",
+     "4 PM",
+     "5 PM",
+     "6 PM"
+    ]
+   },
+   {
+    "id": "l34-t48z-q3",
+    "question": "When will the museum return to regular hours?",
+    "choices": [
+     "Later today",
+     "Tomorrow",
+     "Next week",
+     "It's permanent"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t49z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "This weekend only, Cornerstone Furniture is having its biggest sale of the year. Save up to 50 percent on sofas, dining sets, and bedroom furniture. Plus, all purchases over $500 come with free delivery and assembly. Visit our showroom on Route 9 or shop online. Hurry in, because sale prices end Sunday at closing."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t49z-q1",
+    "question": "How much can customers save?",
+    "choices": [
+     "Up to 20%",
+     "Up to 30%",
+     "Up to 50%",
+     "Up to 70%"
+    ]
+   },
+   {
+    "id": "l34-t49z-q2",
+    "question": "What is included with purchases over $500?",
+    "choices": [
+     "A gift card",
+     "Free delivery and assembly",
+     "An extended warranty",
+     "A discount on future purchases"
+    ]
+   },
+   {
+    "id": "l34-t49z-q3",
+    "question": "When does the sale end?",
+    "choices": [
+     "Saturday",
+     "Sunday at closing",
+     "Next Friday",
+     "The end of the month"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t50z",
+  "script": [
+   {
+    "speaker": "Speaker",
+    "line": "Hi, this message is for Mr. Tanaka. This is Rachel from Bright Path Consulting. We'd like to confirm your interview for the analyst position this Thursday at 10 AM at our downtown office. Please bring a copy of your resume and two references. If you need to reschedule, please call our office before Wednesday afternoon. We look forward to meeting you."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t50z-q1",
+    "question": "What is the purpose of the call?",
+    "choices": [
+     "To offer a job",
+     "To confirm an interview",
+     "To cancel an interview",
+     "To request a document"
+    ]
+   },
+   {
+    "id": "l34-t50z-q2",
+    "question": "What should Mr. Tanaka bring?",
+    "choices": [
+     "A laptop",
+     "A copy of his resume and two references",
+     "A portfolio",
+     "Identification only"
+    ]
+   },
+   {
+    "id": "l34-t50z-q3",
+    "question": "What should he do if he needs to reschedule?",
+    "choices": [
+     "Email HR",
+     "Call the office before Wednesday afternoon",
+     "Arrive late",
+     "Send a text message"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t51z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "We apologize for the delay. Due to a signal malfunction near Central Station, all northbound trains are running approximately 15 minutes behind schedule. We appreciate your patience and will provide further updates as more information becomes available. Alternative bus service is available at Platform 2 for those who prefer not to wait."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t51z-q1",
+    "question": "Why are trains delayed?",
+    "choices": [
+     "Bad weather",
+     "A signal malfunction",
+     "A staff shortage",
+     "Track construction"
+    ]
+   },
+   {
+    "id": "l34-t51z-q2",
+    "question": "How long is the delay?",
+    "choices": [
+     "5 minutes",
+     "15 minutes",
+     "30 minutes",
+     "1 hour"
+    ]
+   },
+   {
+    "id": "l34-t51z-q3",
+    "question": "What alternative is offered?",
+    "choices": [
+     "A taxi voucher",
+     "Bus service at Platform 2",
+     "A refund",
+     "A different train line"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t52z",
+  "script": [
+   {
+    "speaker": "Announcer",
+    "line": "Just a reminder that this year's holiday party will be held on December 15 at the Grandview Hotel starting at 7 PM. Please RSVP through the link in your email by December 1 so we can finalize the headcount with the venue. Guests are welcome, and formal attire is encouraged. We look forward to celebrating another great year together."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t52z-q1",
+    "question": "Where will the party be held?",
+    "choices": [
+     "The office building",
+     "The Grandview Hotel",
+     "A restaurant downtown",
+     "A community center"
+    ]
+   },
+   {
+    "id": "l34-t52z-q2",
+    "question": "By when should employees RSVP?",
+    "choices": [
+     "December 1",
+     "December 15",
+     "The day of the party",
+     "January 1"
+    ]
+   },
+   {
+    "id": "l34-t52z-q3",
+    "question": "What is mentioned about attire?",
+    "choices": [
+     "Casual wear is required",
+     "Formal attire is encouraged",
+     "Costumes are required",
+     "There is no dress code"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c89z",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Finance is asking every department to cut costs by 10 percent this quarter."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's tough. We could probably reduce our travel budget without affecting the team too much."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good idea. Let's also look at renegotiating our software subscriptions."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll put together a proposal and send it to you by Friday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c89z-q1",
+    "question": "What is Finance asking departments to do?",
+    "choices": [
+     "Hire more staff",
+     "Cut costs by 10 percent",
+     "Increase marketing spend",
+     "Relocate offices"
+    ]
+   },
+   {
+    "id": "l34-c89z-q2",
+    "question": "What does the woman suggest reducing?",
+    "choices": [
+     "Salaries",
+     "The travel budget",
+     "Office space",
+     "Staff benefits"
+    ]
+   },
+   {
+    "id": "l34-c89z-q3",
+    "question": "What will the woman do by Friday?",
+    "choices": [
+     "Cancel all travel",
+     "Send a proposal",
+     "Meet with Finance",
+     "Resign from the project"
+    ]
+   }
+  ]
+ }
+]

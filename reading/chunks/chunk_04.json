@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r025",
+  "passage": "Important Notice: Changes to Your Account\n\nDear Valued Customer,\n\nWe are writing to inform you of upcoming changes to our checking account fee structure, effective the first of next month. The monthly maintenance fee will increase from $8 to $12 for standard checking accounts.\n\nHowever, this fee can be waived entirely by maintaining a minimum daily balance of $1,500 or by setting up a direct deposit of at least $500 per month. Customers with Premium accounts will not be affected by this change.\n\nIf you have any questions about how these changes may affect your account, please visit your local branch or call our customer service line at 1-800-555-0199. We value your continued business and appreciate your understanding.",
+  "questions": [
+   {
+    "id": "r025q1",
+    "question": "What is the new monthly maintenance fee for standard checking accounts?",
+    "choices": [
+     "$8",
+     "$10",
+     "$12",
+     "$15"
+    ]
+   },
+   {
+    "id": "r025q2",
+    "question": "How can customers avoid the monthly fee?",
+    "choices": [
+     "By closing their account",
+     "By maintaining a minimum balance or direct deposit",
+     "By switching banks",
+     "By paying annually"
+    ]
+   },
+   {
+    "id": "r025q3",
+    "question": "Which customers are unaffected by this change?",
+    "choices": [
+     "Standard account holders",
+     "New customers",
+     "Premium account holders",
+     "Savings account holders"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r026",
+  "passage": "Introducing FreshBox Meal Delivery\n\nFreshBox brings healthy, chef-prepared meals directly to your door. Choose from over 20 rotating menu options each week, catering to various dietary preferences including vegetarian, low-carb, and gluten-free options.\n\nOur weekly subscription starts at $59.99 for 5 meals, with discounts available for larger orders. All meals are prepared fresh and delivered in eco-friendly, recyclable packaging to keep your food fresh during transit.\n\nDeliveries occur every Tuesday and Friday between 8 AM and 6 PM. You can easily pause, skip, or cancel your subscription at any time through our mobile app, with no long-term commitment required.\n\nNew customers receive 30% off their first order using promo code FRESH30 at checkout.",
+  "questions": [
+   {
+    "id": "r026q1",
+    "question": "What is the starting price for the weekly subscription?",
+    "choices": [
+     "$39.99",
+     "$49.99",
+     "$59.99",
+     "$69.99"
+    ]
+   },
+   {
+    "id": "r026q2",
+    "question": "On which days are deliveries made?",
+    "choices": [
+     "Monday and Thursday",
+     "Tuesday and Friday",
+     "Wednesday and Saturday",
+     "Every day"
+    ]
+   },
+   {
+    "id": "r026q3",
+    "question": "What discount do new customers receive?",
+    "choices": [
+     "10%",
+     "20%",
+     "30%",
+     "50%"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r027",
+  "passage": "Subject: Farewell and Thank You\n\nDear Colleagues,\n\nAfter eight wonderful years with Bright Solutions, I have decided to pursue a new opportunity and will be leaving the company at the end of this month. My last day will be the 28th.\n\nWorking alongside such talented and dedicated people has been one of the highlights of my career. I am especially grateful for the support and mentorship I received during my time in the marketing department.\n\nI will be transitioning my current projects to Sarah Williams over the next two weeks. Please feel free to reach out to her with any questions moving forward. I will do my best to ensure a smooth handover of all responsibilities.\n\nThank you all for the memories, and I hope our paths cross again in the future.\n\nWarm regards,\nDavid Lee",
+  "questions": [
+   {
+    "id": "r027q1",
+    "question": "How many years has David worked at the company?",
+    "choices": [
+     "Five years",
+     "Six years",
+     "Seven years",
+     "Eight years"
+    ]
+   },
+   {
+    "id": "r027q2",
+    "question": "Who will take over David's projects?",
+    "choices": [
+     "A new hire",
+     "Sarah Williams",
+     "The department manager",
+     "No one yet"
+    ]
+   },
+   {
+    "id": "r027q3",
+    "question": "What was David most grateful for?",
+    "choices": [
+     "His salary",
+     "The office location",
+     "Support and mentorship",
+     "Flexible hours"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r028",
+  "passage": "Riverside Public Library: Member Services Update\n\nWe are excited to announce several updates to our library services, effective this month. The library will now offer extended hours, remaining open until 9 PM on weekdays, an increase from the previous closing time of 7 PM.\n\nAdditionally, members can now borrow up to 15 items at a time, up from the previous limit of 10. The loan period for most items remains three weeks, with the option to renew twice if no other patron has requested the item.\n\nOur new digital library card allows members to access e-books and audiobooks directly through our mobile app, eliminating the need for a physical library card for digital services.\n\nWe hope these changes make it easier for our community to enjoy the resources available at Riverside Public Library.",
+  "questions": [
+   {
+    "id": "r028q1",
+    "question": "What is the new weekday closing time?",
+    "choices": [
+     "7 PM",
+     "8 PM",
+     "9 PM",
+     "10 PM"
+    ]
+   },
+   {
+    "id": "r028q2",
+    "question": "How many items can members now borrow at once?",
+    "choices": [
+     "10",
+     "12",
+     "15",
+     "20"
+    ]
+   },
+   {
+    "id": "r028q3",
+    "question": "What can members do with the new digital library card?",
+    "choices": [
+     "Borrow physical books remotely",
+     "Access e-books and audiobooks through the app",
+     "Reserve study rooms",
+     "Print documents"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r029",
+  "passage": "Memo: New Office Supply Ordering Procedure\n\nTo streamline our purchasing process, we are implementing a new procedure for ordering office supplies, effective immediately. All supply requests must now be submitted through the online procurement system rather than the previous paper request forms.\n\nEmployees should log in to the procurement portal using their employee credentials and select items from the approved vendor catalog. Orders under $100 will be automatically approved, while orders exceeding this amount will require manager approval before processing.\n\nOrders submitted before noon will typically be processed and shipped the same day, while those submitted after noon will be processed the following business day. Please allow 3-5 business days for delivery.\n\nFor questions about the new system, please contact the procurement team at procurement@company.com.",
+  "questions": [
+   {
+    "id": "r029q1",
+    "question": "What must employees use to submit supply requests now?",
+    "choices": [
+     "Paper forms",
+     "An online procurement system",
+     "Email requests",
+     "Phone calls"
+    ]
+   },
+   {
+    "id": "r029q2",
+    "question": "What determines whether manager approval is needed?",
+    "choices": [
+     "The type of item",
+     "The order amount",
+     "The delivery date",
+     "The employee's department"
+    ]
+   },
+   {
+    "id": "r029q3",
+    "question": "When will orders submitted after noon be processed?",
+    "choices": [
+     "The same day",
+     "The following business day",
+     "Within a week",
+     "Immediately"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r030",
+  "passage": "An Apology and Our Commitment to You\n\nDear Customer,\n\nWe recently experienced a service outage that affected many of our customers, including you, for approximately six hours last Tuesday. We sincerely apologize for any inconvenience this may have caused to your business operations.\n\nOur technical team has identified the root cause of the issue and implemented additional safeguards to prevent similar incidents in the future. We take service reliability extremely seriously and understand how disruptive this outage may have been.\n\nAs a gesture of goodwill, we are crediting your account with an amount equivalent to one month of service at no charge. This credit will automatically appear on your next billing statement.\n\nIf you experienced any specific issues related to this outage that you would like to discuss, please don't hesitate to contact our dedicated support line at 1-800-555-0142.",
+  "questions": [
+   {
+    "id": "r030q1",
+    "question": "How long did the service outage last?",
+    "choices": [
+     "Two hours",
+     "Four hours",
+     "Six hours",
+     "A full day"
+    ]
+   },
+   {
+    "id": "r030q2",
+    "question": "What has the company done to address the issue?",
+    "choices": [
+     "Hired new staff",
+     "Implemented additional safeguards",
+     "Changed service providers",
+     "Reduced prices permanently"
+    ]
+   },
+   {
+    "id": "r030q3",
+    "question": "What compensation is being offered to affected customers?",
+    "choices": [
+     "A full refund",
+     "One month of free service credit",
+     "A gift card",
+     "A permanent discount"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r031",
+  "passage": "New Employee Orientation Schedule\n\nWelcome to the team! Your orientation will take place over two days, designed to help you get acquainted with our company culture, policies, and your specific role.\n\nDay 1 will cover company history, an overview of benefits, and a tour of the facilities, starting at 9 AM in Conference Room B. Please bring a valid photo ID for building access setup and any documents required for payroll enrollment.\n\nDay 2 will focus on department-specific training, where you will meet your direct supervisor and team members. This session will begin at 10 AM and typically concludes by 3 PM, depending on your department's specific training requirements.\n\nLunch will be provided on both days. If you have any dietary restrictions, please inform HR in advance so appropriate arrangements can be made.",
+  "questions": [
+   {
+    "id": "r031q1",
+    "question": "What should new employees bring on Day 1?",
+    "choices": [
+     "A laptop",
+     "A valid photo ID",
+     "Business cards",
+     "A resume"
+    ]
+   },
+   {
+    "id": "r031q2",
+    "question": "What is the focus of Day 2?",
+    "choices": [
+     "Company history",
+     "Benefits overview",
+     "Department-specific training",
+     "Building tour"
+    ]
+   },
+   {
+    "id": "r031q3",
+    "question": "What should employees do if they have dietary restrictions?",
+    "choices": [
+     "Bring their own lunch",
+     "Inform HR in advance",
+     "Skip lunch",
+     "Contact the cafeteria"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r032",
+  "passage": "Quarterly Earnings Report Summary\n\nApex Industries reported strong financial results for the second quarter, with revenue increasing 12% year-over-year to $45.2 million. Net profit margins improved to 18%, up from 15% in the same period last year.\n\nThe company's growth was primarily driven by strong demand in its industrial equipment division, which saw a 20% increase in sales. However, the consumer products division experienced a slight decline of 3%, attributed to increased competition in the market.\n\nLooking ahead, management expressed cautious optimism for the remainder of the year, citing ongoing supply chain improvements and plans to launch two new product lines in the fourth quarter. The company also announced a quarterly dividend increase from $0.25 to $0.30 per share.",
+  "questions": [
+   {
+    "id": "r032q1",
+    "question": "What was the company's revenue growth compared to last year?",
+    "choices": [
+     "8%",
+     "10%",
+     "12%",
+     "15%"
+    ]
+   },
+   {
+    "id": "r032q2",
+    "question": "Which division drove the company's growth?",
+    "choices": [
+     "Consumer products",
+     "Industrial equipment",
+     "Software services",
+     "Retail division"
+    ]
+   },
+   {
+    "id": "r032q3",
+    "question": "What is the new quarterly dividend per share?",
+    "choices": [
+     "$0.20",
+     "$0.25",
+     "$0.30",
+     "$0.35"
+    ]
+   }
+  ]
+ }
+]

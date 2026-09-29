@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-c61x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Are we ready for tomorrow's customer webinar? I want to make sure the slides are finalized."
+   },
+   {
+    "speaker": "Woman",
+    "line": "The slides are done, but I still need to test the screen-sharing feature with the new software."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let's do a quick run-through together this afternoon so we can catch any issues early."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Good idea. I'll also send a reminder email to all registered participants before the session."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c61x-q1",
+    "question": "What are the speakers preparing for?",
+    "choices": [
+     "A job interview",
+     "A customer webinar",
+     "A product recall",
+     "An office move"
+    ]
+   },
+   {
+    "id": "l34-c61x-q2",
+    "question": "What does the woman still need to do?",
+    "choices": [
+     "Finish the slides",
+     "Test the screen-sharing feature",
+     "Book a venue",
+     "Print handouts"
+    ]
+   },
+   {
+    "id": "l34-c61x-q3",
+    "question": "What will the man and woman do this afternoon?",
+    "choices": [
+     "Meet with a client",
+     "Do a run-through",
+     "Cancel the webinar",
+     "Redesign the slides"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c62x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Security suggested we install additional cameras near the loading dock. What do you think?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That makes sense, especially since there have been a few reports of missing packages recently."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll get quotes from two vendors and compare installation timelines and pricing."
+   },
+   {
+    "speaker": "Man",
+    "line": "Sounds good. Try to have the cameras installed before the holiday shipping season starts."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c62x-q1",
+    "question": "What is being proposed?",
+    "choices": [
+     "Hiring more security staff",
+     "Installing additional cameras",
+     "Closing the loading dock",
+     "Changing delivery vendors"
+    ]
+   },
+   {
+    "id": "l34-c62x-q2",
+    "question": "Why is this being considered?",
+    "choices": [
+     "A budget surplus",
+     "Reports of missing packages",
+     "A new company policy",
+     "An insurance requirement"
+    ]
+   },
+   {
+    "id": "l34-c62x-q3",
+    "question": "What does the man want to happen before the holiday season?",
+    "choices": [
+     "A staff meeting",
+     "Camera installation completed",
+     "A new vendor contract",
+     "A safety inspection"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c63x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "I keep getting an error message when I try to submit my expense report online."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Other people have reported the same issue this morning. IT thinks it's related to a recent software update."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's frustrating, since my report is due by end of day. Is there a backup way to submit it?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "You can email a scanned copy to the accounting team for now, and resubmit it online once the system is fixed."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c63x-q1",
+    "question": "What problem is the man having?",
+    "choices": [
+     "He forgot his password",
+     "He is getting an error message",
+     "His report was rejected",
+     "His computer crashed"
+    ]
+   },
+   {
+    "id": "l34-c63x-q2",
+    "question": "What does the woman say caused the issue?",
+    "choices": [
+     "A power outage",
+     "A recent software update",
+     "A network attack",
+     "User error"
+    ]
+   },
+   {
+    "id": "l34-c63x-q3",
+    "question": "What alternative does the woman suggest?",
+    "choices": [
+     "Wait until tomorrow",
+     "Email a scanned copy",
+     "Call the accounting team",
+     "Submit a paper form"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c64x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "What do you think of the two package designs the design team sent over for the new lotion?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I like the blue one better. It looks cleaner and matches our brand colors more closely."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I agree, though the green one tested slightly better with focus groups last month."
+   },
+   {
+    "speaker": "Man",
+    "line": "Let's ask the design team to combine the best elements of both before making a final decision."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c64x-q1",
+    "question": "What are the speakers reviewing?",
+    "choices": [
+     "Advertising slogans",
+     "Package designs",
+     "Pricing options",
+     "Store layouts"
+    ]
+   },
+   {
+    "id": "l34-c64x-q2",
+    "question": "Which design does the man prefer?",
+    "choices": [
+     "The green one",
+     "The blue one",
+     "Neither design",
+     "Both equally"
+    ]
+   },
+   {
+    "id": "l34-c64x-q3",
+    "question": "What does the man suggest?",
+    "choices": [
+     "Choosing the green design",
+     "Combining elements of both designs",
+     "Delaying the launch",
+     "Hiring a new designer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c65x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, this is James from Human Resources calling about the interview we scheduled for Thursday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Hi James. Actually, I have a scheduling conflict that day. Would it be possible to move it?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Of course. We have openings on Friday morning or the following Monday afternoon."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Friday morning works well for me. Could you send me the updated details by email?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c65x-q1",
+    "question": "Why is James calling?",
+    "choices": [
+     "To offer the woman a job",
+     "To discuss an interview schedule",
+     "To ask for references",
+     "To cancel an application"
+    ]
+   },
+   {
+    "id": "l34-c65x-q2",
+    "question": "What problem does the woman mention?",
+    "choices": [
+     "She missed the interview",
+     "She has a scheduling conflict",
+     "She lost the job offer",
+     "She forgot the address"
+    ]
+   },
+   {
+    "id": "l34-c65x-q3",
+    "question": "What does the woman ask James to do?",
+    "choices": [
+     "Call her back later",
+     "Send updated details by email",
+     "Reschedule to next month",
+     "Provide directions"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c66x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We need some new photos for next month's newsletter. Can you help set up a small photo shoot?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, when do you need it done by, and do you have a specific theme in mind?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "We're focusing on the new product launch, so photos of the team working on it would be perfect."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'll coordinate with the product team and schedule the shoot for sometime next week."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c66x-q1",
+    "question": "What does the woman need help with?",
+    "choices": [
+     "Writing an article",
+     "Setting up a photo shoot",
+     "Printing the newsletter",
+     "Editing a video"
+    ]
+   },
+   {
+    "id": "l34-c66x-q2",
+    "question": "What theme will the photos focus on?",
+    "choices": [
+     "Company history",
+     "The new product launch",
+     "Employee birthdays",
+     "Office renovations"
+    ]
+   },
+   {
+    "id": "l34-c66x-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Cancel the shoot",
+     "Coordinate with the product team",
+     "Hire a photographer",
+     "Write the newsletter himself"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c67x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "We're scheduled to do the full warehouse inventory count this weekend. Are we still on track?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Mostly, yes, but we're short two staff members since they requested time off."
+   },
+   {
+    "speaker": "Man",
+    "line": "That could slow things down. Should we ask for volunteers from other departments?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a good idea. I'll send an email today asking if anyone is available to help on Saturday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c67x-q1",
+    "question": "What event is scheduled for the weekend?",
+    "choices": [
+     "A staff training",
+     "A warehouse inventory count",
+     "A product launch",
+     "A client visit"
+    ]
+   },
+   {
+    "id": "l34-c67x-q2",
+    "question": "What issue does the woman mention?",
+    "choices": [
+     "Equipment is broken",
+     "Two staff members are unavailable",
+     "The warehouse is closed",
+     "The inventory list is missing"
+    ]
+   },
+   {
+    "id": "l34-c67x-q3",
+    "question": "What will the woman do to solve the problem?",
+    "choices": [
+     "Cancel the inventory count",
+     "Ask for volunteers from other departments",
+     "Hire temporary workers",
+     "Postpone the count to next month"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c68x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hello, this is Lisa from Harmon Supplies. I'm calling to follow up on the quote we sent last week."
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, we received it. We're still comparing it with quotes from two other vendors."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I understand. If it helps, I can offer a slightly better rate if you commit to a six-month contract."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's worth considering. Could you send over the revised quote in writing so I can share it with my team?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c68x-q1",
+    "question": "Why is Lisa calling?",
+    "choices": [
+     "To place a new order",
+     "To follow up on a quote",
+     "To apologize for a delay",
+     "To cancel a contract"
+    ]
+   },
+   {
+    "id": "l34-c68x-q2",
+    "question": "What is the man currently doing?",
+    "choices": [
+     "Comparing quotes from vendors",
+     "Signing a contract",
+     "Requesting a refund",
+     "Reviewing a complaint"
+    ]
+   },
+   {
+    "id": "l34-c68x-q3",
+    "question": "What does Lisa offer?",
+    "choices": [
+     "Free shipping",
+     "A better rate for a six-month contract",
+     "A discount on the first order only",
+     "A product sample"
+    ]
+   }
+  ]
+ }
+]

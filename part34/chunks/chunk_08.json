@@ -1,0 +1,442 @@
+[
+ {
+  "id": "l34-t23n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This is a notice regarding scheduled maintenance to our phone system this weekend."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Starting Saturday at midnight, phone lines will be unavailable for approximately six hours while we upgrade our network equipment."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "During this time, customers can still reach us through our website's live chat feature or by sending an email, and we'll respond as soon as the system is back online."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We expect normal phone service to resume by six in the morning on Sunday."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t23n-q1",
+    "question": "What is happening this weekend?",
+    "choices": [
+     "A store closure.",
+     "Phone system maintenance.",
+     "A company move.",
+     "A price change."
+    ]
+   },
+   {
+    "id": "l34-t23n-q2",
+    "question": "How long will the phone lines be down?",
+    "choices": [
+     "About one hour.",
+     "About six hours.",
+     "About twelve hours.",
+     "The entire weekend."
+    ]
+   },
+   {
+    "id": "l34-t23n-q3",
+    "question": "What alternative contact methods are mentioned?",
+    "choices": [
+     "In-person visits only.",
+     "Live chat and email.",
+     "Fax only.",
+     "Social media only."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t24n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you for stopping by our booth. Let me quickly show you our newest fitness tracker, the FitPulse Two."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Unlike our previous model, it tracks sleep quality in addition to heart rate and steps, and the battery lasts up to ten days on a single charge."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "It will be available in stores starting next month, but everyone who signs up at our booth today will receive an exclusive early-access discount."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you're interested, please leave your email at the sign-up sheet on the table beside me."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t24n-q1",
+    "question": "What product is being introduced?",
+    "choices": [
+     "A smartphone.",
+     "A fitness tracker.",
+     "A laptop.",
+     "A smart speaker."
+    ]
+   },
+   {
+    "id": "l34-t24n-q2",
+    "question": "What new feature does this model have?",
+    "choices": [
+     "Waterproofing.",
+     "Sleep quality tracking.",
+     "A built-in camera.",
+     "Voice control."
+    ]
+   },
+   {
+    "id": "l34-t24n-q3",
+    "question": "How can visitors get an early-access discount?",
+    "choices": [
+     "Buy two products.",
+     "Sign up with their email at the booth.",
+     "Follow the company on social media.",
+     "Answer a quiz correctly."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t25n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "This is an announcement regarding the east parking lot."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The lot will be closed this Thursday and Friday for repaving, so employees who normally park there should use the west lot or the street parking on Grant Avenue instead."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Shuttle service between the west lot and the main building will run every fifteen minutes during business hours."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We apologize for the temporary inconvenience and expect the east lot to reopen Monday morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t25n-q1",
+    "question": "Why is the east parking lot closing?",
+    "choices": [
+     "For a security inspection.",
+     "For repaving.",
+     "Due to flooding.",
+     "For a private event."
+    ]
+   },
+   {
+    "id": "l34-t25n-q2",
+    "question": "What are affected employees advised to do?",
+    "choices": [
+     "Work from home.",
+     "Use the west lot or street parking.",
+     "Carpool only.",
+     "Take public transportation exclusively."
+    ]
+   },
+   {
+    "id": "l34-t25n-q3",
+    "question": "How often will the shuttle run?",
+    "choices": [
+     "Every five minutes.",
+     "Every fifteen minutes.",
+     "Every thirty minutes.",
+     "Every hour."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t26n",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome, everyone, to today's session on effective time management."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Before we begin, please make sure your microphone is muted unless you're asking a question, and feel free to use the chat box for comments throughout."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "This session will last about fifty minutes, and a recording will be sent to all registered participants by tomorrow afternoon."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Let's get started with our first topic: prioritizing daily tasks."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t26n-q1",
+    "question": "What is the topic of the session?",
+    "choices": [
+     "Public speaking.",
+     "Effective time management.",
+     "Financial planning.",
+     "Team building."
+    ]
+   },
+   {
+    "id": "l34-t26n-q2",
+    "question": "What are participants asked to do with their microphones?",
+    "choices": [
+     "Keep them on at all times.",
+     "Mute them unless asking a question.",
+     "Turn them off completely.",
+     "Test them before starting."
+    ]
+   },
+   {
+    "id": "l34-t26n-q3",
+    "question": "What will be sent to participants tomorrow?",
+    "choices": [
+     "A certificate.",
+     "A recording of the session.",
+     "A survey.",
+     "A discount code."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c35m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi Susan, I just submitted my travel expense report from last week's trip to Chicago. Could you take a look when you get a chance?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Sure, let me pull it up... I see the hotel and the flight, but I don't see a receipt for the taxi rides."
+   },
+   {
+    "speaker": "Man",
+    "line": "Oh, I must have forgotten to attach those. I'll scan them and email you copies this afternoon."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That would be great. Also, the total for meals looks a little high — could you double check it against the daily limit?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, I'll go over it again and send you a corrected version by tomorrow morning."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c35m-q1",
+    "question": "What is missing from the man's expense report?",
+    "choices": [
+     "A hotel invoice",
+     "A flight itinerary",
+     "Taxi receipts",
+     "A meal menu"
+    ]
+   },
+   {
+    "id": "l34-c35m-q2",
+    "question": "What does the woman ask the man to check?",
+    "choices": [
+     "Whether the flight was refunded",
+     "Whether the meal total matches the daily limit",
+     "Whether the hotel was booked correctly",
+     "Whether the taxi fare was too low"
+    ]
+   },
+   {
+    "id": "l34-c35m-q3",
+    "question": "What will the man most likely do next?",
+    "choices": [
+     "Cancel the trip",
+     "Ask for a refund",
+     "Send a corrected report",
+     "Book another flight"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c36m",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I finally got the catalog from the furniture supplier for the new desks and chairs."
+   },
+   {
+    "speaker": "Man",
+    "line": "Great. Did they include pricing for the standing desks we asked about?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, but they're about twenty percent more than the fixed-height ones. I think we should order a mix instead of switching everyone over."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds reasonable. Can you put together a proposal with the numbers and send it to the finance team before Friday?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I can do that. I'll also ask if they can send us a few samples to try out first."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c36m-q1",
+    "question": "What did the woman receive?",
+    "choices": [
+     "A furniture catalog",
+     "An invoice",
+     "A building permit",
+     "A job application"
+    ]
+   },
+   {
+    "id": "l34-c36m-q2",
+    "question": "What does the woman suggest?",
+    "choices": [
+     "Ordering only standing desks",
+     "Ordering a mix of desk types",
+     "Canceling the order",
+     "Waiting until next year"
+    ]
+   },
+   {
+    "id": "l34-c36m-q3",
+    "question": "What will the woman probably request from the supplier?",
+    "choices": [
+     "A discount code",
+     "A longer warranty",
+     "Sample furniture",
+     "A refund"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c37m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Are you having trouble sending emails too? Mine have been stuck in the outbox for the last hour."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I noticed the same thing. I already reported it to the IT help desk, and they said the mail server is being restarted."
+   },
+   {
+    "speaker": "Man",
+    "line": "Do they know how long it will take? I have a client waiting for a contract."
+   },
+   {
+    "speaker": "Woman",
+    "line": "They estimated about thirty minutes. In the meantime, you could try sending it from your phone using the mobile app."
+   },
+   {
+    "speaker": "Man",
+    "line": "Good idea. I'll try that now so the client doesn't have to wait too long."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c37m-q1",
+    "question": "What problem are the speakers discussing?",
+    "choices": [
+     "A printer malfunction",
+     "An email delay",
+     "A broken elevator",
+     "A canceled meeting"
+    ]
+   },
+   {
+    "id": "l34-c37m-q2",
+    "question": "What has the woman already done?",
+    "choices": [
+     "Fixed the server herself",
+     "Contacted the IT help desk",
+     "Called the client",
+     "Reset her password"
+    ]
+   },
+   {
+    "id": "l34-c37m-q3",
+    "question": "What does the woman suggest the man do?",
+    "choices": [
+     "Wait until tomorrow",
+     "Cancel the contract",
+     "Use the mobile app to send the email",
+     "Print the contract instead"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c38m",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Thanks for meeting with us, Ms. Alvarez. We wanted to talk about renewing our supply contract for next year."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Of course. Before we go further, I should mention that our shipping costs have gone up, so we'll need to raise prices by about five percent."
+   },
+   {
+    "speaker": "Man",
+    "line": "I understand costs have changed, but that increase is higher than we budgeted for. Would you consider three percent instead?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I can bring that to my manager and see if we can meet somewhere in the middle. Let me get back to you by Wednesday."
+   },
+   {
+    "speaker": "Man",
+    "line": "That works for us. We'd really like to keep working with your company."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c38m-q1",
+    "question": "What is the purpose of the meeting?",
+    "choices": [
+     "To end the contract",
+     "To renew a supply contract",
+     "To hire a new supplier",
+     "To discuss a product recall"
+    ]
+   },
+   {
+    "id": "l34-c38m-q2",
+    "question": "Why does the woman want to raise prices?",
+    "choices": [
+     "Shipping costs increased",
+     "Demand has dropped",
+     "The product was redesigned",
+     "A new tax was introduced"
+    ]
+   },
+   {
+    "id": "l34-c38m-q3",
+    "question": "What will the woman most likely do next?",
+    "choices": [
+     "Sign the contract immediately",
+     "Discuss the request with her manager",
+     "Cancel the meeting",
+     "Lower the price by ten percent"
+    ]
+   }
+  ]
+ }
+]

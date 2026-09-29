@@ -1,0 +1,290 @@
+[
+ {
+  "id": "r033",
+  "passage": "Reservation Confirmation - Grandview Hotel\n\nDear Ms. Rodriguez,\n\nThank you for choosing Grandview Hotel for your upcoming stay. This email confirms your reservation details below.\n\nCheck-in: Friday, 3:00 PM\nCheck-out: Sunday, 11:00 AM\nRoom Type: Deluxe King Room with City View\nRate: $189 per night (2 nights total: $378, plus applicable taxes)\n\nYour reservation includes complimentary breakfast each morning, served in the main dining room from 7 AM to 10 AM. Early check-in may be available upon request, subject to room availability on the day of arrival.\n\nPlease note that cancellations made less than 48 hours before check-in will incur a fee equivalent to one night's stay. We look forward to welcoming you to Grandview Hotel.",
+  "questions": [
+   {
+    "id": "r033q1",
+    "question": "What is included with the room reservation?",
+    "choices": [
+     "Airport shuttle",
+     "Complimentary breakfast",
+     "Spa access",
+     "Late checkout"
+    ]
+   },
+   {
+    "id": "r033q2",
+    "question": "What is the total cost for the stay before taxes?",
+    "choices": [
+     "$189",
+     "$378",
+     "$400",
+     "$567"
+    ]
+   },
+   {
+    "id": "r033q3",
+    "question": "What happens if a cancellation is made less than 48 hours before check-in?",
+    "choices": [
+     "No fee is charged",
+     "A fee equal to one night's stay applies",
+     "The entire stay must be paid",
+     "The reservation is automatically extended"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r034",
+  "passage": "Company Announcement: New Sustainability Initiative\n\nWe are proud to announce the launch of our new company-wide sustainability initiative, aimed at reducing our environmental footprint over the next five years.\n\nKey goals include reducing paper usage by 50% through increased digital documentation, transitioning our vehicle fleet to electric or hybrid models, and achieving carbon neutrality at all office locations by installing solar panels and improving energy efficiency.\n\nEmployees are encouraged to participate by using reusable containers in the break room, opting for digital signatures instead of printed documents, and taking part in our new recycling program, which will be rolled out to all departments next month.\n\nWe will provide quarterly updates on our progress toward these goals through the company newsletter. Together, we can make a meaningful impact on our environment.",
+  "questions": [
+   {
+    "id": "r034q1",
+    "question": "What is one goal of the sustainability initiative?",
+    "choices": [
+     "Increasing paper usage",
+     "Reducing paper usage by 50%",
+     "Eliminating the vehicle fleet",
+     "Closing office locations"
+    ]
+   },
+   {
+    "id": "r034q2",
+    "question": "How will the company achieve carbon neutrality?",
+    "choices": [
+     "By buying carbon credits",
+     "By installing solar panels and improving energy efficiency",
+     "By closing offices",
+     "By reducing staff"
+    ]
+   },
+   {
+    "id": "r034q3",
+    "question": "When will the recycling program be introduced to all departments?",
+    "choices": [
+     "Immediately",
+     "Next month",
+     "Next quarter",
+     "Next year"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r035",
+  "passage": "Job Posting: Software Engineer\n\nCloudPeak Technologies is seeking a talented Software Engineer to join our backend development team. The successful candidate will design, develop, and maintain scalable web applications used by millions of users worldwide.\n\nRequired qualifications include a bachelor's degree in Computer Science or a related field, at least three years of professional experience with Python or Java, and familiarity with cloud platforms such as AWS or Azure. Experience with database management systems is a strong plus.\n\nThis is a full-time, remote-friendly position, though candidates within commuting distance of our San Francisco office are welcome to work on-site. The salary range for this position is $95,000 to $125,000, depending on experience, along with stock options and comprehensive benefits.\n\nQualified candidates should submit their resume and a portfolio of relevant projects to careers@cloudpeak.com.",
+  "questions": [
+   {
+    "id": "r035q1",
+    "question": "What programming languages are mentioned as required experience?",
+    "choices": [
+     "JavaScript and C++",
+     "Python or Java",
+     "Ruby and PHP",
+     "Swift and Kotlin"
+    ]
+   },
+   {
+    "id": "r035q2",
+    "question": "What is the salary range for this position?",
+    "choices": [
+     "$75,000 to $95,000",
+     "$85,000 to $105,000",
+     "$95,000 to $125,000",
+     "$100,000 to $150,000"
+    ]
+   },
+   {
+    "id": "r035q3",
+    "question": "What should candidates submit along with their resume?",
+    "choices": [
+     "A cover letter",
+     "References",
+     "A portfolio of relevant projects",
+     "A writing sample"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r036",
+  "passage": "Store Closure Notice: Renovation in Progress\n\nDear Valued Customers,\n\nOur downtown location will be temporarily closed from the 5th to the 19th of this month for a complete store renovation. We are upgrading our facilities to provide you with an improved shopping experience, including a new layout, updated fitting rooms, and expanded product displays.\n\nDuring this period, our online store remains fully operational, and customers can also visit our westside location, which will maintain regular business hours throughout the renovation.\n\nWe apologize for any inconvenience this closure may cause. To thank our loyal customers for their patience, we will be offering an exclusive 25% discount for the first week after we reopen. Follow us on social media for updates on our grand reopening celebration.",
+  "questions": [
+   {
+    "id": "r036q1",
+    "question": "How long will the downtown store be closed?",
+    "choices": [
+     "One week",
+     "Two weeks",
+     "Three weeks",
+     "One month"
+    ]
+   },
+   {
+    "id": "r036q2",
+    "question": "Where can customers shop during the renovation?",
+    "choices": [
+     "Nowhere until reopening",
+     "Online or at the westside location",
+     "Only online",
+     "A temporary pop-up store"
+    ]
+   },
+   {
+    "id": "r036q3",
+    "question": "What is being offered after the store reopens?",
+    "choices": [
+     "Free gifts",
+     "A 25% discount for one week",
+     "Extended hours",
+     "Free shipping"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r037",
+  "passage": "Announcing Our New Employee Recognition Program\n\nWe are excited to introduce \"Spotlight,\" our new peer-to-peer employee recognition program, designed to celebrate outstanding contributions across all departments.\n\nStarting next month, all employees will be able to nominate colleagues who demonstrate exceptional teamwork, innovation, or customer service through a simple online form. Nominations will be reviewed monthly by a rotating panel of department heads.\n\nWinners will receive a $200 gift card, a reserved parking spot for the following month, and recognition in the company newsletter. Additionally, all nominees, regardless of whether they win, will receive a personalized thank-you note from leadership.\n\nWe believe this program will help foster a culture of appreciation and encourage employees to recognize the hard work happening throughout the organization every day.",
+  "questions": [
+   {
+    "id": "r037q1",
+    "question": "How can employees nominate a colleague?",
+    "choices": [
+     "By email",
+     "Through an online form",
+     "By speaking to HR",
+     "Through a suggestion box"
+    ]
+   },
+   {
+    "id": "r037q2",
+    "question": "What does the winner receive besides a gift card?",
+    "choices": [
+     "An extra vacation day",
+     "A reserved parking spot",
+     "A bonus paycheck",
+     "A promotion"
+    ]
+   },
+   {
+    "id": "r037q3",
+    "question": "What happens to nominees who don't win?",
+    "choices": [
+     "Nothing",
+     "They receive a thank-you note",
+     "They are automatically nominated next month",
+     "They receive a smaller gift card"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r038",
+  "passage": "Bicycle Parking Facility Guidelines\n\nAs part of our commitment to sustainable commuting options, we have expanded our bicycle parking facility located at the rear entrance of the building. The updated facility now accommodates up to 50 bicycles, doubling our previous capacity.\n\nEmployees who wish to use the bicycle parking area must register their bicycle with the front desk to receive an access card. This helps us maintain security and ensures that only authorized users have access to the facility.\n\nThe facility includes secure locking stations, a repair station equipped with basic tools, and shower facilities are available on the second floor for employees who commute by bike. Access is available 24 hours a day using your registered access card.\n\nWe hope this expanded facility encourages more employees to consider cycling as an alternative commuting option.",
+  "questions": [
+   {
+    "id": "r038q1",
+    "question": "How many bicycles can the updated facility accommodate?",
+    "choices": [
+     "25",
+     "30",
+     "50",
+     "75"
+    ]
+   },
+   {
+    "id": "r038q2",
+    "question": "What must employees do to use the facility?",
+    "choices": [
+     "Pay a monthly fee",
+     "Register their bicycle with the front desk",
+     "Attend a safety course",
+     "Provide a deposit"
+    ]
+   },
+   {
+    "id": "r038q3",
+    "question": "Where are shower facilities located?",
+    "choices": [
+     "First floor",
+     "Second floor",
+     "Basement",
+     "Rooftop"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r039",
+  "passage": "Subscription Cancellation Confirmation\n\nDear Subscriber,\n\nWe have received your request to cancel your StreamPlus subscription, and we're sorry to see you go. Your cancellation has been processed, and you will retain access to all StreamPlus content until the end of your current billing cycle on the 15th of this month.\n\nNo further charges will be made to your payment method after this date. If you change your mind, you can easily reactivate your subscription at any time before or after this date through your account settings.\n\nWe would appreciate any feedback about your experience with our service. If you have a moment, please consider completing our brief exit survey to help us improve.\n\nThank you for being a StreamPlus subscriber. We hope to welcome you back in the future.",
+  "questions": [
+   {
+    "id": "r039q1",
+    "question": "Until when will the subscriber have access to content?",
+    "choices": [
+     "Immediately, access ends today",
+     "The end of the current billing cycle",
+     "One week from now",
+     "Access continues indefinitely"
+    ]
+   },
+   {
+    "id": "r039q2",
+    "question": "What can the subscriber do if they change their mind?",
+    "choices": [
+     "Nothing, cancellation is final",
+     "Reactivate through account settings",
+     "Call customer service only",
+     "Wait for a renewal offer"
+    ]
+   },
+   {
+    "id": "r039q3",
+    "question": "What is the subscriber asked to consider doing?",
+    "choices": [
+     "Renewing immediately",
+     "Completing an exit survey",
+     "Contacting a manager",
+     "Writing a review"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r040",
+  "passage": "Factory Safety Guidelines Reminder\n\nAll personnel entering the production floor must comply with the following safety guidelines at all times. Failure to follow these guidelines may result in disciplinary action.\n\nProtective equipment, including safety glasses, steel-toed boots, and hearing protection, must be worn at all times while on the production floor. Visitors must be accompanied by an authorized employee and must also wear the required protective equipment.\n\nAll machinery must be inspected before use, and any malfunctions should be reported immediately to the shift supervisor. Do not attempt to repair equipment unless you are specifically trained and authorized to do so.\n\nIn the event of an emergency, proceed calmly to the nearest marked exit and gather at the designated assembly point in the parking lot. Do not use elevators during a fire emergency.",
+  "questions": [
+   {
+    "id": "r040q1",
+    "question": "What must all personnel wear on the production floor?",
+    "choices": [
+     "A uniform only",
+     "Protective equipment",
+     "A visitor badge",
+     "Casual clothing"
+    ]
+   },
+   {
+    "id": "r040q2",
+    "question": "What should be done if machinery malfunctions?",
+    "choices": [
+     "Ignore it and continue working",
+     "Report it immediately to the shift supervisor",
+     "Fix it yourself",
+     "Turn off all machines"
+    ]
+   },
+   {
+    "id": "r040q3",
+    "question": "What should NOT be used during a fire emergency?",
+    "choices": [
+     "Stairs",
+     "Marked exits",
+     "Elevators",
+     "The assembly point"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,470 @@
+[
+ {
+  "id": "l34-c15",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Thanks for meeting with me today. I wanted to discuss the quote you sent for the office chairs — the price is a bit higher than our budget allows."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I understand. If you're able to order more than fifty units, I can offer a ten percent discount on the total."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's helpful, but we were only planning to order thirty for now, with more possibly next quarter."
+   },
+   {
+    "speaker": "Woman",
+    "line": "In that case, I could offer a smaller discount now and apply the full ten percent once your next order brings the total past fifty units."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds fair. Could you send over a revised quote reflecting that arrangement?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c15-q1",
+    "question": "Why did the man request the meeting?",
+    "choices": [
+     "To cancel an order.",
+     "To negotiate a price.",
+     "To report a delivery problem.",
+     "To request a product catalog."
+    ]
+   },
+   {
+    "id": "l34-c15-q2",
+    "question": "What does the woman offer for orders over fifty units?",
+    "choices": [
+     "Free installation.",
+     "A ten percent discount.",
+     "Extended warranty.",
+     "Priority shipping."
+    ]
+   },
+   {
+    "id": "l34-c15-q3",
+    "question": "What does the man ask the woman to send?",
+    "choices": [
+     "A product sample.",
+     "A revised quote.",
+     "A shipping schedule.",
+     "A contract template."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c16",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "I heard we might be moving to the new building downtown next spring. Do you know anything about the timeline?"
+   },
+   {
+    "speaker": "Man",
+    "line": "From what I've heard, the lease starts in March, but we probably won't move in until early April so the new space can be set up."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's not too far off. Will each department keep the same layout, or will things be rearranged?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Management mentioned an open-plan layout this time, with fewer private offices. There will be a meeting next week where they'll share the full floor plan."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll make sure to attend that. Thanks for the update."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c16-q1",
+    "question": "What are the speakers mainly discussing?",
+    "choices": [
+     "A company merger.",
+     "An office relocation.",
+     "A new hiring policy.",
+     "A budget cut."
+    ]
+   },
+   {
+    "id": "l34-c16-q2",
+    "question": "When will the move likely take place?",
+    "choices": [
+     "This month.",
+     "Early April.",
+     "Next December.",
+     "In two years."
+    ]
+   },
+   {
+    "id": "l34-c16-q3",
+    "question": "What will happen next week?",
+    "choices": [
+     "The lease will be signed.",
+     "A meeting about the floor plan.",
+     "Furniture will be delivered.",
+     "The old office will close."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c17",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, I'm here to register for the marketing conference. I registered online, but I don't have my confirmation printed."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's no problem — could I have your name so I can look it up in our system?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, it's Kevin Park, from Bluewave Media."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Found it. Here's your badge and a program schedule. The morning keynote starts in fifteen minutes in the main hall."
+   },
+   {
+    "speaker": "Man",
+    "line": "Perfect timing. Is there somewhere I can leave my bag during the sessions?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, there's a coat check just past the registration desk, to your right."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c17-q1",
+    "question": "What problem does the man have?",
+    "choices": [
+     "He lost his ticket.",
+     "He forgot to print his confirmation.",
+     "He arrived at the wrong venue.",
+     "He missed the keynote."
+    ]
+   },
+   {
+    "id": "l34-c17-q2",
+    "question": "What does the woman give the man?",
+    "choices": [
+     "A refund.",
+     "A badge and schedule.",
+     "A parking pass.",
+     "A meal voucher."
+    ]
+   },
+   {
+    "id": "l34-c17-q3",
+    "question": "Where can the man leave his bag?",
+    "choices": [
+     "In the main hall.",
+     "At the coat check near the desk.",
+     "In his car.",
+     "At the hotel front desk."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c18",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Good morning. I'd like to open a business account for my new consulting company."
+   },
+   {
+    "speaker": "Man",
+    "line": "Of course. Do you already have your business registration documents with you?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, I brought both the registration certificate and my ID. What else will I need?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That should be enough to get started today. You'll also need to make an initial deposit of at least two hundred dollars to activate the account."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's fine. How long before I can start using the account for transactions?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Once everything is processed, it usually takes about one business day before the account is fully active."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c18-q1",
+    "question": "What does the woman want to do?",
+    "choices": [
+     "Apply for a loan.",
+     "Open a business account.",
+     "Close an account.",
+     "Report a lost card."
+    ]
+   },
+   {
+    "id": "l34-c18-q2",
+    "question": "What is required to activate the account?",
+    "choices": [
+     "A monthly fee.",
+     "An initial deposit of at least two hundred dollars.",
+     "A co-signer.",
+     "A credit check."
+    ]
+   },
+   {
+    "id": "l34-c18-q3",
+    "question": "How long will it take for the account to become active?",
+    "choices": [
+     "Immediately.",
+     "About one business day.",
+     "One week.",
+     "One month."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c19",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "I noticed a notice about a system update happening this weekend. Will it affect our access to the shared drive?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, actually. The servers will be down from Saturday night through Sunday morning, so you won't be able to access shared files during that time."
+   },
+   {
+    "speaker": "Man",
+    "line": "I have a deadline on Monday, so I should probably download the files I need before then."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a good idea. I'd recommend saving copies locally by Friday evening, just to be safe in case the update takes longer than planned."
+   },
+   {
+    "speaker": "Man",
+    "line": "Will you send a reminder email to the whole team about this?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I already sent one this morning, but I'll send a follow-up on Friday as well."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c19-q1",
+    "question": "What will happen this weekend?",
+    "choices": [
+     "A company party.",
+     "A system update.",
+     "An office inspection.",
+     "A staff meeting."
+    ]
+   },
+   {
+    "id": "l34-c19-q2",
+    "question": "What does the woman recommend the man do?",
+    "choices": [
+     "Work from home.",
+     "Save files locally by Friday.",
+     "Cancel his deadline.",
+     "Contact IT support."
+    ]
+   },
+   {
+    "id": "l34-c19-q3",
+    "question": "What will the woman do on Friday?",
+    "choices": [
+     "Restart the servers.",
+     "Send a follow-up reminder email.",
+     "Meet with the IT team.",
+     "Update the shared drive."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c20",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Did you see the results from last month's employee satisfaction survey? Overall scores went up compared to last year."
+   },
+   {
+    "speaker": "Man",
+    "line": "I did. It looks like the biggest improvement was in the flexible working hours category."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Right, but communication between departments was actually rated lower than before. I think we need to address that in the next planning meeting."
+   },
+   {
+    "speaker": "Man",
+    "line": "Agreed. Maybe we could set up regular cross-department meetings, or at least a shared newsletter to keep everyone updated."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Both are good ideas. Let's put together a short proposal before Thursday's meeting."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c20-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A budget report.",
+     "Survey results.",
+     "A hiring plan.",
+     "A customer complaint."
+    ]
+   },
+   {
+    "id": "l34-c20-q2",
+    "question": "What area received a lower score than before?",
+    "choices": [
+     "Flexible working hours.",
+     "Communication between departments.",
+     "Office cleanliness.",
+     "Salary satisfaction."
+    ]
+   },
+   {
+    "id": "l34-c20-q3",
+    "question": "What will the speakers do before Thursday?",
+    "choices": [
+     "Interview new employees.",
+     "Put together a short proposal.",
+     "Publish the survey results.",
+     "Cancel the planning meeting."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c21",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Excuse me, I think there's been a mistake — someone else's car is parked in my assigned spot, number fourteen."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'm sorry about that. Let me check the parking assignment list... it looks like a visitor was mistakenly given that spot for today."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's fine, mistakes happen, but is there another spot I can use for now?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, spot twenty-two on the lower level is currently empty — you're welcome to use that today, and I'll make sure this doesn't happen again."
+   },
+   {
+    "speaker": "Man",
+    "line": "Thank you, I appreciate it."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c21-q1",
+    "question": "What is the man's problem?",
+    "choices": [
+     "His parking pass expired.",
+     "His assigned spot is occupied.",
+     "His car was towed.",
+     "He lost his parking pass."
+    ]
+   },
+   {
+    "id": "l34-c21-q2",
+    "question": "Why is the man's spot occupied?",
+    "choices": [
+     "It was reassigned permanently.",
+     "A visitor was mistakenly given the spot.",
+     "The lot is under repair.",
+     "The man arrived late."
+    ]
+   },
+   {
+    "id": "l34-c21-q3",
+    "question": "What does the woman suggest?",
+    "choices": [
+     "Using a spot on the lower level.",
+     "Parking on the street.",
+     "Waiting until the visitor leaves.",
+     "Taking public transportation instead."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c22",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We need to finalize the venue for this year's year-end party. Have you gotten quotes from any restaurants yet?"
+   },
+   {
+    "speaker": "Man",
+    "line": "I checked three places. The one downtown near the station has the best price, but it can only seat forty people, and we have around sixty attending."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That won't work then. What about the hotel banquet hall we used two years ago?"
+   },
+   {
+    "speaker": "Man",
+    "line": "That's an option, but it's about twenty percent more expensive than our budget this year. I could ask if they offer any discount for a weekday event."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Please do, and let's decide by the end of this week so we can send out invitations."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c22-q1",
+    "question": "What are the speakers planning?",
+    "choices": [
+     "A product launch.",
+     "A year-end party.",
+     "A training workshop.",
+     "A client dinner."
+    ]
+   },
+   {
+    "id": "l34-c22-q2",
+    "question": "Why is the downtown restaurant not suitable?",
+    "choices": [
+     "It is too expensive.",
+     "It cannot seat enough people.",
+     "It is too far away.",
+     "It is fully booked."
+    ]
+   },
+   {
+    "id": "l34-c22-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Cancel the event.",
+     "Ask about a weekday discount.",
+     "Book the downtown restaurant.",
+     "Increase the budget."
+    ]
+   }
+  ]
+ }
+]

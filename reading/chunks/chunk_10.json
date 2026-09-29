@@ -1,0 +1,458 @@
+[
+ {
+  "id": "r073",
+  "passage": "You're Invited: Aurora Tech Product Launch Event\n\nDate: Thursday, September 18th\nTime: 6:00 PM – 8:30 PM\nLocation: Aurora Tech Headquarters, Innovation Hall\n\nJoin us as we unveil our newest product line, including the Aurora Smart Speaker and Aurora Home Hub. The evening will include live product demonstrations, refreshments, and a Q&A session with our product design team.\n\nSeating is limited to 150 guests. Please RSVP by September 10th at rsvp@auroratech.com. Business casual attire is suggested. Parking is available in the Innovation Hall garage; please mention this event to the attendant for a validated pass.\n\nWe look forward to sharing this exciting milestone with you.",
+  "passage2": "To: rsvp@auroratech.com\nFrom: c.delgado@bayviewretail.com\nSubject: RE: Aurora Tech Product Launch Event\n\nHello,\n\nThank you for the invitation to the product launch event on September 18th. I would be delighted to attend and will be bringing one colleague from our purchasing team, if that is permitted.\n\nCould you please confirm whether an additional guest can be accommodated, given that seating is limited? We are especially interested in the Q&A session, as we would like to ask about the Aurora Home Hub's compatibility with existing smart home systems.\n\nPlease let me know if there is anything we should prepare in advance, and thank you again for the invitation.\n\nBest regards,\nCarla Delgado\nBayview Retail",
+  "questions": [
+   {
+    "id": "r073q1",
+    "question": "What will guests be able to do at the event?",
+    "choices": [
+     "Purchase products at a discount",
+     "See live product demonstrations and ask questions",
+     "Tour the manufacturing facility",
+     "Meet the company's investors"
+    ]
+   },
+   {
+    "id": "r073q2",
+    "question": "By when should guests RSVP?",
+    "choices": [
+     "September 10th",
+     "September 18th",
+     "August 30th",
+     "The day of the event"
+    ]
+   },
+   {
+    "id": "r073q3",
+    "question": "What does Ms. Delgado ask about in her email?",
+    "choices": [
+     "Whether parking is available",
+     "Whether she can bring an additional guest",
+     "Whether the event has been cancelled",
+     "Whether attire is formal"
+    ]
+   },
+   {
+    "id": "r073q4",
+    "question": "Why is Ms. Delgado's request potentially difficult to accommodate?",
+    "choices": [
+     "The event has already ended",
+     "Seating is limited to 150 guests",
+     "The event requires formal attire",
+     "Parking is not available"
+    ]
+   },
+   {
+    "id": "r073q5",
+    "question": "What is Ms. Delgado particularly interested in learning about?",
+    "choices": [
+     "Pricing of the Aurora Smart Speaker",
+     "The Aurora Home Hub's compatibility with existing smart home systems",
+     "The company's hiring plans",
+     "Parking validation"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r074",
+  "passage": "To: All Staff\nFrom: Finance Department\nSubject: Updated Business Travel Policy\n\nEffective November 1st, we are updating our business travel reimbursement policy. Employees traveling for business purposes should note the following changes:\n\n- Daily meal allowance increases from $40 to $55\n- Hotel bookings must now be made through our approved travel portal to qualify for reimbursement\n- Receipts for expenses over $25 must be submitted within 14 days of returning from the trip (previously 30 days)\n\nThese changes are intended to simplify the reimbursement process while ensuring better tracking of travel expenses. Employees with trips already booked before November 1st will be reimbursed under the previous policy.\n\nPlease direct any questions to the Finance Department.",
+  "passage2": "To: finance@northfieldco.com\nFrom: d.reyes@northfieldco.com\nSubject: Question about New Travel Policy\n\nHello,\n\nI read the memo about the updated travel policy and have a quick question. I booked a hotel for a trip in early November through a third-party website before the new policy was announced, and my trip is scheduled for November 8th-10th.\n\nSince my booking was already made before November 1st but the actual trip takes place after that date, which policy applies to my hotel reimbursement? I want to make sure I follow the correct receipt submission deadline as well.\n\nThank you for clarifying.\n\nBest,\nDaniel Reyes",
+  "questions": [
+   {
+    "id": "r074q1",
+    "question": "What is one change to the meal allowance?",
+    "choices": [
+     "It decreases from $55 to $40",
+     "It increases from $40 to $55",
+     "It is eliminated entirely",
+     "It only applies to international trips"
+    ]
+   },
+   {
+    "id": "r074q2",
+    "question": "What is now required for hotel bookings to be reimbursed?",
+    "choices": [
+     "Booking through the approved travel portal",
+     "Booking at least 30 days in advance",
+     "Staying at a partner hotel chain",
+     "Getting manager approval by phone"
+    ]
+   },
+   {
+    "id": "r074q3",
+    "question": "What is Mr. Reyes uncertain about?",
+    "choices": [
+     "How much his meal allowance will be",
+     "Which policy applies to his hotel booking",
+     "Where to submit his receipts",
+     "Whether his trip has been approved"
+    ]
+   },
+   {
+    "id": "r074q4",
+    "question": "What is notable about how Mr. Reyes booked his hotel?",
+    "choices": [
+     "He booked through the approved travel portal",
+     "He booked through a third-party website before the new policy began",
+     "He has not booked a hotel yet",
+     "He booked after November 1st"
+    ]
+   },
+   {
+    "id": "r074q5",
+    "question": "Based on the memo, which policy would likely apply to trips booked before November 1st?",
+    "choices": [
+     "The new policy, with no exceptions",
+     "The previous policy",
+     "No reimbursement will be given",
+     "Only the receipt deadline changes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r075",
+  "passage": "Leadership Excellence Seminar – One-Day Intensive Workshop\n\nPresented by Vantage Point Training\n\nDate: Friday, October 24th\nTime: 9:00 AM – 4:00 PM\nLocation: Meridian Conference Center, Room 302\n\nThis seminar is designed for new and aspiring managers who want to build practical leadership skills. Topics covered include effective delegation, giving constructive feedback, conflict resolution, and running productive meetings.\n\nThe workshop includes a printed workbook, lunch, and a certificate of completion. Early bird pricing is $180 per person if registered by October 10th; the regular price is $220 after that date. Group discounts of 15% are available for companies registering four or more employees.\n\nTo register, visit our website or call (555) 019-2837.",
+  "passage2": "To: info@vantagepointtraining.com\nFrom: hr@crestlinegroup.com\nSubject: Group Registration Inquiry\n\nHello,\n\nI am reaching out on behalf of Crestline Group regarding the Leadership Excellence Seminar on October 24th. We would like to register five employees from our operations department who have recently been promoted to supervisory roles.\n\nSince we are registering more than four people, I understand we qualify for the group discount. However, we will not be able to complete registration until October 15th, as we are still finalizing internal approvals.\n\nCould you let us know if the group discount would still apply after the early bird deadline, and whether there is a deadline for group registrations specifically?\n\nThank you for your assistance.\n\nRegards,\nHR Department, Crestline Group",
+  "questions": [
+   {
+    "id": "r075q1",
+    "question": "Who is the seminar designed for?",
+    "choices": [
+     "Senior executives only",
+     "New and aspiring managers",
+     "Human resources staff exclusively",
+     "Customer service representatives"
+    ]
+   },
+   {
+    "id": "r075q2",
+    "question": "What does the workshop fee include?",
+    "choices": [
+     "Hotel accommodation",
+     "A printed workbook, lunch, and a certificate of completion",
+     "Transportation to the venue",
+     "A one-year training subscription"
+    ]
+   },
+   {
+    "id": "r075q3",
+    "question": "How many employees does Crestline Group want to register?",
+    "choices": [
+     "Three",
+     "Four",
+     "Five",
+     "Fifteen"
+    ]
+   },
+   {
+    "id": "r075q4",
+    "question": "Why might Crestline Group not receive the early bird price?",
+    "choices": [
+     "They are registering too few people",
+     "They will not complete registration until after October 10th",
+     "They are not eligible for any discount",
+     "The seminar is already full"
+    ]
+   },
+   {
+    "id": "r075q5",
+    "question": "What discount does Crestline Group believe it qualifies for?",
+    "choices": [
+     "The early bird discount",
+     "The group discount for four or more employees",
+     "A student discount",
+     "A returning customer discount"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r076",
+  "passage": "PRODUCT RECALL NOTICE\n\nProduct: HomeSafe Model X200 Space Heater\nIssued by: HomeSafe Appliances\n\nHomeSafe Appliances is voluntarily recalling the Model X200 Space Heater due to a potential wiring defect that could pose a fire hazard under certain conditions. This recall affects units sold between January and June of this year with serial numbers starting with \"X200-A.\"\n\nCustomers who own an affected unit should stop using it immediately and contact HomeSafe customer support to arrange a free repair or a full refund. Do not attempt to repair the unit yourself.\n\nTo check whether your unit is affected, locate the serial number on the bottom of the device and visit our website's recall lookup tool, or call our recall hotline at 1-800-555-0142.\n\nWe apologize for any inconvenience this may cause and appreciate your prompt attention to this important safety notice.",
+  "passage2": "To: recall@homesafeappliances.com\nFrom: j.oconnell@fastmail.com\nSubject: Recall Question – Model X200\n\nHello,\n\nI saw the recall notice for the Model X200 Space Heater and checked my unit's serial number, which is X200-A4471. Based on the notice, it appears my heater is affected.\n\nI purchased the unit in March, and it has worked fine so far, but I understand I should stop using it. I would prefer a refund rather than a repair, since I have already purchased a replacement heater from another brand.\n\nCould you let me know what steps I need to take to receive a refund, and whether I need to return the unit or simply provide proof of purchase?\n\nThank you,\nJamie O'Connell",
+  "questions": [
+   {
+    "id": "r076q1",
+    "question": "Why is HomeSafe Appliances recalling the Model X200?",
+    "choices": [
+     "A battery malfunction",
+     "A potential wiring defect that could cause a fire",
+     "Incorrect labeling",
+     "A software error"
+    ]
+   },
+   {
+    "id": "r076q2",
+    "question": "What should customers with an affected unit do first?",
+    "choices": [
+     "Repair the unit themselves",
+     "Continue using it until a replacement arrives",
+     "Stop using it immediately",
+     "Sell it to another customer"
+    ]
+   },
+   {
+    "id": "r076q3",
+    "question": "Is Mr. O'Connell's heater affected by the recall?",
+    "choices": [
+     "No, because it was purchased in March",
+     "Yes, because its serial number starts with X200-A",
+     "It is unclear from the information given",
+     "No, because he has not used it"
+    ]
+   },
+   {
+    "id": "r076q4",
+    "question": "What does Mr. O'Connell prefer instead of a repair?",
+    "choices": [
+     "A replacement of the same model",
+     "A store credit",
+     "A full refund",
+     "An extended warranty"
+    ]
+   },
+   {
+    "id": "r076q5",
+    "question": "Why does Mr. O'Connell prefer this option?",
+    "choices": [
+     "He no longer needs a space heater",
+     "He has already bought a replacement from another brand",
+     "He does not trust HomeSafe products",
+     "He is moving to a new home"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r077",
+  "passage": "Introducing StreamFlex Premium\n\nEnjoy unlimited access to movies, TV shows, and documentaries with StreamFlex Premium. For just $12.99 per month, you get:\n\n- Ad-free streaming on up to four devices at once\n- Downloadable content for offline viewing\n- Access to exclusive StreamFlex Original series\n\nNew subscribers can try StreamFlex Premium free for 14 days. You may cancel at any time during the trial period without being charged. After the trial, your card on file will be billed automatically each month unless you cancel.\n\nTo cancel your subscription, go to Account Settings and select \"Manage Subscription\" at least three days before your next billing date to avoid being charged for the following month.",
+  "passage2": "To: support@streamflex.com\nFrom: b.nolan@quickmail.com\nSubject: Cancellation Question\n\nHello,\n\nI signed up for the free trial of StreamFlex Premium on September 5th and would like to cancel before I am charged. However, I went into Account Settings and could not find the \"Manage Subscription\" option mentioned in your promotional email.\n\nMy trial is set to end on September 19th, and I want to make sure I cancel in time. Could you please tell me exactly where to find this setting, or cancel the subscription on my behalf?\n\nI have enjoyed the trial, but I don't think I'll use the service often enough to justify the monthly cost right now.\n\nThank you,\nBrian Nolan",
+  "questions": [
+   {
+    "id": "r077q1",
+    "question": "What is included with StreamFlex Premium?",
+    "choices": [
+     "A free device",
+     "Ad-free streaming on up to four devices",
+     "Free movie tickets",
+     "A one-time discount code"
+    ]
+   },
+   {
+    "id": "r077q2",
+    "question": "What must new subscribers do to avoid being charged after the trial?",
+    "choices": [
+     "Contact customer support by phone",
+     "Cancel through Account Settings before the billing date",
+     "Return the downloaded content",
+     "Wait for a confirmation email"
+    ]
+   },
+   {
+    "id": "r077q3",
+    "question": "Why is Mr. Nolan writing to customer support?",
+    "choices": [
+     "To upgrade his plan",
+     "To report a billing error",
+     "Because he cannot find the cancellation setting",
+     "To request a refund"
+    ]
+   },
+   {
+    "id": "r077q4",
+    "question": "When does Mr. Nolan's trial end?",
+    "choices": [
+     "September 5th",
+     "September 16th",
+     "September 19th",
+     "October 5th"
+    ]
+   },
+   {
+    "id": "r077q5",
+    "question": "Based on both documents, why should Mr. Nolan be concerned about timing?",
+    "choices": [
+     "The service is being discontinued",
+     "He must cancel at least three days before billing to avoid a charge",
+     "His card has already been billed",
+     "The trial period has already ended"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r078",
+  "passage": "Now Hiring: Customer Service Representative\nCompany: Meridian Home Goods\n\nMeridian Home Goods is looking for a friendly and organized Customer Service Representative to join our support team. This role involves responding to customer inquiries by phone and email, processing returns, and resolving order issues.\n\nRequirements:\n- Previous customer service experience preferred\n- Strong written and verbal communication skills\n- Comfortable using order management software\n\nThis is a part-time position, 25 hours per week, with flexible scheduling. Pay starts at $19 per hour. Interested applicants should submit a resume through our careers page by October 12th. Selected candidates will be contacted for a phone interview within one week of the application deadline.",
+  "passage2": "To: t.bishop@quickmail.com\nFrom: hr@meridianhomegoods.com\nSubject: Your Application to Meridian Home Goods\n\nDear Mr. Bishop,\n\nThank you for applying for the Customer Service Representative position. We were impressed by your application and would like to invite you for a phone interview.\n\nPlease let us know your availability for a 30-minute call sometime next week. The interview will be conducted by our Customer Service Manager, Elena Cross, and will cover your previous experience as well as a few situational questions.\n\nIf you are selected to move forward after the phone interview, the next step would be a short in-person assessment at our office, where you would handle a sample customer scenario.\n\nWe look forward to speaking with you soon.\n\nBest regards,\nHuman Resources, Meridian Home Goods",
+  "questions": [
+   {
+    "id": "r078q1",
+    "question": "How many hours per week is the position?",
+    "choices": [
+     "15",
+     "20",
+     "25",
+     "40"
+    ]
+   },
+   {
+    "id": "r078q2",
+    "question": "What is the starting pay for the position?",
+    "choices": [
+     "$15 per hour",
+     "$19 per hour",
+     "$25 per hour",
+     "$30 per hour"
+    ]
+   },
+   {
+    "id": "r078q3",
+    "question": "What is the purpose of the email to Mr. Bishop?",
+    "choices": [
+     "To reject his application",
+     "To invite him for a phone interview",
+     "To offer him the job immediately",
+     "To request additional documents"
+    ]
+   },
+   {
+    "id": "r078q4",
+    "question": "Who will conduct Mr. Bishop's phone interview?",
+    "choices": [
+     "The company's CEO",
+     "Elena Cross, the Customer Service Manager",
+     "A human resources assistant",
+     "Mr. Bishop's future coworker"
+    ]
+   },
+   {
+    "id": "r078q5",
+    "question": "According to the timeline described in both documents, when would Mr. Bishop likely be contacted?",
+    "choices": [
+     "Before he even applied",
+     "Within about a week of the October 12th deadline",
+     "Exactly one month after applying",
+     "Only after the in-person assessment"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r079",
+  "passage": "From: reservations@harborview-hotel.com\nTo: l.pierce@fastmail.com\nSubject: Reservation Confirmation – Harborview Hotel\n\nDear Ms. Pierce,\n\nThis confirms your reservation at Harborview Hotel:\n\nCheck-in: October 22nd\nCheck-out: October 25th\nRoom type: Deluxe Ocean View\nRate: $189 per night (3 nights, total $567 plus taxes)\n\nCheck-in time is 3:00 PM, and check-out time is 11:00 AM. Early check-in and late check-out may be available upon request, subject to availability, for an additional fee.\n\nCancellations made more than 7 days before check-in are fully refundable. Cancellations made within 7 days of check-in are subject to a one-night cancellation fee.\n\nWe look forward to welcoming you.",
+  "passage2": "To: reservations@harborview-hotel.com\nFrom: l.pierce@fastmail.com\nSubject: RE: Reservation Confirmation – Harborview Hotel\n\nHello,\n\nThank you for the confirmation. My travel plans have changed slightly, and I now need to extend my stay by one additional night, checking out on October 26th instead of October 25th.\n\nAdditionally, since my flight arrives quite early on October 22nd, I would like to request an early check-in if possible, ideally around 11:00 AM.\n\nPlease let me know if these changes can be accommodated and whether there will be any additional charges. I would like to confirm everything before October 18th if possible.\n\nThank you,\nLaura Pierce",
+  "questions": [
+   {
+    "id": "r079q1",
+    "question": "What was the original check-out date?",
+    "choices": [
+     "October 22nd",
+     "October 24th",
+     "October 25th",
+     "October 26th"
+    ]
+   },
+   {
+    "id": "r079q2",
+    "question": "What is stated about cancellations made within 7 days of check-in?",
+    "choices": [
+     "They are fully refundable",
+     "They are not permitted",
+     "They are subject to a one-night cancellation fee",
+     "They require manager approval"
+    ]
+   },
+   {
+    "id": "r079q3",
+    "question": "Why is Ms. Pierce writing this email?",
+    "choices": [
+     "To cancel her reservation",
+     "To request changes to her stay",
+     "To complain about her last stay",
+     "To ask about parking"
+    ]
+   },
+   {
+    "id": "r079q4",
+    "question": "What time would Ms. Pierce like to check in?",
+    "choices": [
+     "9:00 AM",
+     "11:00 AM",
+     "1:00 PM",
+     "3:00 PM"
+    ]
+   },
+   {
+    "id": "r079q5",
+    "question": "Based on both documents, what might Ms. Pierce need to pay in addition to her original total?",
+    "choices": [
+     "A one-night cancellation fee",
+     "An extra night's rate plus a possible early check-in fee",
+     "A late check-out fee only",
+     "Nothing additional will be charged"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r080",
+  "passage": "Introducing the SoundWave Pro Wireless Earbuds\n\nExperience premium sound quality with the SoundWave Pro. These earbuds feature active noise cancellation, up to 8 hours of battery life on a single charge, and an additional 24 hours from the charging case.\n\nOther features include water resistance (IPX4 rating), touch controls for music and calls, and a companion app for customizing sound settings.\n\nThe SoundWave Pro is available for $129.99 and comes with a one-year limited warranty. Order by December 15th to guarantee delivery before the holidays.\n\nRead what our customers are saying below.",
+  "passage2": "★★★☆☆ (3 out of 5 stars)\nReviewed by: musiclover82\n\nI ordered these earbuds mainly for the noise cancellation feature, and I have to say it works really well on flights and in noisy offices. The sound quality is also quite good for the price.\n\nHowever, I was disappointed that the battery life did not quite match the advertised 8 hours; in my experience, it's closer to 6 hours with noise cancellation turned on. The companion app is also a bit limited compared to competitors, offering only basic equalizer settings.\n\nOverall, these are decent earbuds for the price, but I would manage my expectations regarding battery life if noise cancellation is important to you.",
+  "questions": [
+   {
+    "id": "r080q1",
+    "question": "What is the advertised battery life of the earbuds alone (without the case)?",
+    "choices": [
+     "4 hours",
+     "6 hours",
+     "8 hours",
+     "24 hours"
+    ]
+   },
+   {
+    "id": "r080q2",
+    "question": "What can customers do with the companion app?",
+    "choices": [
+     "Track their location",
+     "Customize sound settings",
+     "Order replacement parts",
+     "Contact customer support"
+    ]
+   },
+   {
+    "id": "r080q3",
+    "question": "What does the reviewer say about the noise cancellation feature?",
+    "choices": [
+     "It does not work at all",
+     "It works well on flights and in noisy offices",
+     "It only works with the companion app",
+     "It reduces battery life significantly"
+    ]
+   },
+   {
+    "id": "r080q4",
+    "question": "What is the reviewer's complaint about the battery?",
+    "choices": [
+     "It does not charge properly",
+     "The actual battery life is shorter than advertised",
+     "The case does not charge the earbuds",
+     "The battery drains even when not in use"
+    ]
+   },
+   {
+    "id": "r080q5",
+    "question": "Based on both documents, what discrepancy does the review point out?",
+    "choices": [
+     "The price is higher than advertised",
+     "The battery performs below the advertised specification",
+     "The earbuds are not water resistant as claimed",
+     "The warranty period is shorter than stated"
+    ]
+   }
+  ]
+ }
+]

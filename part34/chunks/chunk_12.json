@@ -1,0 +1,426 @@
+[
+ {
+  "id": "l34-c53x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Facilities told me they'll be replacing all the office lights with LED bulbs next week."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's good news, but will it disrupt work? Some of us have deadlines that week."
+   },
+   {
+    "speaker": "Man",
+    "line": "They said the work will happen after six in the evening, so it shouldn't affect regular business hours."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's a relief. Could you send everyone a reminder email a day before it starts?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c53x-q1",
+    "question": "What will facilities staff do next week?",
+    "choices": [
+     "Repaint the office",
+     "Replace the lights",
+     "Install new desks",
+     "Fix the elevator"
+    ]
+   },
+   {
+    "id": "l34-c53x-q2",
+    "question": "What is the woman concerned about?",
+    "choices": [
+     "The cost of the project",
+     "Disruption to work",
+     "The color of the new lights",
+     "Noise from tools"
+    ]
+   },
+   {
+    "id": "l34-c53x-q3",
+    "question": "What does the woman ask the man to do?",
+    "choices": [
+     "Reschedule the work",
+     "Send a reminder email",
+     "Contact facilities directly",
+     "Attend the work personally"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c54x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We're handing out samples of the new snack line at the mall this weekend. Are the boxes ready?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Most of them are, but the supplier said one shipment will arrive a day late."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's fine as long as we still have enough for Saturday morning, since that's usually our busiest time."
+   },
+   {
+    "speaker": "Man",
+    "line": "We should have just enough for Saturday. I'll follow up with the supplier to confirm Sunday's delivery."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c54x-q1",
+    "question": "What event are the speakers preparing for?",
+    "choices": [
+     "A product recall",
+     "A sample giveaway",
+     "A store opening",
+     "A staff meeting"
+    ]
+   },
+   {
+    "id": "l34-c54x-q2",
+    "question": "What problem does the man mention?",
+    "choices": [
+     "A shipment will be late",
+     "The samples were damaged",
+     "The event was postponed",
+     "The venue is unavailable"
+    ]
+   },
+   {
+    "id": "l34-c54x-q3",
+    "question": "What will the man do next?",
+    "choices": [
+     "Cancel Sunday's event",
+     "Confirm Sunday's delivery with the supplier",
+     "Order more boxes",
+     "Change the event location"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c55x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Mr. Davis, thank you for calling back. I understand you had an issue with our last shipment."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, several boxes arrived with the wrong labels, which caused confusion in our warehouse."
+   },
+   {
+    "speaker": "Man",
+    "line": "I sincerely apologize for that. I'll have our shipping team relabel and resend the correct items today."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'd appreciate that. Could you also give us a discount on our next order as a goodwill gesture?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c55x-q1",
+    "question": "What problem occurred with the shipment?",
+    "choices": [
+     "Items were missing",
+     "Boxes had wrong labels",
+     "The delivery was too early",
+     "The invoice was incorrect"
+    ]
+   },
+   {
+    "id": "l34-c55x-q2",
+    "question": "What will the man do to fix the problem?",
+    "choices": [
+     "Cancel the order",
+     "Relabel and resend the items",
+     "Offer a full refund",
+     "Visit the warehouse in person"
+    ]
+   },
+   {
+    "id": "l34-c55x-q3",
+    "question": "What does the woman request?",
+    "choices": [
+     "A discount on the next order",
+     "A written apology",
+     "An earlier delivery",
+     "A new sales representative"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c56x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Have you tried the new menu in the cafeteria? They added several vegetarian options this week."
+   },
+   {
+    "speaker": "Man",
+    "line": "I tried the vegetable curry yesterday, and it was actually really good. It's nice to have more variety."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I heard they're planning to rotate the menu monthly based on employee feedback surveys."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's great to hear. I'll definitely fill out the next survey to suggest a few dishes."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c56x-q1",
+    "question": "What change was made to the cafeteria?",
+    "choices": [
+     "New vegetarian options were added",
+     "Prices were reduced",
+     "Opening hours were extended",
+     "A new chef was hired"
+    ]
+   },
+   {
+    "id": "l34-c56x-q2",
+    "question": "How often will the menu be updated?",
+    "choices": [
+     "Weekly",
+     "Monthly",
+     "Every six months",
+     "Only once a year"
+    ]
+   },
+   {
+    "id": "l34-c56x-q3",
+    "question": "What will the man do?",
+    "choices": [
+     "Complain to management",
+     "Fill out a survey",
+     "Stop eating in the cafeteria",
+     "Ask for a refund"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c57x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "The projector in Conference Room A isn't turning on. Do you know if IT has been notified?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I just submitted a ticket a few minutes ago. They said someone would come by within the hour."
+   },
+   {
+    "speaker": "Man",
+    "line": "Our client meeting starts in thirty minutes, so we might need to move to a different room."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let's book Conference Room C instead, just in case. I'll let the client know about the change."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c57x-q1",
+    "question": "What is the problem in Conference Room A?",
+    "choices": [
+     "The chairs are missing",
+     "The projector won't turn on",
+     "The room is already booked",
+     "The air conditioning is broken"
+    ]
+   },
+   {
+    "id": "l34-c57x-q2",
+    "question": "What has the woman already done?",
+    "choices": [
+     "Fixed the projector herself",
+     "Submitted a ticket to IT",
+     "Canceled the meeting",
+     "Called the client"
+    ]
+   },
+   {
+    "id": "l34-c57x-q3",
+    "question": "What will the speakers most likely do?",
+    "choices": [
+     "Wait for IT to arrive",
+     "Move the meeting to another room",
+     "Postpone the meeting",
+     "Hold the meeting outdoors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c58x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "We're planning a small welcome lunch for the new hires next Wednesday. Can you help arrange the catering?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure. How many people should I plan for, and are there any dietary restrictions I should know about?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "There will be about fifteen people, and two of the new hires mentioned they are vegetarian."
+   },
+   {
+    "speaker": "Man",
+    "line": "Got it. I'll order a mix of dishes and make sure there are enough vegetarian options for everyone."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c58x-q1",
+    "question": "What is being planned?",
+    "choices": [
+     "A retirement party",
+     "A welcome lunch for new hires",
+     "A client dinner",
+     "A training workshop"
+    ]
+   },
+   {
+    "id": "l34-c58x-q2",
+    "question": "What does the man ask about?",
+    "choices": [
+     "The event budget",
+     "Dietary restrictions",
+     "The meeting room",
+     "The event date"
+    ]
+   },
+   {
+    "id": "l34-c58x-q3",
+    "question": "What will the man make sure to include?",
+    "choices": [
+     "Enough vegetarian options",
+     "A birthday cake",
+     "Alcoholic drinks",
+     "Take-home gifts"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c59x",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hello, I'd like to change my reservation for next week. My meeting has been extended by one extra day."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me check availability... Yes, we can extend your stay by one night. Would you like the same room?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, please. Also, could you confirm if late checkout is possible on the final day?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Late checkout until 2 p.m. is available for an additional fee. I'll add that note to your reservation."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c59x-q1",
+    "question": "Why is the man calling?",
+    "choices": [
+     "To cancel his reservation",
+     "To extend his stay",
+     "To complain about noise",
+     "To request a discount"
+    ]
+   },
+   {
+    "id": "l34-c59x-q2",
+    "question": "What does the man ask about besides the extension?",
+    "choices": [
+     "Airport shuttle service",
+     "Late checkout",
+     "Room upgrade",
+     "Breakfast options"
+    ]
+   },
+   {
+    "id": "l34-c59x-q3",
+    "question": "What will the woman do?",
+    "choices": [
+     "Cancel the extra night",
+     "Add a note about late checkout",
+     "Offer a free upgrade",
+     "Transfer the call"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c60x",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "How is the response rate for the employee satisfaction survey looking so far?"
+   },
+   {
+    "speaker": "Man",
+    "line": "We're only at about forty percent, which is lower than last year's response at this point."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Maybe we should send a reminder email and extend the deadline by a few days."
+   },
+   {
+    "speaker": "Man",
+    "line": "That sounds reasonable. I'll draft the reminder and send it out this afternoon."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c60x-q1",
+    "question": "What are the speakers discussing?",
+    "choices": [
+     "A survey response rate",
+     "A budget report",
+     "A hiring plan",
+     "A product launch"
+    ]
+   },
+   {
+    "id": "l34-c60x-q2",
+    "question": "How does this year's response rate compare to last year's?",
+    "choices": [
+     "It is higher",
+     "It is about the same",
+     "It is lower",
+     "It cannot be compared"
+    ]
+   },
+   {
+    "id": "l34-c60x-q3",
+    "question": "What will the man do this afternoon?",
+    "choices": [
+     "Close the survey",
+     "Send a reminder email",
+     "Analyze the results",
+     "Meet with HR"
+    ]
+   }
+  ]
+ }
+]

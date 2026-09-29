@@ -1,0 +1,1647 @@
+```python
+import json
+
+data = [
+ {
+  "id": "l34-t01",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Hi, this message is for Mr. Ito. This is Rachel from Prime Office Furniture returning your call about the desk order."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "I checked our warehouse, and unfortunately the model you wanted is currently out of stock, but we expect a new shipment by the end of next week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "In the meantime, I can offer you a similar desk from a different collection at the same price, if you'd like to see it sooner."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please give me a call back at your convenience so we can discuss which option works best for you. My direct line is five-five-five, oh-one-nine-two."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t01-q1",
+    "question": "Why is Rachel calling?",
+    "choices": [
+     "To confirm a delivery address.",
+     "To respond to a call about a furniture order.",
+     "To apologize for a billing error.",
+     "To announce a store closing."
+    ]
+   },
+   {
+    "id": "l34-t01-q2",
+    "question": "What problem does Rachel mention?",
+    "choices": [
+     "The desk is out of stock.",
+     "The price has increased.",
+     "The store has moved.",
+     "The order was canceled."
+    ]
+   },
+   {
+    "id": "l34-t01-q3",
+    "question": "What does Rachel ask Mr. Ito to do?",
+    "choices": [
+     "Visit the store in person.",
+     "Return her call.",
+     "Send payment immediately.",
+     "Choose a delivery date."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t02",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Are you looking to refresh your home this season? Come visit Maple Street Furnishings for our biggest sale of the year!"
+   },
+   {
+    "speaker": "Narrator",
+    "line": "From this Friday through Sunday, all sofas and dining sets are up to forty percent off, and any purchase over three hundred dollars comes with free delivery."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We're located right next to Central Park Mall, and we're open until nine PM every night during the sale."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Don't miss out — supplies are limited, so stop by early for the best selection."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t02-q1",
+    "question": "What is being advertised?",
+    "choices": [
+     "A grand opening event.",
+     "A furniture sale.",
+     "A cooking class.",
+     "A job fair."
+    ]
+   },
+   {
+    "id": "l34-t02-q2",
+    "question": "What is included with purchases over three hundred dollars?",
+    "choices": [
+     "A gift card.",
+     "Free delivery.",
+     "An extended warranty.",
+     "A discount coupon for next time."
+    ]
+   },
+   {
+    "id": "l34-t02-q3",
+    "question": "According to the advertisement, why should listeners come early?",
+    "choices": [
+     "The store closes early on weekends.",
+     "Parking is limited.",
+     "Supplies are limited.",
+     "Prices increase after the first day."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t03",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good morning, commuters. Here's your traffic update for downtown routes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Construction on Fifth Avenue continues today, so drivers heading toward the financial district should expect delays of about twenty minutes and consider taking Riverside Drive instead."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The Grant Street Bridge is running smoothly, but expect heavier traffic after eight AM as schools open for the week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll have another update in thirty minutes. Stay safe out there."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t03-q1",
+    "question": "What is causing delays on Fifth Avenue?",
+    "choices": [
+     "A traffic accident.",
+     "Road construction.",
+     "Heavy snow.",
+     "A parade."
+    ]
+   },
+   {
+    "id": "l34-t03-q2",
+    "question": "What alternative route is suggested?",
+    "choices": [
+     "Grant Street Bridge.",
+     "Riverside Drive.",
+     "Central Highway.",
+     "Park Avenue."
+    ]
+   },
+   {
+    "id": "l34-t03-q3",
+    "question": "When will the next traffic update be given?",
+    "choices": [
+     "In ten minutes.",
+     "In thirty minutes.",
+     "In one hour.",
+     "Tomorrow morning."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t04",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to the Riverside Art Museum. My name is Grace, and I'll be your guide for this afternoon's tour."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll begin on the second floor with our collection of modern paintings, then move to the sculpture garden before finishing in the gift shop."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please note that photography is allowed in most galleries, but flash photography is not permitted near the older paintings, as it can damage the artwork."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you have any questions along the way, feel free to ask. Let's head to the elevator to get started."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t04-q1",
+    "question": "Who most likely is Grace?",
+    "choices": [
+     "A museum curator.",
+     "A tour guide.",
+     "A security officer.",
+     "A gift shop employee."
+    ]
+   },
+   {
+    "id": "l34-t04-q2",
+    "question": "Where will the tour end?",
+    "choices": [
+     "In the sculpture garden.",
+     "On the second floor.",
+     "In the gift shop.",
+     "At the main entrance."
+    ]
+   },
+   {
+    "id": "l34-t04-q3",
+    "question": "What are listeners asked NOT to do?",
+    "choices": [
+     "Take any photographs.",
+     "Touch the paintings.",
+     "Use flash photography near old paintings.",
+     "Bring bags into the gallery."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t05",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Good afternoon, everyone. I'd like to remind you all about the customer service training session happening this Thursday."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "The session will run from one to four in the afternoon in Conference Room B, and it's mandatory for all staff in the sales and support departments."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "We'll be covering our new complaint-handling procedures, along with a few updates to the customer database system."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please bring your laptops, since part of the session will involve hands-on practice with the new software."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t05-q1",
+    "question": "What is the purpose of the announcement?",
+    "choices": [
+     "To cancel a meeting.",
+     "To remind staff about a training session.",
+     "To announce a new hire.",
+     "To report a system outage."
+    ]
+   },
+   {
+    "id": "l34-t05-q2",
+    "question": "Who is required to attend?",
+    "choices": [
+     "All company employees.",
+     "Only new employees.",
+     "Staff in sales and support.",
+     "Only managers."
+    ]
+   },
+   {
+    "id": "l34-t05-q3",
+    "question": "What should attendees bring?",
+    "choices": [
+     "A printed manual.",
+     "Their laptops.",
+     "A signed form.",
+     "Business cards."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t06",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Attention passengers, this is the final boarding call for flight three-zero-six to Seattle."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "All remaining passengers should proceed to gate twelve immediately, as the doors will close in ten minutes."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Please have your boarding pass and identification ready for the gate agent."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Passengers requiring extra time to board should identify themselves to airline staff at this time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t06-q1",
+    "question": "What is the announcement about?",
+    "choices": [
+     "A flight delay.",
+     "A final boarding call.",
+     "A gate change.",
+     "A weather warning."
+    ]
+   },
+   {
+    "id": "l34-t06-q2",
+    "question": "What should passengers have ready?",
+    "choices": [
+     "Their luggage tags.",
+     "Their boarding pass and ID.",
+     "A printed itinerary.",
+     "A customs form."
+    ]
+   },
+   {
+    "id": "l34-t06-q3",
+    "question": "Who is asked to identify themselves to staff?",
+    "choices": [
+     "Passengers with connecting flights.",
+     "Passengers needing extra boarding time.",
+     "Passengers traveling with children.",
+     "Passengers with lost luggage."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t07",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Thank you all for joining us today. I'm excited to introduce our newest product, the EcoBrew coffee maker."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Unlike our previous models, EcoBrew uses forty percent less energy and is made from recycled materials, which fits perfectly with our company's new sustainability goals."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "It will be available in stores starting next month, and we're offering an early-bird discount for customers who preorder this week."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "Now, let's take a short break, and when we return, our engineering team will demonstrate how the machine works."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t07-q1",
+    "question": "What is being introduced?",
+    "choices": [
+     "A new coffee maker.",
+     "A new office building.",
+     "A new software update.",
+     "A new delivery service."
+    ]
+   },
+   {
+    "id": "l34-t07-q2",
+    "question": "What is a feature of the new product?",
+    "choices": [
+     "It brews faster than older models.",
+     "It uses less energy and recycled materials.",
+     "It comes with a lifetime warranty.",
+     "It is available only online."
+    ]
+   },
+   {
+    "id": "l34-t07-q3",
+    "question": "What will happen after the break?",
+    "choices": [
+     "A question-and-answer session.",
+     "A product demonstration.",
+     "A press conference.",
+     "A factory tour."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-t08",
+  "script": [
+   {
+    "speaker": "Narrator",
+    "line": "Welcome to Bright Horizon Incorporated, and congratulations on joining our team."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "This morning, we'll cover the basics — your ID badge, building access, and where to find the employee handbook on our intranet."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "After lunch, each of you will meet individually with your department supervisor to go over your specific responsibilities and set goals for your first month."
+   },
+   {
+    "speaker": "Narrator",
+    "line": "If you haven't already, please make sure to submit your emergency contact information to Human Resources by the end of the day."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-t08-q1",
+    "question": "Who is the audience for this talk?",
+    "choices": [
+     "Retiring employees.",
+     "New employees.",
+     "Job applicants.",
+     "Company clients."
+    ]
+   },
+   {
+    "id": "l34-t08-q2",
+    "question": "What will happen after lunch?",
+    "choices": [
+     "A company tour.",
+     "Individual meetings with supervisors.",
+     "A skills assessment test.",
+     "A welcome dinner."
+    ]
+   },
+   {
+    "id": "l34-t08-q3",
+    "question": "What are new employees asked to submit by the end of the day?",
+    "choices": [
+     "A signed contract.",
+     "Emergency contact information.",
+     "A copy of their resume.",
+     "Bank account details."
+    ]
+   }
+  ]
+ }
+]
+
+output_json = [
+  {
+    "id": "l34-t01",
+    "scriptJa": [
+      "こんにちは、伊藤様へのメッセージです。プライム・オフィス・ファニチャーのレイチェルです。デスクの注文についてのお電話に折り返しご連絡いたしました。",
+      "倉庫を確認しましたところ、あいにくご希望のモデルは現在在庫切れとなっておりますが、来週末までに再入荷する見込みです。",
+      "それまでの間、もし早めにご覧になりたいようでしたら、別のコレクションから同価格の類似のデスクをご提案できます。",
+      "伊藤様のご都合の良いときにお電話を折り返しいただけますと幸いです。私直通の電話番号は555-0192です。"
+    ],
+    "vocab": [
+      "return one's call：〜に折り返し電話をする",
+      "out of stock：在庫切れで",
+      "in the meantime：その間に、それまでの間",
+      "at one's convenience：〜の都合の良いときに"
+    ],
+    "questions": [
+      {
+        "id": "l34-t01-q1",
+        "questionJa": "なぜレイチェルは電話をかけていますか。",
+        "choicesJa": [
+          "配送先住所を確認するため。",
+          "家具の注文に関する電話に折り返すため。",
+          "請求の誤りを謝罪するため。",
+          "店舗の閉店を知らせるため。"
+        ],
+        "explanationDetail": "話し手が1文目で「デスクの注文についてのお電話に折り返しご連絡いたしました（returning your call about the desk order）」と述べているため、(B)が正解です。住所確認や謝罪について述べているわけではありません。"
+      },
+      {
+        "id": "l34-t01-q2",
+        "questionJa": "レイチェルはどのような問題を挙げていますか。",
+        "choicesJa": [
+          "デスクが在庫切れであること。",
+          "価格が値上がりしたこと。",
+          "店舗が移転したこと。",
+          "注文がキャンセルされたこと。"
+        ],
+        "explanationDetail": "話し手が2文目で「ご希望のモデルは現在在庫切れ（currently out of stock）」と伝えているため、(A)が正解です。値上がりや注文のキャンセルについては言及されていません。"
+      },
+      {
+        "id": "l34-t01-q3",
+        "questionJa": "レイチェルは伊藤様に何をするよう頼んでいますか。",
+        "choicesJa": [
+          "直接来店すること。",
+          "折り返し電話をすること。",
+          "すぐに支払いを送ること。",
+          "配送日を選ぶこと。"
+        ],
+        "explanationDetail": "話し手が最後の文で「都合の良いときに折り返しお電話をいただけますと幸いです（give me a call back at your convenience）」と依頼しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t02",
+    "scriptJa": [
+      "この季節、お部屋の模様替えをお考えですか？ 年に一度のビッグセールを開催中のメイプル・ストリート・ファーニシングスへぜひお越しください！",
+      "今週の金曜日から日曜日まで、すべてのソファとダイニングセットが最大40%オフ、さらに300ドル以上お買い上げのお客様には無料配送がついてきます。",
+      "当店はセントラル・パーク・モールのお隣にあり、セール期間中は毎晩夜9時まで営業しております。",
+      "この機会をお見逃しなく。数に限りがございますので、豊富な品揃えからお選びいただくためにも、ぜひお早めにお立ち寄りください。"
+    ],
+    "vocab": [
+      "refresh：（部屋など）を一新する、模様替えする",
+      "up to 〜：最大〜まで",
+      "miss out：チャンスを逃す",
+      "stop by：（ついでに）立ち寄る"
+    ],
+    "questions": [
+      {
+        "id": "l34-t02-q1",
+        "questionJa": "何が宣伝されていますか。",
+        "choicesJa": [
+          "グランドオープンイベント。",
+          "家具のセール。",
+          "料理教室。",
+          "就職フェア。"
+        ],
+        "explanationDetail": "話し手が1文目で「家具店 Maple Street Furnishings の年に一度のビッグセール（biggest sale of the year）」を宣伝しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t02-q2",
+        "questionJa": "300ドル以上の購入には何が含まれますか。",
+        "choicesJa": [
+          "ギフトカード。",
+          "無料配送。",
+          "延長保証。",
+          "次回使える割引クーポン。"
+        ],
+        "explanationDetail": "話し手が2文目で「300ドル以上のお買い上げで無料配送がついてくる（any purchase over three hundred dollars comes with free delivery）」と説明しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t02-q3",
+        "questionJa": "広告によると、なぜ聞き手は早めに来店すべきですか。",
+        "choicesJa": [
+          "週末は店舗が早く閉まるから。",
+          "駐車場が限られているから。",
+          "商品の数に限りがあるから。",
+          "初日の後に価格が上がるから。"
+        ],
+        "explanationDetail": "話し手が最後の文で「数に限りがある（supplies are limited）ので、お早めにお立ち寄りください」と呼びかけているため、(C)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t03",
+    "scriptJa": [
+      "通勤の皆様、おはようございます。中心街のルートの交通情報をお伝えします。",
+      "5thアベニューでの道路工事が本日も続いております。ビジネス街へ向かうドライバーの皆様は約20分の遅延が予想されますので、代わりにリバーサイド・ドライブをご利用ください。",
+      "グラント・ストリート・ブリッジは順調に流れていますが、今週の登校・出勤が始まるため、午前8時以降は混雑が予想されます。",
+      "次の交通情報は30分後にお伝えします。本日も安全運転でお出かけください。"
+    ],
+    "vocab": [
+      "commuter：通勤・通学客",
+      "expect delays：遅延を予想する",
+      "run smoothly：（交通・進行などが）順調に動いている",
+      "heavy traffic：交通渋滞、混雑"
+    ],
+    "questions": [
+      {
+        "id": "l34-t03-q1",
+        "questionJa": "5thアベニューで遅延を引き起こしている原因は何ですか。",
+        "choicesJa": [
+          "交通事故。",
+          "道路工事。",
+          "大雪。",
+          "パレード。"
+        ],
+        "explanationDetail": "話し手が2文目で「5thアベニューでの工事（Construction on Fifth Avenue）が本日も続いている」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t03-q2",
+        "questionJa": "どの迂回路が提案されていますか。",
+        "choicesJa": [
+          "グラント・ストリート・ブリッジ。",
+          "リバーサイド・ドライブ。",
+          "セントラル・ハイウェイ。",
+          "パーク・アベニュー。"
+        ],
+        "explanationDetail": "話し手が2文目で「代わりにリバーサイド・ドライブの利用を検討してください（consider taking Riverside Drive instead）」と提案しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t03-q3",
+        "questionJa": "次の交通情報はいつ提供されますか。",
+        "choicesJa": [
+          "10分後。",
+          "30分後。",
+          "1時間後。",
+          "明日の朝。"
+        ],
+        "explanationDetail": "話し手が最後の文で「30分後に次の情報をお伝えします（We'll have another update in thirty minutes）」と述べているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t04",
+    "scriptJa": [
+      "リバーサイド美術館へようこそ。私はグレースと申します。本日の午後のツアーのガイドを務めさせていただきます。",
+      "2階の現代絵画コレクションからスタートし、彫刻庭園へ移動した後、最後はギフトショップで終了いたします。",
+      "ほとんどの展示室で写真撮影は可能ですが、作品を傷める恐れがあるため、古い絵画の近くでのフラッシュ撮影は禁止されておりますのでご注意ください。",
+      "途中でご質問がございましたら、どうぞ遠慮なくお尋ねください。それでは、エレベーターへ向かって始めましょう。"
+    ],
+    "vocab": [
+      "modern painting：現代絵画",
+      "sculpture garden：彫刻庭園",
+      "permit：許可する",
+      "feel free to -：遠慮なく〜する"
+    ],
+    "questions": [
+      {
+        "id": "l34-t04-q1",
+        "questionJa": "グレースはおそらくどのような人物ですか。",
+        "choicesJa": [
+          "美術館の学芸員（キュレーター）。",
+          "ツアーガイド。",
+          "警備員。",
+          "ギフトショップの従業員。"
+        ],
+        "explanationDetail": "話し手（グレース）が1文目で「午後のツアーのガイドを務めます（I'll be your guide for this afternoon's tour）」と自己紹介しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t04-q2",
+        "questionJa": "ツアーはどこで終了しますか。",
+        "choicesJa": [
+          "彫刻庭園。",
+          "2階。",
+          "ギフトショップ。",
+          "正面玄関。"
+        ],
+        "explanationDetail": "話し手が2文目で「ギフトショップで終了する（finishing in the gift shop）」と工程を案内しているため、(C)が正解です。"
+      },
+      {
+        "id": "l34-t04-q3",
+        "questionJa": "聞き手がしてはならないとされていることは何ですか。",
+        "choicesJa": [
+          "一切の写真撮影をすること。",
+          "絵画に触れること。",
+          "古い絵画の近くでフラッシュ撮影をすること。",
+          "ギャラリー内にバッグを持ち込むこと。"
+        ],
+        "explanationDetail": "話し手が3文目で「作品を傷める可能性があるため、古い絵画の近くでのフラッシュ撮影は許可されていない（flash photography is not permitted near the older paintings）」と注意を促しているため、(C)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t05",
+    "scriptJa": [
+      "皆様、こんにちは。今週の木曜日に開催されるカスタマーサービス研修セッションについてお知らせいたします。",
+      "セッションは会議室Bにて午後の1時から4時まで行われ、営業部門およびサポート部門の全スタッフの参加が義務付けられています。",
+      "新しい苦情処理手順と、顧客データベースシステムのいくつかの更新点について取り上げます。",
+      "セッションの一部では新しいソフトウェアの実習を行いますので、ノートパソコンをお持ちください。"
+    ],
+    "vocab": [
+      "remind：〜を思い出させる、再確認する",
+      "mandatory：義務的な、必須の",
+      "complaint-handling：苦情処理",
+      "hands-on：実践的な、体験型の"
+    ],
+    "questions": [
+      {
+        "id": "l34-t05-q1",
+        "questionJa": "このアナウンスの目的は何ですか。",
+        "choicesJa": [
+          "会議を中止すること。",
+          "スタッフに研修セッションについて思い出させること。",
+          "新入社員を発表すること。",
+          "システム障害を報告すること。"
+        ],
+        "explanationDetail": "話し手が1文目で「研修セッションについてお知らせ（リマインド）したい（remind you all about the customer service training session）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t05-q2",
+        "questionJa": "誰の参加が義務付けられていますか。",
+        "choicesJa": [
+          "全従業員。",
+          "新入社員のみ。",
+          "営業部門とサポート部門のスタッフ。",
+          "管理職のみ。"
+        ],
+        "explanationDetail": "話し手が2文目で「営業・サポート部門の全スタッフに義務付けられている（mandatory for all staff in the sales and support departments）」と述べているため、(C)が正解です。"
+      },
+      {
+        "id": "l34-t05-q3",
+        "questionJa": "参加者は何を持参すべきですか。",
+        "choicesJa": [
+          "印刷されたマニュアル。",
+          "ノートパソコン。",
+          "署名入りの用紙。",
+          "名刺。"
+        ],
+        "explanationDetail": "話し手が4文目で「新しいソフトウェアの実習を行うため、ノートパソコンを持ってきてほしい（bring your laptops）」と要請しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t06",
+    "scriptJa": [
+      "ご乗客の皆様にお知らせいたします。こちらはシアトル行き306便の最終搭乗案内でございます。",
+      "10分後に搭乗口のドアが閉まりますので、まだ搭乗されていないお客様は、ただちに12番ゲートへお進みください。",
+      "搭乗口のスタッフに見せられるよう、搭乗券と身分証明書をご用意ください。",
+      "搭乗に追加のお時間が必要なお客様は、現時点で航空会社のスタッフにお申し出ください。"
+    ],
+    "vocab": [
+      "final boarding call：最終搭乗案内",
+      "proceed to 〜：〜へ進む",
+      "identification (ID)：身分証明書",
+      "require：〜を必要とする"
+    ],
+    "questions": [
+      {
+        "id": "l34-t06-q1",
+        "questionJa": "アナウンスは何についてのものですか。",
+        "choicesJa": [
+          "フライトの遅延。",
+          "最終搭乗案内。",
+          "搭乗口の変更。",
+          "気象警告。"
+        ],
+        "explanationDetail": "話し手が1文目で「シアトル行き306便の最終搭乗案内（final boarding call for flight three-zero-six）」と明言しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t06-q2",
+        "questionJa": "乗客は何を用意しておく必要がありますか。",
+        "choicesJa": [
+          "手荷物タグ。",
+          "搭乗券と身分証明書。",
+          "印刷した旅程表。",
+          "税関申告書。"
+        ],
+        "explanationDetail": "話し手が3文目で「搭乗券と身分証明書を用意しておくように（have your boarding pass and identification ready）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t06-q3",
+        "questionJa": "誰がスタッフに申し出るよう求めてられていますか。",
+        "choicesJa": [
+          "乗り継ぎ便のある乗客。",
+          "搭乗に時間が必要な乗客。",
+          "子供連れの乗客。",
+          "荷物を紛失した乗客。"
+        ],
+        "explanationDetail": "話し手が4文目で「搭乗に追加の時間が必要な乗客（Passengers requiring extra time to board）はスタッフに申し出てほしい」と促しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t07",
+    "scriptJa": [
+      "本日はご参加いただきありがとうございます。弊社の最新製品である『EcoBrew』コーヒーメーカーをご紹介できることを大変嬉しく思います。",
+      "以前のモデルとは異なり、EcoBrewはエネルギー使用量を40%削減し、再生素材で作られており、弊社の新しい持続可能性の目標に完璧に合致しています。",
+      "来月から店頭でお買い求めいただけますが、今週事前注文されたお客様には早割ディスカウントをご提供しております。",
+      "それでは少し休憩をはさみまして、再開後に弊社の技術チームよりマシンの実演を行わせていただきます。"
+    ],
+    "vocab": [
+      "sustainability：持続可能性",
+      "early-bird discount：早割、早期割引",
+      "preorder：事前注文する",
+      "demonstrate：実演する、説明する"
+    ],
+    "questions": [
+      {
+        "id": "l34-t07-q1",
+        "questionJa": "何が紹介されていますか。",
+        "choicesJa": [
+          "新しいコーヒーメーカー。",
+          "新しいオフィスビル。",
+          "新しいソフトウェアの更新。",
+          "新しい配送サービス。"
+        ],
+        "explanationDetail": "話し手が1文目で「最新製品である EcoBrew コーヒーメーカー（EcoBrew coffee maker）を紹介する」と述べているため、(A)が正解です。"
+      },
+      {
+        "id": "l34-t07-q2",
+        "questionJa": "新製品の特徴は何ですか。",
+        "choicesJa": [
+          "旧モデルよりも抽出が速いこと。",
+          "エネルギー使用量が少なく、リサイクル素材を使用していること。",
+          "生涯保証がついていること。",
+          "オンライン限定で入手できること。"
+        ],
+        "explanationDetail": "話し手が2文目で「エネルギー使用量が40%少なく、リサイクル素材から作られている（uses forty percent less energy and is made from recycled materials）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t07-q3",
+        "questionJa": "休憩の後で何が行われますか。",
+        "choicesJa": [
+          "質疑応答セッション。",
+          "製品の実演（デモンストレーション）。",
+          "記者会見。",
+          "工場見学。"
+        ],
+        "explanationDetail": "話し手が4文目で「戻りましたら技術チームが機械の実演を行います（engineering team will demonstrate how the machine works）」と述べているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t08",
+    "scriptJa": [
+      "ブライト・ホライズン社へようこそ。そして、私たちのチームへのご入社おめでとうございます。",
+      "今朝は基本事項として、IDバッジ、ビルの出入管理、そして社内ネット上の社員ハンドブックの確認場所について説明します。",
+      "昼食後は、皆様お一人おひとりが所属部門の上司と面談し、具体的な担当業務の確認と最初の1ヶ月の目標設定を行います。",
+      "まだ提出されていない方は、本日中に緊急連絡先情報を人事部に必ず提出してください。"
+    ],
+    "vocab": [
+      "basics：基本事項",
+      "employee handbook：社員ハンドブック",
+      "go over：〜を確認する、詳しく見る",
+      "Human Resources (HR)：人事部"
+    ],
+    "questions": [
+      {
+        "id": "l34-t08-q1",
+        "questionJa": "この話の聞き手は誰ですか。",
+        "choicesJa": [
+          "退職する従業員。",
+          "新入社員。",
+          "求職者。",
+          "企業の顧客。"
+        ],
+        "explanationDetail": "話し手が1文目で「チームへの入社おめでとうございます（congratulations on joining our team）」と入社を歓迎しているため、(B)「新入社員」が正解です。"
+      },
+      {
+        "id": "l34-t08-q2",
+        "questionJa": "昼食後に何が行われますか。",
+        "choicesJa": [
+          "社内ツアー（見学）。",
+          "上司との個別面談。",
+          "スキル評価テスト。",
+          "歓迎夕食会。"
+        ],
+        "explanationDetail": "話し手が3文目で「昼食後、部門の上司と個別面談をする（meet individually with your department supervisor）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t08-q3",
+        "questionJa": "新入社員は本日中に何を提出するよう求められていますか。",
+        "choicesJa": [
+          "署名済みの契約書。",
+          "緊急連絡先情報。",
+          "履歴書のコピー。",
+          "銀行口座の詳細。"
+        ],
+        "explanationDetail": "話し手が最後の文で「人事部に緊急連絡先情報を提出してください（submit your emergency contact information to Human Resources）」と指示しているため、(B)が正解です。"
+      }
+    ]
+  }
+]
+
+print(json.dumps(output_json, ensure_ascii=False, indent=2))
+
+
+```
+
+```text
+[
+  {
+    "id": "l34-t01",
+    "scriptJa": [
+      "こんにちは、伊藤様へのメッセージです。プライム・オフィス・ファニチャーのレイチェルです。デスクの注文についてのお電話に折り返しご連絡いたしました。",
+      "倉庫を確認しましたところ、あいにくご希望のモデルは現在在庫切れとなっておりますが、来週末までに再入荷する見込みです。",
+      "それまでの間、もし早めにご覧になりたいようでしたら、別のコレクションから同価格の類似のデスクをご提案できます。",
+      "伊藤様のご都合の良いときにお電話を折り返しいただけますと幸いです。私直通の電話番号は555-0192です。"
+    ],
+    "vocab": [
+      "return one's call：〜に折り返し電話をする",
+      "out of stock：在庫切れで",
+      "in the meantime：その間に、それまでの間",
+      "at one's convenience：〜の都合の良いときに"
+    ],
+    "questions": [
+      {
+        "id": "l34-t01-q1",
+        "questionJa": "なぜレイチェルは電話をかけていますか。",
+        "choicesJa": [
+          "配送先住所を確認するため。",
+          "家具の注文に関する電話に折り返すため。",
+          "請求の誤りを謝罪するため。",
+          "店舗の閉店を知らせるため。"
+        ],
+        "explanationDetail": "話し手が1文目で「デスクの注文についてのお電話に折り返しご連絡いたしました（returning your call about the desk order）」と述べているため、(B)が正解です。住所確認や謝罪について述べているわけではありません。"
+      },
+      {
+        "id": "l34-t01-q2",
+        "questionJa": "レイチェルはどのような問題を挙げていますか。",
+        "choicesJa": [
+          "デスクが在庫切れであること。",
+          "価格が値上がりしたこと。",
+          "店舗が移転したこと。",
+          "注文がキャンセルされたこと。"
+        ],
+        "explanationDetail": "話し手が2文目で「ご希望のモデルは現在在庫切れ（currently out of stock）」と伝えているため、(A)が正解です。値上がりや注文のキャンセルについては言及されていません。"
+      },
+      {
+        "id": "l34-t01-q3",
+        "questionJa": "レイチェルは伊藤様に何をするよう頼んでいますか。",
+        "choicesJa": [
+          "直接来店すること。",
+          "折り返し電話をすること。",
+          "すぐに支払いを送ること。",
+          "配送日を選ぶこと。"
+        ],
+        "explanationDetail": "話し手が最後の文で「都合の良いときに折り返しお電話をいただけますと幸いです（give me a call back at your convenience）」と依頼しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t02",
+    "scriptJa": [
+      "この季節、お部屋の模様替えをお考えですか？ 年に一度のビッグセールを開催中のメイプル・ストリート・ファーニシングスへぜひお越しください！",
+      "今週の金曜日から日曜日まで、すべてのソファとダイニングセットが最大40%オフ、さらに300ドル以上お買い上げのお客様には無料配送がついてきます。",
+      "当店はセントラル・パーク・モールのお隣にあり、セール期間中は毎晩夜9時まで営業しております。",
+      "この機会をお見逃しなく。数に限りがございますので、豊富な品揃えからお選びいただくためにも、ぜひお早めにお立ち寄りください。"
+    ],
+    "vocab": [
+      "refresh：（部屋など）を一新する、模様替えする",
+      "up to 〜：最大〜まで",
+      "miss out：チャンスを逃す",
+      "stop by：（ついでに）立ち寄る"
+    ],
+    "questions": [
+      {
+        "id": "l34-t02-q1",
+        "questionJa": "何が宣伝されていますか。",
+        "choicesJa": [
+          "グランドオープンイベント。",
+          "家具のセール。",
+          "料理教室。",
+          "就職フェア。"
+        ],
+        "explanationDetail": "話し手が1文目で「家具店 Maple Street Furnishings の年に一度のビッグセール（biggest sale of the year）」を宣伝しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t02-q2",
+        "questionJa": "300ドル以上の購入には何が含まれますか。",
+        "choicesJa": [
+          "ギフトカード。",
+          "無料配送。",
+          "延長保証。",
+          "次回使える割引クーポン。"
+        ],
+        "explanationDetail": "話し手が2文目で「300ドル以上のお買い上げで無料配送がついてくる（any purchase over three hundred dollars comes with free delivery）」と説明しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t02-q3",
+        "questionJa": "広告によると、なぜ聞き手は早めに来店すべきですか。",
+        "choicesJa": [
+          "週末は店舗が早く閉まるから。",
+          "駐車場が限られているから。",
+          "商品の数に限りがあるから。",
+          "初日の後に価格が上がるから。"
+        ],
+        "explanationDetail": "話し手が最後の文で「数に限りがある（supplies are limited）ので、お早めにお立ち寄りください」と呼びかけているため、(C)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t03",
+    "scriptJa": [
+      "通勤の皆様、おはようございます。中心街のルートの交通情報をお伝えします。",
+      "5thアベニューでの道路工事が本日も続いております。ビジネス街へ向かうドライバーの皆様は約20分の遅延が予想されますので、代わりにリバーサイド・ドライブをご利用ください。",
+      "グラント・ストリート・ブリッジは順調に流れていますが、今週の登校・出勤が始まるため、午前8時以降は混雑が予想されます。",
+      "次の交通情報は30分後にお伝えします。本日も安全運転でお出かけください。"
+    ],
+    "vocab": [
+      "commuter：通勤・通学客",
+      "expect delays：遅延を予想する",
+      "run smoothly：（交通・進行などが）順調に動いている",
+      "heavy traffic：交通渋滞、混雑"
+    ],
+    "questions": [
+      {
+        "id": "l34-t03-q1",
+        "questionJa": "5thアベニューで遅延を引き起こしている原因は何ですか。",
+        "choicesJa": [
+          "交通事故。",
+          "道路工事。",
+          "大雪。",
+          "パレード。"
+        ],
+        "explanationDetail": "話し手が2文目で「5thアベニューでの工事（Construction on Fifth Avenue）が本日も続いている」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t03-q2",
+        "questionJa": "どの迂回路が提案されていますか。",
+        "choicesJa": [
+          "グラント・ストリート・ブリッジ。",
+          "リバーサイド・ドライブ。",
+          "セントラル・ハイウェイ。",
+          "パーク・アベニュー。"
+        ],
+        "explanationDetail": "話し手が2文目で「代わりにリバーサイド・ドライブの利用を検討してください（consider taking Riverside Drive instead）」と提案しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t03-q3",
+        "questionJa": "次の交通情報はいつ提供されますか。",
+        "choicesJa": [
+          "10分後。",
+          "30分後。",
+          "1時間後。",
+          "明日の朝。"
+        ],
+        "explanationDetail": "話し手が最後の文で「30分後に次の情報をお伝えします（We'll have another update in thirty minutes）」と述べているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t04",
+    "scriptJa": [
+      "リバーサイド美術館へようこそ。私はグレースと申します。本日の午後のツアーのガイドを務めさせていただきます。",
+      "2階の現代絵画コレクションからスタートし、彫刻庭園へ移動した後、最後はギフトショップで終了いたします。",
+      "ほとんどの展示室で写真撮影は可能ですが、作品を傷める恐れがあるため、古い絵画の近くでのフラッシュ撮影は禁止されておりますのでご注意ください。",
+      "途中でご質問がございましたら、どうぞ遠慮なくお尋ねください。それでは、エレベーターへ向かって始めましょう。"
+    ],
+    "vocab": [
+      "modern painting：現代絵画",
+      "sculpture garden：彫刻庭園",
+      "permit：許可する",
+      "feel free to -：遠慮なく〜する"
+    ],
+    "questions": [
+      {
+        "id": "l34-t04-q1",
+        "questionJa": "グレースはおそらくどのような人物ですか。",
+        "choicesJa": [
+          "美術館の学芸員（キュレーター）。",
+          "ツアーガイド。",
+          "警備員。",
+          "ギフトショップの従業員。"
+        ],
+        "explanationDetail": "話し手（グレース）が1文目で「午後のツアーのガイドを務めます（I'll be your guide for this afternoon's tour）」と自己紹介しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t04-q2",
+        "questionJa": "ツアーはどこで終了しますか。",
+        "choicesJa": [
+          "彫刻庭園。",
+          "2階。",
+          "ギフトショップ。",
+          "正面玄関。"
+        ],
+        "explanationDetail": "話し手が2文目で「ギフトショップで終了する（finishing in the gift shop）」と工程を案内しているため、(C)が正解です。"
+      },
+      {
+        "id": "l34-t04-q3",
+        "questionJa": "聞き手がしてはならないとされていることは何ですか。",
+        "choicesJa": [
+          "一切の写真撮影をすること。",
+          "絵画に触れること。",
+          "古い絵画の近くでフラッシュ撮影をすること。",
+          "ギャラリー内にバッグを持ち込むこと。"
+        ],
+        "explanationDetail": "話し手が3文目で「作品を傷める可能性があるため、古い絵画の近くでのフラッシュ撮影は許可されていない（flash photography is not permitted near the older paintings）」と注意を促しているため、(C)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t05",
+    "scriptJa": [
+      "皆様、こんにちは。今週の木曜日に開催されるカスタマーサービス研修セッションについてお知らせいたします。",
+      "セッションは会議室Bにて午後の1時から4時まで行われ、営業部門およびサポート部門の全スタッフの参加が義務付けられています。",
+      "新しい苦情処理手順と、顧客データベースシステムのいくつかの更新点について取り上げます。",
+      "セッションの一部では新しいソフトウェアの実習を行いますので、ノートパソコンをお持ちください。"
+    ],
+    "vocab": [
+      "remind：〜を思い出させる、再確認する",
+      "mandatory：義務的な、必須の",
+      "complaint-handling：苦情処理",
+      "hands-on：実践的な、体験型の"
+    ],
+    "questions": [
+      {
+        "id": "l34-t05-q1",
+        "questionJa": "このアナウンスの目的は何ですか。",
+        "choicesJa": [
+          "会議を中止すること。",
+          "スタッフに研修セッションについて思い出させること。",
+          "新入社員を発表すること。",
+          "システム障害を報告すること。"
+        ],
+        "explanationDetail": "話し手が1文目で「研修セッションについてお知らせ（リマインド）したい（remind you all about the customer service training session）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t05-q2",
+        "questionJa": "誰の参加が義務付けられていますか。",
+        "choicesJa": [
+          "全従業員。",
+          "新入社員のみ。",
+          "営業部門とサポート部門のスタッフ。",
+          "管理職のみ。"
+        ],
+        "explanationDetail": "話し手が2文目で「営業・サポート部門の全スタッフに義務付けられている（mandatory for all staff in the sales and support departments）」と述べているため、(C)が正解です。"
+      },
+      {
+        "id": "l34-t05-q3",
+        "questionJa": "参加者は何を持参すべきですか。",
+        "choicesJa": [
+          "印刷されたマニュアル。",
+          "ノートパソコン。",
+          "署名入りの用紙。",
+          "名刺。"
+        ],
+        "explanationDetail": "話し手が4文目で「新しいソフトウェアの実習を行うため、ノートパソコンを持ってきてほしい（bring your laptops）」と要請しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t06",
+    "scriptJa": [
+      "ご乗客の皆様にお知らせいたします。こちらはシアトル行き306便の最終搭乗案内でございます。",
+      "10分後に搭乗口のドアが閉まりますので、まだ搭乗されていないお客様は、ただちに12番ゲートへお進みください。",
+      "搭乗口のスタッフに見せられるよう、搭乗券と身分証明書をご用意ください。",
+      "搭乗に追加のお時間が必要なお客様は、現時点で航空会社のスタッフにお申し出ください。"
+    ],
+    "vocab": [
+      "final boarding call：最終搭乗案内",
+      "proceed to 〜：〜へ進む",
+      "identification (ID)：身分証明書",
+      "require：〜を必要とする"
+    ],
+    "questions": [
+      {
+        "id": "l34-t06-q1",
+        "questionJa": "アナウンスは何についてのものですか。",
+        "choicesJa": [
+          "フライトの遅延。",
+          "最終搭乗案内。",
+          "搭乗口の変更。",
+          "気象警告。"
+        ],
+        "explanationDetail": "話し手が1文目で「シアトル行き306便の最終搭乗案内（final boarding call for flight three-zero-six）」と明言しているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t06-q2",
+        "questionJa": "乗客は何を用意しておく必要がありますか。",
+        "choicesJa": [
+          "手荷物タグ。",
+          "搭乗券と身分証明書。",
+          "印刷した旅程表。",
+          "税関申告書。"
+        ],
+        "explanationDetail": "話し手が3文目で「搭乗券と身分証明書を用意しておくように（have your boarding pass and identification ready）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t06-q3",
+        "questionJa": "誰がスタッフに申し出るよう求めてられていますか。",
+        "choicesJa": [
+          "乗り継ぎ便のある乗客。",
+          "搭乗に時間が必要な乗客。",
+          "子供連れの乗客。",
+          "荷物を紛失した乗客。"
+        ],
+        "explanationDetail": "話し手が4文目で「搭乗に追加の時間が必要な乗客（Passengers requiring extra time to board）はスタッフに申し出てほしい」と促しているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t07",
+    "scriptJa": [
+      "本日はご参加いただきありがとうございます。弊社の最新製品である『EcoBrew』コーヒーメーカーをご紹介できることを大変嬉しく思います。",
+      "以前のモデルとは異なり、EcoBrewはエネルギー使用量を40%削減し、再生素材で作られており、弊社の新しい持続可能性の目標に完璧に合致しています。",
+      "来月から店頭でお買い求めいただけますが、今週事前注文されたお客様には早割ディスカウントをご提供しております。",
+      "それでは少し休憩をはさみまして、再開後に弊社の技術チームよりマシンの実演を行わせていただきます。"
+    ],
+    "vocab": [
+      "sustainability：持続可能性",
+      "early-bird discount：早割、早期割引",
+      "preorder：事前注文する",
+      "demonstrate：実演する、説明する"
+    ],
+    "questions": [
+      {
+        "id": "l34-t07-q1",
+        "questionJa": "何が紹介されていますか。",
+        "choicesJa": [
+          "新しいコーヒーメーカー。",
+          "新しいオフィスビル。",
+          "新しいソフトウェアの更新。",
+          "新しい配送サービス。"
+        ],
+        "explanationDetail": "話し手が1文目で「最新製品である EcoBrew コーヒーメーカー（EcoBrew coffee maker）を紹介する」と述べているため、(A)が正解です。"
+      },
+      {
+        "id": "l34-t07-q2",
+        "questionJa": "新製品の特徴は何ですか。",
+        "choicesJa": [
+          "旧モデルよりも抽出が速いこと。",
+          "エネルギー使用量が少なく、リサイクル素材を使用していること。",
+          "生涯保証がついていること。",
+          "オンライン限定で入手できること。"
+        ],
+        "explanationDetail": "話し手が2文目で「エネルギー使用量が40%少なく、リサイクル素材から作られている（uses forty percent less energy and is made from recycled materials）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t07-q3",
+        "questionJa": "休憩の後で何が行われますか。",
+        "choicesJa": [
+          "質疑応答セッション。",
+          "製品の実演（デモンストレーション）。",
+          "記者会見。",
+          "工場見学。"
+        ],
+        "explanationDetail": "話し手が4文目で「戻りましたら技術チームが機械の実演を行います（engineering team will demonstrate how the machine works）」と述べているため、(B)が正解です。"
+      }
+    ]
+  },
+  {
+    "id": "l34-t08",
+    "scriptJa": [
+      "ブライト・ホライズン社へようこそ。そして、私たちのチームへのご入社おめでとうございます。",
+      "今朝は基本事項として、IDバッジ、ビルの出入管理、そして社内ネット上の社員ハンドブックの確認場所について説明します。",
+      "昼食後は、皆様お一人おひとりが所属部門の上司と面談し、具体的な担当業務の確認と最初の1ヶ月の目標設定を行います。",
+      "まだ提出されていない方は、本日中に緊急連絡先情報を人事部に必ず提出してください。"
+    ],
+    "vocab": [
+      "basics：基本事項",
+      "employee handbook：社員ハンドブック",
+      "go over：〜を確認する、詳しく見る",
+      "Human Resources (HR)：人事部"
+    ],
+    "questions": [
+      {
+        "id": "l34-t08-q1",
+        "questionJa": "この話の聞き手は誰ですか。",
+        "choicesJa": [
+          "退職する従業員。",
+          "新入社員。",
+          "求職者。",
+          "企業の顧客。"
+        ],
+        "explanationDetail": "話し手が1文目で「チームへの入社おめでとうございます（congratulations on joining our team）」と入社を歓迎しているため、(B)「新入社員」が正解です。"
+      },
+      {
+        "id": "l34-t08-q2",
+        "questionJa": "昼食後に何が行われますか。",
+        "choicesJa": [
+          "社内ツアー（見学）。",
+          "上司との個別面談。",
+          "スキル評価テスト。",
+          "歓迎夕食会。"
+        ],
+        "explanationDetail": "話し手が3文目で「昼食後、部門の上司と個別面談をする（meet individually with your department supervisor）」と述べているため、(B)が正解です。"
+      },
+      {
+        "id": "l34-t08-q3",
+        "questionJa": "新入社員は本日中に何を提出するよう求められていますか。",
+        "choicesJa": [
+          "署名済みの契約書。",
+          "緊急連絡先情報。",
+          "履歴書のコピー。",
+          "銀行口座の詳細。"
+        ],
+        "explanationDetail": "話し手が最後の文で「人事部に緊急連絡先情報を提出してください（submit your emergency contact information to Human Resources）」と指示しているため、(B)が正解です。"
+      }
+    ]
+  }
+]
+
+
+```
+
+[
+{
+"id": "l34-t01",
+"scriptJa": [
+"こんにちは、伊藤様へのメッセージです。プライム・オフィス・ファニチャーのレイチェルです。デスクの注文についてのお電話に折り返しご連絡いたしました。",
+"倉庫を確認しましたところ、あいにくご希望のモデルは現在在庫切れとなっておりますが、来週末までに再入荷する見込みです。",
+"それまでの間、もし早めにご覧になりたいようでしたら、別のコレクションから同価格の類似のデスクをご提案できます。",
+"伊藤様のご都合の良いときにお電話を折り返しいただけますと幸いです。私直通の電話番号は555-0192です。"
+],
+"vocab": [
+"return one's call：〜に折り返し電話をする",
+"out of stock：在庫切れで",
+"in the meantime：その間に、それまでの間",
+"at one's convenience：〜の都合の良いときに"
+],
+"questions": [
+{
+"id": "l34-t01-q1",
+"questionJa": "なぜレイチェルは電話をかけていますか。",
+"choicesJa": [
+"配送先住所を確認するため。",
+"家具の注文に関する電話に折り返すため。",
+"請求の誤りを謝罪するため。",
+"店舗の閉店を知らせるため。"
+],
+"explanationDetail": "話し手が1文目で「デスクの注文についてのお電話に折り返しご連絡いたしました（returning your call about the desk order）」と述べているため、(B)が正解です。住所確認や謝罪について述べているわけではありません。"
+},
+{
+"id": "l34-t01-q2",
+"questionJa": "レイチェルはどのような問題を挙げていますか。",
+"choicesJa": [
+"デスクが在庫切れであること。",
+"価格が値上がりしたこと。",
+"店舗が移転したこと。",
+"注文がキャンセルされたこと。"
+],
+"explanationDetail": "話し手が2文目で「ご希望のモデルは現在在庫切れ（currently out of stock）」と伝えているため、(A)が正解です。値上がりや注文のキャンセルについては言及されていません。"
+},
+{
+"id": "l34-t01-q3",
+"questionJa": "レイチェルは伊藤様に何をするよう頼んでいますか。",
+"choicesJa": [
+"直接来店すること。",
+"折り返し電話をすること。",
+"すぐに支払いを送ること。",
+"配送日を選ぶこと。"
+],
+"explanationDetail": "話し手が最後の文で「都合の良いときに折り返しお電話をいただけますと幸いです（give me a call back at your convenience）」と依頼しているため、(B)が正解です。"
+}
+]
+},
+{
+"id": "l34-t02",
+"scriptJa": [
+"この季節、お部屋の模様替えをお考えですか？ 年に一度のビッグセールを開催中のメイプル・ストリート・ファーニシングスへぜひお越しください！",
+"今週の金曜日から日曜日まで、すべてのソファとダイニングセットが最大40%オフ、さらに300ドル以上お買い上げのお客様には無料配送がついてきます。",
+"当店はセントラル・パーク・モールのお隣にあり、セール期間中は毎晩夜9時まで営業しております。",
+"この機会をお見逃しなく。数に限りがございますので、豊富な品揃えからお選びいただくためにも、ぜひお早めにお立ち寄りください。"
+],
+"vocab": [
+"refresh：（部屋など）を一新する、模様替えする",
+"up to 〜：最大〜まで",
+"miss out：チャンスを逃す",
+"stop by：（ついでに）立ち寄る"
+],
+"questions": [
+{
+"id": "l34-t02-q1",
+"questionJa": "何が宣伝されていますか。",
+"choicesJa": [
+"グランドオープンイベント。",
+"家具のセール。",
+"料理教室。",
+"就職フェア。"
+],
+"explanationDetail": "話し手が1文目で「家具店 Maple Street Furnishings の年に一度のビッグセール（biggest sale of the year）」を宣伝しているため、(B)が正解です。"
+},
+{
+"id": "l34-t02-q2",
+"questionJa": "300ドル以上の購入には何が含まれますか。",
+"choicesJa": [
+"ギフトカード。",
+"無料配送。",
+"延長保証。",
+"次回使える割引クーポン。"
+],
+"explanationDetail": "話し手が2文目で「300ドル以上のお買い上げで無料配送がついてくる（any purchase over three hundred dollars comes with free delivery）」と説明しているため、(B)が正解です。"
+},
+{
+"id": "l34-t02-q3",
+"questionJa": "広告によると、なぜ聞き手は早めに来店すべきですか。",
+"choicesJa": [
+"週末は店舗が早く閉まるから。",
+"駐車場が限られているから。",
+"商品の数に限りがあるから。",
+"初日の後に価格が上がるから。"
+],
+"explanationDetail": "話し手が最後の文で「数に限りがある（supplies are limited）ので、お早めにお立ち寄りください」と呼びかけているため、(C)が正解です。"
+}
+]
+},
+{
+"id": "l34-t03",
+"scriptJa": [
+"通勤の皆様、おはようございます。中心街のルートの交通情報をお伝えします。",
+"5thアベニューでの道路工事が本日も続いております。ビジネス街へ向かうドライバーの皆様は約20分の遅延が予想されますので、代わりにリバーサイド・ドライブをご利用ください。",
+"グラント・ストリート・ブリッジは順調に流れていますが、今週の登校・出勤が始まるため、午前8時以降は混雑が予想されます。",
+"次の交通情報は30分後にお伝えします。本日も安全運転でお出かけください。"
+],
+"vocab": [
+"commuter：通勤・通学客",
+"expect delays：遅延を予想する",
+"run smoothly：（交通・進行などが）順調に動いている",
+"heavy traffic：交通渋滞、混雑"
+],
+"questions": [
+{
+"id": "l34-t03-q1",
+"questionJa": "5thアベニューで遅延を引き起こしている原因は何ですか。",
+"choicesJa": [
+"交通事故。",
+"道路工事。",
+"大雪。",
+"パレード。"
+],
+"explanationDetail": "話し手が2文目で「5thアベニューでの工事（Construction on Fifth Avenue）が本日も続いている」と述べているため、(B)が正解です。"
+},
+{
+"id": "l34-t03-q2",
+"questionJa": "どの迂回路が提案されていますか。",
+"choicesJa": [
+"グラント・ストリート・ブリッジ。",
+"リバーサイド・ドライブ。",
+"セントラル・ハイウェイ。",
+"パーク・アベニュー。"
+],
+"explanationDetail": "話し手が2文目で「代わりにリバーサイド・ドライブの利用を検討してください（consider taking Riverside Drive instead）」と提案しているため、(B)が正解です。"
+},
+{
+"id": "l34-t03-q3",
+"questionJa": "次の交通情報はいつ提供されますか。",
+"choicesJa": [
+"10分後。",
+"30分後。",
+"1時間後。",
+"明日の朝。"
+],
+"explanationDetail": "話し手が最後の文で「30分後に次の情報をお伝えします（We'll have another update in thirty minutes）」と述べているため、(B)が正解です。"
+}
+]
+},
+{
+"id": "l34-t04",
+"scriptJa": [
+"リバーサイド美術館へようこそ。私はグレースと申します。本日の午後のツアーのガイドを務めさせていただきます。",
+"2階の現代絵画コレクションからスタートし、彫刻庭園へ移動した後、最後はギフトショップで終了いたします。",
+"ほとんどの展示室で写真撮影は可能ですが、作品を傷める恐れがあるため、古い絵画の近くでのフラッシュ撮影は禁止されておりますのでご注意ください。",
+"途中でご質問がございましたら、どうぞ遠慮なくお尋ねください。それでは、エレベーターへ向かって始めましょう。"
+],
+"vocab": [
+"modern painting：現代絵画",
+"sculpture garden：彫刻庭園",
+"permit：許可する",
+"feel free to -：遠慮なく〜する"
+],
+"questions": [
+{
+"id": "l34-t04-q1",
+"questionJa": "グレースはおそらくどのような人物ですか。",
+"choicesJa": [
+"美術館の学芸員（キュレーター）。",
+"ツアーガイド。",
+"警備員。",
+"ギフトショップの従業員。"
+],
+"explanationDetail": "話し手（グレース）が1文目で「午後のツアーのガイドを務めます（I'll be your guide for this afternoon's tour）」と自己紹介しているため、(B)が正解です。"
+},
+{
+"id": "l34-t04-q2",
+"questionJa": "ツアーはどこで終了しますか。",
+"choicesJa": [
+"彫刻庭園。",
+"2階。",
+"ギフトショップ。",
+"正面玄関。"
+],
+"explanationDetail": "話し手が2文目で「ギフトショップで終了する（finishing in the gift shop）」と工程を案内しているため、(C)が正解です。"
+},
+{
+"id": "l34-t04-q3",
+"questionJa": "聞き手がしてはならないとされていることは何ですか。",
+"choicesJa": [
+"一切の写真撮影をすること。",
+"絵画に触れること。",
+"古い絵画の近くでフラッシュ撮影をすること。",
+"ギャラリー内にバッグを持ち込むこと。"
+],
+"explanationDetail": "話し手が3文目で「作品を傷める可能性があるため、古い絵画の近くでのフラッシュ撮影は許可されていない（flash photography is not permitted near the older paintings）」と注意を促しているため、(C)が正解です。"
+}
+]
+},
+{
+"id": "l34-t05",
+"scriptJa": [
+"皆様、こんにちは。今週の木曜日に開催されるカスタマーサービス研修セッションについてお知らせいたします。",
+"セッションは会議室Bにて午後の1時から4時まで行われ、営業部門およびサポート部門の全スタッフの参加が義務付けられています。",
+"新しい苦情処理手順と、顧客データベースシステムのいくつかの更新点について取り上げます。",
+"セッションの一部では新しいソフトウェアの実習を行いますので、ノートパソコンをお持ちください。"
+],
+"vocab": [
+"remind：〜を思い出させる、再確認する",
+"mandatory：義務的な、必須の",
+"complaint-handling：苦情処理",
+"hands-on：実践的な、体験型の"
+],
+"questions": [
+{
+"id": "l34-t05-q1",
+"questionJa": "このアナウンスの目的は何ですか。",
+"choicesJa": [
+"会議を中止すること。",
+"スタッフに研修セッションについて思い出させること。",
+"新入社員を発表すること。",
+"システム障害を報告すること。"
+],
+"explanationDetail": "話し手が1文目で「研修セッションについてお知らせ（リマインド）したい（remind you all about the customer service training session）」と述べているため、(B)が正解です。"
+},
+{
+"id": "l34-t05-q2",
+"questionJa": "誰の参加が義務付けられていますか。",
+"choicesJa": [
+"全従業員。",
+"新入社員のみ。",
+"営業部門とサポート部門のスタッフ。",
+"管理職のみ。"
+],
+"explanationDetail": "話し手が2文目で「営業・サポート部門の全スタッフに義務付けられている（mandatory for all staff in the sales and support departments）」と述べているため、(C)が正解です。"
+},
+{
+"id": "l34-t05-q3",
+"questionJa": "参加者は何を持参すべきですか。",
+"choicesJa": [
+"印刷されたマニュアル。",
+"ノートパソコン。",
+"署名入りの用紙。",
+"名刺。"
+],
+"explanationDetail": "話し手が4文目で「新しいソフトウェアの実習を行うため、ノートパソコンを持ってきてほしい（bring your laptops）」と要請しているため、(B)が正解です。"
+}
+]
+},
+{
+"id": "l34-t06",
+"scriptJa": [
+"ご乗客の皆様にお知らせいたします。こちらはシアトル行き306便の最終搭乗案内でございます。",
+"10分後に搭乗口のドアが閉まりますので、まだ搭乗されていないお客様は、ただちに12番ゲートへお進みください。",
+"搭乗口のスタッフに見せられるよう、搭乗券と身分証明書をご用意ください。",
+"搭乗に追加のお時間が必要なお客様は、現時点で航空会社のスタッフにお申し出ください。"
+],
+"vocab": [
+"final boarding call：最終搭乗案内",
+"proceed to 〜：〜へ進む",
+"identification (ID)：身分証明書",
+"require：〜を必要とする"
+],
+"questions": [
+{
+"id": "l34-t06-q1",
+"questionJa": "アナウンスは何についてのものですか。",
+"choicesJa": [
+"フライトの遅延。",
+"最終搭乗案内。",
+"搭乗口の変更。",
+"気象警告。"
+],
+"explanationDetail": "話し手が1文目で「シアトル行き306便の最終搭乗案内（final boarding call for flight three-zero-six）」と明言しているため、(B)が正解です。"
+},
+{
+"id": "l34-t06-q2",
+"questionJa": "乗客は何を用意しておく必要がありますか。",
+"choicesJa": [
+"手荷物タグ。",
+"搭乗券と身分証明書。",
+"印刷した旅程表。",
+"税関申告書。"
+],
+"explanationDetail": "話し手が3文目で「搭乗券と身分証明書を用意しておくように（have your boarding pass and identification ready）」と述べているため、(B)が正解です。"
+},
+{
+"id": "l34-t06-q3",
+"questionJa": "誰がスタッフに申し出るよう求めてられていますか。",
+"choicesJa": [
+"乗り継ぎ便のある乗客。",
+"搭乗に時間が必要な乗客。",
+"子供連れの乗客。",
+"荷物を紛失した乗客。"
+],
+"explanationDetail": "話し手が4文目で「搭乗に追加の時間が必要な乗客（Passengers requiring extra time to board）はスタッフに申し出てほしい」と促しているため、(B)が正解です。"
+}
+]
+},
+{
+"id": "l34-t07",
+"scriptJa": [
+"本日はご参加いただきありがとうございます。弊社の最新製品である『EcoBrew』コーヒーメーカーをご紹介できることを大変嬉しく思います。",
+"以前のモデルとは異なり、EcoBrewはエネルギー使用量を40%削減し、再生素材で作られており、弊社の新しい持続可能性の目標に完璧に合致しています。",
+"来月から店頭でお買い求めいただけますが、今週事前注文されたお客様には早割ディスカウントをご提供しております。",
+"それでは少し休憩をはさみまして、再開後に弊社の技術チームよりマシンの実演を行わせていただきます。"
+],
+"vocab": [
+"sustainability：持続可能性",
+"early-bird discount：早割、早期割引",
+"preorder：事前注文する",
+"demonstrate：実演する、説明する"
+],
+"questions": [
+{
+"id": "l34-t07-q1",
+"questionJa": "何が紹介されていますか。",
+"choicesJa": [
+"新しいコーヒーメーカー。",
+"新しいオフィスビル。",
+"新しいソフトウェアの更新。",
+"新しい配送サービス。"
+],
+"explanationDetail": "話し手が1文目で「最新製品である EcoBrew コーヒーメーカー（EcoBrew coffee maker）を紹介する」と述べているため、(A)が正解です。"
+},
+{
+"id": "l34-t07-q2",
+"questionJa": "新製品の特徴は何ですか。",
+"choicesJa": [
+"旧モデルよりも抽出が速いこと。",
+"エネルギー使用量が少なく、リサイクル素材を使用していること。",
+"生涯保証がついていること。",
+"オンライン限定で入手できること。"
+],
+"explanationDetail": "話し手が2文目で「エネルギー使用量が40%少なく、リサイクル素材から作られている（uses forty percent less energy and is made from recycled materials）」と述べているため、(B)が正解です。"
+},
+{
+"id": "l34-t07-q3",
+"questionJa": "休憩の後で何が行われますか。",
+"choicesJa": [
+"質疑応答セッション。",
+"製品の実演（デモンストレーション）。",
+"記者会見。",
+"工場見学。"
+],
+"explanationDetail": "話し手が4文目で「戻りましたら技術チームが機械の実演を行います（engineering team will demonstrate how the machine works）」と述べているため、(B)が正解です。"
+}
+]
+},
+{
+"id": "l34-t08",
+"scriptJa": [
+"ブライト・ホライズン社へようこそ。そして、私たちのチームへのご入社おめでとうございます。",
+"今朝は基本事項として、IDバッジ、ビルの出入管理、そして社内ネット上の社員ハンドブックの確認場所について説明します。",
+"昼食後は、皆様お一人おひとりが所属部門の上司と面談し、具体的な担当業務の確認と最初の1ヶ月の目標設定を行います。",
+"まだ提出されていない方は、本日中に緊急連絡先情報を人事部に必ず提出してください。"
+],
+"vocab": [
+"basics：基本事項",
+"employee handbook：社員ハンドブック",
+"go over：〜を確認する、詳しく見る",
+"Human Resources (HR)：人事部"
+],
+"questions": [
+{
+"id": "l34-t08-q1",
+"questionJa": "この話の聞き手は誰ですか。",
+"choicesJa": [
+"退職する従業員。",
+"新入社員。",
+"求職者。",
+"企業の顧客。"
+],
+"explanationDetail": "話し手が1文目で「チームへの入社おめでとうございます（congratulations on joining our team）」と入社を歓迎しているため、(B)「新入社員」が正解です。"
+},
+{
+"id": "l34-t08-q2",
+"questionJa": "昼食後に何が行われますか。",
+"choicesJa": [
+"社内ツアー（見学）。",
+"上司との個別面談。",
+"スキル評価テスト。",
+"歓迎夕食会。"
+],
+"explanationDetail": "話し手が3文目で「昼食後、部門の上司と個別面談をする（meet individually with your department supervisor）」と述べているため、(B)が正解です。"
+},
+{
+"id": "l34-t08-q3",
+"questionJa": "新入社員は本日中に何を提出するよう求められていますか。",
+"choicesJa": [
+"署名済みの契約書。",
+"緊急連絡先情報。",
+"履歴書のコピー。",
+"銀行口座の詳細。"
+],
+"explanationDetail": "話し手が最後の文で「人事部に緊急連絡先情報を提出してください（submit your emergency contact information to Human Resources）」と指示しているため、(B)が正解です。"
+}
+]
+}
+]

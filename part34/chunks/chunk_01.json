@@ -1,0 +1,474 @@
+[
+ {
+  "id": "l34-c01",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi Karen, do you have a minute? I need to talk about tomorrow's budget meeting."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Sure. Is there a problem with the schedule?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Actually, yes. Two of the department heads are going to be out of town tomorrow, so I'd like to push the meeting back to Thursday afternoon."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That should work for me. Let me just check the conference room isn't already booked, and I'll send everyone an updated invitation."
+   },
+   {
+    "speaker": "Man",
+    "line": "Thanks. Could you also print extra copies of the sales report? I think a few more people will join this time."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c01-q1",
+    "question": "Why does the man want to change the meeting?",
+    "choices": [
+     "The conference room is being renovated.",
+     "Some department heads will be away.",
+     "The budget report is not finished.",
+     "The woman requested a later time."
+    ]
+   },
+   {
+    "id": "l34-c01-q2",
+    "question": "What will the woman most likely do next?",
+    "choices": [
+     "Book a larger conference room.",
+     "Cancel the meeting entirely.",
+     "Check room availability and send a new invitation.",
+     "Ask the man to lead the meeting."
+    ]
+   },
+   {
+    "id": "l34-c01-q3",
+    "question": "What does the man ask the woman to do?",
+    "choices": [
+     "Reserve a projector.",
+     "Print additional copies of a report.",
+     "Contact the department heads.",
+     "Reschedule a different meeting."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c02",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hello, this is Table Nine restaurant. How can I help you?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Hi, I made a reservation for eight people tonight at seven, but I need to change it to six-thirty. Is that possible?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me check... I'm afraid seven is our only opening around that time on the patio, but we do have an indoor table available at six-thirty."
+   },
+   {
+    "speaker": "Man",
+    "line": "That's fine, we don't mind sitting inside. Also, one guest has a shellfish allergy — could you let the kitchen know?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Of course, I'll note that on the reservation right away."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c02-q1",
+    "question": "What does the man want to change?",
+    "choices": [
+     "The number of guests.",
+     "The reservation time.",
+     "The restaurant location.",
+     "The payment method."
+    ]
+   },
+   {
+    "id": "l34-c02-q2",
+    "question": "What does the woman offer the man?",
+    "choices": [
+     "A discount on the meal.",
+     "A table on the patio at seven.",
+     "An indoor table at six-thirty.",
+     "A free dessert."
+    ]
+   },
+   {
+    "id": "l34-c02-q3",
+    "question": "What does the man mention about one of his guests?",
+    "choices": [
+     "The guest will arrive late.",
+     "The guest has a food allergy.",
+     "The guest prefers a window seat.",
+     "The guest is celebrating a birthday."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c03",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Excuse me, I bought this printer last week, but it keeps jamming every time I try to print."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'm sorry to hear that. Do you have your receipt with you?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, right here. I'd like to exchange it for a different model, if possible."
+   },
+   {
+    "speaker": "Man",
+    "line": "That won't be a problem since it's within our thirty-day exchange window. Would you like the same model or a different one?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "I'll take a different one this time — maybe something a bit more reliable, even if it costs a little more."
+   },
+   {
+    "speaker": "Man",
+    "line": "Sure, let me show you our top-rated model over in aisle three."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c03-q1",
+    "question": "What problem does the woman describe?",
+    "choices": [
+     "A printer is jamming.",
+     "A product is missing parts.",
+     "An item was the wrong color.",
+     "A delivery never arrived."
+    ]
+   },
+   {
+    "id": "l34-c03-q2",
+    "question": "What does the man ask the woman for?",
+    "choices": [
+     "Her ID card.",
+     "Her receipt.",
+     "Her phone number.",
+     "Her membership card."
+    ]
+   },
+   {
+    "id": "l34-c03-q3",
+    "question": "What will the man most likely do next?",
+    "choices": [
+     "Refund her money.",
+     "Call the manufacturer.",
+     "Show her another product.",
+     "Repair the printer on site."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c04",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hey, my laptop suddenly froze while I was finishing the quarterly report. Do you know who I should contact?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "You should call the IT help desk — the number's on the intranet page. But it's usually pretty busy on Monday mornings."
+   },
+   {
+    "speaker": "Man",
+    "line": "I don't want to wait too long; the report is due by noon."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Why don't you use my laptop for now? I finished my part of the report already, and I won't need it for another hour."
+   },
+   {
+    "speaker": "Man",
+    "line": "That would really help. Thanks — I'll bring it back as soon as I submit the file."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c04-q1",
+    "question": "What is the man's problem?",
+    "choices": [
+     "He lost an important file.",
+     "His laptop stopped responding.",
+     "He forgot his password.",
+     "His printer ran out of ink."
+    ]
+   },
+   {
+    "id": "l34-c04-q2",
+    "question": "According to the woman, why might there be a delay?",
+    "choices": [
+     "The IT staff are on vacation.",
+     "The help desk is often busy on Mondays.",
+     "The system is being updated.",
+     "The office is closed for a holiday."
+    ]
+   },
+   {
+    "id": "l34-c04-q3",
+    "question": "What does the woman offer to do?",
+    "choices": [
+     "Fix the laptop herself.",
+     "Lend the man her laptop.",
+     "Finish the report for him.",
+     "Call the IT department."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c05",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hi, this is Lisa from Harborview Supplies. I'm calling about order number four-five-two."
+   },
+   {
+    "speaker": "Man",
+    "line": "Yes, let me pull that up. I see it was scheduled to ship out yesterday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's the issue — we still haven't received a shipping confirmation, and our client needs the materials by Friday."
+   },
+   {
+    "speaker": "Man",
+    "line": "I apologize for the delay. It looks like the item was held up at the warehouse. I can arrange express shipping at no extra charge so it arrives by Thursday."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That would be great. Could you send me the tracking number once it ships?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Absolutely, I'll email it to you within the hour."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c05-q1",
+    "question": "Why is the woman calling?",
+    "choices": [
+     "To place a new order.",
+     "To ask about a delayed shipment.",
+     "To cancel an order.",
+     "To request a price quote."
+    ]
+   },
+   {
+    "id": "l34-c05-q2",
+    "question": "What does the man offer to do?",
+    "choices": [
+     "Give a full refund.",
+     "Provide express shipping at no extra cost.",
+     "Cancel the order.",
+     "Send a replacement product."
+    ]
+   },
+   {
+    "id": "l34-c05-q3",
+    "question": "What will the man send the woman later?",
+    "choices": [
+     "An invoice.",
+     "A tracking number.",
+     "A product catalog.",
+     "A discount coupon."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c06",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Hi, this is David calling from Bright Path Marketing. Is this Ms. Chen?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Yes, speaking. Thank you for calling."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'm calling to let you know the hiring committee was impressed with your interview last week, and we'd like to invite you for a second interview with our creative director."
+   },
+   {
+    "speaker": "Woman",
+    "line": "That's wonderful news! When would that take place?"
+   },
+   {
+    "speaker": "Man",
+    "line": "We were thinking next Tuesday at ten in the morning. It should last about forty-five minutes, and this time we'd also like you to bring a portfolio of your recent design work."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Tuesday morning works perfectly. I'll have my portfolio ready."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c06-q1",
+    "question": "What is the purpose of the call?",
+    "choices": [
+     "To reject a job application.",
+     "To invite the woman to a second interview.",
+     "To offer the woman a job.",
+     "To reschedule a training session."
+    ]
+   },
+   {
+    "id": "l34-c06-q2",
+    "question": "How long will the second interview last?",
+    "choices": [
+     "Fifteen minutes.",
+     "Thirty minutes.",
+     "Forty-five minutes.",
+     "One hour."
+    ]
+   },
+   {
+    "id": "l34-c06-q3",
+    "question": "What is the woman asked to bring?",
+    "choices": [
+     "A list of references.",
+     "A copy of her resume.",
+     "A portfolio of her work.",
+     "A signed contract."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c07",
+  "script": [
+   {
+    "speaker": "Man",
+    "line": "Excuse me, I just saw that flight two-one-four to Chicago has been delayed. Do you know how long the delay will be?"
+   },
+   {
+    "speaker": "Woman",
+    "line": "Let me check for you... it looks like the new departure time is three hours later, due to a mechanical inspection."
+   },
+   {
+    "speaker": "Man",
+    "line": "Three hours? I have a connecting flight in Chicago that I might miss now."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I understand your concern. I can rebook you on a later connecting flight, or if you prefer, I can look into a different route through Denver that arrives around the same time as your original plan."
+   },
+   {
+    "speaker": "Man",
+    "line": "The Denver route sounds better. Could you check availability for me?"
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c07-q1",
+    "question": "Why has the flight been delayed?",
+    "choices": [
+     "Bad weather conditions.",
+     "A mechanical inspection.",
+     "A staffing shortage.",
+     "A security issue."
+    ]
+   },
+   {
+    "id": "l34-c07-q2",
+    "question": "What is the man worried about?",
+    "choices": [
+     "Losing his luggage.",
+     "Missing a connecting flight.",
+     "Paying an extra fee.",
+     "Getting a middle seat."
+    ]
+   },
+   {
+    "id": "l34-c07-q3",
+    "question": "What does the man decide to do?",
+    "choices": [
+     "Cancel his trip entirely.",
+     "Wait for the original flight.",
+     "Look into a route through Denver.",
+     "Request a full refund."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "l34-c08",
+  "script": [
+   {
+    "speaker": "Woman",
+    "line": "Hi, I'm checking out of room three-twelve, but I noticed an extra charge on my bill for room service I never ordered."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'm sorry about that. Let me take a look at the account... You're right, there's a charge from Tuesday night that doesn't match your other orders."
+   },
+   {
+    "speaker": "Woman",
+    "line": "Right, I was actually out at a client dinner that evening."
+   },
+   {
+    "speaker": "Man",
+    "line": "I'll remove that charge immediately and print you a corrected receipt. I'll also apply a small discount on your final bill for the inconvenience."
+   },
+   {
+    "speaker": "Woman",
+    "line": "I appreciate that. Could I also get a copy of the receipt sent to my email instead of printed?"
+   },
+   {
+    "speaker": "Man",
+    "line": "Of course, I'll send it to the email address on file right now."
+   }
+  ],
+  "questions": [
+   {
+    "id": "l34-c08-q1",
+    "question": "What is the woman's complaint?",
+    "choices": [
+     "Her room was not cleaned.",
+     "She was charged for a service she didn't use.",
+     "Her checkout time was changed.",
+     "Her room key stopped working."
+    ]
+   },
+   {
+    "id": "l34-c08-q2",
+    "question": "What does the man offer the woman?",
+    "choices": [
+     "A free night's stay.",
+     "A room upgrade.",
+     "A discount on her bill.",
+     "A late checkout."
+    ]
+   },
+   {
+    "id": "l34-c08-q3",
+    "question": "What does the woman request instead of a printed receipt?",
+    "choices": [
+     "A text message.",
+     "An emailed copy.",
+     "A phone call confirmation.",
+     "A mailed copy."
+    ]
+   }
+  ]
+ }
+]

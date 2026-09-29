@@ -1,0 +1,212 @@
+[
+ {
+  "id": "p721",
+  "passage": "Hilltop Brewing Company announced this week that it will (1) its product line to include canned versions of its most popular beers, responding to growing demand from retailers and customers who prefer cans over bottles.\n\nThe brewery invested in new canning equipment that will allow it to (2) production without significantly increasing costs. Owner Derek Holt said the move reflects broader industry trends, as many craft breweries have (3) to cans in recent years for their portability and recyclability.\n\nThe new canned products are expected to hit store shelves (4) next month.",
+  "blanks": [
+   {
+    "id": "p721b1",
+    "choices": [
+     "expand",
+     "expanded",
+     "expanding",
+     "expansion"
+    ]
+   },
+   {
+    "id": "p721b2",
+    "choices": [
+     "increase",
+     "increased",
+     "increasing",
+     "increases"
+    ]
+   },
+   {
+    "id": "p721b3",
+    "choices": [
+     "switch",
+     "switched",
+     "switching",
+     "switches"
+    ]
+   },
+   {
+    "id": "p721b4",
+    "choices": [
+     "begin",
+     "beginning",
+     "began",
+     "begun"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p722",
+  "passage": "Dear Team,\n\nAs you know, renovations on the second floor will (1) beginning next week and are expected to last approximately one month. During this time, employees normally seated on that floor will be (2) to temporary workstations on the fourth floor.\n\nWe understand this may cause some disruption, and we (3) apologize for any inconvenience. Facilities will assist everyone in moving their belongings safely and (4).",
+  "blanks": [
+   {
+    "id": "p722b1",
+    "choices": [
+     "start",
+     "started",
+     "starting",
+     "starts"
+    ]
+   },
+   {
+    "id": "p722b2",
+    "choices": [
+     "relocate",
+     "relocated",
+     "relocating",
+     "relocation"
+    ]
+   },
+   {
+    "id": "p722b3",
+    "choices": [
+     "sincere",
+     "sincerely",
+     "sincereness",
+     "sincerity"
+    ]
+   },
+   {
+    "id": "p722b4",
+    "choices": [
+     "efficient",
+     "efficiently",
+     "efficiency",
+     "efficacious"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p723",
+  "passage": "Starting next week, all service appointments must be (1) through our new online booking system rather than by phone. The new system allows customers to view real-time availability and receive instant confirmation.\n\nCustomers who prefer to book by phone may still do so, though wait times may be (2) due to limited staffing on the phone line. We encourage everyone to try the new system, which is (3) 24 hours a day.\n\nA short tutorial video is (4) on our website for anyone who needs help navigating the new platform.",
+  "blanks": [
+   {
+    "id": "p723b1",
+    "choices": [
+     "make",
+     "made",
+     "making",
+     "makes"
+    ]
+   },
+   {
+    "id": "p723b2",
+    "choices": [
+     "long",
+     "longer",
+     "longest",
+     "length"
+    ]
+   },
+   {
+    "id": "p723b3",
+    "choices": [
+     "available",
+     "availability",
+     "avail",
+     "availed"
+    ]
+   },
+   {
+    "id": "p723b4",
+    "choices": [
+     "post",
+     "posted",
+     "posting",
+     "posts"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p724",
+  "passage": "The city launched a new bike-sharing program this week, placing 500 rental bikes at 50 stations throughout downtown. Riders can (1) a bike using a smartphone app and are charged based on how long they use it.\n\nOfficials hope the program will (2) reduce car traffic downtown and provide an affordable transportation option for short trips. The first 30 minutes of each ride are (3) of charge for registered users, with additional time billed at a low hourly rate.\n\nThe program is expected to (4) to additional neighborhoods next year if the initial rollout proves successful.",
+  "blanks": [
+   {
+    "id": "p724b1",
+    "choices": [
+     "unlock",
+     "unlocked",
+     "unlocking",
+     "unlocks"
+    ]
+   },
+   {
+    "id": "p724b2",
+    "choices": [
+     "help",
+     "helped",
+     "helping",
+     "helps"
+    ]
+   },
+   {
+    "id": "p724b3",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "frees"
+    ]
+   },
+   {
+    "id": "p724b4",
+    "choices": [
+     "expand",
+     "expanded",
+     "expanding",
+     "expansion"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p725",
+  "passage": "Dear Team,\n\nWe are updating our employee referral program to offer larger rewards for successful referrals in hard-to-fill positions. Effective immediately, referral bonuses for engineering and technical roles will (1) from $500 to $1,000.\n\nAll other position categories will remain (2) at the current bonus amount. As always, bonuses are (3) after the referred candidate completes 90 days of employment.\n\nPlease reach out to HR if you have any (4) about how to submit a referral.",
+  "blanks": [
+   {
+    "id": "p725b1",
+    "choices": [
+     "increase",
+     "increased",
+     "increasing",
+     "increases"
+    ]
+   },
+   {
+    "id": "p725b2",
+    "choices": [
+     "unchanged",
+     "unchanging",
+     "changeable",
+     "changed"
+    ]
+   },
+   {
+    "id": "p725b3",
+    "choices": [
+     "pay",
+     "paid",
+     "paying",
+     "payment"
+    ]
+   },
+   {
+    "id": "p725b4",
+    "choices": [
+     "question",
+     "questioned",
+     "questioning",
+     "questionable"
+    ]
+   }
+  ]
+ }
+]

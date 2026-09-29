@@ -1,0 +1,632 @@
+[
+ {
+  "id": "p691",
+  "passage": "Dear Warehouse Staff,\n\nStarting next Monday, we will (1) transitioning to a new inventory management system called StockTrack. All item counts must be (2) using handheld scanners rather than the paper logs we currently use.\n\nA brief training session will be (3) this Thursday at 2 PM in the break room. Attendance is (4) for all warehouse employees.",
+  "blanks": [
+   {
+    "id": "p691b1",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   },
+   {
+    "id": "p691b2",
+    "choices": [
+     "record",
+     "recorded",
+     "recording",
+     "records"
+    ]
+   },
+   {
+    "id": "p691b3",
+    "choices": [
+     "hold",
+     "held",
+     "holding",
+     "holds"
+    ]
+   },
+   {
+    "id": "p691b4",
+    "choices": [
+     "mandate",
+     "mandated",
+     "mandatory",
+     "mandating"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p692",
+  "passage": "Golden Crust Bakery, known throughout the city for its artisan sourdough, announced plans this week to (1) its first international location in Toronto. The move comes after years of steady growth and increasing demand from customers outside the country.\n\nOwner Marie Dubois said the Toronto shop will be (2) run by a longtime employee who trained under her for over a decade. The new bakery is (3) to open its doors early next year.\n\nDubois hopes this expansion will be the first of (4) as the brand continues to grow internationally.",
+  "blanks": [
+   {
+    "id": "p692b1",
+    "choices": [
+     "open",
+     "opens",
+     "opening",
+     "opened"
+    ]
+   },
+   {
+    "id": "p692b2",
+    "choices": [
+     "personal",
+     "personally",
+     "personality",
+     "personalize"
+    ]
+   },
+   {
+    "id": "p692b3",
+    "choices": [
+     "expect",
+     "expected",
+     "expecting",
+     "expectation"
+    ]
+   },
+   {
+    "id": "p692b4",
+    "choices": [
+     "many",
+     "much",
+     "more",
+     "most"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p693",
+  "passage": "To All Staff,\n\nTo keep the break room clean and welcoming for everyone, please (1) after yourselves when using the microwave or refrigerator. Any food left in the refrigerator for more than three days will be (2) without notice.\n\nWe also ask that dishes be washed (3) rather than left in the sink. These small changes will help us (4) a more pleasant shared space.",
+  "blanks": [
+   {
+    "id": "p693b1",
+    "choices": [
+     "clean",
+     "cleaned",
+     "cleaning",
+     "cleans"
+    ]
+   },
+   {
+    "id": "p693b2",
+    "choices": [
+     "discard",
+     "discarded",
+     "discarding",
+     "discards"
+    ]
+   },
+   {
+    "id": "p693b3",
+    "choices": [
+     "immediate",
+     "immediately",
+     "immediacy",
+     "immediateness"
+    ]
+   },
+   {
+    "id": "p693b4",
+    "choices": [
+     "maintain",
+     "maintained",
+     "maintaining",
+     "maintenance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p694",
+  "passage": "Join us for a one-day seminar on effective leadership, (1) for managers and team leaders looking to sharpen their skills. The seminar will cover topics such as communication, delegation, and conflict resolution.\n\nSeats are (2) to 40 participants, so early registration is strongly encouraged. The registration fee includes lunch, materials, and a certificate of (3).\n\nTo reserve your spot, please visit our website or contact our office (4) phone.",
+  "blanks": [
+   {
+    "id": "p694b1",
+    "choices": [
+     "design",
+     "designed",
+     "designing",
+     "designs"
+    ]
+   },
+   {
+    "id": "p694b2",
+    "choices": [
+     "limit",
+     "limited",
+     "limiting",
+     "limitation"
+    ]
+   },
+   {
+    "id": "p694b3",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   },
+   {
+    "id": "p694b4",
+    "choices": [
+     "by",
+     "on",
+     "in",
+     "for"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p695",
+  "passage": "Dear Shareholders,\n\nAttached please find the materials for this year's annual shareholder meeting, (1) the agenda, financial statements, and proxy voting instructions. Please review these documents (2) to the meeting date.\n\nIf you are unable to attend in person, you may submit your vote (3) using the enclosed proxy form. All votes must be (4) no later than one week before the meeting.",
+  "blanks": [
+   {
+    "id": "p695b1",
+    "choices": [
+     "include",
+     "included",
+     "including",
+     "inclusion"
+    ]
+   },
+   {
+    "id": "p695b2",
+    "choices": [
+     "prior",
+     "priority",
+     "prioritize",
+     "priorities"
+    ]
+   },
+   {
+    "id": "p695b3",
+    "choices": [
+     "remote",
+     "remotely",
+     "remoteness",
+     "removal"
+    ]
+   },
+   {
+    "id": "p695b4",
+    "choices": [
+     "receive",
+     "received",
+     "receiving",
+     "receipt"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p696",
+  "passage": "The city will (1) a new curbside recycling program starting next month, allowing residents to recycle a wider range of materials, including electronics and batteries. The program is part of a broader effort to (2) landfill waste by 30 percent over the next five years.\n\nResidents will receive new recycling bins and a detailed guide explaining which items are (3). Officials say the program was (4) after similar initiatives proved successful in neighboring cities.",
+  "blanks": [
+   {
+    "id": "p696b1",
+    "choices": [
+     "launch",
+     "launched",
+     "launching",
+     "launches"
+    ]
+   },
+   {
+    "id": "p696b2",
+    "choices": [
+     "reduce",
+     "reduced",
+     "reducing",
+     "reduction"
+    ]
+   },
+   {
+    "id": "p696b3",
+    "choices": [
+     "accept",
+     "accepted",
+     "acceptable",
+     "acceptance"
+    ]
+   },
+   {
+    "id": "p696b4",
+    "choices": [
+     "model",
+     "modeled",
+     "modeling",
+     "models"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p697",
+  "passage": "Dear Subscriber,\n\nOur biggest sale of the season starts this Friday! For 72 hours only, enjoy up to 40% off (1) our entire online store, including new arrivals.\n\nTo make the most of the sale, we recommend (2) your wish list items now, as popular sizes and colors tend to sell out (3). Free shipping will be automatically (4) to all orders over $50.",
+  "blanks": [
+   {
+    "id": "p697b1",
+    "choices": [
+     "across",
+     "along",
+     "among",
+     "between"
+    ]
+   },
+   {
+    "id": "p697b2",
+    "choices": [
+     "add",
+     "added",
+     "adding",
+     "addition"
+    ]
+   },
+   {
+    "id": "p697b3",
+    "choices": [
+     "quick",
+     "quickly",
+     "quickness",
+     "quicken"
+    ]
+   },
+   {
+    "id": "p697b4",
+    "choices": [
+     "apply",
+     "applied",
+     "applying",
+     "application"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p698",
+  "passage": "To Project Teams,\n\nBeginning next week, weekly progress reports should be (1) using the new standardized template attached to this email. This change is meant to (2) reporting across all departments and make it easier to track project milestones.\n\nPlease continue submitting reports every Friday by 5 PM. If you have any (3) filling out the new template, reach out to your project coordinator for (4).",
+  "blanks": [
+   {
+    "id": "p698b1",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p698b2",
+    "choices": [
+     "standard",
+     "standardize",
+     "standardized",
+     "standardly"
+    ]
+   },
+   {
+    "id": "p698b3",
+    "choices": [
+     "difficult",
+     "difficulty",
+     "difficulties",
+     "difficultly"
+    ]
+   },
+   {
+    "id": "p698b4",
+    "choices": [
+     "assist",
+     "assisted",
+     "assistant",
+     "assistance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p699",
+  "passage": "The public works department has begun (1) all streetlights in the downtown area with energy-efficient LED fixtures, a project expected to reduce the city's electricity costs by nearly 50 percent. The upgrade, which will take approximately six months to (2), is being funded through a combination of city funds and a state energy grant.\n\nOfficials say the new lights will also improve visibility and safety for pedestrians and drivers at night. Residents may notice temporary lane closures as crews (3) each section of the district.\n\nThe project is expected to be fully (4) by the end of the year.",
+  "blanks": [
+   {
+    "id": "p699b1",
+    "choices": [
+     "replace",
+     "replaced",
+     "replacing",
+     "replacement"
+    ]
+   },
+   {
+    "id": "p699b2",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   },
+   {
+    "id": "p699b3",
+    "choices": [
+     "work",
+     "worked",
+     "working",
+     "works"
+    ]
+   },
+   {
+    "id": "p699b4",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p700",
+  "passage": "Dear Staff,\n\nIt has come to our attention that several laptops have gone (1) from the third-floor storage closet over the past month. We ask that anyone with information about their (2) contact the IT department immediately.\n\nGoing forward, all equipment checkouts must be (3) using the new sign-out sheet located outside the closet. We appreciate everyone's cooperation in helping us (4) our office resources.",
+  "blanks": [
+   {
+    "id": "p700b1",
+    "choices": [
+     "miss",
+     "missed",
+     "missing",
+     "misses"
+    ]
+   },
+   {
+    "id": "p700b2",
+    "choices": [
+     "locate",
+     "located",
+     "location",
+     "locating"
+    ]
+   },
+   {
+    "id": "p700b3",
+    "choices": [
+     "record",
+     "recorded",
+     "recording",
+     "records"
+    ]
+   },
+   {
+    "id": "p700b4",
+    "choices": [
+     "protect",
+     "protected",
+     "protecting",
+     "protection"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p701",
+  "passage": "Switch to NovaBank and experience banking (1) reimagined for the digital age. With our mobile app, you can deposit checks, transfer funds, and track spending, all (2) leaving your home.\n\nNew customers who open an account this month will receive a $100 bonus after their first (3) deposit. NovaBank also offers 24/7 customer support through live chat, ensuring help is always (4) when you need it.",
+  "blanks": [
+   {
+    "id": "p701b1",
+    "choices": [
+     "complete",
+     "completed",
+     "completely",
+     "completion"
+    ]
+   },
+   {
+    "id": "p701b2",
+    "choices": [
+     "without",
+     "with",
+     "besides",
+     "except"
+    ]
+   },
+   {
+    "id": "p701b3",
+    "choices": [
+     "direct",
+     "directly",
+     "direction",
+     "directed"
+    ]
+   },
+   {
+    "id": "p701b4",
+    "choices": [
+     "available",
+     "availability",
+     "avail",
+     "availed"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p702",
+  "passage": "To All Employees,\n\nEffective immediately, all travel expenses must be (1) using the new digital expense platform, TravelEase. Paper receipts should still be (2) but can now be uploaded as photos rather than mailed to accounting.\n\nReimbursements will typically be (3) within five business days of submission, compared to the previous two-week turnaround. We believe this change will make the process significantly more (4) for everyone involved.",
+  "blanks": [
+   {
+    "id": "p702b1",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p702b2",
+    "choices": [
+     "keep",
+     "kept",
+     "keeping",
+     "keeps"
+    ]
+   },
+   {
+    "id": "p702b3",
+    "choices": [
+     "process",
+     "processed",
+     "processing",
+     "processes"
+    ]
+   },
+   {
+    "id": "p702b4",
+    "choices": [
+     "efficient",
+     "efficiently",
+     "efficiency",
+     "efficacious"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p703",
+  "passage": "The historic Regal Theatre reopened its doors this weekend following an 18-month renovation that restored much of its original 1920s charm while adding modern amenities such as improved acoustics and wheelchair-accessible seating. The $6 million project was funded largely through a combination of grants and a community fundraising campaign that (1) more than expected.\n\nTheatre director Hannah Lewis said the goal was to (2) the building's historic character while ensuring it meets the needs of today's audiences. The theatre's opening production, a classic musical, has already sold out its (3) two weeks of performances.\n\nLewis added that the renovation would not have been possible (4) the strong support of the local community.",
+  "blanks": [
+   {
+    "id": "p703b1",
+    "choices": [
+     "raise",
+     "raised",
+     "raising",
+     "raises"
+    ]
+   },
+   {
+    "id": "p703b2",
+    "choices": [
+     "preserve",
+     "preserved",
+     "preserving",
+     "preservation"
+    ]
+   },
+   {
+    "id": "p703b3",
+    "choices": [
+     "first",
+     "firstly",
+     "firstness",
+     "firsts"
+    ]
+   },
+   {
+    "id": "p703b4",
+    "choices": [
+     "without",
+     "with",
+     "despite",
+     "unless"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p704",
+  "passage": "Hi Team,\n\nWe're excited to announce our annual team-building retreat, taking place next month at Lakeside Lodge. This year's event will (1) outdoor activities, workshops, and plenty of time to relax and connect with colleagues outside the office.\n\nTransportation will be (2) from the office, departing at 8 AM sharp on the first day. Please complete the attached form to let us know about any dietary (3) or accessibility needs by next Friday.\n\nWe look forward to (4) everyone there!",
+  "blanks": [
+   {
+    "id": "p704b1",
+    "choices": [
+     "include",
+     "included",
+     "including",
+     "inclusion"
+    ]
+   },
+   {
+    "id": "p704b2",
+    "choices": [
+     "provide",
+     "provided",
+     "providing",
+     "provision"
+    ]
+   },
+   {
+    "id": "p704b3",
+    "choices": [
+     "restrict",
+     "restricted",
+     "restriction",
+     "restrictions"
+    ]
+   },
+   {
+    "id": "p704b4",
+    "choices": [
+     "see",
+     "saw",
+     "seeing",
+     "seen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p705",
+  "passage": "Notice to All Employees,\n\nA new covered bicycle parking area is now (1) on the east side of the building, offering space for up to 50 bicycles. The area is equipped with security cameras and individual locking stations for added (2).\n\nEmployees who commute by bike are (3) to use this new facility instead of parking near the main entrance. Access is available 24 hours a day using your employee badge, which will automatically be (4) for bicycle area entry starting next week.",
+  "blanks": [
+   {
+    "id": "p705b1",
+    "choices": [
+     "available",
+     "availability",
+     "avail",
+     "availed"
+    ]
+   },
+   {
+    "id": "p705b2",
+    "choices": [
+     "secure",
+     "security",
+     "securely",
+     "secured"
+    ]
+   },
+   {
+    "id": "p705b3",
+    "choices": [
+     "encourage",
+     "encouraged",
+     "encouraging",
+     "encouragement"
+    ]
+   },
+   {
+    "id": "p705b4",
+    "choices": [
+     "enable",
+     "enabled",
+     "enabling",
+     "enables"
+    ]
+   }
+  ]
+ }
+]
