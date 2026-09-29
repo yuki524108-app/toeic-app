@@ -6,6 +6,7 @@ import {
   toggleBookmark as persistToggleBookmark,
   completePlacementTest as persistCompletePlacementTest,
   recordMockTestResult as persistRecordMockTestResult,
+  replaceAllData as persistReplaceAllData,
 } from "./storage";
 
 export function useAppData() {
@@ -27,6 +28,10 @@ export function useAppData() {
     setData((prev) => persistRecordMockTestResult(prev, result));
   }, []);
 
+  const importData = useCallback((newData: AppData) => {
+    setData(persistReplaceAllData(newData));
+  }, []);
+
   const refresh = useCallback(() => {
     setData(loadData());
   }, []);
@@ -37,6 +42,7 @@ export function useAppData() {
     toggleBookmark,
     completePlacementTest,
     recordMockTestResult,
+    importData,
     refresh,
   };
 }

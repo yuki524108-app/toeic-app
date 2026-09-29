@@ -1,0 +1,602 @@
+[
+{
+"id": "w801",
+"pos": "動詞",
+"exampleJa": "そのチームは予定より早く目標を達成した。",
+"note": "類義語：achieve, attain, accomplish\n派生：accomplishment（名詞：達成）\n表現：accomplish a goal（目標を達成する）"
+},
+{
+"id": "w802",
+"pos": "動詞",
+"exampleJa": "彼女は今四半期に過去最高の売上を達成した。",
+"note": "類義語：accomplish, attain, reach\n派生：achievement（名詞：達成）\n表現：achieve a goal（目標を達成する）"
+},
+{
+"id": "w803",
+"pos": "動詞",
+"exampleJa": "その企業は昨年、より小規模な競合会社を買収した。",
+"note": "類義語：obtain, gain, purchase\n派生：acquisition（名詞：買収、取得）\n表現：acquire a company（会社を買収する）"
+},
+{
+"id": "w804",
+"pos": "動詞",
+"exampleJa": "その会社は新しい規制に迅速に適応した。",
+"note": "類義語：adjust, accommodate, conform\n派生：adaptation（名詞：適応）\n表現：adapt to changes（変化に適応する）"
+},
+{
+"id": "w805",
+"pos": "動詞",
+"exampleJa": "顧客に合わせて予定を調整してください。",
+"note": "類義語：modify, alter, change\n派生：adjustment（名詞：調整）\n表現：adjust the schedule（予定を調整する）"
+},
+{
+"id": "w806",
+"pos": "動詞",
+"exampleJa": "人事部は従業員の福利厚生を管理している。",
+"note": "類義語：manage, oversee, operate\n派生：administration（名詞：管理、運営）\n表現：administer a program（制度を運営する）"
+},
+{
+"id": "w807",
+"pos": "動詞",
+"exampleJa": "そのマネージャーは柔軟な勤務時間を提唱している。",
+"note": "類義語：support, promote, recommend\n派生：advocacy（名詞：擁護、提唱）\n表現：advocate for change（変革を提唱する）"
+},
+{
+"id": "w808",
+"pos": "動詞",
+"exampleJa": "そのチームは調査結果を注意深く分析した。",
+"note": "類義語：examine, assess, evaluate\n派生：analysis（名詞：分析）\n表現：analyze data（データを分析する）"
+},
+{
+"id": "w809",
+"pos": "動詞",
+"exampleJa": "私たちは次の四半期に強い需要を予想している。",
+"note": "類義語：expect, predict, foresee\n派生：anticipation（名詞：予期）\n表現：anticipate demand（需要を予想する）"
+},
+{
+"id": "w810",
+"pos": "動詞",
+"exampleJa": "取締役会は新しい最高経営責任者を任命した。",
+"note": "類義語：assign, designate, nominate\n派生：appointment（名詞：任命）\n表現：appoint a manager（マネージャーを任命する）"
+},
+{
+"id": "w811",
+"pos": "動詞",
+"exampleJa": "作業員は生産ラインで部品を組み立てる。",
+"note": "類義語：build, construct, gather\n派生：assembly（名詞：組み立て、集会）\n表現：assemble parts（部品を組み立てる）"
+},
+{
+"id": "w812",
+"pos": "動詞",
+"exampleJa": "そのコンサルタントは会社の財務状況を評価した。",
+"note": "類義語：evaluate, assess, examine\n派生：assessment（名詞：評価）\n表現：assess the situation（状況を評価する）"
+},
+{
+"id": "w813",
+"pos": "動詞",
+"exampleJa": "そのマネージャーは各チームメンバーに新しい仕事を割り当てた。",
+"note": "類義語：allocate, assign, designate\n派生：assignment（名詞：割り当て、課題）\n表現：assign a task（仕事を割り当てる）"
+},
+{
+"id": "w814",
+"pos": "動詞",
+"exampleJa": "そのアシスタントは問い合わせへの対応で顧客を手伝う。",
+"note": "類義語：help, support, aid\n派生：assistance（名詞：援助、支援）\n表現：assist customers（顧客を手伝う）"
+},
+{
+"id": "w815",
+"pos": "動詞",
+"exampleJa": "彼女は先月、チームリーダーの役割を引き受けた。",
+"note": "類義語：accept, undertake, take on\n派生：assumption（名詞：想定、引き受け）\n表現：assume responsibility（責任を引き受ける）"
+},
+{
+"id": "w816",
+"pos": "動詞",
+"exampleJa": "そのマネージャーは顧客に納期どおりに配送すると保証した。",
+"note": "類義語：guarantee, reassure, promise\n派生：assurance（名詞：保証、安心）\n表現：assure someone of something（人に～を保証する）"
+},
+{
+"id": "w817",
+"pos": "動詞",
+"exampleJa": "その会社は早期に売上目標を達成した。",
+"note": "類義語：achieve, attain, accomplish\n派生：attainment（名詞：達成）\n表現：attain a target（目標を達成する）"
+},
+{
+"id": "w818",
+"pos": "動詞・名詞",
+"exampleJa": "彼らは問題を迅速に解決しようと試みた。",
+"note": "類義語：try, endeavor, seek\n派生：attempt（名詞：試み）\n表現：attempt to do（～しようと試みる）"
+},
+{
+"id": "w819",
+"pos": "動詞",
+"exampleJa": "その成長は強力なマーケティングによるものだと考えられている。",
+"note": "類義語：ascribe, credit, attribute\n表現：attribute A to B（AをBの結果だと考える）"
+},
+{
+"id": "w820",
+"pos": "動詞",
+"exampleJa": "その会社は今年、製品の品ぞろえを広げた。",
+"note": "類義語：expand, enlarge, extend\n派生：broadening（名詞：拡大）\n表現：broaden the range（範囲を広げる）"
+},
+{
+"id": "w821",
+"pos": "動詞・名詞",
+"exampleJa": "新しいキャンペーンは全体の売上を押し上げた。",
+"note": "類義語：increase, raise, enhance\n派生：boost（名詞：増加、後押し）\n表現：boost sales（売上を押し上げる）"
+},
+{
+"id": "w822",
+"pos": "動詞",
+"exampleJa": "プロジェクトの総費用を計算してください。",
+"note": "類義語：compute, estimate, determine\n派生：calculation（名詞：計算）\n表現：calculate the cost（費用を計算する）"
+},
+{
+"id": "w823",
+"pos": "動詞",
+"exampleJa": "出席者が少なかったため、そのイベントは中止された。",
+"note": "類義語：call off, terminate, discontinue\n派生：cancellation（名詞：中止、取り消し）\n表現：cancel an event（イベントを中止する）"
+},
+{
+"id": "w824",
+"pos": "動詞",
+"exampleJa": "そのメモは全部門に回覧された。",
+"note": "類義語：distribute, spread, circulate\n派生：circulation（名詞：回覧、流通）\n表現：circulate a memo（メモを回覧する）"
+},
+{
+"id": "w825",
+"pos": "動詞",
+"exampleJa": "そのプレゼンテーションは投資家を説得してプロジェクトに資金を提供させた。",
+"note": "類義語：persuade, convince, satisfy\n派生：convincing（形容詞：説得力のある）\n表現：convince someone to do（人を説得して～させる）"
+},
+{
+"id": "w826",
+"pos": "動詞",
+"exampleJa": "その発売は年次会議と同時に行われる。",
+"note": "類義語：coincide, correspond, overlap\n派生：coincidence（名詞：偶然の一致）\n表現：coincide with（～と同時に起こる）"
+},
+{
+"id": "w827",
+"pos": "動詞",
+"exampleJa": "その会社は遅延について顧客に補償した。",
+"note": "類義語：reimburse, repay, indemnify\n派生：compensation（名詞：補償、賠償）\n表現：compensate someone for（人に～を補償する）"
+},
+{
+"id": "w828",
+"pos": "動詞",
+"exampleJa": "彼女はデータを1つの報告書にまとめた。",
+"note": "類義語：compile, collect, assemble\n派生：compilation（名詞：編集、まとめ）\n表現：compile a report（報告書をまとめる）"
+},
+{
+"id": "w829",
+"pos": "動詞",
+"exampleJa": "新入社員の技能は既存のチームを補完している。",
+"note": "類義語：supplement, complete, enhance\n派生：complementary（形容詞：補完的な）\n表現：complement each other（互いに補完し合う）"
+},
+{
+"id": "w830",
+"pos": "動詞",
+"exampleJa": "その会社は顧客を対象に調査を実施した。",
+"note": "類義語：conduct, carry out, perform\n派生：conduction（名詞：実施）\n表現：conduct a survey（調査を実施する）"
+},
+{
+"id": "w831",
+"pos": "動詞",
+"exampleJa": "金曜日までに出席を確認してください。",
+"note": "類義語：verify, confirm, validate\n派生：confirmation（名詞：確認）\n表現：confirm attendance（出席を確認する）"
+},
+{
+"id": "w832",
+"pos": "動詞",
+"exampleJa": "2つの部署は1つに統合された。",
+"note": "類義語：combine, merge, integrate\n派生：consolidation（名詞：統合）\n表現：consolidate departments（部署を統合する）"
+},
+{
+"id": "w833",
+"pos": "動詞",
+"exampleJa": "海外売上は収益の大部分を構成している。",
+"note": "類義語：comprise, form, make up\n派生：constitution（名詞：構成）\n表現：constitute a large part of（～の大部分を構成する）"
+},
+{
+"id": "w834",
+"pos": "動詞",
+"exampleJa": "変更を加える前に上司に相談してください。",
+"note": "類義語：consult, advise, discuss\n派生：consultation（名詞：相談）\n表現：consult with someone（人に相談する）"
+},
+{
+"id": "w835",
+"pos": "動詞",
+"exampleJa": "すべてのチームメンバーがプロジェクトの成功に貢献した。",
+"note": "類義語：contribute, assist, help\n派生：contribution（名詞：貢献、寄付）\n表現：contribute to（～に貢献する）"
+},
+{
+"id": "w836",
+"pos": "動詞",
+"exampleJa": "その報告書は主要な調査結果を明確に伝えている。",
+"note": "類義語：communicate, express, convey\n派生：conveyance（名詞：伝達、輸送）\n表現：convey information（情報を伝える）"
+},
+{
+"id": "w837",
+"pos": "動詞",
+"exampleJa": "その会社は顧客との強い関係を育んでいる。",
+"note": "類義語：develop, nurture, foster\n派生：cultivation（名詞：育成、栽培）\n表現：cultivate relationships（関係を育む）"
+},
+{
+"id": "w838",
+"pos": "動詞",
+"exampleJa": "そのサービスは各顧客に合わせてカスタマイズできる。",
+"note": "類義語：modify, tailor, personalize\n派生：customization（名詞：カスタマイズ）\n表現：customize a service（サービスをカスタマイズする）"
+},
+{
+"id": "w839",
+"pos": "動詞・名詞",
+"exampleJa": "彼は予定が重なったため招待を断った。",
+"note": "類義語：refuse, reject, turn down\n派生：declining（形容詞：減少している）\n表現：decline an invitation（招待を断る）"
+},
+{
+"id": "w840",
+"pos": "動詞",
+"exampleJa": "彼女は会社の評判を築くことに何年も捧げた。",
+"note": "類義語：devote, dedicate, commit\n派生：dedication（名詞：献身）\n表現：dedicate time to（時間を～に捧げる）"
+},
+{
+"id": "w841",
+"pos": "動詞",
+"exampleJa": "顧客はその会社に多額の投資を委託した。",
+"note": "類義語：entrust, assign, delegate\n派生：entrustment（名詞：委託）\n表現：entrust A to B（AをBに委託する）"
+},
+{
+"id": "w842",
+"pos": "動詞",
+"exampleJa": "その営業担当者は製品の機能を実演した。",
+"note": "類義語：show, illustrate, exhibit\n派生：demonstration（名詞：実演、実証）\n表現：demonstrate a product（製品を実演する）"
+},
+{
+"id": "w843",
+"pos": "動詞",
+"exampleJa": "彼はプロジェクト責任者に指名された。",
+"note": "類義語：appoint, assign, nominate\n派生：designation（名詞：指名、指定）\n表現：designate someone as（人を～に指名する）"
+},
+{
+"id": "w844",
+"pos": "動詞",
+"exampleJa": "その結果が次のステップを決定する。",
+"note": "類義語：decide, establish, determine\n派生：determination（名詞：決定、決意）\n表現：determine the outcome（結果を決定する）"
+},
+{
+"id": "w845",
+"pos": "動詞",
+"exampleJa": "その製品への需要は最近減少している。",
+"note": "類義語：decrease, diminish, decline\n派生：diminution（名詞：減少）\n表現：diminish over time（時間とともに減少する）"
+},
+{
+"id": "w846",
+"pos": "動詞",
+"exampleJa": "その会社は時代遅れの製品ラインを中止した。",
+"note": "類義語：discontinue, terminate, cancel\n派生：discontinuation（名詞：中止）\n表現：discontinue a product（製品の販売を中止する）"
+},
+{
+"id": "w847",
+"pos": "動詞",
+"exampleJa": "ネットワークの問題を修正するため技術者が派遣された。",
+"note": "類義語：deploy, dispatch, position\n派生：deployment（名詞：配備、展開）\n表現：deploy a technician（技術者を派遣する）"
+},
+{
+"id": "w848",
+"pos": "動詞",
+"exampleJa": "資料はすべての出席者に配布された。",
+"note": "類義語：distribute, circulate, hand out\n派生：distribution（名詞：配布、分配）\n表現：distribute handouts（資料を配布する）"
+},
+{
+"id": "w849",
+"pos": "熟語",
+"exampleJa": "その会社は新たな買収を通じて投資ポートフォリオの幅を広げた。",
+"note": "類義語：diversify, expand, broaden\n表現：broaden a portfolio（ポートフォリオの幅を広げる）"
+},
+{
+"id": "w850",
+"pos": "動詞",
+"exampleJa": "新しい工程によって不要な書類作業がなくなる。",
+"note": "類義語：remove, eliminate, eradicate\n派生：elimination（名詞：排除）\n表現：eliminate waste（無駄を排除する）"
+},
+{
+"id": "w851",
+"pos": "動詞",
+"exampleJa": "そのマネージャーはチームワークの重要性を強調した。",
+"note": "類義語：stress, highlight, underscore\n派生：emphasis（名詞：強調）\n表現：emphasize the importance of（～の重要性を強調する）"
+},
+{
+"id": "w852",
+"pos": "動詞",
+"exampleJa": "そのソフトウェアによって、より速いデータ処理が可能になる。",
+"note": "類義語：allow, permit, facilitate\n派生：enabling（形容詞：可能にする）\n表現：enable someone to do（人が～できるようにする）"
+},
+{
+"id": "w853",
+"pos": "動詞・名詞",
+"exampleJa": "そのチームはプロジェクト中にいくつかの障害に遭遇した。",
+"note": "類義語：encounter, face, experience\n派生：encounter（名詞：遭遇）\n表現：encounter problems（問題に遭遇する）"
+},
+{
+"id": "w854",
+"pos": "動詞",
+"exampleJa": "そのアップデートはアプリの性能を向上させる。",
+"note": "類義語：improve, enhance, strengthen\n派生：enhancement（名詞：向上、強化）\n表現：enhance performance（性能を向上させる）"
+},
+{
+"id": "w855",
+"pos": "動詞",
+"exampleJa": "提出前にすべての用紙に署名されていることを確認してください。",
+"note": "類義語：ensure, guarantee, make sure\n派生：ensurance（名詞：保証）\n表現：ensure that（～であることを確実にする）"
+},
+{
+"id": "w856",
+"pos": "動詞",
+"exampleJa": "その会社は1995年に設立された。",
+"note": "類義語：found, create, establish\n派生：establishment（名詞：設立、施設）\n表現：establish a company（会社を設立する）"
+},
+{
+"id": "w857",
+"pos": "動詞",
+"exampleJa": "管理職は毎年、従業員の業績を評価する。",
+"note": "類義語：assess, evaluate, appraise\n派生：evaluation（名詞：評価）\n表現：evaluate performance（業績を評価する）"
+},
+{
+"id": "w858",
+"pos": "動詞",
+"exampleJa": "今四半期の売上は予想を上回った。",
+"note": "類義語：surpass, exceed, outstrip\n派生：excess（名詞：超過）\n表現：exceed expectations（期待を上回る）"
+},
+{
+"id": "w859",
+"pos": "動詞",
+"exampleJa": "そのチームは遅れなく計画を実行した。",
+"note": "類義語：carry out, perform, implement\n派生：execution（名詞：実行）\n表現：execute a plan（計画を実行する）"
+},
+{
+"id": "w860",
+"pos": "動詞",
+"exampleJa": "その従業員は優れたリーダーシップ能力を示した。",
+"note": "類義語：show, display, demonstrate\n派生：exhibition（名詞：展示）\n表現：exhibit skills（能力を示す）"
+},
+{
+"id": "w861",
+"pos": "動詞",
+"exampleJa": "その会社は新しい市場へ事業を拡大する計画だ。",
+"note": "類義語：expand, enlarge, extend\n派生：expansion（名詞：拡大）\n表現：expand into new markets（新市場へ進出する）"
+},
+{
+"id": "w862",
+"pos": "熟語",
+"exampleJa": "そのチームは承認手続きを迅速化するために取り組んだ。",
+"note": "類義語：speed up, accelerate, hasten\n表現：expedite a process（手続きを迅速化する）"
+},
+{
+"id": "w863",
+"pos": "動詞",
+"exampleJa": "その契約は数週間の交渉を経て最終決定された。",
+"note": "類義語：complete, conclude, settle\n派生：finalization（名詞：最終決定）\n表現：finalize a contract（契約を最終決定する）"
+},
+{
+"id": "w864",
+"pos": "熟語",
+"exampleJa": "アナリストは来年、安定した売上成長を見込んでいる。",
+"note": "類義語：forecast, predict, estimate\n表現：project sales（売上を見込む）"
+},
+{
+"id": "w865",
+"pos": "動詞",
+"exampleJa": "そのプログラムは従業員の間でイノベーションを促進する。",
+"note": "類義語：encourage, promote, foster\n派生：fostering（名詞：促進、育成）\n表現：foster innovation（革新を促進する）"
+},
+{
+"id": "w866",
+"pos": "動詞",
+"exampleJa": "そのキャンペーンは大きな関心を生み出した。",
+"note": "類義語：produce, create, yield\n派生：generation（名詞：生成、発生）\n表現：generate revenue（収益を生み出す）"
+},
+{
+"id": "w867",
+"pos": "熟語",
+"exampleJa": "そのマネージャーは従業員の休暇申請を承認した。",
+"note": "類義語：approve, authorize, accept\n表現：approve a request（要求を承認する）"
+},
+{
+"id": "w868",
+"pos": "動詞",
+"exampleJa": "その監査によって、改善すべきいくつかの分野が特定された。",
+"note": "類義語：identify, detect, recognize\n派生：identification（名詞：特定、識別）\n表現：identify a problem（問題を特定する）"
+},
+{
+"id": "w869",
+"pos": "動詞",
+"exampleJa": "その会社は先月、新しい方針を実施した。",
+"note": "類義語：implement, introduce, enforce\n派生：implementation（名詞：実施）\n表現：implement a policy（方針を実施する）"
+},
+{
+"id": "w870",
+"pos": "動詞",
+"exampleJa": "そのデザインには顧客からの意見が組み込まれている。",
+"note": "類義語：include, integrate, incorporate\n派生：incorporation（名詞：組み込み、法人化）\n表現：incorporate feedback（意見を取り入れる）"
+},
+{
+"id": "w871",
+"pos": "動詞",
+"exampleJa": "そのマネージャーは工程の見直しを開始した。",
+"note": "類義語：begin, start, launch\n派生：initiation（名詞：開始）\n表現：initiate a review（見直しを開始する）"
+},
+{
+"id": "w872",
+"pos": "動詞",
+"exampleJa": "当局は安全基準への適合を確認するため工場を検査した。",
+"note": "類義語：examine, check, inspect\n派生：inspection（名詞：検査）\n表現：inspect a facility（施設を検査する）"
+},
+{
+"id": "w873",
+"pos": "動詞",
+"exampleJa": "2つのシステムは無事に統合された。",
+"note": "類義語：combine, merge, consolidate\n派生：integration（名詞：統合）\n表現：integrate systems（システムを統合する）"
+},
+{
+"id": "w874",
+"pos": "動詞",
+"exampleJa": "その会社は従業員を増やすつもりだ。",
+"note": "類義語：plan, intend, mean\n派生：intention（名詞：意図）\n表現：intend to do（～するつもりである）"
+},
+{
+"id": "w875",
+"pos": "動詞",
+"exampleJa": "アナリストたちはそのデータを異なる方法で解釈した。",
+"note": "類義語：explain, understand, analyze\n派生：interpretation（名詞：解釈）\n表現：interpret data（データを解釈する）"
+},
+{
+"id": "w876",
+"pos": "動詞・名詞",
+"exampleJa": "その銀行は新しいデザインのクレジットカードを発行した。",
+"note": "類義語：publish, release, distribute\n派生：issuance（名詞：発行）\n表現：issue a card（カードを発行する）"
+},
+{
+"id": "w877",
+"pos": "動詞",
+"exampleJa": "そのマネージャーは取締役会にその経費を正当化した。",
+"note": "類義語：defend, explain, validate\n派生：justification（名詞：正当化、正当な理由）\n表現：justify an expense（経費を正当化する）"
+},
+{
+"id": "w878",
+"pos": "動詞・名詞",
+"exampleJa": "その会社は新しい製品ラインを発売した。",
+"note": "類義語：introduce, release, start\n派生：launch（名詞：発売、開始）\n表現：launch a product（製品を発売する）"
+},
+{
+"id": "w879",
+"pos": "動詞",
+"exampleJa": "そのチームは高い品質基準を維持している。",
+"note": "類義語：preserve, sustain, retain\n派生：maintenance（名詞：維持、保守）\n表現：maintain high standards（高い基準を維持する）"
+},
+{
+"id": "w880",
+"pos": "動詞",
+"exampleJa": "その戦略は利益を最大化することを目指している。",
+"note": "類義語：maximize, increase, optimize\n派生：maximization（名詞：最大化）\n表現：maximize profits（利益を最大化する）"
+},
+{
+"id": "w881",
+"pos": "動詞",
+"exampleJa": "新しい工程は廃棄物を最小限に抑える。",
+"note": "類義語：reduce, lessen, minimize\n派生：minimum（名詞：最小値）\n表現：minimize waste（廃棄物を最小限にする）"
+},
+{
+"id": "w882",
+"pos": "動詞",
+"exampleJa": "その契約は新しい条件を含めるために変更された。",
+"note": "類義語：alter, change, revise\n派生：modification（名詞：変更、修正）\n表現：modify a contract（契約を変更する）"
+},
+{
+"id": "w883",
+"pos": "動詞・名詞",
+"exampleJa": "そのシステムは24時間体制でネットワーク活動を監視している。",
+"note": "類義語：observe, track, supervise\n派生：monitoring（名詞：監視）\n表現：monitor activity（活動を監視する）"
+},
+{
+"id": "w884",
+"pos": "動詞・名詞",
+"exampleJa": "彼らは販売業者とより安い価格を交渉した。",
+"note": "類義語：negotiate, haggle, bargain\n派生：bargaining（名詞：交渉）\n表現：bargain for a lower price（より安い価格を交渉する）"
+},
+{
+"id": "w885",
+"pos": "熟語",
+"exampleJa": "マネージャーは変更について従業員にメールで知らせる。",
+"note": "類義語：inform, notify, advise\n表現：alert someone to（人に～を知らせる）"
+},
+{
+"id": "w886",
+"pos": "動詞",
+"exampleJa": "その会社は規制当局から承認を取得した。",
+"note": "類義語：obtain, acquire, get\n派生：obtainment（名詞：取得）\n表現：obtain approval（承認を得る）"
+},
+{
+"id": "w887",
+"pos": "動詞",
+"exampleJa": "彼女はマーケティング部門全体を監督している。",
+"note": "類義語：supervise, manage, oversee\n派生：oversight（名詞：監督、監視）\n表現：oversee a department（部門を監督する）"
+},
+{
+"id": "w888",
+"pos": "動詞",
+"exampleJa": "顧客はそのブランドを信頼できると認識している。",
+"note": "類義語：recognize, regard, view\n派生：perception（名詞：認識、知覚）\n表現：perceive A as B（AをBだと認識する）"
+},
+{
+"id": "w889",
+"pos": "動詞",
+"exampleJa": "その営業担当者は顧客を説得して契約書に署名させた。",
+"note": "類義語：persuade, convince, influence\n派生：persuasion（名詞：説得）\n表現：persuade someone to do（人を説得して～させる）"
+},
+{
+"id": "w890",
+"pos": "動詞",
+"exampleJa": "スタッフの間では前向きな態度が広まっていた。",
+"note": "類義語：dominate, prevail, triumph\n派生：prevailing（形容詞：普及している、優勢な）\n表現：prevail among（～の間で広まる）"
+},
+{
+"id": "w891",
+"pos": "熟語",
+"exampleJa": "チームは毎朝、緊急性に応じてタスクに優先順位をつけた。",
+"note": "類義語：prioritize, organize, arrange\n表現：rank tasks by priority（タスクを優先順位で並べる）"
+},
+{
+"id": "w892",
+"pos": "動詞",
+"exampleJa": "その会社は持続可能な事業慣行を追求している。",
+"note": "類義語：pursue, seek, follow\n派生：pursuit（名詞：追求）\n表現：pursue a goal（目標を追求する）"
+},
+{
+"id": "w893",
+"pos": "動詞",
+"exampleJa": "その研修は重要な安全手順を強化した。",
+"note": "類義語：strengthen, reinforce, enhance\n派生：reinforcement（名詞：強化）\n表現：reinforce procedures（手順を強化する）"
+},
+{
+"id": "w894",
+"pos": "動詞",
+"exampleJa": "その紛争は友好的に解決された。",
+"note": "類義語：solve, settle, resolve\n派生：resolution（名詞：解決、決議）\n表現：resolve an issue（問題を解決する）"
+},
+{
+"id": "w895",
+"pos": "動詞",
+"exampleJa": "その会社は優秀な人材を維持するために懸命に努力している。",
+"note": "類義語：keep, preserve, retain\n派生：retention（名詞：保持、定着）\n表現：retain employees（従業員を維持する）"
+},
+{
+"id": "w896",
+"pos": "動詞",
+"exampleJa": "その提携によって両社の市場での地位が強化された。",
+"note": "類義語：strengthen, reinforce, fortify\n派生：strength（名詞：強さ）\n表現：strengthen a partnership（提携を強化する）"
+},
+{
+"id": "w897",
+"pos": "動詞",
+"exampleJa": "その会社は大規模な改装プロジェクトを引き受けた。",
+"note": "類義語：undertake, assume, take on\n派生：undertaking（名詞：仕事、事業）\n表現：undertake a project（プロジェクトを引き受ける）"
+},
+{
+"id": "w898",
+"pos": "動詞",
+"exampleJa": "フォームを提出する前に情報を確認してください。",
+"note": "類義語：verify, confirm, check\n派生：verification（名詞：確認、検証）\n表現：verify information（情報を確認する）"
+},
+{
+"id": "w899",
+"pos": "動詞",
+"exampleJa": "会社は業績が改善するまでボーナスの支給を差し控えた。",
+"note": "類義語：withhold, retain, keep\n派生：withholding（名詞：源泉徴収、差し控え）\n表現：withhold payment（支払いを差し控える）"
+},
+{
+"id": "w900",
+"pos": "熟語",
+"exampleJa": "新しい戦略はプラスの利益を生み出した。",
+"note": "類義語：produce, earn, yield\n表現：generate returns（利益を生み出す）"
+}
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": "w101",
+"pos": "名詞句",
+"exampleJa": "海外のオフィスとの電話会議を予定しました。",
+"note": "類義語：teleconference, conference\n表現：schedule a conference call（電話会議を予定する）"
+},
+{
+"id": "w102",
+"pos": "名詞",
+"exampleJa": "その面接はビデオ会議で行われます。",
+"note": "類義語：video conference, teleconference\n表現：via videoconference（ビデオ会議で）"
+},
+{
+"id": "w103",
+"pos": "名詞",
+"exampleJa": "すべての参加者は事前に登録しなければなりません。",
+"note": "類義語：participant, guest\n表現：conference attendees（会議参加者）"
+},
+{
+"id": "w104",
+"pos": "名詞句",
+"exampleJa": "基調講演者は今後の市場動向について話しました。",
+"note": "類義語：keynote presenter, main speaker\n表現：keynote speaker（基調講演者）"
+},
+{
+"id": "w105",
+"pos": "名詞句",
+"exampleJa": "プレゼンテーションの後にパネルディスカッションが行われます。",
+"note": "類義語：panel, discussion\n表現：hold a panel discussion（パネルディスカッションを行う）"
+},
+{
+"id": "w106",
+"pos": "名詞",
+"exampleJa": "会議の会場は直前に変更されました。",
+"note": "類義語：site, location\n表現：conference venue（会議会場）"
+},
+{
+"id": "w107",
+"pos": "名詞・動詞",
+"exampleJa": "今週末までに出欠の返事をしてください。",
+"note": "表現：RSVP by Friday（金曜日までに出欠の返事をする）"
+},
+{
+"id": "w108",
+"pos": "動詞・名詞",
+"exampleJa": "その会社は来月、交流イベントを主催します。",
+"note": "類義語：organize, conduct\n表現：host an event（イベントを主催する）"
+},
+{
+"id": "w109",
+"pos": "動詞",
+"exampleJa": "コンサルタントがワークショップの進行を務めます。",
+"note": "類義語：assist, promote\n表現：facilitate a meeting（会議を円滑に進める）"
+},
+{
+"id": "w110",
+"pos": "名詞",
+"exampleJa": "プレゼンテーションが始まる前に配布資料が配られました。",
+"note": "類義語：leaflet, material\n表現：distribute handouts（配布資料を配る）"
+},
+{
+"id": "w111",
+"pos": "名詞",
+"exampleJa": "私たちはすべての参加者からの意見を歓迎します。",
+"note": "類義語：response, comment\n表現：receive feedback（意見・フィードバックを受ける）"
+},
+{
+"id": "w112",
+"pos": "名詞",
+"exampleJa": "質問や問い合わせはヘルプデスクにお願いします。",
+"note": "類義語：question, inquiry\n表現：direct a query to（問い合わせを～に向ける）"
+},
+{
+"id": "w113",
+"pos": "動詞",
+"exampleJa": "契約条件を明確にしていただけますか。",
+"note": "類義語：explain, clarify\n表現：clarify the terms（条件を明確にする）"
+},
+{
+"id": "w114",
+"pos": "動詞",
+"exampleJa": "その点についてさらに詳しく説明していただけますか。",
+"note": "類義語：explain, expand\n表現：elaborate on a point（ある点について詳しく説明する）"
+},
+{
+"id": "w115",
+"pos": "動詞",
+"exampleJa": "議論の要点をまとめさせてください。",
+"note": "類義語：recap, condense\n表現：summarize the key points（要点をまとめる）"
+},
+{
+"id": "w116",
+"pos": "名詞",
+"exampleJa": "マネージャーは新しいプロジェクトの概要を説明しました。",
+"note": "類義語：summary, overview\n表現：give an outline of（～の概要を説明する）"
+},
+{
+"id": "w117",
+"pos": "名詞",
+"exampleJa": "その提案は取締役会によって承認されました。",
+"note": "類義語：suggestion, plan\n表現：submit a proposal（提案を提出する）"
+},
+{
+"id": "w118",
+"pos": "名詞",
+"exampleJa": "その会社は新しい持続可能性への取り組みを開始しました。",
+"note": "類義語：effort, undertaking\n表現：launch an initiative（新しい取り組みを開始する）"
+},
+{
+"id": "w119",
+"pos": "動詞",
+"exampleJa": "両チームは新製品の発売に協力して取り組みます。",
+"note": "類義語：cooperate, work together\n表現：collaborate on a project（プロジェクトで協力する）"
+},
+{
+"id": "w120",
+"pos": "動詞",
+"exampleJa": "彼女は毎日顧客と連絡・調整をしています。",
+"note": "類義語：coordinate, communicate\n表現：liaise with clients（顧客と連絡・調整する）"
+},
+{
+"id": "w121",
+"pos": "動詞",
+"exampleJa": "売上高は私たちの予測と一致しています。",
+"note": "類義語：match, agree\n表現：correspond with a forecast（予測と一致する）"
+},
+{
+"id": "w122",
+"pos": "名詞句",
+"exampleJa": "契約書の草案を注意深く確認してください。",
+"note": "類義語：draft contract, preliminary agreement\n表現：review a draft agreement（契約書の草案を確認する）"
+},
+{
+"id": "w123",
+"pos": "名詞",
+"exampleJa": "契約条件に修正が加えられました。",
+"note": "類義語：revision, modification\n表現：make an amendment（修正を加える）"
+},
+{
+"id": "w124",
+"pos": "動詞",
+"exampleJa": "その契約では30日前の通知期間が規定されています。",
+"note": "類義語：specify, prescribe\n表現：stipulate a period（期間を規定する）"
+},
+{
+"id": "w125",
+"pos": "動詞",
+"exampleJa": "どちらの当事者も書面による通知で契約を終了できます。",
+"note": "類義語：end, cancel\n表現：terminate a contract（契約を終了する）"
+},
+{
+"id": "w126",
+"pos": "形容詞",
+"exampleJa": "この契約は署名されると法的拘束力を持ちます。",
+"note": "類義語：binding, obligatory\n表現：legally binding（法的拘束力のある）"
+},
+{
+"id": "w127",
+"pos": "名詞",
+"exampleJa": "その契約には州法の管轄権が適用されます。",
+"note": "類義語：authority, control\n表現：under the jurisdiction of（～の管轄下で）"
+},
+{
+"id": "w128",
+"pos": "名詞",
+"exampleJa": "紛争は仲裁によって解決されます。",
+"note": "類義語：mediation, settlement\n表現：settle a dispute through arbitration（仲裁によって紛争を解決する）"
+},
+{
+"id": "w129",
+"pos": "名詞",
+"exampleJa": "その会社は費用のかかる訴訟を避けたいと考えています。",
+"note": "類義語：lawsuit, legal action\n表現：avoid litigation（訴訟を避ける）"
+},
+{
+"id": "w130",
+"pos": "名詞・動詞",
+"exampleJa": "契約違反は罰則につながる可能性があります。",
+"note": "類義語：violation, infringement\n表現：breach of contract（契約違反）"
+},
+{
+"id": "w131",
+"pos": "名詞",
+"exampleJa": "参加する前に署名した権利放棄書が必要です。",
+"note": "類義語：relinquishment, release\n表現：sign a waiver（権利放棄書に署名する）"
+},
+{
+"id": "w132",
+"pos": "動詞",
+"exampleJa": "すべてのスタッフは安全規則を遵守しなければなりません。",
+"note": "類義語：obey, follow\n表現：comply with regulations（規則を遵守する）"
+},
+{
+"id": "w133",
+"pos": "名詞",
+"exampleJa": "新しい環境規制は来年施行されます。",
+"note": "類義語：rule, requirement\n表現：environmental regulations（環境規制）"
+},
+{
+"id": "w134",
+"pos": "名詞",
+"exampleJa": "新しい法律によって企業のデータの扱い方が変わります。",
+"note": "類義語：law, statute\n表現：new legislation（新しい法律）"
+},
+{
+"id": "w135",
+"pos": "動詞",
+"exampleJa": "新しい方針は厳格に施行されます。",
+"note": "類義語：implement, impose\n表現：enforce a policy（方針を施行する）"
+},
+{
+"id": "w136",
+"pos": "名詞",
+"exampleJa": "その工場は年次安全検査に合格しました。",
+"note": "類義語：examination, check\n表現：safety inspection（安全検査）"
+},
+{
+"id": "w137",
+"pos": "動詞",
+"exampleJa": "監査人は財務諸表が正確であることを証明しました。",
+"note": "類義語：verify, validate\n派生：certification（名詞：認証、証明）\n表現：certify a document（書類を証明する）"
+},
+{
+"id": "w138",
+"pos": "名詞",
+"exampleJa": "その大学は認定機関から認定を受けました。",
+"note": "類義語：certification, approval\n表現：receive accreditation（認定を受ける）"
+},
+{
+"id": "w139",
+"pos": "名詞",
+"exampleJa": "その会社は顧客サービスの新たな基準を設定しました。",
+"note": "類義語：standard, yardstick\n表現：set a benchmark（基準を設定する）"
+},
+{
+"id": "w140",
+"pos": "名詞",
+"exampleJa": "応募者は記載されているすべての基準を満たさなければなりません。",
+"note": "類義語：standards, requirements\n表現：meet the criteria（基準を満たす）"
+},
+{
+"id": "w141",
+"pos": "名詞",
+"exampleJa": "応募する前に応募資格の要件を確認してください。",
+"note": "類義語：qualification, suitability\n表現：eligibility requirements（応募資格の要件）"
+},
+{
+"id": "w142",
+"pos": "名詞",
+"exampleJa": "50人を超える応募者がその職に応募しました。",
+"note": "類義語：candidate, contestant\n表現：job applicant（求職応募者）"
+},
+{
+"id": "w143",
+"pos": "名詞",
+"exampleJa": "履歴書を応募書類に添付してください。",
+"note": "類義語：CV, curriculum vitae\n表現：attach a résumé（履歴書を添付する）"
+},
+{
+"id": "w144",
+"pos": "名詞",
+"exampleJa": "面接を受ける人は15分早く到着しました。",
+"note": "類義語：candidate, applicant\n表現：interviewee arrived（面接を受ける人が到着する）"
+},
+{
+"id": "w145",
+"pos": "名詞",
+"exampleJa": "採用プロセスには約1か月かかります。",
+"note": "類義語：hiring, recruitment process\n表現：recruitment process（採用プロセス）"
+},
+{
+"id": "w146",
+"pos": "名詞",
+"exampleJa": "人材スカウトから新しい職について彼女に連絡がありました。",
+"note": "類義語：recruiter, talent scout\n表現：headhunter contacted someone（人材スカウトが人に連絡する）"
+},
+{
+"id": "w147",
+"pos": "名詞",
+"exampleJa": "彼女は法律事務所で夏のインターンシップを終えました。",
+"note": "類義語：work placement, traineeship\n表現：complete an internship（インターンシップを終える）"
+},
+{
+"id": "w148",
+"pos": "名詞・動詞",
+"exampleJa": "すべての新入社員には指導者が割り当てられます。",
+"note": "類義語：advisor, guide\n表現：assign a mentor（指導者を割り当てる）"
+},
+{
+"id": "w149",
+"pos": "名詞",
+"exampleJa": "年次評価によって昇給額が決まります。",
+"note": "類義語：evaluation, assessment\n表現：annual appraisal（年次評価）"
+},
+{
+"id": "w150",
+"pos": "名詞",
+"exampleJa": "その会社は売上目標を達成した従業員に奨励金を提供しています。",
+"note": "類義語：motivation, encouragement\n表現：offer incentives（奨励金を提供する）"
+},
+{
+"id": "w151",
+"pos": "名詞",
+"exampleJa": "その会社の主な資産は製造工場です。",
+"note": "類義語：property, resource\n表現：company assets（会社の資産）"
+},
+{
+"id": "w152",
+"pos": "名詞",
+"exampleJa": "毎年、オフィス設備について減価償却が計算されます。",
+"note": "類義語：devaluation, write-down\n表現：calculate depreciation（減価償却を計算する）"
+},
+{
+"id": "w153",
+"pos": "名詞・動詞",
+"exampleJa": "年次監査では財務上の不一致は見つかりませんでした。",
+"note": "類義語：inspection, examination\n表現：annual audit（年次監査）"
+},
+{
+"id": "w154",
+"pos": "名詞句",
+"exampleJa": "貸借対照表には総資産と負債が示されています。",
+"note": "類義語：statement of financial position, financial statement\n表現：balance sheet shows（貸借対照表に～が示される）"
+},
+{
+"id": "w155",
+"pos": "名詞句",
+"exampleJa": "今四半期はキャッシュフローの改善が優先事項です。",
+"note": "類義語：cash movement, liquidity\n表現：improve cash flow（キャッシュフローを改善する）"
+},
+{
+"id": "w156",
+"pos": "名詞",
+"exampleJa": "株主は1株当たり2ドルの配当金を受け取りました。",
+"note": "類義語：distribution, payout\n表現：pay a dividend（配当金を支払う）"
+},
+{
+"id": "w157",
+"pos": "名詞",
+"exampleJa": "創業者は30％の株式持分を保有しています。",
+"note": "類義語：ownership, stock\n表現：equity stake（株式持分）"
+},
+{
+"id": "w158",
+"pos": "名詞・動詞",
+"exampleJa": "来年の売上予測は有望です。",
+"note": "類義語：prediction, estimate\n表現：sales forecast（売上予測）"
+},
+{
+"id": "w159",
+"pos": "名詞・動詞",
+"exampleJa": "その新興企業は政府から助成金を受け取りました。",
+"note": "類義語：subsidy, award\n表現：receive a government grant（政府の助成金を受け取る）"
+},
+{
+"id": "w160",
+"pos": "名詞",
+"exampleJa": "その設備の代金は毎月の分割払いで支払えます。",
+"note": "類義語：payment, installment payment\n表現：monthly installments（毎月の分割払い）"
+},
+{
+"id": "w161",
+"pos": "名詞句",
+"exampleJa": "銀行は先月、金利を引き上げました。",
+"note": "類義語：rate of interest, borrowing rate\n表現：raise the interest rate（金利を引き上げる）"
+},
+{
+"id": "w162",
+"pos": "名詞・動詞",
+"exampleJa": "その会社は工場を拡張するために融資を受けました。",
+"note": "類義語：credit, financing\n表現：take out a loan（ローンを組む）"
+},
+{
+"id": "w163",
+"pos": "名詞",
+"exampleJa": "彼らは新しいオフィスビルを購入するために住宅ローンを申し込みました。",
+"note": "類義語：home loan, property loan\n表現：apply for a mortgage（住宅ローンを申し込む）"
+},
+{
+"id": "w164",
+"pos": "名詞",
+"exampleJa": "彼女の投資ポートフォリオには株式と債券が含まれています。",
+"note": "類義語：holdings, collection\n表現：investment portfolio（投資ポートフォリオ）"
+},
+{
+"id": "w165",
+"pos": "名詞",
+"exampleJa": "今年、保険料が上がりました。",
+"note": "類義語：fee, charge\n表現：insurance premium（保険料）"
+},
+{
+"id": "w166",
+"pos": "名詞",
+"exampleJa": "財務予測では安定した成長が示されています。",
+"note": "類義語：prediction, estimate\n表現：financial projection（財務予測）"
+},
+{
+"id": "w167",
+"pos": "名詞",
+"exampleJa": "払い戻しのために領収書を保管してください。",
+"note": "類義語：proof of purchase, sales slip\n表現：keep a receipt（領収書を保管する）"
+},
+{
+"id": "w168",
+"pos": "名詞句",
+"exampleJa": "出張費は税控除の対象となります。",
+"note": "類義語：tax relief, deduction\n表現：qualify for a tax deduction（税控除の対象となる）"
+},
+{
+"id": "w169",
+"pos": "名詞",
+"exampleJa": "すべての取引は会計システムに記録されます。",
+"note": "類義語：deal, exchange\n表現：financial transaction（金融取引）"
+},
+{
+"id": "w170",
+"pos": "名詞",
+"exampleJa": "その会社の評価額は合併後に2倍になりました。",
+"note": "類義語：assessment, appraisal\n表現：company valuation（会社の評価額）"
+},
+{
+"id": "w171",
+"pos": "名詞",
+"exampleJa": "一定額を下回る残高の口座には引き出し手数料がかかります。",
+"note": "類義語：removal, taking out\n表現：withdrawal fee（引き出し手数料）"
+},
+{
+"id": "w172",
+"pos": "名詞",
+"exampleJa": "その会社は債権者と新しい条件について交渉しました。",
+"note": "類義語：lender, claimant\n表現：creditor's claim（債権者の請求権）"
+},
+{
+"id": "w173",
+"pos": "名詞",
+"exampleJa": "その債務者は期限内にローンを返済できませんでした。",
+"note": "類義語：borrower, debtor\n表現：repay a loan（ローンを返済する）"
+},
+{
+"id": "w174",
+"pos": "名詞",
+"exampleJa": "その会社は何年もの損失の後、破産を申請しました。",
+"note": "類義語：insolvency, failure\n表現：file for bankruptcy（破産を申請する）"
+},
+{
+"id": "w175",
+"pos": "形容詞",
+"exampleJa": "景気後退にもかかわらず、その事業は支払い能力を維持しています。",
+"note": "類義語：financially stable, solvent\n表現：remain solvent（支払い能力を維持する）"
+},
+{
+"id": "w176",
+"pos": "名詞",
+"exampleJa": "すべての利害関係者にその決定が通知されました。",
+"note": "類義語：interested party, participant\n表現：key stakeholders（主要な利害関係者）"
+},
+{
+"id": "w177",
+"pos": "名詞",
+"exampleJa": "その買収は6か月以内に完了しました。",
+"note": "類義語：purchase, takeover\n表現：complete an acquisition（買収を完了する）"
+},
+{
+"id": "w178",
+"pos": "名詞",
+"exampleJa": "その複合企業は複数の業界で事業を所有しています。",
+"note": "類義語：corporation, business group\n表現：large conglomerate（大規模な複合企業）"
+},
+{
+"id": "w179",
+"pos": "名詞",
+"exampleJa": "彼女は人気のコーヒーチェーンのフランチャイズ店を開きました。",
+"note": "類義語：chain, dealership\n表現：open a franchise（フランチャイズ店を開く）"
+},
+{
+"id": "w180",
+"pos": "名詞",
+"exampleJa": "その会社は地域市場を独占していました。",
+"note": "類義語：control, exclusive control\n表現：hold a monopoly（独占する）"
+},
+{
+"id": "w181",
+"pos": "名詞",
+"exampleJa": "私たちの主な競合他社は類似した製品を発売しました。",
+"note": "類義語：rival, competitor\n表現：main competitor（主な競合他社）"
+},
+{
+"id": "w182",
+"pos": "名詞句",
+"exampleJa": "その会社は今年、市場占有率を高めました。",
+"note": "類義語：market percentage, share of the market\n表現：increase market share（市場占有率を高める）"
+},
+{
+"id": "w183",
+"pos": "形容詞・名詞",
+"exampleJa": "その調査は若年層を対象としました。",
+"note": "類義語：demographic, population group\n表現：target a demographic（特定の人口層を対象とする）"
+},
+{
+"id": "w184",
+"pos": "名詞",
+"exampleJa": "その製品に対する消費者の需要は急増しました。",
+"note": "類義語：buyer, customer\n表現：consumer demand（消費者需要）"
+},
+{
+"id": "w185",
+"pos": "名詞",
+"exampleJa": "その小売業者は休暇シーズン中に割引を提供します。",
+"note": "類義語：merchant, seller\n表現：retail store（小売店）"
+},
+{
+"id": "w186",
+"pos": "形容詞・名詞",
+"exampleJa": "私たちは材料を卸売価格で購入しています。",
+"note": "類義語：bulk, wholesale\n表現：wholesale prices（卸売価格）"
+},
+{
+"id": "w187",
+"pos": "名詞",
+"exampleJa": "その販売代理店は地域全体への発送を担当しています。",
+"note": "類義語：supplier, dealer\n表現：authorized distributor（正規販売代理店）"
+},
+{
+"id": "w188",
+"pos": "名詞",
+"exampleJa": "その製造業者は製品を2年間保証しています。",
+"note": "類義語：producer, maker\n表現：product manufacturer（製品製造業者）"
+},
+{
+"id": "w189",
+"pos": "名詞",
+"exampleJa": "私たちはより信頼できる供給業者に切り替えました。",
+"note": "類義語：provider, vendor\n表現：reliable supplier（信頼できる供給業者）"
+},
+{
+"id": "w190",
+"pos": "名詞",
+"exampleJa": "調達部門はすべての購入業務を担当しています。",
+"note": "類義語：purchasing, acquisition\n表現：procurement department（調達部門）"
+},
+{
+"id": "w191",
+"pos": "名詞",
+"exampleJa": "建物を改装するために請負業者が雇われました。",
+"note": "類義語：builder, subcontractor\n表現：hire a contractor（請負業者を雇う）"
+},
+{
+"id": "w192",
+"pos": "名詞",
+"exampleJa": "その貨物は来週火曜日に到着する予定です。",
+"note": "類義語：cargo, goods\n表現：freight shipment（貨物輸送）"
+},
+{
+"id": "w193",
+"pos": "名詞",
+"exampleJa": "その発送品は税関で遅れました。",
+"note": "類義語：customhouse, border control\n表現：clear customs（税関を通過する）"
+},
+{
+"id": "w194",
+"pos": "名詞",
+"exampleJa": "新しい関税によって輸入品の費用が増加しました。",
+"note": "類義語：duty, import tax\n表現：impose a tariff（関税を課す）"
+},
+{
+"id": "w195",
+"pos": "名詞",
+"exampleJa": "その製品は港の近くの倉庫に保管されています。",
+"note": "類義語：storehouse, depot\n表現：warehouse facilities（倉庫設備）"
+},
+{
+"id": "w196",
+"pos": "名詞",
+"exampleJa": "その美術品はギャラリーで委託販売されています。",
+"note": "類義語：consignment sale, shipment\n表現：sell on consignment（委託販売する）"
+},
+{
+"id": "w197",
+"pos": "名詞句",
+"exampleJa": "大量注文には割引を提供しています。",
+"note": "類義語：large order, volume order\n表現：bulk order discount（大量注文割引）"
+},
+{
+"id": "w198",
+"pos": "名詞",
+"exampleJa": "その商品は入荷待ちで、来週発送されます。",
+"note": "類義語：pending order, delayed order\n表現：be on backorder（入荷待ちである）"
+},
+{
+"id": "w199",
+"pos": "形容詞",
+"exampleJa": "欠陥のある製品は工場に返品されました。",
+"note": "類義語：faulty, flawed\n表現：defective product（欠陥製品）"
+},
+{
+"id": "w200",
+"pos": "名詞・動詞",
+"exampleJa": "顧客は30日以内に払い戻しを請求できます。",
+"note": "類義語：reimbursement, repayment\n表現：request a refund（払い戻しを請求する）"
+}
+]

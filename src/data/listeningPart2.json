@@ -8,7 +8,7 @@
       "About three weeks, I think."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物名で答えます。選択肢Bは「いつ」、Cは「どのくらいの期間」に対する応答であり、質問の種類が違うひっかけです。",
+    "explanation": "[質問] Who is in charge of the marketing campaign this quarter?\n全訳: 今四半期のマーケティングキャンペーンは誰が担当していますか。\n\n[正解] (A) Sandra from the design team is leading it.\n全訳: デザインチームのサンドラがそれを率いています。\n\n[ポイント] Who(誰)の質問には人物名で答えます。選択肢Bは「いつ」、Cは「どのくらいの期間」に対する応答であり、質問の種類が違うひっかけです。\n\n[重要単語]\n・marketing：マーケティング\n・campaign：キャンペーン\n・quarter：四半期\n・charge：担当（in charge of）",
     "level": 400
   },
   {
@@ -20,7 +20,7 @@
       "Yes, I took it last week."
     ],
     "answer": 1,
-    "explanation": "What time(何時)の質問には時刻・頻度で答えます。Aはバスの様子について、Cはyes/no疑問文への応答であり不適切です。",
+    "explanation": "[質問] What time does the shuttle bus leave for the airport?\n全訳: シャトルバスは何時に空港へ出発しますか。\n\n[正解] (B) Every hour, on the hour.\n全訳: 毎時ちょうどに出ています。\n\n[ポイント] What time(何時)の質問には時刻・頻度で答えます。Aはバスの様子について、Cはyes/no疑問文への応答であり不適切です。\n\n[重要単語]\n・shuttle：シャトルバス\n・airport：空港\n・time：時間、時刻\n・hour：時間（1時間）",
     "level": 400
   },
   {
@@ -32,7 +32,7 @@
       "Because the old ones broke."
     ],
     "answer": 1,
-    "explanation": "When(いつ)には時期で答えます。Aは場所、Cは理由への応答なので誤りです。",
+    "explanation": "[質問] When will the new office furniture be delivered?\n全訳: 新しいオフィス家具はいつ配達されますか。\n\n[正解] (B) Sometime next week, I believe.\n全訳: 来週のいつかだと思います。\n\n[ポイント] When(いつ)には時期で答えます。Aは場所、Cは理由への応答なので誤りです。\n\n[重要単語]\n・furniture：家具\n・delivered：配達された\n・sometime：そのうち、いつか\n・office：オフィス",
     "level": 400
   },
   {
@@ -44,7 +44,7 @@
       "I submitted mine yesterday."
     ],
     "answer": 0,
-    "explanation": "Where(どこ)には場所で答えます。金額や自分の行動についての応答は質問に対応していません。",
+    "explanation": "[質問] Where should I submit the reimbursement form?\n全訳: 経費精算書はどこに提出すればよいですか。\n\n[正解] (A) To the accounting office on the second floor.\n全訳: 2階の経理部にです。\n\n[ポイント] Where(どこ)には場所で答えます。金額や自分の行動についての応答は質問に対応していません。\n\n[重要単語]\n・accounting：経理\n・submit：提出する\n・office：オフィス\n・form：フォーム、書式",
     "level": 450
   },
   {
@@ -56,7 +56,7 @@
       "For about two hours."
     ],
     "answer": 0,
-    "explanation": "Why(なぜ)には理由で答えます。場所や所要時間の応答は質問の種類が異なります。",
+    "explanation": "[質問] Why was the meeting postponed until Friday?\n全訳: なぜ会議は金曜日まで延期されたのですか。\n\n[正解] (A) Because the client requested more time.\n全訳: 顧客がもっと時間を求めたからです。\n\n[ポイント] Why(なぜ)には理由で答えます。場所や所要時間の応答は質問の種類が異なります。\n\n[重要単語]\n・meeting：会議\n・time：時間、時刻",
     "level": 450
   },
   {
@@ -68,7 +68,7 @@
       "I work in the finance department."
     ],
     "answer": 1,
-    "explanation": "How long(どのくらいの期間)には期間で答えます。AとCは会社の様子や部署についての応答であり不適切です。",
+    "explanation": "[質問] How long have you been working at this company?\n全訳: この会社にはどのくらい勤めていますか。\n\n[正解] (B) For almost five years now.\n全訳: もう5年近くになります。\n\n[ポイント] How long(どのくらいの期間)には期間で答えます。AとCは会社の様子や部署についての応答であり不適切です。\n\n[重要単語]\n・working：働いている\n・company：会社\n・years：年（複数）\n・long：長い",
     "level": 450
   },
   {
@@ -80,7 +80,7 @@
       "Yes, they checked it already."
     ],
     "answer": 0,
-    "explanation": "How often(どのくらいの頻度で)には頻度で答えます。BとCは頻度に対する直接的な答えになっていません。",
+    "explanation": "[質問] How often does the maintenance team check the equipment?\n全訳: 保守チームはどのくらいの頻度で機器を点検しますか。\n\n[正解] (A) Once a month, usually.\n全訳: 通常は月に1回です。\n\n[ポイント] How often(どのくらいの頻度で)には頻度で答えます。BとCは頻度に対する直接的な答えになっていません。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・equipment：機器、設備\n・check：確認する\n・month：月",
     "level": 450
   },
   {
@@ -92,7 +92,7 @@
       "I signed it last month."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文には「まだです」のように直接答えるのが自然です。BとCは似た単語(contract)を含みますが質問の意図とずれています。",
+    "explanation": "[質問] Have you finished reviewing the contract yet?\n全訳: 契約書の確認はもう終わりましたか。\n\n[正解] (A) Not yet, I'll finish it by tomorrow.\n全訳: まだです、明日までに終わらせます。\n\n[ポイント] Yes/No疑問文には「まだです」のように直接答えるのが自然です。BとCは似た単語(contract)を含みますが質問の意図とずれています。\n\n[重要単語]\n・reviewing：確認している\n・finished：終えた\n・contract：契約書\n・finish：終える",
     "level": 450
   },
   {
@@ -104,7 +104,7 @@
       "The printer is out of ink."
     ],
     "answer": 1,
-    "explanation": "否定疑問文でも通常のYes/Noと同様に答えます。ここでは「はい、届く予定です」が適切です。Aはprint関連の単語での引っかけです。",
+    "explanation": "[質問] Isn't the new printer supposed to arrive today?\n全訳: 新しいプリンターは今日届く予定ではないのですか。\n\n[正解] (B) Yes, it should be here by noon.\n全訳: はい、正午までには届くはずです。\n\n[ポイント] 否定疑問文でも通常のYes/Noと同様に答えます。ここでは「はい、届く予定です」が適切です。Aはprint関連の単語での引っかけです。\n\n[重要単語]\n・supposed：〜のはずである\n・printer：プリンター\n・arrive：到着する\n・noon：正午",
     "level": 550
   },
   {
@@ -116,7 +116,7 @@
       "Yes, I would."
     ],
     "answer": 0,
-    "explanation": "選択疑問文(A or B)にはどちらか一方、または両方を答えます。Yes/Noだけの応答(C)は不自然です。",
+    "explanation": "[質問] Would you like coffee or tea with your breakfast?\n全訳: 朝食にコーヒーと紅茶どちらになさいますか。\n\n[正解] (A) I'll have coffee, please.\n全訳: コーヒーをお願いします。\n\n[ポイント] 選択疑問文(A or B)にはどちらか一方、または両方を答えます。Yes/Noだけの応答(C)は不自然です。\n\n[重要単語]\n・coffee：コーヒー\n・please：どうぞ\n・tea：紅茶",
     "level": 450
   },
   {
@@ -128,7 +128,7 @@
       "Yes, we should."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的にどちらかを選んで答えます。Cのように単純なYes/Noは応答として不十分です。ただしBのように暗に「エレベーターは使えない」と答える形も正解になり得ますが、ここではAがより直接的で自然です。",
+    "explanation": "[質問] Should we take the elevator or the stairs?\n全訳: エレベーターと階段どちらを使いましょうか。\n\n[正解] (A) Let's take the stairs; it's only two floors.\n全訳: 階段にしましょう、たった2階分ですから。\n\n[ポイント] 選択疑問文には具体的にどちらかを選んで答えます。Cのように単純なYes/Noは応答として不十分です。ただしBのように暗に「エレベーターは使えない」と答える形も正解になり得ますが、ここではAがより直接的で自然です。\n\n[重要単語]\n・elevator：エレベーター\n・stairs：階段\n・floors：階（複数）",
     "level": 500
   },
   {
@@ -140,7 +140,7 @@
       "It's due next Friday."
     ],
     "answer": 0,
-    "explanation": "付加疑問文(doesn't it?)には確認に対する同意・不同意で答えます。BとCは話がずれています。",
+    "explanation": "[質問] The report looks great, doesn't it?\n全訳: この報告書、よく出来ていますよね。\n\n[正解] (A) Yes, it does. Great work.\n全訳: ええ、本当に。よくできています。\n\n[ポイント] 付加疑問文(doesn't it?)には確認に対する同意・不同意で答えます。BとCは話がずれています。\n\n[重要単語]\n・report：報告書\n・looks：見える",
     "level": 500
   },
   {
@@ -152,7 +152,7 @@
       "The deadline is Friday."
     ],
     "answer": 0,
-    "explanation": "否定の付加疑問文にも通常通り答えます。「実は今朝提出しました」という応答が自然です。",
+    "explanation": "[質問] You haven't submitted your timesheet yet, have you?\n全訳: まだ勤怠表を提出していませんよね。\n\n[正解] (A) Actually, I submitted it this morning.\n全訳: 実は今朝提出しました。\n\n[ポイント] 否定の付加疑問文にも通常通り答えます。「実は今朝提出しました」という応答が自然です。\n\n[重要単語]\n・submitted：提出した\n・morning：朝、午前",
     "level": 550
   },
   {
@@ -164,7 +164,7 @@
       "It's down the hall."
     ],
     "answer": 0,
-    "explanation": "依頼(Could you...)には引き受ける・断るなどの応答が適切です。BとCは依頼への直接的な返答になっていません。",
+    "explanation": "[質問] Could you help me carry these boxes to the storage room?\n全訳: この箱を倉庫まで運ぶのを手伝ってもらえますか。\n\n[正解] (A) Sure, I'd be happy to.\n全訳: もちろん、喜んで。\n\n[ポイント] 依頼(Could you...)には引き受ける・断るなどの応答が適切です。BとCは依頼への直接的な返答になっていません。\n\n[重要単語]\n・storage：保管、倉庫\n・carry：運ぶ\n・boxes：箱\n・happy：満足している",
     "level": 450
   },
   {
@@ -176,7 +176,7 @@
       "The music starts at eight."
     ],
     "answer": 0,
-    "explanation": "Would you mind...?には「構いません」＝Not at allのように答えるのが典型的なパターンです。",
+    "explanation": "[質問] Would you mind turning down the music a little?\n全訳: 音楽の音量を少し下げてもらえますか。\n\n[正解] (A) Not at all, I'll turn it down now.\n全訳: もちろん構いません、今すぐ下げます。\n\n[ポイント] Would you mind...?には「構いません」＝Not at allのように答えるのが典型的なパターンです。\n\n[重要単語]\n・mind：気にする\n・turn：順番、曲がる",
     "level": 600
   },
   {
@@ -188,7 +188,7 @@
       "We met on Thursday last week."
     ],
     "answer": 0,
-    "explanation": "Why don't we...?は提案の表現で、賛成・反対で答えます。BとCは提案への応答になっていません。",
+    "explanation": "[質問] Why don't we schedule the meeting for Thursday instead?\n全訳: 代わりに会議を木曜日に設定しませんか。\n\n[正解] (A) That sounds good to me.\n全訳: それでいいと思います。\n\n[ポイント] Why don't we...?は提案の表現で、賛成・反対で答えます。BとCは提案への応答になっていません。\n\n[重要単語]\n・schedule：予定、日程\n・meeting：会議\n・sounds：〜のように聞こえる",
     "level": 550
   },
   {
@@ -200,7 +200,7 @@
       "Yes, I received the letter."
     ],
     "answer": 0,
-    "explanation": "間接疑問文(Do you know where...?)の中身はWhereの質問なので、場所で答えます。",
+    "explanation": "[質問] Do you know where the nearest post office is?\n全訳: 一番近い郵便局がどこか知っていますか。\n\n[正解] (A) It's just around the corner.\n全訳: すぐそこの角にあります。\n\n[ポイント] 間接疑問文(Do you know where...?)の中身はWhereの質問なので、場所で答えます。\n\n[重要単語]\n・nearest：最寄りの\n・office：オフィス",
     "level": 550
   },
   {
@@ -212,7 +212,7 @@
       "The trainer is very experienced."
     ],
     "answer": 0,
-    "explanation": "間接疑問文の中身はWhenの質問なので、開始時刻で答えるのが正解です。",
+    "explanation": "[質問] Can you tell me when the training session starts?\n全訳: 研修セッションがいつ始まるか教えてもらえますか。\n\n[正解] (A) It begins at nine sharp.\n全訳: 9時ちょうどに始まります。\n\n[ポイント] 間接疑問文の中身はWhenの質問なので、開始時刻で答えるのが正解です。\n\n[重要単語]\n・training：研修\n・session：セッション、研修時間\n・starts：始まる\n・tell：伝える",
     "level": 550
   },
   {
@@ -224,7 +224,7 @@
       "I've never been there before."
     ],
     "answer": 0,
-    "explanation": "否定疑問文でも通常通り答えます。近道の有無について「あります、公園を通れば」と具体的に答えているAが正解です。",
+    "explanation": "[質問] Isn't there a shortcut to the conference center from here?\n全訳: ここから会議場への近道はありませんか。\n\n[正解] (A) Yes, if you go through the park.\n全訳: はい、公園を通れば近道になります。\n\n[ポイント] 否定疑問文でも通常通り答えます。近道の有無について「あります、公園を通れば」と具体的に答えているAが正解です。\n\n[重要単語]\n・conference：会議、カンファレンス\n・center：センター\n・park：駐車する、公園",
     "level": 600
   },
   {
@@ -236,7 +236,7 @@
       "She presented it well last year."
     ],
     "answer": 0,
-    "explanation": "What did you think of...?は感想を尋ねる質問なので、感想で答えます。BとCは時制や内容がずれています。",
+    "explanation": "[質問] What did you think of the presentation yesterday?\n全訳: 昨日のプレゼンテーションについてどう思いましたか。\n\n[正解] (A) I thought it was very informative.\n全訳: とても勉強になったと思います。\n\n[ポイント] What did you think of...?は感想を尋ねる質問なので、感想で答えます。BとCは時制や内容がずれています。\n\n[重要単語]\n・presentation：プレゼンテーション",
     "level": 550
   },
   {
@@ -248,7 +248,7 @@
       "The software works fine now."
     ],
     "answer": 0,
-    "explanation": "How much(いくら)には金額で答えます。BとCは費用について答えていません。",
+    "explanation": "[質問] How much does it cost to renew our software license?\n全訳: ソフトウェアライセンスの更新にはいくらかかりますか。\n\n[正解] (A) About two hundred dollars per year.\n全訳: 年間およそ200ドルです。\n\n[ポイント] How much(いくら)には金額で答えます。BとCは費用について答えていません。\n\n[重要単語]\n・software：ソフトウェア\n・dollars：ドル\n・cost：費用、かかる\n・year：年",
     "level": 500
   },
   {
@@ -260,7 +260,7 @@
       "It lasts three days."
     ],
     "answer": 0,
-    "explanation": "Whoの質問には人物で答えます。BとCは場所・期間についての応答であり不適切です。",
+    "explanation": "[質問] Who's going to represent our department at the conference?\n全訳: 誰が会議で我々の部署を代表しますか。\n\n[正解] (A) I believe Mr. Tanaka will attend.\n全訳: 田中さんが出席すると思います。\n\n[ポイント] Whoの質問には人物で答えます。BとCは場所・期間についての応答であり不適切です。\n\n[重要単語]\n・conference：会議、カンファレンス\n・attend：出席する\n・going：行く予定である",
     "level": 500
   },
   {
@@ -272,7 +272,7 @@
       "We need more paper and pens."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にも通常通り答えます。「はい、今朝注文しました」が最も自然な応答です。",
+    "explanation": "[質問] Didn't you already order the office supplies for next month?\n全訳: 来月分の事務用品はもう注文しましたよね。\n\n[正解] (A) Yes, I placed the order this morning.\n全訳: はい、今朝発注しました。\n\n[ポイント] 否定疑問文にも通常通り答えます。「はい、今朝注文しました」が最も自然な応答です。\n\n[重要単語]\n・supplies：備品、消耗品\n・morning：朝、午前\n・office：オフィス\n・placed：発注した",
     "level": 600
   },
   {
@@ -284,7 +284,7 @@
       "I usually take the bus to work."
     ],
     "answer": 0,
-    "explanation": "道順を尋ねる質問には具体的な行き方で答えます。BとCは質問の意図からずれています。",
+    "explanation": "[質問] What's the best way to get to the train station from here?\n全訳: ここから駅への一番良い行き方は何ですか。\n\n[正解] (A) Just take the second left and go straight.\n全訳: 2つ目を左に曲がってまっすぐ進んでください。\n\n[ポイント] 道順を尋ねる質問には具体的な行き方で答えます。BとCは質問の意図からずれています。\n\n[重要単語]\n・train：電車\n・best：最良の",
     "level": 550
   },
   {
@@ -296,7 +296,7 @@
       "The workshop was very useful."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。単なるYes(B)は不十分な応答です。",
+    "explanation": "[質問] Are you attending the workshop this afternoon or tomorrow morning?\n全訳: 研修会には今日の午後と明日の午前どちらに出席しますか。\n\n[正解] (A) I'll go this afternoon.\n全訳: 今日の午後に行きます。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。単なるYes(B)は不十分な応答です。\n\n[重要単語]\n・attending：出席する\n・afternoon：午後\n・workshop：研修会、ワークショップ\n・morning：朝、午前",
     "level": 500
   },
   {
@@ -308,7 +308,7 @@
       "The machine was expensive."
     ],
     "answer": 0,
-    "explanation": "付加疑問文には同意・不同意で自然に答えます。",
+    "explanation": "[質問] This new coffee machine makes great coffee, doesn't it?\n全訳: この新しいコーヒーメーカー、美味しいコーヒーを淹れますよね。\n\n[正解] (A) It really does. I love it.\n全訳: 本当にそうですね。気に入っています。\n\n[ポイント] 付加疑問文には同意・不同意で自然に答えます。\n\n[重要単語]\n・machine：機械\n・coffee：コーヒー",
     "level": 500
   },
   {
@@ -320,7 +320,7 @@
       "The orientation lasts two days."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文なので直接的に完了したかどうかを答えるAが正解です。",
+    "explanation": "[質問] Have the new employees completed their orientation yet?\n全訳: 新入社員のオリエンテーションはもう終わりましたか。\n\n[正解] (A) Yes, they finished it this morning.\n全訳: はい、今朝終わりました。\n\n[ポイント] Yes/No疑問文なので直接的に完了したかどうかを答えるAが正解です。\n\n[重要単語]\n・orientation：オリエンテーション、研修\n・employees：従業員\n・finished：終えた\n・morning：朝、午前",
     "level": 500
   },
   {
@@ -332,7 +332,7 @@
       "I already attended the meeting."
     ],
     "answer": 0,
-    "explanation": "Would you rather A or B?の選択疑問文には、どちらかを選んで答えます。",
+    "explanation": "[質問] Would you rather have the meeting in person or by video call?\n全訳: 会議は対面とビデオ通話どちらがよいですか。\n\n[正解] (A) I'd prefer video call, if that's okay.\n全訳: もしよければビデオ通話の方がいいです。\n\n[ポイント] Would you rather A or B?の選択疑問文には、どちらかを選んで答えます。\n\n[重要単語]\n・meeting：会議\n・rather：むしろ\n・person：人\n・prefer：〜の方を好む",
     "level": 600
   },
   {
@@ -344,7 +344,7 @@
       "It should arrive on Monday."
     ],
     "answer": 0,
-    "explanation": "間接疑問文の中身はWhy(なぜ)の質問なので、理由で答えるのが適切です。Cは「いつ」に対する応答であり不十分です。",
+    "explanation": "[質問] Do you have any idea why the shipment is delayed?\n全訳: なぜ出荷が遅れているか分かりますか。\n\n[正解] (A) I heard there was a customs issue.\n全訳: 通関で問題があったと聞きました。\n\n[ポイント] 間接疑問文の中身はWhy(なぜ)の質問なので、理由で答えるのが適切です。Cは「いつ」に対する応答であり不十分です。\n\n[重要単語]\n・shipment：出荷、荷物\n・delayed：遅れた\n・customs：税関\n・heard：聞いた",
     "level": 600
   },
   {
@@ -356,7 +356,7 @@
       "I submitted my proposal already."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にも通常通り答えます。締め切りの日付について「実は金曜日に変更されました」と訂正しているAが自然な応答です。",
+    "explanation": "[質問] Isn't the deadline for the proposal next Wednesday?\n全訳: 企画書の締め切りは来週の水曜日ではないのですか。\n\n[正解] (A) Actually, it was moved to Friday.\n全訳: 実は金曜日に変更されました。\n\n[ポイント] 否定疑問文にも通常通り答えます。締め切りの日付について「実は金曜日に変更されました」と訂正しているAが自然な応答です。\n\n[重要単語]\n・deadline：締め切り\n・proposal：提案書\n・moved：移動した",
     "level": 600
   },
   {
@@ -368,7 +368,7 @@
       "The website looks great."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物・部署で答えます。BとCは更新時期や感想についての応答であり不適切です。",
+    "explanation": "[質問] Who's responsible for updating the company website?\n全訳: 会社のウェブサイトの更新は誰の担当ですか。\n\n[正解] (A) Our IT team handles that.\n全訳: それは私たちのITチームが担当しています。\n\n[ポイント] Who(誰)の質問には人物・部署で答えます。BとCは更新時期や感想についての応答であり不適切です。\n\n[重要単語]\n・responsible：責任がある\n・updating：更新すること\n・company：会社\n・website：ウェブサイト",
     "level": 400
   },
   {
@@ -380,7 +380,7 @@
       "I put it in the drawer."
     ],
     "answer": 1,
-    "explanation": "Whoの質問には人物名で答えます。BとCは中身の説明や自分の行動についての応答であり質問とずれています。",
+    "explanation": "[質問] Who left this folder on my desk?\n全訳: 誰が私の机にこのフォルダーを置いていったのですか。\n\n[正解] (B) I think it was Mr. Kim.\n全訳: キムさんだったと思います。\n\n[ポイント] Whoの質問には人物名で答えます。BとCは中身の説明や自分の行動についての応答であり質問とずれています。\n\n[重要単語]\n・folder：フォルダー\n・desk：机",
     "level": 450
   },
   {
@@ -392,7 +392,7 @@
       "Ms. Alvarez usually does."
     ],
     "answer": 2,
-    "explanation": "Whoには人物で答えます。BとCはそれぞれ「いつ」「結果」への応答であり不適切です。",
+    "explanation": "[質問] Who's chairing tomorrow's budget meeting?\n全訳: 明日の予算会議の議長は誰ですか。\n\n[正解] (C) Ms. Alvarez usually does.\n全訳: 通常はアルバレスさんが務めます。\n\n[ポイント] Whoには人物で答えます。BとCはそれぞれ「いつ」「結果」への応答であり不適切です。\n\n[重要単語]\n・meeting：会議\n・budget：予算",
     "level": 500
   },
   {
@@ -404,7 +404,7 @@
       "I already read the last report."
     ],
     "answer": 0,
-    "explanation": "Whatが「締め切り」を尋ねているので、期限で答えます。BとCは分量や過去の行動についての応答です。",
+    "explanation": "[質問] What's the deadline for the quarterly report?\n全訳: 四半期報告書の締め切りはいつですか。\n\n[正解] (A) It's due by the end of this week.\n全訳: 今週末までが締め切りです。\n\n[ポイント] Whatが「締め切り」を尋ねているので、期限で答えます。BとCは分量や過去の行動についての応答です。\n\n[重要単語]\n・quarterly：四半期ごとの\n・deadline：締め切り\n・report：報告書\n・week：週",
     "level": 450
   },
   {
@@ -416,7 +416,7 @@
       "I'll send you an invoice today."
     ],
     "answer": 1,
-    "explanation": "Whatの質問には使用しているソフト名で答えます。BとCは頻度や自分の行動に関する応答です。",
+    "explanation": "[質問] What kind of software do we use for invoicing?\n全訳: 請求書発行にはどんなソフトウェアを使っていますか。\n\n[正解] (B) We use an accounting program called Ledger Plus.\n全訳: Ledger Plusという会計ソフトを使っています。\n\n[ポイント] Whatの質問には使用しているソフト名で答えます。BとCは頻度や自分の行動に関する応答です。\n\n[重要単語]\n・accounting：経理\n・software：ソフトウェア\n・called：電話した、呼んだ\n・kind：種類",
     "level": 500
   },
   {
@@ -428,7 +428,7 @@
       "Just bring your laptop and the proposal."
     ],
     "answer": 2,
-    "explanation": "「何を持っていくべきか」には持ち物で答えます。BとCは場所や別の話題です。",
+    "explanation": "[質問] What should I bring to the client meeting?\n全訳: 顧客との打ち合わせに何を持っていけばいいですか。\n\n[正解] (C) Just bring your laptop and the proposal.\n全訳: ノートパソコンと提案書だけ持ってきてください。\n\n[ポイント] 「何を持っていくべきか」には持ち物で答えます。BとCは場所や別の話題です。\n\n[重要単語]\n・proposal：提案書\n・meeting：会議\n・laptop：ノートパソコン\n・bring：持ってくる",
     "level": 450
   },
   {
@@ -440,7 +440,7 @@
       "The orientation room is on the fourth floor."
     ],
     "answer": 0,
-    "explanation": "Whenには時期で答えます。BとCはそれぞれ人物・場所についての応答であり不適切です。",
+    "explanation": "[質問] When is the new employee orientation scheduled?\n全訳: 新入社員オリエンテーションはいつ予定されていますか。\n\n[正解] (A) It's set for next Monday morning.\n全訳: 来週月曜の午前に設定されています。\n\n[ポイント] Whenには時期で答えます。BとCはそれぞれ人物・場所についての応答であり不適切です。\n\n[重要単語]\n・orientation：オリエンテーション、研修\n・scheduled：予定されている\n・employee：従業員\n・morning：朝、午前",
     "level": 450
   },
   {
@@ -452,7 +452,7 @@
       "We're expecting another one soon."
     ],
     "answer": 1,
-    "explanation": "Whenの質問には到着時期で答えます。Bは重量、Cは未来の予定についてで、ずれています。",
+    "explanation": "[質問] When did the shipment finally arrive?\n全訳: 荷物は結局いつ届きましたか。\n\n[正解] (B) It arrived just this morning.\n全訳: ちょうど今朝届きました。\n\n[ポイント] Whenの質問には到着時期で答えます。Bは重量、Cは未来の予定についてで、ずれています。\n\n[重要単語]\n・shipment：出荷、荷物\n・arrived：到着した\n・morning：朝、午前\n・arrive：到着する",
     "level": 500
   },
   {
@@ -464,7 +464,7 @@
       "Probably by the end of the month."
     ],
     "answer": 2,
-    "explanation": "When（いつ）には時期で答えます。Bは数量、Cは内容についての応答であり不十分です。",
+    "explanation": "[質問] When can we expect the survey results?\n全訳: アンケート結果はいつ頃分かりますか。\n\n[正解] (C) Probably by the end of the month.\n全訳: おそらく月末までには。\n\n[ポイント] When（いつ）には時期で答えます。Bは数量、Cは内容についての応答であり不十分です。\n\n[重要単語]\n・probably：おそらく\n・results：結果\n・expect：予想する\n・survey：アンケート",
     "level": 500
   },
   {
@@ -476,7 +476,7 @@
       "We're out of paper too."
     ],
     "answer": 0,
-    "explanation": "Where（どこ）には場所で答えます。BとCは購入時期や別の話題です。",
+    "explanation": "[質問] Where did you put the extra staplers?\n全訳: 予備のホッチキスはどこに置きましたか。\n\n[正解] (A) They're in the supply cabinet.\n全訳: 備品棚の中にあります。\n\n[ポイント] Where（どこ）には場所で答えます。BとCは購入時期や別の話題です。\n\n[重要単語]\n・cabinet：キャビネット、戸棚\n・supply：備品\n・extra：予備の、追加の\n・put：置く",
     "level": 400
   },
   {
@@ -488,7 +488,7 @@
       "The bank opens at nine."
     ],
     "answer": 1,
-    "explanation": "Whereの質問には場所で答えます。BとCはお金の話ですが場所への応答にはなっていません。",
+    "explanation": "[質問] Where is the closest ATM from the office?\n全訳: オフィスから一番近いATMはどこですか。\n\n[正解] (B) There's one in the lobby downstairs.\n全訳: 下の階のロビーに1台あります。\n\n[ポイント] Whereの質問には場所で答えます。BとCはお金の話ですが場所への応答にはなっていません。\n\n[重要単語]\n・office：オフィス\n・lobby：ロビー",
     "level": 450
   },
   {
@@ -500,7 +500,7 @@
       "They can use the lot behind the building."
     ],
     "answer": 2,
-    "explanation": "Where（どこ）には駐車場所で答えます。BとCは手続きや建物の情報であり質問に対応していません。",
+    "explanation": "[質問] Where should visitors park when they come to the building?\n全訳: 来訪者はこの建物に来るとき、どこに駐車すればよいですか。\n\n[正解] (C) They can use the lot behind the building.\n全訳: 建物の裏の駐車場を使えます。\n\n[ポイント] Where（どこ）には駐車場所で答えます。BとCは手続きや建物の情報であり質問に対応していません。\n\n[重要単語]\n・building：建物\n・park：駐車する、公園\n・use：使う\n・lot：駐車場、たくさん",
     "level": 500
   },
   {
@@ -512,7 +512,7 @@
       "It should arrive by Friday."
     ],
     "answer": 0,
-    "explanation": "Why（なぜ）には理由で答えます。Bは数量、Cは到着予定日についての応答であり不適切です。",
+    "explanation": "[質問] Why is the shipment taking longer than expected?\n全訳: なぜ出荷が予想より時間がかかっているのですか。\n\n[正解] (A) There was a delay at customs.\n全訳: 通関で遅れがありました。\n\n[ポイント] Why（なぜ）には理由で答えます。Bは数量、Cは到着予定日についての応答であり不適切です。\n\n[重要単語]\n・shipment：出荷、荷物\n・expected：予想される\n・customs：税関\n・taking：取る、かかる",
     "level": 550
   },
   {
@@ -524,7 +524,7 @@
       "He usually travels once a month."
     ],
     "answer": 1,
-    "explanation": "Whyには理由で答えます。BとCは場所や頻度についての応答です。",
+    "explanation": "[質問] Why did Mr. Lee cancel his trip to the branch office?\n全訳: なぜリーさんは支店への出張をキャンセルしたのですか。\n\n[正解] (B) He caught a cold and couldn't travel.\n全訳: 風邪をひいて移動できなかったのです。\n\n[ポイント] Whyには理由で答えます。BとCは場所や頻度についての応答です。\n\n[重要単語]\n・branch：支店\n・office：オフィス\n・cold：風邪、寒い",
     "level": 550
   },
   {
@@ -536,7 +536,7 @@
       "We're still waiting for approval from finance."
     ],
     "answer": 2,
-    "explanation": "Whyの質問には理由で答えます。BとCは金額や送付日についてで、理由の説明になっていません。",
+    "explanation": "[質問] Why hasn't the invoice been paid yet?\n全訳: なぜ請求書はまだ支払われていないのですか。\n\n[正解] (C) We're still waiting for approval from finance.\n全訳: 経理部の承認をまだ待っているところです。\n\n[ポイント] Whyの質問には理由で答えます。BとCは金額や送付日についてで、理由の説明になっていません。\n\n[重要単語]\n・approval：承認\n・invoice：請求書\n・waiting：待っている\n・finance：経理、財務",
     "level": 550
   },
   {
@@ -548,7 +548,7 @@
       "I reset mine last week."
     ],
     "answer": 0,
-    "explanation": "Howの質問には手順・方法で答えます。BとCは自分のパスワードについての話でずれています。",
+    "explanation": "[質問] How do I reset my email password?\n全訳: メールのパスワードはどうやってリセットすればいいですか。\n\n[正解] (A) Just click the 'Forgot Password' link.\n全訳: 「パスワードをお忘れですか」というリンクをクリックしてください。\n\n[ポイント] Howの質問には手順・方法で答えます。BとCは自分のパスワードについての話でずれています。\n\n[重要単語]\n・password：パスワード\n・reset：リセットする\n・email：メール",
     "level": 450
   },
   {
@@ -560,7 +560,7 @@
       "It started last spring."
     ],
     "answer": 1,
-    "explanation": "How long（どのくらいの期間）には期間で答えます。BとCは範囲や開始時期についての応答です。",
+    "explanation": "[質問] How long will the renovation take?\n全訳: 改装にはどのくらい時間がかかりますか。\n\n[正解] (B) About two months, we've been told.\n全訳: 2か月ほどだと聞いています。\n\n[ポイント] How long（どのくらいの期間）には期間で答えます。BとCは範囲や開始時期についての応答です。\n\n[重要単語]\n・renovation：改装\n・months：月（複数）\n・long：長い",
     "level": 500
   },
   {
@@ -572,7 +572,7 @@
       "It's roughly a twenty-minute drive."
     ],
     "answer": 2,
-    "explanation": "How far（どのくらいの距離）には距離・所要時間で答えます。BとCは規模や過去の訪問についての話です。",
+    "explanation": "[質問] How far is the warehouse from here?\n全訳: 倉庫はここからどのくらい離れていますか。\n\n[正解] (C) It's roughly a twenty-minute drive.\n全訳: 車でおよそ20分です。\n\n[ポイント] How far（どのくらいの距離）には距離・所要時間で答えます。BとCは規模や過去の訪問についての話です。\n\n[重要単語]\n・warehouse：倉庫\n・minute：分\n・drive：ドライブ、共有ドライブ\n・far：遠い",
     "level": 500
   },
   {
@@ -584,7 +584,7 @@
       "It will be held next Tuesday."
     ],
     "answer": 0,
-    "explanation": "How many（いくつ・何人）には数で答えます。BとCはテーマや日程についての応答です。",
+    "explanation": "[質問] How many people are expected at the seminar?\n全訳: セミナーには何人くらい来る予定ですか。\n\n[正解] (A) About sixty registered so far.\n全訳: これまでに約60人が登録しています。\n\n[ポイント] How many（いくつ・何人）には数で答えます。BとCはテーマや日程についての応答です。\n\n[重要単語]\n・registered：登録した\n・expected：予想される\n・seminar：セミナー\n・people：人々",
     "level": 500
   },
   {
@@ -596,7 +596,7 @@
       "They're very comfortable."
     ],
     "answer": 1,
-    "explanation": "How much（いくら）には金額で答えます。Bは数量、Cは感想についての応答であり不十分です。",
+    "explanation": "[質問] How much did the new office chairs cost?\n全訳: 新しいオフィスチェアはいくらしましたか。\n\n[正解] (B) Around eighty dollars each.\n全訳: 1脚あたりおよそ80ドルです。\n\n[ポイント] How much（いくら）には金額で答えます。Bは数量、Cは感想についての応答であり不十分です。\n\n[重要単語]\n・dollars：ドル\n・office：オフィス\n・chairs：椅子\n・cost：費用、かかる",
     "level": 500
   },
   {
@@ -608,7 +608,7 @@
       "I can have it ready by tomorrow."
     ],
     "answer": 2,
-    "explanation": "How soon（どのくらい早く）には時期・期限で答えます。BとCは感想や制作者についての話です。",
+    "explanation": "[質問] How soon can you finish the design draft?\n全訳: デザイン案はどのくらい早く仕上げられますか。\n\n[正解] (C) I can have it ready by tomorrow.\n全訳: 明日までに仕上げられます。\n\n[ポイント] How soon（どのくらい早く）には時期・期限で答えます。BとCは感想や制作者についての話です。\n\n[重要単語]\n・finish：終える\n・design：デザイン\n・draft：草案",
     "level": 550
   },
   {
@@ -620,7 +620,7 @@
       "The email was quite long."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文には直接的に受け取ったかどうかで答えます。BとCは質問の意図からずれています。",
+    "explanation": "[質問] Did you receive the confirmation email I sent?\n全訳: 私が送った確認メールは受け取りましたか。\n\n[正解] (A) Yes, I got it this morning.\n全訳: はい、今朝受け取りました。\n\n[ポイント] Yes/No疑問文には直接的に受け取ったかどうかで答えます。BとCは質問の意図からずれています。\n\n[重要単語]\n・receive：受け取る\n・morning：朝、午前\n・email：メール\n・sent：送った",
     "level": 450
   },
   {
@@ -632,7 +632,7 @@
       "There are twenty seats in the room."
     ],
     "answer": 1,
-    "explanation": "Yes/No疑問文に対して、空いているかどうかを具体的に答えているAが正解です。",
+    "explanation": "[質問] Is the conference room available at two o'clock?\n全訳: 会議室は2時に空いていますか。\n\n[正解] (B) Yes, it's free until three.\n全訳: はい、3時まで空いています。\n\n[ポイント] Yes/No疑問文に対して、空いているかどうかを具体的に答えているAが正解です。\n\n[重要単語]\n・conference：会議、カンファレンス\n・available：利用可能な\n・free：無料の",
     "level": 450
   },
   {
@@ -644,7 +644,7 @@
       "Not yet, but I've heard good things."
     ],
     "answer": 2,
-    "explanation": "Yes/No疑問文には経験の有無で答えます。ここでは「まだです」という自然な応答が正解です。",
+    "explanation": "[質問] Have you tried the new coffee shop downstairs?\n全訳: 階下の新しいコーヒーショップに行ってみましたか。\n\n[正解] (C) Not yet, but I've heard good things.\n全訳: まだですが、評判はいいと聞いています。\n\n[ポイント] Yes/No疑問文には経験の有無で答えます。ここでは「まだです」という自然な応答が正解です。\n\n[重要単語]\n・coffee：コーヒー\n・heard：聞いた\n・shop：店",
     "level": 450
   },
   {
@@ -656,7 +656,7 @@
       "I usually take the stairs."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文に対し「はい、B1を押してください」と具体的に答えているAが自然です。",
+    "explanation": "[質問] Does this elevator go to the parking garage?\n全訳: このエレベーターは駐車場まで行きますか。\n\n[正解] (A) Yes, just press B1.\n全訳: はい、B1を押してください。\n\n[ポイント] Yes/No疑問文に対し「はい、B1を押してください」と具体的に答えているAが自然です。\n\n[重要単語]\n・elevator：エレベーター\n・parking：駐車\n・garage：駐車場（屋内）",
     "level": 450
   },
   {
@@ -668,7 +668,7 @@
       "The location is easy to find."
     ],
     "answer": 1,
-    "explanation": "Yes/No疑問文には変更の有無を答えます。BとCは過去の話や感想であり質問に直接答えていません。",
+    "explanation": "[質問] Are we still meeting at the same location tomorrow?\n全訳: 明日も同じ場所で会う予定に変わりはないですか。\n\n[正解] (B) Yes, nothing has changed.\n全訳: はい、変更はありません。\n\n[ポイント] Yes/No疑問文には変更の有無を答えます。BとCは過去の話や感想であり質問に直接答えていません。\n\n[重要単語]\n・location：場所\n・meeting：会議\n・changed：変更した",
     "level": 450
   },
   {
@@ -680,7 +680,7 @@
       "Yes, it's scheduled for next week."
     ],
     "answer": 2,
-    "explanation": "否定疑問文にも通常のYes/Noと同様に答えます。ここでは時期を明確にしているAが正解です。",
+    "explanation": "[質問] Isn't the marketing budget due for review this month?\n全訳: マーケティング予算は今月見直しの時期ではないですか。\n\n[正解] (C) Yes, it's scheduled for next week.\n全訳: はい、来週に予定されています。\n\n[ポイント] 否定疑問文にも通常のYes/Noと同様に答えます。ここでは時期を明確にしているAが正解です。\n\n[重要単語]\n・marketing：マーケティング\n・scheduled：予定されている\n・budget：予算\n・review：見直す、確認する",
     "level": 600
   },
   {
@@ -692,7 +692,7 @@
       "I already checked in."
     ],
     "answer": 0,
-    "explanation": "否定疑問文には事実を確認・訂正する形で答えます。「実は2時に遅れました」というAが自然です。",
+    "explanation": "[質問] Wasn't the flight supposed to depart at noon?\n全訳: そのフライトは正午出発の予定ではなかったですか。\n\n[正解] (A) Actually, it's been delayed until two.\n全訳: 実は2時まで遅れています。\n\n[ポイント] 否定疑問文には事実を確認・訂正する形で答えます。「実は2時に遅れました」というAが自然です。\n\n[重要単語]\n・supposed：〜のはずである\n・delayed：遅れた\n・flight：フライト\n・noon：正午",
     "level": 600
   },
   {
@@ -704,7 +704,7 @@
       "I printed the documents already."
     ],
     "answer": 1,
-    "explanation": "否定疑問文でも通常通り答えます。「はい、今日注文します」というAが適切です。",
+    "explanation": "[質問] Doesn't this printer need a new toner cartridge?\n全訳: このプリンターは新しいトナーカートリッジが必要ではないですか。\n\n[正解] (B) Yes, I'll order one today.\n全訳: はい、今日注文します。\n\n[ポイント] 否定疑問文でも通常通り答えます。「はい、今日注文します」というAが適切です。\n\n[重要単語]\n・printer：プリンター\n・toner：トナー\n・order：注文\n・need：必要とする",
     "level": 600
   },
   {
@@ -716,7 +716,7 @@
       "Actually, the visit was rescheduled."
     ],
     "answer": 2,
-    "explanation": "否定疑問文には事実を訂正・確認する形で答えます。「実は予定が変更になりました」というAが自然です。",
+    "explanation": "[質問] Aren't you supposed to be at the client site today?\n全訳: 今日は顧客先にいるはずではないのですか。\n\n[正解] (C) Actually, the visit was rescheduled.\n全訳: 実は訪問予定が変更になったんです。\n\n[ポイント] 否定疑問文には事実を訂正・確認する形で答えます。「実は予定が変更になりました」というAが自然です。\n\n[重要単語]\n・rescheduled：予定変更された\n・supposed：〜のはずである",
     "level": 600
   },
   {
@@ -728,7 +728,7 @@
       "We signed a contract last year."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にも通常通り答えます。「まだです、交渉中です」というAが正解です。",
+    "explanation": "[質問] Hasn't the vendor contract been renewed yet?\n全訳: 業者との契約はまだ更新されていないのですか。\n\n[正解] (A) Not yet, we're still negotiating terms.\n全訳: まだです、今も条件を交渉中です。\n\n[ポイント] 否定疑問文にも通常通り答えます。「まだです、交渉中です」というAが正解です。\n\n[重要単語]\n・contract：契約書\n・vendor：業者、納入業者",
     "level": 600
   },
   {
@@ -740,7 +740,7 @@
       "The laptop was quite expensive."
     ],
     "answer": 1,
-    "explanation": "付加疑問文（isn't it?）には同意・不同意で自然に答えます。",
+    "explanation": "[質問] This new laptop is really fast, isn't it?\n全訳: この新しいノートパソコン、本当に速いですね。\n\n[正解] (B) It sure is. I love using it.\n全訳: 本当にそうです。使うのが気に入っています。\n\n[ポイント] 付加疑問文（isn't it?）には同意・不同意で自然に答えます。\n\n[重要単語]\n・laptop：ノートパソコン",
     "level": 500
   },
   {
@@ -752,7 +752,7 @@
       "Of course, I wouldn't miss it."
     ],
     "answer": 2,
-    "explanation": "付加疑問文には出席するかどうかで答えます。Aが最も自然な応答です。",
+    "explanation": "[質問] You're coming to the farewell party, aren't you?\n全訳: 送別会には来ますよね。\n\n[正解] (C) Of course, I wouldn't miss it.\n全訳: もちろんです、絶対に行きます。\n\n[ポイント] 付加疑問文には出席するかどうかで答えます。Aが最も自然な応答です。\n\n[重要単語]\n・coming：来る\n・course：もちろん（of course）\n・party：パーティー",
     "level": 500
   },
   {
@@ -764,7 +764,7 @@
       "We'll send another proposal soon."
     ],
     "answer": 0,
-    "explanation": "付加疑問文には感想への同意・不同意で答えます。",
+    "explanation": "[質問] The client seemed satisfied with the proposal, didn't they?\n全訳: 顧客はその提案に満足していたようですね。\n\n[正解] (A) Yes, they were quite impressed.\n全訳: はい、とても感心していました。\n\n[ポイント] 付加疑問文には感想への同意・不同意で答えます。\n\n[重要単語]\n・proposal：提案書\n・seemed：〜のようだった",
     "level": 500
   },
   {
@@ -776,7 +776,7 @@
       "I submitted mine last month."
     ],
     "answer": 1,
-    "explanation": "付加疑問文（right?）には確認への同意・不同意で答えます。",
+    "explanation": "[質問] We're supposed to submit the form by Friday, right?\n全訳: このフォームは金曜日までに提出することになっていますよね。\n\n[正解] (B) That's correct, no exceptions.\n全訳: その通りです、例外はありません。\n\n[ポイント] 付加疑問文（right?）には確認への同意・不同意で答えます。\n\n[重要単語]\n・supposed：〜のはずである\n・correct：正しい\n・submit：提出する\n・right：正しい、すぐに",
     "level": 550
   },
   {
@@ -788,7 +788,7 @@
       "Yes, starting the first of the month."
     ],
     "answer": 2,
-    "explanation": "付加疑問文には具体的な時期を添えて同意しているAが最も自然です。",
+    "explanation": "[質問] The new policy takes effect next month, doesn't it?\n全訳: 新しい方針は来月から施行されますよね。\n\n[正解] (C) Yes, starting the first of the month.\n全訳: はい、月の初日からです。\n\n[ポイント] 付加疑問文には具体的な時期を添えて同意しているAが最も自然です。\n\n[重要単語]\n・starting：〜から始まって\n・policy：方針、規定\n・effect：効力（take effect＝施行される）\n・takes：かかる",
     "level": 550
   },
   {
@@ -800,7 +800,7 @@
       "I already had a meeting today."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。BとCは質問への直接的な応答になっていません。",
+    "explanation": "[質問] Would you prefer to meet in the morning or the afternoon?\n全訳: 打ち合わせは午前と午後どちらがよいですか。\n\n[正解] (A) The afternoon works better for me.\n全訳: 午後の方が都合がいいです。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。BとCは質問への直接的な応答になっていません。\n\n[重要単語]\n・afternoon：午後\n・morning：朝、午前\n・prefer：〜の方を好む\n・better：より良い",
     "level": 500
   },
   {
@@ -812,7 +812,7 @@
       "We emailed them last week."
     ],
     "answer": 1,
-    "explanation": "選択疑問文にはどちらかを選んで具体的に答えます。",
+    "explanation": "[質問] Should we email the client or call them directly?\n全訳: 顧客にはメールを送りますか、それとも直接電話しますか。\n\n[正解] (B) Let's just give them a call.\n全訳: 電話をかけましょう。\n\n[ポイント] 選択疑問文にはどちらかを選んで具体的に答えます。\n\n[重要単語]\n・email：メール\n・call：電話、通話\n・give：与える",
     "level": 500
   },
   {
@@ -824,7 +824,7 @@
       "Color would be better for the charts."
     ],
     "answer": 2,
-    "explanation": "選択疑問文には具体的にどちらかを選んで答えます。",
+    "explanation": "[質問] Do you want the report printed in color or black and white?\n全訳: 報告書はカラーと白黒どちらで印刷しますか。\n\n[正解] (C) Color would be better for the charts.\n全訳: グラフのためにカラーの方がいいです。\n\n[ポイント] 選択疑問文には具体的にどちらかを選んで答えます。\n\n[重要単語]\n・printed：印刷された\n・report：報告書\n・better：より良い\n・color：カラー、色",
     "level": 500
   },
   {
@@ -836,7 +836,7 @@
       "Last year it was very popular."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを明確に答えます。BとCは内容や過去の話であり不十分です。",
+    "explanation": "[質問] Is the workshop being held on-site or online this year?\n全訳: 今年の研修会は会場開催ですか、それともオンラインですか。\n\n[正解] (A) It'll be fully online this year.\n全訳: 今年は完全にオンラインになります。\n\n[ポイント] 選択疑問文にはどちらかを明確に答えます。BとCは内容や過去の話であり不十分です。\n\n[重要単語]\n・workshop：研修会、ワークショップ\n・online：オンラインで\n・held：開催された\n・year：年",
     "level": 550
   },
   {
@@ -848,7 +848,7 @@
       "I reviewed a similar draft yesterday."
     ],
     "answer": 1,
-    "explanation": "選択疑問文には具体的なタイミングを選んで答えます。",
+    "explanation": "[質問] Would you like to review the draft now or after lunch?\n全訳: 草案は今確認しますか、それとも昼食後にしますか。\n\n[正解] (B) Let's do it after lunch, if that's okay.\n全訳: よろしければ昼食後にしましょう。\n\n[ポイント] 選択疑問文には具体的なタイミングを選んで答えます。\n\n[重要単語]\n・review：見直す、確認する\n・draft：草案\n・lunch：昼食\n・okay：大丈夫",
     "level": 550
   },
   {
@@ -860,7 +860,7 @@
       "Sure, I'll have it ready by then."
     ],
     "answer": 2,
-    "explanation": "依頼表現（Could you...?）には引き受ける・断るなどの応答をします。",
+    "explanation": "[質問] Could you send me the updated schedule by tomorrow?\n全訳: 更新されたスケジュールを明日までに送ってもらえますか。\n\n[正解] (C) Sure, I'll have it ready by then.\n全訳: もちろん、それまでに用意します。\n\n[ポイント] 依頼表現（Could you...?）には引き受ける・断るなどの応答をします。\n\n[重要単語]\n・schedule：予定、日程\n・updated：更新した\n・send：送る",
     "level": 450
   },
   {
@@ -872,7 +872,7 @@
       "I called you yesterday."
     ],
     "answer": 0,
-    "explanation": "Would you mind...?には「構いません」の意味でNot at allと答えるのが典型的です。",
+    "explanation": "[質問] Would you mind rescheduling our call to Thursday?\n全訳: 通話の予定を木曜日に変更しても構いませんか。\n\n[正解] (A) Not at all, Thursday works for me.\n全訳: 全く問題ありません、木曜日で大丈夫です。\n\n[ポイント] Would you mind...?には「構いません」の意味でNot at allと答えるのが典型的です。\n\n[重要単語]\n・mind：気にする\n・call：電話、通話",
     "level": 600
   },
   {
@@ -884,7 +884,7 @@
       "We took a break an hour ago."
     ],
     "answer": 1,
-    "explanation": "Why don't we...?は提案表現で、賛成・反対で答えます。",
+    "explanation": "[質問] Why don't we take a short break before continuing?\n全訳: 続きの前に少し休憩を取りませんか。\n\n[正解] (B) Good idea, let's do that.\n全訳: いい考えですね、そうしましょう。\n\n[ポイント] Why don't we...?は提案表現で、賛成・反対で答えます。\n\n[重要単語]\n・short：短い\n・break：休憩\n・idea：考え、アイデア",
     "level": 550
   },
   {
@@ -896,7 +896,7 @@
       "Sounds good, I'll draft it now."
     ],
     "answer": 2,
-    "explanation": "Let's...の提案には賛成・反対の応答をします。",
+    "explanation": "[質問] Let's finalize the agenda before the meeting starts.\n全訳: 会議が始まる前に議題を確定させましょう。\n\n[正解] (C) Sounds good, I'll draft it now.\n全訳: いいですね、今から作成します。\n\n[ポイント] Let's...の提案には賛成・反対の応答をします。\n\n[重要単語]\n・meeting：会議\n・agenda：議題\n・starts：始まる\n・sounds：〜のように聞こえる",
     "level": 500
   },
   {
@@ -908,7 +908,7 @@
       "We discussed this last week."
     ],
     "answer": 0,
-    "explanation": "Shall we...?の提案には賛成・反対で答えます。",
+    "explanation": "[質問] Shall we invite the marketing team to the discussion?\n全訳: この議論にマーケティングチームも招きましょうか。\n\n[正解] (A) Yes, that would be helpful.\n全訳: はい、それは助かります。\n\n[ポイント] Shall we...?の提案には賛成・反対で答えます。\n\n[重要単語]\n・marketing：マーケティング",
     "level": 550
   },
   {
@@ -920,7 +920,7 @@
       "I attended the training last year."
     ],
     "answer": 1,
-    "explanation": "間接疑問文の中身はWho（誰）の質問なので、人物名で答えます。",
+    "explanation": "[質問] Do you know who's supposed to lead the training session?\n全訳: 研修セッションを誰が担当するか知っていますか。\n\n[正解] (B) I believe it's Mr. Sato.\n全訳: 佐藤さんだと思います。\n\n[ポイント] 間接疑問文の中身はWho（誰）の質問なので、人物名で答えます。\n\n[重要単語]\n・supposed：〜のはずである\n・training：研修\n・session：セッション、研修時間\n・lead：率いる、担当する",
     "level": 550
   },
   {
@@ -932,7 +932,7 @@
       "It's right down this hallway."
     ],
     "answer": 2,
-    "explanation": "間接疑問文の中身はWhere（どこ）の質問なので、場所で答えます。",
+    "explanation": "[質問] Can you tell me where the nearest exit is?\n全訳: 一番近い出口がどこか教えてもらえますか。\n\n[正解] (C) It's right down this hallway.\n全訳: この廊下をまっすぐ行った先です。\n\n[ポイント] 間接疑問文の中身はWhere（どこ）の質問なので、場所で答えます。\n\n[重要単語]\n・nearest：最寄りの\n・right：正しい、すぐに\n・tell：伝える\n・exit：出口",
     "level": 550
   },
   {
@@ -944,7 +944,7 @@
       "We ordered it two days ago."
     ],
     "answer": 0,
-    "explanation": "間接疑問文の中身はWhen（いつ）の質問なので、時刻で答えます。",
+    "explanation": "[質問] Do you have any idea when the delivery will arrive?\n全訳: 配達がいつ届くか分かりますか。\n\n[正解] (A) It should be here by three o'clock.\n全訳: 3時までには届くはずです。\n\n[ポイント] 間接疑問文の中身はWhen（いつ）の質問なので、時刻で答えます。\n\n[重要単語]\n・delivery：配達\n・arrive：到着する\n・idea：考え、アイデア",
     "level": 600
   },
   {
@@ -956,7 +956,7 @@
       "I already paid for the last repair."
     ],
     "answer": 1,
-    "explanation": "間接疑問文の中身はHow much（いくら）の質問なので、金額で答えます。",
+    "explanation": "[質問] Could you tell me how much the repair will cost?\n全訳: 修理代がいくらになるか教えてもらえますか。\n\n[正解] (B) It'll be around one hundred dollars.\n全訳: だいたい100ドルくらいになります。\n\n[ポイント] 間接疑問文の中身はHow much（いくら）の質問なので、金額で答えます。\n\n[重要単語]\n・dollars：ドル\n・repair：修理する\n・tell：伝える\n・cost：費用、かかる",
     "level": 600
   },
   {
@@ -968,7 +968,7 @@
       "The item was out of stock."
     ],
     "answer": 2,
-    "explanation": "間接疑問文の中身はWhy（なぜ）の質問なので、理由で答えます。",
+    "explanation": "[質問] Do you remember why the order was canceled?\n全訳: その注文がなぜキャンセルされたか覚えていますか。\n\n[正解] (C) The item was out of stock.\n全訳: その商品が在庫切れだったのです。\n\n[ポイント] 間接疑問文の中身はWhy（なぜ）の質問なので、理由で答えます。\n\n[重要単語]\n・order：注文",
     "level": 600
   },
   {
@@ -980,7 +980,7 @@
       "We reviewed it yesterday."
     ],
     "answer": 0,
-    "explanation": "Whoの質問には人物・役職で答えます。BとCは結果や過去の行動についての応答です。",
+    "explanation": "[質問] Who approved the changes to the project timeline?\n全訳: プロジェクトの日程変更を承認したのは誰ですか。\n\n[正解] (A) The project manager did.\n全訳: プロジェクトマネージャーです。\n\n[ポイント] Whoの質問には人物・役職で答えます。BとCは結果や過去の行動についての応答です。\n\n[重要単語]\n・approved：承認した\n・project：プロジェクト\n・manager：マネージャー",
     "level": 500
   },
   {
@@ -992,7 +992,7 @@
       "I usually shop on Saturdays."
     ],
     "answer": 1,
-    "explanation": "What time（何時）には時刻で答えます。BとCは様子や個人の習慣についての話です。",
+    "explanation": "[質問] What time does the store close on weekends?\n全訳: その店は週末は何時に閉まりますか。\n\n[正解] (B) It closes at eight on weekends.\n全訳: 週末は8時に閉まります。\n\n[ポイント] What time（何時）には時刻で答えます。BとCは様子や個人の習慣についての話です。\n\n[重要単語]\n・weekends：週末\n・closes：閉まる\n・store：店\n・close：閉める、近い",
     "level": 450
   },
   {
@@ -1004,7 +1004,7 @@
       "They're on the shared drive under Reports."
     ],
     "answer": 2,
-    "explanation": "Where（どこ）には場所で答えます。BとCは感想や今後の予定についての応答です。",
+    "explanation": "[質問] Where can I find the latest sales figures?\n全訳: 最新の売上データはどこで見られますか。\n\n[正解] (C) They're on the shared drive under Reports.\n全訳: 共有ドライブの「Reports」フォルダにあります。\n\n[ポイント] Where（どこ）には場所で答えます。BとCは感想や今後の予定についての応答です。\n\n[重要単語]\n・figures：数字\n・reports：報告書（複数）\n・shared：共有された\n・sales：売上、営業",
     "level": 500
   },
   {
@@ -1016,7 +1016,7 @@
       "It was rescheduled last month too."
     ],
     "answer": 0,
-    "explanation": "Whyには理由で答えます。BとCは内容や過去の事例についての話であり不十分です。",
+    "explanation": "[質問] Why does the meeting keep getting rescheduled?\n全訳: なぜ会議はいつも予定変更になるのですか。\n\n[正解] (A) A few key attendees have been unavailable.\n全訳: 主要な参加者数名の都合がつかないためです。\n\n[ポイント] Whyには理由で答えます。BとCは内容や過去の事例についての話であり不十分です。\n\n[重要単語]\n・rescheduled：予定変更された\n・attendees：参加者\n・meeting：会議\n・keep：保管する",
     "level": 550
   },
   {
@@ -1028,7 +1028,7 @@
       "Expenses are due by Friday."
     ],
     "answer": 1,
-    "explanation": "How（どうやって）には方法・手順で答えます。BとCは導入時期や締め切りについての話です。",
+    "explanation": "[質問] How does the new expense system work?\n全訳: 新しい経費精算システムはどのように使うのですか。\n\n[正解] (B) You just scan the receipt and upload it.\n全訳: レシートをスキャンしてアップロードするだけです。\n\n[ポイント] How（どうやって）には方法・手順で答えます。BとCは導入時期や締め切りについての話です。\n\n[重要単語]\n・expense：経費\n・system：システム",
     "level": 550
   },
   {
@@ -1040,7 +1040,7 @@
       "Yes, it's on Saturday afternoon."
     ],
     "answer": 2,
-    "explanation": "否定疑問文にも通常通り答えます。時期を明確にしているAが正解です。",
+    "explanation": "[質問] Isn't the company picnic happening this weekend?\n全訳: 今週末に会社のピクニックがあるのではないですか。\n\n[正解] (C) Yes, it's on Saturday afternoon.\n全訳: はい、土曜日の午後にあります。\n\n[ポイント] 否定疑問文にも通常通り答えます。時期を明確にしているAが正解です。\n\n[重要単語]\n・afternoon：午後\n・company：会社",
     "level": 550
   },
   {
@@ -1052,7 +1052,7 @@
       "I read about the launch online."
     ],
     "answer": 0,
-    "explanation": "付加疑問文には出席の有無・感想で自然に答えます。",
+    "explanation": "[質問] You attended the product launch, didn't you?\n全訳: 新商品発表会に出席しましたよね。\n\n[正解] (A) Yes, it was really impressive.\n全訳: はい、本当に素晴らしかったです。\n\n[ポイント] 付加疑問文には出席の有無・感想で自然に答えます。\n\n[重要単語]\n・attended：出席した\n・product：製品\n・launch：発売、開始",
     "level": 500
   },
   {
@@ -1064,7 +1064,7 @@
       "I filed something yesterday."
     ],
     "answer": 1,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。",
+    "explanation": "[質問] Should I file this under 'Clients' or 'Vendors'?\n全訳: これは「顧客」と「業者」のどちらに分類すればいいですか。\n\n[正解] (B) Under 'Vendors,' I believe.\n全訳: 「業者」の方だと思います。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。\n\n[重要単語]\n・file：ファイル",
     "level": 500
   },
   {
@@ -1076,7 +1076,7 @@
       "Of course, give me a few minutes."
     ],
     "answer": 2,
-    "explanation": "依頼表現には引き受ける・断るなどの応答をします。「もちろんです、少し時間をください」が自然です。",
+    "explanation": "[質問] Could you double-check these numbers before I send them?\n全訳: 送る前にこの数字をもう一度確認してもらえますか。\n\n[正解] (C) Of course, give me a few minutes.\n全訳: もちろんです、少し時間をください。\n\n[ポイント] 依頼表現には引き受ける・断るなどの応答をします。「もちろんです、少し時間をください」が自然です。\n\n[重要単語]\n・numbers：数字\n・minutes：分（時間）\n・double：二重の\n・course：もちろん（of course）",
     "level": 500
   },
   {
@@ -1088,7 +1088,7 @@
       "In the main conference room."
     ],
     "answer": 0,
-    "explanation": "Who（誰が）の質問には人物名で答えます。他の選択肢は時刻や場所への応答で質問の種類が異なります。",
+    "explanation": "[質問] Who is going to lead the client presentation tomorrow?\n全訳: 明日の顧客向けプレゼンは誰が担当しますか。\n\n[正解] (A) Mr. Anderson volunteered to do it.\n全訳: アンダーソンさんが担当を申し出ました。\n\n[ポイント] Who（誰が）の質問には人物名で答えます。他の選択肢は時刻や場所への応答で質問の種類が異なります。\n\n[重要単語]\n・presentation：プレゼンテーション\n・going：行く予定である\n・lead：率いる、担当する",
     "level": 400
   },
   {
@@ -1100,7 +1100,7 @@
       "It was increased by ten percent."
     ],
     "answer": 0,
-    "explanation": "Who（誰が）の質問には人物や役職名で答えます。",
+    "explanation": "[質問] Who approved the new marketing budget?\n全訳: 新しいマーケティング予算を承認したのは誰ですか。\n\n[正解] (A) The finance director signed off on it.\n全訳: 財務部長が承認しました。\n\n[ポイント] Who（誰が）の質問には人物や役職名で答えます。\n\n[重要単語]\n・marketing：マーケティング\n・approved：承認した\n・finance：経理、財務\n・budget：予算",
     "level": 450
   },
   {
@@ -1112,7 +1112,7 @@
       "The website looks great now."
     ],
     "answer": 0,
-    "explanation": "担当者を尋ねる質問には部署や人物名で答えるのが自然です。",
+    "explanation": "[質問] Who's responsible for updating the company website?\n全訳: 会社のウェブサイトの更新は誰の担当ですか。\n\n[正解] (A) That would be the IT department.\n全訳: それはIT部門の担当です。\n\n[ポイント] 担当者を尋ねる質問には部署や人物名で答えるのが自然です。\n\n[重要単語]\n・responsible：責任がある\n・updating：更新すること\n・company：会社\n・website：ウェブサイト",
     "level": 450
   },
   {
@@ -1124,7 +1124,7 @@
       "It might rain later today."
     ],
     "answer": 0,
-    "explanation": "誰のものか分からない場合の自然な応答です。",
+    "explanation": "[質問] Who left this umbrella in the meeting room?\n全訳: 誰がこの傘を会議室に置き忘れたのですか。\n\n[正解] (A) I'm not sure, but I'll ask around.\n全訳: はっきりしませんが、周りに聞いてみます。\n\n[ポイント] 誰のものか分からない場合の自然な応答です。\n\n[重要単語]\n・meeting：会議",
     "level": 500
   },
   {
@@ -1136,7 +1136,7 @@
       "She went to visit her family."
     ],
     "answer": 0,
-    "explanation": "代理を務める人物を答えるのが自然です。",
+    "explanation": "[質問] Who's covering the front desk while Emma is on vacation?\n全訳: エマが休暇中、受付は誰が担当していますか。\n\n[正解] (A) I believe Daniel is filling in for her.\n全訳: ダニエルが代わりを務めていると思います。\n\n[ポイント] 代理を務める人物を答えるのが自然です。\n\n[重要単語]\n・covering：代わりを務めている\n・vacation：休暇\n・front：正面、前\n・desk：机",
     "level": 500
   },
   {
@@ -1148,7 +1148,7 @@
       "The position pays quite well."
     ],
     "answer": 0,
-    "explanation": "採用した人物についての情報で答えます。",
+    "explanation": "[質問] Who did you hire for the accounting position?\n全訳: 経理職には誰を採用しましたか。\n\n[正解] (A) We chose a candidate with five years of experience.\n全訳: 5年の経験がある方を選びました。\n\n[ポイント] 採用した人物についての情報で答えます。\n\n[重要単語]\n・accounting：経理\n・experience：経験\n・candidate：候補者\n・position：職、役職",
     "level": 550
   },
   {
@@ -1160,7 +1160,7 @@
       "It's a comfortable ride."
     ],
     "answer": 0,
-    "explanation": "What time（何時に）には具体的な時刻や頻度で答えます。",
+    "explanation": "[質問] What time does the shuttle bus leave for the airport?\n全訳: シャトルバスは何時に空港へ出発しますか。\n\n[正解] (A) It leaves every hour on the hour.\n全訳: 毎時ちょうどに出ています。\n\n[ポイント] What time（何時に）には具体的な時刻や頻度で答えます。\n\n[重要単語]\n・shuttle：シャトルバス\n・airport：空港\n・leaves：出発する\n・time：時間、時刻",
     "level": 400
   },
   {
@@ -1172,7 +1172,7 @@
       "The proposal was thirty pages long."
     ],
     "answer": 0,
-    "explanation": "感想を尋ねる質問には意見や反応で答えます。",
+    "explanation": "[質問] What did the client think of our proposal?\n全訳: 顧客は私たちの提案についてどう思っていましたか。\n\n[正解] (A) She said she needs more time to review it.\n全訳: 検討にもう少し時間が必要だと言っていました。\n\n[ポイント] 感想を尋ねる質問には意見や反応で答えます。\n\n[重要単語]\n・proposal：提案書\n・review：見直す、確認する\n・time：時間、時刻",
     "level": 500
   },
   {
@@ -1184,7 +1184,7 @@
       "We just installed new routers."
     ],
     "answer": 0,
-    "explanation": "情報のありかを答える応答が自然です。",
+    "explanation": "[質問] What's the password for the guest Wi-Fi network?\n全訳: ゲスト用Wi-Fiのパスワードは何ですか。\n\n[正解] (A) It's printed on the back of your badge.\n全訳: バッジの裏に印刷されています。\n\n[ポイント] 情報のありかを答える応答が自然です。\n\n[重要単語]\n・password：パスワード\n・printed：印刷された\n・back：戻る、後ろ",
     "level": 450
   },
   {
@@ -1196,7 +1196,7 @@
       "The printer is on the second floor."
     ],
     "answer": 0,
-    "explanation": "問題への対処法を答えるのが自然です。",
+    "explanation": "[質問] What should we do about the printer that's out of toner?\n全訳: トナー切れのプリンターについてどうしましょうか。\n\n[正解] (A) Let's order a new cartridge today.\n全訳: 今日新しいカートリッジを注文しましょう。\n\n[ポイント] 問題への対処法を答えるのが自然です。\n\n[重要単語]\n・printer：プリンター\n・toner：トナー\n・order：注文",
     "level": 500
   },
   {
@@ -1208,7 +1208,7 @@
       "About fifty people are coming."
     ],
     "answer": 0,
-    "explanation": "具体的な提案で答えるのが自然です。",
+    "explanation": "[質問] What kind of catering should we order for the event?\n全訳: そのイベントにはどんなケータリングを注文すればいいですか。\n\n[正解] (A) I think sandwiches would be easiest.\n全訳: サンドイッチが一番簡単だと思います。\n\n[ポイント] 具体的な提案で答えるのが自然です。\n\n[重要単語]\n・sandwiches：サンドイッチ\n・order：注文\n・event：イベント\n・kind：種類",
     "level": 500
   },
   {
@@ -1220,7 +1220,7 @@
       "The account manager is on leave."
     ],
     "answer": 0,
-    "explanation": "進捗状況を尋ねる質問には状況で答えます。",
+    "explanation": "[質問] What's the status of the Denver account?\n全訳: デンバーの案件の状況はどうなっていますか。\n\n[正解] (A) We're still waiting on their final approval.\n全訳: まだ先方の最終承認を待っています。\n\n[ポイント] 進捗状況を尋ねる質問には状況で答えます。\n\n[重要単語]\n・approval：承認\n・account：口座、取引先\n・waiting：待っている\n・final：最終的な",
     "level": 550
   },
   {
@@ -1232,7 +1232,7 @@
       "The new supplier is based nearby."
     ],
     "answer": 0,
-    "explanation": "理由を答えるのが自然な応答です。",
+    "explanation": "[質問] What made you decide to switch suppliers?\n全訳: なぜ仕入先を変える決断をしたのですか。\n\n[正解] (A) Their prices were much more competitive.\n全訳: 価格がずっと競争力があったからです。\n\n[ポイント] 理由を答えるのが自然な応答です。\n\n[重要単語]\n・suppliers：業者（複数）\n・prices：価格",
     "level": 550
   },
   {
@@ -1244,7 +1244,7 @@
       "Ms. Lee handles those."
     ],
     "answer": 0,
-    "explanation": "When（いつ）には日時で答えます。",
+    "explanation": "[質問] When is the deadline for the expense reports?\n全訳: 経費報告書の締め切りはいつですか。\n\n[正解] (A) They're due by Friday afternoon.\n全訳: 金曜日の午後までが締め切りです。\n\n[ポイント] When（いつ）には日時で答えます。\n\n[重要単語]\n・afternoon：午後\n・deadline：締め切り\n・expense：経費\n・reports：報告書（複数）",
     "level": 400
   },
   {
@@ -1256,7 +1256,7 @@
       "The update fixes several bugs."
     ],
     "answer": 0,
-    "explanation": "時期を尋ねる質問には時期で答えるのが適切です。",
+    "explanation": "[質問] When will the new software update be installed?\n全訳: 新しいソフトウェアの更新はいつ導入されますか。\n\n[正解] (A) Sometime next week, I believe.\n全訳: 来週のいつかだと思います。\n\n[ポイント] 時期を尋ねる質問には時期で答えるのが適切です。\n\n[重要単語]\n・installed：設置された\n・software：ソフトウェア\n・sometime：そのうち、いつか\n・update：更新する",
     "level": 450
   },
   {
@@ -1268,7 +1268,7 @@
       "The supplier offers good prices."
     ],
     "answer": 0,
-    "explanation": "過去の時点を尋ねる質問には時を示す表現で答えます。",
+    "explanation": "[質問] When did you last speak with the supplier?\n全訳: 仕入先と最後に話したのはいつですか。\n\n[正解] (A) I called them just this morning.\n全訳: ちょうど今朝電話しました。\n\n[ポイント] 過去の時点を尋ねる質問には時を示す表現で答えます。\n\n[重要単語]\n・supplier：仕入先、業者\n・morning：朝、午前\n・called：電話した、呼んだ",
     "level": 500
   },
   {
@@ -1280,7 +1280,7 @@
       "The survey covered several topics."
     ],
     "answer": 0,
-    "explanation": "結果が出る時期を答えるのが自然です。",
+    "explanation": "[質問] When can we expect the results of the survey?\n全訳: アンケート結果はいつ頃分かりますか。\n\n[正解] (A) The analysis should be finished by Wednesday.\n全訳: 分析は水曜日までに終わるはずです。\n\n[ポイント] 結果が出る時期を答えるのが自然です。\n\n[重要単語]\n・finished：終えた\n・results：結果\n・expect：予想する\n・survey：アンケート",
     "level": 500
   },
   {
@@ -1292,7 +1292,7 @@
       "My phone number hasn't changed."
     ],
     "answer": 0,
-    "explanation": "連絡が取れる時間を答えるのが自然です。",
+    "explanation": "[質問] When is the best time to reach you tomorrow?\n全訳: 明日あなたに連絡が取りやすいのはいつ頃ですか。\n\n[正解] (A) Anytime after lunch works for me.\n全訳: 昼食後ならいつでも大丈夫です。\n\n[ポイント] 連絡が取れる時間を答えるのが自然です。\n\n[重要単語]\n・lunch：昼食\n・best：最良の\n・time：時間、時刻",
     "level": 500
   },
   {
@@ -1304,7 +1304,7 @@
       "They're due next Monday."
     ],
     "answer": 0,
-    "explanation": "Where（どこに）には場所で答えます。",
+    "explanation": "[質問] Where should I drop off these documents?\n全訳: この書類はどこに届ければいいですか。\n\n[正解] (A) Just leave them on my desk.\n全訳: 私の机の上に置いておいてください。\n\n[ポイント] Where（どこに）には場所で答えます。\n\n[重要単語]\n・documents：書類\n・desk：机\n・off：オフ、離れて",
     "level": 400
   },
   {
@@ -1316,7 +1316,7 @@
       "I need ten copies, please."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Where is the nearest printer that can handle color copies?\n全訳: カラーコピーができる一番近いプリンターはどこですか。\n\n[正解] (A) There's one on the third floor.\n全訳: 3階に1台あります。\n\n[ポイント] 場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・nearest：最寄りの\n・printer：プリンター\n・handle：対応する、扱う\n・copies：コピー（複数）",
     "level": 450
   },
   {
@@ -1328,7 +1328,7 @@
       "It has a full tank of gas."
     ],
     "answer": 0,
-    "explanation": "駐車場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Where did you park the company car?\n全訳: 社用車はどこに停めましたか。\n\n[正解] (A) I left it in the underground garage.\n全訳: 地下駐車場に停めました。\n\n[ポイント] 駐車場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・company：会社\n・garage：駐車場（屋内）\n・park：駐車する、公園",
     "level": 450
   },
   {
@@ -1340,7 +1340,7 @@
       "The figures were presented in March."
     ],
     "answer": 0,
-    "explanation": "情報のありかを答えるのが自然です。",
+    "explanation": "[質問] Where can I find last year's sales figures?\n全訳: 昨年の売上データはどこで見られますか。\n\n[正解] (A) They should be saved on the shared drive.\n全訳: 共有ドライブに保存されているはずです。\n\n[ポイント] 情報のありかを答えるのが自然です。\n\n[重要単語]\n・figures：数字\n・shared：共有された\n・sales：売上、営業\n・drive：ドライブ、共有ドライブ",
     "level": 500
   },
   {
@@ -1352,7 +1352,7 @@
       "Everyone is invited to attend."
     ],
     "answer": 0,
-    "explanation": "場所についての提案で答えるのが自然です。",
+    "explanation": "[質問] Where would you like to hold the retirement party?\n全訳: 退職祝いのパーティーはどこで開きたいですか。\n\n[正解] (A) How about the rooftop terrace?\n全訳: 屋上テラスはどうでしょうか。\n\n[ポイント] 場所についての提案で答えるのが自然です。\n\n[重要単語]\n・party：パーティー\n・hold：開催する、保留する",
     "level": 500
   },
   {
@@ -1364,7 +1364,7 @@
       "In the main conference room."
     ],
     "answer": 0,
-    "explanation": "Why（なぜ）には理由で答えます。",
+    "explanation": "[質問] Why was the meeting postponed?\n全訳: なぜ会議は延期されたのですか。\n\n[正解] (A) Two of the attendees had a scheduling conflict.\n全訳: 参加者2名の予定が重なってしまったためです。\n\n[ポイント] Why（なぜ）には理由で答えます。\n\n[重要単語]\n・attendees：参加者\n・meeting：会議",
     "level": 450
   },
   {
@@ -1376,7 +1376,7 @@
       "We ordered twenty units."
     ],
     "answer": 0,
-    "explanation": "遅延の理由を答えるのが自然です。",
+    "explanation": "[質問] Why hasn't the shipment arrived yet?\n全訳: なぜ荷物はまだ届いていないのですか。\n\n[正解] (A) There was a delay at customs.\n全訳: 通関で遅れがありました。\n\n[ポイント] 遅延の理由を答えるのが自然です。\n\n[重要単語]\n・shipment：出荷、荷物\n・arrived：到着した\n・customs：税関\n・delay：遅延",
     "level": 500
   },
   {
@@ -1388,7 +1388,7 @@
       "It was designed by an agency."
     ],
     "answer": 0,
-    "explanation": "変更の理由を答えるのが自然です。",
+    "explanation": "[質問] Why did the company change its logo?\n全訳: なぜ会社はロゴを変更したのですか。\n\n[正解] (A) They wanted a more modern image.\n全訳: より現代的なイメージにしたかったからです。\n\n[ポイント] 変更の理由を答えるのが自然です。\n\n[重要単語]\n・company：会社\n・change：変更\n・logo：ロゴ",
     "level": 500
   },
   {
@@ -1400,7 +1400,7 @@
       "The room has a large screen."
     ],
     "answer": 0,
-    "explanation": "予約されている理由を答えるのが自然です。",
+    "explanation": "[質問] Why is the conference room reserved all day?\n全訳: なぜ会議室は一日中予約されているのですか。\n\n[正解] (A) There's a training session scheduled.\n全訳: 研修セッションが予定されているからです。\n\n[ポイント] 予約されている理由を答えるのが自然です。\n\n[重要単語]\n・conference：会議、カンファレンス\n・scheduled：予定されている\n・training：研修\n・session：セッション、研修時間",
     "level": 500
   },
   {
@@ -1412,7 +1412,7 @@
       "She gave her opinion last week."
     ],
     "answer": 0,
-    "explanation": "提案（Why don't we ~?）への応答として賛成する表現が自然です。",
+    "explanation": "[質問] Why don't we ask Sarah for her opinion on this?\n全訳: この件についてサラに意見を聞いてみませんか。\n\n[正解] (A) That's a good idea; let's call her now.\n全訳: いい考えですね、今すぐ電話しましょう。\n\n[ポイント] 提案（Why don't we ~?）への応答として賛成する表現が自然です。\n\n[重要単語]\n・idea：考え、アイデア\n・call：電話、通話",
     "level": 550
   },
   {
@@ -1424,7 +1424,7 @@
       "Ms. Chen will be leading it."
     ],
     "answer": 0,
-    "explanation": "How long（どのくらいの期間）には期間で答えます。",
+    "explanation": "[質問] How long will the training session last?\n全訳: 研修セッションはどのくらいの時間続きますか。\n\n[正解] (A) It should take about two hours.\n全訳: だいたい2時間ほどかかるはずです。\n\n[ポイント] How long（どのくらいの期間）には期間で答えます。\n\n[重要単語]\n・training：研修\n・session：セッション、研修時間\n・hours：時間（複数）\n・long：長い",
     "level": 400
   },
   {
@@ -1436,7 +1436,7 @@
       "The package arrived safely."
     ],
     "answer": 0,
-    "explanation": "費用を尋ねる質問には金額や条件で答えます。",
+    "explanation": "[質問] How much does it cost to ship internationally?\n全訳: 国際発送にはいくらかかりますか。\n\n[正解] (A) It depends on the weight of the package.\n全訳: 荷物の重さによります。\n\n[ポイント] 費用を尋ねる質問には金額や条件で答えます。\n\n[重要単語]\n・package：荷物\n・cost：費用、かかる\n・ship：発送する",
     "level": 500
   },
   {
@@ -1448,7 +1448,7 @@
       "The candidate seemed nervous when he arrived."
     ],
     "answer": 0,
-    "explanation": "感想を尋ねる質問には意見で答えるのが自然です。",
+    "explanation": "[質問] How did the interview go this morning?\n全訳: 今朝の面接はどうでしたか。\n\n[正解] (A) I think it went really well.\n全訳: とてもうまくいったと思います。\n\n[ポイント] 感想を尋ねる質問には意見で答えるのが自然です。\n\n[重要単語]\n・interview：面接\n・morning：朝、午前",
     "level": 500
   },
   {
@@ -1460,7 +1460,7 @@
       "The crew wears blue uniforms."
     ],
     "answer": 0,
-    "explanation": "頻度を尋ねる質問には頻度で答えます。",
+    "explanation": "[質問] How often does the maintenance crew inspect the elevators?\n全訳: 保守チームはどのくらいの頻度でエレベーターを点検しますか。\n\n[正解] (A) They come by once a month.\n全訳: 月に1回来ます。\n\n[ポイント] 頻度を尋ねる質問には頻度で答えます。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・month：月",
     "level": 500
   },
   {
@@ -1472,7 +1472,7 @@
       "It's held in the training room."
     ],
     "answer": 0,
-    "explanation": "数を尋ねる質問には数で答えます。",
+    "explanation": "[質問] How many people signed up for the workshop?\n全訳: 研修会には何人申し込みましたか。\n\n[正解] (A) About thirty people registered so far.\n全訳: これまでに約30人が登録しています。\n\n[ポイント] 数を尋ねる質問には数で答えます。\n\n[重要単語]\n・registered：登録した\n・workshop：研修会、ワークショップ\n・people：人々\n・signed：署名した",
     "level": 450
   },
   {
@@ -1484,7 +1484,7 @@
       "It's due at the end of the month."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] How should I format the quarterly report?\n全訳: 四半期報告書はどのように書式設定すればいいですか。\n\n[正解] (A) Just follow the template from last quarter.\n全訳: 前四半期のテンプレートに従ってください。\n\n[ポイント] 方法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・quarterly：四半期ごとの\n・quarter：四半期\n・report：報告書\n・follow：フォローする",
     "level": 500
   },
   {
@@ -1496,7 +1496,7 @@
       "The invoice was for two thousand dollars."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文には肯定・否定で答えるのが基本です。",
+    "explanation": "[質問] Did you receive the invoice I sent yesterday?\n全訳: 昨日送った請求書は受け取りましたか。\n\n[正解] (A) Yes, it arrived this morning.\n全訳: はい、今朝届きました。\n\n[ポイント] Yes/No疑問文には肯定・否定で答えるのが基本です。\n\n[重要単語]\n・receive：受け取る\n・invoice：請求書\n・arrived：到着した\n・morning：朝、午前",
     "level": 400
   },
   {
@@ -1508,7 +1508,7 @@
       "The room fits twelve people."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文への応答として空き状況を答えます。",
+    "explanation": "[質問] Is the conference room available at two o'clock?\n全訳: 会議室は2時に空いていますか。\n\n[正解] (A) No, it's booked until three.\n全訳: いいえ、3時まで予約が入っています。\n\n[ポイント] Yes/No疑問文への応答として空き状況を答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・available：利用可能な\n・booked：予約済みの",
     "level": 450
   },
   {
@@ -1520,7 +1520,7 @@
       "It was signed last Tuesday."
     ],
     "answer": 0,
-    "explanation": "完了状況を尋ねる質問には進捗で答えます。",
+    "explanation": "[質問] Have you finished reviewing the contract yet?\n全訳: 契約書の確認はもう終わりましたか。\n\n[正解] (A) Not yet, but I should be done by noon.\n全訳: まだですが、正午までには終わるはずです。\n\n[ポイント] 完了状況を尋ねる質問には進捗で答えます。\n\n[重要単語]\n・reviewing：確認している\n・finished：終えた\n・contract：契約書\n・noon：正午",
     "level": 500
   },
   {
@@ -1532,7 +1532,7 @@
       "It starts at nine in the morning."
     ],
     "answer": 0,
-    "explanation": "参加の有無を尋ねる質問には肯定・否定で答えます。",
+    "explanation": "[質問] Are you attending the seminar next week?\n全訳: 来週のセミナーには出席しますか。\n\n[正解] (A) Yes, I already registered online.\n全訳: はい、もうオンラインで登録しました。\n\n[ポイント] 参加の有無を尋ねる質問には肯定・否定で答えます。\n\n[重要単語]\n・registered：登録した\n・attending：出席する\n・seminar：セミナー\n・online：オンラインで",
     "level": 450
   },
   {
@@ -1544,7 +1544,7 @@
       "She usually prefers morning meetings."
     ],
     "answer": 0,
-    "explanation": "確認の有無を尋ねる質問には肯定・否定で答えます。",
+    "explanation": "[質問] Has the client confirmed the meeting time?\n全訳: 顧客は打ち合わせ時間を確定しましたか。\n\n[正解] (A) Yes, she confirmed it this morning.\n全訳: はい、今朝確定してもらいました。\n\n[ポイント] 確認の有無を尋ねる質問には肯定・否定で答えます。\n\n[重要単語]\n・confirmed：確認した\n・meeting：会議\n・morning：朝、午前\n・time：時間、時刻",
     "level": 500
   },
   {
@@ -1556,7 +1556,7 @@
       "It's stored in the supply closet."
     ],
     "answer": 0,
-    "explanation": "手伝いの申し出への応答として具体的な依頼が自然です。",
+    "explanation": "[質問] Do you need any help setting up the projector?\n全訳: プロジェクターの設置に手伝いは必要ですか。\n\n[正解] (A) Yes, could you check the cables for me?\n全訳: はい、ケーブルを確認してもらえますか。\n\n[ポイント] 手伝いの申し出への応答として具体的な依頼が自然です。\n\n[重要単語]\n・projector：プロジェクター\n・check：確認する\n・need：必要とする\n・help：手伝う",
     "level": 450
   },
   {
@@ -1568,7 +1568,7 @@
       "We interviewed several candidates."
     ],
     "answer": 0,
-    "explanation": "否定疑問文には事実を訂正または確認して答えます。",
+    "explanation": "[質問] Isn't the new intern starting today?\n全訳: 新しいインターンは今日から始まるのではないのですか。\n\n[正解] (A) Actually, she starts next Monday.\n全訳: 実は来週月曜日からです。\n\n[ポイント] 否定疑問文には事実を訂正または確認して答えます。\n\n[重要単語]\n・starting：〜から始まって\n・starts：始まる",
     "level": 550
   },
   {
@@ -1580,7 +1580,7 @@
       "Several managers attended the meeting."
     ],
     "answer": 0,
-    "explanation": "予定の変更について答えるのが自然です。",
+    "explanation": "[質問] Wasn't the budget meeting supposed to happen this morning?\n全訳: 予算会議は今朝行われる予定ではなかったのですか。\n\n[正解] (A) It was moved to this afternoon instead.\n全訳: 代わりに今日の午後に移動しました。\n\n[ポイント] 予定の変更について答えるのが自然です。\n\n[重要単語]\n・afternoon：午後\n・supposed：〜のはずである\n・meeting：会議\n・morning：朝、午前",
     "level": 550
   },
   {
@@ -1592,7 +1592,7 @@
       "I'll bring some snacks too."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。",
+    "explanation": "[質問] Would you like tea or coffee with your meeting?\n全訳: 会議に紅茶とコーヒーどちらを用意しましょうか。\n\n[正解] (A) Coffee would be great, thank you.\n全訳: コーヒーをお願いします、ありがとうございます。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。\n\n[重要単語]\n・meeting：会議\n・coffee：コーヒー\n・tea：紅茶",
     "level": 400
   },
   {
@@ -1604,7 +1604,7 @@
       "It will last about three hours."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "explanation": "[質問] Should we schedule the workshop for Monday or Wednesday?\n全訳: 研修会は月曜日と水曜日どちらに予定しましょうか。\n\n[正解] (A) Wednesday works better for most people.\n全訳: 水曜日の方が多くの人に都合がいいです。\n\n[ポイント] 選択疑問文には具体的な選択で答えます。\n\n[重要単語]\n・schedule：予定、日程\n・workshop：研修会、ワークショップ\n・better：より良い\n・people：人々",
     "level": 500
   },
   {
@@ -1616,7 +1616,7 @@
       "We're on the fourth floor."
     ],
     "answer": 0,
-    "explanation": "選択疑問文への自然な応答です。",
+    "explanation": "[質問] Do you want to take the elevator or the stairs?\n全訳: エレベーターと階段どちらを使いますか。\n\n[正解] (A) Let's just take the stairs; it's only two floors.\n全訳: 階段にしましょう、たった2階分ですから。\n\n[ポイント] 選択疑問文への自然な応答です。\n\n[重要単語]\n・elevator：エレベーター\n・stairs：階段\n・floors：階（複数）\n・want：欲しい",
     "level": 450
   },
   {
@@ -1628,7 +1628,7 @@
       "I already submitted mine."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的な回答で答えます。",
+    "explanation": "[質問] Is the report due today or tomorrow?\n全訳: 報告書の締め切りは今日ですか、明日ですか。\n\n[正解] (A) It's due first thing tomorrow morning.\n全訳: 明日の朝一番が締め切りです。\n\n[ポイント] 選択疑問文には具体的な回答で答えます。\n\n[重要単語]\n・morning：朝、午前\n・report：報告書",
     "level": 450
   },
   {
@@ -1640,7 +1640,7 @@
       "I already had a coffee break."
     ],
     "answer": 0,
-    "explanation": "提案表現には受け入れる、または断る応答が自然です。",
+    "explanation": "[質問] Why don't you take a break before the next meeting?\n全訳: 次の会議の前に休憩を取ってはどうですか。\n\n[正解] (A) That sounds like a good idea.\n全訳: それはいい考えですね。\n\n[ポイント] 提案表現には受け入れる、または断る応答が自然です。\n\n[重要単語]\n・meeting：会議\n・sounds：〜のように聞こえる\n・break：休憩\n・idea：考え、アイデア",
     "level": 500
   },
   {
@@ -1652,7 +1652,7 @@
       "Lunch is at noon today."
     ],
     "answer": 0,
-    "explanation": "依頼表現には引き受ける、または断る応答をします。",
+    "explanation": "[質問] Could you send me the file before lunch?\n全訳: 昼食前にそのファイルを送ってもらえますか。\n\n[正解] (A) Sure, I'll email it right now.\n全訳: もちろん、今すぐメールします。\n\n[ポイント] 依頼表現には引き受ける、または断る応答をします。\n\n[重要単語]\n・lunch：昼食\n・email：メール\n・right：正しい、すぐに\n・send：送る",
     "level": 450
   },
   {
@@ -1664,7 +1664,7 @@
       "It rained a lot yesterday."
     ],
     "answer": 0,
-    "explanation": "依頼表現（Would you mind ~?）には了承の応答が自然です。",
+    "explanation": "[質問] Would you mind closing the window? It's getting cold.\n全訳: 窓を閉めてもらえますか。冷えてきたので。\n\n[正解] (A) Not at all, I'll close it now.\n全訳: もちろんです、今閉めます。\n\n[ポイント] 依頼表現（Would you mind ~?）には了承の応答が自然です。\n\n[重要単語]\n・window：窓\n・close：閉める、近い\n・mind：気にする\n・cold：風邪、寒い",
     "level": 550
   },
   {
@@ -1676,7 +1676,7 @@
       "I'll ask my manager about it."
     ],
     "answer": 0,
-    "explanation": "提案（~, shall we?）に賛同する応答が自然です。",
+    "explanation": "[質問] Let's finish this report by tomorrow, shall we?\n全訳: この報告書、明日までに仕上げましょう。\n\n[正解] (A) Sure, I can stay late tonight to finish it.\n全訳: はい、今夜遅くまで残って仕上げます。\n\n[ポイント] 提案（~, shall we?）に賛同する応答が自然です。\n\n[重要単語]\n・finish：終える\n・report：報告書\n・late：遅い、遅れて",
     "level": 550
   },
   {
@@ -1688,7 +1688,7 @@
       "The team has ten members."
     ],
     "answer": 0,
-    "explanation": "提案への同意を示す自然な応答です。",
+    "explanation": "[質問] Why don't we order lunch for the whole team today?\n全訳: 今日はチーム全員分の昼食を注文しませんか。\n\n[正解] (A) Sounds good, I'll check everyone's preferences.\n全訳: いいですね、皆の希望を確認します。\n\n[ポイント] 提案への同意を示す自然な応答です。\n\n[重要単語]\n・sounds：〜のように聞こえる\n・order：注文\n・lunch：昼食\n・check：確認する",
     "level": 500
   },
   {
@@ -1700,7 +1700,7 @@
       "I already sent the numbers."
     ],
     "answer": 0,
-    "explanation": "依頼には引き受ける応答が自然です。",
+    "explanation": "[質問] Could you double-check these numbers before I send them?\n全訳: 送る前にこの数字をもう一度確認してもらえますか。\n\n[正解] (A) Of course, give me a few minutes.\n全訳: もちろんです、少し時間をください。\n\n[ポイント] 依頼には引き受ける応答が自然です。\n\n[重要単語]\n・numbers：数字\n・minutes：分（時間）\n・double：二重の\n・course：もちろん（of course）",
     "level": 500
   },
   {
@@ -1712,7 +1712,7 @@
       "Saturday is usually busy."
     ],
     "answer": 0,
-    "explanation": "依頼への応答として確認する表現が自然です。",
+    "explanation": "[質問] Can you cover my shift on Saturday?\n全訳: 土曜日の私のシフトを代わってもらえますか。\n\n[正解] (A) I think I can, let me check my schedule.\n全訳: たぶん大丈夫です、予定を確認します。\n\n[ポイント] 依頼への応答として確認する表現が自然です。\n\n[重要単語]\n・schedule：予定、日程\n・check：確認する",
     "level": 500
   },
   {
@@ -1724,7 +1724,7 @@
       "We bought them three years ago."
     ],
     "answer": 0,
-    "explanation": "意見への同意・不同意で応答するのが自然です。",
+    "explanation": "[質問] I think we should upgrade our computers soon.\n全訳: そろそろパソコンを更新すべきだと思います。\n\n[正解] (A) I agree, some of them are quite old.\n全訳: 同感です、かなり古いものもありますね。\n\n[ポイント] 意見への同意・不同意で応答するのが自然です。\n\n[重要単語]\n・computers：パソコン\n・agree：同意する\n・old：古い",
     "level": 500
   },
   {
@@ -1736,7 +1736,7 @@
       "I used it this morning without issue."
     ],
     "answer": 0,
-    "explanation": "問題を報告する発言には対処法で応答するのが自然です。",
+    "explanation": "[質問] This copier keeps jamming every time I use it.\n全訳: このコピー機、使うたびに紙詰まりします。\n\n[正解] (A) Let's call maintenance to take a look.\n全訳: 保守担当に見てもらいましょう。\n\n[ポイント] 問題を報告する発言には対処法で応答するのが自然です。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・time：時間、時刻\n・call：電話、通話\n・use：使う",
     "level": 500
   },
   {
@@ -1748,7 +1748,7 @@
       "We ordered twenty new chairs."
     ],
     "answer": 0,
-    "explanation": "感想への共感を示す応答が自然です。",
+    "explanation": "[質問] The new office chairs are so much more comfortable.\n全訳: 新しいオフィスチェア、ずっと座り心地がいいですね。\n\n[正解] (A) I noticed that too; my back feels better already.\n全訳: 私もそう感じます、腰がもう楽になりました。\n\n[ポイント] 感想への共感を示す応答が自然です。\n\n[重要単語]\n・comfortable：快適な\n・noticed：気づいた\n・office：オフィス\n・chairs：椅子",
     "level": 500
   },
   {
@@ -1760,7 +1760,7 @@
       "I've never been to Osaka."
     ],
     "answer": 0,
-    "explanation": "話題についての詳細を答えるのが自然です。",
+    "explanation": "[質問] I heard the company is opening a branch in Osaka.\n全訳: 会社が大阪に支店を出すと聞きました。\n\n[正解] (A) Yes, it's expected to open next spring.\n全訳: はい、来春に開業予定です。\n\n[ポイント] 話題についての詳細を答えるのが自然です。\n\n[重要単語]\n・expected：予想される\n・company：会社\n・branch：支店\n・spring：春",
     "level": 500
   },
   {
@@ -1772,7 +1772,7 @@
       "Sales are tracked every month."
     ],
     "answer": 0,
-    "explanation": "良い知らせへの反応として自然な応答です。",
+    "explanation": "[質問] Our sales numbers were much higher this quarter.\n全訳: 今四半期は売上がかなり伸びましたね。\n\n[正解] (A) That's great news for the whole team.\n全訳: チーム全体にとって嬉しい知らせですね。\n\n[ポイント] 良い知らせへの反応として自然な応答です。\n\n[重要単語]\n・numbers：数字\n・quarter：四半期\n・sales：売上、営業",
     "level": 500
   },
   {
@@ -1784,7 +1784,7 @@
       "About a hundred guests are expected."
     ],
     "answer": 0,
-    "explanation": "懸念への対応策を答えるのが自然です。",
+    "explanation": "[質問] It looks like it might rain during the outdoor event.\n全訳: 屋外イベント中に雨が降りそうですね。\n\n[正解] (A) We should probably move it indoors just in case.\n全訳: 念のため屋内に移した方がよさそうです。\n\n[ポイント] 懸念への対応策を答えるのが自然です。\n\n[重要単語]\n・probably：おそらく\n・looks：見える\n・event：イベント",
     "level": 500
   },
   {
@@ -1796,7 +1796,7 @@
       "It was written by the IT department."
     ],
     "answer": 0,
-    "explanation": "困っている相手への申し出として自然な応答です。",
+    "explanation": "[質問] I'm not sure I understand this part of the manual.\n全訳: マニュアルのこの部分がよく分かりません。\n\n[正解] (A) I can walk you through it if you'd like.\n全訳: よろしければ一緒に説明しますよ。\n\n[ポイント] 困っている相手への申し出として自然な応答です。\n\n[重要単語]\n・understand：理解する\n・manual：マニュアル、説明書",
     "level": 500
   },
   {
@@ -1808,7 +1808,7 @@
       "We spoke with the client last week."
     ],
     "answer": 0,
-    "explanation": "気づきの共有への応答として自然です。",
+    "explanation": "[質問] The client seemed a bit unhappy during the call.\n全訳: 電話の間、顧客は少し不満そうでしたね。\n\n[正解] (A) I noticed that too; maybe we should follow up.\n全訳: 私もそう感じました、フォローした方がいいかもしれません。\n\n[ポイント] 気づきの共有への応答として自然です。\n\n[重要単語]\n・noticed：気づいた\n・seemed：〜のようだった\n・follow：フォローする\n・call：電話、通話",
     "level": 550
   },
   {
@@ -1820,7 +1820,7 @@
       "New employees receive it on day one."
     ],
     "answer": 0,
-    "explanation": "意見への同意の応答が自然です。",
+    "explanation": "[質問] We should really update our employee handbook.\n全訳: そろそろ社員ハンドブックを更新すべきですね。\n\n[正解] (A) I agree, it hasn't changed in years.\n全訳: 同感です、何年も変わっていませんから。\n\n[ポイント] 意見への同意の応答が自然です。\n\n[重要単語]\n・employee：従業員\n・changed：変更した\n・update：更新する\n・agree：同意する",
     "level": 500
   },
   {
@@ -1832,7 +1832,7 @@
       "We usually keep invoices for five years."
     ],
     "answer": 0,
-    "explanation": "困っている相手への申し出が自然な応答です。",
+    "explanation": "[質問] I can't find the invoice you mentioned earlier.\n全訳: 先ほどおっしゃっていた請求書が見つかりません。\n\n[正解] (A) I'll forward it to you again right away.\n全訳: すぐにもう一度転送します。\n\n[ポイント] 困っている相手への申し出が自然な応答です。\n\n[重要単語]\n・invoice：請求書\n・forward：転送する\n・right：正しい、すぐに\n・find：見つける",
     "level": 500
   },
   {
@@ -1844,7 +1844,7 @@
       "It starts at nine in the morning."
     ],
     "answer": 0,
-    "explanation": "付加疑問文には肯定・否定で答えます。",
+    "explanation": "[質問] You're coming to the workshop tomorrow, aren't you?\n全訳: 明日の研修会に来ますよね。\n\n[正解] (A) Yes, I already signed up for it.\n全訳: はい、もう申し込み済みです。\n\n[ポイント] 付加疑問文には肯定・否定で答えます。\n\n[重要単語]\n・workshop：研修会、ワークショップ\n・coming：来る\n・signed：署名した",
     "level": 500
   },
   {
@@ -1856,7 +1856,7 @@
       "It was drafted by our legal team."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への応答として事実を答えます。",
+    "explanation": "[質問] This isn't the final version of the contract, is it?\n全訳: これは契約書の最終版ではないですよね。\n\n[正解] (A) No, there's one more revision coming.\n全訳: はい、もう一度改訂が入る予定です。\n\n[ポイント] 付加疑問文への応答として事実を答えます。\n\n[重要単語]\n・contract：契約書\n・coming：来る\n・final：最終的な",
     "level": 550
   },
   {
@@ -1868,7 +1868,7 @@
       "We're flying with a different airline."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への応答として時間の確認をしています。",
+    "explanation": "[質問] The flight doesn't leave until six, does it?\n全訳: そのフライトは6時まで出発しませんよね。\n\n[正解] (A) No, we still have plenty of time.\n全訳: はい、まだ十分時間があります。\n\n[ポイント] 付加疑問文への応答として時間の確認をしています。\n\n[重要単語]\n・flight：フライト\n・time：時間、時刻",
     "level": 550
   },
   {
@@ -1880,7 +1880,7 @@
       "We compared prices from three suppliers."
     ],
     "answer": 0,
-    "explanation": "Which（どちらの）には具体的な対象で答えます。",
+    "explanation": "[質問] Which supplier offers the fastest delivery?\n全訳: どの仕入先が一番早く配送してくれますか。\n\n[正解] (A) The one based in Chicago usually ships fastest.\n全訳: シカゴの業者が普段一番早く発送します。\n\n[ポイント] Which（どちらの）には具体的な対象で答えます。\n\n[重要単語]\n・supplier：仕入先、業者\n・delivery：配達\n・fastest：最も早い\n・based：拠点を置く",
     "level": 500
   },
   {
@@ -1892,7 +1892,7 @@
       "It took about two months to design."
     ],
     "answer": 0,
-    "explanation": "Whose（誰の）には人物や部署で答えます。",
+    "explanation": "[質問] Whose idea was it to redesign the logo?\n全訳: ロゴを刷新するアイデアは誰のものでしたか。\n\n[正解] (A) It was actually the marketing team's idea.\n全訳: 実はマーケティングチームのアイデアでした。\n\n[ポイント] Whose（誰の）には人物や部署で答えます。\n\n[重要単語]\n・marketing：マーケティング\n・redesign：再設計、改装\n・idea：考え、アイデア\n・logo：ロゴ",
     "level": 550
   },
   {
@@ -1904,7 +1904,7 @@
       "The client placed the order last week."
     ],
     "answer": 0,
-    "explanation": "仮定の質問には対応策で答えるのが自然です。",
+    "explanation": "[質問] What if the client cancels the order at the last minute?\n全訳: もし顧客が土壇場で注文をキャンセルしたらどうしますか。\n\n[正解] (A) We do have a cancellation policy in place.\n全訳: キャンセルポリシーはきちんと定めてあります。\n\n[ポイント] 仮定の質問には対応策で答えるのが自然です。\n\n[重要単語]\n・minute：分\n・policy：方針、規定\n・order：注文\n・place：置く、場所",
     "level": 600
   },
   {
@@ -1916,7 +1916,7 @@
       "We ordered from our usual supplier."
     ],
     "answer": 0,
-    "explanation": "遅延の理由を尋ねる表現には理由で答えます。",
+    "explanation": "[質問] How come the delivery is taking so long this time?\n全訳: 今回はなぜ配送にこんなに時間がかかっているのですか。\n\n[正解] (A) There's been a delay at the shipping port.\n全訳: 積出港で遅れが出ています。\n\n[ポイント] 遅延の理由を尋ねる表現には理由で答えます。\n\n[重要単語]\n・delivery：配達\n・shipping：発送\n・taking：取る、かかる\n・delay：遅延",
     "level": 550
   },
   {
@@ -1928,7 +1928,7 @@
       "Approval was granted last month."
     ],
     "answer": 0,
-    "explanation": "遅延の原因を尋ねる質問には原因で答えます。",
+    "explanation": "[質問] What's holding up the approval process?\n全訳: 承認プロセスが滞っている原因は何ですか。\n\n[正解] (A) We're still waiting for legal to sign off.\n全訳: まだ法務部の承認待ちです。\n\n[ポイント] 遅延の原因を尋ねる質問には原因で答えます。\n\n[重要単語]\n・approval：承認\n・process：処理、プロセス\n・waiting：待っている\n・legal：法務部",
     "level": 550
   },
   {
@@ -1940,7 +1940,7 @@
       "I usually bring my own lunch."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えるのが自然です。",
+    "explanation": "[質問] Where do you usually go for lunch around here?\n全訳: このあたりで昼食にはどこへ行くことが多いですか。\n\n[正解] (A) There's a nice café just down the street.\n全訳: 通りの先に感じのいいカフェがあります。\n\n[ポイント] 場所を尋ねる質問には場所で答えるのが自然です。\n\n[重要単語]\n・lunch：昼食",
     "level": 450
   },
   {
@@ -1952,7 +1952,7 @@
       "A technician handles the servicing."
     ],
     "answer": 0,
-    "explanation": "過去の時点を尋ねる質問には時期で答えます。",
+    "explanation": "[質問] When was the last time this equipment was serviced?\n全訳: この機器が最後に整備されたのはいつですか。\n\n[正解] (A) It was serviced about six months ago.\n全訳: 6か月ほど前に整備されました。\n\n[ポイント] 過去の時点を尋ねる質問には時期で答えます。\n\n[重要単語]\n・equipment：機器、設備\n・serviced：整備された\n・months：月（複数）\n・time：時間、時刻",
     "level": 500
   },
   {
@@ -1964,7 +1964,7 @@
       "The office closes at seven."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why is everyone staying late tonight?\n全訳: なぜ今夜はみんな遅くまで残っているのですか。\n\n[正解] (A) We're preparing for tomorrow's big presentation.\n全訳: 明日の大事なプレゼンの準備をしています。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・presentation：プレゼンテーション\n・everyone：全員\n・late：遅い、遅れて",
     "level": 500
   },
   {
@@ -1976,7 +1976,7 @@
       "She works in the sales department."
     ],
     "answer": 0,
-    "explanation": "様子を尋ねる質問には感想・状況で答えます。",
+    "explanation": "[質問] How is the new employee adjusting to the team?\n全訳: 新入社員はチームにどのくらい馴染んでいますか。\n\n[正解] (A) She's settling in really well so far.\n全訳: 今のところとてもうまく馴染んでいます。\n\n[ポイント] 様子を尋ねる質問には感想・状況で答えます。\n\n[重要単語]\n・employee：従業員\n・far：遠い",
     "level": 500
   },
   {
@@ -1988,7 +1988,7 @@
       "We booked the venue last month."
     ],
     "answer": 0,
-    "explanation": "代替案を尋ねる質問には対応策で答えます。",
+    "explanation": "[質問] What's the plan if the venue is unavailable?\n全訳: 会場が使えなくなった場合の計画はありますか。\n\n[正解] (A) We have a backup location already booked.\n全訳: 代わりの会場をすでに予約してあります。\n\n[ポイント] 代替案を尋ねる質問には対応策で答えます。\n\n[重要単語]\n・location：場所\n・booked：予約済みの\n・venue：会場\n・plan：計画",
     "level": 550
   },
   {
@@ -2000,7 +2000,7 @@
       "Volunteers should arrive by eight."
     ],
     "answer": 0,
-    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "explanation": "[質問] Who's coordinating the volunteers for the charity event?\n全訳: チャリティーイベントのボランティアの調整は誰がしていますか。\n\n[正解] (A) Rachel from HR is organizing everything.\n全訳: 人事部のレイチェルがすべて手配しています。\n\n[ポイント] 担当者を尋ねる質問には人物名で答えます。\n\n[重要単語]\n・event：イベント",
     "level": 500
   },
   {
@@ -2012,7 +2012,7 @@
       "The flyers describe our new product line."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Where can we get more of these promotional flyers printed?\n全訳: この販促用チラシはどこで増刷できますか。\n\n[正解] (A) The print shop downtown can do it quickly.\n全訳: 街の印刷屋なら早く対応してくれます。\n\n[ポイント] 場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・downtown：中心街\n・printed：印刷された\n・quickly：素早く\n・flyers：チラシ",
     "level": 500
   },
   {
@@ -2024,7 +2024,7 @@
       "The design team presented it yesterday."
     ],
     "answer": 0,
-    "explanation": "意見を尋ねる質問には感想で答えます。",
+    "explanation": "[質問] How do you feel about the proposed office redesign?\n全訳: オフィスの改装案についてどう思いますか。\n\n[正解] (A) Honestly, I think it's a great improvement.\n全訳: 正直、とても良い改善だと思います。\n\n[ポイント] 意見を尋ねる質問には感想で答えます。\n\n[重要単語]\n・redesign：再設計、改装\n・office：オフィス",
     "level": 500
   },
   {
@@ -2036,7 +2036,7 @@
       "About two hundred people are attending."
     ],
     "answer": 0,
-    "explanation": "準備開始の時間を尋ねる質問には時刻で答えます。",
+    "explanation": "[質問] What time should we start setting up for the conference?\n全訳: 会議の準備は何時から始めましょうか。\n\n[正解] (A) Let's begin around seven, before guests arrive.\n全訳: 来客の前に7時頃から始めましょう。\n\n[ポイント] 準備開始の時間を尋ねる質問には時刻で答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・guests：来客\n・arrive：到着する\n・start：始める、開始",
     "level": 500
   },
   {
@@ -2048,7 +2048,7 @@
       "We bought them from a local supplier."
     ],
     "answer": 0,
-    "explanation": "否定疑問文への同意の応答が自然です。",
+    "explanation": "[質問] Isn't it about time we replaced these old monitors?\n全訳: そろそろこの古いモニターを買い替える時期ではないですか。\n\n[正解] (A) You're right, I'll put in a request today.\n全訳: その通りですね、今日申請を出します。\n\n[ポイント] 否定疑問文への同意の応答が自然です。\n\n[重要単語]\n・request：依頼、要請\n・right：正しい、すぐに\n・time：時間、時刻\n・old：古い",
     "level": 550
   },
   {
@@ -2060,7 +2060,7 @@
       "Chairs will be set up in rows."
     ],
     "answer": 0,
-    "explanation": "確認の依頼に対する応答として自然です。",
+    "explanation": "[質問] Do we have enough chairs for everyone at the event?\n全訳: イベントの参加者全員分の椅子は足りていますか。\n\n[正解] (A) I think so, but let me double-check the count.\n全訳: 足りていると思いますが、数をもう一度確認します。\n\n[ポイント] 確認の依頼に対する応答として自然です。\n\n[重要単語]\n・everyone：全員\n・enough：十分な\n・chairs：椅子\n・double：二重の",
     "level": 500
   },
   {
@@ -2072,7 +2072,7 @@
       "We've worked with them for years."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why did the vendor raise their prices this year?\n全訳: なぜ業者は今年値上げしたのですか。\n\n[正解] (A) They said material costs have gone up.\n全訳: 原材料費が上がったと言っていました。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・vendor：業者、納入業者\n・prices：価格\n・costs：費用（複数）\n・year：年",
     "level": 550
   },
   {
@@ -2084,7 +2084,7 @@
       "It hosts events all year round."
     ],
     "answer": 0,
-    "explanation": "手段を尋ねる質問には具体的な方法で答えます。",
+    "explanation": "[質問] What's the fastest way to get to the convention center?\n全訳: コンベンションセンターへの一番早い行き方は何ですか。\n\n[正解] (A) Taking the subway is usually quickest.\n全訳: 地下鉄がたいてい一番早いです。\n\n[ポイント] 手段を尋ねる質問には具体的な方法で答えます。\n\n[重要単語]\n・convention：会議、大会\n・fastest：最も早い\n・center：センター\n・taking：取る、かかる",
     "level": 500
   },
   {
@@ -2096,7 +2096,7 @@
       "Supplies are ordered every month."
     ],
     "answer": 0,
-    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "explanation": "[質問] Who's in charge of ordering office supplies this month?\n全訳: 今月の事務用品の注文担当は誰ですか。\n\n[正解] (A) I believe it's Tom's turn this time.\n全訳: 今回はトムの番だと思います。\n\n[ポイント] 担当者を尋ねる質問には人物名で答えます。\n\n[重要単語]\n・supplies：備品、消耗品\n・charge：担当（in charge of）\n・office：オフィス\n・month：月",
     "level": 450
   },
   {
@@ -2108,7 +2108,7 @@
       "We posted the job last month."
     ],
     "answer": 0,
-    "explanation": "決定状況を尋ねる質問には進捗で答えます。",
+    "explanation": "[質問] Have you decided which candidate to hire?\n全訳: どの候補者を採用するか決めましたか。\n\n[正解] (A) Not yet, we still have two more interviews.\n全訳: まだです、あと2件面接が残っています。\n\n[ポイント] 決定状況を尋ねる質問には進捗で答えます。\n\n[重要単語]\n・candidate：候補者\n・hire：雇う",
     "level": 500
   },
   {
@@ -2120,7 +2120,7 @@
       "It usually lasts about two hours."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "explanation": "[質問] Should we hold the workshop in-person or online?\n全訳: 研修会は対面とオンラインどちらで開催しましょうか。\n\n[正解] (A) I'd suggest online, since it reaches more people.\n全訳: オンラインの方がより多くの人に届くのでお勧めです。\n\n[ポイント] 選択疑問文には具体的な選択で答えます。\n\n[重要単語]\n・workshop：研修会、ワークショップ\n・person：人\n・online：オンラインで\n・people：人々",
     "level": 500
   },
   {
@@ -2132,7 +2132,7 @@
       "Marketing has a large team."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への同意の応答です。",
+    "explanation": "[質問] Isn't the marketing report due at the end of the week?\n全訳: マーケティング報告書は週末が締め切りではないですか。\n\n[正解] (A) Yes, so we should start drafting it today.\n全訳: はい、なので今日から作成を始めるべきですね。\n\n[ポイント] 付加疑問文への同意の応答です。\n\n[重要単語]\n・marketing：マーケティング\n・report：報告書\n・start：始める、開始\n・week：週",
     "level": 500
   },
   {
@@ -2144,7 +2144,7 @@
       "It was created last month."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] How can I access the shared project folder?\n全訳: 共有プロジェクトフォルダにはどうやってアクセスできますか。\n\n[正解] (A) Just ask IT to grant you permission.\n全訳: ITに頼んで権限をもらってください。\n\n[ポイント] 方法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・project：プロジェクト\n・shared：共有された\n・folder：フォルダー",
     "level": 500
   },
   {
@@ -2156,7 +2156,7 @@
       "Customer service is open until six."
     ],
     "answer": 0,
-    "explanation": "対処法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] What's the best way to handle a dissatisfied customer?\n全訳: 不満を持つ顧客への一番良い対応方法は何ですか。\n\n[正解] (A) Listening carefully and offering a solution usually helps.\n全訳: よく話を聞いて解決策を提示するのが通常効果的です。\n\n[ポイント] 対処法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・customer：顧客\n・handle：対応する、扱う\n・best：最良の",
     "level": 550
   },
   {
@@ -2168,7 +2168,7 @@
       "It's held in the boardroom."
     ],
     "answer": 0,
-    "explanation": "Who（誰が）には人物名で答えます。",
+    "explanation": "[質問] Who's presenting at next week's board meeting?\n全訳: 来週の役員会議で発表するのは誰ですか。\n\n[正解] (A) The CFO will be giving the main presentation.\n全訳: CFOがメインの発表を行います。\n\n[ポイント] Who（誰が）には人物名で答えます。\n\n[重要単語]\n・presentation：プレゼンテーション\n・meeting：会議\n・main：主な",
     "level": 450
   },
   {
@@ -2180,7 +2180,7 @@
       "We need more paper and pens."
     ],
     "answer": 0,
-    "explanation": "誰が注文したかを答える応答です。",
+    "explanation": "[質問] Who ordered these office supplies?\n全訳: この事務用品を注文したのは誰ですか。\n\n[正解] (A) I think it was someone from accounting.\n全訳: 経理部の誰かだったと思います。\n\n[ポイント] 誰が注文したかを答える応答です。\n\n[重要単語]\n・accounting：経理\n・supplies：備品、消耗品\n・ordered：注文した\n・office：オフィス",
     "level": 500
   },
   {
@@ -2192,7 +2192,7 @@
       "There are five new hires this time."
     ],
     "answer": 0,
-    "explanation": "担当者を答える応答です。",
+    "explanation": "[質問] Who's going to train the new hires?\n全訳: 新入社員の研修は誰が担当しますか。\n\n[正解] (A) Our senior staff will handle the training.\n全訳: ベテラン社員が研修を担当します。\n\n[ポイント] 担当者を答える応答です。\n\n[重要単語]\n・training：研修\n・handle：対応する、扱う\n・going：行く予定である\n・train：電車",
     "level": 500
   },
   {
@@ -2204,7 +2204,7 @@
       "It's in Conference Room B."
     ],
     "answer": 0,
-    "explanation": "内容を尋ねる質問には内容で答えます。",
+    "explanation": "[質問] What's the agenda for tomorrow's meeting?\n全訳: 明日の会議の議題は何ですか。\n\n[正解] (A) We'll be discussing the budget and next quarter's goals.\n全訳: 予算と来四半期の目標について話し合います。\n\n[ポイント] 内容を尋ねる質問には内容で答えます。\n\n[重要単語]\n・meeting：会議\n・agenda：議題\n・budget：予算",
     "level": 500
   },
   {
@@ -2216,7 +2216,7 @@
       "The shipment company is based in Korea."
     ],
     "answer": 0,
-    "explanation": "状況を尋ねる質問には状況で答えます。",
+    "explanation": "[質問] What happened to the shipment we were expecting?\n全訳: 私たちが待っていた荷物はどうなりましたか。\n\n[正解] (A) It got held up at customs, unfortunately.\n全訳: 残念ながら通関で止められています。\n\n[ポイント] 状況を尋ねる質問には状況で答えます。\n\n[重要単語]\n・shipment：出荷、荷物\n・customs：税関\n・held：開催された",
     "level": 550
   },
   {
@@ -2228,7 +2228,7 @@
       "Three people are assigned to it."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には具体的な方法で答えます。",
+    "explanation": "[質問] What's the best approach for this project?\n全訳: このプロジェクトへの一番良い進め方は何ですか。\n\n[正解] (A) I think we should start with market research.\n全訳: まず市場調査から始めるべきだと思います。\n\n[ポイント] 方法を尋ねる質問には具体的な方法で答えます。\n\n[重要単語]\n・project：プロジェクト\n・start：始める、開始\n・best：最良の",
     "level": 550
   },
   {
@@ -2240,7 +2240,7 @@
       "HR announced it yesterday."
     ],
     "answer": 0,
-    "explanation": "When（いつ）には日時で答えます。",
+    "explanation": "[質問] When does the new policy take effect?\n全訳: 新しい方針はいつから施行されますか。\n\n[正解] (A) It goes into effect next Monday.\n全訳: 来週月曜日から施行されます。\n\n[ポイント] When（いつ）には日時で答えます。\n\n[重要単語]\n・policy：方針、規定\n・effect：効力（take effect＝施行される）",
     "level": 450
   },
   {
@@ -2252,7 +2252,7 @@
       "The email was about the contract."
     ],
     "answer": 0,
-    "explanation": "時期を尋ねる質問には時期で答えます。",
+    "explanation": "[質問] When should I expect a reply to my email?\n全訳: 私のメールへの返信はいつ頃来ると思えばいいですか。\n\n[正解] (A) Usually within one business day.\n全訳: 通常は営業日1日以内です。\n\n[ポイント] 時期を尋ねる質問には時期で答えます。\n\n[重要単語]\n・business：ビジネス、業務\n・expect：予想する\n・within：〜以内に\n・email：メール",
     "level": 500
   },
   {
@@ -2264,7 +2264,7 @@
       "The printer is out of ink."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Where do you keep the extra printer paper?\n全訳: 予備のプリンター用紙はどこに保管していますか。\n\n[正解] (A) It's in the supply cabinet down the hall.\n全訳: 廊下の先の備品棚にあります。\n\n[ポイント] 場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・printer：プリンター\n・cabinet：キャビネット、戸棚\n・supply：備品\n・extra：予備の、追加の",
     "level": 450
   },
   {
@@ -2276,7 +2276,7 @@
       "I'm planning to take next week off."
     ],
     "answer": 0,
-    "explanation": "場所・方法を尋ねる質問には具体的な情報で答えます。",
+    "explanation": "[質問] Where can I submit my vacation request?\n全訳: 休暇申請はどこで提出できますか。\n\n[正解] (A) You can submit it through the HR portal.\n全訳: 人事のポータルサイトから提出できます。\n\n[ポイント] 場所・方法を尋ねる質問には具体的な情報で答えます。\n\n[重要単語]\n・vacation：休暇\n・request：依頼、要請\n・submit：提出する",
     "level": 500
   },
   {
@@ -2288,7 +2288,7 @@
       "It's usually pretty noisy here."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why is the office so quiet today?\n全訳: 今日はなぜオフィスがこんなに静かなのですか。\n\n[正解] (A) Most people are attending an offsite conference.\n全訳: ほとんどの人が社外の会議に出席しています。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・attending：出席する\n・office：オフィス\n・people：人々",
     "level": 500
   },
   {
@@ -2300,7 +2300,7 @@
       "We had that client for three years."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why did we lose that client account?\n全訳: なぜあの顧客口座を失ってしまったのですか。\n\n[正解] (A) They said our prices were too high.\n全訳: 私たちの価格が高すぎると言われました。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・account：口座、取引先\n・prices：価格",
     "level": 550
   },
   {
@@ -2312,7 +2312,7 @@
       "It focuses on social media ads."
     ],
     "answer": 0,
-    "explanation": "状況を尋ねる質問には状況・感想で答えます。",
+    "explanation": "[質問] How is the new marketing campaign performing?\n全訳: 新しいマーケティングキャンペーンの調子はどうですか。\n\n[正解] (A) It's exceeding our expectations so far.\n全訳: 今のところ予想を上回っています。\n\n[ポイント] 状況を尋ねる質問には状況・感想で答えます。\n\n[重要単語]\n・marketing：マーケティング\n・campaign：キャンペーン\n・far：遠い",
     "level": 550
   },
   {
@@ -2324,7 +2324,7 @@
       "The computer is quite old."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] How do I reset my computer password?\n全訳: パソコンのパスワードはどうやってリセットすればいいですか。\n\n[正解] (A) Just call the IT help desk for assistance.\n全訳: ITヘルプデスクに電話して助けてもらってください。\n\n[ポイント] 方法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・password：パスワード\n・reset：リセットする\n・call：電話、通話\n・help：手伝う",
     "level": 500
   },
   {
@@ -2336,7 +2336,7 @@
       "I'll write a draft soon."
     ],
     "answer": 0,
-    "explanation": "確認の有無を尋ねる質問には肯定・否定で答えます。",
+    "explanation": "[質問] Did you get a chance to review my draft?\n全訳: 私の草案を確認する時間はありましたか。\n\n[正解] (A) Yes, I left some comments in the margins.\n全訳: はい、余白にいくつかコメントを残しました。\n\n[ポイント] 確認の有無を尋ねる質問には肯定・否定で答えます。\n\n[重要単語]\n・review：見直す、確認する\n・draft：草案",
     "level": 450
   },
   {
@@ -2348,7 +2348,7 @@
       "We're flying to Chicago."
     ],
     "answer": 0,
-    "explanation": "状況確認への応答として肯定・否定で答えます。",
+    "explanation": "[質問] Is the flight still on schedule?\n全訳: フライトは予定通りですか。\n\n[正解] (A) Yes, it's expected to depart on time.\n全訳: はい、定刻に出発する見込みです。\n\n[ポイント] 状況確認への応答として肯定・否定で答えます。\n\n[重要単語]\n・schedule：予定、日程\n・expected：予想される\n・flight：フライト\n・time：時間、時刻",
     "level": 450
   },
   {
@@ -2360,7 +2360,7 @@
       "The laptops are quite lightweight."
     ],
     "answer": 0,
-    "explanation": "配達状況を尋ねる質問には状況で答えます。",
+    "explanation": "[質問] Have the new laptops been delivered yet?\n全訳: 新しいノートパソコンはもう届きましたか。\n\n[正解] (A) Not yet, but they should arrive tomorrow.\n全訳: まだですが、明日には届くはずです。\n\n[ポイント] 配達状況を尋ねる質問には状況で答えます。\n\n[重要単語]\n・delivered：配達された\n・laptops：ノートパソコン（複数）\n・arrive：到着する",
     "level": 500
   },
   {
@@ -2372,7 +2372,7 @@
       "It should take about an hour."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "explanation": "[質問] Would you rather meet in person or by video call?\n全訳: 対面とビデオ通話どちらで会いたいですか。\n\n[正解] (A) A video call would be more convenient for me.\n全訳: 私にはビデオ通話の方が都合がいいです。\n\n[ポイント] 選択疑問文には具体的な選択で答えます。\n\n[重要単語]\n・rather：むしろ\n・person：人\n・video：ビデオ\n・meet：会う",
     "level": 500
   },
   {
@@ -2384,7 +2384,7 @@
       "I haven't booked a flight yet."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には具体的な選択で答えます。",
+    "explanation": "[質問] Should I book the flight for Monday or Tuesday?\n全訳: フライトは月曜日と火曜日どちらで予約すればいいですか。\n\n[正解] (A) Tuesday would work better with my schedule.\n全訳: 火曜日の方が私の予定に合います。\n\n[ポイント] 選択疑問文には具体的な選択で答えます。\n\n[重要単語]\n・schedule：予定、日程\n・flight：フライト\n・better：より良い\n・book：予約する",
     "level": 500
   },
   {
@@ -2396,7 +2396,7 @@
       "The storage room is on the first floor."
     ],
     "answer": 0,
-    "explanation": "依頼への応答として引き受ける表現が自然です。",
+    "explanation": "[質問] Could you help me carry these boxes to the storage room?\n全訳: この箱を倉庫まで運ぶのを手伝ってもらえますか。\n\n[正解] (A) Sure, just give me a minute.\n全訳: もちろん、少し待ってください。\n\n[ポイント] 依頼への応答として引き受ける表現が自然です。\n\n[重要単語]\n・storage：保管、倉庫\n・minute：分\n・carry：運ぶ\n・boxes：箱",
     "level": 450
   },
   {
@@ -2408,7 +2408,7 @@
       "We spoke last Tuesday."
     ],
     "answer": 0,
-    "explanation": "申し出への応答として肯定的に答えるのが自然です。",
+    "explanation": "[質問] Would you like me to schedule a follow-up call?\n全訳: フォローアップの電話を予定しておきましょうか。\n\n[正解] (A) Yes, that would be very helpful.\n全訳: はい、それはとても助かります。\n\n[ポイント] 申し出への応答として肯定的に答えるのが自然です。\n\n[重要単語]\n・schedule：予定、日程\n・follow：フォローする\n・call：電話、通話",
     "level": 500
   },
   {
@@ -2420,7 +2420,7 @@
       "Sales representatives earn a commission."
     ],
     "answer": 0,
-    "explanation": "意見への同意を示す応答が自然です。",
+    "explanation": "[質問] I think we need to hire another sales representative.\n全訳: そろそろ営業担当をもう一人採用すべきだと思います。\n\n[正解] (A) I agree, our team has been overwhelmed lately.\n全訳: 同感です、最近チームが手一杯ですから。\n\n[ポイント] 意見への同意を示す応答が自然です。\n\n[重要単語]\n・another：もう一つの、別の\n・sales：売上、営業\n・agree：同意する\n・need：必要とする",
     "level": 500
   },
   {
@@ -2432,7 +2432,7 @@
       "We bought it last month."
     ],
     "answer": 0,
-    "explanation": "不満への共感と対応策を示す応答です。",
+    "explanation": "[質問] This new coffee machine makes terrible coffee.\n全訳: この新しいコーヒーメーカー、ひどい味のコーヒーが出てきます。\n\n[正解] (A) I noticed that too; maybe we should get it fixed.\n全訳: 私もそう感じました、修理してもらった方がいいかもしれません。\n\n[ポイント] 不満への共感と対応策を示す応答です。\n\n[重要単語]\n・machine：機械\n・noticed：気づいた\n・coffee：コーヒー",
     "level": 500
   },
   {
@@ -2444,7 +2444,7 @@
       "Their product launched last week."
     ],
     "answer": 0,
-    "explanation": "情報への対応を示す自然な応答です。",
+    "explanation": "[質問] Our competitor just launched a similar product.\n全訳: 競合他社が似たような製品を発表しました。\n\n[正解] (A) We should look into how it's different from ours.\n全訳: うちの製品との違いを調べてみましょう。\n\n[ポイント] 情報への対応を示す自然な応答です。\n\n[重要単語]\n・different：異なる\n・launched：発売した\n・product：製品",
     "level": 550
   },
   {
@@ -2456,7 +2456,7 @@
       "We have three printers on that floor."
     ],
     "answer": 0,
-    "explanation": "問題報告への対応策を示す応答です。",
+    "explanation": "[質問] The printer on the third floor is jammed again.\n全訳: 3階のプリンターがまた紙詰まりしています。\n\n[正解] (A) I'll put in a maintenance request right now.\n全訳: すぐに保守依頼を出します。\n\n[ポイント] 問題報告への対応策を示す応答です。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・printer：プリンター\n・request：依頼、要請\n・right：正しい、すぐに",
     "level": 500
   },
   {
@@ -2468,7 +2468,7 @@
       "Retirement plans vary by person."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への肯定応答です。",
+    "explanation": "[質問] You're planning to retire next year, aren't you?\n全訳: 来年退職する予定ですよね。\n\n[正解] (A) Yes, I'm looking forward to it.\n全訳: はい、楽しみにしています。\n\n[ポイント] 付加疑問文への肯定応答です。\n\n[重要単語]\n・forward：転送する\n・year：年",
     "level": 500
   },
   {
@@ -2480,7 +2480,7 @@
       "It was created last week."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への否定応答です。",
+    "explanation": "[質問] This isn't the correct version of the file, is it?\n全訳: これはファイルの正しいバージョンではないですよね。\n\n[正解] (A) No, I'll send you the updated one.\n全訳: はい、更新版を送りますね。\n\n[ポイント] 付加疑問文への否定応答です。\n\n[重要単語]\n・correct：正しい\n・updated：更新した\n・file：ファイル\n・send：送る",
     "level": 550
   },
   {
@@ -2492,7 +2492,7 @@
       "We received a complaint yesterday."
     ],
     "answer": 0,
-    "explanation": "Which（どちらの）には具体的な部署で答えます。",
+    "explanation": "[質問] Which department handles customer complaints?\n全訳: 顧客からの苦情はどの部署が扱いますか。\n\n[正解] (A) That would be customer service.\n全訳: それはカスタマーサービスの担当です。\n\n[ポイント] Which（どちらの）には具体的な部署で答えます。\n\n[重要単語]\n・customer：顧客\n・handles：担当する、扱う\n・service：サービス",
     "level": 500
   },
   {
@@ -2504,7 +2504,7 @@
       "It was drafted last week."
     ],
     "answer": 0,
-    "explanation": "Whose（誰の）には人物名で答えます。",
+    "explanation": "[質問] Whose signature do we need on this contract?\n全訳: この契約書には誰の署名が必要ですか。\n\n[正解] (A) We need the director's signature.\n全訳: 部長の署名が必要です。\n\n[ポイント] Whose（誰の）には人物名で答えます。\n\n[重要単語]\n・contract：契約書\n・need：必要とする",
     "level": 550
   },
   {
@@ -2516,7 +2516,7 @@
       "We started the project last month."
     ],
     "answer": 0,
-    "explanation": "仮定の質問には対応策で答えます。",
+    "explanation": "[質問] What if we run out of time before the deadline?\n全訳: 締め切りまでに時間が足りなくなったらどうしますか。\n\n[正解] (A) We could ask for a short extension.\n全訳: 少し延長をお願いすることもできます。\n\n[ポイント] 仮定の質問には対応策で答えます。\n\n[重要単語]\n・deadline：締め切り\n・short：短い\n・time：時間、時刻",
     "level": 600
   },
   {
@@ -2528,7 +2528,7 @@
       "Reports are usually five pages."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] How come the report hasn't been submitted yet?\n全訳: なぜ報告書がまだ提出されていないのですか。\n\n[正解] (A) We're still waiting on some final data.\n全訳: まだ最終的なデータの一部を待っているところです。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・submitted：提出した\n・waiting：待っている\n・report：報告書\n・final：最終的な",
     "level": 550
   },
   {
@@ -2540,7 +2540,7 @@
       "It's a large commercial building."
     ],
     "answer": 0,
-    "explanation": "原因を尋ねる質問には原因で答えます。",
+    "explanation": "[質問] What's causing the delay in the construction project?\n全訳: 建設プロジェクトの遅延の原因は何ですか。\n\n[正解] (A) Bad weather has slowed things down.\n全訳: 悪天候で作業が遅れています。\n\n[ポイント] 原因を尋ねる質問には原因で答えます。\n\n[重要単語]\n・project：プロジェクト\n・delay：遅延",
     "level": 550
   },
   {
@@ -2552,7 +2552,7 @@
       "About eight people will attend."
     ],
     "answer": 0,
-    "explanation": "場所についての提案で答えるのが自然です。",
+    "explanation": "[質問] Where's a good place to hold the client dinner?\n全訳: 顧客との夕食会にちょうどいい場所はありますか。\n\n[正解] (A) I'd suggest that new Italian restaurant downtown.\n全訳: 中心街の新しいイタリアンレストランはどうでしょう。\n\n[ポイント] 場所についての提案で答えるのが自然です。\n\n[重要単語]\n・downtown：中心街\n・place：置く、場所\n・hold：開催する、保留する",
     "level": 500
   },
   {
@@ -2564,7 +2564,7 @@
       "A technician handles calibration."
     ],
     "answer": 0,
-    "explanation": "時期を尋ねる質問には時期で答えます。",
+    "explanation": "[質問] When was this equipment last calibrated?\n全訳: この機器が最後に校正されたのはいつですか。\n\n[正解] (A) It was calibrated just last week.\n全訳: ちょうど先週校正されました。\n\n[ポイント] 時期を尋ねる質問には時期で答えます。\n\n[重要単語]\n・equipment：機器、設備\n・week：週",
     "level": 500
   },
   {
@@ -2576,7 +2576,7 @@
       "It usually fills up by nine."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why is the parking lot closed today?\n全訳: なぜ今日は駐車場が閉まっているのですか。\n\n[正解] (A) They're repaving it this week.\n全訳: 今週、舗装工事をしているためです。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・parking：駐車\n・week：週\n・lot：駐車場、たくさん",
     "level": 500
   },
   {
@@ -2588,7 +2588,7 @@
       "It replaces our old system."
     ],
     "answer": 0,
-    "explanation": "状況を尋ねる質問には状況・感想で答えます。",
+    "explanation": "[質問] How is your team adjusting to the new software?\n全訳: あなたのチームは新しいソフトウェアにどのくらい慣れましたか。\n\n[正解] (A) Most of them are picking it up quickly.\n全訳: ほとんどの人がすぐに使いこなしています。\n\n[ポイント] 状況を尋ねる質問には状況・感想で答えます。\n\n[重要単語]\n・software：ソフトウェア\n・quickly：素早く",
     "level": 500
   },
   {
@@ -2600,7 +2600,7 @@
       "The role oversees the sales team."
     ],
     "answer": 0,
-    "explanation": "計画を尋ねる質問には計画で答えます。",
+    "explanation": "[質問] What's the plan for onboarding the new manager?\n全訳: 新しいマネージャーの引き継ぎ計画はどうなっていますか。\n\n[正解] (A) She'll shadow the current manager for two weeks.\n全訳: 2週間、現マネージャーに同行する予定です。\n\n[ポイント] 計画を尋ねる質問には計画で答えます。\n\n[重要単語]\n・manager：マネージャー\n・plan：計画",
     "level": 550
   },
   {
@@ -2612,7 +2612,7 @@
       "The reception desk is near the entrance."
     ],
     "answer": 0,
-    "explanation": "担当者を尋ねる質問には人物名で答えます。",
+    "explanation": "[質問] Who's covering the reception desk during lunch?\n全訳: 昼休み中の受付は誰が担当しますか。\n\n[正解] (A) Mark said he'd take over for an hour.\n全訳: マークが1時間代わってくれると言っていました。\n\n[ポイント] 担当者を尋ねる質問には人物名で答えます。\n\n[重要単語]\n・covering：代わりを務めている\n・lunch：昼食\n・desk：机\n・hour：時間（1時間）",
     "level": 500
   },
   {
@@ -2624,7 +2624,7 @@
       "The chairs were used for the event."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Where should we store these extra chairs?\n全訳: この予備の椅子はどこに保管しましょうか。\n\n[正解] (A) Let's put them in the storage closet.\n全訳: 倉庫に入れておきましょう。\n\n[ポイント] 場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・storage：保管、倉庫\n・chairs：椅子\n・store：店\n・extra：予備の、追加の",
     "level": 450
   },
   {
@@ -2636,7 +2636,7 @@
       "We announced the date last week."
     ],
     "answer": 0,
-    "explanation": "意見を尋ねる質問には感想で答えます。",
+    "explanation": "[質問] How do you feel about postponing the launch date?\n全訳: 発売日を延期することについてどう思いますか。\n\n[正解] (A) Honestly, I think it's the right call.\n全訳: 正直、それが正しい判断だと思います。\n\n[ポイント] 意見を尋ねる質問には感想で答えます。\n\n[重要単語]\n・launch：発売、開始\n・right：正しい、すぐに\n・call：電話、通話",
     "level": 500
   },
   {
@@ -2648,7 +2648,7 @@
       "We usually call them in the morning."
     ],
     "answer": 0,
-    "explanation": "具体的な情報を答える応答です。",
+    "explanation": "[質問] What time zone is the client in?\n全訳: その顧客はどのタイムゾーンにいますか。\n\n[正解] (A) They're in the Eastern time zone.\n全訳: 東部標準時にいます。\n\n[ポイント] 具体的な情報を答える応答です。\n\n[重要単語]\n・time：時間、時刻",
     "level": 500
   },
   {
@@ -2660,7 +2660,7 @@
       "I led it last week too."
     ],
     "answer": 0,
-    "explanation": "否定疑問文への同意の応答です。",
+    "explanation": "[質問] Isn't it your turn to lead the weekly meeting?\n全訳: 今週の定例会議はあなたが進行する番ではないですか。\n\n[正解] (A) You're right, I completely forgot.\n全訳: その通りですね、すっかり忘れていました。\n\n[ポイント] 否定疑問文への同意の応答です。\n\n[重要単語]\n・meeting：会議\n・right：正しい、すぐに\n・turn：順番、曲がる\n・lead：率いる、担当する",
     "level": 550
   },
   {
@@ -2672,7 +2672,7 @@
       "We ordered several replacement parts."
     ],
     "answer": 0,
-    "explanation": "確認への応答として自然です。",
+    "explanation": "[質問] Do you know if the shipment includes the replacement parts?\n全訳: その出荷に交換部品が含まれているか分かりますか。\n\n[正解] (A) I believe so, but I'll double-check the invoice.\n全訳: 含まれていると思いますが、請求書をもう一度確認します。\n\n[ポイント] 確認への応答として自然です。\n\n[重要単語]\n・replacement：交換品\n・shipment：出荷、荷物\n・includes：含む\n・invoice：請求書",
     "level": 550
   },
   {
@@ -2684,7 +2684,7 @@
       "We usually pay within thirty days."
     ],
     "answer": 0,
-    "explanation": "理由を尋ねる質問には理由で答えます。",
+    "explanation": "[質問] Why does this invoice look different from usual?\n全訳: なぜこの請求書はいつもと様子が違うのですか。\n\n[正解] (A) The vendor updated their billing format recently.\n全訳: 業者が最近請求書の形式を更新したためです。\n\n[ポイント] 理由を尋ねる質問には理由で答えます。\n\n[重要単語]\n・different：異なる\n・invoice：請求書\n・updated：更新した\n・vendor：業者、納入業者",
     "level": 550
   },
   {
@@ -2696,7 +2696,7 @@
       "I filed mine yesterday."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] What's the easiest way to file an expense report?\n全訳: 経費報告書を提出する一番簡単な方法は何ですか。\n\n[正解] (A) Just use the mobile app; it's much faster.\n全訳: モバイルアプリを使うのがずっと早いです。\n\n[ポイント] 方法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・expense：経費\n・report：報告書\n・file：ファイル\n・use：使う",
     "level": 500
   },
   {
@@ -2708,7 +2708,7 @@
       "We gained the account last spring."
     ],
     "answer": 0,
-    "explanation": "期間を尋ねる質問には期間で答えます。",
+    "explanation": "[質問] How long have you been working on this account?\n全訳: この案件をどのくらいの期間担当していますか。\n\n[正解] (A) I've been managing it for about a year now.\n全訳: もう1年ほど担当しています。\n\n[ポイント] 期間を尋ねる質問には期間で答えます。\n\n[重要単語]\n・working：働いている\n・account：口座、取引先\n・long：長い\n・year：年",
     "level": 500
   },
   {
@@ -2720,7 +2720,7 @@
       "It's a five-year agreement."
     ],
     "answer": 0,
-    "explanation": "担当者を尋ねる質問には人物・部署で答えます。",
+    "explanation": "[質問] Who negotiated the terms of this partnership?\n全訳: この提携条件の交渉は誰が行いましたか。\n\n[正解] (A) Our legal team handled the negotiations.\n全訳: うちの法務チームが交渉を担当しました。\n\n[ポイント] 担当者を尋ねる質問には人物・部署で答えます。\n\n[重要単語]\n・negotiations：交渉\n・legal：法務部",
     "level": 550
   },
   {
@@ -2732,7 +2732,7 @@
       "The conference is next month."
     ],
     "answer": 0,
-    "explanation": "情報源を尋ねる質問には情報源で答えます。",
+    "explanation": "[質問] Where did you find such a great venue for the conference?\n全訳: この会議場のような良い会場をどうやって見つけたのですか。\n\n[正解] (A) A colleague recommended it to me.\n全訳: 同僚に勧めてもらいました。\n\n[ポイント] 情報源を尋ねる質問には情報源で答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・venue：会場\n・find：見つける",
     "level": 550
   },
   {
@@ -2744,7 +2744,7 @@
       "We sent the proposal last week."
     ],
     "answer": 0,
-    "explanation": "対処法を尋ねる質問には対処法で答えます。",
+    "explanation": "[質問] What should we do if the client isn't satisfied?\n全訳: 顧客が満足しなかった場合はどうすべきですか。\n\n[正解] (A) We should offer to revise the proposal for free.\n全訳: 無料で提案書を修正すると申し出るべきです。\n\n[ポイント] 対処法を尋ねる質問には対処法で答えます。\n\n[重要単語]\n・proposal：提案書\n・free：無料の",
     "level": 550
   },
   {
@@ -2756,7 +2756,7 @@
       "It's for a marketing position."
     ],
     "answer": 0,
-    "explanation": "反応の程度を尋ねる質問には数量で答えます。",
+    "explanation": "[質問] How much interest has there been in the job posting?\n全訳: その求人にはどのくらい応募がありましたか。\n\n[正解] (A) We've already received over fifty applications.\n全訳: すでに50件を超える応募が来ています。\n\n[ポイント] 反応の程度を尋ねる質問には数量で答えます。\n\n[重要単語]\n・received：受け取った",
     "level": 550
   },
   {
@@ -2768,7 +2768,7 @@
       "It covers our financial performance."
     ],
     "answer": 0,
-    "explanation": "付加疑問文への肯定応答です。",
+    "explanation": "[質問] Isn't the annual report supposed to be reviewed by legal first?\n全訳: 年次報告書はまず法務部の確認を受けることになっていませんか。\n\n[正解] (A) Yes, I'll send it to them today.\n全訳: はい、今日中に送っておきます。\n\n[ポイント] 付加疑問文への肯定応答です。\n\n[重要単語]\n・supposed：〜のはずである\n・reviewed：確認した\n・report：報告書\n・legal：法務部",
     "level": 550
   },
   {
@@ -2780,7 +2780,7 @@
       "The meeting starts in an hour."
     ],
     "answer": 0,
-    "explanation": "依頼への応答として引き受ける表現です。",
+    "explanation": "[質問] Could you look over these figures before the meeting?\n全訳: 会議の前にこの数字を確認してもらえますか。\n\n[正解] (A) Sure, I'll take a look right now.\n全訳: もちろん、今すぐ確認します。\n\n[ポイント] 依頼への応答として引き受ける表現です。\n\n[重要単語]\n・figures：数字\n・meeting：会議\n・right：正しい、すぐに",
     "level": 450
   },
   {
@@ -2792,7 +2792,7 @@
       "I usually prefer morning calls."
     ],
     "answer": 0,
-    "explanation": "依頼への了承を示す応答です。",
+    "explanation": "[質問] Would you mind rescheduling our call to Thursday?\n全訳: 通話の予定を木曜日に変更しても構いませんか。\n\n[正解] (A) Not at all, Thursday works fine for me.\n全訳: 全く問題ありません、木曜日で大丈夫です。\n\n[ポイント] 依頼への了承を示す応答です。\n\n[重要単語]\n・mind：気にする\n・call：電話、通話\n・fine：問題ない、良い",
     "level": 500
   },
   {
@@ -2804,7 +2804,7 @@
       "Consultants can be expensive."
     ],
     "answer": 0,
-    "explanation": "提案への同意を示す応答です。",
+    "explanation": "[質問] Why don't we bring in an outside consultant for this?\n全訳: この件で外部のコンサルタントを入れませんか。\n\n[正解] (A) That could really help; let's look into it.\n全訳: それは本当に助かりそうです、検討してみましょう。\n\n[ポイント] 提案への同意を示す応答です。\n\n[重要単語]\n・bring：持ってくる\n・help：手伝う",
     "level": 550
   },
   {
@@ -2816,7 +2816,7 @@
       "We submitted it two weeks ago."
     ],
     "answer": 0,
-    "explanation": "要望への対応を示す自然な応答です。",
+    "explanation": "[質問] The client wants the proposal revised by Friday.\n全訳: 顧客は提案書を金曜日までに修正してほしいそうです。\n\n[正解] (A) That's tight, but we can manage it.\n全訳: 厳しいですが、何とかできます。\n\n[ポイント] 要望への対応を示す自然な応答です。\n\n[重要単語]\n・proposal：提案書",
     "level": 550
   },
   {
@@ -2828,7 +2828,7 @@
       "Last month had thirty-one days."
     ],
     "answer": 0,
-    "explanation": "気づきへの応答として自然です。",
+    "explanation": "[質問] I noticed the sales figures dropped last month.\n全訳: 先月の売上が落ちていることに気づきました。\n\n[正解] (A) Yes, we're already looking into the cause.\n全訳: はい、すでに原因を調べています。\n\n[ポイント] 気づきへの応答として自然です。\n\n[重要単語]\n・noticed：気づいた\n・figures：数字\n・sales：売上、営業\n・month：月",
     "level": 550
   },
   {
@@ -2840,7 +2840,7 @@
       "Busy weeks happen occasionally."
     ],
     "answer": 0,
-    "explanation": "共感を示す自然な応答です。",
+    "explanation": "[質問] It seems like everyone is busy this week.\n全訳: 今週はみんな忙しそうですね。\n\n[正解] (A) I know, there's a lot going on before the deadline.\n全訳: そうですね、締め切り前でやることが多いので。\n\n[ポイント] 共感を示す自然な応答です。\n\n[重要単語]\n・everyone：全員\n・deadline：締め切り\n・going：行く予定である\n・busy：忙しい",
     "level": 500
   },
   {
@@ -2852,7 +2852,7 @@
       "Internet providers vary by region."
     ],
     "answer": 0,
-    "explanation": "意見への同意を示す応答です。",
+    "explanation": "[質問] We should really consider switching internet providers.\n全訳: そろそろインターネットの契約会社を変えるべきだと思います。\n\n[正解] (A) I agree, our connection has been unreliable lately.\n全訳: 同感です、最近接続が不安定ですから。\n\n[ポイント] 意見への同意を示す応答です。\n\n[重要単語]\n・agree：同意する",
     "level": 500
   },
   {
@@ -2864,7 +2864,7 @@
       "We booked it for two hours."
     ],
     "answer": 0,
-    "explanation": "問題への対応を示す応答です。",
+    "explanation": "[質問] This meeting room doesn't have enough chairs.\n全訳: この会議室には椅子が足りません。\n\n[正解] (A) I'll bring in a few extra from next door.\n全訳: 隣の部屋から何脚か持ってきます。\n\n[ポイント] 問題への対応を示す応答です。\n\n[重要単語]\n・meeting：会議\n・enough：十分な\n・chairs：椅子\n・bring：持ってくる",
     "level": 500
   },
   {
@@ -2876,7 +2876,7 @@
       "I'll send the email this afternoon."
     ],
     "answer": 0,
-    "explanation": "方法を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] How should I address the client in my introduction email?\n全訳: 紹介メールで顧客をどう呼べばいいですか。\n\n[正解] (A) Just use their formal title to be safe.\n全訳: 念のため正式な役職名を使ってください。\n\n[ポイント] 方法を尋ねる質問には方法で答えます。\n\n[重要単語]\n・email：メール\n・use：使う",
     "level": 550
   },
   {
@@ -2888,7 +2888,7 @@
       "About twenty employees."
     ],
     "answer": 0,
-    "explanation": "When(いつ)の質問には時を答えます。BとCは場所や人数を答えており不適切です。",
+    "explanation": "[質問] When does the new policy take effect?\n全訳: 新しい方針はいつから施行されますか。\n\n[正解] (A) Starting next Monday.\n全訳: 来週月曜日からです。\n\n[ポイント] When(いつ)の質問には時を答えます。BとCは場所や人数を答えており不適切です。\n\n[重要単語]\n・starting：〜から始まって\n・policy：方針、規定\n・effect：効力（take effect＝施行される）",
     "level": 450
   },
   {
@@ -2900,7 +2900,7 @@
       "Yes, I already did."
     ],
     "answer": 1,
-    "explanation": "Where(どこ)の質問には場所で答えます。",
+    "explanation": "[質問] Where should I drop off the packages?\n全訳: この荷物はどこに届ければいいですか。\n\n[正解] (B) At the front desk.\n全訳: 受付にお願いします。\n\n[ポイント] Where(どこ)の質問には場所で答えます。\n\n[重要単語]\n・front：正面、前\n・desk：机\n・off：オフ、離れて",
     "level": 400
   },
   {
@@ -2912,7 +2912,7 @@
       "About ten percent."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物で答えます。",
+    "explanation": "[質問] Who approved the budget increase?\n全訳: 予算増額を承認したのは誰ですか。\n\n[正解] (A) The finance director did.\n全訳: 財務部長です。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・approved：承認した\n・finance：経理、財務\n・budget：予算",
     "level": 450
   },
   {
@@ -2924,7 +2924,7 @@
       "The contractor was excellent."
     ],
     "answer": 1,
-    "explanation": "How much(いくら)の質問には金額で答えます。",
+    "explanation": "[質問] How much did the renovation cost?\n全訳: 改装費用はいくらかかりましたか。\n\n[正解] (B) Around fifty thousand dollars.\n全訳: およそ5万ドルです。\n\n[ポイント] How much(いくら)の質問には金額で答えます。\n\n[重要単語]\n・renovation：改装\n・dollars：ドル\n・cost：費用、かかる",
     "level": 500
   },
   {
@@ -2936,7 +2936,7 @@
       "The warehouse downtown."
     ],
     "answer": 0,
-    "explanation": "Why(なぜ)の質問には理由で答えます。",
+    "explanation": "[質問] Why was the shipment delayed?\n全訳: なぜ出荷は遅れたのですか。\n\n[正解] (A) Due to a customs issue.\n全訳: 通関の問題によるものです。\n\n[ポイント] Why(なぜ)の質問には理由で答えます。\n\n[重要単語]\n・shipment：出荷、荷物\n・delayed：遅れた\n・customs：税関\n・issue：問題",
     "level": 500
   },
   {
@@ -2948,7 +2948,7 @@
       "No, I haven't seen it."
     ],
     "answer": 0,
-    "explanation": "依頼に対して快諾する応答が自然です。",
+    "explanation": "[質問] Could you send me the updated report?\n全訳: 更新された報告書を送ってもらえますか。\n\n[正解] (A) Sure, I'll email it shortly.\n全訳: もちろん、すぐにメールします。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・updated：更新した\n・report：報告書\n・email：メール\n・send：送る",
     "level": 450
   },
   {
@@ -2960,7 +2960,7 @@
       "About fifteen people attended."
     ],
     "answer": 0,
-    "explanation": "付加疑問的な質問に対してYes/Noと補足情報で答えます。",
+    "explanation": "[質問] Isn't the marketing meeting supposed to start at 10?\n全訳: マーケティング会議は10時開始ではなかったですか。\n\n[正解] (A) Yes, but it's been pushed to 11.\n全訳: はい、ですが11時に変更されました。\n\n[ポイント] 付加疑問的な質問に対してYes/Noと補足情報で答えます。\n\n[重要単語]\n・marketing：マーケティング\n・supposed：〜のはずである\n・meeting：会議\n・start：始める、開始",
     "level": 550
   },
   {
@@ -2972,7 +2972,7 @@
       "I already ordered lunch."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には選択肢のどちらかを答えます。",
+    "explanation": "[質問] Would you rather take the elevator or the stairs?\n全訳: エレベーターと階段どちらを使いますか。\n\n[正解] (A) Let's take the stairs, it's faster.\n全訳: 階段にしましょう、その方が早いです。\n\n[ポイント] 選択疑問文には選択肢のどちらかを答えます。\n\n[重要単語]\n・elevator：エレベーター\n・rather：むしろ\n・stairs：階段",
     "level": 500
   },
   {
@@ -2984,7 +2984,7 @@
       "About three years ago."
     ],
     "answer": 0,
-    "explanation": "間接疑問文で「誰が」を尋ねているため人物で答えます。",
+    "explanation": "[質問] Do you know who's handling the Kessler account now?\n全訳: 今ケスラー社の案件を誰が担当しているか知っていますか。\n\n[正解] (A) I believe Sarah took it over.\n全訳: サラが引き継いだと思います。\n\n[ポイント] 間接疑問文で「誰が」を尋ねているため人物で答えます。\n\n[重要単語]\n・account：口座、取引先",
     "level": 600
   },
   {
@@ -2996,7 +2996,7 @@
       "Yes, I printed it yesterday."
     ],
     "answer": 0,
-    "explanation": "平叙文形式の発言に対して自然な対応(解決策)を答えます。",
+    "explanation": "[質問] The printer on the fourth floor is out of toner again.\n全訳: 4階のプリンターがまたトナー切れです。\n\n[正解] (A) I'll order a replacement today.\n全訳: 今日、交換用を注文します。\n\n[ポイント] 平叙文形式の発言に対して自然な対応(解決策)を答えます。\n\n[重要単語]\n・replacement：交換品\n・printer：プリンター\n・toner：トナー\n・order：注文",
     "level": 550
   },
   {
@@ -3008,7 +3008,7 @@
       "The blue one over there."
     ],
     "answer": 0,
-    "explanation": "What time(何時)の質問には時刻や頻度で答えます。",
+    "explanation": "[質問] What time does the shuttle bus leave for the airport?\n全訳: シャトルバスは何時に空港へ出発しますか。\n\n[正解] (A) Every hour, on the hour.\n全訳: 毎時ちょうどに出ています。\n\n[ポイント] What time(何時)の質問には時刻や頻度で答えます。\n\n[重要単語]\n・shuttle：シャトルバス\n・airport：空港\n・time：時間、時刻\n・hour：時間（1時間）",
     "level": 450
   },
   {
@@ -3020,7 +3020,7 @@
       "It arrived late."
     ],
     "answer": 0,
-    "explanation": "Which(どちらの)の質問には該当するものを答えます。",
+    "explanation": "[質問] Which supplier offered the better price?\n全訳: どちらの業者がより良い価格を提示しましたか。\n\n[正解] (A) The one from Ohio did.\n全訳: オハイオの業者です。\n\n[ポイント] Which(どちらの)の質問には該当するものを答えます。\n\n[重要単語]\n・supplier：仕入先、業者\n・better：より良い",
     "level": 500
   },
   {
@@ -3032,7 +3032,7 @@
       "About five pages long."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にはYes/Noと状況説明で答えます。",
+    "explanation": "[質問] Haven't you finished the quarterly report yet?\n全訳: 四半期報告書はまだ終わっていないのですか。\n\n[正解] (A) Not yet, I need one more day.\n全訳: まだです、あと1日必要です。\n\n[ポイント] 否定疑問文にはYes/Noと状況説明で答えます。\n\n[重要単語]\n・quarterly：四半期ごとの\n・finished：終えた\n・report：報告書\n・need：必要とする",
     "level": 550
   },
   {
@@ -3044,7 +3044,7 @@
       "It costs around $300."
     ],
     "answer": 0,
-    "explanation": "選択疑問文には依頼への回答で答えます。",
+    "explanation": "[質問] Do you want me to book the flight or will you do it?\n全訳: フライトの予約は私がしましょうか、それともあなたがしますか。\n\n[正解] (A) Go ahead and book it, please.\n全訳: お願いします、予約を進めてください。\n\n[ポイント] 選択疑問文には依頼への回答で答えます。\n\n[重要単語]\n・flight：フライト\n・please：どうぞ\n・want：欲しい\n・book：予約する",
     "level": 500
   },
   {
@@ -3056,7 +3056,7 @@
       "The new employees."
     ],
     "answer": 0,
-    "explanation": "How long(どのくらいの期間)の質問には時間の長さで答えます。",
+    "explanation": "[質問] How long will the training session last?\n全訳: 研修セッションはどのくらい続きますか。\n\n[正解] (A) About two hours.\n全訳: だいたい2時間です。\n\n[ポイント] How long(どのくらいの期間)の質問には時間の長さで答えます。\n\n[重要単語]\n・training：研修\n・session：セッション、研修時間\n・hours：時間（複数）\n・long：長い",
     "level": 400
   },
   {
@@ -3068,7 +3068,7 @@
       "I bought it last year."
     ],
     "answer": 0,
-    "explanation": "許可を求める質問には可否で答えます。",
+    "explanation": "[質問] Excuse me, is this seat taken?\n全訳: すみません、この席は空いていますか。\n\n[正解] (A) No, go ahead and sit down.\n全訳: はい、どうぞお座りください。\n\n[ポイント] 許可を求める質問には可否で答えます。\n\n[重要単語]\n・taken：取られている（席が埋まっている）\n・seat：席",
     "level": 400
   },
   {
@@ -3080,7 +3080,7 @@
       "About two hundred people."
     ],
     "answer": 0,
-    "explanation": "手段を尋ねる質問には交通手段で答えます。",
+    "explanation": "[質問] What's the best way to get to the convention center from here?\n全訳: ここからコンベンションセンターへの一番良い行き方は何ですか。\n\n[正解] (A) Take the subway, it's fastest.\n全訳: 地下鉄が一番早いです。\n\n[ポイント] 手段を尋ねる質問には交通手段で答えます。\n\n[重要単語]\n・convention：会議、大会\n・fastest：最も早い\n・center：センター\n・best：最良の",
     "level": 500
   },
   {
@@ -3092,7 +3092,7 @@
       "We submitted it yesterday."
     ],
     "answer": 0,
-    "explanation": "提案に対する同意の応答が自然です。",
+    "explanation": "[質問] Shouldn't we double-check the figures before submitting?\n全訳: 提出前に数字をもう一度確認すべきではないですか。\n\n[正解] (A) Good idea, let's review them now.\n全訳: いい考えですね、今確認しましょう。\n\n[ポイント] 提案に対する同意の応答が自然です。\n\n[重要単語]\n・figures：数字\n・double：二重の\n・review：見直す、確認する\n・check：確認する",
     "level": 600
   },
   {
@@ -3104,7 +3104,7 @@
       "It's due next week."
     ],
     "answer": 0,
-    "explanation": "提案(Why don't we)には賛成・反対の応答が自然です。",
+    "explanation": "[質問] Why don't we ask the client for an extension?\n全訳: 顧客に延長をお願いしてみませんか。\n\n[正解] (A) That sounds like a good plan.\n全訳: それは良い案だと思います。\n\n[ポイント] 提案(Why don't we)には賛成・反対の応答が自然です。\n\n[重要単語]\n・sounds：〜のように聞こえる\n・plan：計画",
     "level": 550
   },
   {
@@ -3116,7 +3116,7 @@
       "Tickets are free this year."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物で答えます。",
+    "explanation": "[質問] Who's going to present at the trade show next week?\n全訳: 来週の展示会で発表するのは誰ですか。\n\n[正解] (A) Probably the sales manager.\n全訳: おそらく営業部長です。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・probably：おそらく\n・manager：マネージャー\n・going：行く予定である\n・sales：売上、営業",
     "level": 450
   },
   {
@@ -3128,7 +3128,7 @@
       "It's a clothing store."
     ],
     "answer": 0,
-    "explanation": "What time(何時)の質問には時刻で答えます。",
+    "explanation": "[質問] What time does the store close on weekdays?\n全訳: その店は平日は何時に閉まりますか。\n\n[正解] (A) At 9 PM.\n全訳: 午後9時です。\n\n[ポイント] What time(何時)の質問には時刻で答えます。\n\n[重要単語]\n・store：店\n・close：閉める、近い\n・time：時間、時刻",
     "level": 400
   },
   {
@@ -3140,7 +3140,7 @@
       "It looks great now."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物や部署で答えます。",
+    "explanation": "[質問] Who's responsible for updating the website?\n全訳: ウェブサイトの更新は誰の担当ですか。\n\n[正解] (A) The IT department is.\n全訳: IT部門です。\n\n[ポイント] Who(誰)の質問には人物や部署で答えます。\n\n[重要単語]\n・responsible：責任がある\n・updating：更新すること\n・website：ウェブサイト",
     "level": 450
   },
   {
@@ -3152,7 +3152,7 @@
       "About two hundred files."
     ],
     "answer": 0,
-    "explanation": "How often(どのくらいの頻度)の質問には頻度で答えます。",
+    "explanation": "[質問] How often do you back up the files?\n全訳: ファイルはどのくらいの頻度でバックアップしていますか。\n\n[正解] (A) Every night automatically.\n全訳: 毎晩自動でバックアップしています。\n\n[ポイント] How often(どのくらいの頻度)の質問には頻度で答えます。\n\n[重要単語]\n・files：ファイル（複数）\n・back：戻る、後ろ",
     "level": 450
   },
   {
@@ -3164,7 +3164,7 @@
       "Mr. Lee signed it."
     ],
     "answer": 0,
-    "explanation": "Where(どこ)の質問には場所で答えます。",
+    "explanation": "[質問] Where did you put the extra copies of the contract?\n全訳: 契約書の予備のコピーはどこに置きましたか。\n\n[正解] (A) In the top filing cabinet.\n全訳: 一番上のファイリングキャビネットです。\n\n[ポイント] Where(どこ)の質問には場所で答えます。\n\n[重要単語]\n・contract：契約書\n・cabinet：キャビネット、戸棚\n・copies：コピー（複数）\n・extra：予備の、追加の",
     "level": 400
   },
   {
@@ -3176,7 +3176,7 @@
       "Gate 22."
     ],
     "answer": 0,
-    "explanation": "Why(なぜ)の質問には理由で答えます。",
+    "explanation": "[質問] Why did the flight get canceled?\n全訳: なぜフライトは欠航になったのですか。\n\n[正解] (A) Due to mechanical issues.\n全訳: 機械の不具合によるものです。\n\n[ポイント] Why(なぜ)の質問には理由で答えます。\n\n[重要単語]\n・flight：フライト",
     "level": 500
   },
   {
@@ -3188,7 +3188,7 @@
       "It's down the hall."
     ],
     "answer": 0,
-    "explanation": "依頼に対して快諾する応答が自然です。",
+    "explanation": "[質問] Can you help me carry these boxes to the storage room?\n全訳: この箱を倉庫まで運ぶのを手伝ってもらえますか。\n\n[正解] (A) Sure, just give me a minute.\n全訳: もちろん、少し待ってください。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・storage：保管、倉庫\n・minute：分\n・carry：運ぶ\n・boxes：箱",
     "level": 450
   },
   {
@@ -3200,7 +3200,7 @@
       "It was approved already."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にはYes/Noと補足で答えます。",
+    "explanation": "[質問] Aren't we supposed to submit the proposal by Friday?\n全訳: 提案書は金曜日までに提出することになっていませんか。\n\n[正解] (A) Yes, that's the deadline.\n全訳: はい、それが締め切りです。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・supposed：〜のはずである\n・proposal：提案書\n・deadline：締め切り\n・submit：提出する",
     "level": 550
   },
   {
@@ -3212,7 +3212,7 @@
       "About fifteen people are coming."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。",
+    "explanation": "[質問] Should we order pizza or sandwiches for the meeting?\n全訳: 会議用にピザとサンドイッチどちらを注文しましょうか。\n\n[正解] (A) Sandwiches would be easier.\n全訳: サンドイッチの方が手間がかかりません。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。\n\n[重要単語]\n・sandwiches：サンドイッチ\n・meeting：会議\n・order：注文",
     "level": 500
   },
   {
@@ -3224,7 +3224,7 @@
       "The office is on the third floor."
     ],
     "answer": 0,
-    "explanation": "間接疑問文で「いつ」を尋ねているため時で答えます。",
+    "explanation": "[質問] Do you happen to know when the new manager starts?\n全訳: 新しいマネージャーがいつ着任するか知っていますか。\n\n[正解] (A) I think it's next Monday.\n全訳: 来週月曜日だと思います。\n\n[ポイント] 間接疑問文で「いつ」を尋ねているため時で答えます。\n\n[重要単語]\n・manager：マネージャー\n・happen：起こる\n・starts：始まる",
     "level": 600
   },
   {
@@ -3236,7 +3236,7 @@
       "About ten participants joined."
     ],
     "answer": 0,
-    "explanation": "平叙文の情報提供に対して自然な応答をします。",
+    "explanation": "[質問] The conference call has been moved to 3 PM.\n全訳: 電話会議は午後3時に変更になりました。\n\n[正解] (A) Thanks for letting me know.\n全訳: 教えてくれてありがとうございます。\n\n[ポイント] 平叙文の情報提供に対して自然な応答をします。\n\n[重要単語]\n・conference：会議、カンファレンス\n・moved：移動した\n・call：電話、通話",
     "level": 500
   },
   {
@@ -3248,7 +3248,7 @@
       "About $500 total."
     ],
     "answer": 0,
-    "explanation": "What's the deadline(締め切りは何)の質問には時で答えます。",
+    "explanation": "[質問] What's the deadline for the expense report?\n全訳: 経費報告書の締め切りはいつですか。\n\n[正解] (A) The end of this month.\n全訳: 今月末です。\n\n[ポイント] What's the deadline(締め切りは何)の質問には時で答えます。\n\n[重要単語]\n・deadline：締め切り\n・expense：経費\n・report：報告書\n・month：月",
     "level": 450
   },
   {
@@ -3260,7 +3260,7 @@
       "It costs extra."
     ],
     "answer": 0,
-    "explanation": "Which(どちら)の質問には該当する場所で答えます。",
+    "explanation": "[質問] Which branch handles international shipping?\n全訳: 国際発送を扱っているのはどの支店ですか。\n\n[正解] (A) The one downtown does.\n全訳: 中心街の支店です。\n\n[ポイント] Which(どちら)の質問には該当する場所で答えます。\n\n[重要単語]\n・shipping：発送\n・downtown：中心街\n・handles：担当する、扱う\n・branch：支店",
     "level": 500
   },
   {
@@ -3272,7 +3272,7 @@
       "It's held in Room 3."
     ],
     "answer": 0,
-    "explanation": "否定疑問文にはYes/Noと補足で答えます。",
+    "explanation": "[質問] Isn't the training session mandatory for all new hires?\n全訳: 研修セッションは全新入社員に必須ではないですか。\n\n[正解] (A) Yes, everyone must attend.\n全訳: はい、全員参加が必要です。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・training：研修\n・everyone：全員\n・session：セッション、研修時間\n・attend：出席する",
     "level": 550
   },
   {
@@ -3284,7 +3284,7 @@
       "It's in the break room."
     ],
     "answer": 0,
-    "explanation": "選択疑問文にはどちらかを選んで答えます。",
+    "explanation": "[質問] Would you like coffee or tea with your meeting?\n全訳: 会議にコーヒーと紅茶どちらを用意しましょうか。\n\n[正解] (A) Coffee is fine, thanks.\n全訳: コーヒーで大丈夫です、ありがとう。\n\n[ポイント] 選択疑問文にはどちらかを選んで答えます。\n\n[重要単語]\n・meeting：会議\n・coffee：コーヒー\n・fine：問題ない、良い\n・tea：紅茶",
     "level": 450
   },
   {
@@ -3296,7 +3296,7 @@
       "The airport has two terminals."
     ],
     "answer": 0,
-    "explanation": "How far(どのくらいの距離)の質問には距離や所要時間で答えます。",
+    "explanation": "[質問] How far is the airport from the hotel?\n全訳: 空港はホテルからどのくらい離れていますか。\n\n[正解] (A) About twenty minutes by car.\n全訳: 車でおよそ20分です。\n\n[ポイント] How far(どのくらいの距離)の質問には距離や所要時間で答えます。\n\n[重要単語]\n・airport：空港\n・minutes：分（時間）\n・far：遠い",
     "level": 450
   },
   {
@@ -3308,7 +3308,7 @@
       "It's a large building."
     ],
     "answer": 0,
-    "explanation": "場所を尋ねる質問には場所で答えます。",
+    "explanation": "[質問] Excuse me, could you tell me where the nearest restroom is?\n全訳: すみません、一番近いお手洗いはどこか教えてもらえますか。\n\n[正解] (A) It's just down that hallway.\n全訳: その廊下の先です。\n\n[ポイント] 場所を尋ねる質問には場所で答えます。\n\n[重要単語]\n・nearest：最寄りの\n・tell：伝える",
     "level": 400
   },
   {
@@ -3320,7 +3320,7 @@
       "They deliver weekly."
     ],
     "answer": 0,
-    "explanation": "手段を尋ねる質問には方法で答えます。",
+    "explanation": "[質問] What's the best way to contact the supplier?\n全訳: 仕入先に連絡する一番良い方法は何ですか。\n\n[正解] (A) Email is usually fastest.\n全訳: メールがたいてい一番早いです。\n\n[ポイント] 手段を尋ねる質問には方法で答えます。\n\n[重要単語]\n・supplier：仕入先、業者\n・fastest：最も早い\n・email：メール\n・best：最良の",
     "level": 500
   },
   {
@@ -3332,7 +3332,7 @@
       "The delay was minor."
     ],
     "answer": 0,
-    "explanation": "提案・確認への同意の応答が自然です。",
+    "explanation": "[質問] Shouldn't we inform the client about the delay?\n全訳: 遅延について顧客に知らせるべきではないですか。\n\n[正解] (A) Yes, I'll call them now.\n全訳: はい、今すぐ電話します。\n\n[ポイント] 提案・確認への同意の応答が自然です。\n\n[重要単語]\n・delay：遅延\n・call：電話、通話",
     "level": 550
   },
   {
@@ -3344,7 +3344,7 @@
       "The interview room is booked."
     ],
     "answer": 0,
-    "explanation": "提案(Why don't we)には賛成の応答が自然です。",
+    "explanation": "[質問] Why don't we schedule the interview for next week?\n全訳: 面接を来週に予定しませんか。\n\n[正解] (A) That works for me.\n全訳: 私はそれで大丈夫です。\n\n[ポイント] 提案(Why don't we)には賛成の応答が自然です。\n\n[重要単語]\n・interview：面接\n・schedule：予定、日程\n・week：週",
     "level": 550
   },
   {
@@ -3356,7 +3356,7 @@
       "The desk is near the entrance."
     ],
     "answer": 0,
-    "explanation": "Who(誰)の質問には人物で答えます。",
+    "explanation": "[質問] Who's covering the front desk while Maria is on vacation?\n全訳: マリアが休暇中、受付は誰が担当しますか。\n\n[正解] (A) I believe it's James.\n全訳: ジェームズだと思います。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・covering：代わりを務めている\n・vacation：休暇\n・front：正面、前\n・desk：机",
     "level": 450
   },
   {
@@ -3368,7 +3368,7 @@
       "The printer is out of ink."
     ],
     "answer": 0,
-    "explanation": "How many(いくつ)の質問には数量で答えます。",
+    "explanation": "[質問] How many copies of the handout do we need?\n全訳: 配布資料は何部必要ですか。\n\n[正解] (A) About thirty should be enough.\n全訳: 30部ほどあれば十分でしょう。\n\n[ポイント] How many(いくつ)の質問には数量で答えます。\n\n[重要単語]\n・copies：コピー（複数）\n・enough：十分な\n・need：必要とする",
     "level": 400
   },
   {
@@ -3380,7 +3380,7 @@
       "Twelve boxes total."
     ],
     "answer": 0,
-    "explanation": "When(いつ)の質問には時で答えます。",
+    "explanation": "[質問] When is the next shipment expected to arrive?\n全訳: 次の荷物はいつ届く予定ですか。\n\n[正解] (A) Sometime next Tuesday.\n全訳: 来週の火曜日頃です。\n\n[ポイント] When(いつ)の質問には時で答えます。\n\n[重要単語]\n・shipment：出荷、荷物\n・expected：予想される\n・sometime：そのうち、いつか\n・arrive：到着する",
     "level": 450
   },
   {
@@ -3392,7 +3392,7 @@
       "The report is due tomorrow."
     ],
     "answer": 0,
-    "explanation": "依頼に対して快諾する応答が自然です。",
+    "explanation": "[質問] Could you double-check these numbers before I send the report?\n全訳: 報告書を送る前にこの数字を確認してもらえますか。\n\n[正解] (A) Of course, I'll take a look now.\n全訳: もちろん、今から見てみます。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・numbers：数字\n・double：二重の\n・report：報告書\n・course：もちろん（of course）",
     "level": 500
   },
   {
@@ -3404,7 +3404,7 @@
       "The computers are in storage."
     ],
     "answer": 0,
-    "explanation": "Yes/No疑問文にはYes/Noで答えます。",
+    "explanation": "[質問] Is the new software compatible with our old computers?\n全訳: 新しいソフトウェアは古いパソコンと互換性がありますか。\n\n[正解] (A) Yes, it should work fine.\n全訳: はい、問題なく動くはずです。\n\n[ポイント] Yes/No疑問文にはYes/Noで答えます。\n\n[重要単語]\n・computers：パソコン\n・software：ソフトウェア\n・fine：問題ない、良い\n・old：古い",
     "level": 500
   },
   {
@@ -3416,7 +3416,607 @@
       "It's on the second floor."
     ],
     "answer": 0,
-    "explanation": "対処法を尋ねる質問には解決策で答えます。",
+    "explanation": "[質問] What should we do about the broken vending machine?\n全訳: 壊れた自動販売機についてどうすればいいですか。\n\n[正解] (A) Let's report it to maintenance.\n全訳: 保守担当に報告しましょう。\n\n[ポイント] 対処法を尋ねる質問には解決策で答えます。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・machine：機械\n・broken：壊れた\n・report：報告書",
+    "level": 500
+  },
+  {
+    "id": "l2286",
+    "question": "What's the status of the Peterson contract?",
+    "choices": [
+      "It's still under review.",
+      "It's in the top drawer.",
+      "About six months ago."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What's the status of the Peterson contract?\n全訳: ピーターソン社との契約の状況はどうなっていますか。\n\n[正解] (A) It's still under review.\n全訳: まだ検討中です。\n\n[ポイント] What's the status(状況は)の質問には現状で答えます。\n\n[重要単語]\n・contract：契約書\n・review：見直す、確認する",
+    "level": 500
+  },
+  {
+    "id": "l2287",
+    "question": "Who ordered the extra chairs for the meeting?",
+    "choices": [
+      "I think Facilities did.",
+      "The meeting starts at noon.",
+      "There are ten chairs."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Who ordered the extra chairs for the meeting?\n全訳: 会議用の予備の椅子は誰が注文しましたか。\n\n[正解] (A) I think Facilities did.\n全訳: 施設管理部だったと思います。\n\n[ポイント] Who(誰)の質問には人物や部署で答えます。\n\n[重要単語]\n・ordered：注文した\n・meeting：会議\n・chairs：椅子\n・extra：予備の、追加の",
+    "level": 450
+  },
+  {
+    "id": "l2288",
+    "question": "How soon can you finish the design mockup?",
+    "choices": [
+      "By tomorrow afternoon.",
+      "It's a website design.",
+      "The client requested it."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How soon can you finish the design mockup?\n全訳: デザインのモックアップはどのくらい早く仕上げられますか。\n\n[正解] (A) By tomorrow afternoon.\n全訳: 明日の午後までにできます。\n\n[ポイント] How soon(どれくらい早く)の質問には時で答えます。\n\n[重要単語]\n・afternoon：午後\n・finish：終える\n・design：デザイン",
+    "level": 450
+  },
+  {
+    "id": "l2289",
+    "question": "Where's the nearest printer that has color ink?",
+    "choices": [
+      "On the second floor.",
+      "It ran out of paper.",
+      "About twenty pages."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Where's the nearest printer that has color ink?\n全訳: カラーインクのある一番近いプリンターはどこですか。\n\n[正解] (A) On the second floor.\n全訳: 2階にあります。\n\n[ポイント] Where(どこ)の質問には場所で答えます。\n\n[重要単語]\n・nearest：最寄りの\n・printer：プリンター\n・color：カラー、色\n・ink：インク",
+    "level": 400
+  },
+  {
+    "id": "l2290",
+    "question": "Why hasn't the invoice been paid yet?",
+    "choices": [
+      "We're waiting on approval.",
+      "It was sent last week.",
+      "The amount is $2,000."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Why hasn't the invoice been paid yet?\n全訳: なぜ請求書はまだ支払われていないのですか。\n\n[正解] (A) We're waiting on approval.\n全訳: 承認待ちです。\n\n[ポイント] Why(なぜ)の質問には理由で答えます。\n\n[重要単語]\n・approval：承認\n・invoice：請求書\n・waiting：待っている\n・paid：支払われた",
+    "level": 500
+  },
+  {
+    "id": "l2291",
+    "question": "Would you mind reviewing my presentation before the meeting?",
+    "choices": [
+      "Not at all, send it over.",
+      "The presentation is twenty slides.",
+      "The meeting is at 3."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Would you mind reviewing my presentation before the meeting?\n全訳: 会議の前に私のプレゼンを確認してもらえますか。\n\n[正解] (A) Not at all, send it over.\n全訳: もちろんです、送ってください。\n\n[ポイント] 依頼(Would you mind)には快諾する応答が自然です。\n\n[重要単語]\n・presentation：プレゼンテーション\n・reviewing：確認している\n・meeting：会議\n・mind：気にする",
+    "level": 550
+  },
+  {
+    "id": "l2292",
+    "question": "Isn't the new hire starting today?",
+    "choices": [
+      "Yes, she arrives this morning.",
+      "She has five years of experience.",
+      "Her desk is on the third floor."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Isn't the new hire starting today?\n全訳: 新入社員は今日から始まるのではないのですか。\n\n[正解] (A) Yes, she arrives this morning.\n全訳: はい、今朝到着します。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・starting：〜から始まって\n・arrives：到着する\n・morning：朝、午前\n・hire：雇う",
+    "level": 550
+  },
+  {
+    "id": "l2293",
+    "question": "Do you prefer working from home or the office?",
+    "choices": [
+      "I actually prefer the office.",
+      "The office is downtown.",
+      "Home is more comfortable furniture-wise."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Do you prefer working from home or the office?\n全訳: 在宅勤務とオフィス勤務どちらが好みですか。\n\n[正解] (A) I actually prefer the office.\n全訳: 実はオフィスの方が好きです。\n\n[ポイント] 選択疑問文にはどちらかを答えます。\n\n[重要単語]\n・working：働いている\n・prefer：〜の方を好む\n・office：オフィス",
+    "level": 500
+  },
+  {
+    "id": "l2294",
+    "question": "Does anyone know why the server is down?",
+    "choices": [
+      "IT is looking into it now.",
+      "The server room is cold.",
+      "It happened last month too."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Does anyone know why the server is down?\n全訳: なぜサーバーが落ちているか誰か知っていますか。\n\n[正解] (A) IT is looking into it now.\n全訳: ITが今調べているところです。\n\n[ポイント] 間接疑問文で「なぜ」を尋ねているため理由・状況で答えます。\n\n[重要単語]\n・server：サーバー",
+    "level": 600
+  },
+  {
+    "id": "l2295",
+    "question": "The budget proposal needs a few more revisions.",
+    "choices": [
+      "Okay, I'll make the changes today.",
+      "The budget is $10,000.",
+      "It was submitted last week."
+    ],
+    "answer": 0,
+    "explanation": "[質問] The budget proposal needs a few more revisions.\n全訳: 予算案にはもう少し修正が必要です。\n\n[正解] (A) Okay, I'll make the changes today.\n全訳: 分かりました、今日中に修正します。\n\n[ポイント] 平叙文の情報に対して自然な応答をします。\n\n[重要単語]\n・proposal：提案書\n・budget：予算\n・okay：大丈夫",
+    "level": 500
+  },
+  {
+    "id": "l2296",
+    "question": "What kind of feedback did the client give?",
+    "choices": [
+      "Mostly positive comments.",
+      "The client called yesterday.",
+      "It's a small company."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What kind of feedback did the client give?\n全訳: 顧客からはどんなフィードバックがありましたか。\n\n[正解] (A) Mostly positive comments.\n全訳: ほとんど好意的な意見でした。\n\n[ポイント] What kind of(どんな種類)の質問には内容で答えます。\n\n[重要単語]\n・kind：種類\n・give：与える",
+    "level": 500
+  },
+  {
+    "id": "l2297",
+    "question": "Which floor is the marketing department on?",
+    "choices": [
+      "The fifth floor.",
+      "It has ten employees.",
+      "It was founded in 2010."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Which floor is the marketing department on?\n全訳: マーケティング部は何階にありますか。\n\n[正解] (A) The fifth floor.\n全訳: 5階です。\n\n[ポイント] Which floor(何階)の質問には階数で答えます。\n\n[重要単語]\n・marketing：マーケティング",
+    "level": 400
+  },
+  {
+    "id": "l2298",
+    "question": "Hasn't the shipment already left the warehouse?",
+    "choices": [
+      "Yes, it left this morning.",
+      "The warehouse is nearby.",
+      "It contains fifty units."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Hasn't the shipment already left the warehouse?\n全訳: その荷物はもう倉庫を出発したのではないですか。\n\n[正解] (A) Yes, it left this morning.\n全訳: はい、今朝出発しました。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・warehouse：倉庫\n・shipment：出荷、荷物\n・morning：朝、午前",
+    "level": 550
+  },
+  {
+    "id": "l2299",
+    "question": "Do you want to review this now or after lunch?",
+    "choices": [
+      "Let's do it after lunch.",
+      "Lunch is at noon.",
+      "The review takes an hour."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Do you want to review this now or after lunch?\n全訳: これは今確認しますか、それとも昼食後にしますか。\n\n[正解] (A) Let's do it after lunch.\n全訳: 昼食後にしましょう。\n\n[ポイント] 選択疑問文にはどちらかを答えます。\n\n[重要単語]\n・review：見直す、確認する\n・lunch：昼食\n・want：欲しい",
+    "level": 500
+  },
+  {
+    "id": "l2300",
+    "question": "How long have you worked in this department?",
+    "choices": [
+      "About four years now.",
+      "The department has ten staff.",
+      "It's on the second floor."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How long have you worked in this department?\n全訳: この部署にはどのくらい勤めていますか。\n\n[正解] (A) About four years now.\n全訳: もう4年ほどになります。\n\n[ポイント] How long(どのくらいの期間)の質問には期間で答えます。\n\n[重要単語]\n・years：年（複数）\n・long：長い",
+    "level": 450
+  },
+  {
+    "id": "l2301",
+    "question": "Excuse me, do you know what time the store opens?",
+    "choices": [
+      "I believe it opens at 9.",
+      "The store sells electronics.",
+      "It's a large store."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Excuse me, do you know what time the store opens?\n全訳: すみません、その店が何時に開くか知っていますか。\n\n[正解] (A) I believe it opens at 9.\n全訳: 9時に開くと思います。\n\n[ポイント] 時間を尋ねる質問には時刻で答えます。\n\n[重要単語]\n・store：店\n・opens：開く\n・time：時間、時刻",
+    "level": 400
+  },
+  {
+    "id": "l2302",
+    "question": "What's the fastest route to the airport from here?",
+    "choices": [
+      "Taking the highway is fastest.",
+      "The airport has three terminals.",
+      "Flights leave every hour."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What's the fastest route to the airport from here?\n全訳: ここから空港への一番早いルートは何ですか。\n\n[正解] (A) Taking the highway is fastest.\n全訳: 高速道路を使うのが一番早いです。\n\n[ポイント] 手段・ルートを尋ねる質問には方法で答えます。\n\n[重要単語]\n・fastest：最も早い\n・airport：空港\n・taking：取る、かかる",
+    "level": 500
+  },
+  {
+    "id": "l2303",
+    "question": "Shouldn't we notify the other departments about this change?",
+    "choices": [
+      "Yes, I'll send an email now.",
+      "The change takes effect Monday.",
+      "Other departments are busy."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Shouldn't we notify the other departments about this change?\n全訳: この変更について他部署に知らせるべきではないですか。\n\n[正解] (A) Yes, I'll send an email now.\n全訳: はい、今からメールを送ります。\n\n[ポイント] 提案・確認への同意の応答が自然です。\n\n[重要単語]\n・departments：部署（複数）\n・change：変更\n・other：他の\n・email：メール",
+    "level": 550
+  },
+  {
+    "id": "l2304",
+    "question": "Why don't we take a short break before continuing?",
+    "choices": [
+      "Good idea, let's do that.",
+      "The meeting has three topics.",
+      "We started an hour ago."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Why don't we take a short break before continuing?\n全訳: 続きの前に少し休憩を取りませんか。\n\n[正解] (A) Good idea, let's do that.\n全訳: いい考えですね、そうしましょう。\n\n[ポイント] 提案(Why don't we)には賛成の応答が自然です。\n\n[重要単語]\n・short：短い\n・break：休憩\n・idea：考え、アイデア",
+    "level": 550
+  },
+  {
+    "id": "l2305",
+    "question": "Who's in charge of the vendor negotiations?",
+    "choices": [
+      "That would be our procurement manager.",
+      "The vendor is based overseas.",
+      "Negotiations began last month."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Who's in charge of the vendor negotiations?\n全訳: 業者との交渉は誰が担当していますか。\n\n[正解] (A) That would be our procurement manager.\n全訳: それは調達マネージャーです。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・negotiations：交渉\n・manager：マネージャー\n・charge：担当（in charge of）\n・vendor：業者、納入業者",
+    "level": 500
+  },
+  {
+    "id": "l2306",
+    "question": "How many attendees are expected at the conference?",
+    "choices": [
+      "Around three hundred.",
+      "It's a two-day event.",
+      "The venue is downtown."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How many attendees are expected at the conference?\n全訳: その会議には何人くらい参加予定ですか。\n\n[正解] (A) Around three hundred.\n全訳: およそ300人です。\n\n[ポイント] How many(いくつ)の質問には数量で答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・attendees：参加者\n・expected：予想される",
+    "level": 400
+  },
+  {
+    "id": "l2307",
+    "question": "When was the last time this equipment was serviced?",
+    "choices": [
+      "About six months ago.",
+      "It's in the storage room.",
+      "It cost $2,000."
+    ],
+    "answer": 0,
+    "explanation": "[質問] When was the last time this equipment was serviced?\n全訳: この機器が最後に整備されたのはいつですか。\n\n[正解] (A) About six months ago.\n全訳: 6か月ほど前です。\n\n[ポイント] When(いつ)の質問には時で答えます。\n\n[重要単語]\n・equipment：機器、設備\n・serviced：整備された\n・months：月（複数）\n・time：時間、時刻",
+    "level": 450
+  },
+  {
+    "id": "l2308",
+    "question": "Could you forward me the client's contact information?",
+    "choices": [
+      "Sure, I'll send it right away.",
+      "The client seems happy.",
+      "Their office is downtown."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Could you forward me the client's contact information?\n全訳: 顧客の連絡先を転送してもらえますか。\n\n[正解] (A) Sure, I'll send it right away.\n全訳: もちろん、すぐに送ります。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・forward：転送する\n・right：正しい、すぐに\n・send：送る\n・away：離れて",
+    "level": 450
+  },
+  {
+    "id": "l2309",
+    "question": "Is the training material available in other languages?",
+    "choices": [
+      "Yes, it's also in Spanish and French.",
+      "It was created last year.",
+      "The training lasts two hours."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Is the training material available in other languages?\n全訳: 研修資料は他の言語でも入手できますか。\n\n[正解] (A) Yes, it's also in Spanish and French.\n全訳: はい、スペイン語とフランス語版もあります。\n\n[ポイント] Yes/No疑問文にはYes/Noで答えます。\n\n[重要単語]\n・available：利用可能な\n・training：研修\n・other：他の",
+    "level": 500
+  },
+  {
+    "id": "l2310",
+    "question": "What should we do about the low inventory levels?",
+    "choices": [
+      "Let's place a new order today.",
+      "The inventory system is new.",
+      "It's stored in the warehouse."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What should we do about the low inventory levels?\n全訳: 在庫が少ない件についてどうすればいいですか。\n\n[正解] (A) Let's place a new order today.\n全訳: 今日新しく発注しましょう。\n\n[ポイント] 対処法を尋ねる質問には解決策で答えます。\n\n[重要単語]\n・inventory：在庫\n・place：置く、場所\n・order：注文",
+    "level": 500
+  },
+  {
+    "id": "l2311",
+    "question": "What's the agenda for tomorrow's meeting?",
+    "choices": [
+      "Budget review and hiring updates.",
+      "It's in Room 5.",
+      "About an hour long."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What's the agenda for tomorrow's meeting?\n全訳: 明日の会議の議題は何ですか。\n\n[正解] (A) Budget review and hiring updates.\n全訳: 予算の見直しと採用状況の報告です。\n\n[ポイント] What's the agenda(議題は何)の質問には内容で答えます。\n\n[重要単語]\n・meeting：会議\n・agenda：議題\n・budget：予算\n・review：見直す、確認する",
+    "level": 450
+  },
+  {
+    "id": "l2312",
+    "question": "Who approved the new vendor contract?",
+    "choices": [
+      "The procurement manager did.",
+      "It starts next month.",
+      "It's a two-year contract."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Who approved the new vendor contract?\n全訳: 新しい業者との契約を承認したのは誰ですか。\n\n[正解] (A) The procurement manager did.\n全訳: 調達マネージャーです。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・approved：承認した\n・contract：契約書\n・manager：マネージャー\n・vendor：業者、納入業者",
+    "level": 450
+  },
+  {
+    "id": "l2313",
+    "question": "How much inventory do we have left in the warehouse?",
+    "choices": [
+      "About two hundred units.",
+      "The warehouse is downtown.",
+      "It was restocked yesterday."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How much inventory do we have left in the warehouse?\n全訳: 倉庫にはあとどのくらい在庫が残っていますか。\n\n[正解] (A) About two hundred units.\n全訳: およそ200個です。\n\n[ポイント] How much(どのくらい)の質問には数量で答えます。\n\n[重要単語]\n・inventory：在庫\n・warehouse：倉庫\n・units：台、個",
+    "level": 450
+  },
+  {
+    "id": "l2314",
+    "question": "Where should I leave the signed documents?",
+    "choices": [
+      "On my desk is fine.",
+      "They were signed this morning.",
+      "About ten pages."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Where should I leave the signed documents?\n全訳: 署名済みの書類はどこに置けばいいですか。\n\n[正解] (A) On my desk is fine.\n全訳: 私の机の上で構いません。\n\n[ポイント] Where(どこ)の質問には場所で答えます。\n\n[重要単語]\n・documents：書類\n・signed：署名した\n・desk：机\n・fine：問題ない、良い",
+    "level": 400
+  },
+  {
+    "id": "l2315",
+    "question": "Why is the delivery truck late today?",
+    "choices": [
+      "There was heavy traffic.",
+      "It arrives at noon.",
+      "It's carrying furniture."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Why is the delivery truck late today?\n全訳: なぜ今日は配送トラックが遅れているのですか。\n\n[正解] (A) There was heavy traffic.\n全訳: 交通渋滞がひどかったためです。\n\n[ポイント] Why(なぜ)の質問には理由で答えます。\n\n[重要単語]\n・delivery：配達\n・heavy：激しい、重い\n・late：遅い、遅れて",
+    "level": 450
+  },
+  {
+    "id": "l2316",
+    "question": "Could you send me last quarter's sales figures?",
+    "choices": [
+      "Sure, I'll email them now.",
+      "The figures look promising.",
+      "Sales increased last quarter."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Could you send me last quarter's sales figures?\n全訳: 前四半期の売上データを送ってもらえますか。\n\n[正解] (A) Sure, I'll email them now.\n全訳: もちろん、今すぐメールします。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・figures：数字\n・sales：売上、営業\n・email：メール\n・send：送る",
+    "level": 450
+  },
+  {
+    "id": "l2317",
+    "question": "Isn't the office supposed to be renovated this year?",
+    "choices": [
+      "Yes, starting next month.",
+      "The office is quite large.",
+      "It was built ten years ago."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Isn't the office supposed to be renovated this year?\n全訳: オフィスは今年改装される予定ではなかったですか。\n\n[正解] (A) Yes, starting next month.\n全訳: はい、来月からです。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・supposed：〜のはずである\n・starting：〜から始まって\n・office：オフィス\n・month：月",
+    "level": 550
+  },
+  {
+    "id": "l2318",
+    "question": "Should we email the report or print it out?",
+    "choices": [
+      "Let's just email it.",
+      "The report is finished.",
+      "It has twenty pages."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Should we email the report or print it out?\n全訳: 報告書はメールで送りますか、それとも印刷しますか。\n\n[正解] (A) Let's just email it.\n全訳: メールで送りましょう。\n\n[ポイント] 選択疑問文にはどちらかを答えます。\n\n[重要単語]\n・report：報告書\n・email：メール\n・print：印刷する",
+    "level": 500
+  },
+  {
+    "id": "l2319",
+    "question": "Do you know if the client confirmed the meeting?",
+    "choices": [
+      "Yes, she confirmed this morning.",
+      "The meeting is at 2 PM.",
+      "She works in sales."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Do you know if the client confirmed the meeting?\n全訳: 顧客が打ち合わせを確定したか分かりますか。\n\n[正解] (A) Yes, she confirmed this morning.\n全訳: はい、今朝確定してもらいました。\n\n[ポイント] 間接疑問文で「確認したか」を尋ねているためYes/Noで答えます。\n\n[重要単語]\n・confirmed：確認した\n・meeting：会議\n・morning：朝、午前",
+    "level": 550
+  },
+  {
+    "id": "l2320",
+    "question": "The Wi-Fi in the conference room isn't working.",
+    "choices": [
+      "I'll call IT right away.",
+      "The room seats twenty people.",
+      "It was installed last year."
+    ],
+    "answer": 0,
+    "explanation": "[質問] The Wi-Fi in the conference room isn't working.\n全訳: 会議室のWi-Fiがつながりません。\n\n[正解] (A) I'll call IT right away.\n全訳: すぐにITに連絡します。\n\n[ポイント] 平叙文の問題提起に対して自然な対応を答えます。\n\n[重要単語]\n・conference：会議、カンファレンス\n・working：働いている\n・right：正しい、すぐに\n・call：電話、通話",
+    "level": 500
+  },
+  {
+    "id": "l2321",
+    "question": "What's the return policy for online orders?",
+    "choices": [
+      "Thirty days with a receipt.",
+      "Orders ship within a week.",
+      "It's a popular website."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What's the return policy for online orders?\n全訳: オンライン注文の返品規定はどうなっていますか。\n\n[正解] (A) Thirty days with a receipt.\n全訳: レシートがあれば30日以内です。\n\n[ポイント] What's the policy(方針は何)の質問には内容で答えます。\n\n[重要単語]\n・policy：方針、規定\n・online：オンラインで",
+    "level": 500
+  },
+  {
+    "id": "l2322",
+    "question": "Which supplier gave us the best quote?",
+    "choices": [
+      "The one from Chicago did.",
+      "The quote was due Friday.",
+      "We need more suppliers."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Which supplier gave us the best quote?\n全訳: どの仕入先が一番良い見積もりを出しましたか。\n\n[正解] (A) The one from Chicago did.\n全訳: シカゴの業者です。\n\n[ポイント] Which(どちら)の質問には該当するもので答えます。\n\n[重要単語]\n・supplier：仕入先、業者\n・best：最良の",
+    "level": 500
+  },
+  {
+    "id": "l2323",
+    "question": "Hasn't the marketing budget already been finalized?",
+    "choices": [
+      "Yes, it was approved yesterday.",
+      "Marketing is a big department.",
+      "The budget is $50,000."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Hasn't the marketing budget already been finalized?\n全訳: マーケティング予算はもう確定していませんでしたか。\n\n[正解] (A) Yes, it was approved yesterday.\n全訳: はい、昨日承認されました。\n\n[ポイント] 否定疑問文にはYes/Noと補足で答えます。\n\n[重要単語]\n・marketing：マーケティング\n・approved：承認した\n・budget：予算",
+    "level": 550
+  },
+  {
+    "id": "l2324",
+    "question": "Do you want to meet in person or over video call?",
+    "choices": [
+      "A video call works better for me.",
+      "The meeting is important.",
+      "It's scheduled for Monday."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Do you want to meet in person or over video call?\n全訳: 対面とビデオ通話どちらで会いたいですか。\n\n[正解] (A) A video call works better for me.\n全訳: 私にはビデオ通話の方が都合がいいです。\n\n[ポイント] 選択疑問文にはどちらかを答えます。\n\n[重要単語]\n・person：人\n・better：より良い\n・video：ビデオ\n・want：欲しい",
+    "level": 500
+  },
+  {
+    "id": "l2325",
+    "question": "How long does it take to process a refund?",
+    "choices": [
+      "Usually five to seven business days.",
+      "Refunds are handled by accounting.",
+      "The refund was $200."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How long does it take to process a refund?\n全訳: 返金処理にはどのくらい時間がかかりますか。\n\n[正解] (A) Usually five to seven business days.\n全訳: 通常は営業日5〜7日です。\n\n[ポイント] How long(どのくらいの期間)の質問には期間で答えます。\n\n[重要単語]\n・business：ビジネス、業務\n・process：処理、プロセス\n・long：長い",
+    "level": 450
+  },
+  {
+    "id": "l2326",
+    "question": "Excuse me, is this the line for registration?",
+    "choices": [
+      "Yes, this is the right line.",
+      "Registration opens at 9.",
+      "It's a long event."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Excuse me, is this the line for registration?\n全訳: すみません、これは受付の列ですか。\n\n[正解] (A) Yes, this is the right line.\n全訳: はい、こちらの列で合っています。\n\n[ポイント] 確認の質問にはYes/Noで答えます。\n\n[重要単語]\n・right：正しい、すぐに\n・line：列",
+    "level": 400
+  },
+  {
+    "id": "l2327",
+    "question": "What's the quickest way to reach the support team?",
+    "choices": [
+      "Live chat is usually fastest.",
+      "Support is available 24/7.",
+      "The team has ten members."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What's the quickest way to reach the support team?\n全訳: サポートチームに連絡する一番早い方法は何ですか。\n\n[正解] (A) Live chat is usually fastest.\n全訳: ライブチャットがたいてい一番早いです。\n\n[ポイント] 手段を尋ねる質問には方法で答えます。\n\n[重要単語]\n・fastest：最も早い",
+    "level": 500
+  },
+  {
+    "id": "l2328",
+    "question": "Shouldn't we back up the files before the update?",
+    "choices": [
+      "Good point, I'll do that now.",
+      "The update takes an hour.",
+      "Files are stored in the cloud."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Shouldn't we back up the files before the update?\n全訳: 更新の前にファイルをバックアップすべきではないですか。\n\n[正解] (A) Good point, I'll do that now.\n全訳: いい指摘ですね、今やっておきます。\n\n[ポイント] 提案・確認への同意の応答が自然です。\n\n[重要単語]\n・update：更新する\n・files：ファイル（複数）\n・back：戻る、後ろ",
+    "level": 550
+  },
+  {
+    "id": "l2329",
+    "question": "Why don't we ask Maria to lead the project?",
+    "choices": [
+      "That's a great suggestion.",
+      "Maria joined last year.",
+      "The project starts soon."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Why don't we ask Maria to lead the project?\n全訳: このプロジェクトの進行をマリアに頼んでみませんか。\n\n[正解] (A) That's a great suggestion.\n全訳: それは良い提案ですね。\n\n[ポイント] 提案(Why don't we)には賛成の応答が自然です。\n\n[重要単語]\n・project：プロジェクト\n・lead：率いる、担当する",
+    "level": 550
+  },
+  {
+    "id": "l2330",
+    "question": "Who's presenting the quarterly results this time?",
+    "choices": [
+      "I think it's the CFO.",
+      "The results were strong.",
+      "Q3 ended last week."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Who's presenting the quarterly results this time?\n全訳: 今回、四半期業績を発表するのは誰ですか。\n\n[正解] (A) I think it's the CFO.\n全訳: CFOだと思います。\n\n[ポイント] Who(誰)の質問には人物で答えます。\n\n[重要単語]\n・quarterly：四半期ごとの\n・results：結果\n・time：時間、時刻",
+    "level": 450
+  },
+  {
+    "id": "l2331",
+    "question": "How many vendors did we invite to bid?",
+    "choices": [
+      "We invited five vendors.",
+      "The bidding closes Friday.",
+      "Vendors are based locally."
+    ],
+    "answer": 0,
+    "explanation": "[質問] How many vendors did we invite to bid?\n全訳: 入札に何社の業者を招待しましたか。\n\n[正解] (A) We invited five vendors.\n全訳: 5社を招待しました。\n\n[ポイント] How many(いくつ)の質問には数量で答えます。\n\n[重要単語]\n・vendors：業者（複数）",
+    "level": 400
+  },
+  {
+    "id": "l2332",
+    "question": "When did the new policy take effect?",
+    "choices": [
+      "Just this past Monday.",
+      "The policy is three pages long.",
+      "It affects all departments."
+    ],
+    "answer": 0,
+    "explanation": "[質問] When did the new policy take effect?\n全訳: 新しい方針はいつから施行されましたか。\n\n[正解] (A) Just this past Monday.\n全訳: ちょうどこの前の月曜日からです。\n\n[ポイント] When(いつ)の質問には時で答えます。\n\n[重要単語]\n・policy：方針、規定\n・effect：効力（take effect＝施行される）",
+    "level": 450
+  },
+  {
+    "id": "l2333",
+    "question": "Could you walk me through the new expense process?",
+    "choices": [
+      "Sure, let's go over it now.",
+      "The process is efficient.",
+      "Expenses are due monthly."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Could you walk me through the new expense process?\n全訳: 新しい経費処理のやり方を説明してもらえますか。\n\n[正解] (A) Sure, let's go over it now.\n全訳: もちろん、今から一緒に見ていきましょう。\n\n[ポイント] 依頼に対して快諾する応答が自然です。\n\n[重要単語]\n・expense：経費\n・process：処理、プロセス",
+    "level": 500
+  },
+  {
+    "id": "l2334",
+    "question": "Is the new employee orientation mandatory?",
+    "choices": [
+      "Yes, for all new hires.",
+      "Orientation lasts two days.",
+      "It's held in Room 2."
+    ],
+    "answer": 0,
+    "explanation": "[質問] Is the new employee orientation mandatory?\n全訳: 新入社員オリエンテーションは必須ですか。\n\n[正解] (A) Yes, for all new hires.\n全訳: はい、全ての新入社員が対象です。\n\n[ポイント] Yes/No疑問文にはYes/Noで答えます。\n\n[重要単語]\n・orientation：オリエンテーション、研修\n・employee：従業員\n・hires：新入社員、雇う",
+    "level": 450
+  },
+  {
+    "id": "l2335",
+    "question": "What should we do if the printer jams again?",
+    "choices": [
+      "Let's just call maintenance.",
+      "The printer is new.",
+      "It's on the second floor."
+    ],
+    "answer": 0,
+    "explanation": "[質問] What should we do if the printer jams again?\n全訳: プリンターがまた紙詰まりしたらどうしますか。\n\n[正解] (A) Let's just call maintenance.\n全訳: 保守担当に連絡しましょう。\n\n[ポイント] 対処法を尋ねる質問には解決策で答えます。\n\n[重要単語]\n・maintenance：保守、メンテナンス\n・printer：プリンター\n・call：電話、通話",
     "level": 500
   }
 ]

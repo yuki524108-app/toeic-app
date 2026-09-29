@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1201",
+  "word": "firework display",
+  "meaning": "花火大会",
+  "example": "The firework display marked the end of the festival."
+ },
+ {
+  "id": "w1202",
+  "word": "street festival",
+  "meaning": "ストリートフェスティバル",
+  "example": "The street festival featured live music and food stalls."
+ },
+ {
+  "id": "w1203",
+  "word": "parade",
+  "meaning": "パレード",
+  "example": "Thousands gathered to watch the holiday parade."
+ },
+ {
+  "id": "w1204",
+  "word": "cultural festival",
+  "meaning": "文化祭",
+  "example": "The cultural festival celebrates local traditions."
+ },
+ {
+  "id": "w1205",
+  "word": "art exhibition",
+  "meaning": "美術展",
+  "example": "The gallery hosted an art exhibition featuring young artists."
+ },
+ {
+  "id": "w1206",
+  "word": "craft fair",
+  "meaning": "手工芸品フェア",
+  "example": "She sold handmade jewelry at the craft fair."
+ },
+ {
+  "id": "w1207",
+  "word": "farmers market",
+  "meaning": "ファーマーズマーケット",
+  "example": "The farmers market sells fresh produce every Saturday."
+ },
+ {
+  "id": "w1208",
+  "word": "flea market",
+  "meaning": "フリーマーケット",
+  "example": "He found a vintage lamp at the flea market."
+ },
+ {
+  "id": "w1209",
+  "word": "antique shop",
+  "meaning": "骨董品店",
+  "example": "The antique shop specializes in vintage furniture."
+ },
+ {
+  "id": "w1210",
+  "word": "collectible item",
+  "meaning": "収集品",
+  "example": "The rare coin is a valuable collectible item."
+ },
+ {
+  "id": "w1211",
+  "word": "auction house",
+  "meaning": "競売会社、オークションハウス",
+  "example": "The painting sold for a record price at the auction house."
+ },
+ {
+  "id": "w1212",
+  "word": "bid amount",
+  "meaning": "入札額",
+  "example": "The final bid amount exceeded expectations."
+ },
+ {
+  "id": "w1213",
+  "word": "appraisal certificate",
+  "meaning": "鑑定証明書",
+  "example": "The jewelry came with an appraisal certificate."
+ },
+ {
+  "id": "w1214",
+  "word": "estate sale",
+  "meaning": "遺産整理セール",
+  "example": "They found antique furniture at the estate sale."
+ },
+ {
+  "id": "w1215",
+  "word": "garage sale",
+  "meaning": "ガレージセール",
+  "example": "The neighbors held a garage sale over the weekend."
+ },
+ {
+  "id": "w1216",
+  "word": "secondhand goods",
+  "meaning": "中古品",
+  "example": "The shop specializes in secondhand goods."
+ },
+ {
+  "id": "w1217",
+  "word": "vintage clothing",
+  "meaning": "ビンテージ衣料",
+  "example": "The boutique sells vintage clothing from the 1960s."
+ },
+ {
+  "id": "w1218",
+  "word": "laboratory equipment",
+  "meaning": "実験機器",
+  "example": "The laboratory equipment was upgraded last year."
+ },
+ {
+  "id": "w1219",
+  "word": "research findings",
+  "meaning": "研究結果",
+  "example": "The research findings were published in a scientific journal."
+ },
+ {
+  "id": "w1220",
+  "word": "clinical trial",
+  "meaning": "臨床試験",
+  "example": "The drug is currently undergoing a clinical trial."
+ },
+ {
+  "id": "w1221",
+  "word": "scientific method",
+  "meaning": "科学的手法",
+  "example": "Students learn the scientific method in the first year."
+ },
+ {
+  "id": "w1222",
+  "word": "hypothesis",
+  "meaning": "仮説",
+  "example": "The researcher tested her hypothesis through experiments."
+ },
+ {
+  "id": "w1223",
+  "word": "experiment design",
+  "meaning": "実験設計",
+  "example": "Careful experiment design ensures reliable results."
+ },
+ {
+  "id": "w1224",
+  "word": "data sample",
+  "meaning": "データサンプル",
+  "example": "The study used a large data sample for accuracy."
+ },
+ {
+  "id": "w1225",
+  "word": "statistical analysis",
+  "meaning": "統計分析",
+  "example": "Statistical analysis revealed a significant correlation."
+ },
+ {
+  "id": "w1226",
+  "word": "control group",
+  "meaning": "対照群",
+  "example": "The control group did not receive the treatment."
+ },
+ {
+  "id": "w1227",
+  "word": "genetic research",
+  "meaning": "遺伝子研究",
+  "example": "Genetic research has advanced significantly in recent years."
+ },
+ {
+  "id": "w1228",
+  "word": "biotechnology",
+  "meaning": "バイオテクノロジー",
+  "example": "The biotechnology firm develops new medical treatments."
+ },
+ {
+  "id": "w1229",
+  "word": "pharmaceutical company",
+  "meaning": "製薬会社",
+  "example": "The pharmaceutical company launched a new drug."
+ },
+ {
+  "id": "w1230",
+  "word": "drug development",
+  "meaning": "医薬品開発",
+  "example": "Drug development can take many years to complete."
+ },
+ {
+  "id": "w1231",
+  "word": "dosage",
+  "meaning": "投与量",
+  "example": "The doctor adjusted the dosage based on the patient's weight."
+ },
+ {
+  "id": "w1232",
+  "word": "laboratory technician",
+  "meaning": "検査技師",
+  "example": "The laboratory technician analyzed the blood samples."
+ },
+ {
+  "id": "w1233",
+  "word": "microscope",
+  "meaning": "顕微鏡",
+  "example": "Researchers examined the sample under a microscope."
+ },
+ {
+  "id": "w1234",
+  "word": "specimen",
+  "meaning": "標本",
+  "example": "The specimen was sent to the lab for testing."
+ },
+ {
+  "id": "w1235",
+  "word": "chemical compound",
+  "meaning": "化合物",
+  "example": "The chemical compound was tested for stability."
+ },
+ {
+  "id": "w1236",
+  "word": "molecular structure",
+  "meaning": "分子構造",
+  "example": "Scientists studied the molecular structure of the protein."
+ },
+ {
+  "id": "w1237",
+  "word": "renewable resource",
+  "meaning": "再生可能な資源",
+  "example": "Solar energy is considered a renewable resource."
+ },
+ {
+  "id": "w1238",
+  "word": "nuclear power plant",
+  "meaning": "原子力発電所",
+  "example": "The nuclear power plant supplies electricity to the region."
+ },
+ {
+  "id": "w1239",
+  "word": "electric utility",
+  "meaning": "電力会社",
+  "example": "The electric utility raised its rates this year."
+ },
+ {
+  "id": "w1240",
+  "word": "water treatment plant",
+  "meaning": "浄水場",
+  "example": "The city built a new water treatment plant."
+ },
+ {
+  "id": "w1241",
+  "word": "sewage system",
+  "meaning": "下水システム",
+  "example": "The old sewage system needed major repairs."
+ },
+ {
+  "id": "w1242",
+  "word": "public works department",
+  "meaning": "公共事業局",
+  "example": "The public works department manages road maintenance."
+ },
+ {
+  "id": "w1243",
+  "word": "civil engineer",
+  "meaning": "土木技師",
+  "example": "A civil engineer designed the new bridge."
+ },
+ {
+  "id": "w1244",
+  "word": "structural integrity",
+  "meaning": "構造的な安全性",
+  "example": "Inspectors checked the building's structural integrity."
+ },
+ {
+  "id": "w1245",
+  "word": "load-bearing wall",
+  "meaning": "耐力壁",
+  "example": "The load-bearing wall cannot be removed during renovation."
+ },
+ {
+  "id": "w1246",
+  "word": "architect",
+  "meaning": "建築家",
+  "example": "The architect presented three design options."
+ },
+ {
+  "id": "w1247",
+  "word": "building permit",
+  "meaning": "建築許可",
+  "example": "A building permit is required before construction begins."
+ },
+ {
+  "id": "w1248",
+  "word": "zoning permit",
+  "meaning": "区画許可",
+  "example": "The developer applied for a zoning permit."
+ },
+ {
+  "id": "w1249",
+  "word": "construction crew",
+  "meaning": "建設作業員",
+  "example": "The construction crew finished the project ahead of schedule."
+ },
+ {
+  "id": "w1250",
+  "word": "heavy machinery",
+  "meaning": "重機",
+  "example": "Heavy machinery was used to clear the site."
+ },
+ {
+  "id": "w1251",
+  "word": "crane operator",
+  "meaning": "クレーンオペレーター",
+  "example": "The crane operator lifted the steel beams into place."
+ },
+ {
+  "id": "w1252",
+  "word": "safety harness",
+  "meaning": "安全ハーネス",
+  "example": "Workers must wear a safety harness at heights."
+ },
+ {
+  "id": "w1253",
+  "word": "hard hat",
+  "meaning": "ヘルメット",
+  "example": "All visitors must wear a hard hat on the construction site."
+ },
+ {
+  "id": "w1254",
+  "word": "construction site",
+  "meaning": "建設現場",
+  "example": "The construction site was closed after the accident."
+ },
+ {
+  "id": "w1255",
+  "word": "customer inquiry",
+  "meaning": "顧客からの問い合わせ",
+  "example": "The support team responded to the customer inquiry promptly."
+ },
+ {
+  "id": "w1256",
+  "word": "complaint department",
+  "meaning": "苦情処理部門",
+  "example": "Direct your concerns to the complaint department."
+ },
+ {
+  "id": "w1257",
+  "word": "service hotline",
+  "meaning": "サービスホットライン",
+  "example": "Call the service hotline for immediate assistance."
+ },
+ {
+  "id": "w1258",
+  "word": "live chat support",
+  "meaning": "ライブチャットサポート",
+  "example": "The website offers live chat support for quick answers."
+ },
+ {
+  "id": "w1259",
+  "word": "call center",
+  "meaning": "コールセンター",
+  "example": "The company operates a call center around the clock."
+ },
+ {
+  "id": "w1260",
+  "word": "customer satisfaction survey",
+  "meaning": "顧客満足度調査",
+  "example": "The company conducts a customer satisfaction survey annually."
+ },
+ {
+  "id": "w1261",
+  "word": "net promoter score",
+  "meaning": "ネットプロモータースコア",
+  "example": "The net promoter score reflects customer loyalty."
+ },
+ {
+  "id": "w1262",
+  "word": "service level agreement",
+  "meaning": "サービスレベル契約",
+  "example": "The vendor must meet the service level agreement terms."
+ },
+ {
+  "id": "w1263",
+  "word": "response time",
+  "meaning": "対応時間",
+  "example": "The company aims to reduce its average response time."
+ },
+ {
+  "id": "w1264",
+  "word": "escalation process",
+  "meaning": "エスカレーションプロセス",
+  "example": "Unresolved issues follow a clear escalation process."
+ },
+ {
+  "id": "w1265",
+  "word": "first-time customer",
+  "meaning": "初めての顧客",
+  "example": "First-time customers receive a discount on their order."
+ },
+ {
+  "id": "w1266",
+  "word": "repeat customer",
+  "meaning": "リピート顧客",
+  "example": "Repeat customers make up a large share of revenue."
+ },
+ {
+  "id": "w1267",
+  "word": "word of mouth",
+  "meaning": "口コミ",
+  "example": "The restaurant grew popular through word of mouth."
+ },
+ {
+  "id": "w1268",
+  "word": "brand awareness",
+  "meaning": "ブランド認知度",
+  "example": "The campaign successfully increased brand awareness."
+ },
+ {
+  "id": "w1269",
+  "word": "brand loyalty",
+  "meaning": "ブランドロイヤルティ",
+  "example": "Strong brand loyalty leads to repeat purchases."
+ },
+ {
+  "id": "w1270",
+  "word": "social media manager",
+  "meaning": "ソーシャルメディア担当者",
+  "example": "The social media manager schedules daily posts."
+ },
+ {
+  "id": "w1271",
+  "word": "influencer marketing",
+  "meaning": "インフルエンサーマーケティング",
+  "example": "The brand invested in influencer marketing this year."
+ },
+ {
+  "id": "w1272",
+  "word": "advertising agency",
+  "meaning": "広告代理店",
+  "example": "The firm hired an advertising agency for the campaign."
+ },
+ {
+  "id": "w1273",
+  "word": "print advertisement",
+  "meaning": "印刷広告",
+  "example": "The magazine featured a full-page print advertisement."
+ },
+ {
+  "id": "w1274",
+  "word": "jingle",
+  "meaning": "コマーシャルソング",
+  "example": "The catchy jingle stayed in customers' minds."
+ },
+ {
+  "id": "w1275",
+  "word": "tagline",
+  "meaning": "キャッチフレーズ",
+  "example": "The new tagline appears on all marketing materials."
+ },
+ {
+  "id": "w1276",
+  "word": "call to action",
+  "meaning": "行動喚起",
+  "example": "The email includes a clear call to action."
+ },
+ {
+  "id": "w1277",
+  "word": "landing page",
+  "meaning": "ランディングページ",
+  "example": "Visitors are directed to a landing page after clicking the ad."
+ },
+ {
+  "id": "w1278",
+  "word": "click-through rate",
+  "meaning": "クリック率",
+  "example": "The ad's click-through rate improved after the redesign."
+ },
+ {
+  "id": "w1279",
+  "word": "impressions",
+  "meaning": "表示回数、インプレッション",
+  "example": "The campaign generated over a million impressions."
+ },
+ {
+  "id": "w1280",
+  "word": "email marketing",
+  "meaning": "メールマーケティング",
+  "example": "Email marketing remains an effective way to reach customers."
+ },
+ {
+  "id": "w1281",
+  "word": "newsletter subscriber",
+  "meaning": "ニュースレター購読者",
+  "example": "The company has thousands of newsletter subscribers."
+ },
+ {
+  "id": "w1282",
+  "word": "opt-in",
+  "meaning": "オプトイン(同意登録)",
+  "example": "Customers must opt in to receive promotional emails."
+ },
+ {
+  "id": "w1283",
+  "word": "unsubscribe",
+  "meaning": "購読解除する",
+  "example": "Users can unsubscribe from the mailing list anytime."
+ },
+ {
+  "id": "w1284",
+  "word": "spam filter",
+  "meaning": "迷惑メールフィルター",
+  "example": "The email was blocked by the spam filter."
+ },
+ {
+  "id": "w1285",
+  "word": "SEO strategy",
+  "meaning": "SEO戦略",
+  "example": "The company revised its SEO strategy to boost rankings."
+ },
+ {
+  "id": "w1286",
+  "word": "keyword research",
+  "meaning": "キーワードリサーチ",
+  "example": "Keyword research helps improve search visibility."
+ },
+ {
+  "id": "w1287",
+  "word": "web traffic",
+  "meaning": "ウェブトラフィック",
+  "example": "The new blog post increased web traffic significantly."
+ },
+ {
+  "id": "w1288",
+  "word": "bank teller",
+  "meaning": "銀行窓口係",
+  "example": "The bank teller helped her open a new account."
+ },
+ {
+  "id": "w1289",
+  "word": "checking account",
+  "meaning": "当座預金口座",
+  "example": "He deposited the check into his checking account."
+ },
+ {
+  "id": "w1290",
+  "word": "savings account",
+  "meaning": "普通預金口座",
+  "example": "She keeps her emergency fund in a savings account."
+ },
+ {
+  "id": "w1291",
+  "word": "account statement",
+  "meaning": "口座明細書",
+  "example": "Review your account statement for any errors."
+ },
+ {
+  "id": "w1292",
+  "word": "automatic teller machine",
+  "meaning": "現金自動預け払い機(ATM)",
+  "example": "She withdrew cash from the automatic teller machine."
+ },
+ {
+  "id": "w1293",
+  "word": "direct deposit",
+  "meaning": "口座振込",
+  "example": "Her paycheck is sent via direct deposit."
+ },
+ {
+  "id": "w1294",
+  "word": "online banking",
+  "meaning": "オンラインバンキング",
+  "example": "Online banking makes it easy to pay bills."
+ },
+ {
+  "id": "w1295",
+  "word": "bank statement",
+  "meaning": "銀行取引明細書",
+  "example": "He reviewed his bank statement for suspicious charges."
+ },
+ {
+  "id": "w1296",
+  "word": "routing number",
+  "meaning": "銀行コード",
+  "example": "You will need the routing number to set up direct deposit."
+ },
+ {
+  "id": "w1297",
+  "word": "account number",
+  "meaning": "口座番号",
+  "example": "Enter your account number to complete the transfer."
+ },
+ {
+  "id": "w1298",
+  "word": "joint account",
+  "meaning": "共同口座",
+  "example": "The couple opened a joint account for household expenses."
+ },
+ {
+  "id": "w1299",
+  "word": "certificate of deposit",
+  "meaning": "定期預金証書",
+  "example": "She invested in a certificate of deposit for higher interest."
+ },
+ {
+  "id": "w1300",
+  "word": "compound interest",
+  "meaning": "複利",
+  "example": "Compound interest helps savings grow faster over time."
+ }
+]

@@ -1,0 +1,602 @@
+[
+{
+"id": "w601",
+"pos": "名詞",
+"exampleJa": "その会社は社内に診療所を設置して運営している。",
+"note": "類義語：medical center, health center\n表現：on-site clinic（社内診療所）"
+},
+{
+"id": "w602",
+"pos": "名詞",
+"exampleJa": "症状が続く場合は、医師の診察を受けてください。",
+"note": "類義語：doctor, medical doctor\n表現：see a physician（医師の診察を受ける）"
+},
+{
+"id": "w603",
+"pos": "名詞",
+"exampleJa": "処方箋を薬局に持って行ってください。",
+"note": "類義語：prescription order, doctor's order\n表現：fill a prescription（処方箋に従って薬を調剤してもらう）"
+},
+{
+"id": "w604",
+"pos": "名詞",
+"exampleJa": "その薬局は夜9時まで営業しています。",
+"note": "類義語：drugstore, chemist's\n表現：pharmacy is open（薬局が営業している）"
+},
+{
+"id": "w605",
+"pos": "名詞",
+"exampleJa": "彼女は来週の歯科診察の予約を入れました。",
+"note": "類義語：reservation, booking\n表現：make an appointment（予約をする）"
+},
+{
+"id": "w606",
+"pos": "名詞",
+"exampleJa": "従業員は毎年健康診断を受けます。",
+"note": "類義語：medical examination, physical examination\n表現：annual checkup（年1回の健康診断）"
+},
+{
+"id": "w607",
+"pos": "名詞",
+"exampleJa": "症状があれば、すぐに上司に報告してください。",
+"note": "類義語：sign, indication\n表現：report symptoms（症状を報告する）"
+},
+{
+"id": "w608",
+"pos": "名詞",
+"exampleJa": "診断によって軽度のアレルギーであることが確認されました。",
+"note": "類義語：assessment, identification\n表現：medical diagnosis（医学的診断）"
+},
+{
+"id": "w609",
+"pos": "名詞",
+"exampleJa": "治療は約3週間続きました。",
+"note": "類義語：therapy, care\n表現：receive treatment（治療を受ける）"
+},
+{
+"id": "w610",
+"pos": "名詞",
+"exampleJa": "その薬を食事と一緒に1日2回服用してください。",
+"note": "類義語：medicine, drug\n表現：take medication（薬を服用する）"
+},
+{
+"id": "w611",
+"pos": "名詞",
+"exampleJa": "その薬は軽い副作用を引き起こす可能性があります。",
+"note": "類義語：adverse effect, reaction\n表現：cause side effects（副作用を引き起こす）"
+},
+{
+"id": "w612",
+"pos": "名詞",
+"exampleJa": "海外旅行の前に予防接種を受けることが必要です。",
+"note": "類義語：immunization, inoculation\n表現：receive a vaccination（予防接種を受ける）"
+},
+{
+"id": "w613",
+"pos": "名詞",
+"exampleJa": "そのワクチンはウイルスに対する免疫の形成を助けます。",
+"note": "類義語：resistance, protection\n表現：build immunity（免疫をつける）"
+},
+{
+"id": "w614",
+"pos": "名詞",
+"exampleJa": "彼は先週、2日間の病気休暇を取りました。",
+"note": "類義語：medical leave, absence\n表現：take sick leave（病気休暇を取る）"
+},
+{
+"id": "w615",
+"pos": "名詞",
+"exampleJa": "その会社は全従業員に健康保険を提供しています。",
+"note": "類義語：medical insurance, health coverage\n表現：provide health insurance（健康保険を提供する）"
+},
+{
+"id": "w616",
+"pos": "名詞",
+"exampleJa": "福利厚生パッケージには歯科保険が含まれています。",
+"note": "類義語：dental insurance, dental coverage\n表現：include dental coverage（歯科保険を含む）"
+},
+{
+"id": "w617",
+"pos": "名詞",
+"exampleJa": "その健康促進プログラムには無料のジム利用が含まれています。",
+"note": "類義語：health program, fitness program\n表現：wellness program（健康促進プログラム）"
+},
+{
+"id": "w618",
+"pos": "形容詞",
+"exampleJa": "そのオフィスには人間工学に基づいた椅子が備えられていました。",
+"note": "類義語：user-friendly, human-centered\n派生：ergonomics（名詞：人間工学）"
+},
+{
+"id": "w619",
+"pos": "名詞",
+"exampleJa": "そのワークショップではストレス管理の方法に重点が置かれました。",
+"note": "類義語：stress control, stress reduction\n表現：stress management techniques（ストレス管理の方法）"
+},
+{
+"id": "w620",
+"pos": "名詞",
+"exampleJa": "その食堂では栄養に関する情報を提供しています。",
+"note": "類義語：nourishment, nourishment science\n表現：nutrition information（栄養情報）"
+},
+{
+"id": "w621",
+"pos": "名詞",
+"exampleJa": "彼は週に2回、理学療法を受けています。",
+"note": "類義語：physiotherapy, rehabilitation\n表現：attend physical therapy（理学療法に通う）"
+},
+{
+"id": "w622",
+"pos": "名詞",
+"exampleJa": "救急隊員はすぐに現場に到着しました。",
+"note": "類義語：emergency responder, emergency worker\n表現：first responders（救急対応要員）"
+},
+{
+"id": "w623",
+"pos": "名詞",
+"exampleJa": "その会社は流行病の間、方針を調整しました。",
+"note": "類義語：outbreak, spread\n表現：during an epidemic（流行病の間に）"
+},
+{
+"id": "w624",
+"pos": "名詞・動詞",
+"exampleJa": "旅行者は2週間隔離されました。",
+"note": "類義語：isolation, separation\n表現：under quarantine（隔離下にある）"
+},
+{
+"id": "w625",
+"pos": "名詞",
+"exampleJa": "工場では厳格な衛生対策が実施されました。",
+"note": "類義語：hygiene, cleanliness\n表現：sanitation measures（衛生対策）"
+},
+{
+"id": "w626",
+"pos": "名詞",
+"exampleJa": "消毒剤は各作業場所に用意されています。",
+"note": "類義語：disinfecting agent, antiseptic\n表現：use disinfectant（消毒剤を使用する）"
+},
+{
+"id": "w627",
+"pos": "名詞",
+"exampleJa": "作業員は常に防護具を着用しなければなりません。",
+"note": "類義語：safety gear, protective gear\n表現：wear protective equipment（防護具を着用する）"
+},
+{
+"id": "w628",
+"pos": "名詞",
+"exampleJa": "労働衛生チームは職場の安全を監視しています。",
+"note": "類義語：workplace health, employee health\n表現：occupational health team（労働衛生チーム）"
+},
+{
+"id": "w629",
+"pos": "名詞",
+"exampleJa": "彼は事故の後、障害給付を申請しました。",
+"note": "類義語：disability payment, disability allowance\n表現：apply for a disability benefit（障害給付を申請する）"
+},
+{
+"id": "w630",
+"pos": "名詞",
+"exampleJa": "彼女は現在、産休中です。",
+"note": "類義語：maternity leave of absence, parental leave\n表現：be on maternity leave（産休中である）"
+},
+{
+"id": "w631",
+"pos": "名詞",
+"exampleJa": "その会社は最近、父親の育児休暇を6週間に延長しました。",
+"note": "類義語：paternity leave of absence, parental leave\n表現：extend paternity leave（育休を延長する）"
+},
+{
+"id": "w632",
+"pos": "名詞",
+"exampleJa": "そのオフィスでは従業員向けに社内保育施設を提供しています。",
+"note": "類義語：child care, daycare\n表現：on-site childcare（社内保育）"
+},
+{
+"id": "w633",
+"pos": "名詞",
+"exampleJa": "彼女は高齢患者の介護者として働いています。",
+"note": "類義語：carer, attendant\n表現：work as a caregiver（介護者として働く）"
+},
+{
+"id": "w634",
+"pos": "名詞",
+"exampleJa": "その会社は退職金制度への拠出に同額を上乗せしています。",
+"note": "類義語：pension plan, retirement scheme\n表現：retirement plan contributions（退職制度への拠出）"
+},
+{
+"id": "w635",
+"pos": "名詞",
+"exampleJa": "従業員は401(k)制度に拠出することができます。",
+"note": "類義語：retirement plan, pension plan\n表現：contribute to a 401(k)（401(k)に拠出する）"
+},
+{
+"id": "w636",
+"pos": "名詞",
+"exampleJa": "福利厚生パッケージには生命保険が含まれています。",
+"note": "類義語：life assurance, life coverage\n表現：life insurance policy（生命保険契約）"
+},
+{
+"id": "w637",
+"pos": "名詞",
+"exampleJa": "保険金請求書に記入し、保険会社に提出してください。",
+"note": "類義語：claim document, application form\n表現：fill out a claim form（保険金請求書に記入する）"
+},
+{
+"id": "w638",
+"pos": "名詞",
+"exampleJa": "保険契約者は毎年保険契約を更新しなければなりません。",
+"note": "類義語：insured, policy owner\n表現：renew a policy（保険契約を更新する）"
+},
+{
+"id": "w639",
+"pos": "名詞",
+"exampleJa": "保険数理士が新しい保険契約のリスクを計算しました。",
+"note": "類義語：insurance analyst, risk analyst\n表現：calculate risk（リスクを計算する）"
+},
+{
+"id": "w640",
+"pos": "名詞",
+"exampleJa": "保険料の値上げは多くの保険契約者を驚かせました。",
+"note": "類義語：premium hike, rate increase\n表現：premium increase（保険料の値上げ）"
+},
+{
+"id": "w641",
+"pos": "名詞",
+"exampleJa": "1回の受診につき自己負担金は20ドルです。",
+"note": "類義語：patient payment, shared payment\n表現：make a co-payment（自己負担金を支払う）"
+},
+{
+"id": "w642",
+"pos": "名詞",
+"exampleJa": "自己負担費用には一定の上限があります。",
+"note": "類義語：personal expense, direct expense\n表現：out-of-pocket expenses（自己負担費用）"
+},
+{
+"id": "w643",
+"pos": "名詞",
+"exampleJa": "福利厚生パッケージには健康保険と歯科保険が含まれています。",
+"note": "類義語：benefits package, employee benefits\n表現：benefit package includes（福利厚生パッケージに含まれる）"
+},
+{
+"id": "w644",
+"pos": "名詞",
+"exampleJa": "無料の昼食はここで働く特典の一つです。",
+"note": "類義語：benefit, advantage\n表現：employee perks（従業員向け特典）"
+},
+{
+"id": "w645",
+"pos": "名詞",
+"exampleJa": "従業員は年間の業績に基づいてボーナスを受け取ります。",
+"note": "類義語：bonus payment, reward\n表現：receive a bonus（ボーナスを受け取る）"
+},
+{
+"id": "w646",
+"pos": "名詞・動詞",
+"exampleJa": "彼女は昇進後に昇給を受けました。",
+"note": "類義語：pay increase, salary increase\n表現：receive a raise（昇給を受ける）"
+},
+{
+"id": "w647",
+"pos": "名詞",
+"exampleJa": "彼は上級管理職への昇進を打診されました。",
+"note": "類義語：advancement, advancement in rank\n表現：get a promotion（昇進する）"
+},
+{
+"id": "w648",
+"pos": "名詞",
+"exampleJa": "その降格は従業員にとって驚きでした。",
+"note": "類義語：downgrade, lowering in rank\n表現：receive a demotion（降格される）"
+},
+{
+"id": "w649",
+"pos": "名詞",
+"exampleJa": "勤続年数が増えるにつれて、休暇日数も増えます。",
+"note": "類義語：length of service, tenure\n表現：with seniority（勤続年数に応じて）"
+},
+{
+"id": "w650",
+"pos": "名詞",
+"exampleJa": "組織再編後、彼女の役職名が変わりました。",
+"note": "類義語：position, designation\n表現：change one's job title（役職名を変更する）"
+},
+{
+"id": "w651",
+"pos": "名詞",
+"exampleJa": "工場の屋根に太陽光パネルが設置されました。",
+"note": "類義語：solar module, photovoltaic panel\n表現：install solar panels（太陽光パネルを設置する）"
+},
+{
+"id": "w652",
+"pos": "名詞",
+"exampleJa": "風力タービンは地域の送電網向けに電力を発電します。",
+"note": "類義語：windmill, wind generator\n表現：wind turbine generates electricity（風力タービンが発電する）"
+},
+{
+"id": "w653",
+"pos": "名詞",
+"exampleJa": "その会社は炭素排出量を削減することを目指しています。",
+"note": "類義語：carbon emissions, carbon impact\n表現：reduce one's carbon footprint（炭素排出量を削減する）"
+},
+{
+"id": "w654",
+"pos": "名詞",
+"exampleJa": "新しい規制は温室効果ガスの排出を制限します。",
+"note": "類義語：greenhouse emission, heat-trapping gas\n表現：greenhouse gas emissions（温室効果ガス排出）"
+},
+{
+"id": "w655",
+"pos": "名詞",
+"exampleJa": "そのオフィスは昨年、リサイクルプログラムを開始しました。",
+"note": "類義語：recycling scheme, recycling initiative\n表現：launch a recycling program（リサイクルプログラムを開始する）"
+},
+{
+"id": "w656",
+"pos": "形容詞",
+"exampleJa": "その包装材は生分解性の素材で作られています。",
+"note": "類義語：decomposable, compostable\n派生：biodegrade（動詞：生分解する）"
+},
+{
+"id": "w657",
+"pos": "名詞",
+"exampleJa": "その工場は新しい公害防止設備を導入しました。",
+"note": "類義語：pollution prevention, emission control\n表現：pollution control equipment（公害防止設備）"
+},
+{
+"id": "w658",
+"pos": "名詞",
+"exampleJa": "その会社は地域の保全活動を支援しています。",
+"note": "類義語：preservation, protection\n表現：conservation efforts（保全活動）"
+},
+{
+"id": "w659",
+"pos": "名詞",
+"exampleJa": "その地域は天然資源が豊富です。",
+"note": "類義語：natural asset, resource\n表現：rich in natural resources（天然資源が豊富な）"
+},
+{
+"id": "w660",
+"pos": "名詞",
+"exampleJa": "その会社は化石燃料への依存を減らしています。",
+"note": "類義語：coal and oil, conventional fuel\n表現：reliance on fossil fuels（化石燃料への依存）"
+},
+{
+"id": "w661",
+"pos": "名詞",
+"exampleJa": "政府はクリーンエネルギー事業に多額の投資をしています。",
+"note": "類義語：renewable energy, green energy\n表現：clean energy projects（クリーンエネルギー事業）"
+},
+{
+"id": "w662",
+"pos": "名詞",
+"exampleJa": "その新しい建物はエネルギー効率を考慮して設計されました。",
+"note": "類義語：energy conservation, energy performance\n表現：improve energy efficiency（エネルギー効率を改善する）"
+},
+{
+"id": "w663",
+"pos": "名詞",
+"exampleJa": "嵐によって送電網が損傷しました。",
+"note": "類義語：electric grid, electrical network\n表現：damage the power grid（送電網を損傷させる）"
+},
+{
+"id": "w664",
+"pos": "名詞",
+"exampleJa": "公益事業会社は料金の値上げを発表しました。",
+"note": "類義語：public utility, utility provider\n表現：utility company（公益事業会社）"
+},
+{
+"id": "w665",
+"pos": "名詞",
+"exampleJa": "停電中も予備発電機によって照明が維持されました。",
+"note": "類義語：power generator, dynamo\n表現：backup generator（予備発電機）"
+},
+{
+"id": "w666",
+"pos": "名詞",
+"exampleJa": "その自動車組立工場では1,000人を超える従業員が働いています。",
+"note": "類義語：assembly factory, manufacturing plant\n表現：assembly plant（組立工場）"
+},
+{
+"id": "w667",
+"pos": "名詞",
+"exampleJa": "生産ラインは新しい機械設備によって改良されました。",
+"note": "類義語：manufacturing line, assembly line\n表現：production line（生産ライン）"
+},
+{
+"id": "w668",
+"pos": "名詞",
+"exampleJa": "生データは分析前に整理する必要があります。",
+"note": "類義語：original data, unprocessed data\n表現：raw data（未処理のデータ）"
+},
+{
+"id": "w669",
+"pos": "名詞",
+"exampleJa": "製品は包装のためにコンベアベルト上を移動します。",
+"note": "類義語：conveyor, moving belt\n表現：conveyor belt（コンベアベルト）"
+},
+{
+"id": "w670",
+"pos": "名詞",
+"exampleJa": "認定を受けた従業員だけがフォークリフトを操作できます。",
+"note": "類義語：lift truck, forklift truck\n表現：operate a forklift（フォークリフトを操作する）"
+},
+{
+"id": "w671",
+"pos": "名詞",
+"exampleJa": "商品は出荷のためにパレットの上に積み重ねられます。",
+"note": "類義語：shipping platform, skid\n表現：stack goods on pallets（商品をパレットに積む）"
+},
+{
+"id": "w672",
+"pos": "名詞",
+"exampleJa": "コンテナ船は予定どおり港に到着しました。",
+"note": "類義語：freighter, cargo ship\n表現：container ship（コンテナ船）"
+},
+{
+"id": "w673",
+"pos": "名詞",
+"exampleJa": "貨物は倉庫を出る前に検査されました。",
+"note": "類義語：freight, goods\n表現：cargo was inspected（貨物が検査された）"
+},
+{
+"id": "w674",
+"pos": "名詞",
+"exampleJa": "輸入関税によって貨物の輸送費用が増加しました。",
+"note": "類義語：import tariff, customs duty\n表現：pay import duties（輸入関税を支払う）"
+},
+{
+"id": "w675",
+"pos": "名詞",
+"exampleJa": "特定の商品には輸出許可証が必要です。",
+"note": "類義語：export permit, shipping license\n表現：require an export license（輸出許可証を必要とする）"
+},
+{
+"id": "w676",
+"pos": "名詞",
+"exampleJa": "その貿易協定によって両国間の関税が引き下げられました。",
+"note": "類義語：trade pact, commercial agreement\n表現：trade agreement（貿易協定）"
+},
+{
+"id": "w677",
+"pos": "名詞",
+"exampleJa": "その工場は自由貿易地帯にあります。",
+"note": "類義語：free zone, free-trade area\n表現：free trade zone（自由貿易地帯）"
+},
+{
+"id": "w678",
+"pos": "名詞",
+"exampleJa": "船荷証券には貨物の詳細が記載されています。",
+"note": "類義語：shipping document, freight document\n表現：bill of lading（船荷証券）"
+},
+{
+"id": "w679",
+"pos": "名詞",
+"exampleJa": "通関業者が輸入書類を処理しました。",
+"note": "類義語：customs agent, customs representative\n表現：customs broker（通関業者）"
+},
+{
+"id": "w680",
+"pos": "名詞",
+"exampleJa": "港湾局はすべての海運活動を規制しています。",
+"note": "類義語：harbor authority, port administration\n表現：port authority（港湾局）"
+},
+{
+"id": "w681",
+"pos": "名詞",
+"exampleJa": "新しいソフトウェアによって倉庫管理が改善されました。",
+"note": "類義語：warehouse administration, inventory management\n表現：warehouse management system（倉庫管理システム）"
+},
+{
+"id": "w682",
+"pos": "名詞",
+"exampleJa": "在庫水準は毎週確認されます。",
+"note": "類義語：inventory level, stock quantity\n表現：check stock levels（在庫水準を確認する）"
+},
+{
+"id": "w683",
+"pos": "名詞",
+"exampleJa": "システムは発注点に達すると自動的に在庫を追加発注します。",
+"note": "類義語：replenishment point, reorder threshold\n表現：reach the reorder point（発注点に達する）"
+},
+{
+"id": "w684",
+"pos": "名詞",
+"exampleJa": "安全在庫は需要が急増した際の品不足を防ぐのに役立ちます。",
+"note": "類義語：buffer stock, reserve stock\n表現：maintain safety stock（安全在庫を維持する）"
+},
+{
+"id": "w685",
+"pos": "名詞",
+"exampleJa": "需要予測は生産スケジュールの計画に役立ちます。",
+"note": "類義語：demand prediction, sales forecasting\n表現：demand forecasting（需要予測）"
+},
+{
+"id": "w686",
+"pos": "名詞",
+"exampleJa": "仕入先管理は信頼できるサプライチェーンを確保します。",
+"note": "類義語：supplier management, vendor administration\n表現：vendor management（仕入先管理）"
+},
+{
+"id": "w687",
+"pos": "名詞",
+"exampleJa": "品質保証チームはすべてのロットを検査します。",
+"note": "類義語：quality control, quality management\n表現：quality assurance team（品質保証チーム）"
+},
+{
+"id": "w688",
+"pos": "名詞",
+"exampleJa": "新しい工程が導入された後、不良率が低下しました。",
+"note": "類義語：failure rate, reject rate\n表現：reduce the defect rate（不良率を下げる）"
+},
+{
+"id": "w689",
+"pos": "名詞",
+"exampleJa": "出荷前に抜き取り検査が実施されます。",
+"note": "類義語：random inspection, spot check\n表現：conduct a sample inspection（抜き取り検査を行う）"
+},
+{
+"id": "w690",
+"pos": "名詞",
+"exampleJa": "その装置には定期的な校正が必要です。",
+"note": "類義語：adjustment, standardization\n派生：calibrate（動詞：校正する）\n表現：regular calibration（定期的な校正）"
+},
+{
+"id": "w691",
+"pos": "名詞",
+"exampleJa": "部品は厳しい許容範囲内で製造されなければなりません。",
+"note": "類義語：acceptable range, margin\n表現：within tolerance（許容範囲内で）"
+},
+{
+"id": "w692",
+"pos": "名詞",
+"exampleJa": "リーン生産方式は生産工程における無駄を減らします。",
+"note": "類義語：lean production, efficient manufacturing\n表現：lean manufacturing（リーン生産方式）"
+},
+{
+"id": "w693",
+"pos": "名詞",
+"exampleJa": "チームはコスト削減のためにプロセス改善に取り組みました。",
+"note": "類義語：process enhancement, workflow improvement\n表現：focus on process improvement（プロセス改善に重点を置く）"
+},
+{
+"id": "w694",
+"pos": "名詞",
+"exampleJa": "根本原因分析によって不具合の原因が明らかになりました。",
+"note": "類義語：cause analysis, failure analysis\n表現：conduct a root cause analysis（根本原因分析を行う）"
+},
+{
+"id": "w695",
+"pos": "名詞",
+"exampleJa": "継続的改善は会社の中核的な価値観です。",
+"note": "類義語：ongoing improvement, continual improvement\n表現：continuous improvement（継続的改善）"
+},
+{
+"id": "w696",
+"pos": "名詞",
+"exampleJa": "常に標準作業手順に従ってください。",
+"note": "類義語：standard procedure, operating protocol\n表現：follow the standard operating procedure（標準作業手順に従う）"
+},
+{
+"id": "w697",
+"pos": "名詞",
+"exampleJa": "作業指示書には工程の各手順が記載されています。",
+"note": "類義語：work directive, operating instruction\n表現：work instruction（作業指示書）"
+},
+{
+"id": "w698",
+"pos": "名詞",
+"exampleJa": "稼働停止報告書には2時間の遅延が示されていました。",
+"note": "類義語：shutdown report, outage report\n表現：downtime report（稼働停止報告書）"
+},
+{
+"id": "w699",
+"pos": "名詞",
+"exampleJa": "予防保全は故障のリスクを減らします。",
+"note": "類義語：preventive servicing, routine maintenance\n表現：preventive maintenance（予防保全）"
+},
+{
+"id": "w700",
+"pos": "名詞",
+"exampleJa": "予備部品は迅速な修理のために在庫として保管されています。",
+"note": "類義語：replacement part, reserve part\n表現：keep spare parts in stock（予備部品を在庫として保管する）"
+}
+]

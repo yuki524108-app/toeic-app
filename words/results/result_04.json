@@ -1,0 +1,602 @@
+[
+{
+"id": "w301",
+"pos": "名詞",
+"exampleJa": "各営業担当者には達成すべき月間ノルマがあります。",
+"note": "類義語：target, goal\n表現：meet a quota（ノルマを達成する）"
+},
+{
+"id": "w302",
+"pos": "名詞",
+"exampleJa": "営業スタッフは販売1件ごとに歩合を受け取ります。",
+"note": "類義語：commission, percentage\n派生：commission（動詞：委託する）\n表現：earn a commission（歩合を得る）"
+},
+{
+"id": "w303",
+"pos": "名詞",
+"exampleJa": "営業チームは新しい見込み客をフォローアップしています。",
+"note": "類義語：potential customer, candidate\n表現：a sales prospect（販売見込み客）"
+},
+{
+"id": "w304",
+"pos": "名詞句",
+"exampleJa": "マーケティングチームは今四半期、見込み客の獲得に重点を置いています。",
+"note": "類義語：customer acquisition, prospecting\n表現：lead generation campaign（見込み客獲得キャンペーン）"
+},
+{
+"id": "w305",
+"pos": "名詞句",
+"exampleJa": "ウェブサイトの再設計後、成約率が向上しました。",
+"note": "類義語：conversion percentage, success rate\n表現：improve the conversion rate（成約率を改善する）"
+},
+{
+"id": "w306",
+"pos": "名詞句",
+"exampleJa": "顧客は当社のロイヤルティプログラムを通じてポイントを貯めることができます。",
+"note": "類義語：rewards program, loyalty scheme\n表現：join a loyalty program（ロイヤルティプログラムに参加する）"
+},
+{
+"id": "w307",
+"pos": "名詞",
+"exampleJa": "顧客維持は重要な事業上の優先事項です。",
+"note": "類義語：preservation, maintenance\n派生：retain（動詞：維持する、保持する）\n表現：customer retention（顧客維持）"
+},
+{
+"id": "w308",
+"pos": "名詞句",
+"exampleJa": "その会社は顧客の解約率を下げることを目指しています。",
+"note": "類義語：attrition rate, cancellation rate\n表現：reduce the churn rate（解約率を下げる）"
+},
+{
+"id": "w309",
+"pos": "名詞句",
+"exampleJa": "その新興企業は環境意識の高い消費者というニッチ市場を対象にしています。",
+"note": "類義語：specialized market, narrow market\n表現：target a niche market（ニッチ市場を狙う）"
+},
+{
+"id": "w310",
+"pos": "名詞句",
+"exampleJa": "市場調査によって、その製品への強い需要が示されました。",
+"note": "類義語：market analysis, market study\n表現：conduct market research（市場調査を行う）"
+},
+{
+"id": "w311",
+"pos": "名詞句",
+"exampleJa": "フォーカスグループが新しいパッケージデザインを試しました。",
+"note": "類義語：discussion group, consumer panel\n表現：conduct a focus group（フォーカスグループを実施する）"
+},
+{
+"id": "w312",
+"pos": "名詞句",
+"exampleJa": "その試験的なプログラムは3か月間実施されます。",
+"note": "類義語：trial program, experimental program\n表現：launch a pilot program（試験的プログラムを開始する）"
+},
+{
+"id": "w313",
+"pos": "名詞",
+"exampleJa": "全国展開は次の四半期に始まります。",
+"note": "類義語：deployment, introduction\n表現：nationwide rollout（全国展開）"
+},
+{
+"id": "w314",
+"pos": "形容詞",
+"exampleJa": "そのソフトウェアソリューションは非常に拡張性があります。",
+"note": "類義語：expandable, extensible\n派生：scale（動詞：規模を拡大する）\n表現：highly scalable（高い拡張性を持つ）"
+},
+{
+"id": "w315",
+"pos": "名詞",
+"exampleJa": "その会社は新しいITインフラに投資しました。",
+"note": "類義語：foundation, framework\n表現：IT infrastructure（IT基盤）"
+},
+{
+"id": "w316",
+"pos": "名詞",
+"exampleJa": "新しいシステムの展開には2週間かかりました。",
+"note": "類義語：deployment, installation\n派生：deploy（動詞：配備する、展開する）\n表現：system deployment（システムの展開）"
+},
+{
+"id": "w317",
+"pos": "名詞",
+"exampleJa": "システム統合によって、部署間でデータを円滑にやり取りできます。",
+"note": "類義語：combination, consolidation\n派生：integrate（動詞：統合する）\n表現：system integration（システム統合）"
+},
+{
+"id": "w318",
+"pos": "名詞",
+"exampleJa": "新しいインターフェースは顧客にとって使いやすくなっています。",
+"note": "類義語：connection, gateway\n表現：user interface（ユーザーインターフェース）"
+},
+{
+"id": "w319",
+"pos": "名詞句",
+"exampleJa": "再設計によって全体的なユーザー体験が改善されました。",
+"note": "類義語：user interaction, customer experience\n表現：improve user experience（ユーザー体験を改善する）"
+},
+{
+"id": "w320",
+"pos": "名詞",
+"exampleJa": "その更新によっていくつかの新しい機能が追加されました。",
+"note": "類義語：function, capability\n派生：functional（形容詞：機能的な）\n表現：new functionality（新しい機能）"
+},
+{
+"id": "w321",
+"pos": "名詞",
+"exampleJa": "インストールする前にソフトウェアの互換性を確認してください。",
+"note": "類義語：interoperability, suitability\n派生：compatible（形容詞：互換性のある）\n表現：software compatibility（ソフトウェアの互換性）"
+},
+{
+"id": "w322",
+"pos": "名詞",
+"exampleJa": "予定されたメンテナンスによって短時間の稼働停止が発生する可能性があります。",
+"note": "類義語：outage, inactivity\n表現：scheduled downtime（予定された停止時間）"
+},
+{
+"id": "w323",
+"pos": "名詞",
+"exampleJa": "そのサーバーの稼働率は99.9パーセントです。",
+"note": "類義語：operating time, availability\n表現：server uptime（サーバー稼働時間）"
+},
+{
+"id": "w324",
+"pos": "名詞",
+"exampleJa": "高い遅延によってビデオ通話が遅くなりました。",
+"note": "類義語：delay, lag\n表現：high latency（高い遅延）"
+},
+{
+"id": "w325",
+"pos": "名詞句",
+"exampleJa": "すべてのファイルがクラウドストレージにバックアップされます。",
+"note": "類義語：online storage, cloud backup\n表現：cloud storage service（クラウドストレージサービス）"
+},
+{
+"id": "w326",
+"pos": "名詞句",
+"exampleJa": "その会社は先月、データ漏えいを報告しました。",
+"note": "類義語：data leak, security breach\n表現：report a data breach（データ漏えいを報告する）"
+},
+{
+"id": "w327",
+"pos": "名詞",
+"exampleJa": "その会社はシステムを保護するためにサイバーセキュリティの専門家を雇いました。",
+"note": "類義語：computer security, information security\n表現：cybersecurity expert（サイバーセキュリティ専門家）"
+},
+{
+"id": "w328",
+"pos": "名詞",
+"exampleJa": "ファイアウォールはネットワークへの不正アクセスを遮断します。",
+"note": "類義語：security barrier, network filter\n表現：firewall protection（ファイアウォールによる保護）"
+},
+{
+"id": "w329",
+"pos": "名詞",
+"exampleJa": "二要素認証によってセキュリティがさらに強化されます。",
+"note": "類義語：verification, identity verification\n派生：authenticate（動詞：認証する）\n表現：two-factor authentication（二要素認証）"
+},
+{
+"id": "w330",
+"pos": "名詞",
+"exampleJa": "システムにアクセスするにはログイン認証情報を入力してください。",
+"note": "類義語：login information, access information\n表現：login credentials（ログイン認証情報）"
+},
+{
+"id": "w331",
+"pos": "名詞",
+"exampleJa": "そのアルゴリズムは顧客の好みを予測します。",
+"note": "類義語：procedure, formula\n表現：develop an algorithm（アルゴリズムを開発する）"
+},
+{
+"id": "w332",
+"pos": "名詞",
+"exampleJa": "自動化によって手作業によるデータ入力のミスが減りました。",
+"note": "類義語：mechanization, automatic operation\n派生：automate（動詞：自動化する）\n表現：process automation（業務の自動化）"
+},
+{
+"id": "w333",
+"pos": "名詞句",
+"exampleJa": "その会社はデータ分析に人工知能を利用しています。",
+"note": "類義語：AI, machine intelligence\n表現：artificial intelligence technology（人工知能技術）"
+},
+{
+"id": "w334",
+"pos": "名詞句",
+"exampleJa": "機械学習は売上動向の予測に役立ちます。",
+"note": "類義語：ML, automated learning\n表現：machine learning model（機械学習モデル）"
+},
+{
+"id": "w335",
+"pos": "名詞句",
+"exampleJa": "今年、原材料の価格が急激に上昇しました。",
+"note": "類義語：basic material, input material\n表現：raw material costs（原材料費）"
+},
+{
+"id": "w336",
+"pos": "名詞",
+"exampleJa": "その製品の組み立てには約1時間かかります。",
+"note": "類義語：construction, putting together\n派生：assemble（動詞：組み立てる）\n表現：product assembly（製品の組み立て）"
+},
+{
+"id": "w337",
+"pos": "名詞",
+"exampleJa": "新しい機械を設置した後、工場の生産量が増加しました。",
+"note": "類義語：production, production volume\n表現：factory output（工場の生産量）"
+},
+{
+"id": "w338",
+"pos": "名詞",
+"exampleJa": "新しいシステムによってデータ処理能力が大幅に向上しました。",
+"note": "類義語：processing capacity, processing rate\n表現：data throughput（データ処理能力）"
+},
+{
+"id": "w339",
+"pos": "名詞",
+"exampleJa": "今年、その投資の利回りは予想を上回りました。",
+"note": "類義語：return, production\n表現：investment yield（投資利回り）"
+},
+{
+"id": "w340",
+"pos": "形容詞",
+"exampleJa": "古い設備はアップグレード後に時代遅れになりました。",
+"note": "類義語：outdated, antiquated\n派生：obsolescence（名詞：陳腐化）\n表現：become obsolete（時代遅れになる）"
+},
+{
+"id": "w341",
+"pos": "動詞",
+"exampleJa": "古いオフィスビルは昨年改修されました。",
+"note": "類義語：renovate, restore\n派生：refurbishment（名詞：改修）\n表現：refurbish a building（建物を改修する）"
+},
+{
+"id": "w342",
+"pos": "形容詞",
+"exampleJa": "その包装は耐久性があり、再利用できるように設計されています。",
+"note": "類義語：long-lasting, sturdy\n派生：durability（名詞：耐久性）\n表現：durable packaging（耐久性のある包装）"
+},
+{
+"id": "w343",
+"pos": "形容詞",
+"exampleJa": "壊れやすい品物は発送中、特に注意して扱ってください。",
+"note": "類義語：delicate, breakable\n派生：fragility（名詞：壊れやすさ）\n表現：fragile items（壊れやすい品物）"
+},
+{
+"id": "w344",
+"pos": "形容詞",
+"exampleJa": "腐りやすい商品は速やかに発送しなければなりません。",
+"note": "類義語：spoiling, short-lived\n派生：perish（動詞：腐る、消滅する）\n表現：perishable goods（生鮮品）"
+},
+{
+"id": "w345",
+"pos": "名詞句",
+"exampleJa": "製品を使用する前に有効期限を確認してください。",
+"note": "類義語：expiry date, use-by date\n表現：check the expiration date（有効期限を確認する）"
+},
+{
+"id": "w346",
+"pos": "名詞句",
+"exampleJa": "新しい包装によって製品の保存期間が延びます。",
+"note": "類義語：storage life, usable period\n表現：extend shelf life（保存期間を延ばす）"
+},
+{
+"id": "w347",
+"pos": "名詞",
+"exampleJa": "その工場は大量の製品を一括で生産します。",
+"note": "類義語：lot, group\n表現：produce in batches（ロット単位で生産する）"
+},
+{
+"id": "w348",
+"pos": "名詞句",
+"exampleJa": "技術的な詳細については仕様書を参照してください。",
+"note": "類義語：specification document, technical sheet\n表現：refer to the specification sheet（仕様書を参照する）"
+},
+{
+"id": "w349",
+"pos": "名詞句",
+"exampleJa": "試作品のテストによっていくつかの設計上の欠陥が明らかになりました。",
+"note": "類義語：prototype evaluation, prototype trial\n表現：conduct prototype testing（試作品テストを行う）"
+},
+{
+"id": "w350",
+"pos": "名詞・動詞",
+"exampleJa": "その会社は新しい発明について特許を出願しました。",
+"note": "類義語：patent right, invention protection\n表現：file a patent（特許を出願する）"
+},
+{
+"id": "w351",
+"pos": "名詞",
+"exampleJa": "そのロゴは会社の登録商標です。",
+"note": "類義語：brand name, brand mark\n表現：registered trademark（登録商標）"
+},
+{
+"id": "w352",
+"pos": "名詞",
+"exampleJa": "その記事は著作権法によって保護されています。",
+"note": "類義語：author's rights, intellectual rights\n派生：copyrighted（形容詞：著作権で保護された）\n表現：copyright law（著作権法）"
+},
+{
+"id": "w353",
+"pos": "名詞句",
+"exampleJa": "その会社は知的財産の保護を重視しています。",
+"note": "類義語：intellectual assets, intangible assets\n表現：intellectual property protection（知的財産保護）"
+},
+{
+"id": "w354",
+"pos": "名詞",
+"exampleJa": "その著者は本が1冊売れるごとに印税を受け取ります。",
+"note": "類義語：payment, licensing payment\n表現：receive a royalty（印税を受け取る）"
+},
+{
+"id": "w355",
+"pos": "名詞句",
+"exampleJa": "その会社はソフトウェアの年間ライセンス料を支払っています。",
+"note": "類義語：license charge, licensing cost\n表現：pay a licensing fee（ライセンス料を支払う）"
+},
+{
+"id": "w356",
+"pos": "名詞句",
+"exampleJa": "その2社は市場に参入するために合弁事業を設立しました。",
+"note": "類義語：joint enterprise, business venture\n表現：form a joint venture（合弁事業を設立する）"
+},
+{
+"id": "w357",
+"pos": "名詞",
+"exampleJa": "その2社の提携は成功を収めました。",
+"note": "類義語：collaboration, cooperation\n表現：business partnership（事業提携）"
+},
+{
+"id": "w358",
+"pos": "名詞",
+"exampleJa": "その航空会社は戦略的提携を結びました。",
+"note": "類義語：partnership, coalition\n表現：strategic alliance（戦略的提携）"
+},
+{
+"id": "w359",
+"pos": "名詞句",
+"exampleJa": "その新興企業はベンチャーキャピタルから資金提供を受けました。",
+"note": "類義語：venture funding, private investment\n表現：venture capital funding（ベンチャーキャピタルによる資金調達）"
+},
+{
+"id": "w360",
+"pos": "名詞句",
+"exampleJa": "その会社は試作品を開発するためにシード資金を調達しました。",
+"note": "類義語：seed capital, startup funding\n表現：raise seed funding（シード資金を調達する）"
+},
+{
+"id": "w361",
+"pos": "名詞句",
+"exampleJa": "エンジェル投資家が初期資金を提供しました。",
+"note": "類義語：private investor, individual investor\n表現：angel investor（個人の初期投資家）"
+},
+{
+"id": "w362",
+"pos": "名詞",
+"exampleJa": "そのプロジェクトはクラウドファンディングによって資金を調達しました。",
+"note": "類義語：crowd financing, public fundraising\n表現：raise money through crowdfunding（クラウドファンディングで資金を集める）"
+},
+{
+"id": "w363",
+"pos": "名詞",
+"exampleJa": "その新興企業は最初の2年間で急速に成長しました。",
+"note": "類義語：new company, emerging company\n表現：startup company（新興企業）"
+},
+{
+"id": "w364",
+"pos": "名詞",
+"exampleJa": "その起業家は30歳になる前に3社を立ち上げました。",
+"note": "類義語：business founder, businessperson\n派生：entrepreneurship（名詞：起業家精神）\n表現：successful entrepreneur（成功した起業家）"
+},
+{
+"id": "w365",
+"pos": "名詞",
+"exampleJa": "革新がその会社の長期的な成長を促進します。",
+"note": "類義語：innovation, novelty\n派生：innovate（動詞：革新する）\n表現：drive innovation（革新を促進する）"
+},
+{
+"id": "w366",
+"pos": "形容詞",
+"exampleJa": "その革新的な技術は業界全体を変えました。",
+"note": "類義語：transformative, groundbreaking\n派生：disrupt（動詞：大きく変革する）\n表現：disruptive technology（破壊的技術）"
+},
+{
+"id": "w367",
+"pos": "動詞",
+"exampleJa": "その会社はビジネスモデルの方向転換を決定しました。",
+"note": "類義語：change direction, redirect\n派生：pivot（名詞：方向転換）\n表現：pivot a business model（ビジネスモデルの方向転換をする）"
+},
+{
+"id": "w368",
+"pos": "動詞句",
+"exampleJa": "その会社は来年、生産規模を拡大する予定です。",
+"note": "類義語：expand, increase capacity\n表現：scale up production（生産規模を拡大する）"
+},
+{
+"id": "w369",
+"pos": "名詞",
+"exampleJa": "その会社は海外展開の計画を発表しました。",
+"note": "類義語：growth, enlargement\n派生：expand（動詞：拡大する）\n表現：overseas expansion（海外展開）"
+},
+{
+"id": "w370",
+"pos": "動詞",
+"exampleJa": "その会社はリスクを減らすために製品ラインを多様化しました。",
+"note": "類義語：broaden, vary\n派生：diversification（名詞：多様化）\n表現：diversify a product line（製品ラインを多様化する）"
+},
+{
+"id": "w371",
+"pos": "名詞句",
+"exampleJa": "ポートフォリオ管理はリスクと収益のバランスを取るのに役立ちます。",
+"note": "類義語：asset management, investment management\n表現：portfolio management（ポートフォリオ管理）"
+},
+{
+"id": "w372",
+"pos": "名詞句",
+"exampleJa": "投資の前にリスク評価が実施されました。",
+"note": "類義語：risk analysis, risk evaluation\n表現：conduct a risk assessment（リスク評価を実施する）"
+},
+{
+"id": "w373",
+"pos": "名詞句",
+"exampleJa": "その会社は供給遅延に備えて緊急時対応計画を作成しました。",
+"note": "類義語：emergency plan, backup plan\n表現：prepare a contingency plan（緊急時対応計画を準備する）"
+},
+{
+"id": "w374",
+"pos": "動詞",
+"exampleJa": "財務への影響を軽減するための措置が取られました。",
+"note": "類義語：reduce, lessen\n派生：mitigation（名詞：軽減）\n表現：mitigate the impact（影響を軽減する）"
+},
+{
+"id": "w375",
+"pos": "名詞",
+"exampleJa": "監査によって、システム内のセキュリティ上の脆弱性が特定されました。",
+"note": "類義語：weakness, susceptibility\n派生：vulnerable（形容詞：脆弱な）\n表現：security vulnerability（セキュリティ上の脆弱性）"
+},
+{
+"id": "w376",
+"pos": "名詞",
+"exampleJa": "その会社は景気後退の間も回復力を示しました。",
+"note": "類義語：toughness, adaptability\n派生：resilient（形容詞：回復力のある）\n表現：show resilience（回復力を示す）"
+},
+{
+"id": "w377",
+"pos": "名詞",
+"exampleJa": "景気後退の間、多くの企業が苦境に陥りました。",
+"note": "類義語：economic decline, downturn\n表現：during a recession（景気後退の間に）"
+},
+{
+"id": "w378",
+"pos": "名詞",
+"exampleJa": "インフレの上昇によって原材料費が増加しました。",
+"note": "類義語：price increase, price inflation\n派生：inflate（動詞：膨らませる、インフレにする）\n表現：rising inflation（進行するインフレ）"
+},
+{
+"id": "w379",
+"pos": "名詞句",
+"exampleJa": "アナリストは毎月、複数の経済指標を追跡しています。",
+"note": "類義語：economic measure, economic statistic\n表現：track economic indicators（経済指標を追跡する）"
+},
+{
+"id": "w380",
+"pos": "名詞句",
+"exampleJa": "その国の貿易赤字は昨年拡大しました。",
+"note": "類義語：trade shortfall, negative trade balance\n表現：widen a trade deficit（貿易赤字を拡大させる）"
+},
+{
+"id": "w381",
+"pos": "名詞句",
+"exampleJa": "今年、国内総生産は2パーセント成長しました。",
+"note": "類義語：GDP, national output\n表現：gross domestic product growth（国内総生産の成長）"
+},
+{
+"id": "w382",
+"pos": "名詞句",
+"exampleJa": "失業率は数年ぶりの低水準まで低下しました。",
+"note": "類義語：jobless rate, unemployment level\n表現：unemployment rate falls（失業率が低下する）"
+},
+{
+"id": "w383",
+"pos": "名詞句",
+"exampleJa": "労働組合はより良い労働条件について交渉しました。",
+"note": "類義語：trade union, workers' union\n表現：labor union negotiations（労働組合との交渉）"
+},
+{
+"id": "w384",
+"pos": "名詞句",
+"exampleJa": "団体交渉の結果、新しい賃金協定が成立しました。",
+"note": "類義語：union negotiation, collective negotiation\n表現：collective bargaining agreement（団体交渉協定）"
+},
+{
+"id": "w385",
+"pos": "名詞・動詞",
+"exampleJa": "労働者たちは賃上げを求めてストライキを行いました。",
+"note": "類義語：walkout, work stoppage\n派生：strike（動詞：ストライキをする）\n表現：go on strike（ストライキを行う）"
+},
+{
+"id": "w386",
+"pos": "名詞",
+"exampleJa": "従業員は人事部に苦情を申し立てることができます。",
+"note": "類義語：complaint, objection\n表現：file a grievance（苦情を申し立てる）"
+},
+{
+"id": "w387",
+"pos": "名詞句",
+"exampleJa": "すべての従業員は会社のハラスメント防止方針に従わなければなりません。",
+"note": "類義語：anti-harassment policy, workplace policy\n表現：follow a harassment policy（ハラスメント防止方針に従う）"
+},
+{
+"id": "w388",
+"pos": "名詞句",
+"exampleJa": "その会社は多様性と包括性に関する取り組みを開始しました。",
+"note": "類義語：inclusion and diversity, workplace inclusion\n表現：diversity and inclusion initiative（多様性と包括性に関する取り組み）"
+},
+{
+"id": "w389",
+"pos": "名詞句",
+"exampleJa": "その会社は健全なワークライフバランスを推進しています。",
+"note": "類義語：work-life harmony, balanced lifestyle\n表現：promote work-life balance（ワークライフバランスを推進する）"
+},
+{
+"id": "w390",
+"pos": "名詞",
+"exampleJa": "従業員は自分に合ったフレックスタイムの勤務時間を選べます。",
+"note": "類義語：flexible hours, flexible scheduling\n表現：flextime hours（フレックスタイム制の勤務時間）"
+},
+{
+"id": "w391",
+"pos": "動詞",
+"exampleJa": "多くの従業員が週に2日、在宅勤務をしています。",
+"note": "類義語：work remotely, work from home\n派生：telecommuting（名詞：在宅勤務）\n表現：telecommute two days a week（週2日在宅勤務する）"
+},
+{
+"id": "w392",
+"pos": "名詞句",
+"exampleJa": "その会社は昨年、リモートワークの方針を採用しました。",
+"note": "類義語：telework, remote employment\n表現：remote work policy（リモートワーク方針）"
+},
+{
+"id": "w393",
+"pos": "名詞",
+"exampleJa": "彼女はプロジェクトで同僚とよく協力しています。",
+"note": "類義語：colleague, associate\n表現：work with a co-worker（同僚と働く）"
+},
+{
+"id": "w394",
+"pos": "名詞句",
+"exampleJa": "その会社はチームビルディングのイベントを企画しました。",
+"note": "類義語：team development, team bonding\n表現：team building event（チームビルディングイベント）"
+},
+{
+"id": "w395",
+"pos": "名詞",
+"exampleJa": "新しい方針が導入された後、従業員の士気が向上しました。",
+"note": "類義語：spirit, enthusiasm\n派生：morale-boosting（形容詞：士気を高める）\n表現：employee morale（従業員の士気）"
+},
+{
+"id": "w396",
+"pos": "名詞句",
+"exampleJa": "仕事の満足度に関する調査は毎年実施されます。",
+"note": "類義語：job fulfillment, employee satisfaction\n表現：job satisfaction survey（仕事満足度調査）"
+},
+{
+"id": "w397",
+"pos": "名詞",
+"exampleJa": "過度な残業は従業員の燃え尽き症候群につながる可能性があります。",
+"note": "類義語：exhaustion, occupational burnout\n表現：employee burnout（従業員の燃え尽き）"
+},
+{
+"id": "w398",
+"pos": "名詞",
+"exampleJa": "その管理職はチーム内で仕事量を再配分しました。",
+"note": "類義語：amount of work, workload burden\n表現：manage the workload（仕事量を管理する）"
+},
+{
+"id": "w399",
+"pos": "動詞",
+"exampleJa": "彼女は忙しい時期でも効率よく複数の作業を同時にこなせます。",
+"note": "類義語：juggle tasks, handle multiple tasks\n派生：multitasking（名詞：複数作業の同時処理）\n表現：multitask efficiently（効率よく複数の作業をこなす）"
+},
+{
+"id": "w400",
+"pos": "動詞",
+"exampleJa": "まず緊急の仕事を優先すべきです。",
+"note": "類義語：rank, order\n派生：priority（名詞：優先事項）\n表現：prioritize tasks（仕事に優先順位をつける）"
+}
+]

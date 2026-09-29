@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w101",
+  "word": "conference call",
+  "meaning": "電話会議",
+  "example": "We scheduled a conference call with the overseas office."
+ },
+ {
+  "id": "w102",
+  "word": "videoconference",
+  "meaning": "ビデオ会議",
+  "example": "The interview will be held via videoconference."
+ },
+ {
+  "id": "w103",
+  "word": "attendee",
+  "meaning": "参加者",
+  "example": "All attendees must register in advance."
+ },
+ {
+  "id": "w104",
+  "word": "keynote speaker",
+  "meaning": "基調講演者",
+  "example": "The keynote speaker discussed future market trends."
+ },
+ {
+  "id": "w105",
+  "word": "panel discussion",
+  "meaning": "パネルディスカッション",
+  "example": "A panel discussion will follow the presentation."
+ },
+ {
+  "id": "w106",
+  "word": "venue",
+  "meaning": "会場",
+  "example": "The venue for the conference was changed at the last minute."
+ },
+ {
+  "id": "w107",
+  "word": "RSVP",
+  "meaning": "出欠の返事",
+  "example": "Please RSVP by the end of this week."
+ },
+ {
+  "id": "w108",
+  "word": "host",
+  "meaning": "主催する、司会者",
+  "example": "The company will host a networking event next month."
+ },
+ {
+  "id": "w109",
+  "word": "facilitate",
+  "meaning": "促進する、円滑にする",
+  "example": "The consultant will facilitate the workshop."
+ },
+ {
+  "id": "w110",
+  "word": "handout",
+  "meaning": "配布資料",
+  "example": "Handouts were distributed before the presentation began."
+ },
+ {
+  "id": "w111",
+  "word": "feedback",
+  "meaning": "フィードバック、意見",
+  "example": "We welcome feedback from all participants."
+ },
+ {
+  "id": "w112",
+  "word": "query",
+  "meaning": "質問、問い合わせ",
+  "example": "Please direct any queries to the help desk."
+ },
+ {
+  "id": "w113",
+  "word": "clarify",
+  "meaning": "明確にする",
+  "example": "Could you clarify the terms of the agreement?"
+ },
+ {
+  "id": "w114",
+  "word": "elaborate",
+  "meaning": "詳しく説明する",
+  "example": "Could you elaborate on that point further?"
+ },
+ {
+  "id": "w115",
+  "word": "summarize",
+  "meaning": "要約する",
+  "example": "Let me summarize the key points of the discussion."
+ },
+ {
+  "id": "w116",
+  "word": "outline",
+  "meaning": "概要、要点",
+  "example": "The manager gave an outline of the new project."
+ },
+ {
+  "id": "w117",
+  "word": "proposal",
+  "meaning": "提案",
+  "example": "The proposal was approved by the board."
+ },
+ {
+  "id": "w118",
+  "word": "initiative",
+  "meaning": "新しい取り組み、主導権",
+  "example": "The company launched a new sustainability initiative."
+ },
+ {
+  "id": "w119",
+  "word": "collaborate",
+  "meaning": "協力する",
+  "example": "Both teams will collaborate on the new product launch."
+ },
+ {
+  "id": "w120",
+  "word": "liaise",
+  "meaning": "連絡・調整をする",
+  "example": "She liaises with clients on a daily basis."
+ },
+ {
+  "id": "w121",
+  "word": "correspond",
+  "meaning": "文通する、一致する",
+  "example": "The sales figures correspond with our forecast."
+ },
+ {
+  "id": "w122",
+  "word": "draft agreement",
+  "meaning": "契約書の草案",
+  "example": "Please review the draft agreement carefully."
+ },
+ {
+  "id": "w123",
+  "word": "amendment",
+  "meaning": "修正、改訂",
+  "example": "An amendment was made to the contract terms."
+ },
+ {
+  "id": "w124",
+  "word": "stipulate",
+  "meaning": "規定する",
+  "example": "The contract stipulates a 30-day notice period."
+ },
+ {
+  "id": "w125",
+  "word": "terminate",
+  "meaning": "終了させる、解約する",
+  "example": "Either party may terminate the contract with written notice."
+ },
+ {
+  "id": "w126",
+  "word": "binding",
+  "meaning": "拘束力のある",
+  "example": "This agreement is legally binding once signed."
+ },
+ {
+  "id": "w127",
+  "word": "jurisdiction",
+  "meaning": "管轄権",
+  "example": "The contract falls under the jurisdiction of state law."
+ },
+ {
+  "id": "w128",
+  "word": "arbitration",
+  "meaning": "仲裁",
+  "example": "Disputes will be settled through arbitration."
+ },
+ {
+  "id": "w129",
+  "word": "litigation",
+  "meaning": "訴訟",
+  "example": "The company wants to avoid costly litigation."
+ },
+ {
+  "id": "w130",
+  "word": "breach",
+  "meaning": "違反",
+  "example": "A breach of contract may result in penalties."
+ },
+ {
+  "id": "w131",
+  "word": "waiver",
+  "meaning": "権利放棄",
+  "example": "A signed waiver is required before participation."
+ },
+ {
+  "id": "w132",
+  "word": "comply",
+  "meaning": "従う、遵守する",
+  "example": "All staff must comply with safety regulations."
+ },
+ {
+  "id": "w133",
+  "word": "regulation",
+  "meaning": "規則、規制",
+  "example": "New environmental regulations take effect next year."
+ },
+ {
+  "id": "w134",
+  "word": "legislation",
+  "meaning": "法律、立法",
+  "example": "New legislation affects how companies handle data."
+ },
+ {
+  "id": "w135",
+  "word": "enforce",
+  "meaning": "施行する、強制する",
+  "example": "The new policy will be strictly enforced."
+ },
+ {
+  "id": "w136",
+  "word": "inspection",
+  "meaning": "検査",
+  "example": "The factory passed its annual safety inspection."
+ },
+ {
+  "id": "w137",
+  "word": "certify",
+  "meaning": "証明する",
+  "example": "The auditor certified the financial statements as accurate."
+ },
+ {
+  "id": "w138",
+  "word": "accreditation",
+  "meaning": "認定",
+  "example": "The university received accreditation from the board."
+ },
+ {
+  "id": "w139",
+  "word": "benchmark",
+  "meaning": "基準、指標",
+  "example": "The company set a new benchmark for customer service."
+ },
+ {
+  "id": "w140",
+  "word": "criteria",
+  "meaning": "基準",
+  "example": "Applicants must meet all the listed criteria."
+ },
+ {
+  "id": "w141",
+  "word": "eligibility",
+  "meaning": "適格性",
+  "example": "Check the eligibility requirements before applying."
+ },
+ {
+  "id": "w142",
+  "word": "applicant",
+  "meaning": "応募者",
+  "example": "Over fifty applicants applied for the position."
+ },
+ {
+  "id": "w143",
+  "word": "résumé",
+  "meaning": "履歴書",
+  "example": "Please attach your résumé to the application."
+ },
+ {
+  "id": "w144",
+  "word": "interviewee",
+  "meaning": "面接を受ける人",
+  "example": "The interviewee arrived fifteen minutes early."
+ },
+ {
+  "id": "w145",
+  "word": "recruitment",
+  "meaning": "採用活動",
+  "example": "The recruitment process takes about a month."
+ },
+ {
+  "id": "w146",
+  "word": "headhunter",
+  "meaning": "人材スカウト",
+  "example": "A headhunter contacted her about a new position."
+ },
+ {
+  "id": "w147",
+  "word": "internship",
+  "meaning": "インターンシップ",
+  "example": "She completed a summer internship at a law firm."
+ },
+ {
+  "id": "w148",
+  "word": "mentor",
+  "meaning": "指導者",
+  "example": "Every new employee is assigned a mentor."
+ },
+ {
+  "id": "w149",
+  "word": "appraisal",
+  "meaning": "評価",
+  "example": "Annual appraisals determine salary increases."
+ },
+ {
+  "id": "w150",
+  "word": "incentive",
+  "meaning": "奨励金、動機付け",
+  "example": "The company offers incentives for meeting sales targets."
+ },
+ {
+  "id": "w151",
+  "word": "asset",
+  "meaning": "資産",
+  "example": "The company's main asset is its manufacturing plant."
+ },
+ {
+  "id": "w152",
+  "word": "depreciation",
+  "meaning": "減価償却",
+  "example": "Depreciation is calculated on office equipment each year."
+ },
+ {
+  "id": "w153",
+  "word": "audit",
+  "meaning": "監査",
+  "example": "The annual audit found no financial discrepancies."
+ },
+ {
+  "id": "w154",
+  "word": "balance sheet",
+  "meaning": "貸借対照表",
+  "example": "The balance sheet shows total assets and liabilities."
+ },
+ {
+  "id": "w155",
+  "word": "cash flow",
+  "meaning": "キャッシュフロー",
+  "example": "Improving cash flow is a priority this quarter."
+ },
+ {
+  "id": "w156",
+  "word": "dividend",
+  "meaning": "配当金",
+  "example": "Shareholders received a dividend of two dollars per share."
+ },
+ {
+  "id": "w157",
+  "word": "equity",
+  "meaning": "株式、自己資本",
+  "example": "The founder holds a 30 percent equity stake."
+ },
+ {
+  "id": "w158",
+  "word": "forecast",
+  "meaning": "予測",
+  "example": "The sales forecast for next year looks promising."
+ },
+ {
+  "id": "w159",
+  "word": "grant",
+  "meaning": "助成金、与える",
+  "example": "The startup received a government grant."
+ },
+ {
+  "id": "w160",
+  "word": "installment",
+  "meaning": "分割払い",
+  "example": "You can pay for the equipment in monthly installments."
+ },
+ {
+  "id": "w161",
+  "word": "interest rate",
+  "meaning": "金利",
+  "example": "The bank raised its interest rate last month."
+ },
+ {
+  "id": "w162",
+  "word": "loan",
+  "meaning": "融資、ローン",
+  "example": "The company took out a loan to expand its factory."
+ },
+ {
+  "id": "w163",
+  "word": "mortgage",
+  "meaning": "住宅ローン",
+  "example": "They applied for a mortgage to buy a new office building."
+ },
+ {
+  "id": "w164",
+  "word": "portfolio",
+  "meaning": "投資の組み合わせ、作品集",
+  "example": "Her investment portfolio includes stocks and bonds."
+ },
+ {
+  "id": "w165",
+  "word": "premium",
+  "meaning": "保険料、割増金",
+  "example": "The insurance premium increased this year."
+ },
+ {
+  "id": "w166",
+  "word": "projection",
+  "meaning": "予測、見積もり",
+  "example": "The financial projection shows steady growth."
+ },
+ {
+  "id": "w167",
+  "word": "receipt",
+  "meaning": "領収書",
+  "example": "Keep your receipt for reimbursement purposes."
+ },
+ {
+  "id": "w168",
+  "word": "tax deduction",
+  "meaning": "税控除",
+  "example": "Business travel expenses qualify as a tax deduction."
+ },
+ {
+  "id": "w169",
+  "word": "transaction",
+  "meaning": "取引",
+  "example": "All transactions are recorded in the accounting system."
+ },
+ {
+  "id": "w170",
+  "word": "valuation",
+  "meaning": "評価額",
+  "example": "The company's valuation doubled after the merger."
+ },
+ {
+  "id": "w171",
+  "word": "withdrawal",
+  "meaning": "引き出し",
+  "example": "A withdrawal fee applies to accounts under a certain balance."
+ },
+ {
+  "id": "w172",
+  "word": "creditor",
+  "meaning": "債権者",
+  "example": "The company negotiated new terms with its creditors."
+ },
+ {
+  "id": "w173",
+  "word": "debtor",
+  "meaning": "債務者",
+  "example": "The debtor failed to repay the loan on time."
+ },
+ {
+  "id": "w174",
+  "word": "bankruptcy",
+  "meaning": "破産",
+  "example": "The firm filed for bankruptcy after years of losses."
+ },
+ {
+  "id": "w175",
+  "word": "solvent",
+  "meaning": "支払い能力のある",
+  "example": "The business remains solvent despite the downturn."
+ },
+ {
+  "id": "w176",
+  "word": "stakeholder",
+  "meaning": "利害関係者",
+  "example": "All stakeholders were informed of the decision."
+ },
+ {
+  "id": "w177",
+  "word": "acquisition",
+  "meaning": "買収",
+  "example": "The acquisition was completed within six months."
+ },
+ {
+  "id": "w178",
+  "word": "conglomerate",
+  "meaning": "複合企業",
+  "example": "The conglomerate owns businesses in several industries."
+ },
+ {
+  "id": "w179",
+  "word": "franchise",
+  "meaning": "フランチャイズ",
+  "example": "She opened a franchise of the popular coffee chain."
+ },
+ {
+  "id": "w180",
+  "word": "monopoly",
+  "meaning": "独占",
+  "example": "The company held a monopoly on the local market."
+ },
+ {
+  "id": "w181",
+  "word": "competitor",
+  "meaning": "競合他社",
+  "example": "Our main competitor released a similar product."
+ },
+ {
+  "id": "w182",
+  "word": "market share",
+  "meaning": "市場占有率",
+  "example": "The company increased its market share this year."
+ },
+ {
+  "id": "w183",
+  "word": "demographic",
+  "meaning": "人口統計学の",
+  "example": "The survey targeted a younger demographic."
+ },
+ {
+  "id": "w184",
+  "word": "consumer",
+  "meaning": "消費者",
+  "example": "Consumer demand for the product rose sharply."
+ },
+ {
+  "id": "w185",
+  "word": "retailer",
+  "meaning": "小売業者",
+  "example": "The retailer offers discounts during the holiday season."
+ },
+ {
+  "id": "w186",
+  "word": "wholesale",
+  "meaning": "卸売の",
+  "example": "We purchase materials at wholesale prices."
+ },
+ {
+  "id": "w187",
+  "word": "distributor",
+  "meaning": "販売代理店",
+  "example": "The distributor handles shipments across the region."
+ },
+ {
+  "id": "w188",
+  "word": "manufacturer",
+  "meaning": "製造業者",
+  "example": "The manufacturer guarantees the product for two years."
+ },
+ {
+  "id": "w189",
+  "word": "supplier",
+  "meaning": "供給業者",
+  "example": "We switched to a more reliable supplier."
+ },
+ {
+  "id": "w190",
+  "word": "procurement",
+  "meaning": "調達",
+  "example": "The procurement department handles all purchasing."
+ },
+ {
+  "id": "w191",
+  "word": "contractor",
+  "meaning": "請負業者",
+  "example": "A contractor was hired to renovate the building."
+ },
+ {
+  "id": "w192",
+  "word": "freight",
+  "meaning": "貨物",
+  "example": "The freight is scheduled to arrive next Tuesday."
+ },
+ {
+  "id": "w193",
+  "word": "customs",
+  "meaning": "税関",
+  "example": "The shipment was delayed at customs."
+ },
+ {
+  "id": "w194",
+  "word": "tariff",
+  "meaning": "関税",
+  "example": "New tariffs increased the cost of imported goods."
+ },
+ {
+  "id": "w195",
+  "word": "warehouse",
+  "meaning": "倉庫",
+  "example": "The products are stored in a warehouse near the port."
+ },
+ {
+  "id": "w196",
+  "word": "consignment",
+  "meaning": "委託販売",
+  "example": "The artwork is sold on consignment at the gallery."
+ },
+ {
+  "id": "w197",
+  "word": "bulk order",
+  "meaning": "大量注文",
+  "example": "We offer a discount for bulk orders."
+ },
+ {
+  "id": "w198",
+  "word": "backorder",
+  "meaning": "入荷待ち",
+  "example": "The item is on backorder and will ship next week."
+ },
+ {
+  "id": "w199",
+  "word": "defective",
+  "meaning": "欠陥のある",
+  "example": "The defective units were returned to the factory."
+ },
+ {
+  "id": "w200",
+  "word": "refund",
+  "meaning": "払い戻し",
+  "example": "Customers can request a refund within 30 days."
+ }
+]

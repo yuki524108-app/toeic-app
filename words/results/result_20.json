@@ -1,0 +1,602 @@
+[
+{
+"id": "w1901",
+"pos": "名詞句",
+"exampleJa": "その銀行は詐欺防止技術に多額の投資をしている。",
+"note": "類義語：fraud detection, anti-fraud measures\n表現：prevent fraud（詐欺を防止する）"
+},
+{
+"id": "w1902",
+"pos": "名詞句",
+"exampleJa": "彼は危うくフィッシング詐欺の被害に遭うところだった。",
+"note": "類義語：online scam, phishing attack\n表現：fall victim to a scam（詐欺の被害に遭う）"
+},
+{
+"id": "w1903",
+"pos": "名詞",
+"exampleJa": "その会社は先月、大規模なサイバー攻撃を受けた。",
+"note": "類義語：cyberattack, cyber assault\n表現：suffer a cyberattack（サイバー攻撃を受ける）"
+},
+{
+"id": "w1904",
+"pos": "名詞",
+"exampleJa": "その病院のシステムはランサムウェアによってロックされた。",
+"note": "類義語：extortion malware, malicious software\n表現：be locked by ransomware（ランサムウェアによってロックされる）"
+},
+{
+"id": "w1905",
+"pos": "名詞",
+"exampleJa": "そのウイルス対策ソフトはコンピューター上のマルウェアを検出した。",
+"note": "類義語：malicious software, harmful software\n表現：detect malware（マルウェアを検出する）"
+},
+{
+"id": "w1906",
+"pos": "名詞句",
+"exampleJa": "データ暗号化は顧客の機密情報を保護する。",
+"note": "類義語：data encoding, encryption\n表現：encrypt sensitive data（機密データを暗号化する）"
+},
+{
+"id": "w1907",
+"pos": "名詞句",
+"exampleJa": "その会社は厳格なパスワードポリシーを実施している。",
+"note": "類義語：password rules, security policy\n表現：enforce a password policy（パスワードポリシーを実施する）"
+},
+{
+"id": "w1908",
+"pos": "名詞句",
+"exampleJa": "二要素認証はセキュリティをさらに強化する。",
+"note": "類義語：two-step verification, multi-factor authentication\n表現：enable two-factor authentication（二要素認証を有効にする）"
+},
+{
+"id": "w1909",
+"pos": "名詞句",
+"exampleJa": "彼らはイベントを企画するためにウェディングプランナーを雇った。",
+"note": "類義語：wedding coordinator, event planner\n表現：hire a wedding planner（ウェディングプランナーを雇う）"
+},
+{
+"id": "w1910",
+"pos": "名詞句",
+"exampleJa": "彼女の友人たちは結婚式の前にブライダルシャワーを開いた。",
+"note": "類義語：bridal party, pre-wedding party\n表現：throw a bridal shower（ブライダルシャワーを開く）"
+},
+{
+"id": "w1911",
+"pos": "名詞句",
+"exampleJa": "同僚たちは出産を控えた母親のためにベビーシャワーを企画した。",
+"note": "類義語：baby party, prenatal celebration\n表現：organize a baby shower（ベビーシャワーを企画する）"
+},
+{
+"id": "w1912",
+"pos": "名詞句",
+"exampleJa": "家族の再会は毎年夏に行われる。",
+"note": "類義語：family gathering, family get-together\n表現：hold a family reunion（家族の再会を開く）"
+},
+{
+"id": "w1913",
+"pos": "名詞句",
+"exampleJa": "彼らは新しいアパートに新居祝いの贈り物を持ってきた。",
+"note": "類義語：housewarming present, new-home gift\n表現：bring a housewarming gift（新居祝いの贈り物を持ってくる）"
+},
+{
+"id": "w1914",
+"pos": "名詞句",
+"exampleJa": "そのオフィスでは小さな誕生日祝いを企画した。",
+"note": "類義語：birthday party, birthday event\n表現：organize a birthday celebration（誕生日祝いを企画する）"
+},
+{
+"id": "w1915",
+"pos": "名詞句",
+"exampleJa": "彼女は卒業祝いの贈り物としてノートパソコンを受け取った。",
+"note": "類義語：graduation present, graduation gift\n表現：receive a graduation gift（卒業祝いの贈り物を受け取る）"
+},
+{
+"id": "w1916",
+"pos": "名詞句",
+"exampleJa": "彼は遺族にお悔やみの手紙を書いた。",
+"note": "類義語：sympathy letter, letter of condolence\n表現：write a condolence letter（お悔やみの手紙を書く）"
+},
+{
+"id": "w1917",
+"pos": "名詞句",
+"exampleJa": "同僚たちは病気の同僚にお見舞いカードを送った。",
+"note": "類義語：recovery card, sympathy card\n表現：send a get-well card（お見舞いカードを送る）"
+},
+{
+"id": "w1918",
+"pos": "名詞句",
+"exampleJa": "彼女は面接の後にお礼状を書いた。",
+"note": "類義語：thank-you letter, note of thanks\n表現：write a thank-you note（お礼状を書く）"
+},
+{
+"id": "w1919",
+"pos": "名詞句",
+"exampleJa": "招待状にはイベントの詳細が記載されていた。",
+"note": "類義語：invitation, invite\n表現：send an invitation card（招待状を送る）"
+},
+{
+"id": "w1920",
+"pos": "名詞句",
+"exampleJa": "彼は同僚の昇進祝いのためにグリーティングカードを買った。",
+"note": "類義語：greeting, card\n表現：send a greeting card（グリーティングカードを送る）"
+},
+{
+"id": "w1921",
+"pos": "名詞句",
+"exampleJa": "彼女は書店のギフト券を受け取った。",
+"note": "類義語：gift card, voucher\n表現：receive a gift certificate（ギフト券を受け取る）"
+},
+{
+"id": "w1922",
+"pos": "名詞句",
+"exampleJa": "顧客はロイヤルティ報酬を割引に交換できる。",
+"note": "類義語：loyalty benefit, customer reward\n表現：redeem loyalty rewards（ロイヤルティ報酬を交換する）"
+},
+{
+"id": "w1923",
+"pos": "名詞句",
+"exampleJa": "そのクレジットカードは購入時にキャッシュバックを提供している。",
+"note": "類義語：cash rebate, cashback promotion\n表現：offer cash back（キャッシュバックを提供する）"
+},
+{
+"id": "w1924",
+"pos": "名詞句",
+"exampleJa": "会員更新は毎年初めに行う必要がある。",
+"note": "類義語：membership extension, membership continuation\n表現：renew a membership（会員資格を更新する）"
+},
+{
+"id": "w1925",
+"pos": "名詞句",
+"exampleJa": "サブスクリプションは毎月自動的に更新される。",
+"note": "類義語：subscription extension, subscription continuation\n表現：renew a subscription（サブスクリプションを更新する）"
+},
+{
+"id": "w1926",
+"pos": "名詞",
+"exampleJa": "設定を確認して自動更新を無効にしてください。",
+"note": "類義語：automatic renewal, recurring renewal\n表現：disable auto-renewal（自動更新を無効にする）"
+},
+{
+"id": "w1927",
+"pos": "名詞句",
+"exampleJa": "予約を無断で欠席した場合、無断キャンセル料がかかる。",
+"note": "類義語：cancellation fee, missed-reservation fee\n表現：charge a no-show fee（無断キャンセル料を請求する）"
+},
+{
+"id": "w1928",
+"pos": "名詞",
+"exampleJa": "彼女は完売したイベントのキャンセル待ちリストに追加された。",
+"note": "類義語：waiting list, reserve list\n表現：be placed on a waitlist（キャンセル待ちリストに載る）"
+},
+{
+"id": "w1929",
+"pos": "名詞句",
+"exampleJa": "キャンセル待ちの乗客は空席があれば搭乗できる。",
+"note": "類義語：standby traveler, standby traveler\n表現：travel as a standby passenger（キャンセル待ち乗客として旅行する）"
+},
+{
+"id": "w1930",
+"pos": "名詞句",
+"exampleJa": "上級会員はフライトで優先搭乗を利用できる。",
+"note": "類義語：priority access, early boarding\n表現：receive priority boarding（優先搭乗を受ける）"
+},
+{
+"id": "w1931",
+"pos": "名詞句",
+"exampleJa": "荷造りをする前に手荷物許容量を確認してください。",
+"note": "類義語：baggage limit, luggage allowance\n表現：check your baggage allowance（手荷物許容量を確認する）"
+},
+{
+"id": "w1932",
+"pos": "名詞句",
+"exampleJa": "彼女は機内持ち込み手荷物だけで身軽に荷造りした。",
+"note": "類義語：hand luggage, cabin baggage\n表現：travel with carry-on luggage（機内持ち込み手荷物で旅行する）"
+},
+{
+"id": "w1933",
+"pos": "名詞句",
+"exampleJa": "預け入れ手荷物は航空会社の重量制限を満たさなければならない。",
+"note": "類義語：checked luggage, hold baggage\n表現：check baggage（手荷物を預ける）"
+},
+{
+"id": "w1934",
+"pos": "名詞句",
+"exampleJa": "そのフライトでは直前に搭乗ゲートの変更があった。",
+"note": "類義語：gate switch, gate reassignment\n表現：announce a gate change（搭乗ゲートの変更を知らせる）"
+},
+{
+"id": "w1935",
+"pos": "名詞句",
+"exampleJa": "フライトのキャンセルによって乗客に大幅な遅延が生じた。",
+"note": "類義語：flight termination, canceled flight\n表現：cause major delays（大幅な遅延を引き起こす）"
+},
+{
+"id": "w1936",
+"pos": "名詞句",
+"exampleJa": "彼は早い便のキャンセル待ちリストに載せられた。",
+"note": "類義語：waiting list, standby queue\n表現：be placed on the standby list（キャンセル待ちリストに載せられる）"
+},
+{
+"id": "w1937",
+"pos": "名詞句",
+"exampleJa": "特定の商品は関税免除の対象となる。",
+"note": "類義語：duty exemption, tariff exemption\n表現：qualify for a customs exemption（関税免除の対象となる）"
+},
+{
+"id": "w1938",
+"pos": "名詞句",
+"exampleJa": "彼女は金融について毎週新聞のコラムを書いている。",
+"note": "類義語：newspaper article, newspaper feature\n表現：write a weekly column（毎週コラムを書く）"
+},
+{
+"id": "w1939",
+"pos": "名詞句",
+"exampleJa": "編集委員会はどの記事を掲載するか決定する。",
+"note": "類義語：editorial committee, editorial team\n表現：decide which articles to publish（どの記事を掲載するか決める）"
+},
+{
+"id": "w1940",
+"pos": "名詞",
+"exampleJa": "そのジャーナリストは会社のCEOにインタビューした。",
+"note": "類義語：reporter, news writer\n表現：interview a CEO（CEOにインタビューする）"
+},
+{
+"id": "w1941",
+"pos": "名詞句",
+"exampleJa": "彼は地元の政治について論説記事を書いた。",
+"note": "類義語：opinion article, editorial\n表現：write an op-ed piece（論説記事を書く）"
+},
+{
+"id": "w1942",
+"pos": "名詞句",
+"exampleJa": "ニュース速報が放送を中断した。",
+"note": "類義語：news flash, news update\n表現：interrupt a broadcast（放送を中断する）"
+},
+{
+"id": "w1943",
+"pos": "名詞句",
+"exampleJa": "その合併の速報ニュースはすぐに広まった。",
+"note": "類義語：breaking report, urgent news\n表現：breaking news of ...（…の速報ニュース）"
+},
+{
+"id": "w1944",
+"pos": "名詞句",
+"exampleJa": "そのニュースキャスターは現場から生中継で報道した。",
+"note": "類義語：news presenter, broadcaster\n表現：report live from the scene（現場から生中継で報道する）"
+},
+{
+"id": "w1945",
+"pos": "名詞句",
+"exampleJa": "その新聞はオンラインでサブスクリプション型モデルを導入した。",
+"note": "類義語：subscription model, recurring-payment model\n表現：adopt a subscription-based model（サブスクリプション型モデルを導入する）"
+},
+{
+"id": "w1946",
+"pos": "名詞句",
+"exampleJa": "その原稿は大手出版社に受理された。",
+"note": "類義語：publisher, publishing company\n表現：be accepted by a publishing house（出版社に受理される）"
+},
+{
+"id": "w1947",
+"pos": "名詞句",
+"exampleJa": "彼女は自分の小説を売り込むために文芸エージェントを見つけた。",
+"note": "類義語：literary representative, book agent\n表現：represent an author（作家を代理する）"
+},
+{
+"id": "w1948",
+"pos": "名詞句",
+"exampleJa": "その作家は大手出版社と出版契約を結んだ。",
+"note": "類義語：publishing contract, publishing agreement\n表現：sign a book deal（出版契約を結ぶ）"
+},
+{
+"id": "w1949",
+"pos": "名詞句",
+"exampleJa": "その小説は何週間もベストセラーリストの首位にあった。",
+"note": "類義語：best-selling list, sales ranking\n表現：top the bestseller list（ベストセラーリストの首位になる）"
+},
+{
+"id": "w1950",
+"pos": "名詞句",
+"exampleJa": "彼女は原稿を複数の出版社に提出した。",
+"note": "類義語：manuscript entry, manuscript delivery\n表現：submit a manuscript（原稿を提出する）"
+},
+{
+"id": "w1951",
+"pos": "名詞句",
+"exampleJa": "チームは来年の戦略を計画するために社員旅行に出かけた。",
+"note": "類義語：corporate retreat, team retreat\n表現：go on a company retreat（社員旅行・リトリートに行く）"
+},
+{
+"id": "w1952",
+"pos": "名詞句",
+"exampleJa": "経営幹部たちはシカゴで開催されたリーダーシップサミットに参加した。",
+"note": "類義語：leadership conference, executive summit\n表現：attend a leadership summit（リーダーシップサミットに参加する）"
+},
+{
+"id": "w1953",
+"pos": "名詞句",
+"exampleJa": "CEOはその会議で基調講演を行った。",
+"note": "類義語：keynote speech, keynote presentation\n表現：deliver a keynote address（基調講演を行う）"
+},
+{
+"id": "w1954",
+"pos": "名詞句",
+"exampleJa": "その会社は研究成果を発表することで業界をリードする専門性を築いた。",
+"note": "類義語：industry expertise, expert leadership\n表現：build thought leadership（業界をリードする専門性を築く）"
+},
+{
+"id": "w1955",
+"pos": "名詞句",
+"exampleJa": "その会社は業界基準と比較して自社の実績を測定した。",
+"note": "類義語：industry standard, performance standard\n表現：measure against a benchmark（基準と比較して測定する）"
+},
+{
+"id": "w1956",
+"pos": "名詞句",
+"exampleJa": "合併後、競争環境は変化した。",
+"note": "類義語：competitive environment, market competition\n表現：analyze the competitive landscape（競争環境を分析する）"
+},
+{
+"id": "w1957",
+"pos": "名詞句",
+"exampleJa": "その企業はアジア市場への参入戦略を策定した。",
+"note": "類義語：market-entry plan, expansion strategy\n表現：develop a market entry strategy（市場参入戦略を策定する）"
+},
+{
+"id": "w1958",
+"pos": "名詞句",
+"exampleJa": "チームは発売に向けた市場投入計画を完成させた。",
+"note": "類義語：launch plan, market launch strategy\n表現：finalize a go-to-market plan（市場投入計画を完成させる）"
+},
+{
+"id": "w1959",
+"pos": "名詞句",
+"exampleJa": "その会社は顧客獲得コストを綿密に追跡している。",
+"note": "類義語：acquisition cost, customer acquisition expense\n表現：track customer acquisition cost（顧客獲得コストを追跡する）"
+},
+{
+"id": "w1960",
+"pos": "名詞句",
+"exampleJa": "顧客生涯価値を高めることは重要なマーケティング目標である。",
+"note": "類義語：customer lifetime value, customer value\n表現：increase lifetime value（顧客生涯価値を高める）"
+},
+{
+"id": "w1961",
+"pos": "名詞句",
+"exampleJa": "強いブランドエクイティによって、その会社は高い価格を設定できる。",
+"note": "類義語：brand value, brand strength\n表現：build brand equity（ブランドエクイティを築く）"
+},
+{
+"id": "w1962",
+"pos": "名詞句",
+"exampleJa": "その会社はコスト削減のためにバリューチェーンを分析した。",
+"note": "類義語：supply chain, business process\n表現：analyze the value chain（バリューチェーンを分析する）"
+},
+{
+"id": "w1963",
+"pos": "名詞句",
+"exampleJa": "その企業はサプライチェーンを管理するために垂直統合を進めた。",
+"note": "類義語：vertical consolidation, supply-chain integration\n表現：pursue vertical integration（垂直統合を進める）"
+},
+{
+"id": "w1964",
+"pos": "名詞句",
+"exampleJa": "水平統合によってその会社の市場シェアが拡大した。",
+"note": "類義語：horizontal consolidation, industry consolidation\n表現：pursue horizontal integration（水平統合を進める）"
+},
+{
+"id": "w1965",
+"pos": "名詞句",
+"exampleJa": "規模の経済によって生産1単位当たりのコストが削減された。",
+"note": "類義語：scale economies, cost advantages\n表現：benefit from economies of scale（規模の経済の恩恵を受ける）"
+},
+{
+"id": "w1966",
+"pos": "名詞句",
+"exampleJa": "そのプロジェクトは初期の成果の後、収穫逓減を経験した。",
+"note": "類義語：decreasing returns, declining returns\n表現：experience diminishing returns（収穫逓減を経験する）"
+},
+{
+"id": "w1967",
+"pos": "名詞句",
+"exampleJa": "その遅延による機会費用は大きかった。",
+"note": "類義語：foregone benefit, alternative cost\n表現：the opportunity cost of ...（…の機会費用）"
+},
+{
+"id": "w1968",
+"pos": "名詞句",
+"exampleJa": "彼らは埋没費用を無視して新しい計画を進めた。",
+"note": "類義語：irrecoverable cost, past expenditure\n表現：ignore sunk costs（埋没費用を無視する）"
+},
+{
+"id": "w1969",
+"pos": "名詞句",
+"exampleJa": "もう1単位生産するための限界費用は低かった。",
+"note": "類義語：incremental cost, additional cost\n表現：calculate marginal cost（限界費用を計算する）"
+},
+{
+"id": "w1970",
+"pos": "名詞句",
+"exampleJa": "価格は需要と供給によって決まる。",
+"note": "類義語：market forces, demand and supply\n表現：be determined by supply and demand（需要と供給によって決まる）"
+},
+{
+"id": "w1971",
+"pos": "名詞句",
+"exampleJa": "その製品は消費者の間で価格弾力性が高い。",
+"note": "類義語：demand elasticity, price responsiveness\n表現：have high price elasticity（価格弾力性が高い）"
+},
+{
+"id": "w1972",
+"pos": "名詞句",
+"exampleJa": "チームは発売前に損益分岐点分析を行った。",
+"note": "類義語：break-even study, cost-volume-profit analysis\n表現：conduct a break-even analysis（損益分岐点分析を行う）"
+},
+{
+"id": "w1973",
+"pos": "名詞句",
+"exampleJa": "その会社は今年、大規模な設備投資を承認した。",
+"note": "類義語：capital investment, capital spending\n表現：approve a capital expenditure（設備投資を承認する）"
+},
+{
+"id": "w1974",
+"pos": "名詞句",
+"exampleJa": "家賃の上昇により営業経費が増加した。",
+"note": "類義語：operating cost, business expense\n表現：reduce operating expenses（営業経費を削減する）"
+},
+{
+"id": "w1975",
+"pos": "名詞句",
+"exampleJa": "IT部門はコストセンターとみなされている。",
+"note": "類義語：expense center, cost department\n表現：operate as a cost center（コストセンターとして機能する）"
+},
+{
+"id": "w1976",
+"pos": "名詞句",
+"exampleJa": "営業部門は社内でプロフィットセンターとして扱われている。",
+"note": "類義語：revenue center, earnings center\n表現：operate as a profit center（プロフィットセンターとして機能する）"
+},
+{
+"id": "w1977",
+"pos": "名詞句",
+"exampleJa": "その会社は人事部門をシェアードサービスに統合した。",
+"note": "類義語：centralized services, shared support services\n表現：consolidate into shared services（シェアードサービスに統合する）"
+},
+{
+"id": "w1978",
+"pos": "名詞句",
+"exampleJa": "各事業部は四半期ごとの業績をそれぞれ報告する。",
+"note": "類義語：division, operating unit\n表現：report quarterly results（四半期業績を報告する）"
+},
+{
+"id": "w1979",
+"pos": "名詞",
+"exampleJa": "その部署は従業員数を10パーセント削減した。",
+"note": "類義語：staffing level, employee count\n表現：reduce headcount（従業員数を削減する）"
+},
+{
+"id": "w1980",
+"pos": "名詞句",
+"exampleJa": "その組織再編は効率性の向上を目的としている。",
+"note": "類義語：organizational restructuring, reorganization\n表現：undergo organizational restructuring（組織再編を行う）"
+},
+{
+"id": "w1981",
+"pos": "名詞句",
+"exampleJa": "その会社はデータガバナンスの方針を確立した。",
+"note": "類義語：data management, data oversight\n表現：establish data governance（データガバナンスを確立する）"
+},
+{
+"id": "w1982",
+"pos": "名詞句",
+"exampleJa": "定期的な監査によってシステム全体のデータの完全性が確保される。",
+"note": "類義語：data accuracy, data reliability\n表現：ensure data integrity（データの完全性を確保する）"
+},
+{
+"id": "w1983",
+"pos": "名詞句",
+"exampleJa": "ITチームは週末にデータ移行を完了した。",
+"note": "類義語：data transfer, data conversion\n表現：complete a data migration（データ移行を完了する）"
+},
+{
+"id": "w1984",
+"pos": "名詞句",
+"exampleJa": "その会社は今も古いレガシーシステムに依存している。",
+"note": "類義語：obsolete system, outdated system\n表現：rely on a legacy system（レガシーシステムに依存する）"
+},
+{
+"id": "w1985",
+"pos": "名詞句",
+"exampleJa": "システムアップグレードによって処理速度が大幅に向上した。",
+"note": "類義語：system enhancement, system update\n表現：perform a system upgrade（システムをアップグレードする）"
+},
+{
+"id": "w1986",
+"pos": "名詞句",
+"exampleJa": "チームは新機能を追加する前に技術的負債に対処した。",
+"note": "類義語：technical liability, accumulated technical debt\n表現：address technical debt（技術的負債に対処する）"
+},
+{
+"id": "w1987",
+"pos": "名詞句",
+"exampleJa": "開発者は変更内容を共有コードリポジトリにプッシュする。",
+"note": "類義語：codebase, source repository\n表現：push changes to a repository（変更内容をリポジトリにプッシュする）"
+},
+{
+"id": "w1988",
+"pos": "名詞句",
+"exampleJa": "そのAPIによって第三者のアプリがデータにアクセスできる。",
+"note": "類義語：API, software interface\n表現：access data through an API（APIを通じてデータにアクセスする）"
+},
+{
+"id": "w1989",
+"pos": "名詞句",
+"exampleJa": "その会社は数名のソフトウェア開発者を採用している。",
+"note": "類義語：software engineer, programmer\n表現：hire software developers（ソフトウェア開発者を採用する）"
+},
+{
+"id": "w1990",
+"pos": "名詞句",
+"exampleJa": "QAテスターはリリース前にいくつかのバグを発見した。",
+"note": "類義語：QA engineer, software tester\n表現：find bugs before release（リリース前にバグを発見する）"
+},
+{
+"id": "w1991",
+"pos": "名詞句",
+"exampleJa": "ユーザー受け入れテストによって、システムが要件を満たしていることが確認された。",
+"note": "類義語：acceptance testing, user testing\n表現：conduct user acceptance testing（ユーザー受け入れテストを行う）"
+},
+{
+"id": "w1992",
+"pos": "名詞句",
+"exampleJa": "ベータ版は少数のユーザーに向けてリリースされた。",
+"note": "類義語：test version, trial version\n表現：release a beta version（ベータ版をリリースする）"
+},
+{
+"id": "w1993",
+"pos": "名詞句",
+"exampleJa": "顧客はポータルを通じていくつかの機能要望を提出した。",
+"note": "類義語：feature suggestion, enhancement request\n表現：submit a feature request（機能要望を提出する）"
+},
+{
+"id": "w1994",
+"pos": "名詞句",
+"exampleJa": "最新のアップデートにはいくつかの重要なバグ修正が含まれていた。",
+"note": "類義語：bug correction, defect fix\n表現：include bug fixes（バグ修正を含む）"
+},
+{
+"id": "w1995",
+"pos": "名詞句",
+"exampleJa": "パッチリリースによってセキュリティ上の脆弱性が修正された。",
+"note": "類義語：maintenance release, corrective release\n表現：issue a patch release（パッチリリースを出す）"
+},
+{
+"id": "w1996",
+"pos": "名詞",
+"exampleJa": "デプロイに失敗した後、チームはロールバックを実行した。",
+"note": "類義語：reversion, reversal\n表現：perform a rollback（ロールバックを実行する）"
+},
+{
+"id": "w1997",
+"pos": "名詞句",
+"exampleJa": "チームはエラーを早期に発見するために継続的インテグレーションを設定した。",
+"note": "類義語：CI, continuous build\n表現：set up continuous integration（継続的インテグレーションを設定する）"
+},
+{
+"id": "w1998",
+"pos": "名詞句",
+"exampleJa": "デプロイメントパイプラインはリリースプロセスを自動化する。",
+"note": "類義語：deployment workflow, release pipeline\n表現：automate the release process（リリースプロセスを自動化する）"
+},
+{
+"id": "w1999",
+"pos": "名詞句",
+"exampleJa": "システムアーキテクチャは拡張性を考慮して再設計された。",
+"note": "類義語：system design, software architecture\n表現：redesign the system architecture（システムアーキテクチャを再設計する）"
+},
+{
+"id": "w2000",
+"pos": "名詞句",
+"exampleJa": "開発者たちは技術仕様書に厳密に従った。",
+"note": "類義語：technical requirements, technical documentation\n表現：follow a technical specification（技術仕様書に従う）"
+}
+]

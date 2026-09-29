@@ -1,4 +1,5 @@
-import { useMemo } from "react";
+import { useMemo, useRef, useState } from "react";
+import type { ChangeEvent } from "react";
 import {
   ResponsiveContainer,
   BarChart,
@@ -9,10 +10,17 @@ import {
 } from "recharts";
 import grammarQuestions from "../data/grammar.json";
 import type { AppData, GrammarQuestion } from "../types";
+import { exportDataAsJSON, parseImportedJSON } from "../lib/storage";
 
 const grammarData = grammarQuestions as GrammarQuestion[];
 
-export default function ProgressPage({ data }: { data: AppData }) {
+export default function ProgressPage({
+  data,
+  onImportData,
+}: {
+  data: AppData;
+  onImportData: (data: AppData) => void;
+}) {
   const records = Object.values(data.progress);
 
   const wordRecords = records.filter((r) => r.itemType === "word");
@@ -101,11 +109,100 @@ export default function ProgressPage({ data }: { data: AppData }) {
 
   const hasAnyData = records.length > 0;
 
+  const fileInputRef = useRef<HTMLInputElement | null>(null);
+  const [importMessage, setImportMessage] = useState<{
+    type: "success" | "error";
+    text: string;
+  } | null>(null);
+
+  function handleExport() {
+    const json = exportDataAsJSON(data);
+    const blob = new Blob([json], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const dateStr = new Date().toISOString().slice(0, 10);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `toeic-drill-backup-${dateStr}.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  }
+
+  function handleImportClick() {
+    setImportMessage(null);
+    fileInputRef.current?.click();
+  }
+
+  function handleFileChange(e: ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // 同じファイルを連続で選んでも onChange が発火するようにリセット
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      const text = typeof reader.result === "string" ? reader.result : "";
+      const parsed = parseImportedJSON(text);
+      if (!parsed) {
+        setImportMessage({
+          type: "error",
+          text: "ファイルの形式が正しくありません。このアプリからエクスポートしたバックアップファイルを選択してください。",
+        });
+        return;
+      }
+      const ok = window.confirm(
+        "現在のアプリ内の学習データをすべて置き換えてインポートします。この操作は元に戻せません。よろしいですか？"
+      );
+      if (!ok) return;
+      onImportData(parsed);
+      setImportMessage({ type: "success", text: "データを復元しました。" });
+    };
+    reader.readAsText(file);
+  }
+
   return (
     <div className="mx-auto max-w-md px-5 pb-28 pt-8">
       <h1 className="font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
         進捗
       </h1>
+
+      <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
+        <p className="text-sm font-medium text-(--color-ink)">データのバックアップ</p>
+        <p className="mt-1 text-xs leading-relaxed text-(--color-muted)">
+          学習データはこの端末のブラウザ内にのみ保存されています。機種変更やブラウザデータの削除に備えて、定期的にファイルへ書き出しておくことをおすすめします。
+        </p>
+        <div className="mt-4 grid grid-cols-2 gap-3">
+          <button
+            onClick={handleExport}
+            className="rounded-sm border border-(--color-line) py-2.5 text-sm font-medium text-(--color-ink)"
+          >
+            エクスポート
+          </button>
+          <button
+            onClick={handleImportClick}
+            className="rounded-sm border border-(--color-line) py-2.5 text-sm font-medium text-(--color-ink)"
+          >
+            インポート
+          </button>
+        </div>
+        <input
+          ref={fileInputRef}
+          type="file"
+          accept="application/json"
+          className="hidden"
+          onChange={handleFileChange}
+        />
+        {importMessage && (
+          <p
+            className={`mt-3 text-xs leading-relaxed ${
+              importMessage.type === "error"
+                ? "text-(--color-incorrect)"
+                : "text-(--color-correct)"
+            }`}
+          >
+            {importMessage.text}
+          </p>
+        )}
+      </div>
 
       {!hasAnyData ? (
         <p className="mt-8 text-sm text-(--color-muted)">

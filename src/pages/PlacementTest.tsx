@@ -282,7 +282,7 @@ function GrammarQuestionBlock({
       </div>
       {selected !== null && (
         <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
-          <p className="text-sm leading-relaxed text-(--color-ink-soft)">
+          <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
             {question.explanation}
           </p>
           <button

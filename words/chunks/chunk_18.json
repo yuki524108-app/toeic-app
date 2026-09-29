@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1701",
+  "word": "buyer's agent",
+  "meaning": "買主側の不動産業者",
+  "example": "A buyer's agent represents the interests of the purchaser."
+ },
+ {
+  "id": "w1702",
+  "word": "multiple listing service",
+  "meaning": "不動産情報サービス(MLS)",
+  "example": "The property was listed on the multiple listing service."
+ },
+ {
+  "id": "w1703",
+  "word": "curb appeal",
+  "meaning": "外観の魅力",
+  "example": "The house has great curb appeal with its landscaped yard."
+ },
+ {
+  "id": "w1704",
+  "word": "fixer-upper",
+  "meaning": "要修理物件",
+  "example": "They bought a fixer-upper to renovate themselves."
+ },
+ {
+  "id": "w1705",
+  "word": "move-in ready",
+  "meaning": "即入居可能な",
+  "example": "The apartment is move-in ready with new appliances."
+ },
+ {
+  "id": "w1706",
+  "word": "vacant lot",
+  "meaning": "空き地",
+  "example": "The developer purchased a vacant lot downtown."
+ },
+ {
+  "id": "w1707",
+  "word": "retail space",
+  "meaning": "小売スペース",
+  "example": "The company is looking for retail space downtown."
+ },
+ {
+  "id": "w1708",
+  "word": "shared office",
+  "meaning": "シェアオフィス",
+  "example": "The company moved into a shared office to cut costs."
+ },
+ {
+  "id": "w1709",
+  "word": "business incubator",
+  "meaning": "ビジネスインキュベーター",
+  "example": "The startup joined a business incubator for support."
+ },
+ {
+  "id": "w1710",
+  "word": "accelerator program",
+  "meaning": "アクセラレータープログラム",
+  "example": "The company was accepted into an accelerator program."
+ },
+ {
+  "id": "w1711",
+  "word": "pitch deck",
+  "meaning": "ピッチデック(投資家向け資料)",
+  "example": "The founder prepared a pitch deck for investors."
+ },
+ {
+  "id": "w1712",
+  "word": "term sheet",
+  "meaning": "タームシート(投資条件書)",
+  "example": "The investors sent a term sheet outlining the deal."
+ },
+ {
+  "id": "w1713",
+  "word": "cap table",
+  "meaning": "資本構成表",
+  "example": "The cap table shows each shareholder's ownership percentage."
+ },
+ {
+  "id": "w1714",
+  "word": "passenger seat",
+  "meaning": "助手席",
+  "example": "She sat in the passenger seat during the drive."
+ },
+ {
+  "id": "w1715",
+  "word": "driver's license",
+  "meaning": "運転免許証",
+  "example": "He renewed his driver's license last week."
+ },
+ {
+  "id": "w1716",
+  "word": "license plate",
+  "meaning": "ナンバープレート",
+  "example": "The police recorded the license plate number."
+ },
+ {
+  "id": "w1717",
+  "word": "car insurance",
+  "meaning": "自動車保険",
+  "example": "Car insurance rates vary based on driving history."
+ },
+ {
+  "id": "w1718",
+  "word": "auto repair shop",
+  "meaning": "自動車修理工場",
+  "example": "She took her car to the auto repair shop."
+ },
+ {
+  "id": "w1719",
+  "word": "oil change",
+  "meaning": "オイル交換",
+  "example": "The garage performed an oil change and tire rotation."
+ },
+ {
+  "id": "w1720",
+  "word": "tire rotation",
+  "meaning": "タイヤローテーション",
+  "example": "Regular tire rotation extends the life of your tires."
+ },
+ {
+  "id": "w1721",
+  "word": "brake pad",
+  "meaning": "ブレーキパッド",
+  "example": "The mechanic replaced the worn brake pads."
+ },
+ {
+  "id": "w1722",
+  "word": "engine trouble",
+  "meaning": "エンジントラブル",
+  "example": "The car had engine trouble on the highway."
+ },
+ {
+  "id": "w1723",
+  "word": "warning light",
+  "meaning": "警告灯",
+  "example": "A warning light appeared on the dashboard."
+ },
+ {
+  "id": "w1724",
+  "word": "gas station",
+  "meaning": "ガソリンスタンド",
+  "example": "They stopped at a gas station to refuel."
+ },
+ {
+  "id": "w1725",
+  "word": "electric vehicle",
+  "meaning": "電気自動車",
+  "example": "Sales of electric vehicles increased this year."
+ },
+ {
+  "id": "w1726",
+  "word": "charging station",
+  "meaning": "充電ステーション",
+  "example": "The city installed new charging stations downtown."
+ },
+ {
+  "id": "w1727",
+  "word": "hybrid car",
+  "meaning": "ハイブリッド車",
+  "example": "She traded her old sedan for a hybrid car."
+ },
+ {
+  "id": "w1728",
+  "word": "car dealership",
+  "meaning": "自動車販売店",
+  "example": "He bought his new car from a local dealership."
+ },
+ {
+  "id": "w1729",
+  "word": "trade-in value",
+  "meaning": "下取り価格",
+  "example": "The dealer offered a fair trade-in value for the old car."
+ },
+ {
+  "id": "w1730",
+  "word": "lease agreement",
+  "meaning": "リース契約",
+  "example": "She signed a three-year lease agreement for the car."
+ },
+ {
+  "id": "w1731",
+  "word": "monthly installment",
+  "meaning": "月々の分割払い",
+  "example": "The car loan requires a monthly installment of $300."
+ },
+ {
+  "id": "w1732",
+  "word": "down payment amount",
+  "meaning": "頭金の額",
+  "example": "The down payment amount reduced the total loan."
+ },
+ {
+  "id": "w1733",
+  "word": "auto loan",
+  "meaning": "自動車ローン",
+  "example": "He took out an auto loan to buy the car."
+ },
+ {
+  "id": "w1734",
+  "word": "vehicle inspection",
+  "meaning": "車両検査",
+  "example": "The car passed its annual vehicle inspection."
+ },
+ {
+  "id": "w1735",
+  "word": "emissions test",
+  "meaning": "排出ガス検査",
+  "example": "The car failed the emissions test and needed repairs."
+ },
+ {
+  "id": "w1736",
+  "word": "traffic ticket",
+  "meaning": "交通違反切符",
+  "example": "She received a traffic ticket for speeding."
+ },
+ {
+  "id": "w1737",
+  "word": "parking ticket",
+  "meaning": "駐車違反切符",
+  "example": "He found a parking ticket on his windshield."
+ },
+ {
+  "id": "w1738",
+  "word": "moving violation",
+  "meaning": "交通違反(走行中の)",
+  "example": "A moving violation can raise your insurance rate."
+ },
+ {
+  "id": "w1739",
+  "word": "designated driver",
+  "meaning": "指定運転者(飲酒運転回避のため)",
+  "example": "They chose a designated driver for the night out."
+ },
+ {
+  "id": "w1740",
+  "word": "carpool lane",
+  "meaning": "相乗り専用レーン",
+  "example": "Vehicles with multiple passengers can use the carpool lane."
+ },
+ {
+  "id": "w1741",
+  "word": "bike-sharing program",
+  "meaning": "自転車シェアリングプログラム",
+  "example": "The city launched a bike-sharing program downtown."
+ },
+ {
+  "id": "w1742",
+  "word": "scooter rental",
+  "meaning": "スクーターレンタル",
+  "example": "Scooter rentals are popular for short trips in the city."
+ },
+ {
+  "id": "w1743",
+  "word": "ride-hailing app",
+  "meaning": "配車アプリ",
+  "example": "She used a ride-hailing app to get to the airport."
+ },
+ {
+  "id": "w1744",
+  "word": "taxi fare",
+  "meaning": "タクシー料金",
+  "example": "The taxi fare increased due to the surge pricing."
+ },
+ {
+  "id": "w1745",
+  "word": "surge pricing",
+  "meaning": "サージプライシング(需要による価格変動)",
+  "example": "Surge pricing applies during peak demand hours."
+ },
+ {
+  "id": "w1746",
+  "word": "dispatcher",
+  "meaning": "配車係、指令係",
+  "example": "The taxi dispatcher assigned a driver to the pickup."
+ },
+ {
+  "id": "w1747",
+  "word": "delivery route",
+  "meaning": "配送ルート",
+  "example": "The driver follows an optimized delivery route."
+ },
+ {
+  "id": "w1748",
+  "word": "last-mile delivery",
+  "meaning": "ラストマイル配送",
+  "example": "Last-mile delivery is often the most expensive part of shipping."
+ },
+ {
+  "id": "w1749",
+  "word": "drone delivery",
+  "meaning": "ドローン配送",
+  "example": "The company is testing drone delivery for small packages."
+ },
+ {
+  "id": "w1750",
+  "word": "autonomous vehicle",
+  "meaning": "自動運転車",
+  "example": "Autonomous vehicles are being tested on city streets."
+ },
+ {
+  "id": "w1751",
+  "word": "self-driving technology",
+  "meaning": "自動運転技術",
+  "example": "Self-driving technology continues to improve safety."
+ },
+ {
+  "id": "w1752",
+  "word": "traffic signal",
+  "meaning": "信号機",
+  "example": "The traffic signal turned red just as she approached."
+ },
+ {
+  "id": "w1753",
+  "word": "elementary school",
+  "meaning": "小学校",
+  "example": "She teaches at the local elementary school."
+ },
+ {
+  "id": "w1754",
+  "word": "secondary school",
+  "meaning": "中等学校",
+  "example": "He graduated from secondary school last spring."
+ },
+ {
+  "id": "w1755",
+  "word": "private tutor",
+  "meaning": "家庭教師",
+  "example": "Her parents hired a private tutor for math."
+ },
+ {
+  "id": "w1756",
+  "word": "study abroad program",
+  "meaning": "留学プログラム",
+  "example": "He joined a study abroad program in France."
+ },
+ {
+  "id": "w1757",
+  "word": "exchange student",
+  "meaning": "交換留学生",
+  "example": "The university hosts several exchange students each year."
+ },
+ {
+  "id": "w1758",
+  "word": "student visa",
+  "meaning": "学生ビザ",
+  "example": "She applied for a student visa to study overseas."
+ },
+ {
+  "id": "w1759",
+  "word": "graduate degree",
+  "meaning": "大学院の学位",
+  "example": "He earned a graduate degree in business administration."
+ },
+ {
+  "id": "w1760",
+  "word": "undergraduate program",
+  "meaning": "学部課程",
+  "example": "The undergraduate program takes four years to complete."
+ },
+ {
+  "id": "w1761",
+  "word": "doctoral dissertation",
+  "meaning": "博士論文",
+  "example": "She defended her doctoral dissertation last month."
+ },
+ {
+  "id": "w1762",
+  "word": "thesis advisor",
+  "meaning": "論文指導教員",
+  "example": "Her thesis advisor provided valuable feedback."
+ },
+ {
+  "id": "w1763",
+  "word": "academic paper",
+  "meaning": "学術論文",
+  "example": "He published an academic paper in a leading journal."
+ },
+ {
+  "id": "w1764",
+  "word": "faculty member",
+  "meaning": "教員",
+  "example": "Each faculty member teaches two courses per semester."
+ },
+ {
+  "id": "w1765",
+  "word": "department chair",
+  "meaning": "学部長",
+  "example": "The department chair approved the new course."
+ },
+ {
+  "id": "w1766",
+  "word": "dean of students",
+  "meaning": "学生部長",
+  "example": "Students can meet with the dean of students for support."
+ },
+ {
+  "id": "w1767",
+  "word": "campus facility",
+  "meaning": "キャンパス施設",
+  "example": "The campus facility includes a new science building."
+ },
+ {
+  "id": "w1768",
+  "word": "dormitory",
+  "meaning": "寮",
+  "example": "Freshmen are required to live in the dormitory."
+ },
+ {
+  "id": "w1769",
+  "word": "student union",
+  "meaning": "学生会館",
+  "example": "Students gather at the student union between classes."
+ },
+ {
+  "id": "w1770",
+  "word": "cafeteria",
+  "meaning": "カフェテリア",
+  "example": "The cafeteria serves lunch until two o'clock."
+ },
+ {
+  "id": "w1771",
+  "word": "meal plan",
+  "meaning": "食事プラン",
+  "example": "Students can choose from several meal plan options."
+ },
+ {
+  "id": "w1772",
+  "word": "student loan",
+  "meaning": "学生ローン",
+  "example": "She is still paying off her student loan."
+ },
+ {
+  "id": "w1773",
+  "word": "financial aid office",
+  "meaning": "学生支援課",
+  "example": "Visit the financial aid office for scholarship information."
+ },
+ {
+  "id": "w1774",
+  "word": "admission requirement",
+  "meaning": "入学要件",
+  "example": "Each program has its own admission requirements."
+ },
+ {
+  "id": "w1775",
+  "word": "standardized test",
+  "meaning": "標準化テスト",
+  "example": "Students must take a standardized test to apply."
+ },
+ {
+  "id": "w1776",
+  "word": "entrance exam",
+  "meaning": "入学試験",
+  "example": "He studied for months for the entrance exam."
+ },
+ {
+  "id": "w1777",
+  "word": "grade point average",
+  "meaning": "成績平均点(GPA)",
+  "example": "Her grade point average qualified her for the honor roll."
+ },
+ {
+  "id": "w1778",
+  "word": "academic probation",
+  "meaning": "学業上の保護観察",
+  "example": "He was placed on academic probation after a poor semester."
+ },
+ {
+  "id": "w1779",
+  "word": "extracurricular activity",
+  "meaning": "課外活動",
+  "example": "She participates in several extracurricular activities."
+ },
+ {
+  "id": "w1780",
+  "word": "student council",
+  "meaning": "生徒会",
+  "example": "He was elected president of the student council."
+ },
+ {
+  "id": "w1781",
+  "word": "commencement ceremony",
+  "meaning": "卒業式",
+  "example": "Families gathered for the commencement ceremony."
+ },
+ {
+  "id": "w1782",
+  "word": "alumni association",
+  "meaning": "同窓会",
+  "example": "The alumni association organizes an annual reunion."
+ },
+ {
+  "id": "w1783",
+  "word": "guest lecture",
+  "meaning": "ゲスト講義",
+  "example": "A guest lecture on economics was held last Friday."
+ },
+ {
+  "id": "w1784",
+  "word": "field trip",
+  "meaning": "校外学習",
+  "example": "The class went on a field trip to the science museum."
+ },
+ {
+  "id": "w1785",
+  "word": "study group",
+  "meaning": "勉強会",
+  "example": "They formed a study group before the final exam."
+ },
+ {
+  "id": "w1786",
+  "word": "tutoring center",
+  "meaning": "チューター指導センター",
+  "example": "The tutoring center offers free help with writing."
+ },
+ {
+  "id": "w1787",
+  "word": "peer mentoring",
+  "meaning": "ピアメンタリング",
+  "example": "The school started a peer mentoring program for freshmen."
+ },
+ {
+  "id": "w1788",
+  "word": "classroom management",
+  "meaning": "クラス運営",
+  "example": "Effective classroom management improves student focus."
+ },
+ {
+  "id": "w1789",
+  "word": "lesson plan",
+  "meaning": "授業計画",
+  "example": "The teacher prepared a detailed lesson plan."
+ },
+ {
+  "id": "w1790",
+  "word": "teaching assistant",
+  "meaning": "ティーチングアシスタント",
+  "example": "The teaching assistant graded the homework."
+ },
+ {
+  "id": "w1791",
+  "word": "substitute teacher",
+  "meaning": "代理教員",
+  "example": "A substitute teacher covered the class for the day."
+ },
+ {
+  "id": "w1792",
+  "word": "recycled material",
+  "meaning": "再生素材",
+  "example": "The packaging is made from recycled material."
+ },
+ {
+  "id": "w1793",
+  "word": "compost bin",
+  "meaning": "堆肥容器",
+  "example": "The office added a compost bin in the kitchen."
+ },
+ {
+  "id": "w1794",
+  "word": "single-use plastic",
+  "meaning": "使い捨てプラスチック",
+  "example": "The city banned single-use plastic bags."
+ },
+ {
+  "id": "w1795",
+  "word": "reusable container",
+  "meaning": "再利用可能な容器",
+  "example": "She brings a reusable container for her lunch."
+ },
+ {
+  "id": "w1796",
+  "word": "energy conservation",
+  "meaning": "省エネルギー",
+  "example": "The building follows strict energy conservation guidelines."
+ },
+ {
+  "id": "w1797",
+  "word": "water conservation",
+  "meaning": "節水",
+  "example": "Water conservation is important during the drought."
+ },
+ {
+  "id": "w1798",
+  "word": "green building certification",
+  "meaning": "グリーンビルディング認証",
+  "example": "The office received a green building certification."
+ },
+ {
+  "id": "w1799",
+  "word": "carbon offset",
+  "meaning": "カーボンオフセット",
+  "example": "The airline offers a carbon offset program for flights."
+ },
+ {
+  "id": "w1800",
+  "word": "environmental impact assessment",
+  "meaning": "環境影響評価",
+  "example": "An environmental impact assessment was conducted before construction."
+ }
+]

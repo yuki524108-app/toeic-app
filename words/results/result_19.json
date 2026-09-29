@@ -1,0 +1,602 @@
+[
+{
+"id": "w1801",
+"pos": "名詞句",
+"exampleJa": "大気質指数は敏感な人々にとって不健康な水準だった。",
+"note": "類義語：air quality rating, air pollution index\n表現：air quality index（大気質指数）"
+},
+{
+"id": "w1802",
+"pos": "名詞句",
+"exampleJa": "建設現場からの騒音公害が住民を悩ませた。",
+"note": "類義語：noise disturbance, environmental noise\n表現：reduce noise pollution（騒音公害を減らす）"
+},
+{
+"id": "w1803",
+"pos": "名詞句",
+"exampleJa": "光害のため、都市では星を見るのが難しい。",
+"note": "類義語：artificial light pollution, excessive lighting\n表現：reduce light pollution（光害を減らす）"
+},
+{
+"id": "w1804",
+"pos": "名詞句",
+"exampleJa": "その団体は野生生物保護の取り組みに力を入れている。",
+"note": "類義語：wildlife conservation, animal protection\n表現：wildlife preservation efforts（野生生物保護の取り組み）"
+},
+{
+"id": "w1805",
+"pos": "名詞句",
+"exampleJa": "その動物園は絶滅危惧種の繁殖プログラムに参加している。",
+"note": "類義語：threatened species, endangered animals\n表現：protect endangered species（絶滅危惧種を保護する）"
+},
+{
+"id": "w1806",
+"pos": "名詞",
+"exampleJa": "森林伐採によって多くの動物の生息地が減少している。",
+"note": "類義語：forest clearing, logging\n派生：deforest（動詞：森林を伐採する）"
+},
+{
+"id": "w1807",
+"pos": "名詞句",
+"exampleJa": "その会社は地域の再植林プロジェクトに資金を提供している。",
+"note": "類義語：reforestation effort, tree-planting project\n表現：fund a reforestation project（再植林プロジェクトに資金を提供する）"
+},
+{
+"id": "w1808",
+"pos": "名詞句",
+"exampleJa": "政府はクリーンエネルギー構想を開始した。",
+"note": "類義語：clean energy program, green energy initiative\n表現：launch an initiative（構想を開始する）"
+},
+{
+"id": "w1809",
+"pos": "名詞句",
+"exampleJa": "その会社は2030年の排出削減目標を設定した。",
+"note": "類義語：emission goal, emissions target\n表現：set an emission reduction target（排出削減目標を設定する）"
+},
+{
+"id": "w1810",
+"pos": "名詞句",
+"exampleJa": "新しい環境規制が製造工場に影響を与えている。",
+"note": "類義語：environmental rule, environmental law\n表現：comply with environmental regulations（環境規制を遵守する）"
+},
+{
+"id": "w1811",
+"pos": "名詞句",
+"exampleJa": "その工場は汚染防止装置を設置した。",
+"note": "類義語：pollution control equipment, pollution prevention device\n表現：install a pollution control device（汚染防止装置を設置する）"
+},
+{
+"id": "w1812",
+"pos": "名詞句",
+"exampleJa": "グリーンテクノロジーへの投資が急速に増加している。",
+"note": "類義語：green technology, clean technology\n表現：invest in green technology（グリーンテクノロジーに投資する）"
+},
+{
+"id": "w1813",
+"pos": "名詞句",
+"exampleJa": "その会社は循環型経済の取り組みを導入した。",
+"note": "類義語：circular business model, closed-loop economy\n表現：adopt circular economy practices（循環型経済の取り組みを導入する）"
+},
+{
+"id": "w1814",
+"pos": "名詞",
+"exampleJa": "そのデザイナーは古い家具のアップサイクリングを専門としている。",
+"note": "類義語：creative reuse, repurposing\n派生：upcycle（動詞：再利用して価値を高める）"
+},
+{
+"id": "w1815",
+"pos": "名詞句",
+"exampleJa": "そのレストランは厳格なゼロウェイスト方針に従っている。",
+"note": "類義語：zero-waste policy, waste-free policy\n表現：follow a zero-waste policy（ゼロウェイスト方針に従う）"
+},
+{
+"id": "w1816",
+"pos": "名詞句",
+"exampleJa": "そのブランドは昨年、プラスチックを使わない包装に切り替えた。",
+"note": "類義語：plastic-free wrapping, plastic-free containers\n表現：switch to plastic-free packaging（プラスチックフリー包装に切り替える）"
+},
+{
+"id": "w1817",
+"pos": "名詞",
+"exampleJa": "エコツーリズムは地域経済を活性化しながら自然保護を支援する。",
+"note": "類義語：ecological tourism, sustainable tourism\n表現：promote eco-tourism（エコツーリズムを促進する）"
+},
+{
+"id": "w1818",
+"pos": "名詞句",
+"exampleJa": "その農場は持続可能な農業の方法を実践している。",
+"note": "類義語：sustainable farming, eco-friendly agriculture\n表現：practice sustainable agriculture（持続可能な農業を実践する）"
+},
+{
+"id": "w1819",
+"pos": "名詞句",
+"exampleJa": "有機農業では合成農薬の使用を避ける。",
+"note": "類義語：organic agriculture, organic cultivation\n表現：practice organic farming（有機農業を行う）"
+},
+{
+"id": "w1820",
+"pos": "名詞句",
+"exampleJa": "そのコーヒーブランドはフェアトレード認証を取得している。",
+"note": "類義語：fair trade approval, fair trade label\n表現：obtain fair trade certification（フェアトレード認証を取得する）"
+},
+{
+"id": "w1821",
+"pos": "名詞句",
+"exampleJa": "倫理的消費が購買決定に影響を与えている。",
+"note": "類義語：ethical consumption, responsible consumption\n表現：influence purchasing decisions（購買決定に影響を与える）"
+},
+{
+"id": "w1822",
+"pos": "名詞句",
+"exampleJa": "インパクト投資は社会的利益と金銭的利益の両方を生み出すことを目指している。",
+"note": "類義語：socially responsible investing, impact finance\n表現：generate social and financial returns（社会的・金銭的利益を生み出す）"
+},
+{
+"id": "w1823",
+"pos": "名詞句",
+"exampleJa": "そのソーシャルエンタープライズは利益を地域社会の事業に再投資している。",
+"note": "類義語：social business, mission-driven company\n表現：reinvest profits in community programs（利益を地域社会の事業に再投資する）"
+},
+{
+"id": "w1824",
+"pos": "名詞句",
+"exampleJa": "その会社はトリプルボトムラインを使って成功を評価している。",
+"note": "類義語：three-part performance measure, three-pillar approach\n表現：measure success using the triple bottom line（トリプルボトムラインで成功を評価する）"
+},
+{
+"id": "w1825",
+"pos": "形容詞",
+"exampleJa": "その会社は2035年までにカーボンニュートラルになることを目指している。",
+"note": "類義語：carbon-neutral, net-zero\n表現：become carbon neutral（カーボンニュートラルになる）"
+},
+{
+"id": "w1826",
+"pos": "名詞句",
+"exampleJa": "その国は2050年までにネットゼロ排出を達成すると約束した。",
+"note": "類義語：net-zero emissions, zero net emissions\n表現：achieve net zero emissions（ネットゼロ排出を達成する）"
+},
+{
+"id": "w1827",
+"pos": "名詞句",
+"exampleJa": "その都市は気候変動への強靭性を高めるインフラに投資した。",
+"note": "類義語：climate adaptability, climate preparedness\n表現：build climate resilience（気候変動への強靭性を高める）"
+},
+{
+"id": "w1828",
+"pos": "名詞句",
+"exampleJa": "海面上昇は沿岸地域の住民を脅かしている。",
+"note": "類義語：rising sea levels, sea-level increase\n表現：threaten coastal communities（沿岸地域を脅かす）"
+},
+{
+"id": "w1829",
+"pos": "名詞句",
+"exampleJa": "異常気象現象がより頻繁に発生するようになっている。",
+"note": "類義語：severe weather event, extreme weather occurrence\n表現：extreme weather events（異常気象現象）"
+},
+{
+"id": "w1830",
+"pos": "名詞句",
+"exampleJa": "両国は貿易に関する二国間協定に署名した。",
+"note": "類義語：bilateral pact, two-country agreement\n表現：sign a bilateral agreement（二国間協定に署名する）"
+},
+{
+"id": "w1831",
+"pos": "名詞句",
+"exampleJa": "多国間協議では地域の貿易紛争が議論された。",
+"note": "類義語：multilateral negotiations, international talks\n表現：hold multilateral talks（多国間協議を行う）"
+},
+{
+"id": "w1832",
+"pos": "名詞",
+"exampleJa": "その国に経済制裁が科された。",
+"note": "類義語：penalties, punitive measures\n表現：impose sanctions（制裁を科す）"
+},
+{
+"id": "w1833",
+"pos": "名詞",
+"exampleJa": "その禁輸措置によって特定の商品の輸出が制限された。",
+"note": "類義語：trade ban, prohibition on trade\n表現：impose an embargo（禁輸措置を課す）"
+},
+{
+"id": "w1834",
+"pos": "名詞句",
+"exampleJa": "両国は昨年、外交関係を回復した。",
+"note": "類義語：diplomatic ties, international relations\n表現：restore diplomatic relations（外交関係を回復する）"
+},
+{
+"id": "w1835",
+"pos": "名詞",
+"exampleJa": "彼女はパスポートを更新するために領事館を訪れた。",
+"note": "類義語：consular office, diplomatic office\n表現：visit the consulate（領事館を訪れる）"
+},
+{
+"id": "w1836",
+"pos": "名詞句",
+"exampleJa": "新政権は外交政策の優先事項を明らかにした。",
+"note": "類義語：international policy, diplomatic policy\n表現：foreign policy priorities（外交政策の優先事項）"
+},
+{
+"id": "w1837",
+"pos": "名詞句",
+"exampleJa": "その協定によっていくつかの貿易障壁が撤廃された。",
+"note": "類義語：trade restriction, trade obstacle\n表現：remove trade barriers（貿易障壁を撤廃する）"
+},
+{
+"id": "w1838",
+"pos": "名詞句",
+"exampleJa": "政府は鉄鋼製品に輸入割当を設定した。",
+"note": "類義語：import limit, import restriction\n表現：set an import quota（輸入割当を設定する）"
+},
+{
+"id": "w1839",
+"pos": "名詞",
+"exampleJa": "政府は再生可能エネルギー事業に補助金を提供している。",
+"note": "類義語：grant, financial aid\n表現：provide a subsidy（補助金を提供する）"
+},
+{
+"id": "w1840",
+"pos": "名詞句",
+"exampleJa": "その州は新規事業に税制優遇措置を提供している。",
+"note": "類義語：tax benefit, tax break\n表現：offer a tax incentive（税制優遇措置を提供する）"
+},
+{
+"id": "w1841",
+"pos": "名詞句",
+"exampleJa": "彼女の所得によって、より高い税率区分に移った。",
+"note": "類義語：tax rate category, income tax bracket\n表現：move into a higher tax bracket（より高い税率区分に入る）"
+},
+{
+"id": "w1842",
+"pos": "名詞句",
+"exampleJa": "彼女は期限前に確定申告書を提出した。",
+"note": "類義語：income tax return, tax filing\n表現：file a tax return（確定申告書を提出する）"
+},
+{
+"id": "w1843",
+"pos": "名詞句",
+"exampleJa": "その会社は昨年、税務調査を受けた。",
+"note": "類義語：tax inspection, tax examination\n表現：undergo a tax audit（税務調査を受ける）"
+},
+{
+"id": "w1844",
+"pos": "名詞句",
+"exampleJa": "その幹部は脱税の罪で起訴された。",
+"note": "類義語：tax fraud, illegal tax avoidance\n表現：be charged with tax evasion（脱税で起訴される）"
+},
+{
+"id": "w1845",
+"pos": "名詞句",
+"exampleJa": "一部の企業は税金を減らすためにタックスヘイブンで登記している。",
+"note": "類義語：offshore tax center, low-tax jurisdiction\n表現：register in a tax haven（タックスヘイブンで登記する）"
+},
+{
+"id": "w1846",
+"pos": "名詞句",
+"exampleJa": "付加価値税は小売価格に含まれている。",
+"note": "類義語：VAT, consumption tax\n表現：include value-added tax（付加価値税を含む）"
+},
+{
+"id": "w1847",
+"pos": "名詞句",
+"exampleJa": "消費税は州によって異なる。",
+"note": "類義語：consumption tax, retail sales tax\n表現：sales tax rate（消費税率）"
+},
+{
+"id": "w1848",
+"pos": "名詞句",
+"exampleJa": "資産評価によって支払うべき税額が決まる。",
+"note": "類義語：property valuation, asset appraisal\n表現：determine the tax amount（税額を決定する）"
+},
+{
+"id": "w1849",
+"pos": "名詞句",
+"exampleJa": "自由貿易協定によってほとんどの関税が撤廃された。",
+"note": "類義語：free trade pact, trade agreement\n表現：sign a free trade agreement（自由貿易協定に署名する）"
+},
+{
+"id": "w1850",
+"pos": "名詞句",
+"exampleJa": "その国は今四半期に貿易黒字を記録した。",
+"note": "類義語：positive trade balance, trade surplus\n表現：record a trade surplus（貿易黒字を記録する）"
+},
+{
+"id": "w1851",
+"pos": "名詞句",
+"exampleJa": "輸出の増加により貿易収支が改善した。",
+"note": "類義語：trade balance, balance of imports and exports\n表現：improve the balance of trade（貿易収支を改善する）"
+},
+{
+"id": "w1852",
+"pos": "名詞句",
+"exampleJa": "通貨切り下げによって輸出品の競争力が高まった。",
+"note": "類義語：currency depreciation, devaluation\n表現：devalue a currency（通貨を切り下げる）"
+},
+{
+"id": "w1853",
+"pos": "名詞句",
+"exampleJa": "トレーダーは外国為替市場を注意深く監視している。",
+"note": "類義語：forex market, currency market\n表現：monitor the foreign exchange market（外国為替市場を監視する）"
+},
+{
+"id": "w1854",
+"pos": "名詞句",
+"exampleJa": "中央銀行はインフレを抑制するために金利を引き上げた。",
+"note": "類義語：national bank, monetary authority\n表現：raise interest rates（金利を引き上げる）"
+},
+{
+"id": "w1855",
+"pos": "名詞句",
+"exampleJa": "中央銀行の金融政策は借入コストに影響を与える。",
+"note": "類義語：monetary strategy, central banking policy\n表現：monetary policy affects borrowing costs（金融政策が借入コストに影響する）"
+},
+{
+"id": "w1856",
+"pos": "名詞句",
+"exampleJa": "政府の財政政策は成長を促進することを目指している。",
+"note": "類義語：fiscal strategy, government spending policy\n表現：fiscal policy measures（財政政策措置）"
+},
+{
+"id": "w1857",
+"pos": "名詞句",
+"exampleJa": "国の借金は毎年増え続けている。",
+"note": "類義語：government debt, public debt\n表現：national debt continues to grow（国の借金が増え続ける）"
+},
+{
+"id": "w1858",
+"pos": "名詞句",
+"exampleJa": "政府は今年、財政赤字を報告した。",
+"note": "類義語：budget shortfall, fiscal deficit\n表現：run a budget deficit（財政赤字になる）"
+},
+{
+"id": "w1859",
+"pos": "名詞句",
+"exampleJa": "昨四半期に経済成長率は鈍化した。",
+"note": "類義語：economic growth percentage, growth rate\n表現：economic growth rate（経済成長率）"
+},
+{
+"id": "w1860",
+"pos": "名詞句",
+"exampleJa": "消費者物価指数は2パーセント上昇した。",
+"note": "類義語：CPI, consumer price measure\n表現：consumer price index rises（消費者物価指数が上昇する）"
+},
+{
+"id": "w1861",
+"pos": "名詞句",
+"exampleJa": "インフレによって消費者の購買力が低下した。",
+"note": "類義語：buying power, spending power\n表現：reduce purchasing power（購買力を低下させる）"
+},
+{
+"id": "w1862",
+"pos": "名詞句",
+"exampleJa": "その都市の生活費は急激に上昇している。",
+"note": "類義語：living expenses, household expenses\n表現：the cost of living rises（生活費が上昇する）"
+},
+{
+"id": "w1863",
+"pos": "名詞句",
+"exampleJa": "その国の生活水準は着実に向上している。",
+"note": "類義語：quality of life, living conditions\n表現：improve the standard of living（生活水準を向上させる）"
+},
+{
+"id": "w1864",
+"pos": "名詞句",
+"exampleJa": "所得格差は依然として主要な政策上の懸念事項である。",
+"note": "類義語：income disparity, earnings gap\n表現：reduce income inequality（所得格差を縮小する）"
+},
+{
+"id": "w1865",
+"pos": "名詞句",
+"exampleJa": "富の分配は地域によって大きく異なる。",
+"note": "類義語：distribution of wealth, wealth allocation\n表現：wealth distribution varies（富の分配は異なる）"
+},
+{
+"id": "w1866",
+"pos": "名詞句",
+"exampleJa": "何百万人もの人々が貧困線を下回る生活をしている。",
+"note": "類義語：poverty threshold, minimum income level\n表現：live below the poverty line（貧困線を下回って生活する）"
+},
+{
+"id": "w1867",
+"pos": "名詞句",
+"exampleJa": "その社会福祉プログラムは低所得世帯を支援している。",
+"note": "類義語：social assistance program, welfare program\n表現：support low-income families（低所得世帯を支援する）"
+},
+{
+"id": "w1868",
+"pos": "名詞句",
+"exampleJa": "彼女は失業中に公的扶助を受けた。",
+"note": "類義語：government assistance, public aid\n表現：receive public assistance（公的扶助を受ける）"
+},
+{
+"id": "w1869",
+"pos": "名詞",
+"exampleJa": "弁護士は法廷で証拠を提示した。",
+"note": "類義語：court, courtroom setting\n表現：present evidence in the courtroom（法廷で証拠を提示する）"
+},
+{
+"id": "w1870",
+"pos": "名詞句",
+"exampleJa": "裁判官の判決は原告側に有利だった。",
+"note": "類義語：court ruling, judicial decision\n表現：issue a ruling（判決を下す）"
+},
+{
+"id": "w1871",
+"pos": "名詞句",
+"exampleJa": "彼は来月、陪審員の義務に呼び出された。",
+"note": "類義語：jury service, jury obligation\n表現：serve on a jury（陪審員を務める）"
+},
+{
+"id": "w1872",
+"pos": "名詞句",
+"exampleJa": "法的手続きの解決には数か月かかることがある。",
+"note": "類義語：court proceedings, legal action\n表現：begin legal proceedings（法的手続きを開始する）"
+},
+{
+"id": "w1873",
+"pos": "名詞",
+"exampleJa": "その証人は厳しい反対尋問を受けた。",
+"note": "類義語：questioning of a witness, hostile questioning\n表現：face cross-examination（反対尋問を受ける）"
+},
+{
+"id": "w1874",
+"pos": "名詞",
+"exampleJa": "陪審は2日間の審議の後、評決に達した。",
+"note": "類義語：judgment, decision\n表現：reach a verdict（評決に達する）"
+},
+{
+"id": "w1875",
+"pos": "名詞句",
+"exampleJa": "その会社は控訴裁判所に控訴を申し立てた。",
+"note": "類義語：appellate court, appeals court\n表現：file an appeal（控訴を申し立てる）"
+},
+{
+"id": "w1876",
+"pos": "名詞句",
+"exampleJa": "双方は裁判外和解に合意した。",
+"note": "類義語：settlement agreement, negotiated settlement\n表現：reach an out-of-court settlement（裁判外和解に達する）"
+},
+{
+"id": "w1877",
+"pos": "名詞句",
+"exampleJa": "訴訟中は弁護士費用がすぐに積み重なることがある。",
+"note": "類義語：attorney fee, lawyer's fee\n表現：pay legal fees（弁護士費用を支払う）"
+},
+{
+"id": "w1878",
+"pos": "名詞句",
+"exampleJa": "依頼人は弁護士のサービスを確保するために顧問料を支払った。",
+"note": "類義語：advance fee, lawyer's retainer\n表現：pay a retainer fee（顧問料を支払う）"
+},
+{
+"id": "w1879",
+"pos": "名詞句",
+"exampleJa": "彼女は大手法律事務所でパラリーガルとして働いている。",
+"note": "類義語：legal practice, law office\n表現：work at a law firm（法律事務所で働く）"
+},
+{
+"id": "w1880",
+"pos": "名詞",
+"exampleJa": "そのパラリーガルは裁判のための書類を準備した。",
+"note": "類義語：legal assistant, legal secretary\n表現：prepare legal documents（法律文書を準備する）"
+},
+{
+"id": "w1881",
+"pos": "名詞句",
+"exampleJa": "彼は司法試験に一度目の受験で合格した。",
+"note": "類義語：law licensing exam, legal qualification exam\n表現：pass the bar exam（司法試験に合格する）"
+},
+{
+"id": "w1882",
+"pos": "名詞句",
+"exampleJa": "その判決は新たな判例を確立した。",
+"note": "類義語：judicial precedent, case precedent\n表現：set a legal precedent（判例を確立する）"
+},
+{
+"id": "w1883",
+"pos": "名詞句",
+"exampleJa": "その請求の時効が成立した。",
+"note": "類義語：limitation period, legal time limit\n表現：the statute of limitations expires（時効期間が満了する）"
+},
+{
+"id": "w1884",
+"pos": "名詞句",
+"exampleJa": "その会社は契約紛争をめぐる民事訴訟に直面している。",
+"note": "類義語：civil action, civil case\n表現：face a civil lawsuit（民事訴訟に直面する）"
+},
+{
+"id": "w1885",
+"pos": "名詞句",
+"exampleJa": "彼は逮捕され、刑事告訴を受けた。",
+"note": "類義語：criminal accusation, criminal allegation\n表現：face a criminal charge（刑事告訴を受ける）"
+},
+{
+"id": "w1886",
+"pos": "名詞",
+"exampleJa": "彼女は軽微な軽犯罪で起訴された。",
+"note": "類義語：minor offense, petty crime\n表現：be charged with a misdemeanor（軽犯罪で起訴される）"
+},
+{
+"id": "w1887",
+"pos": "名詞",
+"exampleJa": "その犯罪は重罪に分類された。",
+"note": "類義語：serious crime, major offense\n表現：be classified as a felony（重罪に分類される）"
+},
+{
+"id": "w1888",
+"pos": "名詞句",
+"exampleJa": "彼は毎月、保護観察官と面会している。",
+"note": "類義語：probation supervisor, community supervision officer\n表現：meet with a probation officer（保護観察官と面会する）"
+},
+{
+"id": "w1889",
+"pos": "名詞",
+"exampleJa": "彼は刑期の半分を務めた後、仮釈放された。",
+"note": "類義語：conditional release, supervised release\n表現：be released on parole（仮釈放される）"
+},
+{
+"id": "w1890",
+"pos": "名詞句",
+"exampleJa": "法執行機関はその事件に迅速に対応した。",
+"note": "類義語：police authorities, law enforcement agencies\n表現：law enforcement officials（法執行機関の職員）"
+},
+{
+"id": "w1891",
+"pos": "名詞句",
+"exampleJa": "彼女は窃盗後に警察報告書を提出した。",
+"note": "類義語：police record, incident report\n表現：file a police report（警察報告書を提出する）"
+},
+{
+"id": "w1892",
+"pos": "名詞句",
+"exampleJa": "証人陳述書が証拠として提出された。",
+"note": "類義語：witness testimony, witness account\n表現：submit a witness statement（証人陳述書を提出する）"
+},
+{
+"id": "w1893",
+"pos": "名詞句",
+"exampleJa": "捜査官は現場での証拠収集に重点を置いた。",
+"note": "類義語：evidence gathering, collection of evidence\n表現：focus on evidence collection（証拠収集に重点を置く）"
+},
+{
+"id": "w1894",
+"pos": "名詞句",
+"exampleJa": "警察は捜査のために犯罪現場を封鎖した。",
+"note": "類義語：scene of the crime, crime site\n表現：secure the crime scene（犯罪現場を封鎖する）"
+},
+{
+"id": "w1895",
+"pos": "名詞句",
+"exampleJa": "法医学的分析によって事件の原因が確認された。",
+"note": "類義語：forensic examination, forensic investigation\n表現：conduct forensic analysis（法医学的分析を行う）"
+},
+{
+"id": "w1896",
+"pos": "名詞句",
+"exampleJa": "その会社は事件のために私立探偵を雇った。",
+"note": "類義語：private detective, private detective investigator\n表現：hire a private investigator（私立探偵を雇う）"
+},
+{
+"id": "w1897",
+"pos": "名詞句",
+"exampleJa": "警備員が建物の入り口を監視している。",
+"note": "類義語：security officer, guard\n表現：monitor the building entrance（建物の入り口を監視する）"
+},
+{
+"id": "w1898",
+"pos": "名詞句",
+"exampleJa": "その店は新しい監視システムを設置した。",
+"note": "類義語：security system, monitoring system\n表現：install a surveillance system（監視システムを設置する）"
+},
+{
+"id": "w1899",
+"pos": "名詞句",
+"exampleJa": "そのオフィスは安全のために入退室管理システムを使用している。",
+"note": "類義語：entry control system, security access system\n表現：use an access control system（入退室管理システムを使用する）"
+},
+{
+"id": "w1900",
+"pos": "名詞句",
+"exampleJa": "彼女は昨年、個人情報盗難の被害に遭った。",
+"note": "類義語：identity fraud, personal information theft\n表現：become a victim of identity theft（個人情報盗難の被害者になる）"
+}
+]

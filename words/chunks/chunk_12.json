@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1101",
+  "word": "delegation",
+  "meaning": "代表団",
+  "example": "A delegation from Japan visited the factory."
+ },
+ {
+  "id": "w1102",
+  "word": "humanitarian aid",
+  "meaning": "人道援助",
+  "example": "The organization provides humanitarian aid to refugees."
+ },
+ {
+  "id": "w1103",
+  "word": "refugee",
+  "meaning": "難民",
+  "example": "The camp provides shelter for thousands of refugees."
+ },
+ {
+  "id": "w1104",
+  "word": "immigration policy",
+  "meaning": "移民政策",
+  "example": "The new immigration policy affects work visas."
+ },
+ {
+  "id": "w1105",
+  "word": "naturalization",
+  "meaning": "帰化",
+  "example": "He completed the naturalization process last year."
+ },
+ {
+  "id": "w1106",
+  "word": "dual citizenship",
+  "meaning": "二重国籍",
+  "example": "She holds dual citizenship in two countries."
+ },
+ {
+  "id": "w1107",
+  "word": "cultural exchange",
+  "meaning": "文化交流",
+  "example": "The program promotes cultural exchange between students."
+ },
+ {
+  "id": "w1108",
+  "word": "language barrier",
+  "meaning": "言語の壁",
+  "example": "A language barrier made communication difficult."
+ },
+ {
+  "id": "w1109",
+  "word": "interpreter",
+  "meaning": "通訳者",
+  "example": "An interpreter assisted during the business meeting."
+ },
+ {
+  "id": "w1110",
+  "word": "translation service",
+  "meaning": "翻訳サービス",
+  "example": "The company hired a translation service for its documents."
+ },
+ {
+  "id": "w1111",
+  "word": "bilingual",
+  "meaning": "バイリンガルの",
+  "example": "She is bilingual in English and Spanish."
+ },
+ {
+  "id": "w1112",
+  "word": "multicultural",
+  "meaning": "多文化の",
+  "example": "The city is known for its multicultural community."
+ },
+ {
+  "id": "w1113",
+  "word": "job posting",
+  "meaning": "求人情報",
+  "example": "The job posting attracted over a hundred applicants."
+ },
+ {
+  "id": "w1114",
+  "word": "cover letter",
+  "meaning": "カバーレター",
+  "example": "She attached a cover letter to her application."
+ },
+ {
+  "id": "w1115",
+  "word": "job offer",
+  "meaning": "内定、雇用の申し出",
+  "example": "He accepted the job offer after negotiating salary."
+ },
+ {
+  "id": "w1116",
+  "word": "employment contract",
+  "meaning": "雇用契約",
+  "example": "Both parties signed the employment contract."
+ },
+ {
+  "id": "w1117",
+  "word": "job description",
+  "meaning": "職務内容",
+  "example": "The job description outlines the daily responsibilities."
+ },
+ {
+  "id": "w1118",
+  "word": "qualification requirement",
+  "meaning": "資格要件",
+  "example": "Applicants must meet the qualification requirements."
+ },
+ {
+  "id": "w1119",
+  "word": "work permit",
+  "meaning": "労働許可証",
+  "example": "Foreign employees need a valid work permit."
+ },
+ {
+  "id": "w1120",
+  "word": "background check",
+  "meaning": "身元調査",
+  "example": "The company conducted a background check on new hires."
+ },
+ {
+  "id": "w1121",
+  "word": "reference check",
+  "meaning": "照会確認",
+  "example": "A reference check is part of the hiring process."
+ },
+ {
+  "id": "w1122",
+  "word": "job fair",
+  "meaning": "就職説明会",
+  "example": "The university hosted a job fair for graduating students."
+ },
+ {
+  "id": "w1123",
+  "word": "career path",
+  "meaning": "キャリアパス",
+  "example": "She discussed her career path with a mentor."
+ },
+ {
+  "id": "w1124",
+  "word": "professional development",
+  "meaning": "専門能力開発",
+  "example": "The company invests in professional development for staff."
+ },
+ {
+  "id": "w1125",
+  "word": "skill set",
+  "meaning": "スキルセット",
+  "example": "His skill set includes both design and coding."
+ },
+ {
+  "id": "w1126",
+  "word": "soft skills",
+  "meaning": "ソフトスキル",
+  "example": "Soft skills like communication are highly valued."
+ },
+ {
+  "id": "w1127",
+  "word": "technical skills",
+  "meaning": "技術的スキル",
+  "example": "The job requires strong technical skills in software."
+ },
+ {
+  "id": "w1128",
+  "word": "job rotation",
+  "meaning": "ジョブローテーション",
+  "example": "Job rotation helps employees gain diverse experience."
+ },
+ {
+  "id": "w1129",
+  "word": "succession planning",
+  "meaning": "後継者育成計画",
+  "example": "The company developed a succession planning strategy."
+ },
+ {
+  "id": "w1130",
+  "word": "exit interview",
+  "meaning": "退職面談",
+  "example": "An exit interview was conducted before she left the company."
+ },
+ {
+  "id": "w1131",
+  "word": "employee handbook",
+  "meaning": "従業員ハンドブック",
+  "example": "New hires must read the employee handbook."
+ },
+ {
+  "id": "w1132",
+  "word": "workplace ethics",
+  "meaning": "職場倫理",
+  "example": "The training covers workplace ethics and integrity."
+ },
+ {
+  "id": "w1133",
+  "word": "nepotism",
+  "meaning": "縁故主義",
+  "example": "The company has a strict policy against nepotism."
+ },
+ {
+  "id": "w1134",
+  "word": "favoritism",
+  "meaning": "えこひいき",
+  "example": "Employees complained about favoritism in promotions."
+ },
+ {
+  "id": "w1135",
+  "word": "discrimination",
+  "meaning": "差別",
+  "example": "The law prohibits discrimination based on age or gender."
+ },
+ {
+  "id": "w1136",
+  "word": "equal opportunity",
+  "meaning": "機会均等",
+  "example": "The company promotes equal opportunity employment."
+ },
+ {
+  "id": "w1137",
+  "word": "affirmative action",
+  "meaning": "積極的差別是正措置",
+  "example": "The policy includes affirmative action guidelines."
+ },
+ {
+  "id": "w1138",
+  "word": "labor law",
+  "meaning": "労働法",
+  "example": "The company complies with all applicable labor laws."
+ },
+ {
+  "id": "w1139",
+  "word": "minimum wage",
+  "meaning": "最低賃金",
+  "example": "The government raised the minimum wage this year."
+ },
+ {
+  "id": "w1140",
+  "word": "overtime pay",
+  "meaning": "残業手当",
+  "example": "Employees receive overtime pay for extra hours."
+ },
+ {
+  "id": "w1141",
+  "word": "bereavement leave",
+  "meaning": "忌引き休暇",
+  "example": "He took bereavement leave after his grandfather passed away."
+ },
+ {
+  "id": "w1142",
+  "word": "unpaid leave",
+  "meaning": "無給休暇",
+  "example": "She requested unpaid leave for personal reasons."
+ },
+ {
+  "id": "w1143",
+  "word": "sabbatical",
+  "meaning": "サバティカル休暇",
+  "example": "The professor took a sabbatical to write a book."
+ },
+ {
+  "id": "w1144",
+  "word": "flextime arrangement",
+  "meaning": "フレックスタイム制度",
+  "example": "The company offers a flextime arrangement for parents."
+ },
+ {
+  "id": "w1145",
+  "word": "compressed workweek",
+  "meaning": "週休3日制などの圧縮勤務",
+  "example": "Some employees opted for a compressed workweek."
+ },
+ {
+  "id": "w1146",
+  "word": "job sharing",
+  "meaning": "ジョブシェアリング",
+  "example": "Job sharing allows two people to split one full-time role."
+ },
+ {
+  "id": "w1147",
+  "word": "smartphone app",
+  "meaning": "スマートフォンアプリ",
+  "example": "The company released a new smartphone app for customers."
+ },
+ {
+  "id": "w1148",
+  "word": "mobile device",
+  "meaning": "モバイル端末",
+  "example": "Employees can access email from any mobile device."
+ },
+ {
+  "id": "w1149",
+  "word": "charging cable",
+  "meaning": "充電ケーブル",
+  "example": "She forgot her charging cable at home."
+ },
+ {
+  "id": "w1150",
+  "word": "battery life",
+  "meaning": "バッテリー寿命",
+  "example": "The new laptop has an impressive battery life."
+ },
+ {
+  "id": "w1151",
+  "word": "touchscreen",
+  "meaning": "タッチスクリーン",
+  "example": "The kiosk features an easy-to-use touchscreen."
+ },
+ {
+  "id": "w1152",
+  "word": "virtual reality",
+  "meaning": "仮想現実",
+  "example": "The company is exploring virtual reality for training."
+ },
+ {
+  "id": "w1153",
+  "word": "augmented reality",
+  "meaning": "拡張現実",
+  "example": "The app uses augmented reality to show furniture in your home."
+ },
+ {
+  "id": "w1154",
+  "word": "streaming platform",
+  "meaning": "ストリーミングプラットフォーム",
+  "example": "The streaming platform added new content this month."
+ },
+ {
+  "id": "w1155",
+  "word": "online forum",
+  "meaning": "オンラインフォーラム",
+  "example": "Users discuss issues on the company's online forum."
+ },
+ {
+  "id": "w1156",
+  "word": "web browser",
+  "meaning": "ウェブブラウザ",
+  "example": "Update your web browser for better security."
+ },
+ {
+  "id": "w1157",
+  "word": "search engine",
+  "meaning": "検索エンジン",
+  "example": "The website ranks high on the search engine results."
+ },
+ {
+  "id": "w1158",
+  "word": "download speed",
+  "meaning": "ダウンロード速度",
+  "example": "The new plan offers faster download speeds."
+ },
+ {
+  "id": "w1159",
+  "word": "data center",
+  "meaning": "データセンター",
+  "example": "The company built a new data center overseas."
+ },
+ {
+  "id": "w1160",
+  "word": "server room",
+  "meaning": "サーバー室",
+  "example": "Only authorized staff may enter the server room."
+ },
+ {
+  "id": "w1161",
+  "word": "network administrator",
+  "meaning": "ネットワーク管理者",
+  "example": "The network administrator resolved the connectivity issue."
+ },
+ {
+  "id": "w1162",
+  "word": "software update",
+  "meaning": "ソフトウェアアップデート",
+  "example": "Install the software update before the meeting."
+ },
+ {
+  "id": "w1163",
+  "word": "system crash",
+  "meaning": "システムクラッシュ",
+  "example": "A system crash delayed the morning's operations."
+ },
+ {
+  "id": "w1164",
+  "word": "data recovery",
+  "meaning": "データ復旧",
+  "example": "The IT team performed data recovery after the crash."
+ },
+ {
+  "id": "w1165",
+  "word": "digital signature",
+  "meaning": "電子署名",
+  "example": "The contract was signed with a digital signature."
+ },
+ {
+  "id": "w1166",
+  "word": "e-commerce platform",
+  "meaning": "eコマースプラットフォーム",
+  "example": "The company built its own e-commerce platform."
+ },
+ {
+  "id": "w1167",
+  "word": "online payment",
+  "meaning": "オンライン決済",
+  "example": "Customers can make an online payment through the app."
+ },
+ {
+  "id": "w1168",
+  "word": "mobile banking",
+  "meaning": "モバイルバンキング",
+  "example": "Mobile banking allows customers to check balances instantly."
+ },
+ {
+  "id": "w1169",
+  "word": "digital wallet",
+  "meaning": "デジタルウォレット",
+  "example": "Many customers now use a digital wallet for purchases."
+ },
+ {
+  "id": "w1170",
+  "word": "contactless payment",
+  "meaning": "非接触決済",
+  "example": "Contactless payment is now accepted at most stores."
+ },
+ {
+  "id": "w1171",
+  "word": "QR code",
+  "meaning": "QRコード",
+  "example": "Scan the QR code to access the menu."
+ },
+ {
+  "id": "w1172",
+  "word": "point of sale system",
+  "meaning": "POSシステム",
+  "example": "The store upgraded its point of sale system."
+ },
+ {
+  "id": "w1173",
+  "word": "inventory tracking",
+  "meaning": "在庫追跡",
+  "example": "The software improves inventory tracking accuracy."
+ },
+ {
+  "id": "w1174",
+  "word": "real-time data",
+  "meaning": "リアルタイムデータ",
+  "example": "Managers can view real-time data on sales performance."
+ },
+ {
+  "id": "w1175",
+  "word": "predictive analytics",
+  "meaning": "予測分析",
+  "example": "Predictive analytics forecasts future customer behavior."
+ },
+ {
+  "id": "w1176",
+  "word": "big data",
+  "meaning": "ビッグデータ",
+  "example": "The company uses big data to improve its marketing strategy."
+ },
+ {
+  "id": "w1177",
+  "word": "data privacy",
+  "meaning": "データプライバシー",
+  "example": "The new law strengthens data privacy protections."
+ },
+ {
+  "id": "w1178",
+  "word": "sports arena",
+  "meaning": "スポーツアリーナ",
+  "example": "The sports arena hosts concerts as well as games."
+ },
+ {
+  "id": "w1179",
+  "word": "season pass",
+  "meaning": "シーズンパス",
+  "example": "He bought a season pass to watch every home game."
+ },
+ {
+  "id": "w1180",
+  "word": "championship title",
+  "meaning": "選手権タイトル",
+  "example": "The team won the championship title last season."
+ },
+ {
+  "id": "w1181",
+  "word": "referee",
+  "meaning": "審判",
+  "example": "The referee made a controversial call in the final minute."
+ },
+ {
+  "id": "w1182",
+  "word": "coaching staff",
+  "meaning": "コーチ陣",
+  "example": "The coaching staff developed a new training plan."
+ },
+ {
+  "id": "w1183",
+  "word": "athletic performance",
+  "meaning": "運動能力、競技成績",
+  "example": "Proper nutrition improves athletic performance."
+ },
+ {
+  "id": "w1184",
+  "word": "fitness center",
+  "meaning": "フィットネスセンター",
+  "example": "The company added a fitness center for employees."
+ },
+ {
+  "id": "w1185",
+  "word": "personal trainer",
+  "meaning": "パーソナルトレーナー",
+  "example": "She hired a personal trainer to reach her fitness goals."
+ },
+ {
+  "id": "w1186",
+  "word": "marathon",
+  "meaning": "マラソン",
+  "example": "Thousands of runners participated in the marathon."
+ },
+ {
+  "id": "w1187",
+  "word": "tournament bracket",
+  "meaning": "トーナメント表",
+  "example": "The tournament bracket was posted on the website."
+ },
+ {
+  "id": "w1188",
+  "word": "spectator",
+  "meaning": "観客",
+  "example": "Spectators cheered as the team scored the winning goal."
+ },
+ {
+  "id": "w1189",
+  "word": "scoreboard",
+  "meaning": "スコアボード",
+  "example": "The scoreboard displayed the final result."
+ },
+ {
+  "id": "w1190",
+  "word": "locker room",
+  "meaning": "ロッカールーム",
+  "example": "Players gathered in the locker room before the game."
+ },
+ {
+  "id": "w1191",
+  "word": "equipment rental",
+  "meaning": "用具レンタル",
+  "example": "The ski resort offers equipment rental services."
+ },
+ {
+  "id": "w1192",
+  "word": "outdoor recreation",
+  "meaning": "野外レクリエーション",
+  "example": "The park is popular for outdoor recreation activities."
+ },
+ {
+  "id": "w1193",
+  "word": "hiking trail",
+  "meaning": "ハイキングコース",
+  "example": "The hiking trail offers stunning mountain views."
+ },
+ {
+  "id": "w1194",
+  "word": "camping gear",
+  "meaning": "キャンプ用品",
+  "example": "They packed camping gear for the weekend trip."
+ },
+ {
+  "id": "w1195",
+  "word": "national park",
+  "meaning": "国立公園",
+  "example": "The national park attracts millions of visitors each year."
+ },
+ {
+  "id": "w1196",
+  "word": "wildlife sanctuary",
+  "meaning": "野生生物保護区",
+  "example": "The wildlife sanctuary protects endangered species."
+ },
+ {
+  "id": "w1197",
+  "word": "botanical garden",
+  "meaning": "植物園",
+  "example": "The botanical garden features plants from around the world."
+ },
+ {
+  "id": "w1198",
+  "word": "amusement park",
+  "meaning": "遊園地",
+  "example": "The amusement park introduced a new roller coaster."
+ },
+ {
+  "id": "w1199",
+  "word": "theme park attraction",
+  "meaning": "テーマパークのアトラクション",
+  "example": "The new theme park attraction opened last summer."
+ },
+ {
+  "id": "w1200",
+  "word": "carnival",
+  "meaning": "カーニバル、移動遊園地",
+  "example": "The town holds an annual carnival in the spring."
+ }
+]

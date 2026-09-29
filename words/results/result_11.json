@@ -1,0 +1,602 @@
+[
+{
+"id": "w1001",
+"pos": "名詞",
+"exampleJa": "彼女は旅行前にパスポートの更新を申請した。",
+"note": "表現：apply for a passport renewal（パスポートの更新を申請する）"
+},
+{
+"id": "w1002",
+"pos": "名詞",
+"exampleJa": "国境を越えるのに予想以上に時間がかかった。",
+"note": "表現：border crossing（国境越え）"
+},
+{
+"id": "w1003",
+"pos": "名詞",
+"exampleJa": "フライトを予約する前に渡航情報を確認してください。",
+"note": "表現：travel advisory（渡航情報・旅行勧告）"
+},
+{
+"id": "w1004",
+"pos": "名詞",
+"exampleJa": "彼らは費用を節約するためにユースホステルに泊まった。",
+"note": "類義語：hostel, lodging, accommodation"
+},
+{
+"id": "w1005",
+"pos": "名詞",
+"exampleJa": "私たちは田園地帯の居心地の良い民宿を予約した。",
+"note": "表現：bed and breakfast（朝食付き民宿）"
+},
+{
+"id": "w1006",
+"pos": "名詞",
+"exampleJa": "そのリゾートではさまざまな屋外活動を楽しめる。",
+"note": "類義語：resort, retreat, vacation spot"
+},
+{
+"id": "w1007",
+"pos": "名詞",
+"exampleJa": "そのクルーズ船は3つの異なる港に寄港した。",
+"note": "表現：cruise ship（クルーズ船）"
+},
+{
+"id": "w1008",
+"pos": "名詞",
+"exampleJa": "次の寄港地は小さな海辺の町です。",
+"note": "表現：next port of call（次の寄港地）"
+},
+{
+"id": "w1009",
+"pos": "名詞",
+"exampleJa": "そのツアーには近くの島への小旅行が含まれていた。",
+"note": "類義語：trip, outing, tour"
+},
+{
+"id": "w1010",
+"pos": "名詞",
+"exampleJa": "平日は工場のガイド付きツアーを利用できます。",
+"note": "表現：guided tour（ガイド付きツアー）"
+},
+{
+"id": "w1011",
+"pos": "名詞",
+"exampleJa": "彼は昨年、東南アジアをバックパック旅行した。",
+"note": "派生：backpacker（バックパッカー）"
+},
+{
+"id": "w1012",
+"pos": "名詞",
+"exampleJa": "彼らは海岸沿いをドライブ旅行した。",
+"note": "表現：take a road trip（ドライブ旅行をする）"
+},
+{
+"id": "w1013",
+"pos": "名詞",
+"exampleJa": "私たちは高速道路ではなく景色の良いルートを選んだ。",
+"note": "表現：scenic route（景色の良いルート）"
+},
+{
+"id": "w1014",
+"pos": "名詞",
+"exampleJa": "バスは2時間後に休憩所に立ち寄った。",
+"note": "表現：make a rest stop（休憩所に立ち寄る）"
+},
+{
+"id": "w1015",
+"pos": "名詞",
+"exampleJa": "運転手は料金所で料金を支払わなければならない。",
+"note": "表現：toll booth（料金所）"
+},
+{
+"id": "w1016",
+"pos": "動詞・名詞",
+"exampleJa": "排出量を減らすため、従業員には相乗りが推奨されている。",
+"note": "類義語：share a ride, ride together\n表現：carpool to work（職場まで相乗りする）"
+},
+{
+"id": "w1017",
+"pos": "名詞",
+"exampleJa": "ラッシュアワーの間は交通量が多い。",
+"note": "表現：during rush hour（ラッシュアワーの間に）"
+},
+{
+"id": "w1018",
+"pos": "名詞",
+"exampleJa": "地下鉄の駅はオフィスから徒歩5分です。",
+"note": "表現：subway station（地下鉄の駅）"
+},
+{
+"id": "w1019",
+"pos": "名詞",
+"exampleJa": "電車に乗る前にプラットフォーム番号を確認してください。",
+"note": "表現：check the platform number（プラットフォーム番号を確認する）"
+},
+{
+"id": "w1020",
+"pos": "名詞",
+"exampleJa": "バスの時刻表は駅に掲示されていた。",
+"note": "類義語：schedule, timetable"
+},
+{
+"id": "w1021",
+"pos": "名詞",
+"exampleJa": "今年、電車の運賃はわずかに値上がりした。",
+"note": "類義語：charge, price, cost\n表現：train fare（電車の運賃）"
+},
+{
+"id": "w1022",
+"pos": "名詞",
+"exampleJa": "乗客は乗り換え地点で路線を変更できる。",
+"note": "表現：transfer point（乗り換え地点）"
+},
+{
+"id": "w1023",
+"pos": "名詞",
+"exampleJa": "券売機を使って運賃を支払うための切符を購入してください。",
+"note": "表現：ticket vending machine（券売機）"
+},
+{
+"id": "w1024",
+"pos": "名詞",
+"exampleJa": "市は中心部に新しい自転車専用レーンを設置した。",
+"note": "表現：bicycle lane（自転車専用レーン）"
+},
+{
+"id": "w1025",
+"pos": "名詞",
+"exampleJa": "道路を渡るときは必ず横断歩道を使ってください。",
+"note": "類義語：crosswalk, crossing\n表現：pedestrian crossing（横断歩道）"
+},
+{
+"id": "w1026",
+"pos": "名詞・動詞",
+"exampleJa": "道路工事のため迂回路が設けられた。",
+"note": "類義語：alternative route, diversion\n表現：take a detour（迂回する）"
+},
+{
+"id": "w1027",
+"pos": "名詞",
+"exampleJa": "道路工事によって主要高速道路で遅れが生じた。",
+"note": "類義語：road construction, construction work\n表現：roadwork delays（道路工事による遅延）"
+},
+{
+"id": "w1028",
+"pos": "名詞",
+"exampleJa": "運転手は表示された制限速度を守らなければならない。",
+"note": "表現：speed limit（制限速度）"
+},
+{
+"id": "w1029",
+"pos": "名詞",
+"exampleJa": "彼は駐車違反で違反切符を受け取った。",
+"note": "表現：parking violation（駐車違反）"
+},
+{
+"id": "w1030",
+"pos": "名詞",
+"exampleJa": "車両登録は毎年更新しなければならない。",
+"note": "表現：vehicle registration（車両登録）"
+},
+{
+"id": "w1031",
+"pos": "名詞",
+"exampleJa": "販売員は新型車の試乗を勧めた。",
+"note": "表現：take a test drive（試乗する）"
+},
+{
+"id": "w1032",
+"pos": "名詞",
+"exampleJa": "新型車は燃費が改善されている。",
+"note": "類義語：fuel economy, gas mileage\n表現：improve fuel efficiency（燃費を改善する）"
+},
+{
+"id": "w1033",
+"pos": "名詞",
+"exampleJa": "その車は年式の割に走行距離が少ない。",
+"note": "類義語：distance traveled, mileage"
+},
+{
+"id": "w1034",
+"pos": "名詞",
+"exampleJa": "高速道路で飛んできた石がフロントガラスにひびを入れた。",
+"note": "類義語：windshield, windscreen"
+},
+{
+"id": "w1035",
+"pos": "名詞",
+"exampleJa": "パンクに備えて、必ずスペアタイヤを積んでおきましょう。",
+"note": "表現：spare tire（スペアタイヤ）"
+},
+{
+"id": "w1036",
+"pos": "名詞",
+"exampleJa": "整備士はブレーキパッドを交換した。",
+"note": "類義語：technician, repairman\n表現：auto mechanic（自動車整備士）"
+},
+{
+"id": "w1037",
+"pos": "名詞",
+"exampleJa": "車が故障した後、私たちはレッカーサービスを呼んだ。",
+"note": "表現：towing service（レッカーサービス）"
+},
+{
+"id": "w1038",
+"pos": "名詞",
+"exampleJa": "そのアパート団地にはプールとジムがある。",
+"note": "類義語：apartment building, housing complex"
+},
+{
+"id": "w1039",
+"pos": "名詞",
+"exampleJa": "彼らは6か月間、家具付きアパートを借りた。",
+"note": "表現：furnished apartment（家具付きアパート）"
+},
+{
+"id": "w1040",
+"pos": "名詞",
+"exampleJa": "入居前に公共料金の保証金が必要です。",
+"note": "表現：utility deposit（公共料金の保証金）"
+},
+{
+"id": "w1041",
+"pos": "名詞",
+"exampleJa": "その店では幅広い家電製品を販売している。",
+"note": "類義語：appliance, household appliance\n表現：home appliance（家電製品）"
+},
+{
+"id": "w1042",
+"pos": "名詞",
+"exampleJa": "そのサービスには家具の組み立てが含まれている。",
+"note": "表現：furniture assembly（家具の組み立て）"
+},
+{
+"id": "w1043",
+"pos": "名詞",
+"exampleJa": "彼女は新しいオフィスのためにインテリアデザイナーを雇った。",
+"note": "派生：interior designer（インテリアデザイナー）\n表現：interior design（インテリアデザイン）"
+},
+{
+"id": "w1044",
+"pos": "名詞",
+"exampleJa": "彼らは住宅改修プロジェクトのためにお金を貯めた。",
+"note": "類義語：renovation, remodeling\n表現：home renovation project（住宅改修プロジェクト）"
+},
+{
+"id": "w1045",
+"pos": "名詞",
+"exampleJa": "配管の問題によって台所で水漏れが起きた。",
+"note": "類義語：pipework, plumbing system\n表現：plumbing issue（配管の問題）"
+},
+{
+"id": "w1046",
+"pos": "名詞",
+"exampleJa": "電気技師が新しい配線を取り付けた。",
+"note": "類義語：electrical technician, electrical worker"
+},
+{
+"id": "w1047",
+"pos": "名詞",
+"exampleJa": "大工は店のために特注の棚を作った。",
+"note": "類義語：woodworker, builder\n表現：custom shelves（特注の棚）"
+},
+{
+"id": "w1048",
+"pos": "名詞",
+"exampleJa": "彼女はエネルギーを節約するためにサーモスタットを調整した。",
+"note": "表現：adjust the thermostat（サーモスタットを調整する）"
+},
+{
+"id": "w1049",
+"pos": "名詞",
+"exampleJa": "エアコン装置には定期的なメンテナンスが必要だ。",
+"note": "類義語：air conditioner, AC unit\n表現：air conditioning unit（エアコン装置）"
+},
+{
+"id": "w1050",
+"pos": "名詞",
+"exampleJa": "その建物の暖房システムは昨冬に改良された。",
+"note": "表現：heating system（暖房システム）"
+},
+{
+"id": "w1051",
+"pos": "名詞",
+"exampleJa": "断熱性を高めると暖房費が減る。",
+"note": "類義語：thermal insulation, weatherproofing\n表現：better insulation（より優れた断熱）"
+},
+{
+"id": "w1052",
+"pos": "名詞",
+"exampleJa": "作業場では適切な換気が重要だ。",
+"note": "類義語：air circulation, aeration\n表現：proper ventilation（適切な換気）"
+},
+{
+"id": "w1053",
+"pos": "名詞",
+"exampleJa": "その会社は庭のために造園業者を雇った。",
+"note": "類義語：garden design, grounds maintenance\n表現：landscaping crew（造園チーム）"
+},
+{
+"id": "w1054",
+"pos": "名詞",
+"exampleJa": "彼は近所の人から芝刈り機を借りた。",
+"note": "表現：lawn mower（芝刈り機）"
+},
+{
+"id": "w1055",
+"pos": "名詞",
+"exampleJa": "その店ではさまざまな園芸用品を販売している。",
+"note": "類義語：gardening equipment, garden supplies\n表現：gardening tools（園芸用品）"
+},
+{
+"id": "w1056",
+"pos": "名詞",
+"exampleJa": "彼らは先月、ホームセキュリティシステムを設置した。",
+"note": "表現：home security system（ホームセキュリティシステム）"
+},
+{
+"id": "w1057",
+"pos": "名詞",
+"exampleJa": "煙探知機の電池を定期的に確認してください。",
+"note": "類義語：smoke alarm, fire alarm\n表現：check the battery（電池を確認する）"
+},
+{
+"id": "w1058",
+"pos": "名詞",
+"exampleJa": "すべての台所に消火器を備えることが義務付けられている。",
+"note": "類義語：fire extinguisher, extinguisher\n表現：use a fire extinguisher（消火器を使う）"
+},
+{
+"id": "w1059",
+"pos": "名詞",
+"exampleJa": "その衣料品店では季節セールを開催している。",
+"note": "類義語：clothing shop, apparel store\n表現：clothing store（衣料品店）"
+},
+{
+"id": "w1060",
+"pos": "名詞",
+"exampleJa": "彼女は試着室でそのドレスを試着した。",
+"note": "類義語：dressing room, changing room\n表現：in the fitting room（試着室で）"
+},
+{
+"id": "w1061",
+"pos": "名詞",
+"exampleJa": "その商品の値札がなくなっていた。",
+"note": "類義語：price label, tag\n表現：price tag（値札）"
+},
+{
+"id": "w1062",
+"pos": "名詞",
+"exampleJa": "ポイントを貯めるには、当社の顧客ロイヤルティカードに登録してください。",
+"note": "表現：loyalty card（ポイントカード・顧客向けカード）"
+},
+{
+"id": "w1063",
+"pos": "名詞",
+"exampleJa": "レジカウンターには長い列ができていた。",
+"note": "類義語：checkout, cash register\n表現：checkout counter（レジカウンター）"
+},
+{
+"id": "w1064",
+"pos": "名詞",
+"exampleJa": "レジ係は客に正しいお釣りを渡した。",
+"note": "類義語：sales clerk, checkout clerk"
+},
+{
+"id": "w1065",
+"pos": "名詞",
+"exampleJa": "彼女は通路を通ってショッピングカートを押した。",
+"note": "類義語：shopping trolley, cart\n表現：shopping cart（ショッピングカート）"
+},
+{
+"id": "w1066",
+"pos": "名詞",
+"exampleJa": "その会社は昨年、オンラインストアを開設した。",
+"note": "類義語：online store, web store\n表現：launch an online storefront（オンラインストアを開設する）"
+},
+{
+"id": "w1067",
+"pos": "名詞",
+"exampleJa": "発送確認のメールが届きます。",
+"note": "表現：shipping confirmation email（発送確認メール）"
+},
+{
+"id": "w1068",
+"pos": "名詞",
+"exampleJa": "購入する前に、返品ポリシーをご確認ください。",
+"note": "類義語：return policy, returns policy\n表現：review the return policy（返品ポリシーを確認する）"
+},
+{
+"id": "w1069",
+"pos": "名詞",
+"exampleJa": "その店には柔軟な交換ポリシーがある。",
+"note": "表現：exchange policy（交換ポリシー）"
+},
+{
+"id": "w1070",
+"pos": "名詞",
+"exampleJa": "ギフト包装は追加料金で利用できます。",
+"note": "類義語：gift wrapping, wrapping\n表現：gift wrap available（ギフト包装を利用できる）"
+},
+{
+"id": "w1071",
+"pos": "名詞",
+"exampleJa": "その店では年に2回、季節割引を提供している。",
+"note": "表現：seasonal discount（季節割引）"
+},
+{
+"id": "w1072",
+"pos": "名詞",
+"exampleJa": "彼女は現金での返金の代わりに店舗クレジットを受け取った。",
+"note": "表現：store credit（店舗クレジット）"
+},
+{
+"id": "w1073",
+"pos": "名詞",
+"exampleJa": "その店では高額商品向けの積立購入プランを提供している。",
+"note": "表現：layaway plan（積立購入プラン）"
+},
+{
+"id": "w1074",
+"pos": "名詞",
+"exampleJa": "彼はノートパソコンを買う前に価格比較をした。",
+"note": "類義語：price check, comparison shopping\n表現：price comparison（価格比較）"
+},
+{
+"id": "w1075",
+"pos": "名詞",
+"exampleJa": "天気予報では明日は雨になると予測されている。",
+"note": "類義語：weather report, forecast\n表現：weather forecast（天気予報）"
+},
+{
+"id": "w1076",
+"pos": "名詞",
+"exampleJa": "激しい嵐のため、空港は閉鎖された。",
+"note": "類義語：violent storm, powerful storm\n表現：severe storm（激しい嵐）"
+},
+{
+"id": "w1077",
+"pos": "名詞",
+"exampleJa": "高い湿度のため、その日は不快に感じられた。",
+"note": "類義語：moisture, dampness\n表現：high humidity（高い湿度）"
+},
+{
+"id": "w1078",
+"pos": "名詞",
+"exampleJa": "突然の気温低下に住民は不意を突かれた。",
+"note": "表現：temperature drop（気温の低下）"
+},
+{
+"id": "w1079",
+"pos": "名詞",
+"exampleJa": "熱波によってエネルギー需要が急増した。",
+"note": "類義語：hot spell, period of extreme heat\n表現：heat wave（熱波）"
+},
+{
+"id": "w1080",
+"pos": "名詞",
+"exampleJa": "猛吹雪によって地域全体で航空便が遅れた。",
+"note": "類義語：snowstorm, snow blizzard\n表現：blizzard warning（猛吹雪警報）"
+},
+{
+"id": "w1081",
+"pos": "名詞",
+"exampleJa": "当局は沿岸地域に洪水警報を発令した。",
+"note": "表現：issue a flood warning（洪水警報を発令する）"
+},
+{
+"id": "w1082",
+"pos": "名詞",
+"exampleJa": "その地震によって建物に軽微な被害が生じた。",
+"note": "類義語：quake, tremor\n表現：earthquake damage（地震による被害）"
+},
+{
+"id": "w1083",
+"pos": "名詞",
+"exampleJa": "自然災害の後、政府は援助を提供した。",
+"note": "類義語：natural calamity, disaster\n表現：natural disaster relief（自然災害救援）"
+},
+{
+"id": "w1084",
+"pos": "名詞",
+"exampleJa": "洪水の後、ボランティアたちは救援活動に参加した。",
+"note": "類義語：relief operation, rescue effort\n表現：relief effort（救援活動）"
+},
+{
+"id": "w1085",
+"pos": "名詞",
+"exampleJa": "その慈善団体は被災者のために寄付を集めた。",
+"note": "類義語：charity, charitable organization\n表現：charity organization（慈善団体）"
+},
+{
+"id": "w1086",
+"pos": "名詞",
+"exampleJa": "その会社は地元の学校のために募金イベントを開催した。",
+"note": "類義語：fund-raising event, benefit event\n表現：host a fundraiser（募金イベントを開催する）"
+},
+{
+"id": "w1087",
+"pos": "名詞",
+"exampleJa": "彼は動物保護施設でボランティア活動をしている。",
+"note": "表現：do volunteer work（ボランティア活動をする）"
+},
+{
+"id": "w1088",
+"pos": "名詞",
+"exampleJa": "学生は地域奉仕活動を所定時間行う必要がある。",
+"note": "類義語：volunteer service, public service\n表現：community service hours（地域奉仕活動の時間）"
+},
+{
+"id": "w1089",
+"pos": "名詞",
+"exampleJa": "市はリサイクルに関する啓発キャンペーンを開始した。",
+"note": "表現：public awareness campaign（啓発キャンペーン）"
+},
+{
+"id": "w1090",
+"pos": "名詞",
+"exampleJa": "住民は新しい公園についてのタウンホールミーティングに参加した。",
+"note": "表現：town hall meeting（住民説明会・公開集会）"
+},
+{
+"id": "w1091",
+"pos": "名詞",
+"exampleJa": "市議会は新しい用途地域案を承認した。",
+"note": "類義語：municipal council, local council\n表現：city council（市議会）"
+},
+{
+"id": "w1092",
+"pos": "名詞",
+"exampleJa": "地方自治体がコミュニティセンターに資金を提供している。",
+"note": "類義語：municipal government, local authority\n表現：local government（地方自治体）"
+},
+{
+"id": "w1093",
+"pos": "名詞",
+"exampleJa": "そのシンクタンクは公共政策の問題を研究している。",
+"note": "類義語：government policy, public affairs\n表現：public policy issues（公共政策上の問題）"
+},
+{
+"id": "w1094",
+"pos": "名詞",
+"exampleJa": "有権者登録は選挙の2週間前に締め切られる。",
+"note": "表現：voter registration（有権者登録）"
+},
+{
+"id": "w1095",
+"pos": "名詞",
+"exampleJa": "有権者は投票用紙に自分の選択を記入した。",
+"note": "類義語：voting paper, voting slip\n表現：cast a ballot（投票する）"
+},
+{
+"id": "w1096",
+"pos": "名詞",
+"exampleJa": "その上院議員は広大な地方選挙区を代表している。",
+"note": "類義語：electoral district, voting district\n表現：represent a constituency（選挙区を代表する）"
+},
+{
+"id": "w1097",
+"pos": "名詞",
+"exampleJa": "その外交官は貿易協定の交渉を行った。",
+"note": "類義語：envoy, diplomatic representative\n表現：foreign diplomat（外国の外交官）"
+},
+{
+"id": "w1098",
+"pos": "名詞",
+"exampleJa": "彼女はビザを更新するために大使館を訪れた。",
+"note": "類義語：diplomatic mission, consulate\n表現：visit the embassy（大使館を訪れる）"
+},
+{
+"id": "w1099",
+"pos": "名詞",
+"exampleJa": "両国は貿易条約に署名した。",
+"note": "類義語：agreement, pact, accord\n表現：sign a treaty（条約に署名する）"
+},
+{
+"id": "w1100",
+"pos": "名詞",
+"exampleJa": "世界の首脳が首脳会談のために集まった。",
+"note": "類義語：summit, summit conference\n表現：summit meeting（首脳会談）"
+}
+]

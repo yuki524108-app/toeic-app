@@ -1,0 +1,602 @@
+[
+{
+"id": "w1501",
+"pos": "名詞句",
+"exampleJa": "彼らは市内中心部の魅力的なブティックホテルに泊まった。",
+"note": "類義語：hotel, inn\n表現：boutique hotel（ブティックホテル）"
+},
+{
+"id": "w1502",
+"pos": "名詞句",
+"exampleJa": "ホテルの稼働率は休暇シーズン中に上昇した。",
+"note": "類義語：occupancy, utilization\n表現：occupancy rate（稼働率）"
+},
+{
+"id": "w1503",
+"pos": "名詞句",
+"exampleJa": "チェックアウト時間は午前11時です。",
+"note": "表現：check-out time（チェックアウト時間）"
+},
+{
+"id": "w1504",
+"pos": "名詞句",
+"exampleJa": "彼らは追加料金を払ってレイトチェックアウトを希望した。",
+"note": "表現：request a late checkout（レイトチェックアウトを希望する）"
+},
+{
+"id": "w1505",
+"pos": "名詞句",
+"exampleJa": "彼女は午前6時にモーニングコールを頼んだ。",
+"note": "類義語：alarm call, wake-up service\n表現：request a wake-up call（モーニングコールを頼む）"
+},
+{
+"id": "w1506",
+"pos": "名詞句",
+"exampleJa": "部屋のミニバーには飲み物などが十分に補充されていた。",
+"note": "表現：stock a minibar（ミニバーに商品を補充する）"
+},
+{
+"id": "w1507",
+"pos": "名詞句",
+"exampleJa": "ベルキャプテンは荷物を運ぶのを手伝った。",
+"note": "類義語：bellman, porter\n表現：carry luggage（荷物を運ぶ）"
+},
+{
+"id": "w1508",
+"pos": "名詞句",
+"exampleJa": "マネージャーはアンケートから寄せられた宿泊客のフィードバックを確認した。",
+"note": "類義語：customer feedback, guest comments\n表現：review guest feedback（宿泊客の意見を確認する）"
+},
+{
+"id": "w1509",
+"pos": "名詞句",
+"exampleJa": "好意的なオンラインレビューがそのレストランの評判を高めた。",
+"note": "類義語：online rating, customer review\n表現：positive online reviews（好意的なオンラインレビュー）"
+},
+{
+"id": "w1510",
+"pos": "名詞句",
+"exampleJa": "そのホテルは5つ星の評価を維持している。",
+"note": "類義語：rating, score\n表現：five-star rating（5つ星評価）"
+},
+{
+"id": "w1511",
+"pos": "名詞句",
+"exampleJa": "事前に食事の予約をしてください。",
+"note": "類義語：restaurant reservation, table reservation\n表現：make a dining reservation（食事の予約をする）"
+},
+{
+"id": "w1512",
+"pos": "名詞句",
+"exampleJa": "ウェイターは夕食の前にワインリストを提示した。",
+"note": "類義語：wine menu, beverage list\n表現：present the wine list（ワインリストを提示する）"
+},
+{
+"id": "w1513",
+"pos": "名詞句",
+"exampleJa": "今夜のシェフのおすすめはグリルしたサーモンです。",
+"note": "類義語：special, daily special\n表現：chef's special（シェフのおすすめ料理）"
+},
+{
+"id": "w1514",
+"pos": "名詞句",
+"exampleJa": "そのフードクリティックはそのレストランを絶賛した。",
+"note": "類義語：food reviewer, restaurant critic\n表現：give a glowing review（絶賛する）"
+},
+{
+"id": "w1515",
+"pos": "名詞句",
+"exampleJa": "そのシェフは料理コンテストで1位を獲得した。",
+"note": "類義語：cooking competition, cooking contest\n表現：win first place（1位を獲得する）"
+},
+{
+"id": "w1516",
+"pos": "名詞句",
+"exampleJa": "その厨房は厳格な食品安全基準に従っている。",
+"note": "類義語：food safety regulation, safety requirement\n表現：follow food safety standards（食品安全基準に従う）"
+},
+{
+"id": "w1517",
+"pos": "名詞句",
+"exampleJa": "衛生検査官が予告なしにそのレストランを訪れた。",
+"note": "類義語：sanitary inspector, health officer\n表現：health inspection（衛生検査）"
+},
+{
+"id": "w1518",
+"pos": "名詞句",
+"exampleJa": "厨房の衛生状態は経営陣によって厳しく監視されている。",
+"note": "類義語：kitchen sanitation, cleanliness\n表現：maintain kitchen hygiene（厨房の衛生を保つ）"
+},
+{
+"id": "w1519",
+"pos": "名詞句",
+"exampleJa": "そのレストランは昼食時に多くのテイクアウト注文を処理する。",
+"note": "類義語：takeaway order, carryout order\n表現：process a takeout order（テイクアウト注文を処理する）"
+},
+{
+"id": "w1520",
+"pos": "名詞句",
+"exampleJa": "顧客は配達アプリを通じて注文できる。",
+"note": "類義語：delivery platform, ordering app\n表現：order through an app（アプリを通じて注文する）"
+},
+{
+"id": "w1521",
+"pos": "名詞句",
+"exampleJa": "そのフードデリバリーサービスは新しい地域へ事業を拡大した。",
+"note": "類義語：food delivery, delivery service\n表現：expand to new areas（新しい地域へ拡大する）"
+},
+{
+"id": "w1522",
+"pos": "名詞句",
+"exampleJa": "その会社は分量をあらかじめ計った食材が入ったミールキットを販売している。",
+"note": "類義語：meal package, cooking kit\n表現：pre-measured ingredients（分量をあらかじめ計った食材）"
+},
+{
+"id": "w1523",
+"pos": "名詞句",
+"exampleJa": "彼女は毎月届くサブスクリプションボックスに申し込んだ。",
+"note": "類義語：subscription service, monthly box\n表現：sign up for a subscription box（サブスクリプションボックスに申し込む）"
+},
+{
+"id": "w1524",
+"pos": "名詞句",
+"exampleJa": "そのシステムは購入履歴に基づいて顧客プロフィールを作成する。",
+"note": "類義語：customer record, customer information\n表現：create a customer profile（顧客プロフィールを作成する）"
+},
+{
+"id": "w1525",
+"pos": "名詞句",
+"exampleJa": "そのウェブサイトは各顧客の購入履歴を記録している。",
+"note": "類義語：purchase record, buying history\n表現：track purchase history（購入履歴を追跡する）"
+},
+{
+"id": "w1526",
+"pos": "名詞句",
+"exampleJa": "彼女は後で購入するためにその商品をウィッシュリストに追加した。",
+"note": "類義語：wish list, saved items\n表現：add an item to a wish list（商品をウィッシュリストに追加する）"
+},
+{
+"id": "w1527",
+"pos": "名詞句",
+"exampleJa": "そのカップルは結婚式のためにギフトレジストリを作成した。",
+"note": "類義語：gift list, registry\n表現：create a gift registry（ギフトレジストリを作成する）"
+},
+{
+"id": "w1528",
+"pos": "名詞句",
+"exampleJa": "その店はメールで販促オファーを送った。",
+"note": "類義語：special offer, promotional deal\n表現：send a promotional offer（販促オファーを送る）"
+},
+{
+"id": "w1529",
+"pos": "名詞句",
+"exampleJa": "その期間限定オファーは今週末に終了する。",
+"note": "類義語：special offer, limited offer\n表現：limited-time offer（期間限定オファー）"
+},
+{
+"id": "w1530",
+"pos": "名詞句",
+"exampleJa": "友人を紹介すると、顧客は紹介割引を受けられる。",
+"note": "類義語：referral offer, referral promotion\n表現：receive a referral discount（紹介割引を受ける）"
+},
+{
+"id": "w1531",
+"pos": "名詞句",
+"exampleJa": "より上位の会員ランクでは追加の特典を利用できる。",
+"note": "類義語：membership level, membership category\n表現：membership tier（会員ランク）"
+},
+{
+"id": "w1532",
+"pos": "名詞句",
+"exampleJa": "その航空会社のリワードプログラムでは無料航空券を提供している。",
+"note": "類義語：loyalty program, rewards scheme\n表現：rewards program（特典プログラム）"
+},
+{
+"id": "w1533",
+"pos": "名詞句",
+"exampleJa": "従業員には20日間の年次有給休暇を取得する権利がある。",
+"note": "類義語：paid leave, vacation leave\n表現：take annual leave（年次有給休暇を取る）"
+},
+{
+"id": "w1534",
+"pos": "名詞句",
+"exampleJa": "休暇申請は2週間前までに提出してください。",
+"note": "類義語：leave request, vacation request\n表現：submit a time off request（休暇申請を提出する）"
+},
+{
+"id": "w1535",
+"pos": "名詞句",
+"exampleJa": "シフトスケジュールは毎週日曜日に掲示される。",
+"note": "類義語：work schedule, duty schedule\n表現：post the shift schedule（シフト表を掲示する）"
+},
+{
+"id": "w1536",
+"pos": "名詞句",
+"exampleJa": "彼女は週に3回夜勤をしている。",
+"note": "類義語：overnight shift, night duty\n表現：work the night shift（夜勤をする）"
+},
+{
+"id": "w1537",
+"pos": "名詞句",
+"exampleJa": "その工場は交代制勤務を採用している。",
+"note": "類義語：shift rotation, rotating schedule\n表現：rotating shift system（交代制勤務システム）"
+},
+{
+"id": "w1538",
+"pos": "名詞句",
+"exampleJa": "彼女はその店のパートタイムの職に応募した。",
+"note": "類義語：part-time job, part-time work\n表現：apply for a part-time position（パートタイムの職に応募する）"
+},
+{
+"id": "w1539",
+"pos": "名詞句",
+"exampleJa": "彼はパートタイム雇用からフルタイム雇用に移行した。",
+"note": "類義語：full-time work, permanent employment\n表現：full-time employment（フルタイム雇用）"
+},
+{
+"id": "w1540",
+"pos": "名詞句",
+"exampleJa": "休暇シーズンに臨時職員が雇われた。",
+"note": "類義語：temporary workers, temporary employees\n表現：hire temporary staff（臨時職員を雇う）"
+},
+{
+"id": "w1541",
+"pos": "名詞句",
+"exampleJa": "季節労働者は収穫期の繁忙期に手伝う。",
+"note": "類義語：seasonal employee, temporary worker\n表現：hire seasonal workers（季節労働者を雇う）"
+},
+{
+"id": "w1542",
+"pos": "名詞句",
+"exampleJa": "彼女はその派遣会社の契約社員として働いている。",
+"note": "類義語：contract worker, temporary employee\n表現：work as a contract employee（契約社員として働く）"
+},
+{
+"id": "w1543",
+"pos": "名詞",
+"exampleJa": "彼はウェブサイトのデザインをするフリーランサーとして働いている。",
+"note": "類義語：independent worker, self-employed worker\n派生：freelance（形容詞・動詞：フリーランスの、自由契約で働く）\n表現：work as a freelancer（フリーランサーとして働く）"
+},
+{
+"id": "w1544",
+"pos": "名詞句",
+"exampleJa": "ギグエコノミーは人々が仕事を見つける方法を変えた。",
+"note": "類義語：freelance economy, on-demand economy\n表現：gig economy（ギグエコノミー）"
+},
+{
+"id": "w1545",
+"pos": "名詞句",
+"exampleJa": "彼女は個人請負業者として分類されている。",
+"note": "類義語：contractor, self-employed worker\n表現：independent contractor（個人請負業者）"
+},
+{
+"id": "w1546",
+"pos": "名詞句",
+"exampleJa": "その会社は人材派遣会社と協力して求人を埋めている。",
+"note": "類義語：employment agency, recruitment agency\n表現：work with a staffing agency（人材派遣会社と協力する）"
+},
+{
+"id": "w1547",
+"pos": "名詞句",
+"exampleJa": "人材獲得チームはすべての応募者を審査する。",
+"note": "類義語：recruitment, hiring\n表現：talent acquisition team（人材獲得チーム）"
+},
+{
+"id": "w1548",
+"pos": "名詞句",
+"exampleJa": "営業部には3つの求人があります。",
+"note": "類義語：job opening, vacant position\n表現：job vacancy（求人、空きポジション）"
+},
+{
+"id": "w1549",
+"pos": "名詞句",
+"exampleJa": "採用担当マネージャーは数十件の応募書類を確認した。",
+"note": "類義語：recruiting manager, recruitment manager\n表現：hiring manager（採用担当マネージャー）"
+},
+{
+"id": "w1550",
+"pos": "名詞句",
+"exampleJa": "3人のマネージャーからなる面接パネルが候補者を評価した。",
+"note": "類義語：interview committee, selection panel\n表現：interview panel（面接委員会）"
+},
+{
+"id": "w1551",
+"pos": "名詞句",
+"exampleJa": "採用担当者は最初に電話でのスクリーニングを行った。",
+"note": "類義語：phone interview, telephone screening\n表現：conduct a phone screening（電話で選考する）"
+},
+{
+"id": "w1552",
+"pos": "名詞句",
+"exampleJa": "彼女は内定通知書をメールで受け取った。",
+"note": "類義語：offer letter, employment offer\n表現：receive a job offer letter（内定通知書を受け取る）"
+},
+{
+"id": "w1553",
+"pos": "名詞句",
+"exampleJa": "彼女の勤務開始日は2週間延期された。",
+"note": "類義語：commencement date, starting date\n表現：start date（勤務開始日）"
+},
+{
+"id": "w1554",
+"pos": "名詞句",
+"exampleJa": "新入社員オリエンテーションでは会社の方針と福利厚生について説明する。",
+"note": "類義語：new employee orientation, onboarding session\n表現：new hire orientation（新入社員オリエンテーション）"
+},
+{
+"id": "w1555",
+"pos": "名詞句",
+"exampleJa": "研修マニュアルには新人研修の手順がまとめられている。",
+"note": "類義語：training guide, instruction manual\n表現：training manual（研修マニュアル）"
+},
+{
+"id": "w1556",
+"pos": "名詞句",
+"exampleJa": "応募者はスキル評価テストを完了しなければならない。",
+"note": "類義語：skills test, competency assessment\n表現：complete a skills assessment（スキル評価を受ける）"
+},
+{
+"id": "w1557",
+"pos": "名詞句",
+"exampleJa": "各従業員は年初に業績目標を設定する。",
+"note": "類義語：performance target, work objective\n表現：set performance goals（業績目標を設定する）"
+},
+{
+"id": "w1558",
+"pos": "名詞句",
+"exampleJa": "彼女の年次評価では、優れたリーダーシップスキルが評価された。",
+"note": "類義語：annual evaluation, yearly review\n表現：annual review（年次評価）"
+},
+{
+"id": "w1559",
+"pos": "名詞句",
+"exampleJa": "その会社は評価に360度評価を利用している。",
+"note": "類義語：360-degree evaluation, multi-source feedback\n表現：360-degree feedback（360度評価）"
+},
+{
+"id": "w1560",
+"pos": "名詞句",
+"exampleJa": "彼女は評価の後、功績による昇給を受けた。",
+"note": "類義語：merit raise, performance increase\n表現：receive a merit increase（功績による昇給を受ける）"
+},
+{
+"id": "w1561",
+"pos": "名詞句",
+"exampleJa": "給与には毎年の生活費調整が含まれている。",
+"note": "類義語：cost-of-living increase, salary adjustment\n表現：cost of living adjustment（生活費調整）"
+},
+{
+"id": "w1562",
+"pos": "名詞句",
+"exampleJa": "福利厚生パッケージには健康保険と歯科保険が含まれている。",
+"note": "類義語：benefits package, employee benefits\n表現：employee benefits package（従業員福利厚生パッケージ）"
+},
+{
+"id": "w1563",
+"pos": "名詞句",
+"exampleJa": "その会社の歯科保険は定期検診を補償する。",
+"note": "類義語：dental coverage, dental plan\n表現：dental insurance coverage（歯科保険の補償）"
+},
+{
+"id": "w1564",
+"pos": "名詞句",
+"exampleJa": "視力保険は眼鏡の費用を補償する。",
+"note": "類義語：vision coverage, vision plan\n表現：vision insurance（視力保険）"
+},
+{
+"id": "w1565",
+"pos": "名詞句",
+"exampleJa": "従業員は生命保険契約に加入することを選択できる。",
+"note": "類義語：life coverage, life insurance\n表現：opt into a life insurance policy（生命保険契約への加入を選択する）"
+},
+{
+"id": "w1566",
+"pos": "名詞句",
+"exampleJa": "障害保険は働けない場合に収入を補償する。",
+"note": "類義語：disability coverage, income protection\n表現：provide income protection（収入を保障する）"
+},
+{
+"id": "w1567",
+"pos": "名詞句",
+"exampleJa": "従業員はフレキシブル支出口座を医療費に利用できる。",
+"note": "類義語：flexible spending plan, FSA\n表現：medical costs（医療費）"
+},
+{
+"id": "w1568",
+"pos": "名詞句",
+"exampleJa": "従業員支援プログラムでは無料のカウンセリングを提供している。",
+"note": "類義語：employee support program, workplace assistance program\n表現：offer free counseling（無料のカウンセリングを提供する）"
+},
+{
+"id": "w1569",
+"pos": "名詞句",
+"exampleJa": "その会社は働く親に育児支援手当を提供している。",
+"note": "類義語：childcare allowance, childcare assistance\n表現：provide a childcare benefit（育児支援手当を提供する）"
+},
+{
+"id": "w1570",
+"pos": "名詞句",
+"exampleJa": "通勤手当は公共交通機関の費用を補助する。",
+"note": "類義語：transportation benefit, commuting allowance\n表現：commuter benefit（通勤手当）"
+},
+{
+"id": "w1571",
+"pos": "名詞句",
+"exampleJa": "その会社は転勤のための転勤パッケージを提示した。",
+"note": "類義語：relocation assistance, moving package\n表現：relocation package（転勤支援パッケージ）"
+},
+{
+"id": "w1572",
+"pos": "名詞句",
+"exampleJa": "彼女は新しい雇用主と入社一時金について交渉した。",
+"note": "類義語：sign-on bonus, joining bonus\n表現：negotiate a signing bonus（入社一時金を交渉する）"
+},
+{
+"id": "w1573",
+"pos": "名詞句",
+"exampleJa": "その研修は教室環境で実施された。",
+"note": "類義語：classroom environment, learning environment\n表現：in a classroom setting（教室環境で）"
+},
+{
+"id": "w1574",
+"pos": "名詞句",
+"exampleJa": "新入社員はその設備について実地研修を受ける。",
+"note": "類義語：practical training, experiential training\n表現：receive hands-on training（実地研修を受ける）"
+},
+{
+"id": "w1575",
+"pos": "名詞句",
+"exampleJa": "従業員は金曜日までにeラーニングモジュールを完了しなければならない。",
+"note": "類義語：online module, training module\n表現：complete an e-learning module（eラーニングモジュールを完了する）"
+},
+{
+"id": "w1576",
+"pos": "名詞句",
+"exampleJa": "ゲストスピーカーがセミナーで業界の動向について話した。",
+"note": "類義語：invited speaker, guest lecturer\n表現：guest speaker（ゲストスピーカー）"
+},
+{
+"id": "w1577",
+"pos": "名詞",
+"exampleJa": "彼女はその討論会のパネリストとして招待された。",
+"note": "類義語：participant, discussant\n表現：serve as a panelist（パネリストを務める）"
+},
+{
+"id": "w1578",
+"pos": "名詞",
+"exampleJa": "司会者は議論を予定どおりに進めた。",
+"note": "類義語：chairperson, facilitator\n表現：moderate a discussion（議論の司会をする）"
+},
+{
+"id": "w1579",
+"pos": "名詞句",
+"exampleJa": "基調講演の後に質疑応答セッションが行われた。",
+"note": "類義語：question-and-answer session, Q&A period\n表現：Q&A session（質疑応答セッション）"
+},
+{
+"id": "w1580",
+"pos": "名詞句",
+"exampleJa": "その講演者は聴衆の関与を高めるために投票を利用した。",
+"note": "類義語：audience participation, audience involvement\n表現：increase audience engagement（聴衆の関与を高める）"
+},
+{
+"id": "w1581",
+"pos": "名詞句",
+"exampleJa": "参加者はいくつかの分科会から選択した。",
+"note": "類義語：workshop, discussion group\n表現：breakout session（分科会）"
+},
+{
+"id": "w1582",
+"pos": "名詞句",
+"exampleJa": "参加者は身元確認のために会議用バッジを着用した。",
+"note": "類義語：conference ID, event badge\n表現：wear a conference badge（会議用バッジを着用する）"
+},
+{
+"id": "w1583",
+"pos": "名詞句",
+"exampleJa": "到着したら受付デスクでチェックインしてください。",
+"note": "類義語：registration counter, check-in desk\n表現：check in at the registration desk（受付デスクでチェックインする）"
+},
+{
+"id": "w1584",
+"pos": "名詞句",
+"exampleJa": "各参加者は受付時に名札を受け取った。",
+"note": "類義語：ID badge, identification badge\n表現：receive a name badge（名札を受け取る）"
+},
+{
+"id": "w1585",
+"pos": "名詞句",
+"exampleJa": "議題資料一式には会議の全スケジュールが含まれていた。",
+"note": "類義語：agenda materials, meeting packet\n表現：conference schedule（会議のスケジュール）"
+},
+{
+"id": "w1586",
+"pos": "名詞句",
+"exampleJa": "参加者は企業のグッズが入ったノベルティバッグを受け取った。",
+"note": "類義語：gift bag, promotional bag\n表現：company merchandise（企業のグッズ）"
+},
+{
+"id": "w1587",
+"pos": "名詞句",
+"exampleJa": "各社は製品を紹介するために出展者ブースを設置した。",
+"note": "類義語：exhibition booth, trade booth\n表現：set up an exhibitor booth（出展者ブースを設置する）"
+},
+{
+"id": "w1588",
+"pos": "名詞句",
+"exampleJa": "その会社は新しい装置の実演を行った。",
+"note": "類義語：demonstration, product demonstration\n表現：give a live demonstration（実演を行う）"
+},
+{
+"id": "w1589",
+"pos": "名詞句",
+"exampleJa": "その製品発表イベントには大勢の人が集まった。",
+"note": "類義語：product introduction, launch event\n表現：hold a product launch event（製品発表イベントを開催する）"
+},
+{
+"id": "w1590",
+"pos": "名詞句",
+"exampleJa": "市長はテープカット式典に出席した。",
+"note": "類義語：opening ceremony, inauguration ceremony\n表現：attend a ribbon-cutting ceremony（テープカット式典に出席する）"
+},
+{
+"id": "w1591",
+"pos": "名詞句",
+"exampleJa": "その店のグランドオープンには多くの顧客が集まった。",
+"note": "類義語：opening, official opening\n表現：grand opening（グランドオープン）"
+},
+{
+"id": "w1592",
+"pos": "名詞句",
+"exampleJa": "その会社は創立50周年を記念して祝典を開催した。",
+"note": "類義語：anniversary event, commemorative event\n表現：hold an anniversary celebration（記念祝典を開催する）"
+},
+{
+"id": "w1593",
+"pos": "名詞句",
+"exampleJa": "同僚たちはマネージャーのために退職パーティーを開いた。",
+"note": "類義語：retirement celebration, farewell party\n表現：organize a retirement party（退職パーティーを企画する）"
+},
+{
+"id": "w1594",
+"pos": "名詞句",
+"exampleJa": "チームは退職する従業員のために送別会を開いた。",
+"note": "類義語：farewell party, goodbye gathering\n表現：hold a farewell gathering（送別会を開く）"
+},
+{
+"id": "w1595",
+"pos": "名詞句",
+"exampleJa": "新入社員は初日に歓迎レセプションに参加した。",
+"note": "類義語：welcome party, reception\n表現：attend a welcome reception（歓迎レセプションに参加する）"
+},
+{
+"id": "w1596",
+"pos": "名詞句",
+"exampleJa": "授賞式では業績の優れた従業員が表彰された。",
+"note": "類義語：awards ceremony, presentation ceremony\n表現：award ceremony（授賞式）"
+},
+{
+"id": "w1597",
+"pos": "名詞句",
+"exampleJa": "表彰プログラムは優れた業績に報いる。",
+"note": "類義語：reward program, recognition scheme\n表現：reward outstanding performance（優れた業績に報いる）"
+},
+{
+"id": "w1598",
+"pos": "名詞句",
+"exampleJa": "彼女はその献身的な働きぶりから今月の従業員に選ばれた。",
+"note": "類義語：top employee, outstanding employee\n表現：be named employee of the month（今月の従業員に選ばれる）"
+},
+{
+"id": "w1599",
+"pos": "名詞句",
+"exampleJa": "その会社は各従業員の勤続記念日を祝う。",
+"note": "類義語：work anniversary, employment anniversary\n表現：celebrate a service anniversary（勤続記念日を祝う）"
+},
+{
+"id": "w1600",
+"pos": "名詞句",
+"exampleJa": "毎年恒例の社内ピクニックは毎年夏に開催される。",
+"note": "類義語：company outing, corporate picnic\n表現：annual company picnic（毎年恒例の社内ピクニック）"
+}
+]

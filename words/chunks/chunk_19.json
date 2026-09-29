@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1801",
+  "word": "air quality index",
+  "meaning": "大気質指数",
+  "example": "The air quality index was unhealthy for sensitive groups."
+ },
+ {
+  "id": "w1802",
+  "word": "noise pollution",
+  "meaning": "騒音公害",
+  "example": "Noise pollution from the construction site bothered residents."
+ },
+ {
+  "id": "w1803",
+  "word": "light pollution",
+  "meaning": "光害",
+  "example": "Light pollution makes it hard to see stars in the city."
+ },
+ {
+  "id": "w1804",
+  "word": "wildlife preservation",
+  "meaning": "野生生物保護",
+  "example": "The organization focuses on wildlife preservation efforts."
+ },
+ {
+  "id": "w1805",
+  "word": "endangered species",
+  "meaning": "絶滅危惧種",
+  "example": "The zoo participates in breeding programs for endangered species."
+ },
+ {
+  "id": "w1806",
+  "word": "deforestation",
+  "meaning": "森林伐採",
+  "example": "Deforestation has reduced the habitat for many animals."
+ },
+ {
+  "id": "w1807",
+  "word": "reforestation project",
+  "meaning": "再植林プロジェクト",
+  "example": "The company funds a reforestation project in the region."
+ },
+ {
+  "id": "w1808",
+  "word": "clean energy initiative",
+  "meaning": "クリーンエネルギー構想",
+  "example": "The government launched a clean energy initiative."
+ },
+ {
+  "id": "w1809",
+  "word": "emission reduction target",
+  "meaning": "排出削減目標",
+  "example": "The company set an emission reduction target for 2030."
+ },
+ {
+  "id": "w1810",
+  "word": "environmental regulation",
+  "meaning": "環境規制",
+  "example": "New environmental regulations affect manufacturing plants."
+ },
+ {
+  "id": "w1811",
+  "word": "pollution control device",
+  "meaning": "汚染防止装置",
+  "example": "The factory installed a pollution control device."
+ },
+ {
+  "id": "w1812",
+  "word": "green technology",
+  "meaning": "グリーンテクノロジー",
+  "example": "Investment in green technology has grown rapidly."
+ },
+ {
+  "id": "w1813",
+  "word": "circular economy",
+  "meaning": "循環型経済",
+  "example": "The company adopted circular economy practices."
+ },
+ {
+  "id": "w1814",
+  "word": "upcycling",
+  "meaning": "アップサイクリング",
+  "example": "The designer specializes in upcycling old furniture."
+ },
+ {
+  "id": "w1815",
+  "word": "zero-waste policy",
+  "meaning": "ゼロウェイスト方針",
+  "example": "The restaurant follows a strict zero-waste policy."
+ },
+ {
+  "id": "w1816",
+  "word": "plastic-free packaging",
+  "meaning": "プラスチックフリー包装",
+  "example": "The brand switched to plastic-free packaging last year."
+ },
+ {
+  "id": "w1817",
+  "word": "eco-tourism",
+  "meaning": "エコツーリズム",
+  "example": "Eco-tourism supports conservation while boosting the local economy."
+ },
+ {
+  "id": "w1818",
+  "word": "sustainable agriculture",
+  "meaning": "持続可能な農業",
+  "example": "The farm practices sustainable agriculture methods."
+ },
+ {
+  "id": "w1819",
+  "word": "organic farming",
+  "meaning": "有機農業",
+  "example": "Organic farming avoids the use of synthetic pesticides."
+ },
+ {
+  "id": "w1820",
+  "word": "fair trade certification",
+  "meaning": "フェアトレード認証",
+  "example": "The coffee brand has a fair trade certification."
+ },
+ {
+  "id": "w1821",
+  "word": "ethical consumerism",
+  "meaning": "倫理的消費",
+  "example": "Ethical consumerism is influencing purchasing decisions."
+ },
+ {
+  "id": "w1822",
+  "word": "impact investing",
+  "meaning": "インパクト投資",
+  "example": "Impact investing aims to generate social and financial returns."
+ },
+ {
+  "id": "w1823",
+  "word": "social enterprise",
+  "meaning": "ソーシャルエンタープライズ",
+  "example": "The social enterprise reinvests profits into community programs."
+ },
+ {
+  "id": "w1824",
+  "word": "triple bottom line",
+  "meaning": "トリプルボトムライン",
+  "example": "The company measures success using the triple bottom line."
+ },
+ {
+  "id": "w1825",
+  "word": "carbon neutral",
+  "meaning": "カーボンニュートラルの",
+  "example": "The company aims to become carbon neutral by 2035."
+ },
+ {
+  "id": "w1826",
+  "word": "net zero emissions",
+  "meaning": "ネットゼロ排出",
+  "example": "The country pledged to achieve net zero emissions by 2050."
+ },
+ {
+  "id": "w1827",
+  "word": "climate resilience",
+  "meaning": "気候変動への強靭性",
+  "example": "The city invested in climate resilience infrastructure."
+ },
+ {
+  "id": "w1828",
+  "word": "sea level rise",
+  "meaning": "海面上昇",
+  "example": "Sea level rise threatens coastal communities."
+ },
+ {
+  "id": "w1829",
+  "word": "extreme weather event",
+  "meaning": "異常気象現象",
+  "example": "Extreme weather events have become more frequent."
+ },
+ {
+  "id": "w1830",
+  "word": "bilateral agreement",
+  "meaning": "二国間協定",
+  "example": "The two nations signed a bilateral agreement on trade."
+ },
+ {
+  "id": "w1831",
+  "word": "multilateral talks",
+  "meaning": "多国間協議",
+  "example": "Multilateral talks addressed the regional trade dispute."
+ },
+ {
+  "id": "w1832",
+  "word": "sanctions",
+  "meaning": "制裁",
+  "example": "Economic sanctions were imposed on the country."
+ },
+ {
+  "id": "w1833",
+  "word": "embargo",
+  "meaning": "禁輸措置",
+  "example": "The embargo restricted the export of certain goods."
+ },
+ {
+  "id": "w1834",
+  "word": "diplomatic relations",
+  "meaning": "外交関係",
+  "example": "The two countries restored diplomatic relations last year."
+ },
+ {
+  "id": "w1835",
+  "word": "consulate",
+  "meaning": "領事館",
+  "example": "She visited the consulate to renew her passport."
+ },
+ {
+  "id": "w1836",
+  "word": "foreign policy",
+  "meaning": "外交政策",
+  "example": "The new administration outlined its foreign policy priorities."
+ },
+ {
+  "id": "w1837",
+  "word": "trade barrier",
+  "meaning": "貿易障壁",
+  "example": "The agreement removed several trade barriers."
+ },
+ {
+  "id": "w1838",
+  "word": "import quota",
+  "meaning": "輸入割当",
+  "example": "The government set an import quota on steel products."
+ },
+ {
+  "id": "w1839",
+  "word": "subsidy",
+  "meaning": "補助金",
+  "example": "The government provides a subsidy for renewable energy projects."
+ },
+ {
+  "id": "w1840",
+  "word": "tax incentive",
+  "meaning": "税制優遇措置",
+  "example": "The state offers a tax incentive for new businesses."
+ },
+ {
+  "id": "w1841",
+  "word": "tax bracket",
+  "meaning": "税率区分",
+  "example": "Her income moved her into a higher tax bracket."
+ },
+ {
+  "id": "w1842",
+  "word": "tax return",
+  "meaning": "確定申告書",
+  "example": "She filed her tax return before the deadline."
+ },
+ {
+  "id": "w1843",
+  "word": "tax audit",
+  "meaning": "税務調査",
+  "example": "The company underwent a tax audit last year."
+ },
+ {
+  "id": "w1844",
+  "word": "tax evasion",
+  "meaning": "脱税",
+  "example": "The executive was charged with tax evasion."
+ },
+ {
+  "id": "w1845",
+  "word": "tax haven",
+  "meaning": "タックスヘイブン",
+  "example": "Some companies register in a tax haven to reduce taxes."
+ },
+ {
+  "id": "w1846",
+  "word": "value-added tax",
+  "meaning": "付加価値税(VAT)",
+  "example": "Value-added tax is included in the retail price."
+ },
+ {
+  "id": "w1847",
+  "word": "sales tax",
+  "meaning": "消費税",
+  "example": "Sales tax varies from state to state."
+ },
+ {
+  "id": "w1848",
+  "word": "property assessment",
+  "meaning": "資産評価",
+  "example": "The property assessment determines the tax amount owed."
+ },
+ {
+  "id": "w1849",
+  "word": "free trade agreement",
+  "meaning": "自由貿易協定",
+  "example": "The free trade agreement eliminated most tariffs."
+ },
+ {
+  "id": "w1850",
+  "word": "trade surplus",
+  "meaning": "貿易黒字",
+  "example": "The country recorded a trade surplus this quarter."
+ },
+ {
+  "id": "w1851",
+  "word": "balance of trade",
+  "meaning": "貿易収支",
+  "example": "The balance of trade improved due to higher exports."
+ },
+ {
+  "id": "w1852",
+  "word": "currency devaluation",
+  "meaning": "通貨切り下げ",
+  "example": "The currency devaluation made exports more competitive."
+ },
+ {
+  "id": "w1853",
+  "word": "foreign exchange market",
+  "meaning": "外国為替市場",
+  "example": "Traders monitor the foreign exchange market closely."
+ },
+ {
+  "id": "w1854",
+  "word": "central bank",
+  "meaning": "中央銀行",
+  "example": "The central bank raised interest rates to control inflation."
+ },
+ {
+  "id": "w1855",
+  "word": "monetary policy",
+  "meaning": "金融政策",
+  "example": "The central bank's monetary policy affects borrowing costs."
+ },
+ {
+  "id": "w1856",
+  "word": "fiscal policy",
+  "meaning": "財政政策",
+  "example": "The government's fiscal policy aims to boost growth."
+ },
+ {
+  "id": "w1857",
+  "word": "national debt",
+  "meaning": "国の借金、国債",
+  "example": "The national debt continues to grow each year."
+ },
+ {
+  "id": "w1858",
+  "word": "budget deficit",
+  "meaning": "財政赤字",
+  "example": "The government reported a budget deficit this year."
+ },
+ {
+  "id": "w1859",
+  "word": "economic growth rate",
+  "meaning": "経済成長率",
+  "example": "The economic growth rate slowed in the last quarter."
+ },
+ {
+  "id": "w1860",
+  "word": "consumer price index",
+  "meaning": "消費者物価指数",
+  "example": "The consumer price index rose by two percent."
+ },
+ {
+  "id": "w1861",
+  "word": "purchasing power",
+  "meaning": "購買力",
+  "example": "Inflation has reduced consumers' purchasing power."
+ },
+ {
+  "id": "w1862",
+  "word": "cost of living",
+  "meaning": "生活費",
+  "example": "The cost of living in the city has risen sharply."
+ },
+ {
+  "id": "w1863",
+  "word": "standard of living",
+  "meaning": "生活水準",
+  "example": "The country's standard of living has improved steadily."
+ },
+ {
+  "id": "w1864",
+  "word": "income inequality",
+  "meaning": "所得格差",
+  "example": "Income inequality remains a major policy concern."
+ },
+ {
+  "id": "w1865",
+  "word": "wealth distribution",
+  "meaning": "富の分配",
+  "example": "Wealth distribution varies widely across regions."
+ },
+ {
+  "id": "w1866",
+  "word": "poverty line",
+  "meaning": "貧困線",
+  "example": "Millions of people live below the poverty line."
+ },
+ {
+  "id": "w1867",
+  "word": "social welfare program",
+  "meaning": "社会福祉プログラム",
+  "example": "The social welfare program supports low-income families."
+ },
+ {
+  "id": "w1868",
+  "word": "public assistance",
+  "meaning": "公的扶助",
+  "example": "She received public assistance during her unemployment."
+ },
+ {
+  "id": "w1869",
+  "word": "courtroom",
+  "meaning": "法廷",
+  "example": "The lawyer presented evidence in the courtroom."
+ },
+ {
+  "id": "w1870",
+  "word": "judge's ruling",
+  "meaning": "裁判官の判決",
+  "example": "The judge's ruling favored the plaintiff."
+ },
+ {
+  "id": "w1871",
+  "word": "jury duty",
+  "meaning": "陪審員の義務",
+  "example": "He was called for jury duty next month."
+ },
+ {
+  "id": "w1872",
+  "word": "legal proceedings",
+  "meaning": "法的手続き",
+  "example": "Legal proceedings can take several months to resolve."
+ },
+ {
+  "id": "w1873",
+  "word": "cross-examination",
+  "meaning": "反対尋問",
+  "example": "The witness faced a tough cross-examination."
+ },
+ {
+  "id": "w1874",
+  "word": "verdict",
+  "meaning": "評決",
+  "example": "The jury reached a verdict after two days of deliberation."
+ },
+ {
+  "id": "w1875",
+  "word": "appeal court",
+  "meaning": "控訴裁判所",
+  "example": "The company filed an appeal with the appeal court."
+ },
+ {
+  "id": "w1876",
+  "word": "out-of-court settlement",
+  "meaning": "裁判外和解",
+  "example": "Both parties agreed to an out-of-court settlement."
+ },
+ {
+  "id": "w1877",
+  "word": "legal fee",
+  "meaning": "弁護士費用",
+  "example": "Legal fees can add up quickly during a lawsuit."
+ },
+ {
+  "id": "w1878",
+  "word": "retainer fee",
+  "meaning": "顧問料",
+  "example": "The client paid a retainer fee to secure the lawyer's services."
+ },
+ {
+  "id": "w1879",
+  "word": "law firm",
+  "meaning": "法律事務所",
+  "example": "She works as a paralegal at a large law firm."
+ },
+ {
+  "id": "w1880",
+  "word": "paralegal",
+  "meaning": "パラリーガル",
+  "example": "The paralegal prepared documents for the trial."
+ },
+ {
+  "id": "w1881",
+  "word": "bar exam",
+  "meaning": "司法試験",
+  "example": "He passed the bar exam on his first attempt."
+ },
+ {
+  "id": "w1882",
+  "word": "legal precedent",
+  "meaning": "判例",
+  "example": "The ruling set a new legal precedent."
+ },
+ {
+  "id": "w1883",
+  "word": "statute of limitations",
+  "meaning": "時効(法律上の)",
+  "example": "The statute of limitations for the claim has expired."
+ },
+ {
+  "id": "w1884",
+  "word": "civil lawsuit",
+  "meaning": "民事訴訟",
+  "example": "The company faces a civil lawsuit over the contract dispute."
+ },
+ {
+  "id": "w1885",
+  "word": "criminal charge",
+  "meaning": "刑事告訴",
+  "example": "He was arrested and faced a criminal charge."
+ },
+ {
+  "id": "w1886",
+  "word": "misdemeanor",
+  "meaning": "軽犯罪",
+  "example": "She was charged with a minor misdemeanor."
+ },
+ {
+  "id": "w1887",
+  "word": "felony",
+  "meaning": "重罪",
+  "example": "The crime was classified as a felony."
+ },
+ {
+  "id": "w1888",
+  "word": "probation officer",
+  "meaning": "保護観察官",
+  "example": "He meets with his probation officer monthly."
+ },
+ {
+  "id": "w1889",
+  "word": "parole",
+  "meaning": "仮釈放",
+  "example": "He was released on parole after serving half his sentence."
+ },
+ {
+  "id": "w1890",
+  "word": "law enforcement",
+  "meaning": "法執行機関",
+  "example": "Law enforcement responded quickly to the incident."
+ },
+ {
+  "id": "w1891",
+  "word": "police report",
+  "meaning": "警察報告書",
+  "example": "She filed a police report after the theft."
+ },
+ {
+  "id": "w1892",
+  "word": "witness statement",
+  "meaning": "証人陳述書",
+  "example": "The witness statement was submitted as evidence."
+ },
+ {
+  "id": "w1893",
+  "word": "evidence collection",
+  "meaning": "証拠収集",
+  "example": "Investigators focused on evidence collection at the scene."
+ },
+ {
+  "id": "w1894",
+  "word": "crime scene",
+  "meaning": "犯罪現場",
+  "example": "Police secured the crime scene for investigation."
+ },
+ {
+  "id": "w1895",
+  "word": "forensic analysis",
+  "meaning": "法医学的分析",
+  "example": "Forensic analysis confirmed the cause of the incident."
+ },
+ {
+  "id": "w1896",
+  "word": "private investigator",
+  "meaning": "私立探偵",
+  "example": "The company hired a private investigator for the case."
+ },
+ {
+  "id": "w1897",
+  "word": "security guard",
+  "meaning": "警備員",
+  "example": "A security guard monitors the building entrance."
+ },
+ {
+  "id": "w1898",
+  "word": "surveillance system",
+  "meaning": "監視システム",
+  "example": "The store installed a new surveillance system."
+ },
+ {
+  "id": "w1899",
+  "word": "access control system",
+  "meaning": "入退室管理システム",
+  "example": "The office uses an access control system for security."
+ },
+ {
+  "id": "w1900",
+  "word": "identity theft",
+  "meaning": "なりすまし、個人情報盗難",
+  "example": "She became a victim of identity theft last year."
+ }
+]

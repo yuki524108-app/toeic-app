@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w201",
+  "word": "itemized bill",
+  "meaning": "明細請求書",
+  "example": "Please provide an itemized bill for the hotel stay."
+ },
+ {
+  "id": "w202",
+  "word": "boarding pass",
+  "meaning": "搭乗券",
+  "example": "Please have your boarding pass ready for inspection."
+ },
+ {
+  "id": "w203",
+  "word": "layover",
+  "meaning": "乗り継ぎ",
+  "example": "There is a two-hour layover in Chicago."
+ },
+ {
+  "id": "w204",
+  "word": "connecting flight",
+  "meaning": "乗り継ぎ便",
+  "example": "She missed her connecting flight due to the delay."
+ },
+ {
+  "id": "w205",
+  "word": "check-in",
+  "meaning": "チェックイン",
+  "example": "Check-in begins two hours before departure."
+ },
+ {
+  "id": "w206",
+  "word": "concierge",
+  "meaning": "コンシェルジュ",
+  "example": "Ask the concierge for restaurant recommendations."
+ },
+ {
+  "id": "w207",
+  "word": "complimentary",
+  "meaning": "無料の",
+  "example": "The hotel offers complimentary breakfast to guests."
+ },
+ {
+  "id": "w208",
+  "word": "reservation",
+  "meaning": "予約",
+  "example": "Please confirm your reservation 24 hours in advance."
+ },
+ {
+  "id": "w209",
+  "word": "vacancy",
+  "meaning": "空室、欠員",
+  "example": "There were no vacancies at the hotel that weekend."
+ },
+ {
+  "id": "w210",
+  "word": "accommodation",
+  "meaning": "宿泊施設",
+  "example": "The company arranged accommodation for all delegates."
+ },
+ {
+  "id": "w211",
+  "word": "itinerary change",
+  "meaning": "旅程変更",
+  "example": "Please notify us of any itinerary changes."
+ },
+ {
+  "id": "w212",
+  "word": "visa requirement",
+  "meaning": "ビザ要件",
+  "example": "Check the visa requirements before booking your trip."
+ },
+ {
+  "id": "w213",
+  "word": "customs declaration",
+  "meaning": "税関申告",
+  "example": "Fill out the customs declaration form before landing."
+ },
+ {
+  "id": "w214",
+  "word": "currency exchange",
+  "meaning": "両替",
+  "example": "There is a currency exchange counter at the airport."
+ },
+ {
+  "id": "w215",
+  "word": "baggage claim",
+  "meaning": "手荷物受取所",
+  "example": "Meet me at the baggage claim area."
+ },
+ {
+  "id": "w216",
+  "word": "excess baggage",
+  "meaning": "超過手荷物",
+  "example": "You may be charged for excess baggage."
+ },
+ {
+  "id": "w217",
+  "word": "amenity fee",
+  "meaning": "施設利用料",
+  "example": "An amenity fee is added to the room rate."
+ },
+ {
+  "id": "w218",
+  "word": "shuttle service",
+  "meaning": "送迎サービス",
+  "example": "The hotel provides a free shuttle service to the airport."
+ },
+ {
+  "id": "w219",
+  "word": "catering",
+  "meaning": "ケータリング",
+  "example": "The catering company will serve lunch at the conference."
+ },
+ {
+  "id": "w220",
+  "word": "banquet",
+  "meaning": "宴会",
+  "example": "The annual banquet will be held at the grand hotel."
+ },
+ {
+  "id": "w221",
+  "word": "reception hall",
+  "meaning": "宴会場",
+  "example": "The wedding reception hall can seat 300 guests."
+ },
+ {
+  "id": "w222",
+  "word": "itinerary planner",
+  "meaning": "旅程作成者",
+  "example": "An itinerary planner helped organize the business trip."
+ },
+ {
+  "id": "w223",
+  "word": "expense report",
+  "meaning": "経費報告書",
+  "example": "Submit your expense report by the fifth of each month."
+ },
+ {
+  "id": "w224",
+  "word": "per diem",
+  "meaning": "日当",
+  "example": "Employees receive a per diem for meals during travel."
+ },
+ {
+  "id": "w225",
+  "word": "itemize expenses",
+  "meaning": "経費を項目別に記載する",
+  "example": "You must itemize expenses over fifty dollars."
+ },
+ {
+  "id": "w226",
+  "word": "corporate rate",
+  "meaning": "法人料金",
+  "example": "We booked the hotel at a corporate rate."
+ },
+ {
+  "id": "w227",
+  "word": "frequent flyer",
+  "meaning": "マイレージ会員",
+  "example": "He earned enough frequent flyer miles for a free flight."
+ },
+ {
+  "id": "w228",
+  "word": "upgrade",
+  "meaning": "アップグレードする",
+  "example": "She was upgraded to business class on the flight."
+ },
+ {
+  "id": "w229",
+  "word": "itinerary confirmation",
+  "meaning": "旅程確認",
+  "example": "An itinerary confirmation was emailed to all travelers."
+ },
+ {
+  "id": "w230",
+  "word": "delegate badge",
+  "meaning": "参加者用バッジ",
+  "example": "Wear your delegate badge at all times during the event."
+ },
+ {
+  "id": "w231",
+  "word": "exhibit hall",
+  "meaning": "展示会場",
+  "example": "The new products are displayed in the exhibit hall."
+ },
+ {
+  "id": "w232",
+  "word": "trade show",
+  "meaning": "展示会",
+  "example": "The company showcased its products at the trade show."
+ },
+ {
+  "id": "w233",
+  "word": "booth",
+  "meaning": "ブース",
+  "example": "Visit our booth for a live product demonstration."
+ },
+ {
+  "id": "w234",
+  "word": "prototype",
+  "meaning": "試作品",
+  "example": "Engineers presented a prototype of the new device."
+ },
+ {
+  "id": "w235",
+  "word": "specifications",
+  "meaning": "仕様",
+  "example": "The product specifications are listed in the manual."
+ },
+ {
+  "id": "w236",
+  "word": "assembly line",
+  "meaning": "組立ライン",
+  "example": "The factory added a second assembly line."
+ },
+ {
+  "id": "w237",
+  "word": "quality control",
+  "meaning": "品質管理",
+  "example": "Quality control inspects every unit before shipping."
+ },
+ {
+  "id": "w238",
+  "word": "malfunction",
+  "meaning": "故障",
+  "example": "A malfunction in the system delayed production."
+ },
+ {
+  "id": "w239",
+  "word": "maintenance",
+  "meaning": "保守、メンテナンス",
+  "example": "Regular maintenance keeps the machines running smoothly."
+ },
+ {
+  "id": "w240",
+  "word": "technician",
+  "meaning": "技術者",
+  "example": "A technician was sent to repair the equipment."
+ },
+ {
+  "id": "w241",
+  "word": "upgrade software",
+  "meaning": "ソフトウェアを更新する",
+  "example": "IT will upgrade the software over the weekend."
+ },
+ {
+  "id": "w242",
+  "word": "troubleshoot",
+  "meaning": "問題解決する",
+  "example": "Our support team can troubleshoot most issues remotely."
+ },
+ {
+  "id": "w243",
+  "word": "glitch",
+  "meaning": "不具合",
+  "example": "A minor glitch delayed the product launch."
+ },
+ {
+  "id": "w244",
+  "word": "firmware",
+  "meaning": "ファームウェア",
+  "example": "The device requires a firmware update."
+ },
+ {
+  "id": "w245",
+  "word": "encryption",
+  "meaning": "暗号化",
+  "example": "Customer data is protected with strong encryption."
+ },
+ {
+  "id": "w246",
+  "word": "server outage",
+  "meaning": "サーバー停止",
+  "example": "The server outage lasted about two hours."
+ },
+ {
+  "id": "w247",
+  "word": "bandwidth",
+  "meaning": "帯域幅",
+  "example": "The office needs more bandwidth for video calls."
+ },
+ {
+  "id": "w248",
+  "word": "subscription",
+  "meaning": "定期購読、サブスクリプション",
+  "example": "The company offers a monthly subscription service."
+ },
+ {
+  "id": "w249",
+  "word": "license agreement",
+  "meaning": "ライセンス契約",
+  "example": "Read the license agreement before installing the software."
+ },
+ {
+  "id": "w250",
+  "word": "analytics",
+  "meaning": "分析、アナリティクス",
+  "example": "The marketing team reviews analytics every week."
+ },
+ {
+  "id": "w251",
+  "word": "campaign",
+  "meaning": "キャンペーン",
+  "example": "The marketing campaign boosted sales significantly."
+ },
+ {
+  "id": "w252",
+  "word": "branding",
+  "meaning": "ブランディング",
+  "example": "The company invested heavily in branding last year."
+ },
+ {
+  "id": "w253",
+  "word": "endorsement",
+  "meaning": "推薦、支持",
+  "example": "The athlete's endorsement helped promote the product."
+ },
+ {
+  "id": "w254",
+  "word": "target audience",
+  "meaning": "ターゲット層",
+  "example": "The ad was designed for a younger target audience."
+ },
+ {
+  "id": "w255",
+  "word": "promotional material",
+  "meaning": "販促資料",
+  "example": "New promotional material will be printed next week."
+ },
+ {
+  "id": "w256",
+  "word": "testimonial",
+  "meaning": "推薦の言葉、体験談",
+  "example": "Customer testimonials are featured on the website."
+ },
+ {
+  "id": "w257",
+  "word": "survey",
+  "meaning": "アンケート、調査",
+  "example": "We conducted a survey to measure customer satisfaction."
+ },
+ {
+  "id": "w258",
+  "word": "questionnaire",
+  "meaning": "アンケート用紙",
+  "example": "Please complete the questionnaire before you leave."
+ },
+ {
+  "id": "w259",
+  "word": "respondent",
+  "meaning": "回答者",
+  "example": "Most respondents preferred the new packaging design."
+ },
+ {
+  "id": "w260",
+  "word": "outcome",
+  "meaning": "結果",
+  "example": "The outcome of the negotiation was favorable."
+ },
+ {
+  "id": "w261",
+  "word": "milestone",
+  "meaning": "節目、重要な段階",
+  "example": "Completing the prototype was a major milestone."
+ },
+ {
+  "id": "w262",
+  "word": "timeline",
+  "meaning": "予定表、タイムライン",
+  "example": "The project timeline was extended by two weeks."
+ },
+ {
+  "id": "w263",
+  "word": "phase",
+  "meaning": "段階",
+  "example": "The construction is now in its final phase."
+ },
+ {
+  "id": "w264",
+  "word": "logistics coordinator",
+  "meaning": "物流調整担当者",
+  "example": "The logistics coordinator scheduled all the deliveries."
+ },
+ {
+  "id": "w265",
+  "word": "supply chain",
+  "meaning": "サプライチェーン",
+  "example": "The supply chain was disrupted by the storm."
+ },
+ {
+  "id": "w266",
+  "word": "lead time",
+  "meaning": "リードタイム、所要時間",
+  "example": "The lead time for custom orders is three weeks."
+ },
+ {
+  "id": "w267",
+  "word": "turnaround time",
+  "meaning": "処理にかかる時間",
+  "example": "Our turnaround time for repairs is 48 hours."
+ },
+ {
+  "id": "w268",
+  "word": "productivity",
+  "meaning": "生産性",
+  "example": "New software improved overall productivity."
+ },
+ {
+  "id": "w269",
+  "word": "efficiency",
+  "meaning": "効率",
+  "example": "The new process increased efficiency by 20 percent."
+ },
+ {
+  "id": "w270",
+  "word": "streamline",
+  "meaning": "合理化する",
+  "example": "The company streamlined its approval process."
+ },
+ {
+  "id": "w271",
+  "word": "restructure",
+  "meaning": "再編成する",
+  "example": "The department was restructured to reduce costs."
+ },
+ {
+  "id": "w272",
+  "word": "downsizing",
+  "meaning": "人員削減、規模縮小",
+  "example": "Downsizing led to a smaller workforce this year."
+ },
+ {
+  "id": "w273",
+  "word": "relocate",
+  "meaning": "移転する",
+  "example": "The headquarters will relocate to a bigger building."
+ },
+ {
+  "id": "w274",
+  "word": "premises lease",
+  "meaning": "施設賃貸",
+  "example": "The premises lease expires at the end of the year."
+ },
+ {
+  "id": "w275",
+  "word": "tenant",
+  "meaning": "賃借人",
+  "example": "The tenant signed a two-year lease agreement."
+ },
+ {
+  "id": "w276",
+  "word": "landlord",
+  "meaning": "家主",
+  "example": "The landlord agreed to repair the heating system."
+ },
+ {
+  "id": "w277",
+  "word": "utility bill",
+  "meaning": "公共料金の請求書",
+  "example": "The utility bill increased due to higher electricity rates."
+ },
+ {
+  "id": "w278",
+  "word": "overhead cost",
+  "meaning": "諸経費、固定費",
+  "example": "Overhead costs include rent and utilities."
+ },
+ {
+  "id": "w279",
+  "word": "cost-effective",
+  "meaning": "費用対効果の高い",
+  "example": "The new method is more cost-effective than before."
+ },
+ {
+  "id": "w280",
+  "word": "sustainable",
+  "meaning": "持続可能な",
+  "example": "The company adopted more sustainable packaging."
+ },
+ {
+  "id": "w281",
+  "word": "renewable energy",
+  "meaning": "再生可能エネルギー",
+  "example": "The factory now runs on renewable energy."
+ },
+ {
+  "id": "w282",
+  "word": "eco-friendly",
+  "meaning": "環境に優しい",
+  "example": "The store only sells eco-friendly products."
+ },
+ {
+  "id": "w283",
+  "word": "emission",
+  "meaning": "排出",
+  "example": "The plant reduced its carbon emissions last year."
+ },
+ {
+  "id": "w284",
+  "word": "waste management",
+  "meaning": "廃棄物管理",
+  "example": "The city improved its waste management system."
+ },
+ {
+  "id": "w285",
+  "word": "hazard",
+  "meaning": "危険",
+  "example": "Workers must report any safety hazard immediately."
+ },
+ {
+  "id": "w286",
+  "word": "evacuation",
+  "meaning": "避難",
+  "example": "An evacuation drill was held on Friday afternoon."
+ },
+ {
+  "id": "w287",
+  "word": "insurance policy",
+  "meaning": "保険契約",
+  "example": "Review your insurance policy for coverage details."
+ },
+ {
+  "id": "w288",
+  "word": "claim",
+  "meaning": "請求、主張",
+  "example": "She filed a claim after the accident."
+ },
+ {
+  "id": "w289",
+  "word": "coverage",
+  "meaning": "補償範囲",
+  "example": "The policy provides coverage for property damage."
+ },
+ {
+  "id": "w290",
+  "word": "deductible",
+  "meaning": "自己負担額",
+  "example": "The deductible for this plan is 500 dollars."
+ },
+ {
+  "id": "w291",
+  "word": "beneficiary",
+  "meaning": "受益者",
+  "example": "He named his spouse as the beneficiary."
+ },
+ {
+  "id": "w292",
+  "word": "underwriter",
+  "meaning": "保険引受人",
+  "example": "The underwriter assessed the risk before approving the policy."
+ },
+ {
+  "id": "w293",
+  "word": "premium payment",
+  "meaning": "保険料の支払い",
+  "example": "Premium payments are due on the first of each month."
+ },
+ {
+  "id": "w294",
+  "word": "appraisal report",
+  "meaning": "査定報告書",
+  "example": "The appraisal report estimated the property's value."
+ },
+ {
+  "id": "w295",
+  "word": "real estate agent",
+  "meaning": "不動産業者",
+  "example": "A real estate agent showed them several properties."
+ },
+ {
+  "id": "w296",
+  "word": "listing",
+  "meaning": "物件情報、出品",
+  "example": "The new listing attracted many potential buyers."
+ },
+ {
+  "id": "w297",
+  "word": "square footage",
+  "meaning": "床面積",
+  "example": "The office has 5,000 square feet of space."
+ },
+ {
+  "id": "w298",
+  "word": "zoning regulation",
+  "meaning": "区画規制",
+  "example": "Zoning regulations restrict commercial use in this area."
+ },
+ {
+  "id": "w299",
+  "word": "blueprint",
+  "meaning": "設計図",
+  "example": "The architect presented the blueprint for the new building."
+ },
+ {
+  "id": "w300",
+  "word": "groundbreaking ceremony",
+  "meaning": "起工式",
+  "example": "The groundbreaking ceremony was held this morning."
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1601",
+  "word": "holiday party",
+  "meaning": "忘年会、ホリデーパーティー",
+  "example": "The office holiday party will be held next Friday."
+ },
+ {
+  "id": "w1602",
+  "word": "potluck lunch",
+  "meaning": "持ち寄りランチ",
+  "example": "The team organized a potluck lunch for the celebration."
+ },
+ {
+  "id": "w1603",
+  "word": "team outing",
+  "meaning": "チームでの外出行事",
+  "example": "The department planned a team outing to build morale."
+ },
+ {
+  "id": "w1604",
+  "word": "volunteer day",
+  "meaning": "ボランティアデー",
+  "example": "The company organizes an annual volunteer day."
+ },
+ {
+  "id": "w1605",
+  "word": "charity drive",
+  "meaning": "慈善活動、募金活動",
+  "example": "The office held a charity drive for the local shelter."
+ },
+ {
+  "id": "w1606",
+  "word": "donation matching",
+  "meaning": "寄付マッチング(会社が同額寄付)",
+  "example": "The company offers donation matching for employee gifts."
+ },
+ {
+  "id": "w1607",
+  "word": "corporate sponsorship",
+  "meaning": "企業スポンサーシップ",
+  "example": "The firm provided corporate sponsorship for the marathon."
+ },
+ {
+  "id": "w1608",
+  "word": "social responsibility",
+  "meaning": "社会的責任",
+  "example": "The company takes its social responsibility seriously."
+ },
+ {
+  "id": "w1609",
+  "word": "ethical sourcing",
+  "meaning": "倫理的な調達",
+  "example": "The brand is committed to ethical sourcing of materials."
+ },
+ {
+  "id": "w1610",
+  "word": "weather condition",
+  "meaning": "気象状況",
+  "example": "Flights were delayed due to poor weather conditions."
+ },
+ {
+  "id": "w1611",
+  "word": "precipitation",
+  "meaning": "降水量",
+  "example": "Heavy precipitation is expected later this week."
+ },
+ {
+  "id": "w1612",
+  "word": "overcast sky",
+  "meaning": "曇り空",
+  "example": "The overcast sky suggested rain was coming."
+ },
+ {
+  "id": "w1613",
+  "word": "clear skies",
+  "meaning": "晴天",
+  "example": "The forecast predicts clear skies for the weekend."
+ },
+ {
+  "id": "w1614",
+  "word": "thunderstorm",
+  "meaning": "雷雨",
+  "example": "A thunderstorm knocked out power in the area."
+ },
+ {
+  "id": "w1615",
+  "word": "fog advisory",
+  "meaning": "霧に関する注意報",
+  "example": "A fog advisory was issued for the early morning commute."
+ },
+ {
+  "id": "w1616",
+  "word": "wind chill",
+  "meaning": "体感温度(風による)",
+  "example": "The wind chill made it feel much colder outside."
+ },
+ {
+  "id": "w1617",
+  "word": "seasonal change",
+  "meaning": "季節の変化",
+  "example": "The store updates its inventory with the seasonal change."
+ },
+ {
+  "id": "w1618",
+  "word": "spring cleaning",
+  "meaning": "春の大掃除",
+  "example": "The office did some spring cleaning last weekend."
+ },
+ {
+  "id": "w1619",
+  "word": "harvest season",
+  "meaning": "収穫期",
+  "example": "The harvest season keeps farmers busy in autumn."
+ },
+ {
+  "id": "w1620",
+  "word": "peak season",
+  "meaning": "繁忙期",
+  "example": "Hotel prices rise during the peak season."
+ },
+ {
+  "id": "w1621",
+  "word": "off-season",
+  "meaning": "オフシーズン",
+  "example": "Prices are lower during the off-season."
+ },
+ {
+  "id": "w1622",
+  "word": "holiday rush",
+  "meaning": "ホリデーシーズンの混雑",
+  "example": "Retailers prepare for the holiday rush every December."
+ },
+ {
+  "id": "w1623",
+  "word": "year-end closing",
+  "meaning": "年度末決算",
+  "example": "The accounting team is busy with the year-end closing."
+ },
+ {
+  "id": "w1624",
+  "word": "fiscal quarter",
+  "meaning": "会計四半期",
+  "example": "Sales are reviewed at the end of each fiscal quarter."
+ },
+ {
+  "id": "w1625",
+  "word": "calendar year",
+  "meaning": "暦年",
+  "example": "The report covers the entire calendar year."
+ },
+ {
+  "id": "w1626",
+  "word": "leap year",
+  "meaning": "うるう年",
+  "example": "This year is a leap year with an extra day in February."
+ },
+ {
+  "id": "w1627",
+  "word": "public holiday",
+  "meaning": "祝日",
+  "example": "The office is closed for the public holiday."
+ },
+ {
+  "id": "w1628",
+  "word": "bank holiday",
+  "meaning": "銀行休業日",
+  "example": "Banks are closed on the bank holiday."
+ },
+ {
+  "id": "w1629",
+  "word": "long weekend",
+  "meaning": "長い週末(連休)",
+  "example": "They planned a trip during the long weekend."
+ },
+ {
+  "id": "w1630",
+  "word": "statutory holiday",
+  "meaning": "法定休日",
+  "example": "Employees receive extra pay for working on a statutory holiday."
+ },
+ {
+  "id": "w1631",
+  "word": "time zone difference",
+  "meaning": "時差",
+  "example": "The time zone difference made scheduling calls difficult."
+ },
+ {
+  "id": "w1632",
+  "word": "daylight saving time",
+  "meaning": "サマータイム",
+  "example": "Clocks move forward for daylight saving time in spring."
+ },
+ {
+  "id": "w1633",
+  "word": "business calendar",
+  "meaning": "業務カレンダー",
+  "example": "The business calendar lists all upcoming deadlines."
+ },
+ {
+  "id": "w1634",
+  "word": "fiscal calendar",
+  "meaning": "会計カレンダー",
+  "example": "The fiscal calendar differs from the standard calendar year."
+ },
+ {
+  "id": "w1635",
+  "word": "lead-in period",
+  "meaning": "導入期間",
+  "example": "The lead-in period allows staff to adjust to new software."
+ },
+ {
+  "id": "w1636",
+  "word": "grace period extension",
+  "meaning": "猶予期間の延長",
+  "example": "The bank granted a grace period extension for the payment."
+ },
+ {
+  "id": "w1637",
+  "word": "cooling-off period",
+  "meaning": "クーリングオフ期間",
+  "example": "Consumers have a cooling-off period to cancel the contract."
+ },
+ {
+  "id": "w1638",
+  "word": "trial period",
+  "meaning": "試用期間",
+  "example": "The gym offers a two-week trial period for new members."
+ },
+ {
+  "id": "w1639",
+  "word": "notice period",
+  "meaning": "予告期間",
+  "example": "Employees must give a two-week notice period before resigning."
+ },
+ {
+  "id": "w1640",
+  "word": "transition period",
+  "meaning": "移行期間",
+  "example": "The transition period allows for a smooth handover."
+ },
+ {
+  "id": "w1641",
+  "word": "adjustment period",
+  "meaning": "順応期間",
+  "example": "New employees need an adjustment period to learn the systems."
+ },
+ {
+  "id": "w1642",
+  "word": "startup phase",
+  "meaning": "立ち上げ期",
+  "example": "The company faced challenges during its startup phase."
+ },
+ {
+  "id": "w1643",
+  "word": "growth phase",
+  "meaning": "成長期",
+  "example": "The company is currently in its growth phase."
+ },
+ {
+  "id": "w1644",
+  "word": "maturity phase",
+  "meaning": "成熟期",
+  "example": "The product has reached its maturity phase in the market."
+ },
+ {
+  "id": "w1645",
+  "word": "decline phase",
+  "meaning": "衰退期",
+  "example": "Sales entered a decline phase after new competitors emerged."
+ },
+ {
+  "id": "w1646",
+  "word": "product life cycle",
+  "meaning": "製品ライフサイクル",
+  "example": "Understanding the product life cycle helps with planning."
+ },
+ {
+  "id": "w1647",
+  "word": "market saturation",
+  "meaning": "市場飽和",
+  "example": "Market saturation slowed the company's growth."
+ },
+ {
+  "id": "w1648",
+  "word": "first-mover advantage",
+  "meaning": "先行者利益",
+  "example": "The company gained a first-mover advantage in the market."
+ },
+ {
+  "id": "w1649",
+  "word": "late entrant",
+  "meaning": "後発参入者",
+  "example": "As a late entrant, the firm had to work hard to compete."
+ },
+ {
+  "id": "w1650",
+  "word": "stapler",
+  "meaning": "ホチキス",
+  "example": "She used a stapler to bind the pages together."
+ },
+ {
+  "id": "w1651",
+  "word": "paper clip",
+  "meaning": "クリップ",
+  "example": "Use a paper clip instead of a staple for loose sheets."
+ },
+ {
+  "id": "w1652",
+  "word": "binder",
+  "meaning": "バインダー",
+  "example": "The reports are organized in a three-ring binder."
+ },
+ {
+  "id": "w1653",
+  "word": "hole punch",
+  "meaning": "穴あけパンチ",
+  "example": "He used a hole punch to prepare the documents for the binder."
+ },
+ {
+  "id": "w1654",
+  "word": "highlighter",
+  "meaning": "蛍光ペン",
+  "example": "She used a highlighter to mark important sections."
+ },
+ {
+  "id": "w1655",
+  "word": "sticky tape",
+  "meaning": "粘着テープ",
+  "example": "Sticky tape was used to seal the envelope."
+ },
+ {
+  "id": "w1656",
+  "word": "envelope",
+  "meaning": "封筒",
+  "example": "She sealed the letter in an envelope."
+ },
+ {
+  "id": "w1657",
+  "word": "postage stamp",
+  "meaning": "切手",
+  "example": "He bought postage stamps at the post office."
+ },
+ {
+  "id": "w1658",
+  "word": "mailroom",
+  "meaning": "メールルーム",
+  "example": "Packages are sorted in the mailroom each morning."
+ },
+ {
+  "id": "w1659",
+  "word": "shredder",
+  "meaning": "シュレッダー",
+  "example": "Confidential documents are destroyed using a shredder."
+ },
+ {
+  "id": "w1660",
+  "word": "label maker",
+  "meaning": "ラベルメーカー",
+  "example": "She used a label maker to organize the file folders."
+ },
+ {
+  "id": "w1661",
+  "word": "desk organizer",
+  "meaning": "デスクオーガナイザー",
+  "example": "A desk organizer keeps her supplies neat."
+ },
+ {
+  "id": "w1662",
+  "word": "bulletin board",
+  "meaning": "掲示板",
+  "example": "Notices are posted on the bulletin board in the break room."
+ },
+ {
+  "id": "w1663",
+  "word": "coffee machine",
+  "meaning": "コーヒーメーカー",
+  "example": "The coffee machine in the break room needs repair."
+ },
+ {
+  "id": "w1664",
+  "word": "vending machine",
+  "meaning": "自動販売機",
+  "example": "Snacks are available from the vending machine."
+ },
+ {
+  "id": "w1665",
+  "word": "water cooler",
+  "meaning": "ウォータークーラー",
+  "example": "Employees often chat near the water cooler."
+ },
+ {
+  "id": "w1666",
+  "word": "hot desking",
+  "meaning": "ホットデスキング(座席自由制)",
+  "example": "The company adopted hot desking to save space."
+ },
+ {
+  "id": "w1667",
+  "word": "conference bridge",
+  "meaning": "電話会議用回線",
+  "example": "Dial into the conference bridge for the meeting."
+ },
+ {
+  "id": "w1668",
+  "word": "meeting minutes",
+  "meaning": "議事録",
+  "example": "The minutes of the meeting were emailed to all attendees."
+ },
+ {
+  "id": "w1669",
+  "word": "action minutes",
+  "meaning": "アクション項目付き議事録",
+  "example": "The action minutes listed each task and its owner."
+ },
+ {
+  "id": "w1670",
+  "word": "recap email",
+  "meaning": "要約メール",
+  "example": "She sent a recap email after the client call."
+ },
+ {
+  "id": "w1671",
+  "word": "status update",
+  "meaning": "進捗報告",
+  "example": "The manager requested a status update on the project."
+ },
+ {
+  "id": "w1672",
+  "word": "progress report",
+  "meaning": "進捗レポート",
+  "example": "A progress report is due at the end of each sprint."
+ },
+ {
+  "id": "w1673",
+  "word": "sprint planning",
+  "meaning": "スプリント計画",
+  "example": "The team holds sprint planning every two weeks."
+ },
+ {
+  "id": "w1674",
+  "word": "backlog item",
+  "meaning": "バックログ項目",
+  "example": "New feature requests are added as backlog items."
+ },
+ {
+  "id": "w1675",
+  "word": "kanban board",
+  "meaning": "カンバンボード",
+  "example": "The team tracks tasks using a kanban board."
+ },
+ {
+  "id": "w1676",
+  "word": "sprint review",
+  "meaning": "スプリントレビュー",
+  "example": "Stakeholders attended the sprint review to see progress."
+ },
+ {
+  "id": "w1677",
+  "word": "retrospective meeting",
+  "meaning": "振り返りミーティング",
+  "example": "The team holds a retrospective meeting after each sprint."
+ },
+ {
+  "id": "w1678",
+  "word": "scrum master",
+  "meaning": "スクラムマスター",
+  "example": "The scrum master facilitates the daily standup."
+ },
+ {
+  "id": "w1679",
+  "word": "product owner",
+  "meaning": "プロダクトオーナー",
+  "example": "The product owner prioritizes the feature backlog."
+ },
+ {
+  "id": "w1680",
+  "word": "user story",
+  "meaning": "ユーザーストーリー",
+  "example": "Each user story describes a feature from the customer's view."
+ },
+ {
+  "id": "w1681",
+  "word": "bug tracker",
+  "meaning": "バグトラッカー",
+  "example": "Developers log issues in the bug tracker."
+ },
+ {
+  "id": "w1682",
+  "word": "software release",
+  "meaning": "ソフトウェアリリース",
+  "example": "The next software release is scheduled for June."
+ },
+ {
+  "id": "w1683",
+  "word": "apartment lease",
+  "meaning": "アパートの賃貸契約",
+  "example": "She signed a one-year apartment lease."
+ },
+ {
+  "id": "w1684",
+  "word": "rental agreement",
+  "meaning": "賃貸契約書",
+  "example": "Both parties signed the rental agreement."
+ },
+ {
+  "id": "w1685",
+  "word": "move-out inspection",
+  "meaning": "退去時検査",
+  "example": "A move-out inspection was scheduled for Friday."
+ },
+ {
+  "id": "w1686",
+  "word": "maintenance request",
+  "meaning": "修理依頼",
+  "example": "She submitted a maintenance request for the leaky faucet."
+ },
+ {
+  "id": "w1687",
+  "word": "noise complaint",
+  "meaning": "騒音苦情",
+  "example": "The building received a noise complaint from a neighbor."
+ },
+ {
+  "id": "w1688",
+  "word": "gated community",
+  "meaning": "ゲーテッドコミュニティ",
+  "example": "They moved into a gated community for added security."
+ },
+ {
+  "id": "w1689",
+  "word": "condominium",
+  "meaning": "コンドミニアム",
+  "example": "She bought a condominium near downtown."
+ },
+ {
+  "id": "w1690",
+  "word": "open house",
+  "meaning": "内覧会(不動産の)",
+  "example": "The realtor held an open house on Saturday."
+ },
+ {
+  "id": "w1691",
+  "word": "home inspection",
+  "meaning": "住宅検査",
+  "example": "A home inspection revealed some minor issues."
+ },
+ {
+  "id": "w1692",
+  "word": "closing date",
+  "meaning": "決済日、契約完了日",
+  "example": "The closing date for the house purchase was delayed."
+ },
+ {
+  "id": "w1693",
+  "word": "mortgage lender",
+  "meaning": "住宅ローン貸付業者",
+  "example": "She compared rates from several mortgage lenders."
+ },
+ {
+  "id": "w1694",
+  "word": "interest-only loan",
+  "meaning": "利息のみ返済ローン",
+  "example": "An interest-only loan lowers initial monthly payments."
+ },
+ {
+  "id": "w1695",
+  "word": "fixed-rate mortgage",
+  "meaning": "固定金利住宅ローン",
+  "example": "They chose a fixed-rate mortgage for stability."
+ },
+ {
+  "id": "w1696",
+  "word": "adjustable-rate mortgage",
+  "meaning": "変動金利住宅ローン",
+  "example": "An adjustable-rate mortgage can change over time."
+ },
+ {
+  "id": "w1697",
+  "word": "home equity",
+  "meaning": "住宅資産価値",
+  "example": "They took out a loan against their home equity."
+ },
+ {
+  "id": "w1698",
+  "word": "property appraisal",
+  "meaning": "不動産鑑定",
+  "example": "A property appraisal determines the home's market value."
+ },
+ {
+  "id": "w1699",
+  "word": "real estate broker",
+  "meaning": "不動産ブローカー",
+  "example": "The real estate broker negotiated a better price."
+ },
+ {
+  "id": "w1700",
+  "word": "listing agent",
+  "meaning": "売主側の不動産業者",
+  "example": "The listing agent scheduled several showings."
+ }
+]

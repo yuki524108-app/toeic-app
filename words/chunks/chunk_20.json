@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1901",
+  "word": "fraud prevention",
+  "meaning": "詐欺防止",
+  "example": "The bank invests heavily in fraud prevention technology."
+ },
+ {
+  "id": "w1902",
+  "word": "phishing scam",
+  "meaning": "フィッシング詐欺",
+  "example": "He nearly fell victim to a phishing scam."
+ },
+ {
+  "id": "w1903",
+  "word": "cyberattack",
+  "meaning": "サイバー攻撃",
+  "example": "The company suffered a major cyberattack last month."
+ },
+ {
+  "id": "w1904",
+  "word": "ransomware",
+  "meaning": "ランサムウェア",
+  "example": "The hospital's systems were locked by ransomware."
+ },
+ {
+  "id": "w1905",
+  "word": "malware",
+  "meaning": "マルウェア",
+  "example": "The antivirus software detected malware on the computer."
+ },
+ {
+  "id": "w1906",
+  "word": "data encryption",
+  "meaning": "データ暗号化",
+  "example": "Data encryption protects sensitive customer information."
+ },
+ {
+  "id": "w1907",
+  "word": "password policy",
+  "meaning": "パスワードポリシー",
+  "example": "The company enforces a strict password policy."
+ },
+ {
+  "id": "w1908",
+  "word": "two-factor authentication",
+  "meaning": "二要素認証",
+  "example": "Two-factor authentication adds an extra layer of security."
+ },
+ {
+  "id": "w1909",
+  "word": "wedding planner",
+  "meaning": "ウェディングプランナー",
+  "example": "They hired a wedding planner to organize the event."
+ },
+ {
+  "id": "w1910",
+  "word": "bridal shower",
+  "meaning": "ブライダルシャワー",
+  "example": "Her friends threw a bridal shower before the wedding."
+ },
+ {
+  "id": "w1911",
+  "word": "baby shower",
+  "meaning": "ベビーシャワー",
+  "example": "Coworkers organized a baby shower for the expecting mother."
+ },
+ {
+  "id": "w1912",
+  "word": "family reunion",
+  "meaning": "家族の再会、同窓会",
+  "example": "The family reunion is held every summer."
+ },
+ {
+  "id": "w1913",
+  "word": "housewarming gift",
+  "meaning": "新居祝いの贈り物",
+  "example": "They brought a housewarming gift to the new apartment."
+ },
+ {
+  "id": "w1914",
+  "word": "birthday celebration",
+  "meaning": "誕生日祝い",
+  "example": "The office organized a small birthday celebration."
+ },
+ {
+  "id": "w1915",
+  "word": "graduation gift",
+  "meaning": "卒業祝いの贈り物",
+  "example": "She received a laptop as a graduation gift."
+ },
+ {
+  "id": "w1916",
+  "word": "condolence letter",
+  "meaning": "お悔やみの手紙",
+  "example": "He wrote a condolence letter to the grieving family."
+ },
+ {
+  "id": "w1917",
+  "word": "get-well card",
+  "meaning": "お見舞いカード",
+  "example": "Colleagues sent a get-well card to their sick coworker."
+ },
+ {
+  "id": "w1918",
+  "word": "thank-you note",
+  "meaning": "お礼状",
+  "example": "She wrote a thank-you note after the interview."
+ },
+ {
+  "id": "w1919",
+  "word": "invitation card",
+  "meaning": "招待状",
+  "example": "The invitation card included the event details."
+ },
+ {
+  "id": "w1920",
+  "word": "greeting card",
+  "meaning": "グリーティングカード",
+  "example": "He bought a greeting card for his colleague's promotion."
+ },
+ {
+  "id": "w1921",
+  "word": "gift certificate",
+  "meaning": "ギフト券",
+  "example": "She received a gift certificate for the bookstore."
+ },
+ {
+  "id": "w1922",
+  "word": "loyalty reward",
+  "meaning": "ロイヤルティ報酬",
+  "example": "Customers can redeem loyalty rewards for discounts."
+ },
+ {
+  "id": "w1923",
+  "word": "cash back offer",
+  "meaning": "キャッシュバックオファー",
+  "example": "The credit card offers a cash back offer on purchases."
+ },
+ {
+  "id": "w1924",
+  "word": "membership renewal",
+  "meaning": "会員更新",
+  "example": "Membership renewal is due at the start of each year."
+ },
+ {
+  "id": "w1925",
+  "word": "subscription renewal",
+  "meaning": "サブスクリプション更新",
+  "example": "The subscription renewal happens automatically each month."
+ },
+ {
+  "id": "w1926",
+  "word": "auto-renewal",
+  "meaning": "自動更新",
+  "example": "Check the settings to disable auto-renewal."
+ },
+ {
+  "id": "w1927",
+  "word": "no-show fee",
+  "meaning": "無断キャンセル料",
+  "example": "A no-show fee applies if you miss your reservation."
+ },
+ {
+  "id": "w1928",
+  "word": "waitlist",
+  "meaning": "キャンセル待ちリスト",
+  "example": "She was added to the waitlist for the sold-out event."
+ },
+ {
+  "id": "w1929",
+  "word": "standby passenger",
+  "meaning": "キャンセル待ち乗客",
+  "example": "Standby passengers may board if seats are available."
+ },
+ {
+  "id": "w1930",
+  "word": "priority boarding",
+  "meaning": "優先搭乗",
+  "example": "Elite members receive priority boarding on flights."
+ },
+ {
+  "id": "w1931",
+  "word": "baggage allowance",
+  "meaning": "手荷物許容量",
+  "example": "Check your baggage allowance before packing."
+ },
+ {
+  "id": "w1932",
+  "word": "carry-on luggage",
+  "meaning": "機内持ち込み手荷物",
+  "example": "She packed light with only carry-on luggage."
+ },
+ {
+  "id": "w1933",
+  "word": "checked baggage",
+  "meaning": "預け入れ手荷物",
+  "example": "Checked baggage must meet the airline's weight limit."
+ },
+ {
+  "id": "w1934",
+  "word": "gate change",
+  "meaning": "搭乗ゲートの変更",
+  "example": "There was a last-minute gate change for the flight."
+ },
+ {
+  "id": "w1935",
+  "word": "flight cancellation",
+  "meaning": "フライトのキャンセル",
+  "example": "The flight cancellation caused major delays for passengers."
+ },
+ {
+  "id": "w1936",
+  "word": "standby list",
+  "meaning": "キャンセル待ちリスト(航空)",
+  "example": "He was placed on the standby list for the earlier flight."
+ },
+ {
+  "id": "w1937",
+  "word": "customs exemption",
+  "meaning": "関税免除",
+  "example": "Certain goods qualify for a customs exemption."
+ },
+ {
+  "id": "w1938",
+  "word": "newspaper column",
+  "meaning": "新聞のコラム",
+  "example": "She writes a weekly newspaper column on finance."
+ },
+ {
+  "id": "w1939",
+  "word": "editorial board",
+  "meaning": "編集委員会",
+  "example": "The editorial board decides which articles to publish."
+ },
+ {
+  "id": "w1940",
+  "word": "journalist",
+  "meaning": "ジャーナリスト",
+  "example": "The journalist interviewed the company's CEO."
+ },
+ {
+  "id": "w1941",
+  "word": "op-ed piece",
+  "meaning": "論説記事",
+  "example": "He wrote an op-ed piece about local politics."
+ },
+ {
+  "id": "w1942",
+  "word": "news bulletin",
+  "meaning": "ニュース速報",
+  "example": "A news bulletin interrupted the broadcast."
+ },
+ {
+  "id": "w1943",
+  "word": "breaking news",
+  "meaning": "速報ニュース",
+  "example": "Breaking news of the merger spread quickly."
+ },
+ {
+  "id": "w1944",
+  "word": "news anchor",
+  "meaning": "ニュースキャスター",
+  "example": "The news anchor reported live from the scene."
+ },
+ {
+  "id": "w1945",
+  "word": "subscription-based model",
+  "meaning": "サブスクリプション型モデル",
+  "example": "The newspaper adopted a subscription-based model online."
+ },
+ {
+  "id": "w1946",
+  "word": "publishing house",
+  "meaning": "出版社",
+  "example": "The manuscript was accepted by a major publishing house."
+ },
+ {
+  "id": "w1947",
+  "word": "literary agent",
+  "meaning": "文芸エージェント",
+  "example": "She found a literary agent to represent her novel."
+ },
+ {
+  "id": "w1948",
+  "word": "book deal",
+  "meaning": "出版契約",
+  "example": "The author signed a book deal with a major publisher."
+ },
+ {
+  "id": "w1949",
+  "word": "bestseller list",
+  "meaning": "ベストセラーリスト",
+  "example": "The novel topped the bestseller list for weeks."
+ },
+ {
+  "id": "w1950",
+  "word": "manuscript submission",
+  "meaning": "原稿提出",
+  "example": "She submitted her manuscript to several publishers."
+ },
+ {
+  "id": "w1951",
+  "word": "company retreat",
+  "meaning": "社員旅行、リトリート",
+  "example": "The team went on a company retreat to plan next year's strategy."
+ },
+ {
+  "id": "w1952",
+  "word": "leadership summit",
+  "meaning": "リーダーシップサミット",
+  "example": "Executives attended a leadership summit in Chicago."
+ },
+ {
+  "id": "w1953",
+  "word": "keynote address",
+  "meaning": "基調講演",
+  "example": "The CEO delivered the keynote address at the conference."
+ },
+ {
+  "id": "w1954",
+  "word": "thought leadership",
+  "meaning": "業界をリードする専門性の発信",
+  "example": "The company built thought leadership through published research."
+ },
+ {
+  "id": "w1955",
+  "word": "industry benchmark",
+  "meaning": "業界基準",
+  "example": "The company measured itself against an industry benchmark."
+ },
+ {
+  "id": "w1956",
+  "word": "competitive landscape",
+  "meaning": "競争環境",
+  "example": "The competitive landscape shifted after the merger."
+ },
+ {
+  "id": "w1957",
+  "word": "market entry strategy",
+  "meaning": "市場参入戦略",
+  "example": "The firm developed a market entry strategy for Asia."
+ },
+ {
+  "id": "w1958",
+  "word": "go-to-market plan",
+  "meaning": "市場投入計画",
+  "example": "The team finalized the go-to-market plan for the launch."
+ },
+ {
+  "id": "w1959",
+  "word": "customer acquisition cost",
+  "meaning": "顧客獲得コスト",
+  "example": "The company tracks its customer acquisition cost closely."
+ },
+ {
+  "id": "w1960",
+  "word": "lifetime value",
+  "meaning": "顧客生涯価値",
+  "example": "Increasing lifetime value is a key marketing goal."
+ },
+ {
+  "id": "w1961",
+  "word": "brand equity",
+  "meaning": "ブランドエクイティ",
+  "example": "Strong brand equity allows the company to charge premium prices."
+ },
+ {
+  "id": "w1962",
+  "word": "value chain",
+  "meaning": "バリューチェーン",
+  "example": "The company analyzed its value chain to cut costs."
+ },
+ {
+  "id": "w1963",
+  "word": "vertical integration",
+  "meaning": "垂直統合",
+  "example": "The firm pursued vertical integration to control its supply chain."
+ },
+ {
+  "id": "w1964",
+  "word": "horizontal integration",
+  "meaning": "水平統合",
+  "example": "Horizontal integration expanded the company's market share."
+ },
+ {
+  "id": "w1965",
+  "word": "economies of scale",
+  "meaning": "規模の経済",
+  "example": "Economies of scale reduced the cost per unit produced."
+ },
+ {
+  "id": "w1966",
+  "word": "diminishing returns",
+  "meaning": "収穫逓減",
+  "example": "The project experienced diminishing returns after initial gains."
+ },
+ {
+  "id": "w1967",
+  "word": "opportunity cost",
+  "meaning": "機会費用",
+  "example": "The opportunity cost of the delay was significant."
+ },
+ {
+  "id": "w1968",
+  "word": "sunk cost",
+  "meaning": "埋没費用",
+  "example": "They ignored the sunk cost and moved forward with the new plan."
+ },
+ {
+  "id": "w1969",
+  "word": "marginal cost",
+  "meaning": "限界費用",
+  "example": "The marginal cost of producing one more unit was low."
+ },
+ {
+  "id": "w1970",
+  "word": "supply and demand",
+  "meaning": "需要と供給",
+  "example": "Prices are determined by supply and demand."
+ },
+ {
+  "id": "w1971",
+  "word": "price elasticity",
+  "meaning": "価格弾力性",
+  "example": "The product has high price elasticity among consumers."
+ },
+ {
+  "id": "w1972",
+  "word": "break-even analysis",
+  "meaning": "損益分岐点分析",
+  "example": "The team conducted a break-even analysis before launching."
+ },
+ {
+  "id": "w1973",
+  "word": "capital expenditure",
+  "meaning": "設備投資",
+  "example": "The company approved a major capital expenditure this year."
+ },
+ {
+  "id": "w1974",
+  "word": "operating expense",
+  "meaning": "営業経費",
+  "example": "Operating expenses increased due to higher rent."
+ },
+ {
+  "id": "w1975",
+  "word": "cost center",
+  "meaning": "コストセンター",
+  "example": "The IT department is considered a cost center."
+ },
+ {
+  "id": "w1976",
+  "word": "profit center",
+  "meaning": "プロフィットセンター",
+  "example": "Sales is treated as a profit center within the company."
+ },
+ {
+  "id": "w1977",
+  "word": "shared services",
+  "meaning": "シェアードサービス",
+  "example": "The company consolidated HR into shared services."
+ },
+ {
+  "id": "w1978",
+  "word": "business unit",
+  "meaning": "事業部",
+  "example": "Each business unit reports its own quarterly results."
+ },
+ {
+  "id": "w1979",
+  "word": "headcount",
+  "meaning": "従業員数",
+  "example": "The department reduced its headcount by ten percent."
+ },
+ {
+  "id": "w1980",
+  "word": "org restructuring",
+  "meaning": "組織再編",
+  "example": "The org restructuring aims to improve efficiency."
+ },
+ {
+  "id": "w1981",
+  "word": "data governance",
+  "meaning": "データガバナンス",
+  "example": "The company established data governance policies."
+ },
+ {
+  "id": "w1982",
+  "word": "data integrity",
+  "meaning": "データの完全性",
+  "example": "Regular audits ensure data integrity across systems."
+ },
+ {
+  "id": "w1983",
+  "word": "data migration",
+  "meaning": "データ移行",
+  "example": "The IT team completed the data migration over the weekend."
+ },
+ {
+  "id": "w1984",
+  "word": "legacy system",
+  "meaning": "レガシーシステム",
+  "example": "The company still relies on an outdated legacy system."
+ },
+ {
+  "id": "w1985",
+  "word": "system upgrade",
+  "meaning": "システムアップグレード",
+  "example": "The system upgrade improved processing speed significantly."
+ },
+ {
+  "id": "w1986",
+  "word": "technical debt",
+  "meaning": "技術的負債",
+  "example": "The team addressed technical debt before adding new features."
+ },
+ {
+  "id": "w1987",
+  "word": "code repository",
+  "meaning": "コードリポジトリ",
+  "example": "Developers push their changes to the shared code repository."
+ },
+ {
+  "id": "w1988",
+  "word": "application programming interface",
+  "meaning": "アプリケーションプログラミングインターフェース(API)",
+  "example": "The API allows third-party apps to access the data."
+ },
+ {
+  "id": "w1989",
+  "word": "software developer",
+  "meaning": "ソフトウェア開発者",
+  "example": "The company is hiring several software developers."
+ },
+ {
+  "id": "w1990",
+  "word": "quality assurance tester",
+  "meaning": "QAテスター",
+  "example": "The quality assurance tester found several bugs before release."
+ },
+ {
+  "id": "w1991",
+  "word": "user acceptance testing",
+  "meaning": "ユーザー受け入れテスト",
+  "example": "User acceptance testing confirmed the system met requirements."
+ },
+ {
+  "id": "w1992",
+  "word": "beta version",
+  "meaning": "ベータ版",
+  "example": "The beta version was released to a small group of users."
+ },
+ {
+  "id": "w1993",
+  "word": "feature request",
+  "meaning": "機能要望",
+  "example": "Customers submitted several feature requests through the portal."
+ },
+ {
+  "id": "w1994",
+  "word": "bug fix",
+  "meaning": "バグ修正",
+  "example": "The latest update included several important bug fixes."
+ },
+ {
+  "id": "w1995",
+  "word": "patch release",
+  "meaning": "パッチリリース",
+  "example": "A patch release addressed the security vulnerability."
+ },
+ {
+  "id": "w1996",
+  "word": "rollback",
+  "meaning": "ロールバック(元に戻すこと)",
+  "example": "The team performed a rollback after the failed deployment."
+ },
+ {
+  "id": "w1997",
+  "word": "continuous integration",
+  "meaning": "継続的インテグレーション",
+  "example": "The team set up continuous integration to catch errors early."
+ },
+ {
+  "id": "w1998",
+  "word": "deployment pipeline",
+  "meaning": "デプロイメントパイプライン",
+  "example": "The deployment pipeline automates the release process."
+ },
+ {
+  "id": "w1999",
+  "word": "system architecture",
+  "meaning": "システムアーキテクチャ",
+  "example": "The system architecture was redesigned for scalability."
+ },
+ {
+  "id": "w2000",
+  "word": "technical specification",
+  "meaning": "技術仕様書",
+  "example": "Developers followed the technical specification closely."
+ }
+]

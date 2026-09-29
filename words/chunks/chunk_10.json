@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w901",
+  "word": "reliable",
+  "meaning": "信頼できる",
+  "example": "The company has a reliable delivery service."
+ },
+ {
+  "id": "w902",
+  "word": "efficient",
+  "meaning": "効率的な",
+  "example": "The new system is more efficient than the old one."
+ },
+ {
+  "id": "w903",
+  "word": "thorough",
+  "meaning": "徹底的な",
+  "example": "The inspector conducted a thorough review."
+ },
+ {
+  "id": "w904",
+  "word": "versatile",
+  "meaning": "多才な、多目的の",
+  "example": "The tool is versatile enough for many tasks."
+ },
+ {
+  "id": "w905",
+  "word": "innovative",
+  "meaning": "革新的な",
+  "example": "The startup is known for its innovative products."
+ },
+ {
+  "id": "w906",
+  "word": "competent",
+  "meaning": "有能な",
+  "example": "She is a competent manager with years of experience."
+ },
+ {
+  "id": "w907",
+  "word": "proficient",
+  "meaning": "熟達した",
+  "example": "He is proficient in three languages."
+ },
+ {
+  "id": "w908",
+  "word": "diligent",
+  "meaning": "勤勉な",
+  "example": "The diligent employee finished the report early."
+ },
+ {
+  "id": "w909",
+  "word": "meticulous",
+  "meaning": "細心の注意を払った",
+  "example": "She is meticulous about checking every detail."
+ },
+ {
+  "id": "w910",
+  "word": "resourceful",
+  "meaning": "臨機応変な、資源が豊かな",
+  "example": "He found a resourceful solution to the problem."
+ },
+ {
+  "id": "w911",
+  "word": "adaptable",
+  "meaning": "適応力のある",
+  "example": "The team is adaptable to changing circumstances."
+ },
+ {
+  "id": "w912",
+  "word": "consistent",
+  "meaning": "一貫した",
+  "example": "The company maintains consistent quality standards."
+ },
+ {
+  "id": "w913",
+  "word": "comprehensive",
+  "meaning": "包括的な",
+  "example": "The report provides a comprehensive overview."
+ },
+ {
+  "id": "w914",
+  "word": "substantial",
+  "meaning": "かなりの",
+  "example": "The company made a substantial investment in R&D."
+ },
+ {
+  "id": "w915",
+  "word": "significant",
+  "meaning": "重要な、著しい",
+  "example": "There was a significant increase in sales."
+ },
+ {
+  "id": "w916",
+  "word": "considerable",
+  "meaning": "かなりの",
+  "example": "The renovation required considerable time and money."
+ },
+ {
+  "id": "w917",
+  "word": "ample",
+  "meaning": "十分な",
+  "example": "There is ample parking available near the office."
+ },
+ {
+  "id": "w918",
+  "word": "sufficient",
+  "meaning": "十分な",
+  "example": "Ensure there is sufficient stock before the sale."
+ },
+ {
+  "id": "w919",
+  "word": "adequate",
+  "meaning": "適切な、十分な",
+  "example": "The training provided adequate preparation for the role."
+ },
+ {
+  "id": "w920",
+  "word": "exceptional",
+  "meaning": "並外れた",
+  "example": "She received an award for exceptional performance."
+ },
+ {
+  "id": "w921",
+  "word": "remarkable",
+  "meaning": "注目すべき",
+  "example": "The company achieved remarkable growth this year."
+ },
+ {
+  "id": "w922",
+  "word": "notable",
+  "meaning": "注目に値する",
+  "example": "There was a notable improvement in customer satisfaction."
+ },
+ {
+  "id": "w923",
+  "word": "prominent",
+  "meaning": "著名な、目立つ",
+  "example": "He is a prominent figure in the industry."
+ },
+ {
+  "id": "w924",
+  "word": "renowned",
+  "meaning": "有名な",
+  "example": "The chef is renowned for his creative dishes."
+ },
+ {
+  "id": "w925",
+  "word": "reputable",
+  "meaning": "評判の良い",
+  "example": "They chose a reputable supplier for the materials."
+ },
+ {
+  "id": "w926",
+  "word": "credible",
+  "meaning": "信頼できる",
+  "example": "The report is based on credible sources."
+ },
+ {
+  "id": "w927",
+  "word": "legitimate",
+  "meaning": "正当な",
+  "example": "The company has a legitimate claim to the patent."
+ },
+ {
+  "id": "w928",
+  "word": "viable",
+  "meaning": "実行可能な",
+  "example": "The proposal presents a viable business plan."
+ },
+ {
+  "id": "w929",
+  "word": "workable",
+  "meaning": "実行可能な",
+  "example": "The team came up with a workable solution to the delay."
+ },
+ {
+  "id": "w930",
+  "word": "practical",
+  "meaning": "実用的な",
+  "example": "The training focused on practical skills."
+ },
+ {
+  "id": "w931",
+  "word": "pragmatic",
+  "meaning": "実用的な、現実的な",
+  "example": "The manager took a pragmatic approach to the problem."
+ },
+ {
+  "id": "w932",
+  "word": "strategic",
+  "meaning": "戦略的な",
+  "example": "The merger was a strategic move for the company."
+ },
+ {
+  "id": "w933",
+  "word": "tactical",
+  "meaning": "戦術的な",
+  "example": "The team made a tactical decision to delay the launch."
+ },
+ {
+  "id": "w934",
+  "word": "proactive",
+  "meaning": "積極的な、先を見越した",
+  "example": "The manager took a proactive approach to risk management."
+ },
+ {
+  "id": "w935",
+  "word": "responsive",
+  "meaning": "迅速に対応する",
+  "example": "The support team is very responsive to customer needs."
+ },
+ {
+  "id": "w936",
+  "word": "attentive",
+  "meaning": "注意深い",
+  "example": "The waiter was attentive throughout the meal."
+ },
+ {
+  "id": "w937",
+  "word": "courteous",
+  "meaning": "礼儀正しい",
+  "example": "The staff were courteous and helpful."
+ },
+ {
+  "id": "w938",
+  "word": "cordial",
+  "meaning": "友好的な",
+  "example": "The meeting ended on a cordial note."
+ },
+ {
+  "id": "w939",
+  "word": "amicable",
+  "meaning": "友好的な、円満な",
+  "example": "The dispute was settled in an amicable manner."
+ },
+ {
+  "id": "w940",
+  "word": "tentative",
+  "meaning": "仮の、暫定的な",
+  "example": "A tentative agreement was reached during the meeting."
+ },
+ {
+  "id": "w941",
+  "word": "preliminary",
+  "meaning": "予備の",
+  "example": "The preliminary results look promising."
+ },
+ {
+  "id": "w942",
+  "word": "subsequent",
+  "meaning": "その後の",
+  "example": "Subsequent meetings will focus on implementation."
+ },
+ {
+  "id": "w943",
+  "word": "prior",
+  "meaning": "以前の",
+  "example": "Prior experience in sales is preferred."
+ },
+ {
+  "id": "w944",
+  "word": "pending",
+  "meaning": "保留中の",
+  "example": "The application is still pending approval."
+ },
+ {
+  "id": "w945",
+  "word": "imminent",
+  "meaning": "差し迫った",
+  "example": "An announcement is imminent regarding the merger."
+ },
+ {
+  "id": "w946",
+  "word": "prompt",
+  "meaning": "迅速な",
+  "example": "We appreciate your prompt response."
+ },
+ {
+  "id": "w947",
+  "word": "timely",
+  "meaning": "タイムリーな",
+  "example": "The timely delivery impressed the client."
+ },
+ {
+  "id": "w948",
+  "word": "overdue",
+  "meaning": "期限を過ぎた",
+  "example": "The invoice payment is now overdue."
+ },
+ {
+  "id": "w949",
+  "word": "belated",
+  "meaning": "遅れた",
+  "example": "He sent a belated apology for the missed deadline."
+ },
+ {
+  "id": "w950",
+  "word": "forthcoming",
+  "meaning": "今度の、近づいている",
+  "example": "Details about the forthcoming event will be shared soon."
+ },
+ {
+  "id": "w951",
+  "word": "upcoming",
+  "meaning": "来たる",
+  "example": "The upcoming conference will be held in Tokyo."
+ },
+ {
+  "id": "w952",
+  "word": "ongoing",
+  "meaning": "進行中の",
+  "example": "The renovation is an ongoing project."
+ },
+ {
+  "id": "w953",
+  "word": "recurring",
+  "meaning": "繰り返し起こる",
+  "example": "The system flagged a recurring error."
+ },
+ {
+  "id": "w954",
+  "word": "intermittent",
+  "meaning": "断続的な",
+  "example": "The service experienced intermittent outages."
+ },
+ {
+  "id": "w955",
+  "word": "sporadic",
+  "meaning": "散発的な",
+  "example": "Sporadic delays affected the delivery schedule."
+ },
+ {
+  "id": "w956",
+  "word": "gradual",
+  "meaning": "徐々の",
+  "example": "The company saw a gradual increase in profits."
+ },
+ {
+  "id": "w957",
+  "word": "rapid",
+  "meaning": "急速な",
+  "example": "The industry experienced rapid growth last decade."
+ },
+ {
+  "id": "w958",
+  "word": "steady",
+  "meaning": "着実な",
+  "example": "The company reported steady growth this year."
+ },
+ {
+  "id": "w959",
+  "word": "stagnant",
+  "meaning": "停滞した",
+  "example": "Sales remained stagnant despite the marketing efforts."
+ },
+ {
+  "id": "w960",
+  "word": "volatile",
+  "meaning": "不安定な",
+  "example": "The market has been volatile this month."
+ },
+ {
+  "id": "w961",
+  "word": "robust",
+  "meaning": "堅調な、頑丈な",
+  "example": "The company reported robust earnings this quarter."
+ },
+ {
+  "id": "w962",
+  "word": "fragile economy",
+  "meaning": "脆弱な経済",
+  "example": "The fragile economy showed signs of slow recovery."
+ },
+ {
+  "id": "w963",
+  "word": "resilient",
+  "meaning": "回復力のある",
+  "example": "The business remained resilient during the downturn."
+ },
+ {
+  "id": "w964",
+  "word": "vulnerable market",
+  "meaning": "脆弱な市場",
+  "example": "Small businesses are especially vulnerable in this market."
+ },
+ {
+  "id": "w965",
+  "word": "dominant",
+  "meaning": "支配的な",
+  "example": "The company holds a dominant position in the market."
+ },
+ {
+  "id": "w966",
+  "word": "leading",
+  "meaning": "主要な、先導する",
+  "example": "The firm is a leading provider of cloud services."
+ },
+ {
+  "id": "w967",
+  "word": "emerging",
+  "meaning": "新興の",
+  "example": "The company expanded into emerging markets."
+ },
+ {
+  "id": "w968",
+  "word": "established company",
+  "meaning": "確立された企業",
+  "example": "The startup partnered with an established company."
+ },
+ {
+  "id": "w969",
+  "word": "reputable firm",
+  "meaning": "評判の良い会社",
+  "example": "They hired a reputable firm to audit the accounts."
+ },
+ {
+  "id": "w970",
+  "word": "multinational",
+  "meaning": "多国籍の",
+  "example": "The multinational corporation operates in over fifty countries."
+ },
+ {
+  "id": "w971",
+  "word": "domestic market",
+  "meaning": "国内市場",
+  "example": "The company focuses primarily on the domestic market."
+ },
+ {
+  "id": "w972",
+  "word": "overseas branch",
+  "meaning": "海外支店",
+  "example": "An overseas branch was opened in Singapore last year."
+ },
+ {
+  "id": "w973",
+  "word": "headquartered",
+  "meaning": "本社を置く",
+  "example": "The firm is headquartered in Chicago."
+ },
+ {
+  "id": "w974",
+  "word": "nationwide",
+  "meaning": "全国的な",
+  "example": "The company launched a nationwide advertising campaign."
+ },
+ {
+  "id": "w975",
+  "word": "regional office",
+  "meaning": "地域事務所",
+  "example": "Each regional office reports to headquarters monthly."
+ },
+ {
+  "id": "w976",
+  "word": "local branch",
+  "meaning": "地元支店",
+  "example": "The local branch handles customer service inquiries."
+ },
+ {
+  "id": "w977",
+  "word": "affiliate",
+  "meaning": "系列会社、提携先",
+  "example": "The affiliate handles distribution in South America."
+ },
+ {
+  "id": "w978",
+  "word": "parent company",
+  "meaning": "親会社",
+  "example": "The parent company oversees all subsidiaries."
+ },
+ {
+  "id": "w979",
+  "word": "holding company",
+  "meaning": "持株会社",
+  "example": "The holding company owns several smaller firms."
+ },
+ {
+  "id": "w980",
+  "word": "shell company",
+  "meaning": "ペーパーカンパニー",
+  "example": "Regulators investigated the suspicious shell company."
+ },
+ {
+  "id": "w981",
+  "word": "nonprofit organization",
+  "meaning": "非営利団体",
+  "example": "The nonprofit organization relies on donations."
+ },
+ {
+  "id": "w982",
+  "word": "charity event",
+  "meaning": "慈善イベント",
+  "example": "The company sponsors an annual charity event."
+ },
+ {
+  "id": "w983",
+  "word": "donation",
+  "meaning": "寄付",
+  "example": "The firm made a generous donation to the local school."
+ },
+ {
+  "id": "w984",
+  "word": "philanthropy",
+  "meaning": "慈善活動",
+  "example": "The founder is known for his philanthropy."
+ },
+ {
+  "id": "w985",
+  "word": "volunteer",
+  "meaning": "ボランティア",
+  "example": "Employees volunteer at the shelter once a month."
+ },
+ {
+  "id": "w986",
+  "word": "community outreach",
+  "meaning": "地域社会への働きかけ",
+  "example": "The bank runs a community outreach program."
+ },
+ {
+  "id": "w987",
+  "word": "corporate social responsibility",
+  "meaning": "企業の社会的責任",
+  "example": "The report highlights the firm's corporate social responsibility."
+ },
+ {
+  "id": "w988",
+  "word": "stakeholder engagement",
+  "meaning": "利害関係者との関わり",
+  "example": "Stakeholder engagement is key to the project's success."
+ },
+ {
+  "id": "w989",
+  "word": "public sector",
+  "meaning": "公共部門",
+  "example": "He worked in the public sector for over a decade."
+ },
+ {
+  "id": "w990",
+  "word": "private sector",
+  "meaning": "民間部門",
+  "example": "The private sector created most new jobs last year."
+ },
+ {
+  "id": "w991",
+  "word": "municipal government",
+  "meaning": "市町村政府",
+  "example": "The municipal government approved the new zoning plan."
+ },
+ {
+  "id": "w992",
+  "word": "federal regulation",
+  "meaning": "連邦規制",
+  "example": "The company must comply with federal regulations."
+ },
+ {
+  "id": "w993",
+  "word": "legislative body",
+  "meaning": "立法機関",
+  "example": "The legislative body passed the new trade bill."
+ },
+ {
+  "id": "w994",
+  "word": "policy maker",
+  "meaning": "政策立案者",
+  "example": "Policy makers debated the proposed tax reform."
+ },
+ {
+  "id": "w995",
+  "word": "civic duty",
+  "meaning": "市民の義務",
+  "example": "Voting is considered a civic duty."
+ },
+ {
+  "id": "w996",
+  "word": "public hearing",
+  "meaning": "公聴会",
+  "example": "A public hearing was held to discuss the new highway."
+ },
+ {
+  "id": "w997",
+  "word": "referendum",
+  "meaning": "国民投票",
+  "example": "The referendum will decide the future of the project."
+ },
+ {
+  "id": "w998",
+  "word": "census",
+  "meaning": "国勢調査",
+  "example": "The census provides valuable demographic data."
+ },
+ {
+  "id": "w999",
+  "word": "statistic",
+  "meaning": "統計",
+  "example": "The statistic shows a rise in online shopping."
+ },
+ {
+  "id": "w1000",
+  "word": "trend analysis",
+  "meaning": "トレンド分析",
+  "example": "Trend analysis helps predict future consumer behavior."
+ }
+]

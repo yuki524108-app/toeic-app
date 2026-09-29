@@ -4,6 +4,9 @@ export type Word = {
   meaning: string;
   example: string;
   level: number; // 400-900 相当の難易度目安
+  pos?: string; // 品詞（名詞・動詞など）
+  exampleJa?: string; // 例文の和訳
+  note?: string; // 類義語・派生語・コロケーションなどの補足（改行区切り）
 };
 
 export type GrammarQuestion = {
@@ -23,6 +26,9 @@ export type ReadingQuestion = {
   answer: number;
   explanation: string;
   level: number;
+  questionJa?: string; // 設問の和訳
+  choicesJa?: string[]; // 選択肢の和訳（choices と同じ順・同じ数）
+  explanationDetail?: string; // 誤答の理由まで含む詳細解説
 };
 
 export type ReadingPassage = {
@@ -36,6 +42,10 @@ export type ReadingPassage = {
   passage2?: string;
   title3?: string;
   passage3?: string;
+  passageJa?: string; // 全訳（passage）
+  passage2Ja?: string;
+  passage3Ja?: string;
+  vocab?: string[]; // 重要語句（"word：意味" 形式）
 };
 
 export type ItemType =
@@ -84,6 +94,9 @@ export type ListeningPart34Question = {
   answer: number; // 0-3
   explanation: string;
   level: number;
+  questionJa?: string; // 設問の和訳
+  choicesJa?: string[]; // 選択肢の和訳（choices と同じ順・同じ数）
+  explanationDetail?: string; // 誤答の理由まで含む詳細解説
 };
 
 export type ListeningPart34Set = {
@@ -92,6 +105,8 @@ export type ListeningPart34Set = {
   title: string;
   script: ListeningScriptLine[]; // 音声でのみ流れる本文（解答完了後にスクリプトとして表示）
   questions: ListeningPart34Question[]; // 各セット3問
+  scriptJa?: string[]; // script と同じ順・同じ行数の和訳
+  vocab?: string[]; // 重要語句（"word：意味" 形式）
 };
 
 export type Part6Blank = {
@@ -100,6 +115,8 @@ export type Part6Blank = {
   answer: number;
   explanation: string;
   level: number;
+  choicesJa?: string[];
+  explanationDetail?: string;
 };
 
 export type Part6Passage = {
@@ -107,6 +124,8 @@ export type Part6Passage = {
   title: string;
   passage: string; // 空欄は (1) (2) (3) (4) のように番号で表記する
   blanks: Part6Blank[];
+  passageJa?: string; // 空欄を正解で埋めた状態の全訳
+  vocab?: string[];
 };
 
 export type ProgressRecord = {
@@ -142,12 +161,28 @@ export type MockTestSectionResult = {
   score: number; // 5-495
 };
 
+/**
+ * 模試の各設問1問ごとの解答記録（模試結果の復習画面用）。
+ * selectedAnswer が null の場合は未解答（時間切れ等）を意味する。
+ */
+export type MockTestAnswerRecord = {
+  id: string;
+  itemType: ItemType;
+  level: number;
+  correctAnswer: number;
+  selectedAnswer: number | null;
+  qNumber: number; // 1-200（本番TOEICと同じ通し番号）
+  partLabel: string; // "Part 1" 〜 "Part 7"
+};
+
 export type MockTestResult = {
   id: string; // 受験完了日時（ISO）をそのままidとして使う
   completedAt: string; // ISO datetime
   listening: MockTestSectionResult;
   reading: MockTestSectionResult;
   totalScore: number; // 5-990（reading.score + listening.score）
+  // 模試結果の復習画面用の全設問記録。この機能追加より前に保存された履歴には存在しない（任意項目）
+  answerRecords?: MockTestAnswerRecord[];
 };
 
 export type AppData = {

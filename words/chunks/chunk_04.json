@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w301",
+  "word": "quota",
+  "meaning": "ノルマ、割当量",
+  "example": "Each salesperson has a monthly quota to meet."
+ },
+ {
+  "id": "w302",
+  "word": "commission",
+  "meaning": "歩合、委員会",
+  "example": "Sales staff earn a commission on each sale."
+ },
+ {
+  "id": "w303",
+  "word": "prospect",
+  "meaning": "見込み客、見通し",
+  "example": "The sales team is following up with a new prospect."
+ },
+ {
+  "id": "w304",
+  "word": "lead generation",
+  "meaning": "見込み客の獲得",
+  "example": "The marketing team focuses on lead generation this quarter."
+ },
+ {
+  "id": "w305",
+  "word": "conversion rate",
+  "meaning": "成約率、転換率",
+  "example": "The website's conversion rate improved after the redesign."
+ },
+ {
+  "id": "w306",
+  "word": "loyalty program",
+  "meaning": "ロイヤルティプログラム",
+  "example": "Customers can earn points through our loyalty program."
+ },
+ {
+  "id": "w307",
+  "word": "retention",
+  "meaning": "維持、保持",
+  "example": "Customer retention is a key business priority."
+ },
+ {
+  "id": "w308",
+  "word": "churn rate",
+  "meaning": "解約率",
+  "example": "The company aims to reduce its customer churn rate."
+ },
+ {
+  "id": "w309",
+  "word": "niche market",
+  "meaning": "ニッチ市場",
+  "example": "The startup targets a niche market of eco-conscious consumers."
+ },
+ {
+  "id": "w310",
+  "word": "market research",
+  "meaning": "市場調査",
+  "example": "Market research showed strong demand for the product."
+ },
+ {
+  "id": "w311",
+  "word": "focus group",
+  "meaning": "フォーカスグループ",
+  "example": "A focus group tested the new packaging design."
+ },
+ {
+  "id": "w312",
+  "word": "pilot program",
+  "meaning": "試験的なプログラム",
+  "example": "The pilot program will run for three months."
+ },
+ {
+  "id": "w313",
+  "word": "rollout",
+  "meaning": "展開、導入",
+  "example": "The nationwide rollout begins next quarter."
+ },
+ {
+  "id": "w314",
+  "word": "scalable",
+  "meaning": "拡張可能な",
+  "example": "The software solution is highly scalable."
+ },
+ {
+  "id": "w315",
+  "word": "infrastructure",
+  "meaning": "インフラ、基盤設備",
+  "example": "The company invested in new IT infrastructure."
+ },
+ {
+  "id": "w316",
+  "word": "deployment",
+  "meaning": "配備、展開",
+  "example": "The deployment of the new system took two weeks."
+ },
+ {
+  "id": "w317",
+  "word": "integration",
+  "meaning": "統合",
+  "example": "System integration allows data to flow smoothly between departments."
+ },
+ {
+  "id": "w318",
+  "word": "interface",
+  "meaning": "インターフェース、接点",
+  "example": "The new interface is easier for customers to use."
+ },
+ {
+  "id": "w319",
+  "word": "user experience",
+  "meaning": "ユーザー体験",
+  "example": "The redesign improved the overall user experience."
+ },
+ {
+  "id": "w320",
+  "word": "functionality",
+  "meaning": "機能性",
+  "example": "The update added several new functionality features."
+ },
+ {
+  "id": "w321",
+  "word": "compatibility",
+  "meaning": "互換性",
+  "example": "Check the compatibility of the software before installing."
+ },
+ {
+  "id": "w322",
+  "word": "downtime",
+  "meaning": "稼働停止時間",
+  "example": "Scheduled maintenance may cause brief downtime."
+ },
+ {
+  "id": "w323",
+  "word": "uptime",
+  "meaning": "稼働時間",
+  "example": "The server has 99.9 percent uptime."
+ },
+ {
+  "id": "w324",
+  "word": "latency",
+  "meaning": "遅延",
+  "example": "High latency slowed down the video call."
+ },
+ {
+  "id": "w325",
+  "word": "cloud storage",
+  "meaning": "クラウドストレージ",
+  "example": "All files are backed up to cloud storage."
+ },
+ {
+  "id": "w326",
+  "word": "data breach",
+  "meaning": "データ漏えい",
+  "example": "The company reported a data breach last month."
+ },
+ {
+  "id": "w327",
+  "word": "cybersecurity",
+  "meaning": "サイバーセキュリティ",
+  "example": "The firm hired a cybersecurity expert to protect its systems."
+ },
+ {
+  "id": "w328",
+  "word": "firewall",
+  "meaning": "ファイアウォール",
+  "example": "A firewall blocks unauthorized access to the network."
+ },
+ {
+  "id": "w329",
+  "word": "authentication",
+  "meaning": "本人認証",
+  "example": "Two-factor authentication adds an extra layer of security."
+ },
+ {
+  "id": "w330",
+  "word": "credentials",
+  "meaning": "資格情報、証明書",
+  "example": "Enter your login credentials to access the system."
+ },
+ {
+  "id": "w331",
+  "word": "algorithm",
+  "meaning": "アルゴリズム",
+  "example": "The algorithm predicts customer preferences."
+ },
+ {
+  "id": "w332",
+  "word": "automation",
+  "meaning": "自動化",
+  "example": "Automation reduced manual data entry errors."
+ },
+ {
+  "id": "w333",
+  "word": "artificial intelligence",
+  "meaning": "人工知能",
+  "example": "The company uses artificial intelligence to analyze data."
+ },
+ {
+  "id": "w334",
+  "word": "machine learning",
+  "meaning": "機械学習",
+  "example": "Machine learning helps forecast sales trends."
+ },
+ {
+  "id": "w335",
+  "word": "raw material",
+  "meaning": "原材料",
+  "example": "The price of raw materials rose sharply this year."
+ },
+ {
+  "id": "w336",
+  "word": "assembly",
+  "meaning": "組み立て",
+  "example": "The assembly of the product takes about an hour."
+ },
+ {
+  "id": "w337",
+  "word": "output",
+  "meaning": "生産量、出力",
+  "example": "Factory output increased after the new machines were installed."
+ },
+ {
+  "id": "w338",
+  "word": "throughput",
+  "meaning": "処理能力、スループット",
+  "example": "The new system improved data throughput significantly."
+ },
+ {
+  "id": "w339",
+  "word": "yield",
+  "meaning": "生産高、利回り",
+  "example": "The investment yield exceeded expectations this year."
+ },
+ {
+  "id": "w340",
+  "word": "obsolete",
+  "meaning": "時代遅れの",
+  "example": "The old equipment became obsolete after the upgrade."
+ },
+ {
+  "id": "w341",
+  "word": "refurbish",
+  "meaning": "改修する、修理する",
+  "example": "The old office building was refurbished last year."
+ },
+ {
+  "id": "w342",
+  "word": "durable",
+  "meaning": "耐久性のある",
+  "example": "The packaging is designed to be durable and reusable."
+ },
+ {
+  "id": "w343",
+  "word": "fragile",
+  "meaning": "壊れやすい",
+  "example": "Handle the fragile items with extra care during shipping."
+ },
+ {
+  "id": "w344",
+  "word": "perishable",
+  "meaning": "腐りやすい",
+  "example": "Perishable goods must be shipped quickly."
+ },
+ {
+  "id": "w345",
+  "word": "expiration date",
+  "meaning": "有効期限",
+  "example": "Check the expiration date before using the product."
+ },
+ {
+  "id": "w346",
+  "word": "shelf life",
+  "meaning": "保存期間",
+  "example": "The new packaging extends the product's shelf life."
+ },
+ {
+  "id": "w347",
+  "word": "batch",
+  "meaning": "一括、一群",
+  "example": "The factory produces goods in large batches."
+ },
+ {
+  "id": "w348",
+  "word": "specification sheet",
+  "meaning": "仕様書",
+  "example": "Refer to the specification sheet for technical details."
+ },
+ {
+  "id": "w349",
+  "word": "prototype testing",
+  "meaning": "試作品テスト",
+  "example": "Prototype testing revealed several design flaws."
+ },
+ {
+  "id": "w350",
+  "word": "patent",
+  "meaning": "特許",
+  "example": "The company filed a patent for its new invention."
+ },
+ {
+  "id": "w351",
+  "word": "trademark",
+  "meaning": "商標",
+  "example": "The logo is a registered trademark of the company."
+ },
+ {
+  "id": "w352",
+  "word": "copyright",
+  "meaning": "著作権",
+  "example": "The article is protected by copyright law."
+ },
+ {
+  "id": "w353",
+  "word": "intellectual property",
+  "meaning": "知的財産",
+  "example": "The firm takes intellectual property protection seriously."
+ },
+ {
+  "id": "w354",
+  "word": "royalty",
+  "meaning": "ロイヤリティ、印税",
+  "example": "The author receives a royalty for each book sold."
+ },
+ {
+  "id": "w355",
+  "word": "licensing fee",
+  "meaning": "ライセンス料",
+  "example": "The company pays an annual licensing fee for the software."
+ },
+ {
+  "id": "w356",
+  "word": "joint venture",
+  "meaning": "合弁事業",
+  "example": "The two firms formed a joint venture to enter the market."
+ },
+ {
+  "id": "w357",
+  "word": "partnership",
+  "meaning": "提携、パートナーシップ",
+  "example": "The partnership between the two companies proved successful."
+ },
+ {
+  "id": "w358",
+  "word": "alliance",
+  "meaning": "同盟、提携",
+  "example": "The airlines formed a strategic alliance."
+ },
+ {
+  "id": "w359",
+  "word": "venture capital",
+  "meaning": "ベンチャーキャピタル",
+  "example": "The startup secured venture capital funding."
+ },
+ {
+  "id": "w360",
+  "word": "seed funding",
+  "meaning": "シードファンディング",
+  "example": "The company raised seed funding to develop its prototype."
+ },
+ {
+  "id": "w361",
+  "word": "angel investor",
+  "meaning": "エンジェル投資家",
+  "example": "An angel investor provided the initial capital."
+ },
+ {
+  "id": "w362",
+  "word": "crowdfunding",
+  "meaning": "クラウドファンディング",
+  "example": "The project was financed through crowdfunding."
+ },
+ {
+  "id": "w363",
+  "word": "startup",
+  "meaning": "新興企業",
+  "example": "The startup grew rapidly within its first two years."
+ },
+ {
+  "id": "w364",
+  "word": "entrepreneur",
+  "meaning": "起業家",
+  "example": "The entrepreneur launched three companies before turning thirty."
+ },
+ {
+  "id": "w365",
+  "word": "innovation",
+  "meaning": "革新",
+  "example": "Innovation drives the company's long-term growth."
+ },
+ {
+  "id": "w366",
+  "word": "disruptive",
+  "meaning": "破壊的な、革新的な",
+  "example": "The disruptive technology changed the entire industry."
+ },
+ {
+  "id": "w367",
+  "word": "pivot",
+  "meaning": "方向転換する",
+  "example": "The company decided to pivot its business model."
+ },
+ {
+  "id": "w368",
+  "word": "scale up",
+  "meaning": "規模を拡大する",
+  "example": "The firm plans to scale up production next year."
+ },
+ {
+  "id": "w369",
+  "word": "expansion",
+  "meaning": "拡大",
+  "example": "The company announced plans for overseas expansion."
+ },
+ {
+  "id": "w370",
+  "word": "diversify",
+  "meaning": "多様化する",
+  "example": "The firm diversified its product line to reduce risk."
+ },
+ {
+  "id": "w371",
+  "word": "portfolio management",
+  "meaning": "ポートフォリオ管理",
+  "example": "Portfolio management helps balance risk and return."
+ },
+ {
+  "id": "w372",
+  "word": "risk assessment",
+  "meaning": "リスク評価",
+  "example": "A risk assessment was conducted before the investment."
+ },
+ {
+  "id": "w373",
+  "word": "contingency plan",
+  "meaning": "緊急時対応計画",
+  "example": "The company prepared a contingency plan for supply delays."
+ },
+ {
+  "id": "w374",
+  "word": "mitigate",
+  "meaning": "軽減する",
+  "example": "Steps were taken to mitigate the financial impact."
+ },
+ {
+  "id": "w375",
+  "word": "vulnerability",
+  "meaning": "脆弱性",
+  "example": "The audit identified a security vulnerability in the system."
+ },
+ {
+  "id": "w376",
+  "word": "resilience",
+  "meaning": "回復力、耐久力",
+  "example": "The company showed resilience during the economic downturn."
+ },
+ {
+  "id": "w377",
+  "word": "recession",
+  "meaning": "景気後退",
+  "example": "Many businesses struggled during the recession."
+ },
+ {
+  "id": "w378",
+  "word": "inflation",
+  "meaning": "インフレーション",
+  "example": "Rising inflation increased the cost of raw materials."
+ },
+ {
+  "id": "w379",
+  "word": "economic indicator",
+  "meaning": "経済指標",
+  "example": "Analysts track several economic indicators each month."
+ },
+ {
+  "id": "w380",
+  "word": "trade deficit",
+  "meaning": "貿易赤字",
+  "example": "The country's trade deficit widened last year."
+ },
+ {
+  "id": "w381",
+  "word": "gross domestic product",
+  "meaning": "国内総生産",
+  "example": "Gross domestic product grew by two percent this year."
+ },
+ {
+  "id": "w382",
+  "word": "unemployment rate",
+  "meaning": "失業率",
+  "example": "The unemployment rate fell to its lowest level in years."
+ },
+ {
+  "id": "w383",
+  "word": "labor union",
+  "meaning": "労働組合",
+  "example": "The labor union negotiated better working conditions."
+ },
+ {
+  "id": "w384",
+  "word": "collective bargaining",
+  "meaning": "団体交渉",
+  "example": "Collective bargaining resulted in a new wage agreement."
+ },
+ {
+  "id": "w385",
+  "word": "strike",
+  "meaning": "ストライキ",
+  "example": "Workers went on strike to demand higher wages."
+ },
+ {
+  "id": "w386",
+  "word": "grievance",
+  "meaning": "苦情、不満",
+  "example": "Employees can file a grievance with human resources."
+ },
+ {
+  "id": "w387",
+  "word": "harassment policy",
+  "meaning": "ハラスメント防止方針",
+  "example": "All employees must follow the company's harassment policy."
+ },
+ {
+  "id": "w388",
+  "word": "diversity and inclusion",
+  "meaning": "多様性と包括性",
+  "example": "The company launched a diversity and inclusion initiative."
+ },
+ {
+  "id": "w389",
+  "word": "work-life balance",
+  "meaning": "ワークライフバランス",
+  "example": "The company promotes a healthy work-life balance."
+ },
+ {
+  "id": "w390",
+  "word": "flextime",
+  "meaning": "フレックスタイム",
+  "example": "Employees can choose flextime hours that suit them."
+ },
+ {
+  "id": "w391",
+  "word": "telecommute",
+  "meaning": "在宅勤務する",
+  "example": "Many employees telecommute two days a week."
+ },
+ {
+  "id": "w392",
+  "word": "remote work",
+  "meaning": "リモートワーク",
+  "example": "The company adopted a remote work policy last year."
+ },
+ {
+  "id": "w393",
+  "word": "co-worker",
+  "meaning": "同僚",
+  "example": "She often collaborates with her co-worker on projects."
+ },
+ {
+  "id": "w394",
+  "word": "team building",
+  "meaning": "チームビルディング",
+  "example": "The company organized a team building event."
+ },
+ {
+  "id": "w395",
+  "word": "morale",
+  "meaning": "士気",
+  "example": "Employee morale improved after the new policy was introduced."
+ },
+ {
+  "id": "w396",
+  "word": "job satisfaction",
+  "meaning": "仕事の満足度",
+  "example": "Job satisfaction surveys are conducted every year."
+ },
+ {
+  "id": "w397",
+  "word": "burnout",
+  "meaning": "燃え尽き症候群",
+  "example": "Excessive overtime can lead to employee burnout."
+ },
+ {
+  "id": "w398",
+  "word": "workload",
+  "meaning": "仕事量",
+  "example": "The manager redistributed the workload among the team."
+ },
+ {
+  "id": "w399",
+  "word": "multitask",
+  "meaning": "複数の作業を同時にこなす",
+  "example": "She can multitask efficiently during busy periods."
+ },
+ {
+  "id": "w400",
+  "word": "prioritize",
+  "meaning": "優先順位をつける",
+  "example": "You should prioritize urgent tasks first."
+ }
+]

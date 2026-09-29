@@ -1,0 +1,602 @@
+[
+{
+"id": "w001",
+"pos": "動詞",
+"exampleJa": "そのホテルは最大200名の宿泊客を収容できる。",
+"note": "類義語：house, hold\n派生：accommodation（名詞：宿泊施設）\n表現：accommodate a request（要望に応じる）"
+},
+{
+"id": "w002",
+"pos": "名詞",
+"exampleJa": "月末までに請求書を送ってください。",
+"note": "類義語：bill, statement\n表現：send an invoice（請求書を送る）"
+},
+{
+"id": "w003",
+"pos": "動詞",
+"exampleJa": "私たちは仕入先とより良い価格について交渉する必要があります。",
+"note": "類義語：bargain, discuss\n表現：negotiate a price（価格を交渉する）"
+},
+{
+"id": "w004",
+"pos": "動詞",
+"exampleJa": "会社はあなたの出張費を払い戻します。",
+"note": "類義語：repay, refund\n表現：reimburse expenses（費用を払い戻す）"
+},
+{
+"id": "w005",
+"pos": "名詞",
+"exampleJa": "彼女は同僚とそのプロジェクトについて話し合いました。",
+"note": "類義語：coworker, associate\n表現：work with a colleague（同僚と働く）"
+},
+{
+"id": "w006",
+"pos": "名詞",
+"exampleJa": "その報告書の締め切りは金曜日です。",
+"note": "類義語：due date, cutoff\n表現：meet a deadline（締め切りに間に合わせる）"
+},
+{
+"id": "w007",
+"pos": "名詞",
+"exampleJa": "さらに発注する前に在庫を確認する必要があります。",
+"note": "類義語：stock, supply\n表現：check the inventory（在庫を確認する）"
+},
+{
+"id": "w008",
+"pos": "名詞",
+"exampleJa": "2社の合併が本日発表されました。",
+"note": "類義語：combination, consolidation\n表現：a merger between companies（企業間の合併）"
+},
+{
+"id": "w009",
+"pos": "名詞",
+"exampleJa": "3人の候補者がその職に応募しました。",
+"note": "類義語：applicant, contender\n表現：a job candidate（職の候補者）"
+},
+{
+"id": "w010",
+"pos": "名詞",
+"exampleJa": "その会社の今年の収益は10％増加しました。",
+"note": "類義語：income, earnings\n表現：increase revenue（収益を増やす）"
+},
+{
+"id": "w011",
+"pos": "名詞",
+"exampleJa": "この製品には2年間の保証が付いています。",
+"note": "類義語：guarantee, assurance\n表現：a two-year warranty（2年間の保証）"
+},
+{
+"id": "w012",
+"pos": "名詞",
+"exampleJa": "物流部門はすべての発送を担当しています。",
+"note": "類義語：distribution, transportation\n表現：logistics department（物流部門）"
+},
+{
+"id": "w013",
+"pos": "名詞",
+"exampleJa": "その子会社は前四半期に好調な売上を報告しました。",
+"note": "類義語：affiliate, branch\n表現：a wholly owned subsidiary（完全子会社）"
+},
+{
+"id": "w014",
+"pos": "名詞",
+"exampleJa": "すべての従業員はコンプライアンスのガイドラインに従わなければなりません。",
+"note": "類義語：observance, conformity\n表現：compliance guidelines（遵守ガイドライン）"
+},
+{
+"id": "w015",
+"pos": "名詞",
+"exampleJa": "出発前に旅行の日程を確認してください。",
+"note": "類義語：schedule, program\n表現：travel itinerary（旅行日程）"
+},
+{
+"id": "w016",
+"pos": "形容詞",
+"exampleJa": "売上は5か月連続で増加しています。",
+"note": "類義語：successive, uninterrupted\n表現：for consecutive months（連続した月にわたって）"
+},
+{
+"id": "w017",
+"pos": "動詞",
+"exampleJa": "その会議は来週まで延期されました。",
+"note": "類義語：delay, defer\n表現：postpone a meeting（会議を延期する）"
+},
+{
+"id": "w018",
+"pos": "動詞",
+"exampleJa": "そのオフィスビルは来年改装されます。",
+"note": "類義語：renovate, refurbish\n表現：renovate a building（建物を改装する）"
+},
+{
+"id": "w019",
+"pos": "名詞",
+"exampleJa": "株主は来月その提案について投票します。",
+"note": "類義語：investor, stockholder\n表現：shareholders' meeting（株主総会）"
+},
+{
+"id": "w020",
+"pos": "動詞",
+"exampleJa": "取締役会は新しいマーケティング戦略を承認しました。",
+"note": "類義語：approve, support\n表現：endorse a proposal（提案を支持する）"
+},
+{
+"id": "w021",
+"pos": "形容詞",
+"exampleJa": "営業チームには3つの空いている職があります。",
+"note": "類義語：empty, unoccupied\n表現：a vacant position（空いている職）"
+},
+{
+"id": "w022",
+"pos": "名詞・動詞",
+"exampleJa": "その部署は年間予算を超過しました。",
+"note": "類義語：funds, allowance\n表現：annual budget（年間予算）"
+},
+{
+"id": "w023",
+"pos": "動詞",
+"exampleJa": "その会社はITサポートを外部委託することを決定しました。",
+"note": "類義語：contract out, subcontract\n表現：outsource services（サービスを外部委託する）"
+},
+{
+"id": "w024",
+"pos": "名詞",
+"exampleJa": "訪問者は敷地内に入る前に受付で記名しなければなりません。",
+"note": "類義語：property, site\n表現：company premises（会社の敷地）"
+},
+{
+"id": "w025",
+"pos": "形容詞",
+"exampleJa": "金曜日までにプロジェクトを終えるのは実現可能ではありません。",
+"note": "類義語：possible, practicable\n表現：a feasible plan（実現可能な計画）"
+},
+{
+"id": "w026",
+"pos": "名詞",
+"exampleJa": "先に進む前に上司に承認を求めてください。",
+"note": "類義語：manager, overseer\n表現：ask your supervisor（上司に尋ねる）"
+},
+{
+"id": "w027",
+"pos": "動詞",
+"exampleJa": "追加料金なしで配送を迅速に処理します。",
+"note": "類義語：accelerate, hasten\n表現：expedite delivery（配送を迅速に処理する）"
+},
+{
+"id": "w028",
+"pos": "動詞",
+"exampleJa": "そのマネージャーはプロジェクトにより多くのスタッフを割り当てました。",
+"note": "類義語：assign, distribute\n表現：allocate resources（資源を割り当てる）"
+},
+{
+"id": "w029",
+"pos": "名詞",
+"exampleJa": "その販売による収益は新しい設備の購入に充てられます。",
+"note": "類義語：earnings, income\n表現：proceeds from a sale（販売による収益）"
+},
+{
+"id": "w030",
+"pos": "動詞",
+"exampleJa": "多くの従業員が毎日電車で通勤しています。",
+"note": "類義語：travel, journey\n表現：commute by train（電車で通勤する）"
+},
+{
+"id": "w031",
+"pos": "名詞",
+"exampleJa": "私たちはオフィス用品の新しい販売業者を選びました。",
+"note": "類義語：supplier, seller\n表現：select a vendor（販売業者を選ぶ）"
+},
+{
+"id": "w032",
+"pos": "名詞",
+"exampleJa": "キャンセル料に関する条項を確認してください。",
+"note": "類義語：provision, article\n表現：a contract clause（契約条項）"
+},
+{
+"id": "w033",
+"pos": "形容詞・副詞",
+"exampleJa": "四半期報告書は来週発表されます。",
+"note": "類義語：quarterly（四半期ごとの）, every three months（3か月ごとの）\n表現：quarterly report（四半期報告書）"
+},
+{
+"id": "w034",
+"pos": "名詞",
+"exampleJa": "その会社は予算削減のため一時解雇を発表しました。",
+"note": "類義語：dismissal, redundancy\n表現：announce layoffs（一時解雇を発表する）"
+},
+{
+"id": "w035",
+"pos": "名詞",
+"exampleJa": "職務経験はこの職の前提条件です。",
+"note": "類義語：requirement, condition\n表現：a prerequisite for a position（職の前提条件）"
+},
+{
+"id": "w036",
+"pos": "名詞",
+"exampleJa": "そのホテルでは幅広い設備を利用できます。",
+"note": "類義語：facilities, conveniences\n表現：hotel amenities（ホテルの設備・アメニティ）"
+},
+{
+"id": "w037",
+"pos": "名詞",
+"exampleJa": "受付デスクでチェックインしてください。",
+"note": "類義語：front desk, reception desk\n表現：at the reception desk（受付で）"
+},
+{
+"id": "w038",
+"pos": "名詞",
+"exampleJa": "顧客は無料の食事と交換できるクーポンを受け取りました。",
+"note": "類義語：coupon, ticket\n表現：a meal voucher（食事券）"
+},
+{
+"id": "w039",
+"pos": "名詞",
+"exampleJa": "すべての文書のやりとりは本社に送ってください。",
+"note": "類義語：communication, correspondence\n表現：business correspondence（業務上の文書のやりとり）"
+},
+{
+"id": "w040",
+"pos": "名詞",
+"exampleJa": "彼女は表計算シートの売上数値を更新しました。",
+"note": "類義語：worksheet, spreadsheet file\n表現：update a spreadsheet（表計算シートを更新する）"
+},
+{
+"id": "w041",
+"pos": "名詞",
+"exampleJa": "従業員は残業に対して追加料金を支払われます。",
+"note": "類義語：extra work, additional hours\n表現：work overtime（残業する）"
+},
+{
+"id": "w042",
+"pos": "名詞",
+"exampleJa": "その会社は今年、予算の黒字を報告しました。",
+"note": "類義語：excess, abundance\n表現：budget surplus（予算の黒字）"
+},
+{
+"id": "w043",
+"pos": "名詞",
+"exampleJa": "その契約は会社の責任を制限しています。",
+"note": "類義語：responsibility, debt\n表現：legal liability（法的責任）"
+},
+{
+"id": "w044",
+"pos": "動詞",
+"exampleJa": "報告書にすべての費用を項目別に記載してください。",
+"note": "類義語：list, detail\n表現：itemize expenses（費用を項目別に記載する）"
+},
+{
+"id": "w045",
+"pos": "形容詞",
+"exampleJa": "すべてのスタッフは会議に時間厳守で出席することが期待されています。",
+"note": "類義語：on time, prompt\n表現：be punctual for a meeting（会議に時間どおりに出席する）"
+},
+{
+"id": "w046",
+"pos": "名詞",
+"exampleJa": "既存の顧客から何件かの紹介を受けました。",
+"note": "類義語：recommendation, introduction\n表現：client referral（顧客からの紹介）"
+},
+{
+"id": "w047",
+"pos": "名詞",
+"exampleJa": "その会社は来年、従業員数を増やす予定です。",
+"note": "類義語：employees, labor force\n表現：expand the workforce（従業員数を増やす）"
+},
+{
+"id": "w048",
+"pos": "名詞",
+"exampleJa": "オフィス用にもっと文房具を注文してください。",
+"note": "類義語：writing materials, office supplies\n表現：office stationery（オフィス用文房具）"
+},
+{
+"id": "w049",
+"pos": "名詞",
+"exampleJa": "今年、従業員の離職率は大幅に低下しました。",
+"note": "類義語：sales, attrition\n表現：employee turnover（従業員の離職率）"
+},
+{
+"id": "w050",
+"pos": "名詞",
+"exampleJa": "そのパンフレットには私たちのすべてのサービスが詳しく説明されています。",
+"note": "類義語：leaflet, booklet\n表現：a company brochure（会社案内パンフレット）"
+},
+{
+"id": "w051",
+"pos": "名詞",
+"exampleJa": "会議が始まる前に議題を確認してください。",
+"note": "類義語：schedule, program\n表現：meeting agenda（会議の議題）"
+},
+{
+"id": "w052",
+"pos": "名詞",
+"exampleJa": "秘書が会議中に議事録を取ります。",
+"note": "類義語：record, transcript\n表現：take minutes（議事録を取る）"
+},
+{
+"id": "w053",
+"pos": "名詞",
+"exampleJa": "契約書をファイリングキャビネットに保管してください。",
+"note": "類義語：file cabinet, storage cabinet\n表現：store documents in a filing cabinet（書類をファイリングキャビネットに保管する）"
+},
+{
+"id": "w054",
+"pos": "名詞",
+"exampleJa": "スケジュール変更について全スタッフに社内連絡書が送られました。",
+"note": "類義語：notice, memorandum\n表現：send a memo（メモ・社内連絡書を送る）"
+},
+{
+"id": "w055",
+"pos": "名詞",
+"exampleJa": "そのオフィスは新しい文房具用品を注文しました。",
+"note": "類義語：office supplies, writing materials\n表現：stationery supplies（文房具用品）"
+},
+{
+"id": "w056",
+"pos": "名詞",
+"exampleJa": "3階のコピー機は故障しています。",
+"note": "類義語：copy machine, copier\n表現：a photocopier is out of order（コピー機が故障している）"
+},
+{
+"id": "w057",
+"pos": "名詞",
+"exampleJa": "内線205で彼につながります。",
+"note": "類義語：extension number, branch\n表現：extension 205（内線205）"
+},
+{
+"id": "w058",
+"pos": "名詞",
+"exampleJa": "詳細については人事部に連絡してください。",
+"note": "類義語：staff, employees\n表現：personnel department（人事部）"
+},
+{
+"id": "w059",
+"pos": "形容詞",
+"exampleJa": "彼女はオフィスで事務業務を担当しています。",
+"note": "類義語：administrative, office\n表現：clerical duties（事務業務）"
+},
+{
+"id": "w060",
+"pos": "名詞",
+"exampleJa": "東京の通信員から最新の数値が送られてきました。",
+"note": "類義語：reporter, correspondent\n表現：a foreign correspondent（海外特派員）"
+},
+{
+"id": "w061",
+"pos": "名詞・動詞",
+"exampleJa": "署名する前に契約書の草案を確認してください。",
+"note": "類義語：outline, version\n派生：drafting（名詞：草案作成）\n表現：draft a contract（契約書の草案を作成する）"
+},
+{
+"id": "w062",
+"pos": "名詞・動詞",
+"exampleJa": "古いファイルは保管室に保管されています。",
+"note": "類義語：record, repository\n表現：archive files（ファイルを保管する）"
+},
+{
+"id": "w063",
+"pos": "名詞",
+"exampleJa": "会議に報告書の印刷物を持ってきてください。",
+"note": "類義語：hard copy, print\n表現：bring a printout（印刷物を持ってくる）"
+},
+{
+"id": "w064",
+"pos": "名詞",
+"exampleJa": "公式の手紙は会社のレターヘッドを使用しなければなりません。",
+"note": "類義語：heading, letter paper\n表現：company letterhead（会社のレターヘッド）"
+},
+{
+"id": "w065",
+"pos": "動詞・名詞",
+"exampleJa": "その荷物は今朝発送されました。",
+"note": "類義語：send, dispatch\n表現：dispatch a package（荷物を発送する）"
+},
+{
+"id": "w066",
+"pos": "動詞",
+"exampleJa": "変更があればマネージャーに通知してください。",
+"note": "類義語：inform, advise\n表現：notify someone of a change（変更を人に通知する）"
+},
+{
+"id": "w067",
+"pos": "動詞",
+"exampleJa": "あなたの申請書を受け取ったことを確認いたします。",
+"note": "類義語：recognize, confirm\n表現：acknowledge receipt（受領を確認する）"
+},
+{
+"id": "w068",
+"pos": "動詞",
+"exampleJa": "この手紙に請求書を同封します。",
+"note": "類義語：include, insert\n表現：enclose a document（書類を同封する）"
+},
+{
+"id": "w069",
+"pos": "名詞",
+"exampleJa": "詳細については添付ファイルをご覧ください。",
+"note": "類義語：enclosure, addition\n表現：email attachment（メールの添付ファイル）"
+},
+{
+"id": "w070",
+"pos": "動詞・形容詞",
+"exampleJa": "このメールを営業チームに転送していただけますか。",
+"note": "類義語：send on, transfer\n表現：forward an email（メールを転送する）"
+},
+{
+"id": "w071",
+"pos": "動詞",
+"exampleJa": "提出する前にその文書を校正してください。",
+"note": "類義語：edit, check\n表現：proofread a document（文書を校正する）"
+},
+{
+"id": "w072",
+"pos": "動詞",
+"exampleJa": "その契約書は交渉後に改訂されました。",
+"note": "類義語：amend, modify\n表現：revise a contract（契約書を改訂する）"
+},
+{
+"id": "w073",
+"pos": "名詞",
+"exampleJa": "すべての報告書に会社のテンプレートを使用してください。",
+"note": "類義語：model, pattern\n表現：use a template（テンプレートを使用する）"
+},
+{
+"id": "w074",
+"pos": "名詞",
+"exampleJa": "顧客情報はデータベースに保存されています。",
+"note": "類義語：data bank, repository\n表現：database system（データベースシステム）"
+},
+{
+"id": "w075",
+"pos": "名詞・動詞",
+"exampleJa": "重要なファイルは必ずバックアップを取っておいてください。",
+"note": "類義語：reserve, copy\n表現：make a backup（バックアップを取る）"
+},
+{
+"id": "w076",
+"pos": "形容詞",
+"exampleJa": "この文書は機密情報であり、共有してはいけません。",
+"note": "類義語：private, secret\n表現：confidential information（機密情報）"
+},
+{
+"id": "w077",
+"pos": "動詞",
+"exampleJa": "この経費を許可できるのは取締役だけです。",
+"note": "類義語：permit, approve\n表現：authorize an expense（経費を承認する）"
+},
+{
+"id": "w078",
+"pos": "名詞",
+"exampleJa": "その提案には上級管理職の承認が必要です。",
+"note": "類義語：consent, authorization\n表現：get approval（承認を得る）"
+},
+{
+"id": "w079",
+"pos": "名詞",
+"exampleJa": "申請の提出期限は月曜日です。",
+"note": "類義語：delivery, presentation\n表現：submission deadline（提出期限）"
+},
+{
+"id": "w080",
+"pos": "名詞・動詞",
+"exampleJa": "ファイルをPDF形式で保存してください。",
+"note": "類義語：style, arrangement\n表現：file format（ファイル形式）"
+},
+{
+"id": "w081",
+"pos": "名詞",
+"exampleJa": "予算の見直しは最初の議題項目です。",
+"note": "類義語：topic, issue\n表現：an agenda item（議題項目）"
+},
+{
+"id": "w082",
+"pos": "名詞",
+"exampleJa": "議事の概要は後ほど回覧されます。",
+"note": "類義語：proceedings, process\n表現：court proceedings（裁判手続き）"
+},
+{
+"id": "w083",
+"pos": "名詞",
+"exampleJa": "議長は歓迎のスピーチで会議を始めました。",
+"note": "類義語：chair, moderator\n表現：chairperson of a committee（委員会の議長）"
+},
+{
+"id": "w084",
+"pos": "名詞",
+"exampleJa": "委員会は長時間の議論の末、合意に達しました。",
+"note": "類義語：agreement, accord\n表現：reach a consensus（合意に達する）"
+},
+{
+"id": "w085",
+"pos": "動詞・名詞",
+"exampleJa": "そのマネージャーは助手にその仕事を委任しました。",
+"note": "類義語：assign, entrust\n表現：delegate a task（仕事を委任する）"
+},
+{
+"id": "w086",
+"pos": "名詞",
+"exampleJa": "発売前に説明会が開かれます。",
+"note": "類義語：presentation, briefing\n表現：attend a briefing（説明会に出席する）"
+},
+{
+"id": "w087",
+"pos": "名詞",
+"exampleJa": "常に安全手順に従ってください。",
+"note": "類義語：procedure, guideline\n表現：safety protocol（安全手順）"
+},
+{
+"id": "w088",
+"pos": "名詞",
+"exampleJa": "新入社員は最初の週に新人研修プログラムを修了します。",
+"note": "類義語：induction, introduction\n表現：onboarding program（新人研修プログラム）"
+},
+{
+"id": "w089",
+"pos": "名詞",
+"exampleJa": "すべての新入社員はオリエンテーションに参加します。",
+"note": "類義語：induction, introduction\n表現：orientation session（オリエンテーション）"
+},
+{
+"id": "w090",
+"pos": "名詞句",
+"exampleJa": "人事考課は年に2回実施されます。",
+"note": "類義語：performance evaluation, appraisal\n表現：conduct a performance review（人事考課を実施する）"
+},
+{
+"id": "w091",
+"pos": "名詞",
+"exampleJa": "新しいスタッフは3か月間試用期間となります。",
+"note": "類義語：trial period, probationary period\n表現：be on probation（試用期間中である）"
+},
+{
+"id": "w092",
+"pos": "名詞",
+"exampleJa": "彼女のその会社での在職期間は10年以上に及びます。",
+"note": "類義語：service, employment\n表現：long tenure（長い在職期間）"
+},
+{
+"id": "w093",
+"pos": "名詞",
+"exampleJa": "彼は昨日、辞職届を提出しました。",
+"note": "類義語：resignation, departure\n表現：submit a resignation（辞職を申し出る）"
+},
+{
+"id": "w094",
+"pos": "名詞",
+"exampleJa": "一時解雇された従業員には退職金が支払われます。",
+"note": "類義語：compensation, payment\n表現：severance pay（退職金）"
+},
+{
+"id": "w095",
+"pos": "名詞",
+"exampleJa": "その会社は手厚い年金制度を提供しています。",
+"note": "類義語：retirement benefit, annuity\n表現：pension plan（年金制度）"
+},
+{
+"id": "w096",
+"pos": "名詞",
+"exampleJa": "給与計算は月末に処理されます。",
+"note": "類義語：wages, salary payments\n表現：payroll department（給与計算部門）"
+},
+{
+"id": "w097",
+"pos": "名詞",
+"exampleJa": "彼女は給料を銀行に預けました。",
+"note": "類義語：salary, wages\n表現：receive a paycheck（給料を受け取る）"
+},
+{
+"id": "w098",
+"pos": "名詞句",
+"exampleJa": "総収入は税金が差し引かれる前に計算されます。",
+"note": "類義語：total income, earnings\n表現：gross income（税引前総収入）"
+},
+{
+"id": "w099",
+"pos": "名詞句",
+"exampleJa": "純利益は今四半期に15％増加しました。",
+"note": "類義語：net earnings, net income\n表現：increase net profit（純利益を増やす）"
+},
+{
+"id": "w100",
+"pos": "名詞句",
+"exampleJa": "この会社の会計年度は4月に始まります。",
+"note": "類義語：accounting year, financial year\n表現：fiscal year（会計年度）"
+}
+]

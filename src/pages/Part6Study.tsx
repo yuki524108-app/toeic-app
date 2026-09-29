@@ -10,6 +10,7 @@ import {
   emptyMessage,
 } from "../lib/studyQueue";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
+import { QuestionDetail, PassageDetail } from "../components/StudyDetail";
 
 // filterPassagesByMode は questions フィールドを期待するため、blanks を questions として扱うラッパー
 type PassageWithQuestions = Part6Passage & {
@@ -165,14 +166,29 @@ export default function Part6Study({
                 })}
               </div>
               {selected !== undefined && (
-                <p className="mt-3 border-t border-(--color-line) pt-2 text-xs leading-relaxed text-(--color-muted)">
-                  {blank.explanation}
-                </p>
+                <>
+                  <p className="whitespace-pre-line mt-3 border-t border-(--color-line) pt-2 text-xs leading-relaxed text-(--color-muted)">
+                    {blank.explanation}
+                  </p>
+                  <QuestionDetail
+                    choices={blank.choices}
+                    choicesJa={blank.choicesJa}
+                    answer={blank.answer}
+                    detail={blank.explanationDetail}
+                  />
+                </>
               )}
             </div>
           );
         })}
       </div>
+
+      {allAnswered && (
+        <PassageDetail
+          texts={[{ label: currentPassage.title, ja: currentPassage.passageJa }]}
+          vocab={currentPassage.vocab}
+        />
+      )}
 
       {allAnswered && (
         <button

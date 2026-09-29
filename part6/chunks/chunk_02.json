@@ -1,0 +1,632 @@
+[
+ {
+  "id": "p616",
+  "passage": "Riverside Consulting is currently (1) applicants for the position of Junior Analyst. The ideal candidate will have strong analytical skills and (2) to work both independently and as part of a team.\n\nCandidates should have a bachelor's degree in business, economics, or a related field. Previous internship experience is preferred but not (3).\n\nInterested applicants should submit their resume and cover letter (4) the end of this month to be considered for this position.",
+  "blanks": [
+   {
+    "id": "p616b1",
+    "choices": [
+     "seek",
+     "seeking",
+     "sought",
+     "seeks"
+    ]
+   },
+   {
+    "id": "p616b2",
+    "choices": [
+     "ability",
+     "able",
+     "enable",
+     "ably"
+    ]
+   },
+   {
+    "id": "p616b3",
+    "choices": [
+     "require",
+     "required",
+     "requiring",
+     "requirement"
+    ]
+   },
+   {
+    "id": "p616b4",
+    "choices": [
+     "until",
+     "by",
+     "since",
+     "during"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p617",
+  "passage": "Dear Valued Member,\n\nWe are writing to inform you of upcoming changes to our rewards program, (1) effective next month. Members will now earn points at a rate of two points per dollar spent, an increase from the (2) rate of one point.\n\nPoints can be (3) for discounts, free products, or exclusive event invitations. Existing points will not be (4) and will automatically convert to the new system.\n\nThank you for your continued loyalty.",
+  "blanks": [
+   {
+    "id": "p617b1",
+    "choices": [
+     "become",
+     "becoming",
+     "becomes",
+     "became"
+    ]
+   },
+   {
+    "id": "p617b2",
+    "choices": [
+     "previous",
+     "previously",
+     "previewed",
+     "preview"
+    ]
+   },
+   {
+    "id": "p617b3",
+    "choices": [
+     "redeem",
+     "redeemed",
+     "redeeming",
+     "redemption"
+    ]
+   },
+   {
+    "id": "p617b4",
+    "choices": [
+     "lose",
+     "lost",
+     "losing",
+     "loses"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p618",
+  "passage": "To All Employees,\n\nStarting next Monday, we will be (1) a new expense reimbursement system called ExpenseTrack. This system is designed to make submitting and (2) expense reports faster and more efficient.\n\nAll employees are required to complete a brief training module before (3) the new system. The module takes approximately 20 minutes and can be found on the company intranet.\n\nIf you have questions about (4) the transition, please contact the finance department.",
+  "blanks": [
+   {
+    "id": "p618b1",
+    "choices": [
+     "implement",
+     "implementing",
+     "implemented",
+     "implements"
+    ]
+   },
+   {
+    "id": "p618b2",
+    "choices": [
+     "approve",
+     "approving",
+     "approved",
+     "approval"
+    ]
+   },
+   {
+    "id": "p618b3",
+    "choices": [
+     "use",
+     "using",
+     "used",
+     "to use"
+    ]
+   },
+   {
+    "id": "p618b4",
+    "choices": [
+     "navigate",
+     "navigating",
+     "navigation",
+     "navigated"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p619",
+  "passage": "You are cordially invited to attend the launch event for our newest product line, (1) will take place on the 22nd of this month at our downtown showroom.\n\nThe event will (2) product demonstrations, a networking reception, and a special presentation from our design team. Light refreshments will be (3) throughout the evening.\n\nPlease RSVP by the 15th, as space is (4) and we expect high attendance.",
+  "blanks": [
+   {
+    "id": "p619b1",
+    "choices": [
+     "who",
+     "which",
+     "whom",
+     "whose"
+    ]
+   },
+   {
+    "id": "p619b2",
+    "choices": [
+     "include",
+     "including",
+     "included",
+     "inclusion"
+    ]
+   },
+   {
+    "id": "p619b3",
+    "choices": [
+     "serve",
+     "served",
+     "serving",
+     "service"
+    ]
+   },
+   {
+    "id": "p619b4",
+    "choices": [
+     "limit",
+     "limited",
+     "limiting",
+     "limitation"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p620",
+  "passage": "All employees are reminded that annual health check-ups are (1) this month. Appointments can be scheduled through the HR portal, and employees are encouraged to book their slots (2) possible to avoid scheduling conflicts.\n\nThe check-up typically takes about 30 minutes and will be (3) at the on-site clinic on the second floor. Employees who miss their scheduled appointment may need to (4) wait until next year's cycle.\n\nPlease direct any questions to the HR department.",
+  "blanks": [
+   {
+    "id": "p620b1",
+    "choices": [
+     "schedule",
+     "scheduled",
+     "scheduling",
+     "schedules"
+    ]
+   },
+   {
+    "id": "p620b2",
+    "choices": [
+     "as soon as",
+     "so soon as",
+     "as soon",
+     "too soon"
+    ]
+   },
+   {
+    "id": "p620b3",
+    "choices": [
+     "conduct",
+     "conducted",
+     "conducting",
+     "conducts"
+    ]
+   },
+   {
+    "id": "p620b4",
+    "choices": [
+     "either",
+     "instead",
+     "otherwise",
+     "unless"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p621",
+  "passage": "To all employees,\n\nStarting next Monday, the parking policy for the main building will be (1). Employees must now display a valid parking permit on their dashboard at all times. Permits can be (2) at the security desk on the first floor.\n\nVisitors will be required to check in (3) the front desk before parking in the designated visitor spaces. Anyone parking without a permit may have their vehicle (4) at the owner's expense.\n\nThank you for your cooperation.",
+  "blanks": [
+   {
+    "id": "p621b1",
+    "choices": [
+     "updated",
+     "update",
+     "updating",
+     "updates"
+    ]
+   },
+   {
+    "id": "p621b2",
+    "choices": [
+     "obtain",
+     "obtained",
+     "obtaining",
+     "to obtain"
+    ]
+   },
+   {
+    "id": "p621b3",
+    "choices": [
+     "at",
+     "in",
+     "on",
+     "into"
+    ]
+   },
+   {
+    "id": "p621b4",
+    "choices": [
+     "tow",
+     "towed",
+     "towing",
+     "to tow"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p622",
+  "passage": "Customer Support Representative Wanted\n\nBrightline Electronics is seeking a customer support representative (1) our growing call center team. The ideal candidate will have excellent communication skills and (2) previous experience in a similar role.\n\nResponsibilities include answering customer inquiries, resolving complaints, and (3) accurate records of each interaction. Candidates who are bilingual will be given (4) consideration.\n\nPlease send your resume to hr@brightline.com.",
+  "blanks": [
+   {
+    "id": "p622b1",
+    "choices": [
+     "to join",
+     "joining",
+     "joined",
+     "join"
+    ]
+   },
+   {
+    "id": "p622b2",
+    "choices": [
+     "ideal",
+     "ideally",
+     "idealize",
+     "ideality"
+    ]
+   },
+   {
+    "id": "p622b3",
+    "choices": [
+     "maintain",
+     "maintains",
+     "maintaining",
+     "maintenance"
+    ]
+   },
+   {
+    "id": "p622b4",
+    "choices": [
+     "priority",
+     "prioritize",
+     "prior",
+     "priorities"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p623",
+  "passage": "Dear Valued Member,\n\nWe are writing to inform you that our membership terms will be revised (1) October 1st. These changes are designed to provide members with more flexible benefits.\n\nIf you do not agree with the new terms, you may cancel your membership (2) any penalty before the effective date. A summary of the changes (3) enclosed with this letter for your reference.\n\nShould you have any questions, please do not hesitate to contact our support team, (4) is available seven days a week.",
+  "blanks": [
+   {
+    "id": "p623b1",
+    "choices": [
+     "effective",
+     "effect",
+     "effectively",
+     "effectiveness"
+    ]
+   },
+   {
+    "id": "p623b2",
+    "choices": [
+     "without",
+     "with",
+     "despite",
+     "unless"
+    ]
+   },
+   {
+    "id": "p623b3",
+    "choices": [
+     "is",
+     "are",
+     "was",
+     "were"
+    ]
+   },
+   {
+    "id": "p623b4",
+    "choices": [
+     "which",
+     "who",
+     "whose",
+     "what"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p624",
+  "passage": "To All Staff,\n\nWe are pleased to announce that, (1) positive feedback from the pilot program, the remote work policy will now apply to all departments. Employees may work from home up to three days (2) week, subject to manager approval.\n\nThose who wish to participate should submit a request form (3) their supervisor by the end of this month. Please note that certain roles requiring on-site presence may not be (4) for this arrangement.\n\nWe appreciate your continued dedication.",
+  "blanks": [
+   {
+    "id": "p624b1",
+    "choices": [
+     "due to",
+     "because",
+     "so that",
+     "even though"
+    ]
+   },
+   {
+    "id": "p624b2",
+    "choices": [
+     "a",
+     "the",
+     "per",
+     "one"
+    ]
+   },
+   {
+    "id": "p624b3",
+    "choices": [
+     "to",
+     "for",
+     "with",
+     "at"
+    ]
+   },
+   {
+    "id": "p624b4",
+    "choices": [
+     "eligible",
+     "eligibility",
+     "eligibly",
+     "eligibleness"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p625",
+  "passage": "Grand Opening Announcement\n\nWe are excited to announce the opening of our newest location on Fifth Avenue, (1) will take place this Saturday at 10 a.m. The first 100 customers will (2) a complimentary gift.\n\nOur new store features an expanded selection of products, including items that (3) previously available only online. A ribbon-cutting ceremony will be held before the doors (4) to the public.\n\nWe look forward to welcoming you.",
+  "blanks": [
+   {
+    "id": "p625b1",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "id": "p625b2",
+    "choices": [
+     "receive",
+     "receiving",
+     "received",
+     "receives"
+    ]
+   },
+   {
+    "id": "p625b3",
+    "choices": [
+     "were",
+     "are",
+     "was",
+     "is"
+    ]
+   },
+   {
+    "id": "p625b4",
+    "choices": [
+     "open",
+     "opens",
+     "opened",
+     "opening"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p626",
+  "passage": "Notice to All Tenants,\n\nPlease be informed that the elevators in Building B will undergo routine maintenance (1) Thursday, from 9 a.m. to 3 p.m. During this time, only the service elevator will be (2) use.\n\nWe recommend that employees on higher floors (3) the stairs whenever possible during the maintenance period. We apologize for any inconvenience this (4) cause.",
+  "blanks": [
+   {
+    "id": "p626b1",
+    "choices": [
+     "on",
+     "at",
+     "in",
+     "by"
+    ]
+   },
+   {
+    "id": "p626b2",
+    "choices": [
+     "in",
+     "on",
+     "for",
+     "at"
+    ]
+   },
+   {
+    "id": "p626b3",
+    "choices": [
+     "use",
+     "used",
+     "using",
+     "to using"
+    ]
+   },
+   {
+    "id": "p626b4",
+    "choices": [
+     "may",
+     "must",
+     "should",
+     "will"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p627",
+  "passage": "Dear Policyholder,\n\nYour auto insurance policy is due for renewal on August 15th. To ensure (1) coverage, please review the enclosed documents carefully before the renewal date.\n\nIf you have made any changes to your vehicle, such as adding a new driver, it is important that you (2) us as soon as possible. Failure to update your information may result in a claim (3) denied.\n\nWe value your continued (4) and look forward to serving you for years to come.",
+  "blanks": [
+   {
+    "id": "p627b1",
+    "choices": [
+     "continuous",
+     "continuously",
+     "continuation",
+     "continue"
+    ]
+   },
+   {
+    "id": "p627b2",
+    "choices": [
+     "notify",
+     "notifying",
+     "notified",
+     "notification"
+    ]
+   },
+   {
+    "id": "p627b3",
+    "choices": [
+     "being",
+     "to be",
+     "be",
+     "was"
+    ]
+   },
+   {
+    "id": "p627b4",
+    "choices": [
+     "loyalty",
+     "loyal",
+     "loyally",
+     "loyalize"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p628",
+  "passage": "Introducing the AeroBook Pro\n\nWe are thrilled to unveil the AeroBook Pro, our lightest laptop (1) date. Weighing just 1.1 kilograms, it is designed for professionals (2) travel frequently.\n\nThe new model also features a battery that lasts (3) longer than its predecessor, allowing users to work all day without needing to recharge. Pre-orders (4) accepted starting next Monday.",
+  "blanks": [
+   {
+    "id": "p628b1",
+    "choices": [
+     "to",
+     "for",
+     "since",
+     "at"
+    ]
+   },
+   {
+    "id": "p628b2",
+    "choices": [
+     "who",
+     "which",
+     "whom",
+     "whose"
+    ]
+   },
+   {
+    "id": "p628b3",
+    "choices": [
+     "much",
+     "many",
+     "very",
+     "so"
+    ]
+   },
+   {
+    "id": "p628b4",
+    "choices": [
+     "are being",
+     "is being",
+     "will be",
+     "have been"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p629",
+  "passage": "To All Employees,\n\nAs part of our ongoing effort to improve the workplace, we are considering several changes to the office layout. Your feedback is essential (1) making the right decision.\n\nPlease take a few minutes to complete the attached survey, (2) covers topics such as desk arrangement, meeting room availability, and quiet workspaces. The survey should take no (3) than five minutes to complete.\n\nResults will be shared with all staff (4) the changes are finalized.",
+  "blanks": [
+   {
+    "id": "p629b1",
+    "choices": [
+     "to",
+     "for",
+     "in",
+     "of"
+    ]
+   },
+   {
+    "id": "p629b2",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "id": "p629b3",
+    "choices": [
+     "more",
+     "less",
+     "much",
+     "many"
+    ]
+   },
+   {
+    "id": "p629b4",
+    "choices": [
+     "once",
+     "despite",
+     "although",
+     "unless"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p630",
+  "passage": "The Rise of Remote Productivity\n\nA recent study suggests that employees who work remotely are often (1) productive than those who commute to an office every day. Researchers attribute this to reduced commuting stress and (2) flexible schedules.\n\nHowever, experts caution that remote work is not equally effective for everyone. Some employees report feeling isolated, (3) can negatively affect motivation over time.\n\nCompanies are therefore encouraged to offer a hybrid model, (4) employees the choice between working from home and coming into the office.",
+  "blanks": [
+   {
+    "id": "p630b1",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "many"
+    ]
+   },
+   {
+    "id": "p630b2",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "very"
+    ]
+   },
+   {
+    "id": "p630b3",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "that"
+    ]
+   },
+   {
+    "id": "p630b4",
+    "choices": [
+     "giving",
+     "given",
+     "gives",
+     "to give"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,632 @@
+[
+ {
+  "id": "p631",
+  "passage": "Memo to All Staff\n\nEffective next month, the company's travel reimbursement policy will be updated. Employees will now be required to submit receipts (1) all expenses over $25, rather than the previous threshold of $50.\n\nIn addition, mileage reimbursement rates will be adjusted (2) reflect current fuel prices. Requests submitted (3) this new threshold without a receipt will not be processed.\n\nA revised expense form is attached; please use it (4) submitting future claims.",
+  "blanks": [
+   {
+    "id": "p631b1",
+    "choices": [
+     "for",
+     "of",
+     "with",
+     "about"
+    ]
+   },
+   {
+    "id": "p631b2",
+    "choices": [
+     "to",
+     "for",
+     "so",
+     "that"
+    ]
+   },
+   {
+    "id": "p631b3",
+    "choices": [
+     "above",
+     "over",
+     "up",
+     "on"
+    ]
+   },
+   {
+    "id": "p631b4",
+    "choices": [
+     "when",
+     "while",
+     "during",
+     "for"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p632",
+  "passage": "Software Update Notice\n\nA new version of our project management software will be released next week. This update includes several improvements (1) were requested by users, such as faster loading times and a redesigned dashboard.\n\nAll users are (2) to back up their data before installing the update. The installation process typically takes about ten minutes, (3) computer speed.\n\nIf you experience any issues after updating, please contact technical support, (4) will be available around the clock during the rollout.",
+  "blanks": [
+   {
+    "id": "p632b1",
+    "choices": [
+     "that",
+     "what",
+     "whom",
+     "whose"
+    ]
+   },
+   {
+    "id": "p632b2",
+    "choices": [
+     "recommended",
+     "recommend",
+     "recommending",
+     "recommendation"
+    ]
+   },
+   {
+    "id": "p632b3",
+    "choices": [
+     "depending on",
+     "despite",
+     "because",
+     "unless"
+    ]
+   },
+   {
+    "id": "p632b4",
+    "choices": [
+     "which",
+     "who",
+     "whom",
+     "whose"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p633",
+  "passage": "Dear Customer,\n\nThank you for your recent purchase. We would greatly appreciate it if you could take a moment (1) share your feedback through our online survey.\n\nYour responses will help us (2) our products and services to better meet customer needs. The survey is completely anonymous, and your answers (3) not be shared with any third party.\n\nAs a token of our appreciation, participants will (4) entered into a monthly prize drawing.",
+  "blanks": [
+   {
+    "id": "p633b1",
+    "choices": [
+     "to",
+     "for",
+     "of",
+     "in"
+    ]
+   },
+   {
+    "id": "p633b2",
+    "choices": [
+     "improve",
+     "improving",
+     "improved",
+     "improvement"
+    ]
+   },
+   {
+    "id": "p633b3",
+    "choices": [
+     "will",
+     "shall",
+     "must",
+     "should"
+    ]
+   },
+   {
+    "id": "p633b4",
+    "choices": [
+     "be",
+     "being",
+     "been",
+     "have"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p634",
+  "passage": "Training Program Announcement\n\nThe Human Resources Department is pleased to announce a new leadership training program, (1) will begin next month. The program is designed for employees (2) have been with the company for at least two years.\n\nParticipants will attend weekly workshops covering topics such as communication, decision-making, and team management. Space is limited, so employees interested in (3) should register by Friday.\n\nUpon completion, participants will receive a certificate (4) can be added to their professional portfolio.",
+  "blanks": [
+   {
+    "id": "p634b1",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "id": "p634b2",
+    "choices": [
+     "who",
+     "which",
+     "whom",
+     "whose"
+    ]
+   },
+   {
+    "id": "p634b3",
+    "choices": [
+     "participating",
+     "participate",
+     "participated",
+     "to participating"
+    ]
+   },
+   {
+    "id": "p634b4",
+    "choices": [
+     "that",
+     "what",
+     "whom",
+     "when"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p635",
+  "passage": "Important Update to Our Shipping Policy\n\nStarting next month, all orders over $50 will qualify for free standard shipping, (1) previously required a minimum purchase of $75. Orders under this amount will be charged a flat shipping fee.\n\nExpedited shipping options will (2) remain available for an additional fee. Customers who wish to modify or cancel an order should do (3) within one hour of placing it, as orders are processed quickly.\n\nWe believe this change will make shopping with us (4) convenient than ever.",
+  "blanks": [
+   {
+    "id": "p635b1",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "that"
+    ]
+   },
+   {
+    "id": "p635b2",
+    "choices": [
+     "still",
+     "already",
+     "yet",
+     "soon"
+    ]
+   },
+   {
+    "id": "p635b3",
+    "choices": [
+     "so",
+     "it",
+     "that",
+     "this"
+    ]
+   },
+   {
+    "id": "p635b4",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "many"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p636",
+  "passage": "Sales Assistant Position Available\n\nGreenfield Supplies is looking for an organized and motivated sales assistant to support our regional sales team. The successful candidate will be responsible (1) processing orders, maintaining client records, and coordinating shipments.\n\nApplicants should have at least one year of experience in a similar (2) and strong attention to detail. Proficiency in spreadsheet software is (3) preferred.\n\nInterested candidates are encouraged to apply (4) possible, as interviews will begin next week.",
+  "blanks": [
+   {
+    "id": "p636b1",
+    "choices": [
+     "for",
+     "to",
+     "with",
+     "of"
+    ]
+   },
+   {
+    "id": "p636b2",
+    "choices": [
+     "role",
+     "roles",
+     "rolling",
+     "rolled"
+    ]
+   },
+   {
+    "id": "p636b3",
+    "choices": [
+     "highly",
+     "high",
+     "higher",
+     "height"
+    ]
+   },
+   {
+    "id": "p636b4",
+    "choices": [
+     "as soon as",
+     "as long as",
+     "so far as",
+     "even if"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p637",
+  "passage": "Dear Rewards Member,\n\nThis is a reminder that any points earned before January 1st of last year will expire at the end of this month (1) they are used before the deadline.\n\nTo check your current point balance, please log in to your account, (2) you can also review your transaction history. Points can be redeemed for discounts, gift cards, or (3) merchandise.\n\nIf you have any questions about your account, our customer service team will be happy (4) assist you.",
+  "blanks": [
+   {
+    "id": "p637b1",
+    "choices": [
+     "unless",
+     "although",
+     "so that",
+     "because"
+    ]
+   },
+   {
+    "id": "p637b2",
+    "choices": [
+     "where",
+     "which",
+     "when",
+     "who"
+    ]
+   },
+   {
+    "id": "p637b3",
+    "choices": [
+     "exclusive",
+     "exclusively",
+     "exclusion",
+     "exclude"
+    ]
+   },
+   {
+    "id": "p637b4",
+    "choices": [
+     "to",
+     "for",
+     "in",
+     "of"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p638",
+  "passage": "Employee Benefits Update\n\nWe are pleased to announce a new wellness benefit: starting next quarter, the company will cover 50% of gym membership fees for all full-time employees. This initiative reflects our commitment (1) supporting employee health and well-being.\n\nTo participate, employees must submit proof of an active gym membership (2) the HR department each month. Reimbursements will be processed within two weeks of (3) a valid receipt.\n\nWe hope this benefit will encourage everyone to lead a (4) active lifestyle.",
+  "blanks": [
+   {
+    "id": "p638b1",
+    "choices": [
+     "to",
+     "for",
+     "of",
+     "in"
+    ]
+   },
+   {
+    "id": "p638b2",
+    "choices": [
+     "to",
+     "for",
+     "at",
+     "by"
+    ]
+   },
+   {
+    "id": "p638b3",
+    "choices": [
+     "receiving",
+     "receive",
+     "received",
+     "receipt"
+    ]
+   },
+   {
+    "id": "p638b4",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "very"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p639",
+  "passage": "Notice of Annual Shareholders Meeting\n\nThe annual shareholders meeting will be held on March 20th at the company headquarters, (1) shareholders will review the company's performance over the past year.\n\nShareholders unable to attend in person may vote (2) proxy by completing the enclosed form. All proxy forms must be received (3) the company no later than March 15th to be counted.\n\nA copy of the annual report, (4) includes detailed financial statements, is enclosed with this notice.",
+  "blanks": [
+   {
+    "id": "p639b1",
+    "choices": [
+     "where",
+     "which",
+     "when",
+     "who"
+    ]
+   },
+   {
+    "id": "p639b2",
+    "choices": [
+     "by",
+     "with",
+     "for",
+     "on"
+    ]
+   },
+   {
+    "id": "p639b3",
+    "choices": [
+     "by",
+     "until",
+     "since",
+     "from"
+    ]
+   },
+   {
+    "id": "p639b4",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "whom"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p640",
+  "passage": "To All Employees,\n\nAs part of our ongoing security upgrades, all existing access cards will (1) replaced with new, higher-security cards by the end of this month. Employees should visit the security office (2) their new card as soon as possible.\n\nOld cards will be deactivated automatically once the new system (3) fully implemented. Please do not share your access card with anyone, (4) doing so violates company security policy.\n\nWe appreciate your cooperation in keeping our workplace safe.",
+  "blanks": [
+   {
+    "id": "p640b1",
+    "choices": [
+     "be",
+     "being",
+     "been",
+     "have"
+    ]
+   },
+   {
+    "id": "p640b2",
+    "choices": [
+     "to obtain",
+     "obtaining",
+     "obtain",
+     "obtained"
+    ]
+   },
+   {
+    "id": "p640b3",
+    "choices": [
+     "is",
+     "are",
+     "was",
+     "were"
+    ]
+   },
+   {
+    "id": "p640b4",
+    "choices": [
+     "as",
+     "so",
+     "but",
+     "or"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p641",
+  "passage": "To All Staff,\n\nStarting next week, the break room will be (1) available from 7 a.m. to 8 p.m. to allow for evening cleaning. Employees are asked to wash their own dishes immediately (2) using them.\n\nThe refrigerator will be cleared out every Friday, so please label any food (3) you wish to keep over the weekend. Items left unlabeled will be (4) at the end of the day.\n\nThank you for helping us keep the break room clean.",
+  "blanks": [
+   {
+    "id": "p641b1",
+    "choices": [
+     "only",
+     "such",
+     "very",
+     "so"
+    ]
+   },
+   {
+    "id": "p641b2",
+    "choices": [
+     "after",
+     "before",
+     "during",
+     "since"
+    ]
+   },
+   {
+    "id": "p641b3",
+    "choices": [
+     "that",
+     "what",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "id": "p641b4",
+    "choices": [
+     "discarded",
+     "discard",
+     "discarding",
+     "discards"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p642",
+  "passage": "Logistics Center Staff Needed\n\nSwiftCargo is looking for reliable workers to join our logistics center, (1) is located just outside the city. Duties include sorting packages, operating scanning equipment, and (2) accurate inventory records.\n\nNo prior experience is required, as full training will be (3) to all new hires. Candidates must be able to stand for extended periods and lift packages weighing up (4) 20 kilograms.\n\nInterested applicants should apply online today.",
+  "blanks": [
+   {
+    "id": "p642b1",
+    "choices": [
+     "which",
+     "what",
+     "who",
+     "whom"
+    ]
+   },
+   {
+    "id": "p642b2",
+    "choices": [
+     "maintaining",
+     "maintain",
+     "maintained",
+     "maintenance"
+    ]
+   },
+   {
+    "id": "p642b3",
+    "choices": [
+     "provided",
+     "provide",
+     "providing",
+     "provides"
+    ]
+   },
+   {
+    "id": "p642b4",
+    "choices": [
+     "to",
+     "for",
+     "with",
+     "at"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p643",
+  "passage": "Dear Subscriber,\n\nWe are updating our subscription plans to give you more flexibility. Beginning next month, you will be able to pause your subscription (1) canceling it entirely.\n\nIn addition, subscribers who choose the annual plan will receive a discount that is (2) than the one offered last year. If you would like to adjust your plan, please log in to your account, (3) you can review all available options.\n\nWe hope these changes make managing your subscription (4) convenient.",
+  "blanks": [
+   {
+    "id": "p643b1",
+    "choices": [
+     "instead of",
+     "because of",
+     "in spite of",
+     "regardless of"
+    ]
+   },
+   {
+    "id": "p643b2",
+    "choices": [
+     "larger",
+     "large",
+     "largest",
+     "largely"
+    ]
+   },
+   {
+    "id": "p643b3",
+    "choices": [
+     "where",
+     "which",
+     "when",
+     "who"
+    ]
+   },
+   {
+    "id": "p643b4",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "many"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p644",
+  "passage": "To All Employees,\n\nAfter months of searching, we are pleased to announce that our new office (1) be located in the Riverside Business Park starting in January. The new space offers more natural light and (2) meeting rooms than our current office.\n\nA detailed floor plan will be shared once the design is finalized. Employees (3) have questions about the move are encouraged to contact the facilities team directly.\n\nWe look forward to this exciting (4) for our company.",
+  "blanks": [
+   {
+    "id": "p644b1",
+    "choices": [
+     "will",
+     "would",
+     "shall",
+     "should"
+    ]
+   },
+   {
+    "id": "p644b2",
+    "choices": [
+     "more",
+     "most",
+     "much",
+     "many"
+    ]
+   },
+   {
+    "id": "p644b3",
+    "choices": [
+     "who",
+     "which",
+     "whom",
+     "whose"
+    ]
+   },
+   {
+    "id": "p644b4",
+    "choices": [
+     "chapter",
+     "chapters",
+     "charity",
+     "character"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p645",
+  "passage": "Better Sleep, Better Life\n\nMany people struggle to get enough sleep, but experts say that small changes can make a big difference. One recommendation is to avoid using electronic devices (1) going to bed, since the light they emit can interfere with sleep.\n\nExperts also suggest that people (2) go to bed and wake up at the same time every day, even on weekends. This helps regulate the body's internal clock.\n\nFinally, keeping the bedroom cool and dark is (3) important for achieving restful sleep. Following these tips consistently (4) improve sleep quality over time.",
+  "blanks": [
+   {
+    "id": "p645b1",
+    "choices": [
+     "before",
+     "after",
+     "during",
+     "since"
+    ]
+   },
+   {
+    "id": "p645b2",
+    "choices": [
+     "should",
+     "would",
+     "might",
+     "could"
+    ]
+   },
+   {
+    "id": "p645b3",
+    "choices": [
+     "equally",
+     "equal",
+     "equality",
+     "equals"
+    ]
+   },
+   {
+    "id": "p645b4",
+    "choices": [
+     "can",
+     "must",
+     "shall",
+     "will"
+    ]
+   }
+  ]
+ }
+]

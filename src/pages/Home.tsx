@@ -170,6 +170,25 @@ export default function Home({ data }: { data: AppData }) {
         <span className="text-(--color-gold)">→</span>
       </Link>
 
+      {/* すきま時間モード：単語・文法を混ぜた3〜10問のミニセッション */}
+      <Link
+        to="/quick-study"
+        className="mt-4 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+      >
+        <div>
+          <div className="flex items-center gap-1.5">
+            <p className="font-medium text-(--color-ink)">すきま時間モード</p>
+            <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+              NEW
+            </span>
+          </div>
+          <p className="mt-0.5 text-sm text-(--color-muted)">
+            単語・文法を混ぜて3〜10問だけサクッと復習
+          </p>
+        </div>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
+
       {/* おすすめ問題 */}
       {hasTakenPlacementTest && ability.status === "ok" && (
         <div className="mt-4 grid grid-cols-2 gap-3">

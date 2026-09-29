@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1401",
+  "word": "packing list",
+  "meaning": "梱包リスト",
+  "example": "Compare the shipment to the packing list."
+ },
+ {
+  "id": "w1402",
+  "word": "supply shortage",
+  "meaning": "供給不足",
+  "example": "The supply shortage delayed several orders."
+ },
+ {
+  "id": "w1403",
+  "word": "stock replenishment",
+  "meaning": "在庫補充",
+  "example": "Stock replenishment occurs every two weeks."
+ },
+ {
+  "id": "w1404",
+  "word": "inventory audit",
+  "meaning": "棚卸監査",
+  "example": "An inventory audit is conducted at the end of each quarter."
+ },
+ {
+  "id": "w1405",
+  "word": "cycle count",
+  "meaning": "循環棚卸",
+  "example": "Cycle counts help maintain accurate inventory records."
+ },
+ {
+  "id": "w1406",
+  "word": "production schedule",
+  "meaning": "生産スケジュール",
+  "example": "The production schedule was adjusted for the holiday."
+ },
+ {
+  "id": "w1407",
+  "word": "manufacturing defect",
+  "meaning": "製造上の欠陥",
+  "example": "The recall was due to a manufacturing defect."
+ },
+ {
+  "id": "w1408",
+  "word": "product recall",
+  "meaning": "製品回収",
+  "example": "The company issued a product recall for safety reasons."
+ },
+ {
+  "id": "w1409",
+  "word": "warranty claim",
+  "meaning": "保証請求",
+  "example": "The customer filed a warranty claim for the broken device."
+ },
+ {
+  "id": "w1410",
+  "word": "customer support ticket",
+  "meaning": "カスタマーサポートチケット",
+  "example": "She opened a customer support ticket for the issue."
+ },
+ {
+  "id": "w1411",
+  "word": "service request",
+  "meaning": "サービス依頼",
+  "example": "The service request was resolved within 24 hours."
+ },
+ {
+  "id": "w1412",
+  "word": "technical documentation",
+  "meaning": "技術文書",
+  "example": "The technical documentation explains the installation process."
+ },
+ {
+  "id": "w1413",
+  "word": "installation guide",
+  "meaning": "設置ガイド",
+  "example": "Follow the installation guide step by step."
+ },
+ {
+  "id": "w1414",
+  "word": "quick start guide",
+  "meaning": "クイックスタートガイド",
+  "example": "The quick start guide helps new users get started fast."
+ },
+ {
+  "id": "w1415",
+  "word": "product specification",
+  "meaning": "製品仕様",
+  "example": "The product specification lists all technical details."
+ },
+ {
+  "id": "w1416",
+  "word": "grocery store",
+  "meaning": "食料品店",
+  "example": "She stopped by the grocery store after work."
+ },
+ {
+  "id": "w1417",
+  "word": "dairy product",
+  "meaning": "乳製品",
+  "example": "The dairy product section is at the back of the store."
+ },
+ {
+  "id": "w1418",
+  "word": "fresh produce",
+  "meaning": "新鮮な農産物",
+  "example": "The market is known for its fresh produce."
+ },
+ {
+  "id": "w1419",
+  "word": "frozen food",
+  "meaning": "冷凍食品",
+  "example": "Frozen food is stored in the freezer aisle."
+ },
+ {
+  "id": "w1420",
+  "word": "canned goods",
+  "meaning": "缶詰食品",
+  "example": "Canned goods have a longer shelf life."
+ },
+ {
+  "id": "w1421",
+  "word": "bakery item",
+  "meaning": "ベーカリー商品",
+  "example": "Bakery items are baked fresh every morning."
+ },
+ {
+  "id": "w1422",
+  "word": "deli counter",
+  "meaning": "デリカウンター",
+  "example": "She ordered sliced turkey at the deli counter."
+ },
+ {
+  "id": "w1423",
+  "word": "checkout line",
+  "meaning": "レジの列",
+  "example": "The checkout line moved quickly on a weekday morning."
+ },
+ {
+  "id": "w1424",
+  "word": "shopping list",
+  "meaning": "買い物リスト",
+  "example": "He made a shopping list before heading to the store."
+ },
+ {
+  "id": "w1425",
+  "word": "coupon code",
+  "meaning": "クーポンコード",
+  "example": "Enter the coupon code at checkout to save money."
+ },
+ {
+  "id": "w1426",
+  "word": "membership card",
+  "meaning": "会員証",
+  "example": "Show your membership card for the discount."
+ },
+ {
+  "id": "w1427",
+  "word": "loyalty points",
+  "meaning": "ロイヤルティポイント",
+  "example": "She redeemed her loyalty points for a free item."
+ },
+ {
+  "id": "w1428",
+  "word": "store hours",
+  "meaning": "営業時間",
+  "example": "Check the store hours before visiting on a holiday."
+ },
+ {
+  "id": "w1429",
+  "word": "holiday hours",
+  "meaning": "祝日の営業時間",
+  "example": "The store posted special holiday hours online."
+ },
+ {
+  "id": "w1430",
+  "word": "business hours",
+  "meaning": "営業時間",
+  "example": "Our business hours are nine to five, Monday through Friday."
+ },
+ {
+  "id": "w1431",
+  "word": "opening hours",
+  "meaning": "開店時間",
+  "example": "The museum's opening hours vary by season."
+ },
+ {
+  "id": "w1432",
+  "word": "weekday schedule",
+  "meaning": "平日のスケジュール",
+  "example": "Her weekday schedule is packed with meetings."
+ },
+ {
+  "id": "w1433",
+  "word": "appointment reminder",
+  "meaning": "予約リマインダー",
+  "example": "She received an appointment reminder by text message."
+ },
+ {
+  "id": "w1434",
+  "word": "calendar invite",
+  "meaning": "カレンダー招待",
+  "example": "He sent a calendar invite for the team meeting."
+ },
+ {
+  "id": "w1435",
+  "word": "recurring meeting",
+  "meaning": "定例会議",
+  "example": "The recurring meeting is held every Monday morning."
+ },
+ {
+  "id": "w1436",
+  "word": "all-day event",
+  "meaning": "終日イベント",
+  "example": "The conference is listed as an all-day event."
+ },
+ {
+  "id": "w1437",
+  "word": "scheduling conflict",
+  "meaning": "予定の重複",
+  "example": "A scheduling conflict forced them to reschedule."
+ },
+ {
+  "id": "w1438",
+  "word": "double booking",
+  "meaning": "ダブルブッキング",
+  "example": "The hotel apologized for the double booking."
+ },
+ {
+  "id": "w1439",
+  "word": "business trip",
+  "meaning": "出張",
+  "example": "She is on a business trip to the Tokyo office."
+ },
+ {
+  "id": "w1440",
+  "word": "travel itinerary",
+  "meaning": "旅程表",
+  "example": "The travel itinerary includes three cities."
+ },
+ {
+  "id": "w1441",
+  "word": "expense claim",
+  "meaning": "経費請求",
+  "example": "Submit your expense claim within a week of travel."
+ },
+ {
+  "id": "w1442",
+  "word": "mileage reimbursement",
+  "meaning": "走行距離に対する払い戻し",
+  "example": "The company provides mileage reimbursement for personal car use."
+ },
+ {
+  "id": "w1443",
+  "word": "business lunch",
+  "meaning": "ビジネスランチ",
+  "example": "They discussed the deal over a business lunch."
+ },
+ {
+  "id": "w1444",
+  "word": "networking event",
+  "meaning": "ネットワーキングイベント",
+  "example": "She met several new clients at the networking event."
+ },
+ {
+  "id": "w1445",
+  "word": "elevator pitch",
+  "meaning": "エレベーターピッチ(短い売り込み)",
+  "example": "He practiced his elevator pitch before the investor meeting."
+ },
+ {
+  "id": "w1446",
+  "word": "small talk",
+  "meaning": "世間話",
+  "example": "They exchanged small talk before the meeting began."
+ },
+ {
+  "id": "w1447",
+  "word": "icebreaker",
+  "meaning": "アイスブレイク",
+  "example": "The facilitator started with a fun icebreaker activity."
+ },
+ {
+  "id": "w1448",
+  "word": "team huddle",
+  "meaning": "チームの短い打ち合わせ",
+  "example": "The manager called a quick team huddle before the shift."
+ },
+ {
+  "id": "w1449",
+  "word": "stand-up meeting",
+  "meaning": "立ち会議",
+  "example": "The team holds a daily stand-up meeting each morning."
+ },
+ {
+  "id": "w1450",
+  "word": "brainstorming session",
+  "meaning": "ブレインストーミングセッション",
+  "example": "The brainstorming session generated several new ideas."
+ },
+ {
+  "id": "w1451",
+  "word": "whiteboard",
+  "meaning": "ホワイトボード",
+  "example": "She wrote the agenda items on the whiteboard."
+ },
+ {
+  "id": "w1452",
+  "word": "sticky note",
+  "meaning": "付箋",
+  "example": "He left a sticky note on her desk with the message."
+ },
+ {
+  "id": "w1453",
+  "word": "presentation slide",
+  "meaning": "プレゼンテーションスライド",
+  "example": "Each presentation slide should have a clear headline."
+ },
+ {
+  "id": "w1454",
+  "word": "public speaking",
+  "meaning": "人前で話すこと",
+  "example": "Public speaking can be intimidating for many people."
+ },
+ {
+  "id": "w1455",
+  "word": "umbrella",
+  "meaning": "傘",
+  "example": "She forgot her umbrella at the office."
+ },
+ {
+  "id": "w1456",
+  "word": "raincoat",
+  "meaning": "レインコート",
+  "example": "He wore a raincoat during the storm."
+ },
+ {
+  "id": "w1457",
+  "word": "winter coat",
+  "meaning": "冬用コート",
+  "example": "The store is selling winter coats at a discount."
+ },
+ {
+  "id": "w1458",
+  "word": "business attire",
+  "meaning": "ビジネスウェア",
+  "example": "Business attire is required for the interview."
+ },
+ {
+  "id": "w1459",
+  "word": "casual wear",
+  "meaning": "カジュアルな服装",
+  "example": "The office allows casual wear on Fridays."
+ },
+ {
+  "id": "w1460",
+  "word": "formal event",
+  "meaning": "フォーマルなイベント",
+  "example": "She wore a gown to the formal event."
+ },
+ {
+  "id": "w1461",
+  "word": "dry cleaning",
+  "meaning": "ドライクリーニング",
+  "example": "He dropped off his suit for dry cleaning."
+ },
+ {
+  "id": "w1462",
+  "word": "tailor",
+  "meaning": "仕立て屋",
+  "example": "The tailor adjusted the suit for a perfect fit."
+ },
+ {
+  "id": "w1463",
+  "word": "alteration",
+  "meaning": "仕立て直し",
+  "example": "The dress needed a small alteration before the wedding."
+ },
+ {
+  "id": "w1464",
+  "word": "fabric quality",
+  "meaning": "生地の品質",
+  "example": "Customers praised the fabric quality of the new line."
+ },
+ {
+  "id": "w1465",
+  "word": "clothing line",
+  "meaning": "衣料品ライン",
+  "example": "The designer launched a new clothing line this fall."
+ },
+ {
+  "id": "w1466",
+  "word": "fashion trend",
+  "meaning": "ファッショントレンド",
+  "example": "The brand keeps up with the latest fashion trends."
+ },
+ {
+  "id": "w1467",
+  "word": "runway show",
+  "meaning": "ランウェイショー",
+  "example": "Models presented the collection at the runway show."
+ },
+ {
+  "id": "w1468",
+  "word": "designer brand",
+  "meaning": "デザイナーブランド",
+  "example": "She bought a designer brand handbag on sale."
+ },
+ {
+  "id": "w1469",
+  "word": "footwear",
+  "meaning": "履物",
+  "example": "The store specializes in footwear for athletes."
+ },
+ {
+  "id": "w1470",
+  "word": "accessory line",
+  "meaning": "アクセサリーライン",
+  "example": "The brand expanded into a new accessory line."
+ },
+ {
+  "id": "w1471",
+  "word": "cosmetics counter",
+  "meaning": "化粧品カウンター",
+  "example": "She tried a new lipstick at the cosmetics counter."
+ },
+ {
+  "id": "w1472",
+  "word": "skincare product",
+  "meaning": "スキンケア製品",
+  "example": "The skincare product sold out within a week."
+ },
+ {
+  "id": "w1473",
+  "word": "personal care item",
+  "meaning": "パーソナルケア用品",
+  "example": "The store carries a variety of personal care items."
+ },
+ {
+  "id": "w1474",
+  "word": "household item",
+  "meaning": "家庭用品",
+  "example": "The catalog features a range of household items."
+ },
+ {
+  "id": "w1475",
+  "word": "kitchenware",
+  "meaning": "キッチン用品",
+  "example": "The store sells high-quality kitchenware."
+ },
+ {
+  "id": "w1476",
+  "word": "cookware set",
+  "meaning": "調理器具セット",
+  "example": "She received a cookware set as a wedding gift."
+ },
+ {
+  "id": "w1477",
+  "word": "dinnerware",
+  "meaning": "食器",
+  "example": "The restaurant uses elegant dinnerware for special events."
+ },
+ {
+  "id": "w1478",
+  "word": "cutlery",
+  "meaning": "カトラリー",
+  "example": "The set includes cutlery for six people."
+ },
+ {
+  "id": "w1479",
+  "word": "tableware",
+  "meaning": "テーブルウェア",
+  "example": "The hotel uses fine tableware for banquets."
+ },
+ {
+  "id": "w1480",
+  "word": "linen",
+  "meaning": "リネン",
+  "example": "The hotel changes the linen every day."
+ },
+ {
+  "id": "w1481",
+  "word": "bedding set",
+  "meaning": "寝具セット",
+  "example": "The store offers a discount on bedding sets this week."
+ },
+ {
+  "id": "w1482",
+  "word": "mattress",
+  "meaning": "マットレス",
+  "example": "They bought a new mattress for the guest room."
+ },
+ {
+  "id": "w1483",
+  "word": "upholstery",
+  "meaning": "室内装飾用布地",
+  "example": "The sofa's upholstery was replaced last year."
+ },
+ {
+  "id": "w1484",
+  "word": "home decor",
+  "meaning": "ホームデコレーション",
+  "example": "The shop specializes in affordable home decor."
+ },
+ {
+  "id": "w1485",
+  "word": "wall art",
+  "meaning": "壁の装飾品",
+  "example": "She hung new wall art in the living room."
+ },
+ {
+  "id": "w1486",
+  "word": "light fixture",
+  "meaning": "照明器具",
+  "example": "The electrician installed a new light fixture."
+ },
+ {
+  "id": "w1487",
+  "word": "ceiling fan",
+  "meaning": "天井扇風機",
+  "example": "A ceiling fan keeps the room cool in summer."
+ },
+ {
+  "id": "w1488",
+  "word": "power outlet",
+  "meaning": "コンセント",
+  "example": "The office has limited power outlets near the desks."
+ },
+ {
+  "id": "w1489",
+  "word": "extension cord",
+  "meaning": "延長コード",
+  "example": "He used an extension cord to reach the printer."
+ },
+ {
+  "id": "w1490",
+  "word": "power strip",
+  "meaning": "電源タップ",
+  "example": "A power strip allows multiple devices to be plugged in."
+ },
+ {
+  "id": "w1491",
+  "word": "surge protector",
+  "meaning": "サージプロテクター",
+  "example": "Use a surge protector to protect your electronics."
+ },
+ {
+  "id": "w1492",
+  "word": "appliance warranty",
+  "meaning": "家電保証",
+  "example": "The refrigerator comes with a five-year appliance warranty."
+ },
+ {
+  "id": "w1493",
+  "word": "energy-efficient appliance",
+  "meaning": "省エネ家電",
+  "example": "The store promotes energy-efficient appliances."
+ },
+ {
+  "id": "w1494",
+  "word": "smart home device",
+  "meaning": "スマートホームデバイス",
+  "example": "The smart home device controls lighting and temperature."
+ },
+ {
+  "id": "w1495",
+  "word": "hotel amenity",
+  "meaning": "ホテルの設備",
+  "example": "The hotel amenity includes a rooftop pool."
+ },
+ {
+  "id": "w1496",
+  "word": "room service",
+  "meaning": "ルームサービス",
+  "example": "She ordered breakfast through room service."
+ },
+ {
+  "id": "w1497",
+  "word": "housekeeping staff",
+  "meaning": "客室清掃スタッフ",
+  "example": "The housekeeping staff cleans rooms daily."
+ },
+ {
+  "id": "w1498",
+  "word": "front desk clerk",
+  "meaning": "フロント係",
+  "example": "The front desk clerk checked them into their room."
+ },
+ {
+  "id": "w1499",
+  "word": "guest satisfaction",
+  "meaning": "宿泊客の満足度",
+  "example": "The hotel monitors guest satisfaction closely."
+ },
+ {
+  "id": "w1500",
+  "word": "hotel chain",
+  "meaning": "ホテルチェーン",
+  "example": "The company operates a large hotel chain worldwide."
+ }
+]

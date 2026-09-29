@@ -1,0 +1,602 @@
+[
+{
+"id": "w1401",
+"pos": "名詞",
+"exampleJa": "その出荷品を梱包リストと照合してください。",
+"note": "類義語：packing record・shipping list\n表現：check against a packing list（梱包リストと照合する）"
+},
+{
+"id": "w1402",
+"pos": "名詞",
+"exampleJa": "供給不足により、複数の注文が遅れました。",
+"note": "類義語：shortage・scarcity\n表現：a supply shortage（供給不足）"
+},
+{
+"id": "w1403",
+"pos": "名詞",
+"exampleJa": "在庫補充は2週間ごとに行われます。",
+"note": "類義語：restocking・resupply\n表現：stock replenishment（在庫補充）"
+},
+{
+"id": "w1404",
+"pos": "名詞",
+"exampleJa": "棚卸監査は各四半期の終わりに実施されます。",
+"note": "類義語：inventory inspection・stock audit\n表現：conduct an inventory audit（棚卸監査を実施する）"
+},
+{
+"id": "w1405",
+"pos": "名詞",
+"exampleJa": "循環棚卸は正確な在庫記録の維持に役立ちます。",
+"note": "類義語：inventory count・stock count\n表現：conduct a cycle count（循環棚卸を行う）"
+},
+{
+"id": "w1406",
+"pos": "名詞",
+"exampleJa": "祝日に合わせて生産スケジュールが変更されました。",
+"note": "類義語：production plan・manufacturing schedule\n表現：adjust the production schedule（生産スケジュールを調整する）"
+},
+{
+"id": "w1407",
+"pos": "名詞",
+"exampleJa": "そのリコールは製造上の欠陥が原因でした。",
+"note": "類義語：manufacturing flaw・production fault\n表現：a manufacturing defect（製造上の欠陥）"
+},
+{
+"id": "w1408",
+"pos": "名詞",
+"exampleJa": "その会社は安全上の理由から製品回収を発表しました。",
+"note": "類義語：recall・product withdrawal\n表現：issue a product recall（製品回収を発表する）"
+},
+{
+"id": "w1409",
+"pos": "名詞",
+"exampleJa": "顧客は壊れた機器について保証請求を行いました。",
+"note": "類義語：warranty request・warranty application\n表現：file a warranty claim（保証請求を行う）"
+},
+{
+"id": "w1410",
+"pos": "名詞",
+"exampleJa": "彼女はその問題についてカスタマーサポートチケットを作成しました。",
+"note": "類義語：support ticket・service ticket\n表現：open a support ticket（サポートチケットを作成する）"
+},
+{
+"id": "w1411",
+"pos": "名詞",
+"exampleJa": "そのサービス依頼は24時間以内に解決されました。",
+"note": "類義語：service inquiry・support request\n表現：submit a service request（サービス依頼を提出する）"
+},
+{
+"id": "w1412",
+"pos": "名詞",
+"exampleJa": "その技術文書には設置手順が説明されています。",
+"note": "類義語：technical manual・technical material\n表現：technical documentation（技術文書）"
+},
+{
+"id": "w1413",
+"pos": "名詞",
+"exampleJa": "設置ガイドに従って、一つずつ手順を進めてください。",
+"note": "類義語：installation manual・setup guide\n表現：follow the installation guide（設置ガイドに従う）"
+},
+{
+"id": "w1414",
+"pos": "名詞",
+"exampleJa": "クイックスタートガイドは、新しい利用者がすぐに使い始めるのに役立ちます。",
+"note": "類義語：quick guide・startup guide\n表現：quick start guide（クイックスタートガイド）"
+},
+{
+"id": "w1415",
+"pos": "名詞",
+"exampleJa": "製品仕様にはすべての技術的詳細が記載されています。",
+"note": "類義語：product specifications・technical specifications\n表現：meet the product specifications（製品仕様を満たす）"
+},
+{
+"id": "w1416",
+"pos": "名詞",
+"exampleJa": "彼女は仕事の後に食料品店に立ち寄りました。",
+"note": "類義語：grocery shop・food store\n表現：go to the grocery store（食料品店に行く）"
+},
+{
+"id": "w1417",
+"pos": "名詞",
+"exampleJa": "乳製品売り場は店の奥にあります。",
+"note": "類義語：milk product・dairy food\n表現：dairy product section（乳製品売り場）"
+},
+{
+"id": "w1418",
+"pos": "名詞",
+"exampleJa": "その市場は新鮮な農産物で知られています。",
+"note": "類義語：fresh vegetables・farm produce\n表現：fresh produce（新鮮な農産物）"
+},
+{
+"id": "w1419",
+"pos": "名詞",
+"exampleJa": "冷凍食品は冷凍食品売り場に保管されています。",
+"note": "類義語：frozen products・frozen meals\n表現：frozen food aisle（冷凍食品売り場）"
+},
+{
+"id": "w1420",
+"pos": "名詞",
+"exampleJa": "缶詰食品は保存期間が長いです。",
+"note": "類義語：canned food・preserved food\n表現：canned goods（缶詰食品）"
+},
+{
+"id": "w1421",
+"pos": "名詞",
+"exampleJa": "ベーカリー商品は毎朝焼きたてです。",
+"note": "類義語：baked goods・bakery products\n表現：freshly baked bakery items（焼きたてのベーカリー商品）"
+},
+{
+"id": "w1422",
+"pos": "名詞",
+"exampleJa": "彼女はデリカウンターでスライスした七面鳥を注文しました。",
+"note": "類義語：deli section・food counter\n表現：at the deli counter（デリカウンターで）"
+},
+{
+"id": "w1423",
+"pos": "名詞",
+"exampleJa": "平日の朝はレジの列が速く進みました。",
+"note": "類義語：checkout queue・checkout line\n表現：wait in the checkout line（レジの列で待つ）"
+},
+{
+"id": "w1424",
+"pos": "名詞",
+"exampleJa": "彼は店に向かう前に買い物リストを作りました。",
+"note": "類義語：grocery list・shopping checklist\n表現：make a shopping list（買い物リストを作る）"
+},
+{
+"id": "w1425",
+"pos": "名詞",
+"exampleJa": "会計時にクーポンコードを入力すると、節約できます。",
+"note": "類義語：discount code・promo code\n表現：enter a coupon code（クーポンコードを入力する）"
+},
+{
+"id": "w1426",
+"pos": "名詞",
+"exampleJa": "割引を受けるには会員証を提示してください。",
+"note": "類義語：membership ID・member card\n表現：show your membership card（会員証を提示する）"
+},
+{
+"id": "w1427",
+"pos": "名詞",
+"exampleJa": "彼女はロイヤルティポイントを無料の商品と交換しました。",
+"note": "類義語：reward points・customer points\n表現：redeem loyalty points（ロイヤルティポイントを交換する）"
+},
+{
+"id": "w1428",
+"pos": "名詞",
+"exampleJa": "祝日に訪れる前に営業時間を確認してください。",
+"note": "類義語：business hours・opening hours\n表現：check the store hours（営業時間を確認する）"
+},
+{
+"id": "w1429",
+"pos": "名詞",
+"exampleJa": "その店は特別な祝日の営業時間をオンラインで掲載しました。",
+"note": "類義語：holiday schedule・special hours\n表現：special holiday hours（祝日の特別営業時間）"
+},
+{
+"id": "w1430",
+"pos": "名詞",
+"exampleJa": "当社の営業時間は月曜日から金曜日までの午前9時から午後5時です。",
+"note": "類義語：opening hours・operating hours\n表現：during business hours（営業時間中に）"
+},
+{
+"id": "w1431",
+"pos": "名詞",
+"exampleJa": "その博物館の開館時間は季節によって異なります。",
+"note": "類義語：opening times・operating hours\n表現：opening hours（開館・開店時間）"
+},
+{
+"id": "w1432",
+"pos": "名詞",
+"exampleJa": "彼女の平日のスケジュールは会議でいっぱいです。",
+"note": "類義語：weekday timetable・weekly schedule\n表現：a packed schedule（予定が詰まったスケジュール）"
+},
+{
+"id": "w1433",
+"pos": "名詞",
+"exampleJa": "彼女はテキストメッセージで予約のリマインダーを受け取りました。",
+"note": "類義語：appointment notification・reminder message\n表現：receive an appointment reminder（予約リマインダーを受け取る）"
+},
+{
+"id": "w1434",
+"pos": "名詞",
+"exampleJa": "彼はチーム会議のカレンダー招待を送りました。",
+"note": "類義語：calendar invitation・meeting invitation\n表現：send a calendar invite（カレンダー招待を送る）"
+},
+{
+"id": "w1435",
+"pos": "名詞",
+"exampleJa": "その定例会議は毎週月曜日の朝に開かれます。",
+"note": "類義語：regular meeting・scheduled meeting\n表現：hold a recurring meeting（定例会議を開催する）"
+},
+{
+"id": "w1436",
+"pos": "名詞",
+"exampleJa": "その会議はカレンダー上で終日イベントとして登録されています。",
+"note": "類義語：day-long event・full-day event\n表現：an all-day event（終日イベント）"
+},
+{
+"id": "w1437",
+"pos": "名詞",
+"exampleJa": "予定が重複したため、彼らは予定を変更せざるを得ませんでした。",
+"note": "類義語：schedule conflict・calendar conflict\n表現：a scheduling conflict（予定の重複）"
+},
+{
+"id": "w1438",
+"pos": "名詞",
+"exampleJa": "ホテルはダブルブッキングについて謝罪しました。",
+"note": "類義語：duplicate booking・booking error\n表現：a double booking（ダブルブッキング）"
+},
+{
+"id": "w1439",
+"pos": "名詞",
+"exampleJa": "彼女は東京オフィスへ出張しています。",
+"note": "類義語：business travel・work trip\n表現：go on a business trip（出張に行く）"
+},
+{
+"id": "w1440",
+"pos": "名詞",
+"exampleJa": "その旅程表には3都市が含まれています。",
+"note": "類義語：travel plan・trip schedule\n表現：travel itinerary（旅程表）"
+},
+{
+"id": "w1441",
+"pos": "名詞",
+"exampleJa": "旅行後1週間以内に経費請求を提出してください。",
+"note": "類義語：expense report・expense request\n表現：submit an expense claim（経費請求を提出する）"
+},
+{
+"id": "w1442",
+"pos": "名詞",
+"exampleJa": "会社は自家用車の使用に対して走行距離に応じた払い戻しを行います。",
+"note": "類義語：mileage allowance・travel reimbursement\n表現：mileage reimbursement（走行距離に応じた払い戻し）"
+},
+{
+"id": "w1443",
+"pos": "名詞",
+"exampleJa": "彼らはビジネスランチをしながら取引について話し合いました。",
+"note": "類義語：business meal・working lunch\n表現：over a business lunch（ビジネスランチをしながら）"
+},
+{
+"id": "w1444",
+"pos": "名詞",
+"exampleJa": "彼女はネットワーキングイベントで何人かの新しい顧客と知り合いました。",
+"note": "類義語：professional event・business networking event\n表現：attend a networking event（交流イベントに参加する）"
+},
+{
+"id": "w1445",
+"pos": "名詞",
+"exampleJa": "彼は投資家との会議の前に、自分の短い売り込みを練習しました。",
+"note": "類義語：sales pitch・brief pitch\n表現：give an elevator pitch（短い売り込みをする）"
+},
+{
+"id": "w1446",
+"pos": "名詞",
+"exampleJa": "会議が始まる前に、彼らは世間話を交わしました。",
+"note": "類義語：casual conversation・chitchat\n表現：make small talk（世間話をする）"
+},
+{
+"id": "w1447",
+"pos": "名詞",
+"exampleJa": "進行役は楽しいアイスブレイク活動から始めました。",
+"note": "類義語：warm-up activity・opening activity\n表現：an icebreaker activity（アイスブレイク活動）"
+},
+{
+"id": "w1448",
+"pos": "名詞",
+"exampleJa": "マネージャーは勤務前に短いチーム打ち合わせを招集しました。",
+"note": "類義語：team meeting・briefing\n表現：hold a team huddle（チームで短い打ち合わせをする）"
+},
+{
+"id": "w1449",
+"pos": "名詞",
+"exampleJa": "そのチームは毎朝、毎日の立ち会議を行っています。",
+"note": "類義語：daily meeting・brief meeting\n表現：hold a stand-up meeting（立ち会議を行う）"
+},
+{
+"id": "w1450",
+"pos": "名詞",
+"exampleJa": "ブレインストーミングセッションから、いくつかの新しいアイデアが生まれました。",
+"note": "類義語：idea session・creative session\n表現：hold a brainstorming session（ブレインストーミングを行う）"
+},
+{
+"id": "w1451",
+"pos": "名詞",
+"exampleJa": "彼女はホワイトボードに議題を書きました。",
+"note": "類義語：marker board・dry-erase board\n表現：write on the whiteboard（ホワイトボードに書く）"
+},
+{
+"id": "w1452",
+"pos": "名詞",
+"exampleJa": "彼はメッセージを書いた付箋を彼女の机に残しました。",
+"note": "類義語：note・memo\n表現：leave a sticky note（付箋を残す）"
+},
+{
+"id": "w1453",
+"pos": "名詞",
+"exampleJa": "各プレゼンテーションスライドには、分かりやすい見出しを付けるべきです。",
+"note": "類義語：presentation page・slide\n表現：presentation slide（プレゼンテーションスライド）"
+},
+{
+"id": "w1454",
+"pos": "名詞",
+"exampleJa": "人前で話すことは、多くの人にとって緊張するものです。",
+"note": "類義語：oral presentation・speechmaking\n表現：public speaking skills（人前で話す技能）"
+},
+{
+"id": "w1455",
+"pos": "名詞",
+"exampleJa": "彼女はオフィスに傘を忘れました。",
+"note": "類義語：parasol・rain umbrella\n表現：carry an umbrella（傘を持ち歩く）"
+},
+{
+"id": "w1456",
+"pos": "名詞",
+"exampleJa": "彼は嵐の間、レインコートを着ていました。",
+"note": "類義語：rain jacket・waterproof coat\n表現：wear a raincoat（レインコートを着る）"
+},
+{
+"id": "w1457",
+"pos": "名詞",
+"exampleJa": "その店では冬用コートを割引価格で販売しています。",
+"note": "類義語：winter jacket・heavy coat\n表現：winter coat（冬用コート）"
+},
+{
+"id": "w1458",
+"pos": "名詞",
+"exampleJa": "面接ではビジネスウェアの着用が必要です。",
+"note": "類義語：professional attire・business dress\n表現：business attire is required（ビジネスウェアの着用が必要である）"
+},
+{
+"id": "w1459",
+"pos": "名詞",
+"exampleJa": "そのオフィスでは金曜日にカジュアルな服装が認められています。",
+"note": "類義語：casual clothing・informal wear\n表現：casual wear（カジュアルな服装）"
+},
+{
+"id": "w1460",
+"pos": "名詞",
+"exampleJa": "彼女はフォーマルなイベントにガウンを着て行きました。",
+"note": "類義語：formal occasion・formal function\n表現：attend a formal event（フォーマルなイベントに参加する）"
+},
+{
+"id": "w1461",
+"pos": "名詞",
+"exampleJa": "彼はスーツをドライクリーニングに出しました。",
+"note": "類義語：professional cleaning・dry-cleaning service\n表現：take something for dry cleaning（～をドライクリーニングに出す）"
+},
+{
+"id": "w1462",
+"pos": "名詞・動詞",
+"exampleJa": "仕立て屋はスーツがぴったり合うように調整しました。",
+"note": "類義語：dressmaker・seamster\n派生：tailoring（仕立て）\n表現：a skilled tailor（熟練した仕立て屋）"
+},
+{
+"id": "w1463",
+"pos": "名詞",
+"exampleJa": "そのドレスは結婚式の前に少し仕立て直す必要がありました。",
+"note": "類義語：modification・adjustment\n派生：alter（変更する、仕立て直す）\n表現：make alterations（仕立て直す）"
+},
+{
+"id": "w1464",
+"pos": "名詞",
+"exampleJa": "顧客は新しい商品ラインの生地の品質を高く評価しました。",
+"note": "類義語：fabric standard・material quality\n表現：high fabric quality（高い生地品質）"
+},
+{
+"id": "w1465",
+"pos": "名詞",
+"exampleJa": "そのデザイナーはこの秋、新しい衣料品ラインを立ち上げました。",
+"note": "類義語：clothing collection・fashion line\n表現：launch a clothing line（衣料品ラインを立ち上げる）"
+},
+{
+"id": "w1466",
+"pos": "名詞",
+"exampleJa": "そのブランドは最新のファッショントレンドを常に取り入れています。",
+"note": "類義語：fashion movement・style trend\n表現：follow fashion trends（ファッショントレンドを追う）"
+},
+{
+"id": "w1467",
+"pos": "名詞",
+"exampleJa": "モデルたちはランウェイショーでコレクションを披露しました。",
+"note": "類義語：fashion show・catwalk show\n表現：hold a runway show（ランウェイショーを開催する）"
+},
+{
+"id": "w1468",
+"pos": "名詞",
+"exampleJa": "彼女はセールでデザイナーブランドのハンドバッグを買いました。",
+"note": "類義語：luxury brand・fashion label\n表現：designer brand handbag（デザイナーブランドのハンドバッグ）"
+},
+{
+"id": "w1469",
+"pos": "名詞",
+"exampleJa": "その店はアスリート向けの履物を専門に扱っています。",
+"note": "類義語：shoes・footgear\n表現：athletic footwear（スポーツ用履物）"
+},
+{
+"id": "w1470",
+"pos": "名詞",
+"exampleJa": "そのブランドは新しいアクセサリーラインにも事業を拡大しました。",
+"note": "類義語：accessory collection・accessory range\n表現：launch an accessory line（アクセサリーラインを立ち上げる）"
+},
+{
+"id": "w1471",
+"pos": "名詞",
+"exampleJa": "彼女は化粧品カウンターで新しい口紅を試しました。",
+"note": "類義語：beauty counter・makeup counter\n表現：at the cosmetics counter（化粧品カウンターで）"
+},
+{
+"id": "w1472",
+"pos": "名詞",
+"exampleJa": "そのスキンケア製品は1週間以内に売り切れました。",
+"note": "類義語：skin-care product・beauty product\n表現：skincare product（スキンケア製品）"
+},
+{
+"id": "w1473",
+"pos": "名詞",
+"exampleJa": "その店ではさまざまなパーソナルケア用品を取り扱っています。",
+"note": "類義語：personal hygiene product・toiletry\n表現：personal care items（パーソナルケア用品）"
+},
+{
+"id": "w1474",
+"pos": "名詞",
+"exampleJa": "そのカタログにはさまざまな家庭用品が掲載されています。",
+"note": "類義語：household goods・domestic products\n表現：household items（家庭用品）"
+},
+{
+"id": "w1475",
+"pos": "名詞",
+"exampleJa": "その店では高品質なキッチン用品を販売しています。",
+"note": "類義語：kitchen equipment・kitchen utensils\n表現：high-quality kitchenware（高品質なキッチン用品）"
+},
+{
+"id": "w1476",
+"pos": "名詞",
+"exampleJa": "彼女は結婚祝いに調理器具セットをもらいました。",
+"note": "類義語：cookware collection・cooking set\n表現：a cookware set（調理器具セット）"
+},
+{
+"id": "w1477",
+"pos": "名詞",
+"exampleJa": "そのレストランでは特別なイベントに上品な食器を使用しています。",
+"note": "類義語：dishes・serving ware\n表現：elegant dinnerware（上品な食器）"
+},
+{
+"id": "w1478",
+"pos": "名詞",
+"exampleJa": "そのセットには6人分のカトラリーが含まれています。",
+"note": "類義語：flatware・silverware\n表現：a set of cutlery（カトラリー一式）"
+},
+{
+"id": "w1479",
+"pos": "名詞",
+"exampleJa": "そのホテルでは宴会に高級なテーブルウェアを使用しています。",
+"note": "類義語：table setting・dishes\n表現：fine tableware（高級な食器類）"
+},
+{
+"id": "w1480",
+"pos": "名詞",
+"exampleJa": "そのホテルではリネンを毎日交換しています。",
+"note": "類義語：linen fabric・household linen\n表現：change the linen（リネンを交換する）"
+},
+{
+"id": "w1481",
+"pos": "名詞",
+"exampleJa": "その店では今週、寝具セットを割引価格で提供しています。",
+"note": "類義語：bed linen set・bedding collection\n表現：bedding set（寝具セット）"
+},
+{
+"id": "w1482",
+"pos": "名詞",
+"exampleJa": "彼らは客室用に新しいマットレスを購入しました。",
+"note": "類義語：bed mattress・bed pad\n表現：buy a new mattress（新しいマットレスを買う）"
+},
+{
+"id": "w1483",
+"pos": "名詞",
+"exampleJa": "そのソファの張り地は昨年交換されました。",
+"note": "類義語：covering・upholstery fabric\n派生：upholster（家具に布を張る）\n表現：replace the upholstery（張り地を交換する）"
+},
+{
+"id": "w1484",
+"pos": "名詞",
+"exampleJa": "その店は手頃な価格のホームデコレーションを専門に扱っています。",
+"note": "類義語：home decoration・interior decor\n表現：home decor items（インテリア用品）"
+},
+{
+"id": "w1485",
+"pos": "名詞",
+"exampleJa": "彼女はリビングルームに新しい壁の装飾品を飾りました。",
+"note": "類義語：wall decoration・wall artwork\n表現：hang wall art（壁の装飾品を飾る）"
+},
+{
+"id": "w1486",
+"pos": "名詞",
+"exampleJa": "電気技師は新しい照明器具を取り付けました。",
+"note": "類義語：lighting fixture・light fitting\n表現：install a light fixture（照明器具を取り付ける）"
+},
+{
+"id": "w1487",
+"pos": "名詞",
+"exampleJa": "天井扇風機は夏に部屋を涼しく保ちます。",
+"note": "類義語：ceiling ventilator・ceiling fan\n表現：install a ceiling fan（天井扇風機を取り付ける）"
+},
+{
+"id": "w1488",
+"pos": "名詞",
+"exampleJa": "そのオフィスでは机の近くのコンセントが限られています。",
+"note": "類義語：electrical outlet・wall socket\n表現：power outlet（電源コンセント）"
+},
+{
+"id": "w1489",
+"pos": "名詞",
+"exampleJa": "彼はプリンターまで届かせるために延長コードを使いました。",
+"note": "類義語：extension cable・power cord\n表現：use an extension cord（延長コードを使う）"
+},
+{
+"id": "w1490",
+"pos": "名詞",
+"exampleJa": "電源タップを使えば、複数の機器を接続できます。",
+"note": "類義語：power board・multi-outlet\n表現：plug into a power strip（電源タップに差し込む）"
+},
+{
+"id": "w1491",
+"pos": "名詞",
+"exampleJa": "電子機器を保護するためにサージプロテクターを使用してください。",
+"note": "類義語：surge suppressor・voltage protector\n表現：use a surge protector（サージプロテクターを使う）"
+},
+{
+"id": "w1492",
+"pos": "名詞",
+"exampleJa": "その冷蔵庫には5年間の家電保証が付いています。",
+"note": "類義語：appliance coverage・equipment warranty\n表現：a five-year warranty（5年間の保証）"
+},
+{
+"id": "w1493",
+"pos": "名詞",
+"exampleJa": "その店は省エネ家電を積極的に販売しています。",
+"note": "類義語：energy-saving appliance・efficient appliance\n表現：energy-efficient appliances（省エネ家電）"
+},
+{
+"id": "w1494",
+"pos": "名詞",
+"exampleJa": "そのスマートホームデバイスは照明と温度を制御します。",
+"note": "類義語：smart device・connected home device\n表現：smart home device（スマートホームデバイス）"
+},
+{
+"id": "w1495",
+"pos": "名詞",
+"exampleJa": "そのホテルの設備には屋上プールがあります。",
+"note": "類義語：hotel facility・hotel feature\n表現：hotel amenities（ホテルの設備・サービス）"
+},
+{
+"id": "w1496",
+"pos": "名詞",
+"exampleJa": "彼女はルームサービスで朝食を注文しました。",
+"note": "類義語：in-room service・hotel dining service\n表現：order room service（ルームサービスを注文する）"
+},
+{
+"id": "w1497",
+"pos": "名詞",
+"exampleJa": "客室清掃スタッフは毎日部屋を掃除します。",
+"note": "類義語：hotel cleaning staff・housekeeping personnel\n表現：housekeeping staff（客室清掃スタッフ）"
+},
+{
+"id": "w1498",
+"pos": "名詞",
+"exampleJa": "フロント係が彼らのチェックイン手続きをしました。",
+"note": "類義語：receptionist・front desk employee\n表現：front desk clerk（フロント係）"
+},
+{
+"id": "w1499",
+"pos": "名詞",
+"exampleJa": "そのホテルは宿泊客の満足度を綿密に監視しています。",
+"note": "類義語：guest contentment・customer satisfaction\n表現：guest satisfaction survey（宿泊客満足度調査）"
+},
+{
+"id": "w1500",
+"pos": "名詞",
+"exampleJa": "その会社は世界中で大規模なホテルチェーンを運営しています。",
+"note": "類義語：hotel group・hotel network\n表現：operate a hotel chain（ホテルチェーンを運営する）"
+}
+]

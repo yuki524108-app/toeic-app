@@ -1,0 +1,1204 @@
+[
+{
+"id": "w401",
+"pos": "名詞句",
+"exampleJa": "適切な時間管理は締め切りを守るのに役立ちます。",
+"note": "類義語：time planning, scheduling\n表現：meet deadlines（締め切りを守る）"
+},
+{
+"id": "w402",
+"pos": "動詞",
+"exampleJa": "彼は書類作業を先延ばしにする傾向があります。",
+"note": "類義語：delay, postpone\n表現：procrastinate on ~（～を先延ばしにする）"
+},
+{
+"id": "w403",
+"pos": "名詞",
+"exampleJa": "最終成果物の提出期限は月末です。",
+"note": "類義語：output, product\n表現：final deliverable（最終成果物）"
+},
+{
+"id": "w404",
+"pos": "名詞句",
+"exampleJa": "合併について話し合うため、利害関係者会議が開かれました。",
+"note": "表現：stakeholder meeting（利害関係者会議）\nstakeholder（利害関係者）"
+},
+{
+"id": "w405",
+"pos": "名詞句",
+"exampleJa": "各実行項目はチームメンバーに割り当てられました。",
+"note": "類義語：task, assignment\n表現：action item（実行項目）"
+},
+{
+"id": "w406",
+"pos": "名詞",
+"exampleJa": "会議後にフォローアップのメールが送られました。",
+"note": "類義語：follow-up communication, response\n表現：follow-up email（フォローアップメール）"
+},
+{
+"id": "w407",
+"pos": "熟語",
+"exampleJa": "来週また連絡を取りましょう。",
+"note": "類義語：contact, communicate\n表現：touch base with ~（～と連絡を取る）"
+},
+{
+"id": "w408",
+"pos": "熟語",
+"exampleJa": "この問題については明日改めて話しましょう。",
+"note": "類義語：return to, revisit\n表現：circle back on ~（～について後で改めて話す）"
+},
+{
+"id": "w409",
+"pos": "熟語",
+"exampleJa": "委員会はその議題をひとまず保留にすることを決めました。",
+"note": "類義語：postpone, defer\n表現：table an item（議題を保留にする）"
+},
+{
+"id": "w410",
+"pos": "名詞句",
+"exampleJa": "関連するセクションを目次で確認してください。",
+"note": "類義語：contents, index\n表現：table of contents（目次）"
+},
+{
+"id": "w411",
+"pos": "名詞",
+"exampleJa": "追加データは付録にあります。",
+"note": "類義語：supplement, attachment\n表現：in the appendix（付録に）"
+},
+{
+"id": "w412",
+"pos": "名詞",
+"exampleJa": "出典は脚注に記載されています。",
+"note": "類義語：annotation, note\n表現：footnote reference（脚注の参照）"
+},
+{
+"id": "w413",
+"pos": "名詞",
+"exampleJa": "新しいオフィスは別館にあります。",
+"note": "類義語：extension, attachment\n表現：annex building（別館）"
+},
+{
+"id": "w414",
+"pos": "名詞",
+"exampleJa": "その建物の正面は昨年改修されました。",
+"note": "類義語：front, exterior\n表現：building facade（建物の正面）"
+},
+{
+"id": "w415",
+"pos": "名詞",
+"exampleJa": "訪問者はロビーで待つようにしてください。",
+"note": "類義語：entrance hall, reception area\n表現：hotel lobby（ホテルのロビー）"
+},
+{
+"id": "w416",
+"pos": "名詞",
+"exampleJa": "客は玄関ホールで出迎えられました。",
+"note": "類義語：entrance hall, reception area\n表現：building foyer（建物の玄関ホール）"
+},
+{
+"id": "w417",
+"pos": "名詞",
+"exampleJa": "エレベーターで5階まで行ってください。",
+"note": "類義語：lift, passenger lift\n表現：take the elevator（エレベーターに乗る）"
+},
+{
+"id": "w418",
+"pos": "名詞",
+"exampleJa": "そのエスカレーターは修理のため使用できませんでした。",
+"note": "類義語：moving staircase, escalator lift\n表現：out of service（使用停止中）"
+},
+{
+"id": "w419",
+"pos": "名詞句",
+"exampleJa": "従業員は駐車場を利用するために駐車許可証が必要です。",
+"note": "類義語：parking authorization, parking pass\n表現：parking permit（駐車許可証）"
+},
+{
+"id": "w420",
+"pos": "名詞句",
+"exampleJa": "セキュリティ許可を持つ職員だけがこの区域に入れます。",
+"note": "類義語：security authorization, clearance\n表現：security clearance（セキュリティ許可）"
+},
+{
+"id": "w421",
+"pos": "名詞句",
+"exampleJa": "サーバールームにはバッジによる入退室管理が必要です。",
+"note": "類義語：access control, badge entry\n表現：badge access（バッジによる入退室管理）"
+},
+{
+"id": "w422",
+"pos": "名詞句",
+"exampleJa": "駐車場に監視カメラが設置されました。",
+"note": "類義語：security camera, CCTV camera\n表現：surveillance camera（監視カメラ）"
+},
+{
+"id": "w423",
+"pos": "名詞句",
+"exampleJa": "防火訓練は年に2回実施されます。",
+"note": "類義語：fire exercise, emergency drill\n表現：conduct a fire drill（防火訓練を実施する）"
+},
+{
+"id": "w424",
+"pos": "名詞句",
+"exampleJa": "非常口は階段室の近くにあります。",
+"note": "類義語：emergency door, escape exit\n表現：emergency exit（非常口）"
+},
+{
+"id": "w425",
+"pos": "名詞句",
+"exampleJa": "各階に救急箱が備えられています。",
+"note": "類義語：medical kit, first-aid box\n表現：first aid kit（救急箱）"
+},
+{
+"id": "w426",
+"pos": "名詞句",
+"exampleJa": "反復性の筋骨格系障害はタイピストにとって職業上の危険です。",
+"note": "類義語：workplace risk, job hazard\n表現：occupational hazard（職業上の危険）"
+},
+{
+"id": "w427",
+"pos": "名詞句",
+"exampleJa": "作業員は現場で防護具を着用しなければなりません。",
+"note": "類義語：protective equipment, safety equipment\n表現：wear protective gear（防護具を着用する）"
+},
+{
+"id": "w428",
+"pos": "名詞句",
+"exampleJa": "すべての請負業者は安全規則に従わなければなりません。",
+"note": "類義語：safety rule, safety standard\n表現：follow safety regulations（安全規則に従う）"
+},
+{
+"id": "w429",
+"pos": "名詞句",
+"exampleJa": "現場検査は来週の火曜日に予定されています。",
+"note": "類義語：site check, inspection\n表現：conduct a site inspection（現場検査を実施する）"
+},
+{
+"id": "w430",
+"pos": "名詞",
+"exampleJa": "修理のため、建物の周囲に足場が組まれました。",
+"note": "類義語：framework, temporary structure\n表現：set up scaffolding（足場を組む）"
+},
+{
+"id": "w431",
+"pos": "名詞",
+"exampleJa": "古い倉庫の解体は来週始まります。",
+"note": "類義語：demolition work, destruction\n表現：demolition of ~（～の解体）"
+},
+{
+"id": "w432",
+"pos": "名詞句",
+"exampleJa": "改修プロジェクトは6月までに完了する見込みです。",
+"note": "類義語：renovation plan, refurbishment project\n表現：renovation project（改修プロジェクト）"
+},
+{
+"id": "w433",
+"pos": "名詞句",
+"exampleJa": "建築家は新しい間取り図を提示しました。",
+"note": "類義語：layout, building plan\n表現：floor plan（間取り図）"
+},
+{
+"id": "w434",
+"pos": "名詞句",
+"exampleJa": "その会社は複数の商業用不動産に投資しました。",
+"note": "類義語：business property, commercial real estate\n表現：commercial property（商業用不動産）"
+},
+{
+"id": "w435",
+"pos": "名詞句",
+"exampleJa": "新しい店舗は住宅地に開店する予定です。",
+"note": "類義語：housing area, neighborhood\n表現：residential area（住宅地）"
+},
+{
+"id": "w436",
+"pos": "名詞句",
+"exampleJa": "その不動産の査定価値は今年上昇しました。",
+"note": "類義語：assessed value, estimated value\n表現：appraisal value（査定価値）"
+},
+{
+"id": "w437",
+"pos": "名詞句",
+"exampleJa": "20パーセントの頭金が必要です。",
+"note": "類義語：initial payment, deposit\n表現：make a down payment（頭金を支払う）"
+},
+{
+"id": "w438",
+"pos": "名詞句",
+"exampleJa": "決済費用には通常、法務費用や検査費用が含まれます。",
+"note": "類義語：closing expenses, transaction costs\n表現：closing costs（決済費用）"
+},
+{
+"id": "w439",
+"pos": "名詞句",
+"exampleJa": "権利証書はその不動産の所有権を証明します。",
+"note": "類義語：deed, ownership document\n表現：title deed（権利証書）"
+},
+{
+"id": "w440",
+"pos": "名詞",
+"exampleJa": "取引が完了するまで、資金はエスクローに預けられます。",
+"note": "類義語：trust account, third-party holding\n表現：hold funds in escrow（資金をエスクローに預ける）"
+},
+{
+"id": "w441",
+"pos": "名詞句",
+"exampleJa": "買い手は決済前に査定料を支払いました。",
+"note": "類義語：valuation fee, assessment fee\n表現：appraisal fee（査定料）"
+},
+{
+"id": "w442",
+"pos": "名詞",
+"exampleJa": "ローンの分割償還スケジュールは20年間に及びます。",
+"note": "類義語：repayment, loan repayment\n表現：amortization schedule（償還スケジュール）"
+},
+{
+"id": "w443",
+"pos": "名詞",
+"exampleJa": "その不動産はローンの担保として使われています。",
+"note": "類義語：security, guarantee\n表現：serve as collateral（担保として機能する）"
+},
+{
+"id": "w444",
+"pos": "熟語",
+"exampleJa": "その会社はローンの返済を滞らせました。",
+"note": "類義語：fail to repay, fall behind\n表現：default on a loan（ローンを返済不履行にする）"
+},
+{
+"id": "w445",
+"pos": "名詞句",
+"exampleJa": "高い信用スコアがあると、より低い金利を確保しやすくなります。",
+"note": "類義語：credit rating, creditworthiness\n表現：high credit score（高い信用スコア）"
+},
+{
+"id": "w446",
+"pos": "名詞句",
+"exampleJa": "法人カードの与信限度額が引き上げられました。",
+"note": "類義語：credit ceiling, spending limit\n表現：credit limit（与信限度額）"
+},
+{
+"id": "w447",
+"pos": "名詞",
+"exampleJa": "その口座は先月、当座貸越の状態になりました。",
+"note": "類義語：overdrawn account, overdrawing\n表現：go into overdraft（当座貸越になる）"
+},
+{
+"id": "w448",
+"pos": "名詞句",
+"exampleJa": "支払いは電信送金で送られました。",
+"note": "類義語：bank transfer, electronic transfer\n表現：wire transfer（電信送金）"
+},
+{
+"id": "w449",
+"pos": "名詞句",
+"exampleJa": "為替レートは一週間を通して変動しました。",
+"note": "類義語：currency rate, exchange value\n表現：exchange rate（為替レート）"
+},
+{
+"id": "w450",
+"pos": "動詞・名詞",
+"exampleJa": "その会社は価格変動のリスクを回避するために先物契約を利用しました。",
+"note": "類義語：protect, offset\n表現：hedge against ~（～に対するリスクをヘッジする）"
+},
+{
+"id": "w451",
+"pos": "名詞句",
+"exampleJa": "その会社は価格を固定するために先物契約を締結しました。",
+"note": "類義語：futures agreement, forward contract\n表現：futures contract（先物契約）"
+},
+{
+"id": "w452",
+"pos": "名詞",
+"exampleJa": "市場での投機が価格を押し上げました。",
+"note": "類義語：risk-taking, betting\n表現：market speculation（市場での投機）"
+},
+{
+"id": "w453",
+"pos": "名詞",
+"exampleJa": "不確実性の中で株式市場の変動性が高まりました。",
+"note": "類義語：instability, fluctuation\n表現：market volatility（市場の変動性）"
+},
+{
+"id": "w454",
+"pos": "名詞句",
+"exampleJa": "強気相場では投資家は楽観的になります。",
+"note": "類義語：rising market, upward market\n表現：bull market（強気相場）"
+},
+{
+"id": "w455",
+"pos": "名詞句",
+"exampleJa": "弱気相場によって多くの投資家が株を売ることになりました。",
+"note": "類義語：falling market, declining market\n表現：bear market（弱気相場）"
+},
+{
+"id": "w456",
+"pos": "名詞句",
+"exampleJa": "彼女は主に低コストのインデックスファンドに投資しています。",
+"note": "類義語：passive fund, market-tracking fund\n表現：index fund（インデックスファンド）"
+},
+{
+"id": "w457",
+"pos": "名詞句",
+"exampleJa": "彼は複数の投資信託に貯蓄を分散させました。",
+"note": "類義語：investment fund, managed fund\n表現：mutual fund（投資信託）"
+},
+{
+"id": "w458",
+"pos": "名詞",
+"exampleJa": "その仲介業者は建物の売却交渉を手助けしました。",
+"note": "類義語：agent, intermediary\n表現：real estate broker（不動産仲介業者）"
+},
+{
+"id": "w459",
+"pos": "名詞",
+"exampleJa": "鑑定人がそのアンティーク家具の価値を査定しました。",
+"note": "類義語：valuator, assessor\n表現：appraise the value（価値を査定する）"
+},
+{
+"id": "w460",
+"pos": "名詞",
+"exampleJa": "その書類は公証人の面前で署名されなければなりません。",
+"note": "類義語：certifying officer, public notary\n表現：in front of a notary（公証人の面前で）"
+},
+{
+"id": "w461",
+"pos": "名詞句",
+"exampleJa": "彼女は弁護士に委任状を与えました。",
+"note": "類義語：authorization, legal authority\n表現：grant power of attorney（委任状を与える）"
+},
+{
+"id": "w462",
+"pos": "名詞句",
+"exampleJa": "その会社は契約に署名する前に法律顧問に相談しました。",
+"note": "類義語：legal adviser, attorney\n表現：consult legal counsel（法律顧問に相談する）"
+},
+{
+"id": "w463",
+"pos": "名詞",
+"exampleJa": "原告はその会社を相手取って訴訟を起こしました。",
+"note": "類義語：claimant, complainant\n表現：file a lawsuit（訴訟を起こす）"
+},
+{
+"id": "w464",
+"pos": "名詞",
+"exampleJa": "被告はすべての申し立てを否定しました。",
+"note": "類義語：accused, respondent\n表現：deny the allegations（申し立てを否定する）"
+},
+{
+"id": "w465",
+"pos": "名詞",
+"exampleJa": "両当事者は法廷外で和解に達しました。",
+"note": "類義語：agreement, compromise\n表現：reach a settlement（和解に達する）"
+},
+{
+"id": "w466",
+"pos": "名詞",
+"exampleJa": "その証人は裁判中に証言をしました。",
+"note": "類義語：evidence, statement\n表現：give testimony（証言する）"
+},
+{
+"id": "w467",
+"pos": "名詞",
+"exampleJa": "彼女は事実を確認する宣誓供述書に署名しました。",
+"note": "類義語：sworn statement, declaration\n表現：sign an affidavit（宣誓供述書に署名する）"
+},
+{
+"id": "w468",
+"pos": "名詞",
+"exampleJa": "その会社は書類を提出するよう求める召喚状を受け取りました。",
+"note": "類義語：summons, court order\n表現：receive a subpoena（召喚状を受け取る）"
+},
+{
+"id": "w469",
+"pos": "名詞",
+"exampleJa": "その契約には補償条項が含まれています。",
+"note": "類義語：compensation, reimbursement\n表現：indemnity clause（補償条項）"
+},
+{
+"id": "w470",
+"pos": "名詞",
+"exampleJa": "その訴訟では請負業者側の過失が主張されました。",
+"note": "類義語：carelessness, fault\n表現：allege negligence（過失を主張する）"
+},
+{
+"id": "w471",
+"pos": "名詞句",
+"exampleJa": "買収を行う前にはデューデリジェンスが必要です。",
+"note": "類義語：investigation, examination\n表現：conduct due diligence（デューデリジェンスを行う）"
+},
+{
+"id": "w472",
+"pos": "名詞句",
+"exampleJa": "すべての従業員は秘密保持契約に署名しなければなりません。",
+"note": "類義語：confidentiality agreement, secrecy agreement\n表現：sign an NDA（秘密保持契約に署名する）"
+},
+{
+"id": "w473",
+"pos": "名詞句",
+"exampleJa": "登録する前に利用規約を読んでください。",
+"note": "類義語：conditions, provisions\n表現：terms and conditions（利用規約）"
+},
+{
+"id": "w474",
+"pos": "名詞句",
+"exampleJa": "契約に署名する前に、必ず細かな注意事項を読んでください。",
+"note": "類義語：small print, detailed conditions\n表現：read the fine print（細かな注意事項を読む）"
+},
+{
+"id": "w475",
+"pos": "名詞句",
+"exampleJa": "支払いの遅延には10日間の猶予期間があります。",
+"note": "類義語：grace period, extension\n表現：payment grace period（支払い猶予期間）"
+},
+{
+"id": "w476",
+"pos": "名詞句",
+"exampleJa": "その契約には納品遅延に対する違約条項が含まれています。",
+"note": "類義語：penalty provision, punitive clause\n表現：penalty clause（違約条項）"
+},
+{
+"id": "w477",
+"pos": "名詞",
+"exampleJa": "その遅延は不可抗力条項によって免責されました。",
+"note": "類義語：act of God, unforeseeable event\n表現：force majeure clause（不可抗力条項）"
+},
+{
+"id": "w478",
+"pos": "名詞",
+"exampleJa": "賃貸借契約の更新は30日前までに提出しなければなりません。",
+"note": "類義語：extension, continuation\n表現：lease renewal（賃貸借契約の更新）"
+},
+{
+"id": "w479",
+"pos": "名詞",
+"exampleJa": "契約の満了日は来年12月です。",
+"note": "類義語：expiry, termination\n表現：expiration date（満了日、失効日）"
+},
+{
+"id": "w480",
+"pos": "熟語",
+"exampleJa": "両当事者は契約条件を修正することに合意しました。",
+"note": "類義語：modify, revise\n表現：amend a contract（契約を修正する）"
+},
+{
+"id": "w481",
+"pos": "名詞句",
+"exampleJa": "提案書の草案は来週、取締役会によって審査されます。",
+"note": "類義語：preliminary proposal, proposal draft\n表現：draft proposal（提案書の草案）"
+},
+{
+"id": "w482",
+"pos": "名詞・動詞",
+"exampleJa": "その建設会社は最低額の入札を提出しました。",
+"note": "類義語：offer, tender\n表現：submit a bid（入札を提出する）"
+},
+{
+"id": "w483",
+"pos": "名詞・動詞",
+"exampleJa": "政府は新しい高速道路プロジェクトの入札を募集しました。",
+"note": "類義語：bid, offer\n表現：issue a tender（入札を募集する）"
+},
+{
+"id": "w484",
+"pos": "名詞",
+"exampleJa": "元請け業者は複数の下請け業者を雇いました。",
+"note": "類義語：contractor, secondary contractor\n表現：hire a subcontractor（下請け業者を雇う）"
+},
+{
+"id": "w485",
+"pos": "名詞句",
+"exampleJa": "修理の作業指示書が発行されました。",
+"note": "類義語：job order, service order\n表現：issue a work order（作業指示書を発行する）"
+},
+{
+"id": "w486",
+"pos": "名詞句",
+"exampleJa": "発送前に発注書を送ってください。",
+"note": "類義語：order form, purchase request\n表現：purchase order（発注書）"
+},
+{
+"id": "w487",
+"pos": "名詞句",
+"exampleJa": "支払条件は契約に署名する前に交渉されました。",
+"note": "類義語：payment conditions, payment terms\n表現：terms of payment（支払条件）"
+},
+{
+"id": "w488",
+"pos": "名詞句",
+"exampleJa": "請求書の支払条件は30日以内です。",
+"note": "類義語：30-day terms, payment terms\n表現：net 30 days（30日以内払い）"
+},
+{
+"id": "w489",
+"pos": "名詞",
+"exampleJa": "支払期限を過ぎた請求書には延滞料がかかります。",
+"note": "類義語：late charge, overdue fee\n表現：charge a late fee（延滞料を課す）"
+},
+{
+"id": "w490",
+"pos": "名詞句",
+"exampleJa": "その店は大量購入に対して割引率を提示しました。",
+"note": "類義語：discount percentage, reduction rate\n表現：discount rate（割引率）"
+},
+{
+"id": "w491",
+"pos": "名詞",
+"exampleJa": "その小売業者は卸売価格に標準的な上乗せ価格を加えています。",
+"note": "類義語：profit margin, surcharge\n表現：apply a markup（上乗せ価格を設定する）"
+},
+{
+"id": "w492",
+"pos": "名詞句",
+"exampleJa": "その会社は1年以内に損益分岐点に達しました。",
+"note": "類義語：break-even level, no-profit-no-loss point\n表現：reach the break-even point（損益分岐点に達する）"
+},
+{
+"id": "w493",
+"pos": "名詞句",
+"exampleJa": "生産コストの低下により売上総利益率が改善しました。",
+"note": "類義語：gross profit margin, profit margin\n表現：gross margin（売上総利益率）"
+},
+{
+"id": "w494",
+"pos": "名詞・動詞",
+"exampleJa": "その店は過剰在庫の商品を処分するためにセールを開催しました。",
+"note": "類義語：excess inventory, surplus stock\n表現：clear overstock（過剰在庫を処分する）"
+},
+{
+"id": "w495",
+"pos": "名詞",
+"exampleJa": "人気商品の在庫不足により売上が失われました。",
+"note": "類義語：insufficient stock, shortage\n表現：understock popular items（人気商品を在庫不足にする）"
+},
+{
+"id": "w496",
+"pos": "形容詞・名詞",
+"exampleJa": "その工場はジャストインタイムの在庫システムを使用しています。",
+"note": "類義語：just-in-time production, JIT\n表現：just-in-time inventory（ジャストインタイム在庫）"
+},
+{
+"id": "w497",
+"pos": "名詞句",
+"exampleJa": "主任監査人は経営陣に調査結果を報告しました。",
+"note": "類義語：chief auditor, principal auditor\n表現：lead auditor（主任監査人）"
+},
+{
+"id": "w498",
+"pos": "名詞句",
+"exampleJa": "内部監査によっていくつかの会計上の誤りが明らかになりました。",
+"note": "類義語：in-house audit, internal review\n表現：conduct an internal audit（内部監査を行う）"
+},
+{
+"id": "w499",
+"pos": "名詞句",
+"exampleJa": "外部監査によって、その会社の財務状況が健全であることが確認されました。",
+"note": "類義語：independent audit, outside audit\n表現：external audit（外部監査）"
+},
+{
+"id": "w500",
+"pos": "名詞句",
+"exampleJa": "その会社は規制遵守に多額の投資を行いました。",
+"note": "類義語：regulatory adherence, compliance\n表現：regulatory compliance（規制遵守）"
+}
+]
+[
+{
+"id": "w501",
+"pos": "名詞",
+"exampleJa": "3か月ごとにパスワードを変更してください。",
+"note": "類義語：passcode, access code\n表現：change a password（パスワードを変更する）"
+},
+{
+"id": "w502",
+"pos": "名詞・動詞",
+"exampleJa": "従業員IDを使ってシステムにログインしてください。",
+"note": "類義語：sign-in, access\n表現：log in to ~（～にログインする）"
+},
+{
+"id": "w503",
+"pos": "名詞",
+"exampleJa": "続行するにはユーザー名とパスワードを入力してください。",
+"note": "類義語：user ID, account name\n表現：enter a username（ユーザー名を入力する）"
+},
+{
+"id": "w504",
+"pos": "名詞句",
+"exampleJa": "そのチームは書類のためにファイル共有プラットフォームを利用しています。",
+"note": "類義語：file exchange, file distribution\n表現：file sharing platform（ファイル共有プラットフォーム）"
+},
+{
+"id": "w505",
+"pos": "名詞句",
+"exampleJa": "その会社はデータをクラウドコンピューティングサービスに移行しました。",
+"note": "類義語：cloud services, cloud technology\n表現：cloud computing services（クラウドコンピューティングサービス）"
+},
+{
+"id": "w506",
+"pos": "名詞句",
+"exampleJa": "オンライン会議はビデオ会議ソフトウェアを使って行われました。",
+"note": "類義語：online meeting, remote meeting\n表現：hold a virtual meeting（オンライン会議を行う）"
+},
+{
+"id": "w507",
+"pos": "名詞句",
+"exampleJa": "彼はソフトウェアを実演するために画面共有を使いました。",
+"note": "類義語：screen casting, desktop sharing\n表現：screen sharing（画面共有）"
+},
+{
+"id": "w508",
+"pos": "名詞",
+"exampleJa": "完全な文書を見るにはハイパーリンクをクリックしてください。",
+"note": "類義語：link, web link\n表現：click a hyperlink（ハイパーリンクをクリックする）"
+},
+{
+"id": "w509",
+"pos": "名詞",
+"exampleJa": "売上ダッシュボードはリアルタイムで更新されます。",
+"note": "類義語：control panel, interface\n表現：sales dashboard（売上ダッシュボード）"
+},
+{
+"id": "w510",
+"pos": "名詞",
+"exampleJa": "ホームページ上のウィジェットをカスタマイズできます。",
+"note": "類義語：tool, application\n表現：customize widgets（ウィジェットをカスタマイズする）"
+},
+{
+"id": "w511",
+"pos": "名詞",
+"exampleJa": "追加機能を有効にするにはプラグインをインストールしてください。",
+"note": "類義語：add-on, extension\n表現：install a plugin（プラグインをインストールする）"
+},
+{
+"id": "w512",
+"pos": "名詞",
+"exampleJa": "最適な環境で利用するにはブラウザを更新してください。",
+"note": "類義語：web browser, web client\n表現：update a browser（ブラウザを更新する）"
+},
+{
+"id": "w513",
+"pos": "名詞句",
+"exampleJa": "そのコンピューターには最新のオペレーティングシステムが搭載されています。",
+"note": "類義語：OS, system software\n表現：operating system（オペレーティングシステム）"
+},
+{
+"id": "w514",
+"pos": "名詞句",
+"exampleJa": "ハードドライブは故障した後に交換されました。",
+"note": "類義語：hard disk, storage drive\n表現：replace a hard drive（ハードドライブを交換する）"
+},
+{
+"id": "w515",
+"pos": "名詞句",
+"exampleJa": "プリンターやスキャナーは一般的な周辺機器です。",
+"note": "類義語：computer accessory, external device\n表現：peripheral device（周辺機器）"
+},
+{
+"id": "w516",
+"pos": "名詞句",
+"exampleJa": "ノートパソコンを無線ネットワークに接続してください。",
+"note": "類義語：Wi-Fi network, wireless system\n表現：connect to a wireless network（無線ネットワークに接続する）"
+},
+{
+"id": "w517",
+"pos": "名詞",
+"exampleJa": "ルーターは時々再起動する必要があります。",
+"note": "類義語：network router, gateway\n表現：restart a router（ルーターを再起動する）"
+},
+{
+"id": "w518",
+"pos": "名詞句",
+"exampleJa": "技術的な問題がある場合はITサポートに連絡してください。",
+"note": "類義語：technical support, tech support\n表現：contact IT support（ITサポートに連絡する）"
+},
+{
+"id": "w519",
+"pos": "名詞句",
+"exampleJa": "ヘルプデスクは1時間以内に問題を解決しました。",
+"note": "類義語：support desk, service desk\n表現：contact the help desk（ヘルプデスクに連絡する）"
+},
+{
+"id": "w520",
+"pos": "名詞句",
+"exampleJa": "チケット管理システムを通じて依頼を提出してください。",
+"note": "類義語：support system, request system\n表現：ticketing system（チケット管理システム）"
+},
+{
+"id": "w521",
+"pos": "名詞句",
+"exampleJa": "設定方法については取扱説明書を参照してください。",
+"note": "類義語：manual, instruction guide\n表現：refer to the user manual（取扱説明書を参照する）"
+},
+{
+"id": "w522",
+"pos": "名詞",
+"exampleJa": "インストールには約10分かかります。",
+"note": "類義語：setup, implementation\n表現：installation process（インストール手順）"
+},
+{
+"id": "w523",
+"pos": "名詞",
+"exampleJa": "アプリを起動する前に設定を確認してください。",
+"note": "類義語：setup, arrangement\n表現：configuration settings（設定）"
+},
+{
+"id": "w524",
+"pos": "名詞句",
+"exampleJa": "いつでも初期設定に戻すことができます。",
+"note": "類義語：initial setting, standard setting\n表現：restore default settings（初期設定に戻す）"
+},
+{
+"id": "w525",
+"pos": "名詞",
+"exampleJa": "そのソフトウェアでは幅広いカスタマイズが可能です。",
+"note": "類義語：personalization, modification\n表現：extensive customization（幅広いカスタマイズ）"
+},
+{
+"id": "w526",
+"pos": "名詞句",
+"exampleJa": "そのチームはコードの変更を追跡するためにバージョン管理を利用しています。",
+"note": "類義語：source control, revision control\n表現：version control system（バージョン管理システム）"
+},
+{
+"id": "w527",
+"pos": "名詞句",
+"exampleJa": "すべてのプルリクエストはコードレビューを受けます。",
+"note": "類義語：code inspection, peer review\n表現：conduct a code review（コードレビューを行う）"
+},
+{
+"id": "w528",
+"pos": "名詞",
+"exampleJa": "そのソフトウェアのデバッグには予想以上に時間がかかりました。",
+"note": "類義語：troubleshooting, error correction\n表現：debug software（ソフトウェアをデバッグする）"
+},
+{
+"id": "w529",
+"pos": "名詞句",
+"exampleJa": "そのアプリは現在ベータテスト中です。",
+"note": "類義語：trial testing, user testing\n表現：beta testing（ベータテスト）"
+},
+{
+"id": "w530",
+"pos": "名詞句",
+"exampleJa": "ユーザーからの意見が次回のアップデートの方向性を決めるのに役立ちました。",
+"note": "類義語：customer feedback, user input\n表現：collect user feedback（ユーザーからの意見を集める）"
+},
+{
+"id": "w531",
+"pos": "名詞句",
+"exampleJa": "新機能についてはリリースノートを確認してください。",
+"note": "類義語：release information, update notes\n表現：check the release notes（リリースノートを確認する）"
+},
+{
+"id": "w532",
+"pos": "名詞句",
+"exampleJa": "期限が切れる前にソフトウェアライセンスを更新してください。",
+"note": "類義語：software authorization, license\n表現：renew a software license（ソフトウェアライセンスを更新する）"
+},
+{
+"id": "w533",
+"pos": "名詞句",
+"exampleJa": "そのインターンはデータ入力作業の大部分を担当しています。",
+"note": "類義語：data input, information entry\n表現：data entry tasks（データ入力作業）"
+},
+{
+"id": "w534",
+"pos": "名詞句",
+"exampleJa": "データ可視化ツールを使うと、傾向を見つけやすくなります。",
+"note": "類義語：data presentation, visual analytics\n表現：data visualization tools（データ可視化ツール）"
+},
+{
+"id": "w535",
+"pos": "名詞",
+"exampleJa": "そのチームはいくつかの業績指標を追跡しています。",
+"note": "類義語：indicator, measure\n表現：performance metric（業績指標）"
+},
+{
+"id": "w536",
+"pos": "名詞句",
+"exampleJa": "売上成長率はそのチームにとって重要業績評価指標です。",
+"note": "類義語：performance indicator, success metric\n表現：key performance indicator（重要業績評価指標）"
+},
+{
+"id": "w537",
+"pos": "名詞句",
+"exampleJa": "ダッシュボードレポートは毎朝更新されます。",
+"note": "類義語：dashboard summary, performance report\n表現：dashboard report（ダッシュボードレポート）"
+},
+{
+"id": "w538",
+"pos": "名詞句",
+"exampleJa": "彼女は合計を自動的に計算する表計算の数式を作成しました。",
+"note": "類義語：spreadsheet function, formula\n表現：spreadsheet formula（表計算の数式）"
+},
+{
+"id": "w539",
+"pos": "名詞句",
+"exampleJa": "ピボットテーブルは四半期の売上データを要約します。",
+"note": "類義語：summary table, cross-tabulation\n表現：create a pivot table（ピボットテーブルを作成する）"
+},
+{
+"id": "w540",
+"pos": "名詞",
+"exampleJa": "彼はレポートを自動化するためのマクロを作成しました。",
+"note": "類義語：automation script, routine\n表現：create a macro（マクロを作成する）"
+},
+{
+"id": "w541",
+"pos": "名詞句",
+"exampleJa": "数式内のセル参照を再確認してください。",
+"note": "類義語：cell address, reference\n表現：cell reference（セル参照）"
+},
+{
+"id": "w542",
+"pos": "名詞句",
+"exampleJa": "条件付き書式は目標値を超える値を強調表示します。",
+"note": "類義語：rule-based formatting, conditional styling\n表現：conditional formatting（条件付き書式）"
+},
+{
+"id": "w543",
+"pos": "名詞・動詞",
+"exampleJa": "フィルターを使って地域別にデータを並べ替えてください。",
+"note": "類義語：screen, sieve\n表現：apply a filter（フィルターを適用する）"
+},
+{
+"id": "w544",
+"pos": "名詞句",
+"exampleJa": "最も高い値を最初に表示するように並べ替え順を変更してください。",
+"note": "類義語：sorting sequence, ordering\n表現：change the sort order（並べ替え順を変更する）"
+},
+{
+"id": "w545",
+"pos": "動詞句",
+"exampleJa": "データをCSVファイルに書き出すことができます。",
+"note": "類義語：download data, output data\n表現：export data to ~（データを～に書き出す）"
+},
+{
+"id": "w546",
+"pos": "動詞句",
+"exampleJa": "以前のシステムから新しいシステムにデータを取り込んでください。",
+"note": "類義語：load data, transfer data\n表現：import data into ~（データを～に取り込む）"
+},
+{
+"id": "w547",
+"pos": "動詞",
+"exampleJa": "そのアプリはすべての端末間で自動的に同期します。",
+"note": "類義語：synchronize, coordinate\n表現：sync across devices（端末間で同期する）"
+},
+{
+"id": "w548",
+"pos": "名詞",
+"exampleJa": "最新情報を受け取るには通知をオンにしてください。",
+"note": "類義語：alert, message\n表現：turn on notifications（通知をオンにする）"
+},
+{
+"id": "w549",
+"pos": "名詞句",
+"exampleJa": "そのアプリは新しいメッセージが届くとプッシュ通知を送ります。",
+"note": "類義語：mobile alert, app notification\n表現：send a push notification（プッシュ通知を送る）"
+},
+{
+"id": "w550",
+"pos": "名詞句",
+"exampleJa": "そのゲームでは複数のアプリ内課金を利用できます。",
+"note": "類義語：in-app payment, mobile purchase\n表現：make an in-app purchase（アプリ内課金を利用する）"
+},
+{
+"id": "w551",
+"pos": "名詞",
+"exampleJa": "メイン料理の前に、みんなで分ける前菜を注文しました。",
+"note": "類義語：starter, hors d'oeuvre\n表現：order an appetizer（前菜を注文する）"
+},
+{
+"id": "w552",
+"pos": "名詞",
+"exampleJa": "メインディッシュには野菜の付け合わせが添えられていました。",
+"note": "類義語：main course, main dish\n表現：serve an entrée（メインディッシュを出す）"
+},
+{
+"id": "w553",
+"pos": "名詞",
+"exampleJa": "そのレストランはフランス料理を専門としています。",
+"note": "類義語：food, cooking style\n表現：French cuisine（フランス料理）"
+},
+{
+"id": "w554",
+"pos": "名詞句",
+"exampleJa": "予約受付でテーブルを確認してください。",
+"note": "類義語：reservation counter, booking desk\n表現：reservation desk（予約受付）"
+},
+{
+"id": "w555",
+"pos": "名詞",
+"exampleJa": "レストランの支配人が窓際のテーブルに案内してくれました。",
+"note": "類義語：restaurant manager, head waiter\n表現：maître d'（レストランの支配人）"
+},
+{
+"id": "w556",
+"pos": "名詞句",
+"exampleJa": "シェフはそのイベントのために特別な試食メニューを用意しました。",
+"note": "類義語：tasting course, sample menu\n表現：tasting menu（試食メニュー）"
+},
+{
+"id": "w557",
+"pos": "名詞句",
+"exampleJa": "食事制限がある場合は、事前にお知らせください。",
+"note": "類義語：dietary limitation, food restriction\n表現：dietary restrictions（食事制限）"
+},
+{
+"id": "w558",
+"pos": "名詞",
+"exampleJa": "請求書には15パーセントのチップが含まれています。",
+"note": "類義語：tip, gratuity payment\n表現：include gratuity（チップを含める）"
+},
+{
+"id": "w559",
+"pos": "名詞句",
+"exampleJa": "自分のワインを持ち込む場合は持ち込み料がかかります。",
+"note": "類義語：cork fee, bottle fee\n表現：charge a corkage fee（持ち込み料を請求する）"
+},
+{
+"id": "w560",
+"pos": "名詞",
+"exampleJa": "そのホテルでは毎朝、朝食ビュッフェを提供しています。",
+"note": "類義語：self-service meal, buffet meal\n表現：breakfast buffet（朝食ビュッフェ）"
+},
+{
+"id": "w561",
+"pos": "名詞",
+"exampleJa": "ケータリング業者は200人を超える客のために料理を用意しました。",
+"note": "類義語：catering company, food supplier\n表現：caterer（ケータリング業者）"
+},
+{
+"id": "w562",
+"pos": "名詞句",
+"exampleJa": "受付では各テーブルがフラワーアレンジメントで飾られていました。",
+"note": "類義語：flower display, floral decoration\n表現：floral arrangement（フラワーアレンジメント）"
+},
+{
+"id": "w563",
+"pos": "名詞句",
+"exampleJa": "司会者は各講演者を紹介しました。",
+"note": "類義語：host, presenter\n表現：master of ceremonies（司会者）"
+},
+{
+"id": "w564",
+"pos": "名詞句",
+"exampleJa": "金曜日までに最終的な招待客リストを確認してください。",
+"note": "類義語：invitation list, attendee list\n表現：guest list（招待客リスト）"
+},
+{
+"id": "w565",
+"pos": "名詞句",
+"exampleJa": "イベント企画担当者は事前に座席表を作成しました。",
+"note": "類義語：seating plan, seating arrangement\n表現：prepare a seating chart（座席表を作成する）"
+},
+{
+"id": "w566",
+"pos": "名詞句",
+"exampleJa": "CEOは会議で開会の挨拶をしました。",
+"note": "類義語：opening speech, introductory remarks\n表現：opening remarks（開会の挨拶）"
+},
+{
+"id": "w567",
+"pos": "名詞句",
+"exampleJa": "閉会式は最終日に行われます。",
+"note": "類義語：closing event, final ceremony\n表現：closing ceremony（閉会式）"
+},
+{
+"id": "w568",
+"pos": "名詞句",
+"exampleJa": "参加登録料には食事代と資料代が含まれます。",
+"note": "類義語：registration charge, enrollment fee\n表現：registration fee（参加登録料）"
+},
+{
+"id": "w569",
+"pos": "名詞句",
+"exampleJa": "今すぐ登録して早期割引を利用しましょう。",
+"note": "類義語：early registration discount, advance discount\n表現：take advantage of ~（～を利用する）"
+},
+{
+"id": "w570",
+"pos": "動詞・名詞",
+"exampleJa": "複数の企業が毎年開催される会議のスポンサーになっています。",
+"note": "類義語：backer, supporter\n表現：sponsor an event（イベントのスポンサーになる）"
+},
+{
+"id": "w571",
+"pos": "名詞句",
+"exampleJa": "その会社は新製品についてプレスリリースを発表しました。",
+"note": "類義語：press statement, media release\n表現：issue a press release（プレスリリースを発表する）"
+},
+{
+"id": "w572",
+"pos": "名詞句",
+"exampleJa": "その発売は大々的にメディアで報道されました。",
+"note": "類義語：news coverage, press coverage\n表現：receive media coverage（メディア報道を受ける）"
+},
+{
+"id": "w573",
+"pos": "名詞",
+"exampleJa": "そのイベントはブランドに大きな宣伝効果をもたらしました。",
+"note": "類義語：promotion, exposure\n表現：generate publicity（宣伝効果を生む）"
+},
+{
+"id": "w574",
+"pos": "名詞句",
+"exampleJa": "製品発表に続いて記者会見が行われます。",
+"note": "類義語：press briefing, media conference\n表現：hold a press conference（記者会見を開く）"
+},
+{
+"id": "w575",
+"pos": "名詞句",
+"exampleJa": "広報チームがすべてのメディアからの問い合わせに対応します。",
+"note": "類義語：PR, communications\n表現：public relations team（広報チーム）"
+},
+{
+"id": "w576",
+"pos": "名詞",
+"exampleJa": "広報担当者は合併の詳細を確認しました。",
+"note": "類義語：representative, press officer\n表現：company spokesperson（会社の広報担当者）"
+},
+{
+"id": "w577",
+"pos": "名詞",
+"exampleJa": "その会社は地元の新聞に広告を掲載しました。",
+"note": "類義語：ad, commercial\n表現：place an advertisement（広告を掲載する）"
+},
+{
+"id": "w578",
+"pos": "名詞",
+"exampleJa": "大きな広告看板が街の中心部で新製品を宣伝しています。",
+"note": "類義語：signboard, advertising board\n表現：billboard advertisement（広告看板）"
+},
+{
+"id": "w579",
+"pos": "名詞句",
+"exampleJa": "その広告はコマーシャルの時間に放送されました。",
+"note": "類義語：ad break, advertising break\n表現：during a commercial break（コマーシャルの時間に）"
+},
+{
+"id": "w580",
+"pos": "名詞句",
+"exampleJa": "そのチームは飲料会社とスポンサー契約を結びました。",
+"note": "類義語：sponsorship agreement, promotional deal\n表現：sign a sponsorship deal（スポンサー契約を結ぶ）"
+},
+{
+"id": "w581",
+"pos": "名詞",
+"exampleJa": "その雑誌の発行部数は着実に増加しています。",
+"note": "類義語：distribution, readership\n表現：magazine circulation（雑誌の発行部数）"
+},
+{
+"id": "w582",
+"pos": "名詞",
+"exampleJa": "そのニュースレターには1万人を超える購読者がいます。",
+"note": "類義語：reader, customer\n表現：newsletter subscriber（ニュースレター購読者）"
+},
+{
+"id": "w583",
+"pos": "名詞・形容詞",
+"exampleJa": "その社説は新しい規制の影響について論じました。",
+"note": "類義語：article, commentary\n表現：editorial article（社説）"
+},
+{
+"id": "w584",
+"pos": "名詞",
+"exampleJa": "その見出しはすぐに読者の注意を引きました。",
+"note": "類義語：title, heading\n表現：news headline（ニュースの見出し）"
+},
+{
+"id": "w585",
+"pos": "名詞",
+"exampleJa": "そのコラムニストは職場の動向について執筆しました。",
+"note": "類義語：commentator, writer\n表現：newspaper columnist（新聞のコラムニスト）"
+},
+{
+"id": "w586",
+"pos": "動詞・名詞",
+"exampleJa": "そのインタビューは明日、生放送されます。",
+"note": "類義語：air, transmit\n表現：broadcast live（生放送する）"
+},
+{
+"id": "w587",
+"pos": "名詞",
+"exampleJa": "その広告は夜のニュース中の最も重要な放送時間帯に放送されました。",
+"note": "類義語：broadcast time, transmission time\n表現：prime airtime（最も重要な放送時間帯）"
+},
+{
+"id": "w588",
+"pos": "名詞",
+"exampleJa": "その番組の視聴者数は新シーズンの開始後に増加しました。",
+"note": "類義語：audience size, audience share\n表現：increase viewership（視聴者数が増える）"
+},
+{
+"id": "w589",
+"pos": "名詞句",
+"exampleJa": "その会社は独自のストリーミングサービスを開始しました。",
+"note": "類義語：streaming platform, online service\n表現：launch a streaming service（ストリーミングサービスを開始する）"
+},
+{
+"id": "w590",
+"pos": "名詞",
+"exampleJa": "彼女は毎週、ビジネス関連のポッドキャストを配信しています。",
+"note": "類義語：audio program, web radio\n表現：business podcast（ビジネス系ポッドキャスト）"
+},
+{
+"id": "w591",
+"pos": "名詞",
+"exampleJa": "そのブランドは製品を宣伝するためにインフルエンサーと提携しました。",
+"note": "類義語：online personality, social media personality\n表現：partner with an influencer（インフルエンサーと提携する）"
+},
+{
+"id": "w592",
+"pos": "名詞句",
+"exampleJa": "そのキャンペーンは複数のソーシャルメディアプラットフォームで展開されました。",
+"note": "類義語：social network, digital platform\n表現：social media platform（ソーシャルメディアプラットフォーム）"
+},
+{
+"id": "w593",
+"pos": "名詞句",
+"exampleJa": "その投稿は高いエンゲージメント率を記録しました。",
+"note": "類義語：interaction rate, response rate\n表現：high engagement rate（高いエンゲージメント率）"
+},
+{
+"id": "w594",
+"pos": "形容詞・動詞",
+"exampleJa": "その動画は数時間以内に急速に広まりました。",
+"note": "類義語：widely shared, rapidly spreading\n表現：go viral（急速に広まる）"
+},
+{
+"id": "w595",
+"pos": "名詞",
+"exampleJa": "そのキャンペーンでは反応を追跡するために独自のハッシュタグが使われました。",
+"note": "類義語：tag, keyword\n表現：use a hashtag（ハッシュタグを使う）"
+},
+{
+"id": "w596",
+"pos": "名詞句",
+"exampleJa": "その会社はソーシャルメディア用にコンテンツ制作者を雇いました。",
+"note": "類義語：content producer, media creator\n表現：content creator（コンテンツ制作者）"
+},
+{
+"id": "w597",
+"pos": "名詞",
+"exampleJa": "その広告のコピーライティングは巧みな言葉遣いで評価されました。",
+"note": "類義語：advertising writing, copy creation\n表現：advertising copywriting（広告のコピーライティング）"
+},
+{
+"id": "w598",
+"pos": "名詞",
+"exampleJa": "その会社の新しいスローガンは持続可能性を強調しています。",
+"note": "類義語：motto, catchphrase\n表現：company slogan（企業スローガン）"
+},
+{
+"id": "w599",
+"pos": "名詞句",
+"exampleJa": "企業理念には会社の中核となる価値観が示されています。",
+"note": "類義語：corporate philosophy, statement of purpose\n表現：mission statement（企業理念）"
+},
+{
+"id": "w600",
+"pos": "名詞句",
+"exampleJa": "企業文化はオープンなコミュニケーションを促しています。",
+"note": "類義語：workplace culture, organizational culture\n表現：corporate culture（企業文化）"
+}
+]

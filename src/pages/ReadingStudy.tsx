@@ -10,6 +10,7 @@ import {
   emptyMessage,
 } from "../lib/studyQueue";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
+import { QuestionDetail, PassageDetail } from "../components/StudyDetail";
 
 const passages = readings as ReadingPassage[];
 
@@ -169,9 +170,24 @@ export default function ReadingStudy({
 
         {selected !== null && (
           <div className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
-            <p className="text-sm leading-relaxed text-(--color-ink-soft)">
+            <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
               {currentQuestion.explanation}
             </p>
+            <QuestionDetail
+              questionJa={currentQuestion.questionJa}
+              choices={currentQuestion.choices}
+              choicesJa={currentQuestion.choicesJa}
+              answer={currentQuestion.answer}
+              detail={currentQuestion.explanationDetail}
+            />
+            <PassageDetail
+              texts={[
+                { label: currentPassage.title, ja: currentPassage.passageJa },
+                { label: currentPassage.title2, ja: currentPassage.passage2Ja },
+                { label: currentPassage.title3, ja: currentPassage.passage3Ja },
+              ]}
+              vocab={currentPassage.vocab}
+            />
             <button
               onClick={handleNext}
               className="mt-4 w-full rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"

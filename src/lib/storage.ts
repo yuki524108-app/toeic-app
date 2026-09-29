@@ -106,3 +106,55 @@ export function resetAllData(): AppData {
   saveData(fresh);
   return fresh;
 }
+
+const EXPORT_FORMAT = "toeic-drill-backup";
+const EXPORT_VERSION = 1;
+
+/** 進捗データをバックアップ用のJSON文字列にシリアライズする */
+export function exportDataAsJSON(data: AppData): string {
+  const payload = {
+    format: EXPORT_FORMAT,
+    version: EXPORT_VERSION,
+    exportedAt: new Date().toISOString(),
+    data,
+  };
+  return JSON.stringify(payload, null, 2);
+}
+
+/**
+ * バックアップJSON文字列を読み込み、AppDataとして妥当な最低限の構造チェックを行う。
+ * 不正な内容の場合は null を返す（呼び出し側でエラー表示する）。
+ */
+export function parseImportedJSON(text: string): AppData | null {
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(text);
+  } catch {
+    return null;
+  }
+
+  const asRecord = (v: unknown): Record<string, unknown> | null =>
+    v !== null && typeof v === "object" ? (v as Record<string, unknown>) : null;
+
+  const parsedRecord = asRecord(parsed);
+  if (!parsedRecord) return null;
+
+  // { format, version, data: {...} } の形式、または AppData 自体が直接渡された場合の両方に対応する
+  const candidate: Record<string, unknown> | null =
+    "data" in parsedRecord ? asRecord(parsedRecord.data) : parsedRecord;
+
+  if (!candidate || !("progress" in candidate) || !("dailyLogs" in candidate)) {
+    return null;
+  }
+
+  return {
+    ...structuredClone(EMPTY_DATA),
+    ...(candidate as Partial<AppData>),
+  };
+}
+
+/** インポートしたデータで学習データ全体を置き換える（エクスポート／インポート機能用） */
+export function replaceAllData(newData: AppData): AppData {
+  saveData(newData);
+  return newData;
+}

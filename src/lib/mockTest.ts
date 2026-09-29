@@ -149,12 +149,14 @@ export function buildMockTest(): MockTest {
   return { listeningSteps, readingSteps, listeningTotal, readingTotal };
 }
 
-/** 採点・進捗記録のために、ステップ構造から「設問1問ごと」の情報を平坦化したもの */
+/** 採点・進捗記録・模試レビュー画面のために、ステップ構造から「設問1問ごと」の情報を平坦化したもの */
 export type AtomicQuestion = {
   id: string;
   itemType: ItemType;
   level: number;
   correctAnswer: number;
+  qNumber: number; // 1-200（本番TOEICと同じ通し番号）
+  partLabel: string; // "Part 1" 〜 "Part 7"（模試レビュー画面での表示用）
 };
 
 export function flattenListening(steps: ListeningStep[]): AtomicQuestion[] {
@@ -165,6 +167,8 @@ export function flattenListening(steps: ListeningStep[]): AtomicQuestion[] {
         itemType: "listeningPart1" as const,
         level: step.item.level,
         correctAnswer: step.item.answer,
+        qNumber: step.qNumber,
+        partLabel: "Part 1",
       };
     }
     if (step.kind === "part2") {
@@ -173,6 +177,8 @@ export function flattenListening(steps: ListeningStep[]): AtomicQuestion[] {
         itemType: "listeningPart2" as const,
         level: step.item.level,
         correctAnswer: step.item.answer,
+        qNumber: step.qNumber,
+        partLabel: "Part 2",
       };
     }
     const question = step.set.questions[step.questionIndex];
@@ -181,6 +187,8 @@ export function flattenListening(steps: ListeningStep[]): AtomicQuestion[] {
       itemType: "listeningPart34" as const,
       level: question.level,
       correctAnswer: question.answer,
+      qNumber: step.qNumber,
+      partLabel: step.set.partType === "part3" ? "Part 3" : "Part 4",
     };
   });
 }
@@ -194,16 +202,20 @@ export function flattenReading(steps: ReadingStep[]): AtomicQuestion[] {
         itemType: "grammar",
         level: step.item.level,
         correctAnswer: step.item.answer,
+        qNumber: step.qNumber,
+        partLabel: "Part 5",
       });
     } else if (step.kind === "part6") {
-      for (const blank of step.passage.blanks) {
+      step.passage.blanks.forEach((blank, i) => {
         out.push({
           id: blank.id,
           itemType: "part6",
           level: blank.level,
           correctAnswer: blank.answer,
+          qNumber: step.qNumberStart + i,
+          partLabel: "Part 6",
         });
-      }
+      });
     } else {
       const question = step.passage.questions[step.questionIndex];
       out.push({
@@ -211,6 +223,8 @@ export function flattenReading(steps: ReadingStep[]): AtomicQuestion[] {
         itemType: "reading",
         level: question.level,
         correctAnswer: question.answer,
+        qNumber: step.qNumber,
+        partLabel: "Part 7",
       });
     }
   }

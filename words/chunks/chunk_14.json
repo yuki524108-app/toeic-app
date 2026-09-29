@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1301",
+  "word": "annual percentage rate",
+  "meaning": "年利率",
+  "example": "Compare the annual percentage rate before taking a loan."
+ },
+ {
+  "id": "w1302",
+  "word": "financial advisor",
+  "meaning": "ファイナンシャルアドバイザー",
+  "example": "A financial advisor helped them plan for retirement."
+ },
+ {
+  "id": "w1303",
+  "word": "401k plan",
+  "meaning": "401kプラン(確定拠出年金)",
+  "example": "Employees can contribute to a 401k plan."
+ },
+ {
+  "id": "w1304",
+  "word": "investment strategy",
+  "meaning": "投資戦略",
+  "example": "She developed a long-term investment strategy."
+ },
+ {
+  "id": "w1305",
+  "word": "financial statement",
+  "meaning": "財務諸表",
+  "example": "The financial statement was reviewed by the auditor."
+ },
+ {
+  "id": "w1306",
+  "word": "income statement",
+  "meaning": "損益計算書",
+  "example": "The income statement shows the company's profitability."
+ },
+ {
+  "id": "w1307",
+  "word": "cash reserve",
+  "meaning": "現金準備金",
+  "example": "The company maintains a healthy cash reserve."
+ },
+ {
+  "id": "w1308",
+  "word": "working capital",
+  "meaning": "運転資本",
+  "example": "The business needs sufficient working capital to operate."
+ },
+ {
+  "id": "w1309",
+  "word": "fixed asset",
+  "meaning": "固定資産",
+  "example": "The factory building is listed as a fixed asset."
+ },
+ {
+  "id": "w1310",
+  "word": "current liability",
+  "meaning": "流動負債",
+  "example": "Accounts payable is recorded as a current liability."
+ },
+ {
+  "id": "w1311",
+  "word": "long-term debt",
+  "meaning": "長期負債",
+  "example": "The company reduced its long-term debt this year."
+ },
+ {
+  "id": "w1312",
+  "word": "credit rating",
+  "meaning": "信用格付け",
+  "example": "The company's credit rating improved after the merger."
+ },
+ {
+  "id": "w1313",
+  "word": "bond issuance",
+  "meaning": "債券発行",
+  "example": "The company raised funds through a bond issuance."
+ },
+ {
+  "id": "w1314",
+  "word": "stock split",
+  "meaning": "株式分割",
+  "example": "The company announced a two-for-one stock split."
+ },
+ {
+  "id": "w1315",
+  "word": "initial public offering",
+  "meaning": "新規株式公開(IPO)",
+  "example": "The startup completed its initial public offering last month."
+ },
+ {
+  "id": "w1316",
+  "word": "shareholder meeting",
+  "meaning": "株主総会",
+  "example": "The annual shareholder meeting will be held in April."
+ },
+ {
+  "id": "w1317",
+  "word": "proxy vote",
+  "meaning": "委任状による議決権行使",
+  "example": "Shareholders can submit a proxy vote if unable to attend."
+ },
+ {
+  "id": "w1318",
+  "word": "earnings per share",
+  "meaning": "一株当たり利益",
+  "example": "Earnings per share increased due to strong sales."
+ },
+ {
+  "id": "w1319",
+  "word": "price-to-earnings ratio",
+  "meaning": "株価収益率(PER)",
+  "example": "Investors compare the price-to-earnings ratio of similar companies."
+ },
+ {
+  "id": "w1320",
+  "word": "market capitalization",
+  "meaning": "時価総額",
+  "example": "The company's market capitalization exceeds one billion dollars."
+ },
+ {
+  "id": "w1321",
+  "word": "hostile takeover",
+  "meaning": "敵対的買収",
+  "example": "The board rejected the hostile takeover attempt."
+ },
+ {
+  "id": "w1322",
+  "word": "insider trading",
+  "meaning": "インサイダー取引",
+  "example": "The executive was charged with insider trading."
+ },
+ {
+  "id": "w1323",
+  "word": "financial fraud",
+  "meaning": "金融詐欺",
+  "example": "The company was fined for financial fraud."
+ },
+ {
+  "id": "w1324",
+  "word": "embezzlement",
+  "meaning": "横領",
+  "example": "The accountant was arrested for embezzlement."
+ },
+ {
+  "id": "w1325",
+  "word": "money laundering",
+  "meaning": "マネーロンダリング",
+  "example": "The bank flagged the account for suspected money laundering."
+ },
+ {
+  "id": "w1326",
+  "word": "punctuality",
+  "meaning": "時間厳守",
+  "example": "Punctuality is highly valued in this workplace."
+ },
+ {
+  "id": "w1327",
+  "word": "reliability",
+  "meaning": "信頼性",
+  "example": "The supplier is known for its reliability."
+ },
+ {
+  "id": "w1328",
+  "word": "consistency",
+  "meaning": "一貫性",
+  "example": "Consistency in quality builds customer trust."
+ },
+ {
+  "id": "w1329",
+  "word": "adaptability",
+  "meaning": "適応力",
+  "example": "Adaptability is essential in a fast-changing industry."
+ },
+ {
+  "id": "w1330",
+  "word": "versatility",
+  "meaning": "多才、汎用性",
+  "example": "Her versatility makes her valuable to the team."
+ },
+ {
+  "id": "w1331",
+  "word": "diligence",
+  "meaning": "勤勉さ",
+  "example": "His diligence was recognized with a promotion."
+ },
+ {
+  "id": "w1332",
+  "word": "thoroughness",
+  "meaning": "徹底さ、綿密さ",
+  "example": "The report was praised for its thoroughness."
+ },
+ {
+  "id": "w1333",
+  "word": "conscientious",
+  "meaning": "良心的な、誠実な",
+  "example": "He is a conscientious worker who never misses deadlines."
+ },
+ {
+  "id": "w1334",
+  "word": "assertive",
+  "meaning": "自己主張の強い",
+  "example": "She took an assertive approach in the negotiation."
+ },
+ {
+  "id": "w1335",
+  "word": "decisive",
+  "meaning": "決断力のある",
+  "example": "A decisive leader is needed during this transition."
+ },
+ {
+  "id": "w1336",
+  "word": "tactful",
+  "meaning": "如才ない、思いやりのある",
+  "example": "He gave tactful feedback to the underperforming employee."
+ },
+ {
+  "id": "w1337",
+  "word": "candid",
+  "meaning": "率直な",
+  "example": "She gave a candid assessment of the project's risks."
+ },
+ {
+  "id": "w1338",
+  "word": "articulate",
+  "meaning": "はっきりと話す、雄弁な",
+  "example": "The CEO is known for being articulate in interviews."
+ },
+ {
+  "id": "w1339",
+  "word": "persuasive",
+  "meaning": "説得力のある",
+  "example": "His persuasive argument won over the investors."
+ },
+ {
+  "id": "w1340",
+  "word": "analytical",
+  "meaning": "分析的な",
+  "example": "The role requires strong analytical skills."
+ },
+ {
+  "id": "w1341",
+  "word": "methodical",
+  "meaning": "系統立った",
+  "example": "She takes a methodical approach to problem-solving."
+ },
+ {
+  "id": "w1342",
+  "word": "meticulously",
+  "meaning": "綿密に",
+  "example": "The report was meticulously researched."
+ },
+ {
+  "id": "w1343",
+  "word": "consistently",
+  "meaning": "一貫して",
+  "example": "The team consistently meets its sales targets."
+ },
+ {
+  "id": "w1344",
+  "word": "proficiently",
+  "meaning": "熟達して",
+  "example": "She proficiently handled the client's complex request."
+ },
+ {
+  "id": "w1345",
+  "word": "adequately",
+  "meaning": "十分に",
+  "example": "The staff were adequately trained before the launch."
+ },
+ {
+  "id": "w1346",
+  "word": "thoroughly",
+  "meaning": "徹底的に",
+  "example": "The manager thoroughly reviewed the proposal."
+ },
+ {
+  "id": "w1347",
+  "word": "promptly",
+  "meaning": "迅速に",
+  "example": "Please respond to the email promptly."
+ },
+ {
+  "id": "w1348",
+  "word": "diligently",
+  "meaning": "勤勉に",
+  "example": "He diligently completed the assignment ahead of schedule."
+ },
+ {
+  "id": "w1349",
+  "word": "efficiently",
+  "meaning": "効率的に",
+  "example": "The new system processes orders efficiently."
+ },
+ {
+  "id": "w1350",
+  "word": "accurately",
+  "meaning": "正確に",
+  "example": "The data must be recorded accurately."
+ },
+ {
+  "id": "w1351",
+  "word": "simultaneously",
+  "meaning": "同時に",
+  "example": "The two projects were launched simultaneously."
+ },
+ {
+  "id": "w1352",
+  "word": "periodically",
+  "meaning": "定期的に",
+  "example": "The equipment is inspected periodically."
+ },
+ {
+  "id": "w1353",
+  "word": "subsequently",
+  "meaning": "その後",
+  "example": "The proposal was subsequently approved by the board."
+ },
+ {
+  "id": "w1354",
+  "word": "henceforth",
+  "meaning": "今後は",
+  "example": "Henceforth, all reports must be submitted electronically."
+ },
+ {
+  "id": "w1355",
+  "word": "nonetheless",
+  "meaning": "それにもかかわらず",
+  "example": "The project was delayed; nonetheless, it was completed successfully."
+ },
+ {
+  "id": "w1356",
+  "word": "furthermore",
+  "meaning": "さらに",
+  "example": "Furthermore, the company plans to expand overseas."
+ },
+ {
+  "id": "w1357",
+  "word": "likewise",
+  "meaning": "同様に",
+  "example": "The second branch performed likewise well."
+ },
+ {
+  "id": "w1358",
+  "word": "accordingly",
+  "meaning": "それに応じて",
+  "example": "The budget was adjusted accordingly."
+ },
+ {
+  "id": "w1359",
+  "word": "consequently",
+  "meaning": "結果として",
+  "example": "Sales dropped; consequently, layoffs were announced."
+ },
+ {
+  "id": "w1360",
+  "word": "notwithstanding",
+  "meaning": "にもかかわらず",
+  "example": "Notwithstanding the delays, the project succeeded."
+ },
+ {
+  "id": "w1361",
+  "word": "apron",
+  "meaning": "エプロン",
+  "example": "The chef wore a clean apron in the kitchen."
+ },
+ {
+  "id": "w1362",
+  "word": "uniform policy",
+  "meaning": "制服規定",
+  "example": "The company has a strict uniform policy for staff."
+ },
+ {
+  "id": "w1363",
+  "word": "dress code",
+  "meaning": "服装規定",
+  "example": "The office follows a business casual dress code."
+ },
+ {
+  "id": "w1364",
+  "word": "name tag",
+  "meaning": "名札",
+  "example": "Employees must wear a name tag at all times."
+ },
+ {
+  "id": "w1365",
+  "word": "staff directory",
+  "meaning": "職員名簿",
+  "example": "Check the staff directory for contact information."
+ },
+ {
+  "id": "w1366",
+  "word": "task force",
+  "meaning": "タスクフォース",
+  "example": "A task force was created to address the safety concerns."
+ },
+ {
+  "id": "w1367",
+  "word": "committee member",
+  "meaning": "委員会のメンバー",
+  "example": "She serves as a committee member for the annual gala."
+ },
+ {
+  "id": "w1368",
+  "word": "advisory board",
+  "meaning": "諮問委員会",
+  "example": "The advisory board provides guidance on strategic decisions."
+ },
+ {
+  "id": "w1369",
+  "word": "company culture",
+  "meaning": "企業文化",
+  "example": "The startup prides itself on its open company culture."
+ },
+ {
+  "id": "w1370",
+  "word": "core values",
+  "meaning": "中核的価値観",
+  "example": "Integrity is one of the company's core values."
+ },
+ {
+  "id": "w1371",
+  "word": "vision statement",
+  "meaning": "ビジョンステートメント",
+  "example": "The vision statement outlines long-term goals."
+ },
+ {
+  "id": "w1372",
+  "word": "strategic plan",
+  "meaning": "戦略計画",
+  "example": "The strategic plan covers the next five years."
+ },
+ {
+  "id": "w1373",
+  "word": "action plan",
+  "meaning": "行動計画",
+  "example": "The team developed an action plan to address the issue."
+ },
+ {
+  "id": "w1374",
+  "word": "business model",
+  "meaning": "ビジネスモデル",
+  "example": "The company adopted a subscription-based business model."
+ },
+ {
+  "id": "w1375",
+  "word": "value proposition",
+  "meaning": "価値提案",
+  "example": "The startup's value proposition attracted investors."
+ },
+ {
+  "id": "w1376",
+  "word": "competitive advantage",
+  "meaning": "競争優位性",
+  "example": "Strong branding gives the company a competitive advantage."
+ },
+ {
+  "id": "w1377",
+  "word": "market position",
+  "meaning": "市場でのポジション",
+  "example": "The company strengthened its market position this year."
+ },
+ {
+  "id": "w1378",
+  "word": "swot analysis",
+  "meaning": "SWOT分析",
+  "example": "The team conducted a SWOT analysis before the launch."
+ },
+ {
+  "id": "w1379",
+  "word": "business plan",
+  "meaning": "事業計画",
+  "example": "She wrote a detailed business plan for investors."
+ },
+ {
+  "id": "w1380",
+  "word": "feasibility study",
+  "meaning": "実現可能性調査",
+  "example": "A feasibility study was conducted before the expansion."
+ },
+ {
+  "id": "w1381",
+  "word": "cost-benefit analysis",
+  "meaning": "費用便益分析",
+  "example": "The team performed a cost-benefit analysis of the proposal."
+ },
+ {
+  "id": "w1382",
+  "word": "return on investment",
+  "meaning": "投資利益率(ROI)",
+  "example": "The marketing campaign showed a strong return on investment."
+ },
+ {
+  "id": "w1383",
+  "word": "performance metric",
+  "meaning": "業績指標",
+  "example": "The manager tracks several performance metrics weekly."
+ },
+ {
+  "id": "w1384",
+  "word": "baseline data",
+  "meaning": "基準データ",
+  "example": "The study compared results against baseline data."
+ },
+ {
+  "id": "w1385",
+  "word": "pilot study",
+  "meaning": "予備調査",
+  "example": "A pilot study was conducted before the full rollout."
+ },
+ {
+  "id": "w1386",
+  "word": "corrective action",
+  "meaning": "是正措置",
+  "example": "Corrective action was taken to fix the manufacturing error."
+ },
+ {
+  "id": "w1387",
+  "word": "preventive measure",
+  "meaning": "予防措置",
+  "example": "Preventive measures were implemented to avoid future issues."
+ },
+ {
+  "id": "w1388",
+  "word": "six sigma",
+  "meaning": "シックスシグマ",
+  "example": "The company adopted Six Sigma to improve quality control."
+ },
+ {
+  "id": "w1389",
+  "word": "process optimization",
+  "meaning": "プロセス最適化",
+  "example": "Process optimization reduced production time by 20 percent."
+ },
+ {
+  "id": "w1390",
+  "word": "packaging material",
+  "meaning": "梱包材",
+  "example": "The company switched to eco-friendly packaging material."
+ },
+ {
+  "id": "w1391",
+  "word": "shrink wrap",
+  "meaning": "シュリンクラップ",
+  "example": "The products are sealed with shrink wrap for protection."
+ },
+ {
+  "id": "w1392",
+  "word": "crate",
+  "meaning": "木箱、荷箱",
+  "example": "The fruit was shipped in wooden crates."
+ },
+ {
+  "id": "w1393",
+  "word": "cardboard box",
+  "meaning": "段ボール箱",
+  "example": "The items were packed in sturdy cardboard boxes."
+ },
+ {
+  "id": "w1394",
+  "word": "bubble wrap",
+  "meaning": "気泡緩衝材",
+  "example": "Fragile items were wrapped in bubble wrap."
+ },
+ {
+  "id": "w1395",
+  "word": "packing slip",
+  "meaning": "梱包明細書",
+  "example": "Check the packing slip against the delivered items."
+ },
+ {
+  "id": "w1396",
+  "word": "tracking number",
+  "meaning": "追跡番号",
+  "example": "Use the tracking number to check your delivery status."
+ },
+ {
+  "id": "w1397",
+  "word": "courier service",
+  "meaning": "宅配便サービス",
+  "example": "We used a courier service for same-day delivery."
+ },
+ {
+  "id": "w1398",
+  "word": "same-day delivery",
+  "meaning": "当日配達",
+  "example": "The store now offers same-day delivery in the city."
+ },
+ {
+  "id": "w1399",
+  "word": "bulk shipment",
+  "meaning": "一括配送",
+  "example": "The bulk shipment arrived at the warehouse this morning."
+ },
+ {
+  "id": "w1400",
+  "word": "cargo hold",
+  "meaning": "貨物室",
+  "example": "The cargo hold was fully loaded before departure."
+ }
+]

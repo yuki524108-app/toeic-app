@@ -75,6 +75,7 @@ export default function MockTest({
   const [remainingReading, setRemainingReading] = useState(READING_TIME_SEC);
   const [showReviewPanel, setShowReviewPanel] = useState(false);
   const [result, setResult] = useState<{
+    id: string;
     listening: MockTestSectionResult;
     reading: MockTestSectionResult;
     totalScore: number;
@@ -212,7 +213,20 @@ export default function MockTest({
           listeningResult.score + readingResult.score
         );
 
-        for (const q of [...listeningAtomic, ...readingAtomic]) {
+        const allAtomic = [...listeningAtomic, ...readingAtomic];
+        const answerRecords: MockTestResult["answerRecords"] = allAtomic.map(
+          (q) => ({
+            id: q.id,
+            itemType: q.itemType,
+            level: q.level,
+            correctAnswer: q.correctAnswer,
+            selectedAnswer: currentAnswers[q.id] ?? null,
+            qNumber: q.qNumber,
+            partLabel: q.partLabel,
+          })
+        );
+
+        for (const q of allAtomic) {
           const correct = currentAnswers[q.id] === q.correctAnswer;
           const record = updateProgress(
             q.id,
@@ -231,9 +245,15 @@ export default function MockTest({
           listening: listeningResult,
           reading: readingResult,
           totalScore,
+          answerRecords,
         });
 
-        setResult({ listening: listeningResult, reading: readingResult, totalScore });
+        setResult({
+          id: completedAt,
+          listening: listeningResult,
+          reading: readingResult,
+          totalScore,
+        });
         setPhase("result");
         return currentAnswers;
       });
@@ -359,9 +379,10 @@ export default function MockTest({
                 .reverse()
                 .slice(0, 5)
                 .map((r) => (
-                  <div
+                  <Link
                     key={r.id}
-                    className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) px-4 py-3"
+                    to={`/mock-test-review/${encodeURIComponent(r.id)}`}
+                    className="flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) px-4 py-3 transition-colors active:bg-(--color-gold-soft)"
                   >
                     <div>
                       <p className="text-xs text-(--color-muted)">
@@ -371,13 +392,16 @@ export default function MockTest({
                         L {r.listening.score} ・ R {r.reading.score}
                       </p>
                     </div>
-                    <p className="font-(family-name:--font-display) text-xl font-medium text-(--color-ink)">
-                      {r.totalScore}
-                      <span className="ml-1 text-xs font-normal text-(--color-muted)">
-                        /990
-                      </span>
-                    </p>
-                  </div>
+                    <div className="flex items-center gap-2">
+                      <p className="font-(family-name:--font-display) text-xl font-medium text-(--color-ink)">
+                        {r.totalScore}
+                        <span className="ml-1 text-xs font-normal text-(--color-muted)">
+                          /990
+                        </span>
+                      </p>
+                      <span className="text-(--color-gold)">→</span>
+                    </div>
+                  </Link>
                 ))}
             </div>
           </div>
@@ -548,6 +572,10 @@ export default function MockTest({
 
   // ---------- 結果画面 ----------
   if (phase === "result" && result) {
+    const missedCount =
+      result.listening.total -
+      result.listening.correct +
+      (result.reading.total - result.reading.correct);
     return (
       <div className="mx-auto flex max-w-md flex-col items-center px-5 pb-28 pt-16 text-center">
         <p className="text-sm text-(--color-muted)">模試が完了しました</p>
@@ -584,6 +612,14 @@ export default function MockTest({
         </p>
 
         <div className="mt-8 flex w-full flex-col gap-3">
+          {missedCount > 0 && (
+            <Link
+              to={`/mock-test-review/${encodeURIComponent(result.id)}`}
+              className="rounded-sm border border-(--color-gold) bg-(--color-gold-soft) py-3 text-center text-sm font-medium text-(--color-ink)"
+            >
+              間違えた問題を復習する（{missedCount}問）
+            </Link>
+          )}
           <button
             onClick={handleStart}
             className="rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"

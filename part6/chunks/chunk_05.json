@@ -1,0 +1,632 @@
+[
+ {
+  "id": "p661",
+  "passage": "To: All Department Managers\nFrom: Finance Department\n\nPlease remind your team members that all expense reports for this quarter must be (1) by the 5th of next month. Reports (2) after the deadline may not be processed until the following cycle.\n\nEach report should be (3) by original receipts. Managers are (4) for reviewing and approving reports before submission.",
+  "blanks": [
+   {
+    "id": "p661b1",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p661b2",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submits"
+    ]
+   },
+   {
+    "id": "p661b3",
+    "choices": [
+     "accompany",
+     "accompanied",
+     "accompanying",
+     "accompaniment"
+    ]
+   },
+   {
+    "id": "p661b4",
+    "choices": [
+     "response",
+     "responsive",
+     "responsible",
+     "responsibility"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p662",
+  "passage": "FitZone Gym is proud to announce the (1) of our newest location downtown! Starting this Saturday, all new members who sign up will receive a free personal training session and a (2) gym bag.\n\nOur facility is equipped (3) the latest cardio and strength equipment, along with spacious group classrooms. Whether you are a beginner or an experienced athlete, our trainers are ready to help you reach your goals (4) safely and effectively.",
+  "blanks": [
+   {
+    "id": "p662b1",
+    "choices": [
+     "open",
+     "opens",
+     "opening",
+     "opened"
+    ]
+   },
+   {
+    "id": "p662b2",
+    "choices": [
+     "complimentary",
+     "complement",
+     "complementary",
+     "compliment"
+    ]
+   },
+   {
+    "id": "p662b3",
+    "choices": [
+     "of",
+     "with",
+     "for",
+     "by"
+    ]
+   },
+   {
+    "id": "p662b4",
+    "choices": [
+     "quick",
+     "quickly",
+     "quickness",
+     "quicker"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p663",
+  "passage": "Notice to All Shareholders,\n\nThe annual general meeting will be (1) on November 12 at the downtown convention center. Shareholders who are unable to attend (2) may vote by proxy.\n\nAll voting materials must be (3) at least one week before the meeting date. A detailed agenda will be sent to shareholders (4) two weeks prior to the meeting.",
+  "blanks": [
+   {
+    "id": "p663b1",
+    "choices": [
+     "hold",
+     "held",
+     "holding",
+     "holds"
+    ]
+   },
+   {
+    "id": "p663b2",
+    "choices": [
+     "personal",
+     "personally",
+     "personalize",
+     "personality"
+    ]
+   },
+   {
+    "id": "p663b3",
+    "choices": [
+     "return",
+     "returned",
+     "returning",
+     "returns"
+    ]
+   },
+   {
+    "id": "p663b4",
+    "choices": [
+     "approximate",
+     "approximately",
+     "approximation",
+     "approximated"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p664",
+  "passage": "Dear IT Team,\n\nWe would like to inform you that a new software update will be (1) across all company devices this weekend. The update is designed to (2) system security and fix several known bugs.\n\nPlease save all your work before Friday at 5 PM, as devices will (3) restart automatically during the update. If you experience any issues (4) the update, contact the help desk immediately.",
+  "blanks": [
+   {
+    "id": "p664b1",
+    "choices": [
+     "install",
+     "installed",
+     "installing",
+     "installation"
+    ]
+   },
+   {
+    "id": "p664b2",
+    "choices": [
+     "improve",
+     "improved",
+     "improving",
+     "improvement"
+    ]
+   },
+   {
+    "id": "p664b3",
+    "choices": [
+     "be",
+     "have",
+     "has",
+     "having"
+    ]
+   },
+   {
+    "id": "p664b4",
+    "choices": [
+     "following",
+     "follow",
+     "followed",
+     "follows"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p665",
+  "passage": "To All Staff,\n\nAs the holiday season approaches, please submit your vacation requests as (1) as possible. Requests should be (2) to your direct supervisor at least two weeks in advance.\n\nDue to the high volume of requests expected, approvals will be granted on a first-come, first-(3) basis. We encourage everyone to plan (4) to avoid scheduling conflicts.",
+  "blanks": [
+   {
+    "id": "p665b1",
+    "choices": [
+     "soon",
+     "sooner",
+     "soonest",
+     "sooning"
+    ]
+   },
+   {
+    "id": "p665b2",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   },
+   {
+    "id": "p665b3",
+    "choices": [
+     "serve",
+     "served",
+     "serving",
+     "serves"
+    ]
+   },
+   {
+    "id": "p665b4",
+    "choices": [
+     "ahead",
+     "forward",
+     "early",
+     "before"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p666",
+  "passage": "The city's new light rail line officially (1) service last Monday, connecting the downtown business district with the airport in under thirty minutes. City officials say the project, which took nearly four years to (2), will significantly reduce traffic congestion.\n\nDuring the first week, rides will be offered (3) charge to encourage residents to try the new system. Regular fares will (4) into effect the following Monday.",
+  "blanks": [
+   {
+    "id": "p666b1",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   },
+   {
+    "id": "p666b2",
+    "choices": [
+     "complete",
+     "completed",
+     "completing",
+     "completion"
+    ]
+   },
+   {
+    "id": "p666b3",
+    "choices": [
+     "free",
+     "of",
+     "without",
+     "with"
+    ]
+   },
+   {
+    "id": "p666b4",
+    "choices": [
+     "go",
+     "goes",
+     "going",
+     "gone"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p667",
+  "passage": "Dear Colleagues,\n\nWe are currently experiencing technical difficulties with the conference room booking system. Our IT team is (1) to resolve the issue as quickly as possible.\n\nIn the meantime, please (2) the front desk directly to reserve a room. We apologize for any (3) this may cause and appreciate your patience while the issue is (4) fixed.",
+  "blanks": [
+   {
+    "id": "p667b1",
+    "choices": [
+     "work",
+     "working",
+     "worked",
+     "works"
+    ]
+   },
+   {
+    "id": "p667b2",
+    "choices": [
+     "contact",
+     "contacted",
+     "contacting",
+     "contacts"
+    ]
+   },
+   {
+    "id": "p667b3",
+    "choices": [
+     "convenient",
+     "convenience",
+     "conveniently",
+     "convenienced"
+    ]
+   },
+   {
+    "id": "p667b4",
+    "choices": [
+     "be",
+     "being",
+     "been",
+     "is"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p668",
+  "passage": "Notice to Library Patrons,\n\nStarting next semester, the university library will (1) extended hours during final exam weeks. The library will remain open until 2 AM, (2) the usual closing time of 10 PM.\n\nAdditional study rooms will also be made (3) during this period. Students are encouraged to reserve rooms online (4) they are not left without a place to study.",
+  "blanks": [
+   {
+    "id": "p668b1",
+    "choices": [
+     "offer",
+     "offers",
+     "offering",
+     "offered"
+    ]
+   },
+   {
+    "id": "p668b2",
+    "choices": [
+     "instead",
+     "instead of",
+     "rather",
+     "despite"
+    ]
+   },
+   {
+    "id": "p668b3",
+    "choices": [
+     "available",
+     "availability",
+     "availed",
+     "avail"
+    ]
+   },
+   {
+    "id": "p668b4",
+    "choices": [
+     "so that",
+     "in order",
+     "so as",
+     "because"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p669",
+  "passage": "Hi Team,\n\nNow that the conference has ended, please (1) your trip reports within five business days. Each report should include a brief summary of the sessions you (2) and any key takeaways relevant to our department.\n\nIf you incurred any expenses that have not yet been (3), please attach the receipts to your report. Let me know if you have questions (4) the reporting process.",
+  "blanks": [
+   {
+    "id": "p669b1",
+    "choices": [
+     "submit",
+     "submits",
+     "submitted",
+     "submitting"
+    ]
+   },
+   {
+    "id": "p669b2",
+    "choices": [
+     "attend",
+     "attended",
+     "attending",
+     "attendance"
+    ]
+   },
+   {
+    "id": "p669b3",
+    "choices": [
+     "reimburse",
+     "reimbursed",
+     "reimbursing",
+     "reimbursement"
+    ]
+   },
+   {
+    "id": "p669b4",
+    "choices": [
+     "about",
+     "of",
+     "at",
+     "in"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p670",
+  "passage": "Volunteers gathered at Riverside Park last weekend to (1) in the city's annual river cleanup event. More than two hundred participants (2) up nearly three tons of litter along the riverbank.\n\nOrganizers say the event has grown significantly since it (3) five years ago, and they hope to expand it further next year. Anyone interested in (4) should visit the city's website for more information.",
+  "blanks": [
+   {
+    "id": "p670b1",
+    "choices": [
+     "participate",
+     "participated",
+     "participating",
+     "participation"
+    ]
+   },
+   {
+    "id": "p670b2",
+    "choices": [
+     "pick",
+     "picked",
+     "picking",
+     "picks"
+    ]
+   },
+   {
+    "id": "p670b3",
+    "choices": [
+     "begin",
+     "began",
+     "begun",
+     "beginning"
+    ]
+   },
+   {
+    "id": "p670b4",
+    "choices": [
+     "volunteer",
+     "volunteered",
+     "volunteering",
+     "volunteers"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p671",
+  "passage": "Dear New Employee,\n\nWelcome to Larkspur Technologies! Your orientation session is (1) to begin at 9 AM on your first day in the main training room. Please bring a valid ID and two forms of (2) documentation for your employment file.\n\nDuring the session, you will learn about company policies and meet your (3) team members. Lunch will be (4) for all new hires on this day.",
+  "blanks": [
+   {
+    "id": "p671b1",
+    "choices": [
+     "schedule",
+     "scheduled",
+     "scheduling",
+     "schedules"
+    ]
+   },
+   {
+    "id": "p671b2",
+    "choices": [
+     "identify",
+     "identified",
+     "identifying",
+     "identification"
+    ]
+   },
+   {
+    "id": "p671b3",
+    "choices": [
+     "immediate",
+     "immediately",
+     "immediacy",
+     "immediateness"
+    ]
+   },
+   {
+    "id": "p671b4",
+    "choices": [
+     "provide",
+     "provided",
+     "providing",
+     "provision"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p672",
+  "passage": "To All Members,\n\nWe are updating our membership terms, (1) next month. Members will now be able to freeze their membership for up to two months per year at no additional (2).\n\nAdditionally, guest passes will be (3) from two to four per month. We believe these changes will provide greater flexibility and (4) to all of our valued members.",
+  "blanks": [
+   {
+    "id": "p672b1",
+    "choices": [
+     "effect",
+     "effective",
+     "effectively",
+     "effectiveness"
+    ]
+   },
+   {
+    "id": "p672b2",
+    "choices": [
+     "cost",
+     "costly",
+     "costing",
+     "costs"
+    ]
+   },
+   {
+    "id": "p672b3",
+    "choices": [
+     "increase",
+     "increased",
+     "increasing",
+     "increases"
+    ]
+   },
+   {
+    "id": "p672b4",
+    "choices": [
+     "convenient",
+     "convenience",
+     "conveniently",
+     "convenienced"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p673",
+  "passage": "The city transit authority announced plans this week to (1) three new bus routes connecting outlying neighborhoods to downtown. Officials say the expansion is a direct (2) to growing complaints about limited transportation options.\n\nConstruction of new bus stops will begin in the spring, with full service (3) by early summer. Residents can view proposed maps and (4) feedback at upcoming public meetings.",
+  "blanks": [
+   {
+    "id": "p673b1",
+    "choices": [
+     "introduce",
+     "introduced",
+     "introducing",
+     "introduction"
+    ]
+   },
+   {
+    "id": "p673b2",
+    "choices": [
+     "response",
+     "respond",
+     "responsive",
+     "responded"
+    ]
+   },
+   {
+    "id": "p673b3",
+    "choices": [
+     "expect",
+     "expected",
+     "expecting",
+     "expectation"
+    ]
+   },
+   {
+    "id": "p673b4",
+    "choices": [
+     "submit",
+     "submitted",
+     "submitting",
+     "submission"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p674",
+  "passage": "Dear Team,\n\nI would like to (1) everyone to attend next Tuesday's strategy meeting, as we will be discussing important changes to our project timeline. Your (2) input will be valuable in shaping our next steps.\n\nPlease review the attached document (3) the meeting so we can make the most of our time together. If you are unable to attend, please let me know (4) advance.",
+  "blanks": [
+   {
+    "id": "p674b1",
+    "choices": [
+     "invite",
+     "invites",
+     "inviting",
+     "invitation"
+    ]
+   },
+   {
+    "id": "p674b2",
+    "choices": [
+     "individual",
+     "individually",
+     "individuality",
+     "individualize"
+    ]
+   },
+   {
+    "id": "p674b3",
+    "choices": [
+     "before",
+     "after",
+     "during",
+     "since"
+    ]
+   },
+   {
+    "id": "p674b4",
+    "choices": [
+     "in",
+     "on",
+     "at",
+     "by"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p675",
+  "passage": "Introducing TaskFlow, the productivity app (1) to help you manage your daily schedule effortlessly. With TaskFlow, you can create to-do lists, set reminders, and (2) your progress with detailed reports.\n\nThe app is available for (3) download on both iOS and Android devices. Upgrade to premium for advanced features, including team collaboration tools and unlimited (4) storage.",
+  "blanks": [
+   {
+    "id": "p675b1",
+    "choices": [
+     "design",
+     "designed",
+     "designing",
+     "designs"
+    ]
+   },
+   {
+    "id": "p675b2",
+    "choices": [
+     "track",
+     "tracked",
+     "tracking",
+     "tracks"
+    ]
+   },
+   {
+    "id": "p675b3",
+    "choices": [
+     "free",
+     "freely",
+     "freedom",
+     "freeing"
+    ]
+   },
+   {
+    "id": "p675b4",
+    "choices": [
+     "clouds",
+     "cloud",
+     "clouded",
+     "clouding"
+    ]
+   }
+  ]
+ }
+]

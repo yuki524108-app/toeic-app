@@ -1,0 +1,602 @@
+[
+{
+"id": "w901",
+"pos": "形容詞",
+"exampleJa": "その会社には信頼できる配送サービスがある。",
+"note": "類義語：dependable, trustworthy, credible\n派生：reliability（名詞：信頼性）\n表現：reliable service（信頼できるサービス）"
+},
+{
+"id": "w902",
+"pos": "形容詞",
+"exampleJa": "新しいシステムは古いものより効率的だ。",
+"note": "類義語：effective, productive, economical\n派生：efficiency（名詞：効率）\n表現：efficient system（効率的なシステム）"
+},
+{
+"id": "w903",
+"pos": "形容詞",
+"exampleJa": "その検査官は徹底的な審査を行った。",
+"note": "類義語：comprehensive, detailed, exhaustive\n派生：thoroughly（副詞：徹底的に）\n表現：thorough review（徹底的な審査）"
+},
+{
+"id": "w904",
+"pos": "形容詞",
+"exampleJa": "その道具は多くの作業に使えるほど多目的だ。",
+"note": "類義語：versatile, adaptable, flexible\n派生：versatility（名詞：多用途性）\n表現：versatile tool（多目的な道具）"
+},
+{
+"id": "w905",
+"pos": "形容詞",
+"exampleJa": "その新興企業は革新的な製品で知られている。",
+"note": "類義語：creative, original, groundbreaking\n派生：innovation（名詞：革新）\n表現：innovative products（革新的な製品）"
+},
+{
+"id": "w906",
+"pos": "形容詞",
+"exampleJa": "彼女は長年の経験を持つ有能な管理職だ。",
+"note": "類義語：capable, skilled, qualified\n派生：competence（名詞：能力）\n表現：competent manager（有能な管理職）"
+},
+{
+"id": "w907",
+"pos": "形容詞",
+"exampleJa": "彼は3か国語に熟達している。",
+"note": "類義語：skilled, adept, capable\n派生：proficiency（名詞：熟達）\n表現：be proficient in（～に熟達している）"
+},
+{
+"id": "w908",
+"pos": "形容詞",
+"exampleJa": "その勤勉な従業員は早く報告書を完成させた。",
+"note": "類義語：hardworking, industrious, diligent\n派生：diligence（名詞：勤勉）\n表現：diligent employee（勤勉な従業員）"
+},
+{
+"id": "w909",
+"pos": "形容詞",
+"exampleJa": "彼女は細部をすべて確認することに細心の注意を払っている。",
+"note": "類義語：careful, precise, thorough\n派生：meticulously（副詞：細心の注意を払って）\n表現：meticulous about details（細部に細心の注意を払う）"
+},
+{
+"id": "w910",
+"pos": "形容詞",
+"exampleJa": "彼はその問題に対する臨機応変な解決策を見つけた。",
+"note": "類義語：resourceful, inventive, capable\n派生：resourcefulness（名詞：機転、臨機応変さ）\n表現：resourceful solution（臨機応変な解決策）"
+},
+{
+"id": "w911",
+"pos": "形容詞",
+"exampleJa": "そのチームは変化する状況に適応できる。",
+"note": "類義語：adaptable, flexible, versatile\n派生：adaptability（名詞：適応力）\n表現：adaptable to change（変化に適応できる）"
+},
+{
+"id": "w912",
+"pos": "形容詞",
+"exampleJa": "その会社は一貫した品質基準を維持している。",
+"note": "類義語：steady, uniform, constant\n派生：consistency（名詞：一貫性）\n表現：consistent quality（安定した品質）"
+},
+{
+"id": "w913",
+"pos": "形容詞",
+"exampleJa": "その報告書は包括的な概要を提供している。",
+"note": "類義語：comprehensive, complete, extensive\n派生：comprehensively（副詞：包括的に）\n表現：comprehensive overview（包括的な概要）"
+},
+{
+"id": "w914",
+"pos": "形容詞",
+"exampleJa": "その会社は研究開発にかなりの投資を行った。",
+"note": "類義語：considerable, substantial, significant\n派生：substantially（副詞：大幅に）\n表現：substantial investment（多額の投資）"
+},
+{
+"id": "w915",
+"pos": "形容詞",
+"exampleJa": "売上には著しい増加が見られた。",
+"note": "類義語：considerable, substantial, notable\n派生：significance（名詞：重要性）\n表現：significant increase（著しい増加）"
+},
+{
+"id": "w916",
+"pos": "形容詞",
+"exampleJa": "その改装にはかなりの時間と費用が必要だった。",
+"note": "類義語：considerable, substantial, significant\n派生：considerably（副詞：かなり）\n表現：considerable amount（かなりの量）"
+},
+{
+"id": "w917",
+"pos": "形容詞",
+"exampleJa": "オフィスの近くには十分な駐車スペースがある。",
+"note": "類義語：sufficient, adequate, plentiful\n派生：amply（副詞：十分に）\n表現：ample parking（十分な駐車スペース）"
+},
+{
+"id": "w918",
+"pos": "形容詞",
+"exampleJa": "販売前に十分な在庫があることを確認してください。",
+"note": "類義語：adequate, ample, enough\n派生：sufficiency（名詞：十分性）\n表現：sufficient stock（十分な在庫）"
+},
+{
+"id": "w919",
+"pos": "形容詞",
+"exampleJa": "その研修はその役割に向けて十分な準備を提供した。",
+"note": "類義語：sufficient, adequate, satisfactory\n派生：adequacy（名詞：十分性）\n表現：adequate preparation（十分な準備）"
+},
+{
+"id": "w920",
+"pos": "形容詞",
+"exampleJa": "彼女は並外れた業績に対して賞を受賞した。",
+"note": "類義語：outstanding, extraordinary, exceptional\n派生：exceptionally（副詞：並外れて）\n表現：exceptional performance（並外れた業績）"
+},
+{
+"id": "w921",
+"pos": "形容詞",
+"exampleJa": "その会社は今年、注目すべき成長を遂げた。",
+"note": "類義語：remarkable, notable, extraordinary\n派生：remarkably（副詞：著しく）\n表現：remarkable growth（著しい成長）"
+},
+{
+"id": "w922",
+"pos": "形容詞",
+"exampleJa": "顧客満足度には注目に値する改善が見られた。",
+"note": "類義語：notable, remarkable, significant\n派生：notably（副詞：特に、著しく）\n表現：notable improvement（注目に値する改善）"
+},
+{
+"id": "w923",
+"pos": "形容詞",
+"exampleJa": "彼はその業界で著名な人物だ。",
+"note": "類義語：prominent, notable, distinguished\n派生：prominence（名詞：著名さ、卓越）\n表現：prominent figure（著名な人物）"
+},
+{
+"id": "w924",
+"pos": "形容詞",
+"exampleJa": "そのシェフは創作料理で有名だ。",
+"note": "類義語：famous, celebrated, distinguished\n派生：renown（名詞：名声）\n表現：renowned for（～で有名な）"
+},
+{
+"id": "w925",
+"pos": "形容詞",
+"exampleJa": "彼らは材料の仕入れ先として評判の良い業者を選んだ。",
+"note": "類義語：reputable, respected, trustworthy\n派生：reputation（名詞：評判）\n表現：reputable supplier（評判の良い供給業者）"
+},
+{
+"id": "w926",
+"pos": "形容詞",
+"exampleJa": "その報告書は信頼できる情報源に基づいている。",
+"note": "類義語：credible, reliable, trustworthy\n派生：credibility（名詞：信頼性）\n表現：credible source（信頼できる情報源）"
+},
+{
+"id": "w927",
+"pos": "形容詞",
+"exampleJa": "その会社にはその特許に対する正当な権利主張がある。",
+"note": "類義語：valid, lawful, genuine\n派生：legitimacy（名詞：正当性）\n表現：legitimate claim（正当な主張）"
+},
+{
+"id": "w928",
+"pos": "形容詞",
+"exampleJa": "その提案は実行可能な事業計画を示している。",
+"note": "類義語：feasible, workable, practical\n派生：viability（名詞：実行可能性）\n表現：viable business plan（実行可能な事業計画）"
+},
+{
+"id": "w929",
+"pos": "形容詞",
+"exampleJa": "そのチームは遅延に対する実行可能な解決策を考え出した。",
+"note": "類義語：feasible, viable, practical\n派生：workability（名詞：実行可能性）\n表現：workable solution（実行可能な解決策）"
+},
+{
+"id": "w930",
+"pos": "形容詞",
+"exampleJa": "その研修は実用的な技能に重点を置いた。",
+"note": "類義語：useful, functional, pragmatic\n派生：practically（副詞：実際的に）\n表現：practical skills（実用的な技能）"
+},
+{
+"id": "w931",
+"pos": "形容詞",
+"exampleJa": "そのマネージャーは問題に対して現実的な方法を取った。",
+"note": "類義語：practical, realistic, sensible\n派生：pragmatism（名詞：実用主義）\n表現：pragmatic approach（現実的なアプローチ）"
+},
+{
+"id": "w932",
+"pos": "形容詞",
+"exampleJa": "その合併は会社にとって戦略的な動きだった。",
+"note": "類義語：planned, calculated, tactical\n派生：strategy（名詞：戦略）\n表現：strategic move（戦略的な動き）"
+},
+{
+"id": "w933",
+"pos": "形容詞",
+"exampleJa": "そのチームは発売を延期するという戦術的な決定をした。",
+"note": "類義語：strategic, calculated, practical\n派生：tactics（名詞：戦術）\n表現：tactical decision（戦術的な決定）"
+},
+{
+"id": "w934",
+"pos": "形容詞",
+"exampleJa": "そのマネージャーはリスク管理に先を見越したアプローチを取った。",
+"note": "類義語：proactive, anticipatory, forward-looking\n派生：proactively（副詞：積極的に、先を見越して）\n表現：proactive approach（先を見越した取り組み）"
+},
+{
+"id": "w935",
+"pos": "形容詞",
+"exampleJa": "そのサポートチームは顧客の要望に非常に迅速に対応する。",
+"note": "類義語：responsive, attentive, receptive\n派生：responsiveness（名詞：対応の速さ）\n表現：responsive to customer needs（顧客のニーズに迅速に対応する）"
+},
+{
+"id": "w936",
+"pos": "形容詞",
+"exampleJa": "そのウェイターは食事中ずっと注意深く対応してくれた。",
+"note": "類義語：attentive, observant, considerate\n派生：attention（名詞：注意）\n表現：attentive service（行き届いたサービス）"
+},
+{
+"id": "w937",
+"pos": "形容詞",
+"exampleJa": "スタッフは礼儀正しく親切だった。",
+"note": "類義語：polite, courteous, civil\n派生：courtesy（名詞：礼儀、親切）\n表現：courteous staff（礼儀正しいスタッフ）"
+},
+{
+"id": "w938",
+"pos": "形容詞",
+"exampleJa": "その会議は友好的な雰囲気で終わった。",
+"note": "類義語：friendly, cordial, amicable\n派生：cordiality（名詞：親しみ、友好）\n表現：cordial relationship（友好的な関係）"
+},
+{
+"id": "w939",
+"pos": "形容詞",
+"exampleJa": "その紛争は円満な形で解決された。",
+"note": "類義語：friendly, cordial, peaceful\n派生：amicably（副詞：円満に）\n表現：amicable agreement（友好的な合意）"
+},
+{
+"id": "w940",
+"pos": "形容詞",
+"exampleJa": "会議中に暫定的な合意に達した。",
+"note": "類義語：provisional, temporary, preliminary\n派生：tentatively（副詞：暫定的に）\n表現：tentative agreement（暫定合意）"
+},
+{
+"id": "w941",
+"pos": "形容詞",
+"exampleJa": "予備的な結果は有望に見える。",
+"note": "類義語：initial, preliminary, tentative\n派生：preliminarily（副詞：予備的に）\n表現：preliminary results（予備的な結果）"
+},
+{
+"id": "w942",
+"pos": "形容詞",
+"exampleJa": "その後の会議では実施に焦点を当てる。",
+"note": "類義語：following, later, succeeding\n派生：subsequently（副詞：その後）\n表現：subsequent meeting（その後の会議）"
+},
+{
+"id": "w943",
+"pos": "形容詞・前置詞",
+"exampleJa": "営業経験があることが望ましい。",
+"note": "類義語：previous, earlier, former\n派生：priority（名詞：優先、前のこと）\n表現：prior experience（以前の経験）"
+},
+{
+"id": "w944",
+"pos": "形容詞",
+"exampleJa": "その申請はまだ承認待ちである。",
+"note": "類義語：unresolved, pending, outstanding\n派生：pendency（名詞：係属、保留状態）\n表現：pending approval（承認待ち）"
+},
+{
+"id": "w945",
+"pos": "形容詞",
+"exampleJa": "合併に関する発表が差し迫っている。",
+"note": "類義語：approaching, impending, forthcoming\n派生：imminence（名詞：差し迫っていること）\n表現：imminent announcement（差し迫った発表）"
+},
+{
+"id": "w946",
+"pos": "形容詞・動詞・名詞",
+"exampleJa": "迅速なご返信に感謝いたします。",
+"note": "類義語：prompt, quick, immediate\n派生：promptly（副詞：迅速に）\n表現：prompt response（迅速な返信）"
+},
+{
+"id": "w947",
+"pos": "形容詞",
+"exampleJa": "予定どおりの配送が顧客に好印象を与えた。",
+"note": "類義語：prompt, punctual, opportune\n派生：timeliness（名詞：適時性）\n表現：timely delivery（タイムリーな配送）"
+},
+{
+"id": "w948",
+"pos": "形容詞",
+"exampleJa": "請求書の支払いは現在、期限を過ぎている。",
+"note": "類義語：late, overdue, delayed\n派生：overdue（形容詞：期限を過ぎた）\n表現：overdue payment（期限を過ぎた支払い）"
+},
+{
+"id": "w949",
+"pos": "形容詞",
+"exampleJa": "彼は締め切りに間に合わなかったことについて遅れて謝罪した。",
+"note": "類義語：late, delayed, belated\n派生：belatedly（副詞：遅れて）\n表現：belated apology（遅れての謝罪）"
+},
+{
+"id": "w950",
+"pos": "形容詞",
+"exampleJa": "今度のイベントについての詳細は近日中に共有される。",
+"note": "類義語：forthcoming, upcoming, approaching\n派生：forthcoming（形容詞：近づいている、今度の）\n表現：forthcoming event（今度のイベント）"
+},
+{
+"id": "w951",
+"pos": "形容詞",
+"exampleJa": "来たる会議は東京で開催される。",
+"note": "類義語：forthcoming, approaching, coming\n派生：upcoming（形容詞：来たる）\n表現：upcoming conference（今度の会議）"
+},
+{
+"id": "w952",
+"pos": "形容詞",
+"exampleJa": "その改装は進行中のプロジェクトだ。",
+"note": "類義語：ongoing, continuing, current\n派生：ongoing（形容詞：進行中の）\n表現：ongoing project（進行中のプロジェクト）"
+},
+{
+"id": "w953",
+"pos": "形容詞",
+"exampleJa": "そのシステムは繰り返し発生するエラーを検出した。",
+"note": "類義語：repeated, recurring, repetitive\n派生：recurrence（名詞：再発）\n表現：recurring problem（繰り返し起こる問題）"
+},
+{
+"id": "w954",
+"pos": "形容詞",
+"exampleJa": "そのサービスでは断続的な停止が発生した。",
+"note": "類義語：sporadic, occasional, irregular\n派生：intermittently（副詞：断続的に）\n表現：intermittent outages（断続的な停止）"
+},
+{
+"id": "w955",
+"pos": "形容詞",
+"exampleJa": "散発的な遅延が配送スケジュールに影響を与えた。",
+"note": "類義語：sporadic, occasional, intermittent\n派生：sporadically（副詞：散発的に）\n表現：sporadic delays（散発的な遅延）"
+},
+{
+"id": "w956",
+"pos": "形容詞",
+"exampleJa": "その会社では利益が徐々に増加した。",
+"note": "類義語：gradual, steady, incremental\n派生：gradually（副詞：徐々に）\n表現：gradual increase（徐々の増加）"
+},
+{
+"id": "w957",
+"pos": "形容詞",
+"exampleJa": "その業界は過去10年間に急速な成長を経験した。",
+"note": "類義語：rapid, fast, swift\n派生：rapidly（副詞：急速に）\n表現：rapid growth（急速な成長）"
+},
+{
+"id": "w958",
+"pos": "形容詞",
+"exampleJa": "その会社は今年、着実な成長を報告した。",
+"note": "類義語：steady, stable, consistent\n派生：steadily（副詞：着実に）\n表現：steady growth（着実な成長）"
+},
+{
+"id": "w959",
+"pos": "形容詞",
+"exampleJa": "マーケティング活動にもかかわらず、売上は停滞したままだった。",
+"note": "類義語：stagnant, static, sluggish\n派生：stagnation（名詞：停滞）\n表現：stagnant sales（停滞した売上）"
+},
+{
+"id": "w960",
+"pos": "形容詞",
+"exampleJa": "その市場は今月、不安定な状態が続いている。",
+"note": "類義語：unstable, unpredictable, changeable\n派生：volatility（名詞：変動性、不安定さ）\n表現：volatile market（不安定な市場）"
+},
+{
+"id": "w961",
+"pos": "形容詞",
+"exampleJa": "その会社は今四半期、堅調な収益を報告した。",
+"note": "類義語：strong, vigorous, sturdy\n派生：robustness（名詞：堅牢性、力強さ）\n表現：robust earnings（堅調な収益）"
+},
+{
+"id": "w962",
+"pos": "名詞句",
+"exampleJa": "脆弱な経済は緩やかな回復の兆しを示した。",
+"note": "類義語：weak economy, unstable economy, fragile market\n表現：fragile economy（脆弱な経済）"
+},
+{
+"id": "w963",
+"pos": "形容詞",
+"exampleJa": "その事業は景気後退の間も回復力を維持した。",
+"note": "類義語：resilient, durable, robust\n派生：resilience（名詞：回復力、強靭性）\n表現：remain resilient（回復力を維持する）"
+},
+{
+"id": "w964",
+"pos": "名詞句",
+"exampleJa": "小規模企業はこの市場で特に脆弱である。",
+"note": "類義語：weak market, fragile market, unstable market\n表現：vulnerable to（～に対して脆弱な）"
+},
+{
+"id": "w965",
+"pos": "形容詞",
+"exampleJa": "その会社は市場で支配的な地位を占めている。",
+"note": "類義語：dominant, leading, prevailing\n派生：dominance（名詞：支配、優勢）\n表現：dominant position（支配的な地位）"
+},
+{
+"id": "w966",
+"pos": "形容詞",
+"exampleJa": "その企業はクラウドサービスの主要な提供会社だ。",
+"note": "類義語：leading, prominent, major\n派生：leadership（名詞：指導的立場）\n表現：leading provider（主要な提供会社）"
+},
+{
+"id": "w967",
+"pos": "形容詞",
+"exampleJa": "その会社は新興市場へ事業を拡大した。",
+"note": "類義語：developing, growing, nascent\n派生：emergence（名詞：出現、新興）\n表現：emerging market（新興市場）"
+},
+{
+"id": "w968",
+"pos": "名詞句",
+"exampleJa": "その新興企業は確立された企業と提携した。",
+"note": "類義語：established business, major company, well-known company\n表現：established company（確立された企業）"
+},
+{
+"id": "w969",
+"pos": "名詞句",
+"exampleJa": "彼らは会計監査のために評判の良い会社を雇った。",
+"note": "類義語：reputable firm, respected firm, trusted firm\n表現：reputable firm（評判の良い会社）"
+},
+{
+"id": "w970",
+"pos": "名詞・形容詞",
+"exampleJa": "その多国籍企業は50か国以上で事業を展開している。",
+"note": "類義語：international, global, transnational\n派生：multinational corporation（名詞：多国籍企業）\n表現：multinational corporation（多国籍企業）"
+},
+{
+"id": "w971",
+"pos": "名詞句",
+"exampleJa": "その会社は主に国内市場に重点を置いている。",
+"note": "類義語：national market, home market, local market\n表現：domestic market（国内市場）"
+},
+{
+"id": "w972",
+"pos": "名詞句",
+"exampleJa": "昨年、シンガポールに海外支店が開設された。",
+"note": "類義語：foreign branch, international branch, overseas office\n表現：open an overseas branch（海外支店を開設する）"
+},
+{
+"id": "w973",
+"pos": "動詞・形容詞",
+"exampleJa": "その会社はシカゴに本社を置いている。",
+"note": "類義語：based, located, situated\n派生：headquarters（名詞：本社）\n表現：be headquartered in（～に本社を置く）"
+},
+{
+"id": "w974",
+"pos": "形容詞・副詞",
+"exampleJa": "その会社は全国規模の広告キャンペーンを開始した。",
+"note": "類義語：national, nationwide, countrywide\n派生：nationwide（副詞：全国的に）\n表現：nationwide campaign（全国的なキャンペーン）"
+},
+{
+"id": "w975",
+"pos": "名詞句",
+"exampleJa": "各地域事務所は毎月、本社に報告する。",
+"note": "類義語：regional branch, local office, district office\n表現：regional office（地域事務所）"
+},
+{
+"id": "w976",
+"pos": "名詞句",
+"exampleJa": "地元支店は顧客からの問い合わせに対応する。",
+"note": "類義語：local branch, local office, branch office\n表現：local branch（地元支店）"
+},
+{
+"id": "w977",
+"pos": "名詞",
+"exampleJa": "その系列会社は南米での流通を担当している。",
+"note": "類義語：subsidiary, partner, associate\n派生：affiliation（名詞：提携、所属）\n表現：affiliate company（系列会社）"
+},
+{
+"id": "w978",
+"pos": "名詞句",
+"exampleJa": "その親会社はすべての子会社を監督している。",
+"note": "類義語：holding company, head company, corporate parent\n派生：subsidiary（名詞：子会社）\n表現：parent company（親会社）"
+},
+{
+"id": "w979",
+"pos": "名詞句",
+"exampleJa": "その持株会社はいくつかの小規模企業を所有している。",
+"note": "類義語：parent company, investment company, corporate group\n表現：holding company（持株会社）"
+},
+{
+"id": "w980",
+"pos": "名詞句",
+"exampleJa": "規制当局はその疑わしいペーパーカンパニーを調査した。",
+"note": "類義語：dummy company, front company, paper company\n表現：shell company（ペーパーカンパニー）"
+},
+{
+"id": "w981",
+"pos": "名詞句",
+"exampleJa": "その非営利団体は寄付に頼っている。",
+"note": "類義語：nonprofit group, charitable organization, charity\n表現：nonprofit organization（非営利団体）"
+},
+{
+"id": "w982",
+"pos": "名詞句",
+"exampleJa": "その会社は毎年チャリティーイベントを後援している。",
+"note": "類義語：charitable event, fundraising event, charity function\n表現：charity event（慈善イベント）"
+},
+{
+"id": "w983",
+"pos": "名詞",
+"exampleJa": "その会社は地元の学校に多額の寄付をした。",
+"note": "類義語：contribution, gift, grant\n派生：donate（動詞：寄付する）\n表現：make a donation（寄付をする）"
+},
+{
+"id": "w984",
+"pos": "名詞",
+"exampleJa": "その創業者は慈善活動で知られている。",
+"note": "類義語：charity, generosity, benevolence\n派生：philanthropic（形容詞：慈善の）\n表現：corporate philanthropy（企業の慈善活動）"
+},
+{
+"id": "w985",
+"pos": "名詞・動詞",
+"exampleJa": "従業員は月に一度、保護施設でボランティア活動をする。",
+"note": "類義語：volunteer, helper, participant\n派生：voluntary（形容詞：自発的な、無償の）\n表現：volunteer at（～でボランティア活動をする）"
+},
+{
+"id": "w986",
+"pos": "名詞句",
+"exampleJa": "その銀行は地域社会への働きかけのプログラムを運営している。",
+"note": "類義語：community involvement, public engagement, outreach program\n表現：community outreach program（地域社会への働きかけのプログラム）"
+},
+{
+"id": "w987",
+"pos": "名詞句",
+"exampleJa": "その報告書は企業の社会的責任を強調している。",
+"note": "類義語：corporate responsibility, social responsibility, CSR\n表現：corporate social responsibility（企業の社会的責任）"
+},
+{
+"id": "w988",
+"pos": "名詞句",
+"exampleJa": "利害関係者との関わりはプロジェクトの成功に不可欠だ。",
+"note": "類義語：stakeholder involvement, stakeholder participation, stakeholder relations\n表現：stakeholder engagement（利害関係者との関わり）"
+},
+{
+"id": "w989",
+"pos": "名詞句",
+"exampleJa": "彼は10年以上にわたって公共部門で働いた。",
+"note": "類義語：government sector, government service, public administration\n表現：public sector（公共部門）"
+},
+{
+"id": "w990",
+"pos": "名詞句",
+"exampleJa": "昨年、民間部門が新規雇用の大半を生み出した。",
+"note": "類義語：private industry, business sector, corporate sector\n表現：private sector（民間部門）"
+},
+{
+"id": "w991",
+"pos": "名詞句",
+"exampleJa": "市町村政府は新しい区画計画を承認した。",
+"note": "類義語：local government, city government, municipal authority\n表現：municipal government（市町村政府）"
+},
+{
+"id": "w992",
+"pos": "名詞句",
+"exampleJa": "その会社は連邦規制を遵守しなければならない。",
+"note": "類義語：federal law, federal rule, government regulation\n表現：comply with regulations（規制を遵守する）"
+},
+{
+"id": "w993",
+"pos": "名詞句",
+"exampleJa": "その立法機関は新しい貿易法案を可決した。",
+"note": "類義語：legislature, lawmaking body, parliament\n表現：legislative body（立法機関）"
+},
+{
+"id": "w994",
+"pos": "名詞",
+"exampleJa": "政策立案者たちは提案された税制改革について議論した。",
+"note": "類義語：legislator, policymaker, government official\n派生：policymaking（名詞：政策立案）\n表現：policy maker（政策立案者）"
+},
+{
+"id": "w995",
+"pos": "名詞句",
+"exampleJa": "投票は市民の義務と考えられている。",
+"note": "類義語：civic responsibility, public duty, citizen responsibility\n表現：civic duty（市民の義務）"
+},
+{
+"id": "w996",
+"pos": "名詞句",
+"exampleJa": "新しい高速道路について議論するため、公聴会が開かれた。",
+"note": "類義語：public session, public meeting, hearing\n表現：hold a public hearing（公聴会を開く）"
+},
+{
+"id": "w997",
+"pos": "名詞",
+"exampleJa": "その国民投票によってプロジェクトの将来が決まる。",
+"note": "類義語：popular vote, ballot, plebiscite\n派生：refer（動詞：付託する、照会する）\n表現：hold a referendum（国民投票を実施する）"
+},
+{
+"id": "w998",
+"pos": "名詞",
+"exampleJa": "国勢調査は貴重な人口統計データを提供する。",
+"note": "類義語：population survey, population count, enumeration\n派生：census（動詞：国勢調査を行う）\n表現：conduct a census（国勢調査を実施する）"
+},
+{
+"id": "w999",
+"pos": "名詞",
+"exampleJa": "その統計はオンラインショッピングの増加を示している。",
+"note": "類義語：figure, datum, measurement\n派生：statistical（形容詞：統計の）\n表現：statistics show（統計は～を示す）"
+},
+{
+"id": "w1000",
+"pos": "名詞句",
+"exampleJa": "トレンド分析は将来の消費者行動の予測に役立つ。",
+"note": "類義語：trend assessment, market analysis, trend research\n表現：trend analysis（トレンド分析）"
+}
+]

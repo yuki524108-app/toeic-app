@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w601",
+  "word": "clinic",
+  "meaning": "診療所",
+  "example": "The company operates an on-site health clinic."
+ },
+ {
+  "id": "w602",
+  "word": "physician",
+  "meaning": "内科医",
+  "example": "See a physician if the symptoms persist."
+ },
+ {
+  "id": "w603",
+  "word": "prescription",
+  "meaning": "処方箋",
+  "example": "Bring your prescription to the pharmacy."
+ },
+ {
+  "id": "w604",
+  "word": "pharmacy",
+  "meaning": "薬局",
+  "example": "The pharmacy is open until nine in the evening."
+ },
+ {
+  "id": "w605",
+  "word": "appointment",
+  "meaning": "予約、診察予約",
+  "example": "She scheduled a dental appointment for next week."
+ },
+ {
+  "id": "w606",
+  "word": "checkup",
+  "meaning": "健康診断",
+  "example": "Employees receive an annual health checkup."
+ },
+ {
+  "id": "w607",
+  "word": "symptom",
+  "meaning": "症状",
+  "example": "Report any symptoms to your supervisor immediately."
+ },
+ {
+  "id": "w608",
+  "word": "diagnosis",
+  "meaning": "診断",
+  "example": "The diagnosis confirmed a mild allergy."
+ },
+ {
+  "id": "w609",
+  "word": "treatment",
+  "meaning": "治療",
+  "example": "The treatment lasted about three weeks."
+ },
+ {
+  "id": "w610",
+  "word": "medication",
+  "meaning": "薬",
+  "example": "Take the medication twice a day with food."
+ },
+ {
+  "id": "w611",
+  "word": "side effect",
+  "meaning": "副作用",
+  "example": "The medication may cause mild side effects."
+ },
+ {
+  "id": "w612",
+  "word": "vaccination",
+  "meaning": "予防接種",
+  "example": "Vaccination is required before international travel."
+ },
+ {
+  "id": "w613",
+  "word": "immunity",
+  "meaning": "免疫",
+  "example": "The vaccine helps build immunity to the virus."
+ },
+ {
+  "id": "w614",
+  "word": "sick leave",
+  "meaning": "病気休暇",
+  "example": "He took two days of sick leave last week."
+ },
+ {
+  "id": "w615",
+  "word": "health insurance",
+  "meaning": "健康保険",
+  "example": "The company provides health insurance for all employees."
+ },
+ {
+  "id": "w616",
+  "word": "dental coverage",
+  "meaning": "歯科保険",
+  "example": "Dental coverage is included in the benefits package."
+ },
+ {
+  "id": "w617",
+  "word": "wellness program",
+  "meaning": "健康促進プログラム",
+  "example": "The wellness program includes free gym memberships."
+ },
+ {
+  "id": "w618",
+  "word": "ergonomic",
+  "meaning": "人間工学に基づいた",
+  "example": "The office was equipped with ergonomic chairs."
+ },
+ {
+  "id": "w619",
+  "word": "stress management",
+  "meaning": "ストレス管理",
+  "example": "The workshop focused on stress management techniques."
+ },
+ {
+  "id": "w620",
+  "word": "nutrition",
+  "meaning": "栄養",
+  "example": "The cafeteria offers information on nutrition."
+ },
+ {
+  "id": "w621",
+  "word": "physical therapy",
+  "meaning": "理学療法",
+  "example": "He attends physical therapy twice a week."
+ },
+ {
+  "id": "w622",
+  "word": "first responder",
+  "meaning": "救急隊員",
+  "example": "First responders arrived at the scene quickly."
+ },
+ {
+  "id": "w623",
+  "word": "epidemic",
+  "meaning": "流行病",
+  "example": "The company adjusted its policies during the epidemic."
+ },
+ {
+  "id": "w624",
+  "word": "quarantine",
+  "meaning": "検疫、隔離",
+  "example": "Travelers were placed under quarantine for two weeks."
+ },
+ {
+  "id": "w625",
+  "word": "sanitation",
+  "meaning": "衛生",
+  "example": "Strict sanitation measures were implemented in the factory."
+ },
+ {
+  "id": "w626",
+  "word": "disinfectant",
+  "meaning": "消毒剤",
+  "example": "Disinfectant is available at every workstation."
+ },
+ {
+  "id": "w627",
+  "word": "protective equipment",
+  "meaning": "防護具",
+  "example": "Workers must wear protective equipment at all times."
+ },
+ {
+  "id": "w628",
+  "word": "occupational health",
+  "meaning": "労働衛生",
+  "example": "The occupational health team monitors workplace safety."
+ },
+ {
+  "id": "w629",
+  "word": "disability benefit",
+  "meaning": "障害給付",
+  "example": "He applied for a disability benefit after the accident."
+ },
+ {
+  "id": "w630",
+  "word": "maternity leave",
+  "meaning": "産休",
+  "example": "She is currently on maternity leave."
+ },
+ {
+  "id": "w631",
+  "word": "paternity leave",
+  "meaning": "育休（父親）",
+  "example": "The company recently extended paternity leave to six weeks."
+ },
+ {
+  "id": "w632",
+  "word": "childcare",
+  "meaning": "保育",
+  "example": "The office provides on-site childcare for employees."
+ },
+ {
+  "id": "w633",
+  "word": "caregiver",
+  "meaning": "介護者",
+  "example": "She works as a caregiver for elderly patients."
+ },
+ {
+  "id": "w634",
+  "word": "retirement plan",
+  "meaning": "退職金制度",
+  "example": "The company matches contributions to the retirement plan."
+ },
+ {
+  "id": "w635",
+  "word": "401(k)",
+  "meaning": "確定拠出年金",
+  "example": "Employees can contribute to a 401(k) plan."
+ },
+ {
+  "id": "w636",
+  "word": "life insurance",
+  "meaning": "生命保険",
+  "example": "The benefits package includes life insurance."
+ },
+ {
+  "id": "w637",
+  "word": "claim form",
+  "meaning": "保険金請求書",
+  "example": "Fill out the claim form and submit it to the insurer."
+ },
+ {
+  "id": "w638",
+  "word": "policyholder",
+  "meaning": "保険契約者",
+  "example": "The policyholder must renew the policy annually."
+ },
+ {
+  "id": "w639",
+  "word": "actuary",
+  "meaning": "保険数理士",
+  "example": "An actuary calculated the risk for the new policy."
+ },
+ {
+  "id": "w640",
+  "word": "premium increase",
+  "meaning": "保険料の値上げ",
+  "example": "The premium increase surprised many policyholders."
+ },
+ {
+  "id": "w641",
+  "word": "co-payment",
+  "meaning": "自己負担金",
+  "example": "The co-payment for each visit is twenty dollars."
+ },
+ {
+  "id": "w642",
+  "word": "out-of-pocket expense",
+  "meaning": "自己負担費用",
+  "example": "Out-of-pocket expenses are capped at a certain amount."
+ },
+ {
+  "id": "w643",
+  "word": "benefit package",
+  "meaning": "福利厚生パッケージ",
+  "example": "The benefit package includes health and dental coverage."
+ },
+ {
+  "id": "w644",
+  "word": "perk",
+  "meaning": "特典、役得",
+  "example": "Free lunch is one of the perks of working here."
+ },
+ {
+  "id": "w645",
+  "word": "bonus",
+  "meaning": "ボーナス",
+  "example": "Employees receive a bonus based on annual performance."
+ },
+ {
+  "id": "w646",
+  "word": "raise",
+  "meaning": "昇給",
+  "example": "She received a raise after her promotion."
+ },
+ {
+  "id": "w647",
+  "word": "promotion",
+  "meaning": "昇進",
+  "example": "He was offered a promotion to senior manager."
+ },
+ {
+  "id": "w648",
+  "word": "demotion",
+  "meaning": "降格",
+  "example": "The demotion came as a surprise to the employee."
+ },
+ {
+  "id": "w649",
+  "word": "seniority",
+  "meaning": "勤続年数、先任権",
+  "example": "Vacation days increase with seniority."
+ },
+ {
+  "id": "w650",
+  "word": "job title",
+  "meaning": "役職名",
+  "example": "Her job title changed after the reorganization."
+ },
+ {
+  "id": "w651",
+  "word": "solar panel",
+  "meaning": "太陽光パネル",
+  "example": "Solar panels were installed on the factory roof."
+ },
+ {
+  "id": "w652",
+  "word": "wind turbine",
+  "meaning": "風力タービン",
+  "example": "Wind turbines generate electricity for the local grid."
+ },
+ {
+  "id": "w653",
+  "word": "carbon footprint",
+  "meaning": "炭素排出量",
+  "example": "The company aims to reduce its carbon footprint."
+ },
+ {
+  "id": "w654",
+  "word": "greenhouse gas",
+  "meaning": "温室効果ガス",
+  "example": "New regulations limit greenhouse gas emissions."
+ },
+ {
+  "id": "w655",
+  "word": "recycling program",
+  "meaning": "リサイクルプログラム",
+  "example": "The office launched a recycling program last year."
+ },
+ {
+  "id": "w656",
+  "word": "biodegradable",
+  "meaning": "生分解性の",
+  "example": "The packaging is made from biodegradable materials."
+ },
+ {
+  "id": "w657",
+  "word": "pollution control",
+  "meaning": "公害防止",
+  "example": "The factory installed new pollution control equipment."
+ },
+ {
+  "id": "w658",
+  "word": "conservation",
+  "meaning": "保全",
+  "example": "The company supports local conservation efforts."
+ },
+ {
+  "id": "w659",
+  "word": "natural resource",
+  "meaning": "天然資源",
+  "example": "The region is rich in natural resources."
+ },
+ {
+  "id": "w660",
+  "word": "fossil fuel",
+  "meaning": "化石燃料",
+  "example": "The company is reducing its reliance on fossil fuels."
+ },
+ {
+  "id": "w661",
+  "word": "clean energy",
+  "meaning": "クリーンエネルギー",
+  "example": "The government invests heavily in clean energy projects."
+ },
+ {
+  "id": "w662",
+  "word": "energy efficiency",
+  "meaning": "エネルギー効率",
+  "example": "The new building was designed for energy efficiency."
+ },
+ {
+  "id": "w663",
+  "word": "power grid",
+  "meaning": "送電網",
+  "example": "The storm caused damage to the power grid."
+ },
+ {
+  "id": "w664",
+  "word": "utility company",
+  "meaning": "公益事業会社",
+  "example": "The utility company announced a rate increase."
+ },
+ {
+  "id": "w665",
+  "word": "generator",
+  "meaning": "発電機",
+  "example": "A backup generator kept the lights on during the outage."
+ },
+ {
+  "id": "w666",
+  "word": "assembly plant",
+  "meaning": "組立工場",
+  "example": "The car assembly plant employs over a thousand workers."
+ },
+ {
+  "id": "w667",
+  "word": "production line",
+  "meaning": "生産ライン",
+  "example": "The production line was upgraded with new machinery."
+ },
+ {
+  "id": "w668",
+  "word": "raw data",
+  "meaning": "生データ",
+  "example": "The raw data needs to be cleaned before analysis."
+ },
+ {
+  "id": "w669",
+  "word": "conveyor belt",
+  "meaning": "コンベアベルト",
+  "example": "Products move along the conveyor belt for packaging."
+ },
+ {
+  "id": "w670",
+  "word": "forklift",
+  "meaning": "フォークリフト",
+  "example": "Only certified staff may operate the forklift."
+ },
+ {
+  "id": "w671",
+  "word": "pallet",
+  "meaning": "パレット",
+  "example": "Goods are stacked on pallets for shipping."
+ },
+ {
+  "id": "w672",
+  "word": "container ship",
+  "meaning": "コンテナ船",
+  "example": "The container ship arrived at the port on schedule."
+ },
+ {
+  "id": "w673",
+  "word": "cargo",
+  "meaning": "貨物",
+  "example": "The cargo was inspected before leaving the warehouse."
+ },
+ {
+  "id": "w674",
+  "word": "import duty",
+  "meaning": "輸入関税",
+  "example": "Import duties increased the cost of the shipment."
+ },
+ {
+  "id": "w675",
+  "word": "export license",
+  "meaning": "輸出許可証",
+  "example": "An export license is required for certain goods."
+ },
+ {
+  "id": "w676",
+  "word": "trade agreement",
+  "meaning": "貿易協定",
+  "example": "The trade agreement lowered tariffs between the two countries."
+ },
+ {
+  "id": "w677",
+  "word": "free trade zone",
+  "meaning": "自由貿易地帯",
+  "example": "The factory is located in a free trade zone."
+ },
+ {
+  "id": "w678",
+  "word": "bill of lading",
+  "meaning": "船荷証券",
+  "example": "The bill of lading confirms the shipment details."
+ },
+ {
+  "id": "w679",
+  "word": "customs broker",
+  "meaning": "通関業者",
+  "example": "A customs broker handled the import paperwork."
+ },
+ {
+  "id": "w680",
+  "word": "port authority",
+  "meaning": "港湾局",
+  "example": "The port authority regulates all shipping activity."
+ },
+ {
+  "id": "w681",
+  "word": "warehouse management",
+  "meaning": "倉庫管理",
+  "example": "The new software improved warehouse management."
+ },
+ {
+  "id": "w682",
+  "word": "stock level",
+  "meaning": "在庫水準",
+  "example": "Stock levels are checked weekly."
+ },
+ {
+  "id": "w683",
+  "word": "reorder point",
+  "meaning": "発注点",
+  "example": "The system automatically orders more stock at the reorder point."
+ },
+ {
+  "id": "w684",
+  "word": "safety stock",
+  "meaning": "安全在庫",
+  "example": "Safety stock helps prevent shortages during demand spikes."
+ },
+ {
+  "id": "w685",
+  "word": "demand forecasting",
+  "meaning": "需要予測",
+  "example": "Demand forecasting helps plan production schedules."
+ },
+ {
+  "id": "w686",
+  "word": "vendor management",
+  "meaning": "仕入先管理",
+  "example": "Vendor management ensures reliable supply chains."
+ },
+ {
+  "id": "w687",
+  "word": "quality assurance",
+  "meaning": "品質保証",
+  "example": "The quality assurance team tests every batch."
+ },
+ {
+  "id": "w688",
+  "word": "defect rate",
+  "meaning": "不良率",
+  "example": "The defect rate dropped after the new process was introduced."
+ },
+ {
+  "id": "w689",
+  "word": "sample inspection",
+  "meaning": "抜き取り検査",
+  "example": "A sample inspection is conducted before shipment."
+ },
+ {
+  "id": "w690",
+  "word": "calibration",
+  "meaning": "校正",
+  "example": "The equipment requires regular calibration."
+ },
+ {
+  "id": "w691",
+  "word": "tolerance level",
+  "meaning": "許容範囲",
+  "example": "The parts must be manufactured within a strict tolerance level."
+ },
+ {
+  "id": "w692",
+  "word": "lean manufacturing",
+  "meaning": "リーン生産方式",
+  "example": "Lean manufacturing reduces waste in the production process."
+ },
+ {
+  "id": "w693",
+  "word": "process improvement",
+  "meaning": "プロセス改善",
+  "example": "The team focused on process improvement to cut costs."
+ },
+ {
+  "id": "w694",
+  "word": "root cause analysis",
+  "meaning": "根本原因分析",
+  "example": "A root cause analysis revealed the source of the defect."
+ },
+ {
+  "id": "w695",
+  "word": "continuous improvement",
+  "meaning": "継続的改善",
+  "example": "Continuous improvement is a core company value."
+ },
+ {
+  "id": "w696",
+  "word": "standard operating procedure",
+  "meaning": "標準作業手順",
+  "example": "Follow the standard operating procedure at all times."
+ },
+ {
+  "id": "w697",
+  "word": "work instruction",
+  "meaning": "作業指示書",
+  "example": "The work instruction outlines each step of the process."
+ },
+ {
+  "id": "w698",
+  "word": "downtime report",
+  "meaning": "稼働停止報告書",
+  "example": "The downtime report showed a two-hour delay."
+ },
+ {
+  "id": "w699",
+  "word": "preventive maintenance",
+  "meaning": "予防保全",
+  "example": "Preventive maintenance reduces the risk of breakdowns."
+ },
+ {
+  "id": "w700",
+  "word": "spare part",
+  "meaning": "予備部品",
+  "example": "Spare parts are kept in stock for quick repairs."
+ }
+]

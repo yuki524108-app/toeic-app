@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1501",
+  "word": "boutique hotel",
+  "meaning": "ブティックホテル",
+  "example": "They stayed at a charming boutique hotel downtown."
+ },
+ {
+  "id": "w1502",
+  "word": "hotel occupancy rate",
+  "meaning": "ホテルの稼働率",
+  "example": "The hotel occupancy rate rose during the holiday season."
+ },
+ {
+  "id": "w1503",
+  "word": "check-out time",
+  "meaning": "チェックアウト時間",
+  "example": "Check-out time is eleven in the morning."
+ },
+ {
+  "id": "w1504",
+  "word": "late checkout",
+  "meaning": "レイトチェックアウト",
+  "example": "They requested a late checkout for an extra fee."
+ },
+ {
+  "id": "w1505",
+  "word": "wake-up call",
+  "meaning": "モーニングコール",
+  "example": "She requested a wake-up call for six a.m."
+ },
+ {
+  "id": "w1506",
+  "word": "mini bar",
+  "meaning": "ミニバー",
+  "example": "The mini bar in the room was fully stocked."
+ },
+ {
+  "id": "w1507",
+  "word": "bell captain",
+  "meaning": "ベルキャプテン",
+  "example": "The bell captain helped carry the luggage."
+ },
+ {
+  "id": "w1508",
+  "word": "guest feedback",
+  "meaning": "宿泊客からのフィードバック",
+  "example": "The manager reviewed guest feedback from the survey."
+ },
+ {
+  "id": "w1509",
+  "word": "online review",
+  "meaning": "オンラインレビュー",
+  "example": "Positive online reviews boosted the restaurant's reputation."
+ },
+ {
+  "id": "w1510",
+  "word": "star rating",
+  "meaning": "星評価",
+  "example": "The hotel maintains a five-star rating."
+ },
+ {
+  "id": "w1511",
+  "word": "dining reservation",
+  "meaning": "食事の予約",
+  "example": "Please make a dining reservation in advance."
+ },
+ {
+  "id": "w1512",
+  "word": "wine list",
+  "meaning": "ワインリスト",
+  "example": "The waiter presented the wine list before dinner."
+ },
+ {
+  "id": "w1513",
+  "word": "chef's special",
+  "meaning": "シェフのおすすめ",
+  "example": "Tonight's chef's special is grilled salmon."
+ },
+ {
+  "id": "w1514",
+  "word": "food critic",
+  "meaning": "フードクリティック",
+  "example": "The food critic gave the restaurant a glowing review."
+ },
+ {
+  "id": "w1515",
+  "word": "culinary competition",
+  "meaning": "料理コンテスト",
+  "example": "The chef won first place in a culinary competition."
+ },
+ {
+  "id": "w1516",
+  "word": "food safety standard",
+  "meaning": "食品安全基準",
+  "example": "The kitchen follows strict food safety standards."
+ },
+ {
+  "id": "w1517",
+  "word": "health inspector",
+  "meaning": "衛生検査官",
+  "example": "A health inspector visited the restaurant unannounced."
+ },
+ {
+  "id": "w1518",
+  "word": "kitchen hygiene",
+  "meaning": "厨房の衛生",
+  "example": "Kitchen hygiene is closely monitored by management."
+ },
+ {
+  "id": "w1519",
+  "word": "takeout order",
+  "meaning": "テイクアウト注文",
+  "example": "The restaurant processes many takeout orders during lunch."
+ },
+ {
+  "id": "w1520",
+  "word": "delivery app",
+  "meaning": "配達アプリ",
+  "example": "Customers can order through a delivery app."
+ },
+ {
+  "id": "w1521",
+  "word": "food delivery service",
+  "meaning": "フードデリバリーサービス",
+  "example": "The food delivery service expanded to new areas."
+ },
+ {
+  "id": "w1522",
+  "word": "meal kit",
+  "meaning": "ミールキット",
+  "example": "The company sells meal kits with pre-measured ingredients."
+ },
+ {
+  "id": "w1523",
+  "word": "subscription box",
+  "meaning": "サブスクリプションボックス",
+  "example": "She signed up for a monthly subscription box."
+ },
+ {
+  "id": "w1524",
+  "word": "customer profile",
+  "meaning": "顧客プロフィール",
+  "example": "The system creates a customer profile based on purchase history."
+ },
+ {
+  "id": "w1525",
+  "word": "purchase history",
+  "meaning": "購入履歴",
+  "example": "The website tracks each customer's purchase history."
+ },
+ {
+  "id": "w1526",
+  "word": "wish list",
+  "meaning": "ウィッシュリスト",
+  "example": "She added the item to her wish list for later."
+ },
+ {
+  "id": "w1527",
+  "word": "gift registry",
+  "meaning": "ギフトレジストリ",
+  "example": "The couple created a gift registry for their wedding."
+ },
+ {
+  "id": "w1528",
+  "word": "promotional offer",
+  "meaning": "販促オファー",
+  "example": "The store sent a promotional offer via email."
+ },
+ {
+  "id": "w1529",
+  "word": "limited-time offer",
+  "meaning": "期間限定オファー",
+  "example": "The limited-time offer ends this weekend."
+ },
+ {
+  "id": "w1530",
+  "word": "referral discount",
+  "meaning": "紹介割引",
+  "example": "Customers get a referral discount for inviting friends."
+ },
+ {
+  "id": "w1531",
+  "word": "membership tier",
+  "meaning": "会員ランク",
+  "example": "Higher membership tiers unlock additional benefits."
+ },
+ {
+  "id": "w1532",
+  "word": "rewards program",
+  "meaning": "リワードプログラム",
+  "example": "The airline's rewards program offers free flights."
+ },
+ {
+  "id": "w1533",
+  "word": "annual leave",
+  "meaning": "年次有給休暇",
+  "example": "Employees are entitled to twenty days of annual leave."
+ },
+ {
+  "id": "w1534",
+  "word": "time off request",
+  "meaning": "休暇申請",
+  "example": "Submit your time off request two weeks in advance."
+ },
+ {
+  "id": "w1535",
+  "word": "shift schedule",
+  "meaning": "シフトスケジュール",
+  "example": "The shift schedule is posted every Sunday."
+ },
+ {
+  "id": "w1536",
+  "word": "night shift",
+  "meaning": "夜勤",
+  "example": "She works the night shift three times a week."
+ },
+ {
+  "id": "w1537",
+  "word": "rotating shift",
+  "meaning": "ローテーション勤務",
+  "example": "The factory operates on a rotating shift system."
+ },
+ {
+  "id": "w1538",
+  "word": "part-time position",
+  "meaning": "パートタイムの職",
+  "example": "She applied for a part-time position at the store."
+ },
+ {
+  "id": "w1539",
+  "word": "full-time employment",
+  "meaning": "フルタイム雇用",
+  "example": "He transitioned from part-time to full-time employment."
+ },
+ {
+  "id": "w1540",
+  "word": "temporary staff",
+  "meaning": "臨時職員",
+  "example": "Temporary staff were hired for the holiday season."
+ },
+ {
+  "id": "w1541",
+  "word": "seasonal worker",
+  "meaning": "季節労働者",
+  "example": "Seasonal workers help during the busy harvest period."
+ },
+ {
+  "id": "w1542",
+  "word": "contract employee",
+  "meaning": "契約社員",
+  "example": "She works as a contract employee for the agency."
+ },
+ {
+  "id": "w1543",
+  "word": "freelancer",
+  "meaning": "フリーランサー",
+  "example": "He works as a freelancer designing websites."
+ },
+ {
+  "id": "w1544",
+  "word": "gig economy",
+  "meaning": "ギグエコノミー",
+  "example": "The gig economy has changed how people find work."
+ },
+ {
+  "id": "w1545",
+  "word": "independent contractor",
+  "meaning": "個人請負業者",
+  "example": "She is classified as an independent contractor."
+ },
+ {
+  "id": "w1546",
+  "word": "staffing agency",
+  "meaning": "人材派遣会社",
+  "example": "The company works with a staffing agency to fill positions."
+ },
+ {
+  "id": "w1547",
+  "word": "talent acquisition",
+  "meaning": "人材獲得",
+  "example": "The talent acquisition team screens all applicants."
+ },
+ {
+  "id": "w1548",
+  "word": "job vacancy",
+  "meaning": "求人、空きポジション",
+  "example": "There are three job vacancies in the sales department."
+ },
+ {
+  "id": "w1549",
+  "word": "hiring manager",
+  "meaning": "採用担当マネージャー",
+  "example": "The hiring manager reviewed dozens of applications."
+ },
+ {
+  "id": "w1550",
+  "word": "interview panel",
+  "meaning": "面接パネル",
+  "example": "An interview panel of three managers assessed the candidate."
+ },
+ {
+  "id": "w1551",
+  "word": "phone screening",
+  "meaning": "電話でのスクリーニング",
+  "example": "The recruiter conducted a phone screening first."
+ },
+ {
+  "id": "w1552",
+  "word": "job offer letter",
+  "meaning": "内定通知書",
+  "example": "She received the job offer letter by email."
+ },
+ {
+  "id": "w1553",
+  "word": "start date",
+  "meaning": "勤務開始日",
+  "example": "Her start date was pushed back by two weeks."
+ },
+ {
+  "id": "w1554",
+  "word": "new hire orientation",
+  "meaning": "新入社員オリエンテーション",
+  "example": "New hire orientation covers company policies and benefits."
+ },
+ {
+  "id": "w1555",
+  "word": "training manual",
+  "meaning": "研修マニュアル",
+  "example": "The training manual outlines the onboarding process."
+ },
+ {
+  "id": "w1556",
+  "word": "skills assessment",
+  "meaning": "スキル評価",
+  "example": "Applicants must complete a skills assessment test."
+ },
+ {
+  "id": "w1557",
+  "word": "performance goal",
+  "meaning": "業績目標",
+  "example": "Each employee sets performance goals at the start of the year."
+ },
+ {
+  "id": "w1558",
+  "word": "annual review",
+  "meaning": "年次評価",
+  "example": "Her annual review highlighted strong leadership skills."
+ },
+ {
+  "id": "w1559",
+  "word": "360-degree feedback",
+  "meaning": "360度評価",
+  "example": "The company uses 360-degree feedback for evaluations."
+ },
+ {
+  "id": "w1560",
+  "word": "merit increase",
+  "meaning": "昇給(功績による)",
+  "example": "She received a merit increase after her review."
+ },
+ {
+  "id": "w1561",
+  "word": "cost of living adjustment",
+  "meaning": "生活費調整",
+  "example": "Salaries include an annual cost of living adjustment."
+ },
+ {
+  "id": "w1562",
+  "word": "employee benefits package",
+  "meaning": "従業員福利厚生パッケージ",
+  "example": "The benefits package includes health and dental insurance."
+ },
+ {
+  "id": "w1563",
+  "word": "dental insurance",
+  "meaning": "歯科保険",
+  "example": "The company's dental insurance covers routine checkups."
+ },
+ {
+  "id": "w1564",
+  "word": "vision insurance",
+  "meaning": "視力保険",
+  "example": "Vision insurance covers the cost of eyeglasses."
+ },
+ {
+  "id": "w1565",
+  "word": "life insurance policy",
+  "meaning": "生命保険契約",
+  "example": "Employees can opt into a life insurance policy."
+ },
+ {
+  "id": "w1566",
+  "word": "disability insurance",
+  "meaning": "障害保険",
+  "example": "Disability insurance provides income if you can't work."
+ },
+ {
+  "id": "w1567",
+  "word": "flexible spending account",
+  "meaning": "フレキシブル支出口座",
+  "example": "Employees can use a flexible spending account for medical costs."
+ },
+ {
+  "id": "w1568",
+  "word": "employee assistance program",
+  "meaning": "従業員支援プログラム",
+  "example": "The employee assistance program offers free counseling."
+ },
+ {
+  "id": "w1569",
+  "word": "childcare benefit",
+  "meaning": "育児支援手当",
+  "example": "The company provides a childcare benefit for working parents."
+ },
+ {
+  "id": "w1570",
+  "word": "commuter benefit",
+  "meaning": "通勤手当",
+  "example": "The commuter benefit helps cover public transit costs."
+ },
+ {
+  "id": "w1571",
+  "word": "relocation package",
+  "meaning": "転勤パッケージ",
+  "example": "The company offered a relocation package for the transfer."
+ },
+ {
+  "id": "w1572",
+  "word": "signing bonus",
+  "meaning": "入社一時金",
+  "example": "She negotiated a signing bonus with her new employer."
+ },
+ {
+  "id": "w1573",
+  "word": "classroom setting",
+  "meaning": "教室環境",
+  "example": "The training was conducted in a classroom setting."
+ },
+ {
+  "id": "w1574",
+  "word": "hands-on training",
+  "meaning": "実地研修",
+  "example": "New employees receive hands-on training on the equipment."
+ },
+ {
+  "id": "w1575",
+  "word": "e-learning module",
+  "meaning": "eラーニングモジュール",
+  "example": "Employees must complete the e-learning module by Friday."
+ },
+ {
+  "id": "w1576",
+  "word": "guest speaker",
+  "meaning": "ゲストスピーカー",
+  "example": "A guest speaker discussed industry trends at the seminar."
+ },
+ {
+  "id": "w1577",
+  "word": "panelist",
+  "meaning": "パネリスト",
+  "example": "She was invited as a panelist for the discussion."
+ },
+ {
+  "id": "w1578",
+  "word": "moderator",
+  "meaning": "司会者、モデレーター",
+  "example": "The moderator kept the discussion on schedule."
+ },
+ {
+  "id": "w1579",
+  "word": "Q&A session",
+  "meaning": "質疑応答セッション",
+  "example": "The Q&A session followed the keynote address."
+ },
+ {
+  "id": "w1580",
+  "word": "audience engagement",
+  "meaning": "聴衆の関与",
+  "example": "The speaker used polls to increase audience engagement."
+ },
+ {
+  "id": "w1581",
+  "word": "breakout session",
+  "meaning": "分科会",
+  "example": "Attendees chose from several breakout sessions."
+ },
+ {
+  "id": "w1582",
+  "word": "conference badge",
+  "meaning": "会議用バッジ",
+  "example": "Attendees wore a conference badge for identification."
+ },
+ {
+  "id": "w1583",
+  "word": "registration desk",
+  "meaning": "受付デスク",
+  "example": "Check in at the registration desk upon arrival."
+ },
+ {
+  "id": "w1584",
+  "word": "name badge",
+  "meaning": "名札",
+  "example": "Each participant received a name badge at check-in."
+ },
+ {
+  "id": "w1585",
+  "word": "agenda packet",
+  "meaning": "議題資料一式",
+  "example": "The agenda packet included the full conference schedule."
+ },
+ {
+  "id": "w1586",
+  "word": "swag bag",
+  "meaning": "ノベルティバッグ",
+  "example": "Attendees received a swag bag with company merchandise."
+ },
+ {
+  "id": "w1587",
+  "word": "exhibitor booth",
+  "meaning": "出展者ブース",
+  "example": "Companies set up an exhibitor booth to showcase products."
+ },
+ {
+  "id": "w1588",
+  "word": "live demonstration",
+  "meaning": "実演、ライブデモ",
+  "example": "The company gave a live demonstration of the new device."
+ },
+ {
+  "id": "w1589",
+  "word": "product launch event",
+  "meaning": "製品発表イベント",
+  "example": "The product launch event drew a large crowd."
+ },
+ {
+  "id": "w1590",
+  "word": "ribbon-cutting ceremony",
+  "meaning": "テープカット式典",
+  "example": "The mayor attended the ribbon-cutting ceremony."
+ },
+ {
+  "id": "w1591",
+  "word": "grand opening",
+  "meaning": "グランドオープン",
+  "example": "The store's grand opening attracted many customers."
+ },
+ {
+  "id": "w1592",
+  "word": "anniversary celebration",
+  "meaning": "記念祝典",
+  "example": "The company held an anniversary celebration for its 50th year."
+ },
+ {
+  "id": "w1593",
+  "word": "retirement party",
+  "meaning": "退職パーティー",
+  "example": "Colleagues organized a retirement party for their manager."
+ },
+ {
+  "id": "w1594",
+  "word": "farewell gathering",
+  "meaning": "送別会",
+  "example": "The team held a farewell gathering for the departing employee."
+ },
+ {
+  "id": "w1595",
+  "word": "welcome reception",
+  "meaning": "歓迎レセプション",
+  "example": "New employees attended a welcome reception on their first day."
+ },
+ {
+  "id": "w1596",
+  "word": "award ceremony",
+  "meaning": "授賞式",
+  "example": "The award ceremony recognized top-performing employees."
+ },
+ {
+  "id": "w1597",
+  "word": "recognition program",
+  "meaning": "表彰プログラム",
+  "example": "The recognition program rewards outstanding performance."
+ },
+ {
+  "id": "w1598",
+  "word": "employee of the month",
+  "meaning": "今月の従業員(表彰)",
+  "example": "She was named employee of the month for her dedication."
+ },
+ {
+  "id": "w1599",
+  "word": "service anniversary",
+  "meaning": "勤続記念日",
+  "example": "The company celebrates each employee's service anniversary."
+ },
+ {
+  "id": "w1600",
+  "word": "company picnic",
+  "meaning": "社内ピクニック",
+  "example": "The annual company picnic is held every summer."
+ }
+]

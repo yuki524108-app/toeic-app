@@ -1,0 +1,602 @@
+[
+{
+"id": "w1101",
+"pos": "名詞",
+"exampleJa": "日本からの代表団がその工場を訪問した。",
+"note": "類義語：delegation, contingent, group\n表現：a delegation from（～からの代表団）"
+},
+{
+"id": "w1102",
+"pos": "名詞",
+"exampleJa": "その団体は難民に人道援助を提供している。",
+"note": "類義語：humanitarian assistance, relief aid\n表現：provide humanitarian aid（人道援助を提供する）"
+},
+{
+"id": "w1103",
+"pos": "名詞",
+"exampleJa": "そのキャンプは何千人もの難民に避難場所を提供している。",
+"note": "類義語：displaced person, asylum seeker\n表現：refugee camp（難民キャンプ）"
+},
+{
+"id": "w1104",
+"pos": "名詞",
+"exampleJa": "新しい移民政策は就労ビザに影響を与える。",
+"note": "表現：immigration policy（移民政策）"
+},
+{
+"id": "w1105",
+"pos": "名詞",
+"exampleJa": "彼は昨年、帰化手続きを完了した。",
+"note": "派生：naturalize（帰化させる・帰化する）\n表現：naturalization process（帰化手続き）"
+},
+{
+"id": "w1106",
+"pos": "名詞",
+"exampleJa": "彼女は2か国の二重国籍を持っている。",
+"note": "類義語：dual nationality, multiple citizenship\n表現：hold dual citizenship（二重国籍を持つ）"
+},
+{
+"id": "w1107",
+"pos": "名詞",
+"exampleJa": "そのプログラムは学生間の文化交流を促進している。",
+"note": "類義語：cultural interaction, intercultural exchange\n表現：promote cultural exchange（文化交流を促進する）"
+},
+{
+"id": "w1108",
+"pos": "名詞",
+"exampleJa": "言語の壁によってコミュニケーションが難しくなった。",
+"note": "類義語：communication barrier, language difficulty\n表現：overcome a language barrier（言語の壁を乗り越える）"
+},
+{
+"id": "w1109",
+"pos": "名詞",
+"exampleJa": "通訳者が商談中のサポートをした。",
+"note": "派生：interpret（通訳する）\n表現：professional interpreter（専門の通訳者）"
+},
+{
+"id": "w1110",
+"pos": "名詞",
+"exampleJa": "その会社は書類のために翻訳サービスを利用した。",
+"note": "表現：translation service（翻訳サービス）"
+},
+{
+"id": "w1111",
+"pos": "形容詞",
+"exampleJa": "彼女は英語とスペイン語のバイリンガルです。",
+"note": "類義語：bilingual, fluent in two languages\n派生：bilingualism（バイリンガル能力）"
+},
+{
+"id": "w1112",
+"pos": "形容詞",
+"exampleJa": "その都市は多文化的なコミュニティで知られている。",
+"note": "類義語：diverse, cosmopolitan\n表現：multicultural community（多文化コミュニティ）"
+},
+{
+"id": "w1113",
+"pos": "名詞",
+"exampleJa": "その求人情報には100人を超える応募者が集まった。",
+"note": "類義語：job advertisement, employment listing\n表現：post a job posting（求人情報を掲載する）"
+},
+{
+"id": "w1114",
+"pos": "名詞",
+"exampleJa": "彼女は応募書類にカバーレターを添付した。",
+"note": "類義語：covering letter, application letter\n表現：attach a cover letter（カバーレターを添付する）"
+},
+{
+"id": "w1115",
+"pos": "名詞",
+"exampleJa": "彼は給与について交渉した後、内定を受け入れた。",
+"note": "類義語：employment offer, offer of employment\n表現：accept a job offer（内定を受け入れる）"
+},
+{
+"id": "w1116",
+"pos": "名詞",
+"exampleJa": "双方が雇用契約に署名した。",
+"note": "類義語：employment agreement, work contract\n表現：sign an employment contract（雇用契約に署名する）"
+},
+{
+"id": "w1117",
+"pos": "名詞",
+"exampleJa": "その職務内容には日々の責任が記載されている。",
+"note": "類義語：job specification, position description\n表現：job description（職務内容）"
+},
+{
+"id": "w1118",
+"pos": "名詞",
+"exampleJa": "応募者は資格要件を満たさなければならない。",
+"note": "類義語：eligibility requirement, qualification criteria\n表現：meet the qualification requirements（資格要件を満たす）"
+},
+{
+"id": "w1119",
+"pos": "名詞",
+"exampleJa": "外国人従業員には有効な労働許可証が必要です。",
+"note": "類義語：work authorization, employment permit\n表現：valid work permit（有効な労働許可証）"
+},
+{
+"id": "w1120",
+"pos": "名詞",
+"exampleJa": "その会社は新規採用者の身元調査を行った。",
+"note": "類義語：screening, background investigation\n表現：conduct a background check（身元調査を行う）"
+},
+{
+"id": "w1121",
+"pos": "名詞",
+"exampleJa": "照会確認は採用手続きの一部です。",
+"note": "表現：reference check（照会確認）"
+},
+{
+"id": "w1122",
+"pos": "名詞",
+"exampleJa": "その大学は卒業予定者向けの就職説明会を開催した。",
+"note": "類義語：career fair, employment fair\n表現：attend a job fair（就職説明会に参加する）"
+},
+{
+"id": "w1123",
+"pos": "名詞",
+"exampleJa": "彼女はメンターと自分のキャリアパスについて話し合った。",
+"note": "類義語：career trajectory, career route\n表現：career path（キャリアパス）"
+},
+{
+"id": "w1124",
+"pos": "名詞",
+"exampleJa": "その会社は従業員の専門能力開発に投資している。",
+"note": "類義語：career development, professional training\n表現：professional development（専門能力開発）"
+},
+{
+"id": "w1125",
+"pos": "名詞",
+"exampleJa": "彼のスキルセットにはデザインとコーディングの両方が含まれている。",
+"note": "類義語：skills, abilities, expertise\n表現：a diverse skill set（多様なスキルセット）"
+},
+{
+"id": "w1126",
+"pos": "名詞",
+"exampleJa": "コミュニケーションなどのソフトスキルは非常に重視されている。",
+"note": "類義語：interpersonal skills, people skills\n表現：strong soft skills（優れたソフトスキル）"
+},
+{
+"id": "w1127",
+"pos": "名詞",
+"exampleJa": "その仕事にはソフトウェアに関する高い技術的スキルが必要だ。",
+"note": "類義語：technical expertise, specialized skills\n表現：technical skills in software（ソフトウェアに関する技術的スキル）"
+},
+{
+"id": "w1128",
+"pos": "名詞",
+"exampleJa": "ジョブローテーションは従業員が幅広い経験を得るのに役立つ。",
+"note": "類義語：staff rotation, employee rotation\n表現：job rotation program（ジョブローテーション制度）"
+},
+{
+"id": "w1129",
+"pos": "名詞",
+"exampleJa": "その会社は後継者育成計画を策定した。",
+"note": "表現：succession planning（後継者育成計画）"
+},
+{
+"id": "w1130",
+"pos": "名詞",
+"exampleJa": "彼女が会社を辞める前に退職面談が行われた。",
+"note": "類義語：departure interview, leaving interview\n表現：conduct an exit interview（退職面談を行う）"
+},
+{
+"id": "w1131",
+"pos": "名詞",
+"exampleJa": "新入社員は従業員ハンドブックを読まなければならない。",
+"note": "表現：employee handbook（従業員ハンドブック）"
+},
+{
+"id": "w1132",
+"pos": "名詞",
+"exampleJa": "その研修では職場倫理と誠実性を扱う。",
+"note": "類義語：professional ethics, business ethics\n表現：workplace ethics（職場倫理）"
+},
+{
+"id": "w1133",
+"pos": "名詞",
+"exampleJa": "その会社には縁故主義を厳しく禁止する方針がある。",
+"note": "類義語：favoritism, patronage\n表現：policy against nepotism（縁故主義を禁じる方針）"
+},
+{
+"id": "w1134",
+"pos": "名詞",
+"exampleJa": "従業員たちは昇進におけるえこひいきについて不満を述べた。",
+"note": "類義語：partiality, bias, preferential treatment\n表現：show favoritism（えこひいきをする）"
+},
+{
+"id": "w1135",
+"pos": "名詞",
+"exampleJa": "その法律は年齢や性別に基づく差別を禁止している。",
+"note": "派生：discriminate（差別する）\n表現：prohibit discrimination（差別を禁止する）"
+},
+{
+"id": "w1136",
+"pos": "名詞",
+"exampleJa": "その会社は機会均等に基づく雇用を推進している。",
+"note": "類義語：equal opportunity, fair opportunity\n表現：equal opportunity employment（機会均等雇用）"
+},
+{
+"id": "w1137",
+"pos": "名詞",
+"exampleJa": "その方針には積極的差別是正措置の指針が含まれている。",
+"note": "類義語：positive discrimination, preferential measures\n表現：affirmative action guidelines（積極的差別是正措置の指針）"
+},
+{
+"id": "w1138",
+"pos": "名詞",
+"exampleJa": "その会社は適用されるすべての労働法を遵守している。",
+"note": "類義語：employment law, labor legislation\n表現：comply with labor laws（労働法を遵守する）"
+},
+{
+"id": "w1139",
+"pos": "名詞",
+"exampleJa": "政府は今年、最低賃金を引き上げた。",
+"note": "類義語：minimum pay, statutory minimum wage\n表現：raise the minimum wage（最低賃金を引き上げる）"
+},
+{
+"id": "w1140",
+"pos": "名詞",
+"exampleJa": "従業員は追加勤務時間に対して残業手当を受け取る。",
+"note": "類義語：overtime compensation, overtime wages\n表現：receive overtime pay（残業手当を受け取る）"
+},
+{
+"id": "w1141",
+"pos": "名詞",
+"exampleJa": "彼は祖父が亡くなった後、忌引き休暇を取った。",
+"note": "類義語：bereavement leave, compassionate leave\n表現：take bereavement leave（忌引き休暇を取る）"
+},
+{
+"id": "w1142",
+"pos": "名詞",
+"exampleJa": "彼女は個人的な理由で無給休暇を申請した。",
+"note": "類義語：leave without pay, unpaid time off\n表現：request unpaid leave（無給休暇を申請する）"
+},
+{
+"id": "w1143",
+"pos": "名詞",
+"exampleJa": "その教授は本を書くためにサバティカル休暇を取った。",
+"note": "類義語：leave of absence, academic leave\n表現：take a sabbatical（サバティカル休暇を取る）"
+},
+{
+"id": "w1144",
+"pos": "名詞",
+"exampleJa": "その会社は親向けにフレックスタイム制度を提供している。",
+"note": "類義語：flexible working hours, flexible schedule\n表現：flextime arrangement（フレックスタイム制度）"
+},
+{
+"id": "w1145",
+"pos": "名詞",
+"exampleJa": "一部の従業員は圧縮勤務を選択した。",
+"note": "類義語：compressed schedule, flexible workweek\n表現：compressed workweek（圧縮勤務制）"
+},
+{
+"id": "w1146",
+"pos": "名詞",
+"exampleJa": "ジョブシェアリングでは、2人で1つのフルタイム職を分担できる。",
+"note": "表現：job sharing（ジョブシェアリング）"
+},
+{
+"id": "w1147",
+"pos": "名詞",
+"exampleJa": "その会社は顧客向けの新しいスマートフォンアプリをリリースした。",
+"note": "類義語：mobile app, smartphone application\n表現：release a smartphone app（スマートフォンアプリをリリースする）"
+},
+{
+"id": "w1148",
+"pos": "名詞",
+"exampleJa": "従業員はどのモバイル端末からでもメールにアクセスできる。",
+"note": "類義語：mobile device, portable device\n表現：mobile device（モバイル端末）"
+},
+{
+"id": "w1149",
+"pos": "名詞",
+"exampleJa": "彼女は充電ケーブルを家に忘れた。",
+"note": "類義語：charging cord, power cable\n表現：charging cable（充電ケーブル）"
+},
+{
+"id": "w1150",
+"pos": "名詞",
+"exampleJa": "その新しいノートパソコンは驚くほどバッテリーが長持ちする。",
+"note": "類義語：battery duration, battery longevity\n表現：long battery life（長いバッテリー駆動時間）"
+},
+{
+"id": "w1151",
+"pos": "名詞",
+"exampleJa": "その端末には使いやすいタッチスクリーンが搭載されている。",
+"note": "類義語：touch display, touch panel\n表現：touchscreen display（タッチスクリーン）"
+},
+{
+"id": "w1152",
+"pos": "名詞",
+"exampleJa": "その会社は研修への仮想現実の活用を検討している。",
+"note": "類義語：VR, immersive technology\n表現：virtual reality training（仮想現実を使った研修）"
+},
+{
+"id": "w1153",
+"pos": "名詞",
+"exampleJa": "そのアプリは拡張現実を使って自宅に家具を表示する。",
+"note": "類義語：AR, augmented technology\n表現：augmented reality app（拡張現実アプリ）"
+},
+{
+"id": "w1154",
+"pos": "名詞",
+"exampleJa": "そのストリーミングプラットフォームは今月、新しいコンテンツを追加した。",
+"note": "類義語：streaming service, streaming site\n表現：streaming platform（ストリーミングプラットフォーム）"
+},
+{
+"id": "w1155",
+"pos": "名詞",
+"exampleJa": "ユーザーはその会社のオンラインフォーラムで問題について議論している。",
+"note": "類義語：discussion board, message board\n表現：online forum（オンラインフォーラム）"
+},
+{
+"id": "w1156",
+"pos": "名詞",
+"exampleJa": "セキュリティを向上させるためにウェブブラウザを更新してください。",
+"note": "類義語：browser, internet browser\n表現：web browser（ウェブブラウザ）"
+},
+{
+"id": "w1157",
+"pos": "名詞",
+"exampleJa": "そのウェブサイトは検索エンジンの検索結果で上位に表示される。",
+"note": "類義語：search tool, search service\n表現：search engine results（検索エンジンの検索結果）"
+},
+{
+"id": "w1158",
+"pos": "名詞",
+"exampleJa": "新しいプランではより高速なダウンロード速度を利用できる。",
+"note": "類義語：download rate, transfer speed\n表現：faster download speeds（より速いダウンロード速度）"
+},
+{
+"id": "w1159",
+"pos": "名詞",
+"exampleJa": "その会社は海外に新しいデータセンターを建設した。",
+"note": "類義語：server facility, computing center\n表現：build a data center（データセンターを建設する）"
+},
+{
+"id": "w1160",
+"pos": "名詞",
+"exampleJa": "許可された職員だけがサーバー室に入ることができる。",
+"note": "類義語：server area, server facility\n表現：server room（サーバー室）"
+},
+{
+"id": "w1161",
+"pos": "名詞",
+"exampleJa": "ネットワーク管理者が接続の問題を解決した。",
+"note": "類義語：network manager, network engineer\n表現：network administrator（ネットワーク管理者）"
+},
+{
+"id": "w1162",
+"pos": "名詞",
+"exampleJa": "会議の前にソフトウェアアップデートをインストールしてください。",
+"note": "類義語：software upgrade, system update\n表現：install a software update（ソフトウェアアップデートをインストールする）"
+},
+{
+"id": "w1163",
+"pos": "名詞",
+"exampleJa": "システムクラッシュによって朝の業務が遅れた。",
+"note": "類義語：system failure, system breakdown\n表現：system crash（システムクラッシュ）"
+},
+{
+"id": "w1164",
+"pos": "名詞",
+"exampleJa": "ITチームはクラッシュ後にデータ復旧を行った。",
+"note": "類義語：data restoration, data retrieval\n表現：perform data recovery（データ復旧を行う）"
+},
+{
+"id": "w1165",
+"pos": "名詞",
+"exampleJa": "契約書は電子署名を使って署名された。",
+"note": "類義語：electronic signature, e-signature\n表現：digital signature（電子署名）"
+},
+{
+"id": "w1166",
+"pos": "名詞",
+"exampleJa": "その会社は独自のeコマースプラットフォームを構築した。",
+"note": "類義語：online marketplace, e-commerce site\n表現：e-commerce platform（eコマースプラットフォーム）"
+},
+{
+"id": "w1167",
+"pos": "名詞",
+"exampleJa": "顧客はアプリを通じてオンライン決済ができる。",
+"note": "類義語：electronic payment, online transaction\n表現：make an online payment（オンライン決済をする）"
+},
+{
+"id": "w1168",
+"pos": "名詞",
+"exampleJa": "モバイルバンキングを利用すると、顧客はすぐに残高を確認できる。",
+"note": "類義語：mobile banking service, online banking\n表現：check balances instantly（すぐに残高を確認する）"
+},
+{
+"id": "w1169",
+"pos": "名詞",
+"exampleJa": "現在、多くの顧客が購入時にデジタルウォレットを利用している。",
+"note": "類義語：electronic wallet, e-wallet\n表現：use a digital wallet（デジタルウォレットを使う）"
+},
+{
+"id": "w1170",
+"pos": "名詞",
+"exampleJa": "現在、ほとんどの店舗で非接触決済が利用できる。",
+"note": "類義語：contact-free payment, tap-to-pay\n表現：contactless payment（非接触決済）"
+},
+{
+"id": "w1171",
+"pos": "名詞",
+"exampleJa": "メニューにアクセスするにはQRコードを読み取ってください。",
+"note": "表現：scan a QR code（QRコードを読み取る）"
+},
+{
+"id": "w1172",
+"pos": "名詞",
+"exampleJa": "その店はPOSシステムをアップグレードした。",
+"note": "類義語：point-of-sale system, POS system\n表現：upgrade a point of sale system（POSシステムをアップグレードする）"
+},
+{
+"id": "w1173",
+"pos": "名詞",
+"exampleJa": "そのソフトウェアは在庫追跡の精度を向上させる。",
+"note": "類義語：inventory monitoring, stock tracking\n表現：inventory tracking system（在庫追跡システム）"
+},
+{
+"id": "w1174",
+"pos": "名詞",
+"exampleJa": "管理者は売上実績のリアルタイムデータを確認できる。",
+"note": "類義語：live data, current data\n表現：real-time data（リアルタイムデータ）"
+},
+{
+"id": "w1175",
+"pos": "名詞",
+"exampleJa": "予測分析は将来の顧客行動を予測する。",
+"note": "類義語：predictive modeling, forecasting analytics\n表現：predictive analytics（予測分析）"
+},
+{
+"id": "w1176",
+"pos": "名詞",
+"exampleJa": "その会社はマーケティング戦略を改善するためにビッグデータを利用している。",
+"note": "表現：big data analysis（ビッグデータ分析）"
+},
+{
+"id": "w1177",
+"pos": "名詞",
+"exampleJa": "新しい法律はデータプライバシーの保護を強化する。",
+"note": "類義語：data protection, information privacy\n表現：data privacy protection（データプライバシー保護）"
+},
+{
+"id": "w1178",
+"pos": "名詞",
+"exampleJa": "そのスポーツアリーナでは試合だけでなくコンサートも開催される。",
+"note": "類義語：stadium, sports venue\n表現：sports arena（スポーツアリーナ）"
+},
+{
+"id": "w1179",
+"pos": "名詞",
+"exampleJa": "彼はすべてのホームゲームを観戦するためにシーズンパスを購入した。",
+"note": "類義語：season ticket, annual pass\n表現：buy a season pass（シーズンパスを購入する）"
+},
+{
+"id": "w1180",
+"pos": "名詞",
+"exampleJa": "そのチームは昨シーズン、選手権タイトルを獲得した。",
+"note": "類義語：championship, title\n表現：win the championship title（選手権タイトルを獲得する）"
+},
+{
+"id": "w1181",
+"pos": "名詞",
+"exampleJa": "審判は試合終了間際に物議を醸す判定をした。",
+"note": "類義語：official, umpire\n表現：the referee made a call（審判が判定を下す）"
+},
+{
+"id": "w1182",
+"pos": "名詞",
+"exampleJa": "コーチ陣は新しいトレーニング計画を作成した。",
+"note": "類義語：coaching team, coaches\n表現：coaching staff（コーチ陣）"
+},
+{
+"id": "w1183",
+"pos": "名詞",
+"exampleJa": "適切な栄養は運動能力を向上させる。",
+"note": "類義語：sports performance, athletic ability\n表現：improve athletic performance（運動能力を向上させる）"
+},
+{
+"id": "w1184",
+"pos": "名詞",
+"exampleJa": "その会社は従業員向けにフィットネスセンターを設置した。",
+"note": "類義語：gym, fitness facility\n表現：fitness center（フィットネスセンター）"
+},
+{
+"id": "w1185",
+"pos": "名詞",
+"exampleJa": "彼女はフィットネスの目標を達成するためにパーソナルトレーナーを雇った。",
+"note": "類義語：fitness coach, personal fitness trainer\n表現：hire a personal trainer（パーソナルトレーナーを雇う）"
+},
+{
+"id": "w1186",
+"pos": "名詞",
+"exampleJa": "何千人ものランナーがマラソンに参加した。",
+"note": "類義語：long-distance race, road race\n表現：run a marathon（マラソンを走る）"
+},
+{
+"id": "w1187",
+"pos": "名詞",
+"exampleJa": "トーナメント表はウェブサイトに掲載された。",
+"note": "類義語：tournament chart, competition bracket\n表現：tournament bracket（トーナメント表）"
+},
+{
+"id": "w1188",
+"pos": "名詞",
+"exampleJa": "観客はチームが決勝点を決めると歓声を上げた。",
+"note": "類義語：viewer, audience member, onlooker\n表現：spectators cheered（観客が歓声を上げる）"
+},
+{
+"id": "w1189",
+"pos": "名詞",
+"exampleJa": "スコアボードには最終結果が表示された。",
+"note": "類義語：score display, score panel\n表現：display the final score（最終スコアを表示する）"
+},
+{
+"id": "w1190",
+"pos": "名詞",
+"exampleJa": "選手たちは試合前にロッカールームに集まった。",
+"note": "類義語：changing room, dressing room\n表現：locker room（ロッカールーム）"
+},
+{
+"id": "w1191",
+"pos": "名詞",
+"exampleJa": "そのスキーリゾートでは用具レンタルサービスを提供している。",
+"note": "類義語：equipment hire, gear rental\n表現：equipment rental services（用具レンタルサービス）"
+},
+{
+"id": "w1192",
+"pos": "名詞",
+"exampleJa": "その公園は野外レクリエーション活動で人気がある。",
+"note": "類義語：outdoor activities, outdoor leisure\n表現：outdoor recreation（野外レクリエーション）"
+},
+{
+"id": "w1193",
+"pos": "名詞",
+"exampleJa": "そのハイキングコースからは素晴らしい山の景色を楽しめる。",
+"note": "類義語：hiking path, walking trail\n表現：hiking trail（ハイキングコース）"
+},
+{
+"id": "w1194",
+"pos": "名詞",
+"exampleJa": "彼らは週末旅行のためにキャンプ用品を詰め込んだ。",
+"note": "類義語：camping equipment, camping supplies\n表現：pack camping gear（キャンプ用品を荷造りする）"
+},
+{
+"id": "w1195",
+"pos": "名詞",
+"exampleJa": "その国立公園には毎年何百万人もの観光客が訪れる。",
+"note": "類義語：protected park, national reserve\n表現：national park（国立公園）"
+},
+{
+"id": "w1196",
+"pos": "名詞",
+"exampleJa": "その野生生物保護区は絶滅危惧種を保護している。",
+"note": "類義語：wildlife reserve, nature sanctuary\n表現：wildlife sanctuary（野生生物保護区）"
+},
+{
+"id": "w1197",
+"pos": "名詞",
+"exampleJa": "その植物園には世界中の植物が展示されている。",
+"note": "類義語：botanic garden, plant garden\n表現：botanical garden（植物園）"
+},
+{
+"id": "w1198",
+"pos": "名詞",
+"exampleJa": "その遊園地は新しいジェットコースターを導入した。",
+"note": "類義語：amusement park, theme park\n表現：amusement park（遊園地）"
+},
+{
+"id": "w1199",
+"pos": "名詞",
+"exampleJa": "新しいテーマパークのアトラクションは昨年の夏にオープンした。",
+"note": "類義語：theme park ride, attraction\n表現：theme park attraction（テーマパークのアトラクション）"
+},
+{
+"id": "w1200",
+"pos": "名詞",
+"exampleJa": "その町では毎年春にカーニバルが開催される。",
+"note": "類義語：festival, fair, amusement fair\n表現：annual carnival（毎年恒例のカーニバル）"
+}
+]

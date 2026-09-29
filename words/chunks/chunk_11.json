@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w1001",
+  "word": "passport renewal",
+  "meaning": "パスポート更新",
+  "example": "She applied for a passport renewal before the trip."
+ },
+ {
+  "id": "w1002",
+  "word": "border crossing",
+  "meaning": "国境越え",
+  "example": "The border crossing took longer than expected."
+ },
+ {
+  "id": "w1003",
+  "word": "travel advisory",
+  "meaning": "渡航情報",
+  "example": "Check the travel advisory before booking your flight."
+ },
+ {
+  "id": "w1004",
+  "word": "hostel",
+  "meaning": "ユースホステル",
+  "example": "They stayed at a hostel to save money."
+ },
+ {
+  "id": "w1005",
+  "word": "bed and breakfast",
+  "meaning": "民宿(B&B)",
+  "example": "We booked a cozy bed and breakfast in the countryside."
+ },
+ {
+  "id": "w1006",
+  "word": "resort",
+  "meaning": "リゾート",
+  "example": "The resort offers a variety of outdoor activities."
+ },
+ {
+  "id": "w1007",
+  "word": "cruise ship",
+  "meaning": "クルーズ船",
+  "example": "The cruise ship stopped at three different ports."
+ },
+ {
+  "id": "w1008",
+  "word": "port of call",
+  "meaning": "寄港地",
+  "example": "The next port of call is a small coastal town."
+ },
+ {
+  "id": "w1009",
+  "word": "excursion",
+  "meaning": "小旅行、遠足",
+  "example": "The tour included an excursion to a nearby island."
+ },
+ {
+  "id": "w1010",
+  "word": "guided tour",
+  "meaning": "ガイド付きツアー",
+  "example": "A guided tour of the factory is available on weekdays."
+ },
+ {
+  "id": "w1011",
+  "word": "backpacking",
+  "meaning": "バックパック旅行",
+  "example": "He went backpacking through Southeast Asia last year."
+ },
+ {
+  "id": "w1012",
+  "word": "road trip",
+  "meaning": "ドライブ旅行",
+  "example": "They took a road trip along the coast."
+ },
+ {
+  "id": "w1013",
+  "word": "scenic route",
+  "meaning": "景色の良いルート",
+  "example": "We chose the scenic route instead of the highway."
+ },
+ {
+  "id": "w1014",
+  "word": "rest stop",
+  "meaning": "休憩所",
+  "example": "The bus made a rest stop after two hours."
+ },
+ {
+  "id": "w1015",
+  "word": "toll booth",
+  "meaning": "料金所",
+  "example": "Drivers must pay at the toll booth."
+ },
+ {
+  "id": "w1016",
+  "word": "carpool",
+  "meaning": "相乗り",
+  "example": "Employees are encouraged to carpool to reduce emissions."
+ },
+ {
+  "id": "w1017",
+  "word": "rush hour",
+  "meaning": "ラッシュアワー",
+  "example": "Traffic is heavy during rush hour."
+ },
+ {
+  "id": "w1018",
+  "word": "subway station",
+  "meaning": "地下鉄の駅",
+  "example": "The subway station is a five-minute walk from the office."
+ },
+ {
+  "id": "w1019",
+  "word": "platform number",
+  "meaning": "プラットフォーム番号",
+  "example": "Check the platform number before boarding the train."
+ },
+ {
+  "id": "w1020",
+  "word": "timetable",
+  "meaning": "時刻表",
+  "example": "The bus timetable was posted at the station."
+ },
+ {
+  "id": "w1021",
+  "word": "fare",
+  "meaning": "運賃",
+  "example": "The train fare increased slightly this year."
+ },
+ {
+  "id": "w1022",
+  "word": "transfer point",
+  "meaning": "乗り換え地点",
+  "example": "Passengers can change lines at the transfer point."
+ },
+ {
+  "id": "w1023",
+  "word": "ticket vending machine",
+  "meaning": "券売機",
+  "example": "Use the ticket vending machine to buy your fare."
+ },
+ {
+  "id": "w1024",
+  "word": "bicycle lane",
+  "meaning": "自転車専用レーン",
+  "example": "The city added a new bicycle lane downtown."
+ },
+ {
+  "id": "w1025",
+  "word": "pedestrian crossing",
+  "meaning": "横断歩道",
+  "example": "Always use the pedestrian crossing to cross the street."
+ },
+ {
+  "id": "w1026",
+  "word": "detour",
+  "meaning": "迂回路",
+  "example": "A detour was set up due to road construction."
+ },
+ {
+  "id": "w1027",
+  "word": "roadwork",
+  "meaning": "道路工事",
+  "example": "Roadwork caused delays on the main highway."
+ },
+ {
+  "id": "w1028",
+  "word": "speed limit",
+  "meaning": "制限速度",
+  "example": "Drivers must obey the posted speed limit."
+ },
+ {
+  "id": "w1029",
+  "word": "parking violation",
+  "meaning": "駐車違反",
+  "example": "He received a ticket for a parking violation."
+ },
+ {
+  "id": "w1030",
+  "word": "vehicle registration",
+  "meaning": "車両登録",
+  "example": "Vehicle registration must be renewed every year."
+ },
+ {
+  "id": "w1031",
+  "word": "test drive",
+  "meaning": "試乗",
+  "example": "The salesperson offered a test drive of the new model."
+ },
+ {
+  "id": "w1032",
+  "word": "fuel efficiency",
+  "meaning": "燃費",
+  "example": "The new model has improved fuel efficiency."
+ },
+ {
+  "id": "w1033",
+  "word": "mileage",
+  "meaning": "走行距離",
+  "example": "The car has low mileage for its age."
+ },
+ {
+  "id": "w1034",
+  "word": "windshield",
+  "meaning": "フロントガラス",
+  "example": "A rock cracked the windshield on the highway."
+ },
+ {
+  "id": "w1035",
+  "word": "spare tire",
+  "meaning": "スペアタイヤ",
+  "example": "Always carry a spare tire in case of a flat."
+ },
+ {
+  "id": "w1036",
+  "word": "mechanic",
+  "meaning": "整備士",
+  "example": "The mechanic replaced the brake pads."
+ },
+ {
+  "id": "w1037",
+  "word": "towing service",
+  "meaning": "レッカーサービス",
+  "example": "We called a towing service after the car broke down."
+ },
+ {
+  "id": "w1038",
+  "word": "apartment complex",
+  "meaning": "アパート団地",
+  "example": "The apartment complex has a swimming pool and gym."
+ },
+ {
+  "id": "w1039",
+  "word": "furnished apartment",
+  "meaning": "家具付きアパート",
+  "example": "They rented a furnished apartment for six months."
+ },
+ {
+  "id": "w1040",
+  "word": "utility deposit",
+  "meaning": "公共料金の保証金",
+  "example": "A utility deposit is required before move-in."
+ },
+ {
+  "id": "w1041",
+  "word": "home appliance",
+  "meaning": "家電製品",
+  "example": "The store sells a wide range of home appliances."
+ },
+ {
+  "id": "w1042",
+  "word": "furniture assembly",
+  "meaning": "家具の組み立て",
+  "example": "The service includes furniture assembly."
+ },
+ {
+  "id": "w1043",
+  "word": "interior design",
+  "meaning": "インテリアデザイン",
+  "example": "She hired an interior designer for the new office."
+ },
+ {
+  "id": "w1044",
+  "word": "home renovation",
+  "meaning": "住宅改修",
+  "example": "They saved money for a home renovation project."
+ },
+ {
+  "id": "w1045",
+  "word": "plumbing",
+  "meaning": "配管",
+  "example": "A plumbing issue caused a leak in the kitchen."
+ },
+ {
+  "id": "w1046",
+  "word": "electrician",
+  "meaning": "電気技師",
+  "example": "An electrician installed the new wiring."
+ },
+ {
+  "id": "w1047",
+  "word": "carpenter",
+  "meaning": "大工",
+  "example": "The carpenter built custom shelves for the store."
+ },
+ {
+  "id": "w1048",
+  "word": "thermostat",
+  "meaning": "サーモスタット",
+  "example": "She adjusted the thermostat to save energy."
+ },
+ {
+  "id": "w1049",
+  "word": "air conditioning unit",
+  "meaning": "エアコン装置",
+  "example": "The air conditioning unit needs regular maintenance."
+ },
+ {
+  "id": "w1050",
+  "word": "heating system",
+  "meaning": "暖房システム",
+  "example": "The building's heating system was upgraded last winter."
+ },
+ {
+  "id": "w1051",
+  "word": "insulation",
+  "meaning": "断熱材",
+  "example": "Better insulation reduces heating costs."
+ },
+ {
+  "id": "w1052",
+  "word": "ventilation",
+  "meaning": "換気",
+  "example": "Proper ventilation is important in the workshop."
+ },
+ {
+  "id": "w1053",
+  "word": "landscaping",
+  "meaning": "造園",
+  "example": "The company hired a landscaping crew for the garden."
+ },
+ {
+  "id": "w1054",
+  "word": "lawn mower",
+  "meaning": "芝刈り機",
+  "example": "He borrowed a lawn mower from his neighbor."
+ },
+ {
+  "id": "w1055",
+  "word": "gardening tools",
+  "meaning": "園芸用品",
+  "example": "The store sells a variety of gardening tools."
+ },
+ {
+  "id": "w1056",
+  "word": "home security system",
+  "meaning": "ホームセキュリティシステム",
+  "example": "They installed a home security system last month."
+ },
+ {
+  "id": "w1057",
+  "word": "smoke detector",
+  "meaning": "煙探知機",
+  "example": "Check the smoke detector's battery regularly."
+ },
+ {
+  "id": "w1058",
+  "word": "fire extinguisher",
+  "meaning": "消火器",
+  "example": "A fire extinguisher is required in every kitchen."
+ },
+ {
+  "id": "w1059",
+  "word": "clothing store",
+  "meaning": "衣料品店",
+  "example": "The clothing store is having a seasonal sale."
+ },
+ {
+  "id": "w1060",
+  "word": "fitting room",
+  "meaning": "試着室",
+  "example": "She tried on the dress in the fitting room."
+ },
+ {
+  "id": "w1061",
+  "word": "price tag",
+  "meaning": "値札",
+  "example": "The price tag was missing from the item."
+ },
+ {
+  "id": "w1062",
+  "word": "customer loyalty card",
+  "meaning": "顧客ロイヤルティカード",
+  "example": "Sign up for our customer loyalty card to earn points."
+ },
+ {
+  "id": "w1063",
+  "word": "checkout counter",
+  "meaning": "レジカウンター",
+  "example": "There was a long line at the checkout counter."
+ },
+ {
+  "id": "w1064",
+  "word": "cashier",
+  "meaning": "レジ係",
+  "example": "The cashier gave the customer the correct change."
+ },
+ {
+  "id": "w1065",
+  "word": "shopping cart",
+  "meaning": "ショッピングカート",
+  "example": "She pushed the shopping cart through the aisles."
+ },
+ {
+  "id": "w1066",
+  "word": "online storefront",
+  "meaning": "オンラインストア",
+  "example": "The company launched its online storefront last year."
+ },
+ {
+  "id": "w1067",
+  "word": "shipping confirmation",
+  "meaning": "発送確認",
+  "example": "You will receive a shipping confirmation email."
+ },
+ {
+  "id": "w1068",
+  "word": "return policy",
+  "meaning": "返品ポリシー",
+  "example": "Please review our return policy before purchasing."
+ },
+ {
+  "id": "w1069",
+  "word": "exchange policy",
+  "meaning": "交換ポリシー",
+  "example": "The store has a flexible exchange policy."
+ },
+ {
+  "id": "w1070",
+  "word": "gift wrap",
+  "meaning": "ギフト包装",
+  "example": "Gift wrap is available for an additional fee."
+ },
+ {
+  "id": "w1071",
+  "word": "seasonal discount",
+  "meaning": "季節割引",
+  "example": "The store offers seasonal discounts twice a year."
+ },
+ {
+  "id": "w1072",
+  "word": "store credit",
+  "meaning": "店舗クレジット",
+  "example": "She received store credit instead of a cash refund."
+ },
+ {
+  "id": "w1073",
+  "word": "layaway plan",
+  "meaning": "積立購入プラン",
+  "example": "The store offers a layaway plan for expensive items."
+ },
+ {
+  "id": "w1074",
+  "word": "price comparison",
+  "meaning": "価格比較",
+  "example": "He did a price comparison before buying the laptop."
+ },
+ {
+  "id": "w1075",
+  "word": "weather forecast",
+  "meaning": "天気予報",
+  "example": "The weather forecast predicts rain tomorrow."
+ },
+ {
+  "id": "w1076",
+  "word": "severe storm",
+  "meaning": "激しい嵐",
+  "example": "A severe storm forced the airport to close."
+ },
+ {
+  "id": "w1077",
+  "word": "humidity",
+  "meaning": "湿度",
+  "example": "High humidity made the day feel uncomfortable."
+ },
+ {
+  "id": "w1078",
+  "word": "temperature drop",
+  "meaning": "気温の低下",
+  "example": "A sudden temperature drop caught residents off guard."
+ },
+ {
+  "id": "w1079",
+  "word": "heat wave",
+  "meaning": "熱波",
+  "example": "The heat wave caused a spike in energy demand."
+ },
+ {
+  "id": "w1080",
+  "word": "blizzard",
+  "meaning": "猛吹雪",
+  "example": "The blizzard delayed flights across the region."
+ },
+ {
+  "id": "w1081",
+  "word": "flood warning",
+  "meaning": "洪水警報",
+  "example": "Authorities issued a flood warning for coastal areas."
+ },
+ {
+  "id": "w1082",
+  "word": "earthquake",
+  "meaning": "地震",
+  "example": "The earthquake caused minor damage to buildings."
+ },
+ {
+  "id": "w1083",
+  "word": "natural disaster",
+  "meaning": "自然災害",
+  "example": "The government provided aid after the natural disaster."
+ },
+ {
+  "id": "w1084",
+  "word": "relief effort",
+  "meaning": "救援活動",
+  "example": "Volunteers joined the relief effort after the flood."
+ },
+ {
+  "id": "w1085",
+  "word": "charity organization",
+  "meaning": "慈善団体",
+  "example": "The charity organization collected donations for victims."
+ },
+ {
+  "id": "w1086",
+  "word": "fundraiser",
+  "meaning": "募金活動、資金集めイベント",
+  "example": "The company hosted a fundraiser for local schools."
+ },
+ {
+  "id": "w1087",
+  "word": "volunteer work",
+  "meaning": "ボランティア活動",
+  "example": "He does volunteer work at the animal shelter."
+ },
+ {
+  "id": "w1088",
+  "word": "community service",
+  "meaning": "地域奉仕活動",
+  "example": "Students are required to complete community service hours."
+ },
+ {
+  "id": "w1089",
+  "word": "public awareness campaign",
+  "meaning": "啓発キャンペーン",
+  "example": "The city launched a public awareness campaign on recycling."
+ },
+ {
+  "id": "w1090",
+  "word": "town hall meeting",
+  "meaning": "タウンホールミーティング",
+  "example": "Residents attended a town hall meeting about the new park."
+ },
+ {
+  "id": "w1091",
+  "word": "city council",
+  "meaning": "市議会",
+  "example": "The city council approved the new zoning proposal."
+ },
+ {
+  "id": "w1092",
+  "word": "local government",
+  "meaning": "地方自治体",
+  "example": "Local government funds the community center."
+ },
+ {
+  "id": "w1093",
+  "word": "public policy",
+  "meaning": "公共政策",
+  "example": "The think tank researches public policy issues."
+ },
+ {
+  "id": "w1094",
+  "word": "voter registration",
+  "meaning": "有権者登録",
+  "example": "Voter registration closes two weeks before the election."
+ },
+ {
+  "id": "w1095",
+  "word": "ballot",
+  "meaning": "投票用紙",
+  "example": "Voters marked their choices on the ballot."
+ },
+ {
+  "id": "w1096",
+  "word": "constituency",
+  "meaning": "選挙区",
+  "example": "The senator represents a large rural constituency."
+ },
+ {
+  "id": "w1097",
+  "word": "diplomat",
+  "meaning": "外交官",
+  "example": "The diplomat negotiated the trade agreement."
+ },
+ {
+  "id": "w1098",
+  "word": "embassy",
+  "meaning": "大使館",
+  "example": "She visited the embassy to renew her visa."
+ },
+ {
+  "id": "w1099",
+  "word": "treaty",
+  "meaning": "条約",
+  "example": "The two countries signed a trade treaty."
+ },
+ {
+  "id": "w1100",
+  "word": "summit meeting",
+  "meaning": "首脳会談",
+  "example": "World leaders gathered for the summit meeting."
+ }
+]

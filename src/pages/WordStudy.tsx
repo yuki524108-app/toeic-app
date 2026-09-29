@@ -98,12 +98,25 @@ export default function WordStudy({
                 {current.word}
               </p>
               <p className="mt-3 text-lg text-(--color-ink-soft)">
+                {current.pos && (
+                  <span className="mr-2 text-xs text-(--color-muted)">[{current.pos}]</span>
+                )}
                 {current.meaning}
               </p>
               <div className="mt-5 border-t border-(--color-line) pt-4">
                 <p className="text-sm leading-relaxed text-(--color-muted)">
                   {current.example}
                 </p>
+                {current.exampleJa && (
+                  <p className="mt-1 text-sm leading-relaxed text-(--color-ink-soft)">
+                    {current.exampleJa}
+                  </p>
+                )}
+                {current.note && (
+                  <p className="mt-3 whitespace-pre-line text-xs leading-relaxed text-(--color-muted)">
+                    {current.note}
+                  </p>
+                )}
               </div>
             </div>
           )}

@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w401",
+  "word": "time management",
+  "meaning": "時間管理",
+  "example": "Good time management helps meet deadlines."
+ },
+ {
+  "id": "w402",
+  "word": "procrastinate",
+  "meaning": "先延ばしにする",
+  "example": "He tends to procrastinate on paperwork."
+ },
+ {
+  "id": "w403",
+  "word": "deliverable",
+  "meaning": "成果物",
+  "example": "The final deliverable is due at the end of the month."
+ },
+ {
+  "id": "w404",
+  "word": "stakeholder meeting",
+  "meaning": "利害関係者会議",
+  "example": "A stakeholder meeting was held to discuss the merger."
+ },
+ {
+  "id": "w405",
+  "word": "action item",
+  "meaning": "実行項目",
+  "example": "Each action item was assigned to a team member."
+ },
+ {
+  "id": "w406",
+  "word": "follow-up",
+  "meaning": "フォローアップ",
+  "example": "A follow-up email was sent after the meeting."
+ },
+ {
+  "id": "w407",
+  "word": "touch base",
+  "meaning": "連絡を取る",
+  "example": "Let's touch base again next week."
+ },
+ {
+  "id": "w408",
+  "word": "circle back",
+  "meaning": "後で改めて話す",
+  "example": "We can circle back on this issue tomorrow."
+ },
+ {
+  "id": "w409",
+  "word": "table an item",
+  "meaning": "議題を保留にする",
+  "example": "The committee decided to table the item for now."
+ },
+ {
+  "id": "w410",
+  "word": "table of contents",
+  "meaning": "目次",
+  "example": "Check the table of contents for the relevant section."
+ },
+ {
+  "id": "w411",
+  "word": "appendix",
+  "meaning": "付録",
+  "example": "Additional data is available in the appendix."
+ },
+ {
+  "id": "w412",
+  "word": "footnote",
+  "meaning": "脚注",
+  "example": "The source is cited in a footnote."
+ },
+ {
+  "id": "w413",
+  "word": "annex",
+  "meaning": "別館、付属書",
+  "example": "The new offices are located in the annex building."
+ },
+ {
+  "id": "w414",
+  "word": "facade",
+  "meaning": "建物の正面",
+  "example": "The building's facade was renovated last year."
+ },
+ {
+  "id": "w415",
+  "word": "lobby",
+  "meaning": "ロビー",
+  "example": "Visitors should wait in the lobby."
+ },
+ {
+  "id": "w416",
+  "word": "foyer",
+  "meaning": "玄関ホール",
+  "example": "Guests were greeted in the foyer."
+ },
+ {
+  "id": "w417",
+  "word": "elevator",
+  "meaning": "エレベーター",
+  "example": "Take the elevator to the fifth floor."
+ },
+ {
+  "id": "w418",
+  "word": "escalator",
+  "meaning": "エスカレーター",
+  "example": "The escalator was out of service for repairs."
+ },
+ {
+  "id": "w419",
+  "word": "parking permit",
+  "meaning": "駐車許可証",
+  "example": "Employees need a parking permit to use the lot."
+ },
+ {
+  "id": "w420",
+  "word": "security clearance",
+  "meaning": "セキュリティ許可",
+  "example": "Only staff with security clearance may enter this area."
+ },
+ {
+  "id": "w421",
+  "word": "badge access",
+  "meaning": "バッジによる入退室管理",
+  "example": "Badge access is required for the server room."
+ },
+ {
+  "id": "w422",
+  "word": "surveillance camera",
+  "meaning": "監視カメラ",
+  "example": "Surveillance cameras were installed in the parking lot."
+ },
+ {
+  "id": "w423",
+  "word": "fire drill",
+  "meaning": "防火訓練",
+  "example": "A fire drill is conducted twice a year."
+ },
+ {
+  "id": "w424",
+  "word": "emergency exit",
+  "meaning": "非常口",
+  "example": "The emergency exit is located near the stairwell."
+ },
+ {
+  "id": "w425",
+  "word": "first aid kit",
+  "meaning": "救急箱",
+  "example": "Every floor has a first aid kit available."
+ },
+ {
+  "id": "w426",
+  "word": "occupational hazard",
+  "meaning": "職業上の危険",
+  "example": "Repetitive strain injury is an occupational hazard for typists."
+ },
+ {
+  "id": "w427",
+  "word": "protective gear",
+  "meaning": "防護具",
+  "example": "Workers must wear protective gear on the site."
+ },
+ {
+  "id": "w428",
+  "word": "safety regulation",
+  "meaning": "安全規則",
+  "example": "All contractors must follow safety regulations."
+ },
+ {
+  "id": "w429",
+  "word": "site inspection",
+  "meaning": "現場検査",
+  "example": "A site inspection is scheduled for next Tuesday."
+ },
+ {
+  "id": "w430",
+  "word": "scaffolding",
+  "meaning": "足場",
+  "example": "Scaffolding was set up around the building for repairs."
+ },
+ {
+  "id": "w431",
+  "word": "demolition",
+  "meaning": "解体",
+  "example": "The demolition of the old warehouse begins next week."
+ },
+ {
+  "id": "w432",
+  "word": "renovation project",
+  "meaning": "改修プロジェクト",
+  "example": "The renovation project is expected to finish by June."
+ },
+ {
+  "id": "w433",
+  "word": "floor plan",
+  "meaning": "間取り図",
+  "example": "The architect presented the new floor plan."
+ },
+ {
+  "id": "w434",
+  "word": "commercial property",
+  "meaning": "商業用不動産",
+  "example": "The firm invested in several commercial properties."
+ },
+ {
+  "id": "w435",
+  "word": "residential area",
+  "meaning": "住宅地",
+  "example": "The new store will open in a residential area."
+ },
+ {
+  "id": "w436",
+  "word": "appraisal value",
+  "meaning": "査定価値",
+  "example": "The appraisal value of the property increased this year."
+ },
+ {
+  "id": "w437",
+  "word": "down payment",
+  "meaning": "頭金",
+  "example": "A twenty percent down payment is required."
+ },
+ {
+  "id": "w438",
+  "word": "closing costs",
+  "meaning": "決済費用",
+  "example": "Closing costs typically include legal and inspection fees."
+ },
+ {
+  "id": "w439",
+  "word": "title deed",
+  "meaning": "権利証書",
+  "example": "The title deed confirms ownership of the property."
+ },
+ {
+  "id": "w440",
+  "word": "escrow",
+  "meaning": "エスクロー、第三者預託",
+  "example": "Funds are held in escrow until the deal closes."
+ },
+ {
+  "id": "w441",
+  "word": "appraisal fee",
+  "meaning": "査定料",
+  "example": "The buyer paid an appraisal fee before closing."
+ },
+ {
+  "id": "w442",
+  "word": "amortization",
+  "meaning": "分割償還",
+  "example": "The loan amortization schedule spans twenty years."
+ },
+ {
+  "id": "w443",
+  "word": "collateral",
+  "meaning": "担保",
+  "example": "The property serves as collateral for the loan."
+ },
+ {
+  "id": "w444",
+  "word": "default on a loan",
+  "meaning": "ローンを返済不履行にする",
+  "example": "The company defaulted on its loan payments."
+ },
+ {
+  "id": "w445",
+  "word": "credit score",
+  "meaning": "信用スコア",
+  "example": "A high credit score helps secure lower interest rates."
+ },
+ {
+  "id": "w446",
+  "word": "credit limit",
+  "meaning": "与信限度額",
+  "example": "The credit limit on the corporate card was increased."
+ },
+ {
+  "id": "w447",
+  "word": "overdraft",
+  "meaning": "当座貸越",
+  "example": "The account went into overdraft last month."
+ },
+ {
+  "id": "w448",
+  "word": "wire transfer",
+  "meaning": "電信送金",
+  "example": "The payment was sent via wire transfer."
+ },
+ {
+  "id": "w449",
+  "word": "exchange rate",
+  "meaning": "為替レート",
+  "example": "The exchange rate fluctuated throughout the week."
+ },
+ {
+  "id": "w450",
+  "word": "hedge",
+  "meaning": "リスク回避策、ヘッジする",
+  "example": "The company used futures contracts to hedge against price changes."
+ },
+ {
+  "id": "w451",
+  "word": "futures contract",
+  "meaning": "先物契約",
+  "example": "The firm signed a futures contract to lock in prices."
+ },
+ {
+  "id": "w452",
+  "word": "speculation",
+  "meaning": "投機",
+  "example": "Market speculation drove prices higher."
+ },
+ {
+  "id": "w453",
+  "word": "volatility",
+  "meaning": "変動性",
+  "example": "Stock market volatility increased amid the uncertainty."
+ },
+ {
+  "id": "w454",
+  "word": "bull market",
+  "meaning": "強気相場",
+  "example": "Investors are optimistic during a bull market."
+ },
+ {
+  "id": "w455",
+  "word": "bear market",
+  "meaning": "弱気相場",
+  "example": "The bear market led many investors to sell their shares."
+ },
+ {
+  "id": "w456",
+  "word": "index fund",
+  "meaning": "インデックスファンド",
+  "example": "She invests mainly in low-cost index funds."
+ },
+ {
+  "id": "w457",
+  "word": "mutual fund",
+  "meaning": "投資信託",
+  "example": "He diversified his savings across several mutual funds."
+ },
+ {
+  "id": "w458",
+  "word": "broker",
+  "meaning": "仲介業者",
+  "example": "The broker helped negotiate the sale of the building."
+ },
+ {
+  "id": "w459",
+  "word": "appraiser",
+  "meaning": "鑑定人",
+  "example": "An appraiser assessed the value of the antique furniture."
+ },
+ {
+  "id": "w460",
+  "word": "notary",
+  "meaning": "公証人",
+  "example": "The document must be signed in front of a notary."
+ },
+ {
+  "id": "w461",
+  "word": "power of attorney",
+  "meaning": "委任状",
+  "example": "She granted her lawyer power of attorney."
+ },
+ {
+  "id": "w462",
+  "word": "legal counsel",
+  "meaning": "法律顧問",
+  "example": "The company consulted legal counsel before signing."
+ },
+ {
+  "id": "w463",
+  "word": "plaintiff",
+  "meaning": "原告",
+  "example": "The plaintiff filed a lawsuit against the company."
+ },
+ {
+  "id": "w464",
+  "word": "defendant",
+  "meaning": "被告",
+  "example": "The defendant denied all the allegations."
+ },
+ {
+  "id": "w465",
+  "word": "settlement",
+  "meaning": "和解",
+  "example": "Both parties reached a settlement out of court."
+ },
+ {
+  "id": "w466",
+  "word": "testimony",
+  "meaning": "証言",
+  "example": "The witness gave testimony during the trial."
+ },
+ {
+  "id": "w467",
+  "word": "affidavit",
+  "meaning": "宣誓供述書",
+  "example": "She signed an affidavit confirming the facts."
+ },
+ {
+  "id": "w468",
+  "word": "subpoena",
+  "meaning": "召喚状",
+  "example": "The company received a subpoena to provide documents."
+ },
+ {
+  "id": "w469",
+  "word": "indemnity",
+  "meaning": "損害賠償、補償",
+  "example": "The contract includes an indemnity clause."
+ },
+ {
+  "id": "w470",
+  "word": "negligence",
+  "meaning": "過失",
+  "example": "The lawsuit alleged negligence on the part of the contractor."
+ },
+ {
+  "id": "w471",
+  "word": "due diligence",
+  "meaning": "デューデリジェンス、精査",
+  "example": "Due diligence is required before any acquisition."
+ },
+ {
+  "id": "w472",
+  "word": "non-disclosure agreement",
+  "meaning": "秘密保持契約",
+  "example": "All employees must sign a non-disclosure agreement."
+ },
+ {
+  "id": "w473",
+  "word": "terms and conditions",
+  "meaning": "利用規約",
+  "example": "Please read the terms and conditions before signing up."
+ },
+ {
+  "id": "w474",
+  "word": "fine print",
+  "meaning": "小さな文字で書かれた注意事項",
+  "example": "Always read the fine print before signing a contract."
+ },
+ {
+  "id": "w475",
+  "word": "grace period",
+  "meaning": "猶予期間",
+  "example": "There is a ten-day grace period for late payments."
+ },
+ {
+  "id": "w476",
+  "word": "penalty clause",
+  "meaning": "違約条項",
+  "example": "The contract includes a penalty clause for late delivery."
+ },
+ {
+  "id": "w477",
+  "word": "force majeure",
+  "meaning": "不可抗力",
+  "example": "The delay was excused under the force majeure clause."
+ },
+ {
+  "id": "w478",
+  "word": "renewal",
+  "meaning": "更新",
+  "example": "The lease renewal must be submitted 30 days in advance."
+ },
+ {
+  "id": "w479",
+  "word": "expiration",
+  "meaning": "満了、失効",
+  "example": "The contract's expiration date is next December."
+ },
+ {
+  "id": "w480",
+  "word": "amend a contract",
+  "meaning": "契約を修正する",
+  "example": "Both parties agreed to amend the contract terms."
+ },
+ {
+  "id": "w481",
+  "word": "draft proposal",
+  "meaning": "提案書の草案",
+  "example": "The draft proposal will be reviewed by the board next week."
+ },
+ {
+  "id": "w482",
+  "word": "bid",
+  "meaning": "入札",
+  "example": "The construction firm submitted the lowest bid."
+ },
+ {
+  "id": "w483",
+  "word": "tender",
+  "meaning": "入札募集",
+  "example": "The government issued a tender for the new highway project."
+ },
+ {
+  "id": "w484",
+  "word": "subcontractor",
+  "meaning": "下請け業者",
+  "example": "The main contractor hired several subcontractors."
+ },
+ {
+  "id": "w485",
+  "word": "work order",
+  "meaning": "作業指示書",
+  "example": "A work order was issued for the repair."
+ },
+ {
+  "id": "w486",
+  "word": "purchase order",
+  "meaning": "発注書",
+  "example": "Please send the purchase order before shipment."
+ },
+ {
+  "id": "w487",
+  "word": "terms of payment",
+  "meaning": "支払条件",
+  "example": "The terms of payment were negotiated before the contract was signed."
+ },
+ {
+  "id": "w488",
+  "word": "net 30",
+  "meaning": "30日以内払い",
+  "example": "The invoice terms are net 30 days."
+ },
+ {
+  "id": "w489",
+  "word": "late fee",
+  "meaning": "延滞料",
+  "example": "A late fee applies to overdue invoices."
+ },
+ {
+  "id": "w490",
+  "word": "discount rate",
+  "meaning": "割引率",
+  "example": "The store offered a discount rate for bulk purchases."
+ },
+ {
+  "id": "w491",
+  "word": "markup",
+  "meaning": "上乗せ価格、利ざや",
+  "example": "The retailer applies a standard markup to wholesale prices."
+ },
+ {
+  "id": "w492",
+  "word": "break-even point",
+  "meaning": "損益分岐点",
+  "example": "The company reached its break-even point within a year."
+ },
+ {
+  "id": "w493",
+  "word": "gross margin",
+  "meaning": "売上総利益率",
+  "example": "Gross margin improved due to lower production costs."
+ },
+ {
+  "id": "w494",
+  "word": "overstock",
+  "meaning": "在庫過剰",
+  "example": "The store held a sale to clear overstock items."
+ },
+ {
+  "id": "w495",
+  "word": "understock",
+  "meaning": "在庫不足",
+  "example": "Understocking popular items led to lost sales."
+ },
+ {
+  "id": "w496",
+  "word": "just-in-time",
+  "meaning": "ジャストインタイム(方式)",
+  "example": "The factory uses a just-in-time inventory system."
+ },
+ {
+  "id": "w497",
+  "word": "lead auditor",
+  "meaning": "主任監査人",
+  "example": "The lead auditor presented the findings to management."
+ },
+ {
+  "id": "w498",
+  "word": "internal audit",
+  "meaning": "内部監査",
+  "example": "An internal audit revealed several accounting errors."
+ },
+ {
+  "id": "w499",
+  "word": "external audit",
+  "meaning": "外部監査",
+  "example": "The external audit confirmed the company's financial health."
+ },
+ {
+  "id": "w500",
+  "word": "regulatory compliance",
+  "meaning": "規制遵守",
+  "example": "The firm invested heavily in regulatory compliance."
+ }
+]

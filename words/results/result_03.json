@@ -1,0 +1,602 @@
+[
+{
+"id": "w201",
+"pos": "名詞句",
+"exampleJa": "ホテル滞在の明細請求書を提出してください。",
+"note": "類義語：detailed bill, detailed invoice\n表現：provide an itemized bill（明細請求書を提出する）"
+},
+{
+"id": "w202",
+"pos": "名詞句",
+"exampleJa": "検査のため、搭乗券をすぐ提示できるようにしておいてください。",
+"note": "類義語：boarding ticket, flight pass\n表現：have your boarding pass ready（搭乗券を準備しておく）"
+},
+{
+"id": "w203",
+"pos": "名詞",
+"exampleJa": "シカゴで2時間の乗り継ぎがあります。",
+"note": "類義語：stopover, connection\n表現：a two-hour layover（2時間の乗り継ぎ）"
+},
+{
+"id": "w204",
+"pos": "名詞句",
+"exampleJa": "彼女は遅延のため乗り継ぎ便に乗り遅れました。",
+"note": "類義語：connecting flight, onward flight\n表現：miss a connecting flight（乗り継ぎ便に乗り遅れる）"
+},
+{
+"id": "w205",
+"pos": "名詞",
+"exampleJa": "チェックインは出発の2時間前に始まります。",
+"note": "類義語：registration\n派生：check in（動詞：チェックインする）\n表現：check-in begins（チェックインが始まる）"
+},
+{
+"id": "w206",
+"pos": "名詞",
+"exampleJa": "レストランのおすすめをコンシェルジュに尋ねてください。",
+"note": "類義語：hotel attendant, guest-services representative\n表現：ask the concierge（コンシェルジュに尋ねる）"
+},
+{
+"id": "w207",
+"pos": "形容詞",
+"exampleJa": "そのホテルでは宿泊客に無料の朝食を提供しています。",
+"note": "類義語：free, complimentary\n表現：complimentary breakfast（無料の朝食）"
+},
+{
+"id": "w208",
+"pos": "名詞",
+"exampleJa": "24時間前までに予約を確認してください。",
+"note": "類義語：booking, appointment\n派生：reserve（動詞：予約する）\n表現：confirm a reservation（予約を確認する）"
+},
+{
+"id": "w209",
+"pos": "名詞",
+"exampleJa": "その週末はホテルに空室がありませんでした。",
+"note": "類義語：empty room, available room\n派生：vacant（形容詞：空いている）\n表現：no vacancies（空室なし）"
+},
+{
+"id": "w210",
+"pos": "名詞",
+"exampleJa": "会社はすべての代表者の宿泊施設を手配しました。",
+"note": "類義語：lodging, housing\n派生：accommodate（動詞：宿泊させる、収容する）\n表現：arrange accommodation（宿泊施設を手配する）"
+},
+{
+"id": "w211",
+"pos": "名詞句",
+"exampleJa": "旅程に変更がある場合はお知らせください。",
+"note": "類義語：schedule change, travel-plan change\n表現：make an itinerary change（旅程を変更する）"
+},
+{
+"id": "w212",
+"pos": "名詞句",
+"exampleJa": "旅行を予約する前にビザの要件を確認してください。",
+"note": "類義語：visa condition, entry requirement\n表現：meet visa requirements（ビザ要件を満たす）"
+},
+{
+"id": "w213",
+"pos": "名詞句",
+"exampleJa": "着陸前に税関申告書に記入してください。",
+"note": "類義語：customs form, declaration form\n表現：fill out a customs declaration（税関申告書に記入する）"
+},
+{
+"id": "w214",
+"pos": "名詞句",
+"exampleJa": "空港には両替所があります。",
+"note": "類義語：currency conversion, money exchange\n表現：currency exchange counter（両替カウンター）"
+},
+{
+"id": "w215",
+"pos": "名詞句",
+"exampleJa": "手荷物受取所で私と会ってください。",
+"note": "類義語：baggage collection area, luggage claim\n表現：baggage claim area（手荷物受取所）"
+},
+{
+"id": "w216",
+"pos": "名詞句",
+"exampleJa": "超過手荷物には料金を請求される場合があります。",
+"note": "類義語：extra baggage, excess luggage\n表現：charge for excess baggage（超過手荷物に料金を請求する）"
+},
+{
+"id": "w217",
+"pos": "名詞句",
+"exampleJa": "施設利用料が客室料金に加算されます。",
+"note": "類義語：facility fee, resort fee\n表現：add an amenity fee（施設利用料を加算する）"
+},
+{
+"id": "w218",
+"pos": "名詞句",
+"exampleJa": "そのホテルは空港までの無料送迎サービスを提供しています。",
+"note": "類義語：transportation service, transfer service\n表現：free shuttle service（無料送迎サービス）"
+},
+{
+"id": "w219",
+"pos": "名詞",
+"exampleJa": "ケータリング会社が会議で昼食を提供します。",
+"note": "類義語：food service, catering service\n表現：catering company（ケータリング会社）"
+},
+{
+"id": "w220",
+"pos": "名詞",
+"exampleJa": "毎年恒例の宴会はグランドホテルで開催されます。",
+"note": "類義語：feast, formal dinner\n表現：annual banquet（年次宴会）"
+},
+{
+"id": "w221",
+"pos": "名詞句",
+"exampleJa": "結婚披露宴会場には300人を収容できます。",
+"note": "類義語：banquet hall, event hall\n表現：reception hall（披露宴会場）"
+},
+{
+"id": "w222",
+"pos": "名詞句",
+"exampleJa": "旅程作成者が出張の手配を手伝ってくれました。",
+"note": "類義語：trip planner, travel planner\n表現：organize a business trip（出張を手配する）"
+},
+{
+"id": "w223",
+"pos": "名詞句",
+"exampleJa": "毎月5日までに経費報告書を提出してください。",
+"note": "類義語：expense statement, expense record\n表現：submit an expense report（経費報告書を提出する）"
+},
+{
+"id": "w224",
+"pos": "名詞",
+"exampleJa": "従業員は出張中の食事に対して日当を受け取ります。",
+"note": "類義語：daily allowance, daily expense allowance\n表現：receive a per diem（日当を受け取る）"
+},
+{
+"id": "w225",
+"pos": "動詞句",
+"exampleJa": "50ドルを超える経費は項目別に記載しなければなりません。",
+"note": "類義語：detail expenses, itemize costs\n表現：itemize expenses（経費を項目別に記載する）"
+},
+{
+"id": "w226",
+"pos": "名詞句",
+"exampleJa": "私たちは法人料金でホテルを予約しました。",
+"note": "類義語：business rate, corporate pricing\n表現：book at a corporate rate（法人料金で予約する）"
+},
+{
+"id": "w227",
+"pos": "名詞",
+"exampleJa": "彼は無料の航空券に交換できるほど十分なマイレージを貯めました。",
+"note": "類義語：frequent traveler, loyalty member\n表現：frequent flyer miles（航空会社のマイレージ）"
+},
+{
+"id": "w228",
+"pos": "動詞",
+"exampleJa": "彼女はその便でビジネスクラスにアップグレードされました。",
+"note": "類義語：improve, elevate\n派生：upgrade（名詞：アップグレード）\n表現：be upgraded to business class（ビジネスクラスにアップグレードされる）"
+},
+{
+"id": "w229",
+"pos": "名詞句",
+"exampleJa": "すべての旅行者に旅程確認がメールで送られました。",
+"note": "類義語：travel confirmation, booking confirmation\n表現：receive an itinerary confirmation（旅程確認を受け取る）"
+},
+{
+"id": "w230",
+"pos": "名詞句",
+"exampleJa": "イベント中は常に参加者用バッジを着用してください。",
+"note": "類義語：name badge, identification badge\n表現：wear a badge（バッジを着用する）"
+},
+{
+"id": "w231",
+"pos": "名詞句",
+"exampleJa": "新製品は展示会場に展示されています。",
+"note": "類義語：exhibition hall, display area\n表現：exhibit hall（展示会場）"
+},
+{
+"id": "w232",
+"pos": "名詞句",
+"exampleJa": "その会社は展示会で自社製品を披露しました。",
+"note": "類義語：trade exhibition, industry show\n表現：attend a trade show（展示会に参加する）"
+},
+{
+"id": "w233",
+"pos": "名詞",
+"exampleJa": "実演による製品デモンストレーションを見るには、当社のブースにお越しください。",
+"note": "類義語：stand, stall\n表現：visit a booth（ブースを訪れる）"
+},
+{
+"id": "w234",
+"pos": "名詞",
+"exampleJa": "技術者たちは新しい装置の試作品を発表しました。",
+"note": "類義語：sample, preliminary model\n表現：develop a prototype（試作品を開発する）"
+},
+{
+"id": "w235",
+"pos": "名詞",
+"exampleJa": "製品の仕様はマニュアルに記載されています。",
+"note": "類義語：specs, technical details\n表現：product specifications（製品仕様）"
+},
+{
+"id": "w236",
+"pos": "名詞句",
+"exampleJa": "その工場は2本目の組立ラインを増設しました。",
+"note": "類義語：production line, manufacturing line\n表現：assembly line（組立ライン）"
+},
+{
+"id": "w237",
+"pos": "名詞句",
+"exampleJa": "品質管理部門は出荷前にすべての製品を検査します。",
+"note": "類義語：quality assurance, inspection\n表現：quality control（品質管理）"
+},
+{
+"id": "w238",
+"pos": "名詞",
+"exampleJa": "システムの故障によって生産が遅れました。",
+"note": "類義語：failure, breakdown\n派生：malfunction（動詞：正常に作動しない）\n表現：a system malfunction（システムの故障）"
+},
+{
+"id": "w239",
+"pos": "名詞",
+"exampleJa": "定期的なメンテナンスによって機械をスムーズに稼働させることができます。",
+"note": "類義語：servicing, upkeep\n派生：maintain（動詞：維持する）\n表現：regular maintenance（定期メンテナンス）"
+},
+{
+"id": "w240",
+"pos": "名詞",
+"exampleJa": "技術者が機器を修理するために派遣されました。",
+"note": "類義語：specialist, engineer\n表現：a service technician（サービス技術者）"
+},
+{
+"id": "w241",
+"pos": "動詞句",
+"exampleJa": "IT部門は週末にソフトウェアを更新します。",
+"note": "類義語：update software, install an upgrade\n表現：upgrade software（ソフトウェアを更新する）"
+},
+{
+"id": "w242",
+"pos": "動詞",
+"exampleJa": "当社のサポートチームはほとんどの問題を遠隔で解決できます。",
+"note": "類義語：diagnose, resolve\n表現：troubleshoot an issue（問題の原因を特定して解決する）"
+},
+{
+"id": "w243",
+"pos": "名詞",
+"exampleJa": "軽微な不具合によって製品の発売が遅れました。",
+"note": "類義語：bug, defect\n表現：a minor glitch（軽微な不具合）"
+},
+{
+"id": "w244",
+"pos": "名詞",
+"exampleJa": "その装置にはファームウェアの更新が必要です。",
+"note": "類義語：embedded software, device software\n表現：firmware update（ファームウェア更新）"
+},
+{
+"id": "w245",
+"pos": "名詞",
+"exampleJa": "顧客データは強力な暗号化によって保護されています。",
+"note": "類義語：coding, encoding\n派生：encrypt（動詞：暗号化する）\n表現：data encryption（データ暗号化）"
+},
+{
+"id": "w246",
+"pos": "名詞句",
+"exampleJa": "サーバー停止は約2時間続きました。",
+"note": "類義語：server failure, service interruption\n表現：a server outage（サーバー停止）"
+},
+{
+"id": "w247",
+"pos": "名詞",
+"exampleJa": "ビデオ通話のために、オフィスにはより広い帯域幅が必要です。",
+"note": "類義語：data capacity, transmission capacity\n表現：increase bandwidth（帯域幅を増やす）"
+},
+{
+"id": "w248",
+"pos": "名詞",
+"exampleJa": "その会社は月額制のサブスクリプションサービスを提供しています。",
+"note": "類義語：membership, recurring service\n派生：subscribe（動詞：定期購読する）\n表現：monthly subscription（毎月の定期購読）"
+},
+{
+"id": "w249",
+"pos": "名詞句",
+"exampleJa": "ソフトウェアをインストールする前にライセンス契約を読んでください。",
+"note": "類義語：software license, licensing contract\n表現：license agreement（ライセンス契約）"
+},
+{
+"id": "w250",
+"pos": "名詞",
+"exampleJa": "マーケティングチームは毎週アナリティクスを確認します。",
+"note": "類義語：data analysis, statistics\n派生：analyze（動詞：分析する）\n表現：review analytics（分析データを確認する）"
+},
+{
+"id": "w251",
+"pos": "名詞",
+"exampleJa": "マーケティングキャンペーンによって売上が大幅に伸びました。",
+"note": "類義語：promotion, initiative\n表現：marketing campaign（マーケティングキャンペーン）"
+},
+{
+"id": "w252",
+"pos": "名詞",
+"exampleJa": "その会社は昨年、ブランディングに多額の投資をしました。",
+"note": "類義語：brand development, brand building\n表現：invest in branding（ブランディングに投資する）"
+},
+{
+"id": "w253",
+"pos": "名詞",
+"exampleJa": "その選手の推薦によって製品の宣伝が促進されました。",
+"note": "類義語：recommendation, approval\n派生：endorse（動詞：推薦する、支持する）\n表現：celebrity endorsement（著名人による推薦）"
+},
+{
+"id": "w254",
+"pos": "名詞句",
+"exampleJa": "その広告は若いターゲット層向けに作られました。",
+"note": "類義語：target market, intended audience\n表現：target audience（対象となる顧客層）"
+},
+{
+"id": "w255",
+"pos": "名詞句",
+"exampleJa": "新しい販促資料は来週印刷されます。",
+"note": "類義語：marketing material, advertising material\n表現：promotional material（販促資料）"
+},
+{
+"id": "w256",
+"pos": "名詞",
+"exampleJa": "顧客の体験談がウェブサイトに掲載されています。",
+"note": "類義語：recommendation, review\n表現：customer testimonial（顧客の推薦の言葉）"
+},
+{
+"id": "w257",
+"pos": "名詞・動詞",
+"exampleJa": "顧客満足度を測定するためにアンケートを実施しました。",
+"note": "類義語：poll, study\n派生：surveyed（動詞：調査した）\n表現：conduct a survey（調査を実施する）"
+},
+{
+"id": "w258",
+"pos": "名詞",
+"exampleJa": "帰る前にアンケート用紙に記入してください。",
+"note": "類義語：survey, form\n表現：complete a questionnaire（アンケートに回答する）"
+},
+{
+"id": "w259",
+"pos": "名詞",
+"exampleJa": "回答者の大半は新しいパッケージデザインを好みました。",
+"note": "類義語：participant, survey participant\n派生：respond（動詞：回答する）\n表現：survey respondents（アンケート回答者）"
+},
+{
+"id": "w260",
+"pos": "名詞",
+"exampleJa": "交渉の結果は好ましいものでした。",
+"note": "類義語：result, consequence\n表現：the outcome of a negotiation（交渉の結果）"
+},
+{
+"id": "w261",
+"pos": "名詞",
+"exampleJa": "試作品を完成させたことは大きな節目でした。",
+"note": "類義語：achievement, landmark\n表現：reach a milestone（重要な節目に達する）"
+},
+{
+"id": "w262",
+"pos": "名詞",
+"exampleJa": "プロジェクトの予定表は2週間延長されました。",
+"note": "類義語：schedule, timetable\n表現：project timeline（プロジェクトの予定表）"
+},
+{
+"id": "w263",
+"pos": "名詞",
+"exampleJa": "建設は現在、最終段階に入っています。",
+"note": "類義語：stage, period\n表現：final phase（最終段階）"
+},
+{
+"id": "w264",
+"pos": "名詞句",
+"exampleJa": "物流調整担当者がすべての配送を予定しました。",
+"note": "類義語：logistics manager, logistics specialist\n表現：coordinate deliveries（配送を調整する）"
+},
+{
+"id": "w265",
+"pos": "名詞句",
+"exampleJa": "その嵐によってサプライチェーンが混乱しました。",
+"note": "類義語：supply network, distribution chain\n表現：supply chain disruption（サプライチェーンの混乱）"
+},
+{
+"id": "w266",
+"pos": "名詞句",
+"exampleJa": "特注品のリードタイムは3週間です。",
+"note": "類義語：processing time, delivery time\n表現：lead time for orders（注文のリードタイム）"
+},
+{
+"id": "w267",
+"pos": "名詞句",
+"exampleJa": "修理にかかる処理時間は48時間です。",
+"note": "類義語：processing time, completion time\n表現：turnaround time for repairs（修理の処理時間）"
+},
+{
+"id": "w268",
+"pos": "名詞",
+"exampleJa": "新しいソフトウェアによって全体的な生産性が向上しました。",
+"note": "類義語：output, performance\n派生：productive（形容詞：生産的な）\n表現：improve productivity（生産性を向上させる）"
+},
+{
+"id": "w269",
+"pos": "名詞",
+"exampleJa": "新しい工程によって効率が20パーセント向上しました。",
+"note": "類義語：effectiveness, productivity\n派生：efficient（形容詞：効率的な）\n表現：increase efficiency（効率を高める）"
+},
+{
+"id": "w270",
+"pos": "動詞",
+"exampleJa": "その会社は承認手続きを合理化しました。",
+"note": "類義語：simplify, optimize\n派生：streamlined（形容詞：合理化された）\n表現：streamline a process（手続きを合理化する）"
+},
+{
+"id": "w271",
+"pos": "動詞",
+"exampleJa": "コスト削減のため、その部署は再編成されました。",
+"note": "類義語：reorganize, restructure\n派生：restructuring（名詞：再編成）\n表現：restructure a department（部署を再編成する）"
+},
+{
+"id": "w272",
+"pos": "名詞",
+"exampleJa": "人員削減により、今年は従業員数が減少しました。",
+"note": "類義語：staff reduction, workforce reduction\n派生：downsize（動詞：規模を縮小する、人員削減する）\n表現：downsize the workforce（人員を削減する）"
+},
+{
+"id": "w273",
+"pos": "動詞",
+"exampleJa": "本社はより大きな建物へ移転する予定です。",
+"note": "類義語：move, transfer\n派生：relocation（名詞：移転）\n表現：relocate the headquarters（本社を移転する）"
+},
+{
+"id": "w274",
+"pos": "名詞句",
+"exampleJa": "施設の賃貸契約は年末に期限切れになります。",
+"note": "類義語：property lease, rental agreement\n表現：lease expires（賃貸契約が満了する）"
+},
+{
+"id": "w275",
+"pos": "名詞",
+"exampleJa": "その賃借人は2年間の賃貸契約に署名しました。",
+"note": "類義語：renter, lessee\n派生：rent（動詞：賃借する）\n表現：sign a lease（賃貸契約に署名する）"
+},
+{
+"id": "w276",
+"pos": "名詞",
+"exampleJa": "家主は暖房システムの修理に同意しました。",
+"note": "類義語：property owner, lessor\n表現：landlord agreement（家主の同意）"
+},
+{
+"id": "w277",
+"pos": "名詞句",
+"exampleJa": "電気料金の上昇により公共料金の請求額が増えました。",
+"note": "類義語：utility statement, service bill\n表現：pay a utility bill（公共料金を支払う）"
+},
+{
+"id": "w278",
+"pos": "名詞句",
+"exampleJa": "諸経費には家賃や公共料金が含まれます。",
+"note": "類義語：operating expense, indirect cost\n表現：overhead costs（諸経費）"
+},
+{
+"id": "w279",
+"pos": "形容詞",
+"exampleJa": "新しい方法は以前より費用対効果が高いです。",
+"note": "類義語：economical, economical in cost\n表現：cost-effective solution（費用対効果の高い解決策）"
+},
+{
+"id": "w280",
+"pos": "形容詞",
+"exampleJa": "その会社はより持続可能な包装を採用しました。",
+"note": "類義語：durable, environmentally responsible\n派生：sustainability（名詞：持続可能性）\n表現：sustainable development（持続可能な開発）"
+},
+{
+"id": "w281",
+"pos": "名詞句",
+"exampleJa": "その工場は現在、再生可能エネルギーで稼働しています。",
+"note": "類義語：clean energy, green energy\n表現：renewable energy（再生可能エネルギー）"
+},
+{
+"id": "w282",
+"pos": "形容詞",
+"exampleJa": "その店では環境に優しい製品だけを販売しています。",
+"note": "類義語：environmentally friendly, green\n表現：eco-friendly products（環境に優しい製品）"
+},
+{
+"id": "w283",
+"pos": "名詞",
+"exampleJa": "その工場は昨年、二酸化炭素排出量を削減しました。",
+"note": "類義語：discharge, release\n派生：emit（動詞：排出する）\n表現：carbon emissions（二酸化炭素排出量）"
+},
+{
+"id": "w284",
+"pos": "名詞句",
+"exampleJa": "その市は廃棄物管理システムを改善しました。",
+"note": "類義語：waste disposal, waste control\n表現：waste management system（廃棄物管理システム）"
+},
+{
+"id": "w285",
+"pos": "名詞",
+"exampleJa": "作業員は安全上の危険を発見したら直ちに報告しなければなりません。",
+"note": "類義語：danger, risk\n派生：hazardous（形容詞：危険な）\n表現：safety hazard（安全上の危険）"
+},
+{
+"id": "w286",
+"pos": "名詞",
+"exampleJa": "金曜日の午後に避難訓練が行われました。",
+"note": "類義語：evacuation, withdrawal\n派生：evacuate（動詞：避難させる、避難する）\n表現：evacuation drill（避難訓練）"
+},
+{
+"id": "w287",
+"pos": "名詞句",
+"exampleJa": "補償内容の詳細について保険契約を確認してください。",
+"note": "類義語：insurance contract, policy\n表現：review an insurance policy（保険契約を確認する）"
+},
+{
+"id": "w288",
+"pos": "名詞・動詞",
+"exampleJa": "彼女は事故の後、保険金を請求しました。",
+"note": "類義語：request, application\n派生：claimant（名詞：請求者）\n表現：file a claim（保険金を請求する）"
+},
+{
+"id": "w289",
+"pos": "名詞",
+"exampleJa": "その保険契約は物的損害を補償します。",
+"note": "類義語：protection, insurance\n派生：cover（動詞：補償する、覆う）\n表現：insurance coverage（保険の補償範囲）"
+},
+{
+"id": "w290",
+"pos": "名詞",
+"exampleJa": "この保険プランの自己負担額は500ドルです。",
+"note": "類義語：excess, out-of-pocket amount\n表現：pay the deductible（自己負担額を支払う）"
+},
+{
+"id": "w291",
+"pos": "名詞",
+"exampleJa": "彼は配偶者を受益者に指定しました。",
+"note": "類義語：recipient, heir\n表現：name a beneficiary（受益者を指定する）"
+},
+{
+"id": "w292",
+"pos": "名詞",
+"exampleJa": "保険引受人は保険契約を承認する前にリスクを評価しました。",
+"note": "類義語：insurance evaluator, risk assessor\n派生：underwrite（動詞：保険を引き受ける）\n表現：assess risk（リスクを評価する）"
+},
+{
+"id": "w293",
+"pos": "名詞句",
+"exampleJa": "保険料の支払いは毎月1日が期限です。",
+"note": "類義語：insurance payment, premium\n表現：make a premium payment（保険料を支払う）"
+},
+{
+"id": "w294",
+"pos": "名詞句",
+"exampleJa": "査定報告書ではその不動産の価値が見積もられました。",
+"note": "類義語：valuation report, assessment report\n表現：property appraisal（不動産査定）"
+},
+{
+"id": "w295",
+"pos": "名詞句",
+"exampleJa": "不動産業者が彼らにいくつかの物件を紹介しました。",
+"note": "類義語：realtor, property agent\n表現：real estate agent（不動産業者）"
+},
+{
+"id": "w296",
+"pos": "名詞",
+"exampleJa": "その新しい物件情報には多くの購入希望者が関心を示しました。",
+"note": "類義語：advertisement, property listing\n派生：list（動詞：掲載する、一覧にする）\n表現：property listing（物件情報）"
+},
+{
+"id": "w297",
+"pos": "名詞句",
+"exampleJa": "そのオフィスの床面積は5,000平方フィートです。",
+"note": "類義語：floor area, floor space\n表現：square footage（床面積）"
+},
+{
+"id": "w298",
+"pos": "名詞句",
+"exampleJa": "区画規制によってこの地域での商業利用が制限されています。",
+"note": "類義語：land-use regulation, zoning rule\n表現：zoning regulations（区画規制）"
+},
+{
+"id": "w299",
+"pos": "名詞",
+"exampleJa": "建築家は新しい建物の設計図を提示しました。",
+"note": "類義語：plan, design drawing\n表現：building blueprint（建物の設計図）"
+},
+{
+"id": "w300",
+"pos": "名詞句",
+"exampleJa": "今朝、起工式が行われました。",
+"note": "類義語：groundbreaking event, construction launch ceremony\n表現：hold a groundbreaking ceremony（起工式を行う）"
+}
+]

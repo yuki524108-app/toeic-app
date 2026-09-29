@@ -1,0 +1,602 @@
+[
+{
+"id": "w1301",
+"pos": "名詞",
+"exampleJa": "ローンを組む前に年利率を比較してください。",
+"note": "類義語：annual interest rate, APR\n表現：annual percentage rate（年利率）"
+},
+{
+"id": "w1302",
+"pos": "名詞",
+"exampleJa": "ファイナンシャルアドバイザーが彼らの退職後の生活設計を手伝った。",
+"note": "類義語：financial consultant, financial planner\n表現：financial advisor（ファイナンシャルアドバイザー）"
+},
+{
+"id": "w1303",
+"pos": "名詞",
+"exampleJa": "従業員は401kプランに拠出することができる。",
+"note": "類義語：retirement plan, pension plan\n表現：contribute to a 401k plan（401kプランに拠出する）"
+},
+{
+"id": "w1304",
+"pos": "名詞",
+"exampleJa": "彼女は長期的な投資戦略を立てた。",
+"note": "類義語：investment plan, investing strategy\n表現：long-term investment strategy（長期的な投資戦略）"
+},
+{
+"id": "w1305",
+"pos": "名詞",
+"exampleJa": "その財務諸表は監査人によって確認された。",
+"note": "類義語：financial report, financial records\n表現：review a financial statement（財務諸表を確認する）"
+},
+{
+"id": "w1306",
+"pos": "名詞",
+"exampleJa": "損益計算書は会社の収益性を示している。",
+"note": "類義語：profit and loss statement, P&L statement\n表現：income statement（損益計算書）"
+},
+{
+"id": "w1307",
+"pos": "名詞",
+"exampleJa": "その会社は十分な現金準備金を維持している。",
+"note": "類義語：cash reserve, cash holdings\n表現：maintain a cash reserve（現金準備金を維持する）"
+},
+{
+"id": "w1308",
+"pos": "名詞",
+"exampleJa": "その事業を運営するには十分な運転資本が必要だ。",
+"note": "類義語：operating capital, net working capital\n表現：sufficient working capital（十分な運転資本）"
+},
+{
+"id": "w1309",
+"pos": "名詞",
+"exampleJa": "工場の建物は固定資産として計上されている。",
+"note": "類義語：capital asset, property\n表現：fixed asset（固定資産）"
+},
+{
+"id": "w1310",
+"pos": "名詞",
+"exampleJa": "買掛金は流動負債として記録される。",
+"note": "類義語：short-term liability, current debt\n表現：current liability（流動負債）"
+},
+{
+"id": "w1311",
+"pos": "名詞",
+"exampleJa": "その会社は今年、長期負債を削減した。",
+"note": "類義語：long-term liability, long-term borrowing\n表現：reduce long-term debt（長期負債を削減する）"
+},
+{
+"id": "w1312",
+"pos": "名詞",
+"exampleJa": "その会社の信用格付けは合併後に改善した。",
+"note": "類義語：credit score, credit assessment\n表現：improve a credit rating（信用格付けを改善する）"
+},
+{
+"id": "w1313",
+"pos": "名詞",
+"exampleJa": "その会社は債券発行によって資金を調達した。",
+"note": "類義語：bond sale, debt issuance\n表現：issue bonds（債券を発行する）"
+},
+{
+"id": "w1314",
+"pos": "名詞",
+"exampleJa": "その会社は1対2の株式分割を発表した。",
+"note": "類義語：share split, stock subdivision\n表現：announce a stock split（株式分割を発表する）"
+},
+{
+"id": "w1315",
+"pos": "名詞",
+"exampleJa": "そのスタートアップは先月、新規株式公開を完了した。",
+"note": "類義語：IPO, public offering\n表現：complete an initial public offering（新規株式公開を完了する）"
+},
+{
+"id": "w1316",
+"pos": "名詞",
+"exampleJa": "年次株主総会は4月に開催される予定だ。",
+"note": "類義語：shareholders' meeting, stockholders' meeting\n表現：annual shareholder meeting（年次株主総会）"
+},
+{
+"id": "w1317",
+"pos": "名詞",
+"exampleJa": "株主は出席できない場合、委任状によって議決権を行使できる。",
+"note": "類義語：proxy ballot, proxy voting\n表現：submit a proxy vote（委任状による議決権を提出する）"
+},
+{
+"id": "w1318",
+"pos": "名詞",
+"exampleJa": "好調な売上により一株当たり利益が増加した。",
+"note": "類義語：EPS, per-share earnings\n表現：earnings per share（一株当たり利益）"
+},
+{
+"id": "w1319",
+"pos": "名詞",
+"exampleJa": "投資家は類似企業の株価収益率を比較する。",
+"note": "類義語：P/E ratio, price-earnings ratio\n表現：compare price-to-earnings ratios（株価収益率を比較する）"
+},
+{
+"id": "w1320",
+"pos": "名詞",
+"exampleJa": "その会社の時価総額は10億ドルを超えている。",
+"note": "類義語：market value, equity value\n表現：market capitalization（時価総額）"
+},
+{
+"id": "w1321",
+"pos": "名詞",
+"exampleJa": "取締役会は敵対的買収の試みを拒否した。",
+"note": "類義語：unfriendly takeover, forced acquisition\n表現：hostile takeover attempt（敵対的買収の試み）"
+},
+{
+"id": "w1322",
+"pos": "名詞",
+"exampleJa": "その幹部はインサイダー取引の罪で起訴された。",
+"note": "類義語：illegal trading, insider dealing\n表現：be charged with insider trading（インサイダー取引で起訴される）"
+},
+{
+"id": "w1323",
+"pos": "名詞",
+"exampleJa": "その会社は金融詐欺の罪で罰金を科された。",
+"note": "類義語：financial scam, financial deception\n表現：be fined for financial fraud（金融詐欺で罰金を科される）"
+},
+{
+"id": "w1324",
+"pos": "名詞",
+"exampleJa": "その会計士は横領の容疑で逮捕された。",
+"note": "類義語：misappropriation, theft\n表現：be arrested for embezzlement（横領で逮捕される）"
+},
+{
+"id": "w1325",
+"pos": "名詞",
+"exampleJa": "その銀行はマネーロンダリングの疑いがあるとして口座に警告を付けた。",
+"note": "類義語：money washing, laundering\n表現：suspected money laundering（マネーロンダリングの疑い）"
+},
+{
+"id": "w1326",
+"pos": "名詞",
+"exampleJa": "この職場では時間厳守が非常に重視されている。",
+"note": "類義語：promptness, timeliness\n表現：value punctuality（時間厳守を重視する）"
+},
+{
+"id": "w1327",
+"pos": "名詞",
+"exampleJa": "その供給業者は信頼性で知られている。",
+"note": "類義語：dependability, trustworthiness\n表現：known for reliability（信頼性で知られている）"
+},
+{
+"id": "w1328",
+"pos": "名詞",
+"exampleJa": "品質の一貫性が顧客の信頼を築く。",
+"note": "類義語：uniformity, steadiness\n表現：consistency in quality（品質の一貫性）"
+},
+{
+"id": "w1329",
+"pos": "名詞",
+"exampleJa": "急速に変化する業界では適応力が不可欠だ。",
+"note": "類義語：flexibility, adjustability\n表現：adaptability is essential（適応力が不可欠である）"
+},
+{
+"id": "w1330",
+"pos": "名詞",
+"exampleJa": "彼女の多才さはチームにとって価値がある。",
+"note": "類義語：flexibility, diversity\n表現：professional versatility（仕事上の多才さ）"
+},
+{
+"id": "w1331",
+"pos": "名詞",
+"exampleJa": "彼の勤勉さが認められ、昇進した。",
+"note": "類義語：diligence, industriousness\n表現：show diligence（勤勉さを示す）"
+},
+{
+"id": "w1332",
+"pos": "名詞",
+"exampleJa": "その報告書は徹底している点が評価された。",
+"note": "類義語：completeness, exhaustiveness\n表現：attention to thoroughness（徹底した取り組み）"
+},
+{
+"id": "w1333",
+"pos": "形容詞",
+"exampleJa": "彼は締め切りを決して逃さない誠実な従業員だ。",
+"note": "類義語：conscientious, diligent, responsible\n表現：conscientious worker（誠実な従業員）"
+},
+{
+"id": "w1334",
+"pos": "形容詞",
+"exampleJa": "彼女は交渉で自己主張の強い姿勢を取った。",
+"note": "類義語：forceful, self-confident, confident\n表現：assertive approach（自己主張の強い姿勢）"
+},
+{
+"id": "w1335",
+"pos": "形容詞",
+"exampleJa": "この移行期には決断力のあるリーダーが必要だ。",
+"note": "類義語：resolute, determined, firm\n表現：decisive leader（決断力のあるリーダー）"
+},
+{
+"id": "w1336",
+"pos": "形容詞",
+"exampleJa": "彼は業績の低い従業員に思いやりのあるフィードバックをした。",
+"note": "類義語：diplomatic, considerate, discreet\n表現：tactful feedback（思いやりのあるフィードバック）"
+},
+{
+"id": "w1337",
+"pos": "形容詞",
+"exampleJa": "彼女はプロジェクトのリスクについて率直な評価をした。",
+"note": "類義語：frank, honest, straightforward\n表現：candid assessment（率直な評価）"
+},
+{
+"id": "w1338",
+"pos": "形容詞",
+"exampleJa": "そのCEOはインタビューで明確に話すことで知られている。",
+"note": "類義語：eloquent, fluent, expressive\n派生：articulate（動詞：明確に表現する）\n表現：articulate speaker（話すのが上手な人）"
+},
+{
+"id": "w1339",
+"pos": "形容詞",
+"exampleJa": "彼の説得力のある主張は投資家の支持を得た。",
+"note": "類義語：convincing, compelling, influential\n表現：persuasive argument（説得力のある主張）"
+},
+{
+"id": "w1340",
+"pos": "形容詞",
+"exampleJa": "その職には高い分析能力が求められる。",
+"note": "類義語：logical, systematic, critical\n表現：analytical skills（分析能力）"
+},
+{
+"id": "w1341",
+"pos": "形容詞",
+"exampleJa": "彼女は問題解決に系統立ったアプローチを取る。",
+"note": "類義語：systematic, organized, orderly\n表現：methodical approach（系統立ったアプローチ）"
+},
+{
+"id": "w1342",
+"pos": "副詞",
+"exampleJa": "その報告書は綿密に調査された。",
+"note": "類義語：carefully, painstakingly, precisely\n派生：meticulous（形容詞：細心の、綿密な）\n表現：meticulously researched（綿密に調査された）"
+},
+{
+"id": "w1343",
+"pos": "副詞",
+"exampleJa": "そのチームは一貫して売上目標を達成している。",
+"note": "類義語：steadily, regularly, uniformly\n派生：consistent（形容詞：一貫した）\n表現：consistently meet a target（目標を一貫して達成する）"
+},
+{
+"id": "w1344",
+"pos": "副詞",
+"exampleJa": "彼女は顧客の複雑な依頼に熟達して対応した。",
+"note": "類義語：skillfully, competently, expertly\n派生：proficient（形容詞：熟達した）\n表現：handle proficiently（熟達して扱う）"
+},
+{
+"id": "w1345",
+"pos": "副詞",
+"exampleJa": "スタッフは発売前に十分な訓練を受けた。",
+"note": "類義語：sufficiently, sufficiently well, satisfactorily\n派生：adequate（形容詞：十分な）\n表現：adequately trained（十分に訓練された）"
+},
+{
+"id": "w1346",
+"pos": "副詞",
+"exampleJa": "そのマネージャーは提案書を徹底的に確認した。",
+"note": "類義語：completely, carefully, exhaustively\n派生：thorough（形容詞：徹底的な）\n表現：thoroughly review（徹底的に確認する）"
+},
+{
+"id": "w1347",
+"pos": "副詞",
+"exampleJa": "メールには迅速に返信してください。",
+"note": "類義語：promptly, quickly, immediately\n派生：prompt（形容詞：迅速な）\n表現：respond promptly（迅速に返信する）"
+},
+{
+"id": "w1348",
+"pos": "副詞",
+"exampleJa": "彼は予定より早く課題を勤勉に終えた。",
+"note": "類義語：diligently, industriously, assiduously\n派生：diligent（形容詞：勤勉な）\n表現：work diligently（勤勉に働く）"
+},
+{
+"id": "w1349",
+"pos": "副詞",
+"exampleJa": "新しいシステムは注文を効率的に処理する。",
+"note": "類義語：effectively, productively, smoothly\n派生：efficient（形容詞：効率的な）\n表現：work efficiently（効率的に働く）"
+},
+{
+"id": "w1350",
+"pos": "副詞",
+"exampleJa": "データは正確に記録しなければならない。",
+"note": "類義語：precisely, correctly, exactly\n派生：accurate（形容詞：正確な）\n表現：record accurately（正確に記録する）"
+},
+{
+"id": "w1351",
+"pos": "副詞",
+"exampleJa": "2つのプロジェクトは同時に開始された。",
+"note": "類義語：simultaneously, concurrently, at the same time\n派生：simultaneous（形容詞：同時の）\n表現：launch simultaneously（同時に開始する）"
+},
+{
+"id": "w1352",
+"pos": "副詞",
+"exampleJa": "その設備は定期的に点検される。",
+"note": "類義語：regularly, routinely, at regular intervals\n派生：periodic（形容詞：定期的な）\n表現：inspect periodically（定期的に点検する）"
+},
+{
+"id": "w1353",
+"pos": "副詞",
+"exampleJa": "その提案はその後、取締役会によって承認された。",
+"note": "類義語：afterward, later, thereafter\n派生：subsequent（形容詞：その後の）\n表現：subsequently approved（その後承認された）"
+},
+{
+"id": "w1354",
+"pos": "副詞",
+"exampleJa": "今後は、すべての報告書を電子的に提出しなければならない。",
+"note": "類義語：from now on, from this point forward\n表現：henceforth require（今後は要求する）"
+},
+{
+"id": "w1355",
+"pos": "副詞",
+"exampleJa": "プロジェクトは遅れた。それにもかかわらず、無事に完了した。",
+"note": "類義語：nevertheless, however, still\n表現：nonetheless succeed（それにもかかわらず成功する）"
+},
+{
+"id": "w1356",
+"pos": "副詞",
+"exampleJa": "さらに、その会社は海外展開を計画している。",
+"note": "類義語：moreover, additionally, in addition\n表現：furthermore, the company plans to（さらに、会社は～を計画している）"
+},
+{
+"id": "w1357",
+"pos": "副詞",
+"exampleJa": "2番目の支店も同様に好調だった。",
+"note": "類義語：similarly, equally, in the same way\n表現：likewise perform well（同様に好調である）"
+},
+{
+"id": "w1358",
+"pos": "副詞",
+"exampleJa": "予算はそれに応じて調整された。",
+"note": "類義語：appropriately, correspondingly, suitably\n表現：adjust accordingly（それに応じて調整する）"
+},
+{
+"id": "w1359",
+"pos": "副詞",
+"exampleJa": "売上が落ちた。その結果、解雇が発表された。",
+"note": "類義語：therefore, as a result, thus\n表現：consequently lead to（結果として～につながる）"
+},
+{
+"id": "w1360",
+"pos": "前置詞・接続詞",
+"exampleJa": "遅れにもかかわらず、プロジェクトは成功した。",
+"note": "類義語：despite, regardless of\n表現：notwithstanding the delays（遅れにもかかわらず）"
+},
+{
+"id": "w1361",
+"pos": "名詞",
+"exampleJa": "そのシェフは厨房で清潔なエプロンを着用していた。",
+"note": "類義語：pinafore, smock\n表現：wear an apron（エプロンを着用する）"
+},
+{
+"id": "w1362",
+"pos": "名詞",
+"exampleJa": "その会社にはスタッフ向けの厳格な制服規定がある。",
+"note": "類義語：dress policy, uniform regulation\n表現：strict uniform policy（厳格な制服規定）"
+},
+{
+"id": "w1363",
+"pos": "名詞",
+"exampleJa": "そのオフィスではビジネスカジュアルの服装規定が採用されている。",
+"note": "類義語：dress policy, clothing policy\n表現：business casual dress code（ビジネスカジュアルの服装規定）"
+},
+{
+"id": "w1364",
+"pos": "名詞",
+"exampleJa": "従業員は常に名札を着用しなければならない。",
+"note": "類義語：name badge, identification badge\n表現：wear a name tag（名札を着用する）"
+},
+{
+"id": "w1365",
+"pos": "名詞",
+"exampleJa": "連絡先を確認するには職員名簿を見てください。",
+"note": "類義語：employee directory, staff list\n表現：check the staff directory（職員名簿を確認する）"
+},
+{
+"id": "w1366",
+"pos": "名詞",
+"exampleJa": "安全上の懸念に対処するため、タスクフォースが設置された。",
+"note": "類義語：special committee, working group\n表現：create a task force（タスクフォースを設置する）"
+},
+{
+"id": "w1367",
+"pos": "名詞",
+"exampleJa": "彼女は毎年開催される祝賀会の委員を務めている。",
+"note": "類義語：committee representative, committee participant\n表現：serve as a committee member（委員会のメンバーを務める）"
+},
+{
+"id": "w1368",
+"pos": "名詞",
+"exampleJa": "諮問委員会は戦略的な意思決定について助言する。",
+"note": "類義語：advisory committee, consultative board\n表現：advisory board（諮問委員会）"
+},
+{
+"id": "w1369",
+"pos": "名詞",
+"exampleJa": "そのスタートアップは開放的な企業文化を誇りにしている。",
+"note": "類義語：corporate culture, organizational culture\n表現：company culture（企業文化）"
+},
+{
+"id": "w1370",
+"pos": "名詞",
+"exampleJa": "誠実さはその会社の中核的価値観の一つだ。",
+"note": "類義語：fundamental values, guiding principles\n表現：core values（中核的価値観）"
+},
+{
+"id": "w1371",
+"pos": "名詞",
+"exampleJa": "ビジョンステートメントは長期的な目標を概説している。",
+"note": "類義語：vision, mission statement\n表現：outline long-term goals（長期的な目標を概説する）"
+},
+{
+"id": "w1372",
+"pos": "名詞",
+"exampleJa": "その戦略計画は今後5年間を対象としている。",
+"note": "類義語：strategic roadmap, strategy plan\n表現：strategic plan（戦略計画）"
+},
+{
+"id": "w1373",
+"pos": "名詞",
+"exampleJa": "チームは問題に対処するための行動計画を作成した。",
+"note": "類義語：action program, implementation plan\n表現：develop an action plan（行動計画を作成する）"
+},
+{
+"id": "w1374",
+"pos": "名詞",
+"exampleJa": "その会社はサブスクリプション型のビジネスモデルを採用した。",
+"note": "類義語：business structure, commercial model\n表現：adopt a business model（ビジネスモデルを採用する）"
+},
+{
+"id": "w1375",
+"pos": "名詞",
+"exampleJa": "そのスタートアップの価値提案は投資家を引きつけた。",
+"note": "類義語：customer value, unique selling proposition\n表現：value proposition（価値提案）"
+},
+{
+"id": "w1376",
+"pos": "名詞",
+"exampleJa": "強いブランド力はその会社に競争優位性を与える。",
+"note": "類義語：competitive edge, advantage\n表現：gain a competitive advantage（競争優位性を得る）"
+},
+{
+"id": "w1377",
+"pos": "名詞",
+"exampleJa": "その会社は今年、市場でのポジションを強化した。",
+"note": "類義語：market standing, market status\n表現：strengthen market position（市場でのポジションを強化する）"
+},
+{
+"id": "w1378",
+"pos": "名詞",
+"exampleJa": "チームは発売前にSWOT分析を実施した。",
+"note": "類義語：strategic analysis, business analysis\n表現：conduct a SWOT analysis（SWOT分析を実施する）"
+},
+{
+"id": "w1379",
+"pos": "名詞",
+"exampleJa": "彼女は投資家向けに詳細な事業計画を書いた。",
+"note": "類義語：business proposal, corporate plan\n表現：write a business plan（事業計画を書く）"
+},
+{
+"id": "w1380",
+"pos": "名詞",
+"exampleJa": "拡張前に実現可能性調査が実施された。",
+"note": "類義語：viability study, feasibility analysis\n表現：conduct a feasibility study（実現可能性調査を実施する）"
+},
+{
+"id": "w1381",
+"pos": "名詞",
+"exampleJa": "チームはその提案について費用便益分析を行った。",
+"note": "類義語：cost-effectiveness analysis, benefit-cost analysis\n表現：perform a cost-benefit analysis（費用便益分析を行う）"
+},
+{
+"id": "w1382",
+"pos": "名詞",
+"exampleJa": "そのマーケティングキャンペーンは高い投資利益率を示した。",
+"note": "類義語：ROI, investment return\n表現：return on investment（投資利益率）"
+},
+{
+"id": "w1383",
+"pos": "名詞",
+"exampleJa": "そのマネージャーは毎週、複数の業績指標を追跡している。",
+"note": "類義語：performance indicator, KPI\n表現：track performance metrics（業績指標を追跡する）"
+},
+{
+"id": "w1384",
+"pos": "名詞",
+"exampleJa": "その研究では、結果を基準データと比較した。",
+"note": "類義語：reference data, benchmark data\n表現：compare against baseline data（基準データと比較する）"
+},
+{
+"id": "w1385",
+"pos": "名詞",
+"exampleJa": "本格的な展開の前に予備調査が実施された。",
+"note": "類義語：preliminary study, preliminary trial\n表現：conduct a pilot study（予備調査を実施する）"
+},
+{
+"id": "w1386",
+"pos": "名詞",
+"exampleJa": "製造上のミスを修正するために是正措置が取られた。",
+"note": "類義語：remedial action, corrective measure\n表現：take corrective action（是正措置を取る）"
+},
+{
+"id": "w1387",
+"pos": "名詞",
+"exampleJa": "将来の問題を避けるために予防措置が実施された。",
+"note": "類義語：preventive measure, precaution\n表現：implement preventive measures（予防措置を実施する）"
+},
+{
+"id": "w1388",
+"pos": "名詞",
+"exampleJa": "その会社は品質管理を改善するためにシックスシグマを導入した。",
+"note": "類義語：quality management method, process improvement method\n表現：adopt Six Sigma（シックスシグマを導入する）"
+},
+{
+"id": "w1389",
+"pos": "名詞",
+"exampleJa": "プロセス最適化によって生産時間が20％短縮された。",
+"note": "類義語：process improvement, workflow optimization\n表現：process optimization（プロセス最適化）"
+},
+{
+"id": "w1390",
+"pos": "名詞",
+"exampleJa": "その会社は環境に優しい梱包材に切り替えた。",
+"note": "類義語：packing material, packaging supplies\n表現：eco-friendly packaging material（環境に優しい梱包材）"
+},
+{
+"id": "w1391",
+"pos": "名詞",
+"exampleJa": "製品は保護のためシュリンクラップで密封されている。",
+"note": "類義語：shrink film, plastic wrap\n表現：seal with shrink wrap（シュリンクラップで密封する）"
+},
+{
+"id": "w1392",
+"pos": "名詞",
+"exampleJa": "果物は木箱に入れて出荷された。",
+"note": "類義語：wooden box, shipping box\n表現：ship in wooden crates（木箱で出荷する）"
+},
+{
+"id": "w1393",
+"pos": "名詞",
+"exampleJa": "商品は丈夫な段ボール箱に梱包された。",
+"note": "類義語：carton, packing box\n表現：cardboard box（段ボール箱）"
+},
+{
+"id": "w1394",
+"pos": "名詞",
+"exampleJa": "壊れやすい商品は気泡緩衝材で包まれた。",
+"note": "類義語：bubble packing, air-cushion wrap\n表現：wrap in bubble wrap（気泡緩衝材で包む）"
+},
+{
+"id": "w1395",
+"pos": "名詞",
+"exampleJa": "梱包明細書と届いた商品を照合してください。",
+"note": "類義語：packing list, delivery note\n表現：check the packing slip（梱包明細書を確認する）"
+},
+{
+"id": "w1396",
+"pos": "名詞",
+"exampleJa": "追跡番号を使って配送状況を確認してください。",
+"note": "類義語：shipment number, tracking code\n表現：check a tracking number（追跡番号を確認する）"
+},
+{
+"id": "w1397",
+"pos": "名詞",
+"exampleJa": "当日配達には宅配便サービスを利用した。",
+"note": "類義語：delivery service, messenger service\n表現：courier service（宅配便サービス）"
+},
+{
+"id": "w1398",
+"pos": "名詞",
+"exampleJa": "その店は現在、市内で当日配達を提供している。",
+"note": "類義語：same-day shipping, express delivery\n表現：offer same-day delivery（当日配達を提供する）"
+},
+{
+"id": "w1399",
+"pos": "名詞",
+"exampleJa": "一括配送は今朝、倉庫に到着した。",
+"note": "類義語：bulk shipment, large shipment\n表現：bulk shipment（大量一括配送）"
+},
+{
+"id": "w1400",
+"pos": "名詞",
+"exampleJa": "出発前に貨物室は完全に積み込まれた。",
+"note": "類義語：cargo compartment, freight hold\n表現：load the cargo hold（貨物室に積み込む）"
+}
+]

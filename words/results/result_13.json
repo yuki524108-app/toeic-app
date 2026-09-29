@@ -1,0 +1,602 @@
+[
+{
+"id": "w1201",
+"pos": "名詞",
+"exampleJa": "その花火大会は祭りの終わりを飾った。",
+"note": "類義語：fireworks, fireworks show\n表現：hold a firework display（花火大会を開催する）"
+},
+{
+"id": "w1202",
+"pos": "名詞",
+"exampleJa": "そのストリートフェスティバルでは、生演奏や屋台が催された。",
+"note": "類義語：street fair, outdoor festival\n表現：hold a street festival（ストリートフェスティバルを開催する）"
+},
+{
+"id": "w1203",
+"pos": "名詞",
+"exampleJa": "何千人もの人々が祝日のパレードを見るために集まった。",
+"note": "類義語：procession, march\n表現：holiday parade（祝日のパレード）"
+},
+{
+"id": "w1204",
+"pos": "名詞",
+"exampleJa": "その文化祭は地域の伝統を祝う。",
+"note": "類義語：cultural event, festival\n表現：hold a cultural festival（文化祭を開催する）"
+},
+{
+"id": "w1205",
+"pos": "名詞",
+"exampleJa": "そのギャラリーでは若手アーティストによる美術展が開催された。",
+"note": "類義語：art show, exhibition\n表現：host an art exhibition（美術展を開催する）"
+},
+{
+"id": "w1206",
+"pos": "名詞",
+"exampleJa": "彼女は手工芸品フェアで手作りの宝石を販売した。",
+"note": "類義語：craft market, artisan fair\n表現：hold a craft fair（手工芸品フェアを開催する）"
+},
+{
+"id": "w1207",
+"pos": "名詞",
+"exampleJa": "ファーマーズマーケットでは毎週土曜日に新鮮な農産物が販売される。",
+"note": "類義語：farm market, farmers' market\n表現：fresh produce（新鮮な農産物）"
+},
+{
+"id": "w1208",
+"pos": "名詞",
+"exampleJa": "彼はフリーマーケットでビンテージのランプを見つけた。",
+"note": "類義語：flea fair, bazaar\n表現：at a flea market（フリーマーケットで）"
+},
+{
+"id": "w1209",
+"pos": "名詞",
+"exampleJa": "その骨董品店はビンテージ家具を専門に扱っている。",
+"note": "類義語：antique store, antiquarian shop\n表現：specialize in antiques（骨董品を専門に扱う）"
+},
+{
+"id": "w1210",
+"pos": "名詞",
+"exampleJa": "その希少な硬貨は価値のある収集品だ。",
+"note": "類義語：collectible, collector's item\n表現：valuable collectible（価値のある収集品）"
+},
+{
+"id": "w1211",
+"pos": "名詞",
+"exampleJa": "その絵画はオークションハウスで過去最高額で売れた。",
+"note": "類義語：auction company, auctioneer\n表現：auction house（競売会社）"
+},
+{
+"id": "w1212",
+"pos": "名詞",
+"exampleJa": "最終的な入札額は予想を上回った。",
+"note": "類義語：bid, offer\n表現：final bid amount（最終入札額）"
+},
+{
+"id": "w1213",
+"pos": "名詞",
+"exampleJa": "その宝石には鑑定証明書が付いていた。",
+"note": "類義語：appraisal, valuation certificate\n表現：appraisal certificate（鑑定証明書）"
+},
+{
+"id": "w1214",
+"pos": "名詞",
+"exampleJa": "彼らは遺産整理セールでアンティーク家具を見つけた。",
+"note": "類義語：estate auction, liquidation sale\n表現：hold an estate sale（遺産整理セールを開催する）"
+},
+{
+"id": "w1215",
+"pos": "名詞",
+"exampleJa": "近所の人々は週末にガレージセールを開いた。",
+"note": "類義語：yard sale, rummage sale\n表現：hold a garage sale（ガレージセールを開く）"
+},
+{
+"id": "w1216",
+"pos": "名詞",
+"exampleJa": "その店は中古品を専門に扱っている。",
+"note": "類義語：used goods, used items\n表現：secondhand goods（中古品）"
+},
+{
+"id": "w1217",
+"pos": "名詞",
+"exampleJa": "そのブティックでは1960年代のビンテージ衣料を販売している。",
+"note": "類義語：retro clothing, secondhand clothing\n表現：vintage clothing（ビンテージ衣料）"
+},
+{
+"id": "w1218",
+"pos": "名詞",
+"exampleJa": "実験機器は昨年アップグレードされた。",
+"note": "類義語：lab equipment, laboratory apparatus\n表現：laboratory equipment（実験機器）"
+},
+{
+"id": "w1219",
+"pos": "名詞",
+"exampleJa": "その研究結果は科学誌に掲載された。",
+"note": "類義語：research results, findings\n表現：publish research findings（研究結果を発表する）"
+},
+{
+"id": "w1220",
+"pos": "名詞",
+"exampleJa": "その薬は現在、臨床試験を受けている。",
+"note": "類義語：clinical study, medical trial\n表現：undergo a clinical trial（臨床試験を受ける）"
+},
+{
+"id": "w1221",
+"pos": "名詞",
+"exampleJa": "学生は1年次に科学的手法を学ぶ。",
+"note": "類義語：scientific approach, research method\n表現：scientific method（科学的手法）"
+},
+{
+"id": "w1222",
+"pos": "名詞",
+"exampleJa": "その研究者は実験を通して自分の仮説を検証した。",
+"note": "類義語：theory, assumption\n表現：test a hypothesis（仮説を検証する）"
+},
+{
+"id": "w1223",
+"pos": "名詞",
+"exampleJa": "綿密な実験設計によって信頼できる結果が確保される。",
+"note": "類義語：experimental design, study design\n表現：careful experiment design（綿密な実験設計）"
+},
+{
+"id": "w1224",
+"pos": "名詞",
+"exampleJa": "その研究では、正確性を高めるために大規模なデータサンプルが使用された。",
+"note": "類義語：data set, sample data\n表現：large data sample（大規模なデータサンプル）"
+},
+{
+"id": "w1225",
+"pos": "名詞",
+"exampleJa": "統計分析によって有意な相関関係が明らかになった。",
+"note": "類義語：statistical evaluation, data analysis\n表現：conduct statistical analysis（統計分析を行う）"
+},
+{
+"id": "w1226",
+"pos": "名詞",
+"exampleJa": "対照群には治療が行われなかった。",
+"note": "類義語：comparison group, reference group\n表現：control group（対照群）"
+},
+{
+"id": "w1227",
+"pos": "名詞",
+"exampleJa": "遺伝子研究は近年、大きく進歩している。",
+"note": "類義語：genetic study, genetics research\n表現：genetic research（遺伝子研究）"
+},
+{
+"id": "w1228",
+"pos": "名詞",
+"exampleJa": "そのバイオテクノロジー企業は新しい医療法を開発している。",
+"note": "類義語：biotech, biotechnology industry\n表現：biotechnology firm（バイオテクノロジー企業）"
+},
+{
+"id": "w1229",
+"pos": "名詞",
+"exampleJa": "その製薬会社は新薬を発売した。",
+"note": "類義語：pharmaceutical firm, drug company\n表現：pharmaceutical company（製薬会社）"
+},
+{
+"id": "w1230",
+"pos": "名詞",
+"exampleJa": "医薬品開発は完了までに何年もかかることがある。",
+"note": "類義語：drug discovery, pharmaceutical development\n表現：drug development process（医薬品開発プロセス）"
+},
+{
+"id": "w1231",
+"pos": "名詞",
+"exampleJa": "医師は患者の体重に基づいて投与量を調整した。",
+"note": "類義語：dose, quantity\n表現：adjust the dosage（投与量を調整する）"
+},
+{
+"id": "w1232",
+"pos": "名詞",
+"exampleJa": "検査技師は血液サンプルを分析した。",
+"note": "類義語：lab technician, laboratory assistant\n表現：laboratory technician（検査技師）"
+},
+{
+"id": "w1233",
+"pos": "名詞",
+"exampleJa": "研究者たちは顕微鏡でサンプルを調べた。",
+"note": "類義語：microscope, optical microscope\n表現：under a microscope（顕微鏡で）"
+},
+{
+"id": "w1234",
+"pos": "名詞",
+"exampleJa": "その標本は検査のために研究室へ送られた。",
+"note": "類義語：sample, specimen\n表現：biological specimen（生物学的標本）"
+},
+{
+"id": "w1235",
+"pos": "名詞",
+"exampleJa": "その化合物は安定性について試験された。",
+"note": "類義語：compound, substance\n表現：chemical compound（化合物）"
+},
+{
+"id": "w1236",
+"pos": "名詞",
+"exampleJa": "科学者たちはそのタンパク質の分子構造を研究した。",
+"note": "類義語：molecular configuration, molecular makeup\n表現：molecular structure of a protein（タンパク質の分子構造）"
+},
+{
+"id": "w1237",
+"pos": "名詞",
+"exampleJa": "太陽エネルギーは再生可能な資源と考えられている。",
+"note": "類義語：sustainable resource, renewable energy source\n表現：renewable resource（再生可能な資源）"
+},
+{
+"id": "w1238",
+"pos": "名詞",
+"exampleJa": "その原子力発電所は地域に電力を供給している。",
+"note": "類義語：nuclear facility, nuclear station\n表現：nuclear power plant（原子力発電所）"
+},
+{
+"id": "w1239",
+"pos": "名詞",
+"exampleJa": "その電力会社は今年、料金を値上げした。",
+"note": "類義語：power company, utility company\n表現：electric utility rates（電気料金）"
+},
+{
+"id": "w1240",
+"pos": "名詞",
+"exampleJa": "市は新しい浄水場を建設した。",
+"note": "類義語：water purification plant, waterworks\n表現：water treatment plant（浄水場）"
+},
+{
+"id": "w1241",
+"pos": "名詞",
+"exampleJa": "古い下水システムには大規模な修理が必要だった。",
+"note": "類義語：sewer system, drainage system\n表現：sewage system（下水システム）"
+},
+{
+"id": "w1242",
+"pos": "名詞",
+"exampleJa": "公共事業局は道路の維持管理を担当している。",
+"note": "類義語：public works office, municipal works department\n表現：public works department（公共事業局）"
+},
+{
+"id": "w1243",
+"pos": "名詞",
+"exampleJa": "土木技師が新しい橋を設計した。",
+"note": "類義語：civil engineer, infrastructure engineer\n表現：civil engineering（土木工学）"
+},
+{
+"id": "w1244",
+"pos": "名詞",
+"exampleJa": "検査官は建物の構造的な安全性を確認した。",
+"note": "類義語：structural stability, structural soundness\n表現：check structural integrity（構造的な安全性を確認する）"
+},
+{
+"id": "w1245",
+"pos": "名詞",
+"exampleJa": "改修中に耐力壁を取り除くことはできない。",
+"note": "類義語：supporting wall, bearing wall\n表現：load-bearing wall（耐力壁）"
+},
+{
+"id": "w1246",
+"pos": "名詞",
+"exampleJa": "その建築家は3つの設計案を提示した。",
+"note": "類義語：designer, building designer\n表現：architectural design（建築設計）"
+},
+{
+"id": "w1247",
+"pos": "名詞",
+"exampleJa": "建設を始める前に建築許可が必要である。",
+"note": "類義語：construction permit, building authorization\n表現：obtain a building permit（建築許可を取得する）"
+},
+{
+"id": "w1248",
+"pos": "名詞",
+"exampleJa": "その開発業者は区画許可を申請した。",
+"note": "類義語：zoning approval, zoning authorization\n表現：apply for a zoning permit（区画許可を申請する）"
+},
+{
+"id": "w1249",
+"pos": "名詞",
+"exampleJa": "建設作業員は予定より早く工事を終えた。",
+"note": "類義語：construction workers, building crew\n表現：construction crew（建設作業員）"
+},
+{
+"id": "w1250",
+"pos": "名詞",
+"exampleJa": "現場を整地するために重機が使用された。",
+"note": "類義語：construction equipment, heavy equipment\n表現：operate heavy machinery（重機を操作する）"
+},
+{
+"id": "w1251",
+"pos": "名詞",
+"exampleJa": "クレーンオペレーターは鉄骨を所定の位置まで持ち上げた。",
+"note": "類義語：crane driver, crane worker\n表現：crane operator（クレーンオペレーター）"
+},
+{
+"id": "w1252",
+"pos": "名詞",
+"exampleJa": "作業員は高所で安全ハーネスを着用しなければならない。",
+"note": "類義語：safety belt, fall-arrest harness\n表現：wear a safety harness（安全ハーネスを着用する）"
+},
+{
+"id": "w1253",
+"pos": "名詞",
+"exampleJa": "建設現場ではすべての訪問者がヘルメットを着用しなければならない。",
+"note": "類義語：hard hat, safety helmet\n表現：wear a hard hat（ヘルメットを着用する）"
+},
+{
+"id": "w1254",
+"pos": "名詞",
+"exampleJa": "事故の後、建設現場は閉鎖された。",
+"note": "類義語：building site, worksite\n表現：construction site（建設現場）"
+},
+{
+"id": "w1255",
+"pos": "名詞",
+"exampleJa": "サポートチームは顧客からの問い合わせに迅速に対応した。",
+"note": "類義語：customer question, customer request\n表現：respond to a customer inquiry（顧客からの問い合わせに対応する）"
+},
+{
+"id": "w1256",
+"pos": "名詞",
+"exampleJa": "懸念事項は苦情処理部門に伝えてください。",
+"note": "類義語：complaints department, customer service department\n表現：complaint department（苦情処理部門）"
+},
+{
+"id": "w1257",
+"pos": "名詞",
+"exampleJa": "すぐにサポートが必要な場合はサービスホットラインに電話してください。",
+"note": "類義語：help line, customer hotline\n表現：call the service hotline（サービスホットラインに電話する）"
+},
+{
+"id": "w1258",
+"pos": "名詞",
+"exampleJa": "そのウェブサイトでは、すぐに回答を得られるライブチャットサポートを提供している。",
+"note": "類義語：online chat support, live customer support\n表現：live chat support（ライブチャットサポート）"
+},
+{
+"id": "w1259",
+"pos": "名詞",
+"exampleJa": "その会社は24時間体制でコールセンターを運営している。",
+"note": "類義語：customer service center, call center\n表現：operate a call center（コールセンターを運営する）"
+},
+{
+"id": "w1260",
+"pos": "名詞",
+"exampleJa": "その会社は毎年、顧客満足度調査を実施している。",
+"note": "類義語：customer survey, satisfaction survey\n表現：conduct a customer satisfaction survey（顧客満足度調査を実施する）"
+},
+{
+"id": "w1261",
+"pos": "名詞",
+"exampleJa": "ネットプロモータースコアは顧客の忠誠度を反映する。",
+"note": "類義語：customer loyalty score, loyalty metric\n表現：measure net promoter score（ネットプロモータースコアを測定する）"
+},
+{
+"id": "w1262",
+"pos": "名詞",
+"exampleJa": "その業者はサービスレベル契約の条件を満たさなければならない。",
+"note": "類義語：SLA, service agreement\n表現：service level agreement terms（サービスレベル契約の条件）"
+},
+{
+"id": "w1263",
+"pos": "名詞",
+"exampleJa": "その会社は平均対応時間の短縮を目指している。",
+"note": "類義語：response period, turnaround time\n表現：reduce response time（対応時間を短縮する）"
+},
+{
+"id": "w1264",
+"pos": "名詞",
+"exampleJa": "解決されない問題は明確なエスカレーションプロセスに従って処理される。",
+"note": "類義語：escalation procedure, escalation protocol\n表現：follow an escalation process（エスカレーションプロセスに従う）"
+},
+{
+"id": "w1265",
+"pos": "名詞",
+"exampleJa": "初めての顧客には注文時に割引が適用される。",
+"note": "類義語：new customer, first-time buyer\n表現：first-time customers（初めての顧客）"
+},
+{
+"id": "w1266",
+"pos": "名詞",
+"exampleJa": "リピート顧客は売上の大きな割合を占めている。",
+"note": "類義語：returning customer, repeat buyer\n表現：repeat customer（リピート顧客）"
+},
+{
+"id": "w1267",
+"pos": "名詞",
+"exampleJa": "そのレストランは口コミで人気になった。",
+"note": "類義語：referral, personal recommendation\n表現：through word of mouth（口コミで）"
+},
+{
+"id": "w1268",
+"pos": "名詞",
+"exampleJa": "そのキャンペーンはブランド認知度を高めることに成功した。",
+"note": "類義語：brand recognition, brand familiarity\n表現：increase brand awareness（ブランド認知度を高める）"
+},
+{
+"id": "w1269",
+"pos": "名詞",
+"exampleJa": "強いブランドロイヤルティはリピート購入につながる。",
+"note": "類義語：brand allegiance, customer loyalty\n表現：build brand loyalty（ブランドロイヤルティを築く）"
+},
+{
+"id": "w1270",
+"pos": "名詞",
+"exampleJa": "ソーシャルメディア担当者は毎日の投稿を予定している。",
+"note": "類義語：social media coordinator, social media specialist\n表現：social media manager（ソーシャルメディア担当者）"
+},
+{
+"id": "w1271",
+"pos": "名詞",
+"exampleJa": "そのブランドは今年、インフルエンサーマーケティングに投資した。",
+"note": "類義語：influencer advertising, influencer promotion\n表現：invest in influencer marketing（インフルエンサーマーケティングに投資する）"
+},
+{
+"id": "w1272",
+"pos": "名詞",
+"exampleJa": "その企業はキャンペーンのために広告代理店を雇った。",
+"note": "類義語：ad agency, marketing agency\n表現：hire an advertising agency（広告代理店を雇う）"
+},
+{
+"id": "w1273",
+"pos": "名詞",
+"exampleJa": "その雑誌には1ページ全面を使った印刷広告が掲載された。",
+"note": "類義語：print ad, newspaper advertisement\n表現：full-page advertisement（全面広告）"
+},
+{
+"id": "w1274",
+"pos": "名詞",
+"exampleJa": "その覚えやすいコマーシャルソングは顧客の記憶に残った。",
+"note": "類義語：advertising song, commercial tune\n表現：catchy jingle（覚えやすいCMソング）"
+},
+{
+"id": "w1275",
+"pos": "名詞",
+"exampleJa": "新しいキャッチフレーズはすべてのマーケティング資料に掲載されている。",
+"note": "類義語：slogan, catchphrase\n表現：marketing tagline（マーケティング用キャッチフレーズ）"
+},
+{
+"id": "w1276",
+"pos": "名詞",
+"exampleJa": "そのメールには明確な行動喚起が含まれている。",
+"note": "類義語：prompt, invitation to act\n表現：clear call to action（明確な行動喚起）"
+},
+{
+"id": "w1277",
+"pos": "名詞",
+"exampleJa": "広告をクリックすると、訪問者はランディングページに誘導される。",
+"note": "類義語：destination page, lead page\n表現：direct visitors to a landing page（訪問者をランディングページに誘導する）"
+},
+{
+"id": "w1278",
+"pos": "名詞",
+"exampleJa": "広告のクリック率はデザイン変更後に改善した。",
+"note": "類義語：CTR, click rate\n表現：improve click-through rate（クリック率を改善する）"
+},
+{
+"id": "w1279",
+"pos": "名詞",
+"exampleJa": "そのキャンペーンは100万回を超えるインプレッションを獲得した。",
+"note": "類義語：views, exposures\n表現：generate impressions（インプレッションを獲得する）"
+},
+{
+"id": "w1280",
+"pos": "名詞",
+"exampleJa": "メールマーケティングは顧客にリーチする効果的な方法であり続けている。",
+"note": "類義語：email promotion, email advertising\n表現：email marketing campaign（メールマーケティングキャンペーン）"
+},
+{
+"id": "w1281",
+"pos": "名詞",
+"exampleJa": "その会社には何千人ものニュースレター購読者がいる。",
+"note": "類義語：subscriber, newsletter reader\n表現：newsletter subscribers（ニュースレター購読者）"
+},
+{
+"id": "w1282",
+"pos": "動詞・名詞",
+"exampleJa": "顧客は販促メールを受け取ることに同意登録する必要がある。",
+"note": "類義語：consent, subscribe\n表現：opt in to emails（メール受信に同意登録する）"
+},
+{
+"id": "w1283",
+"pos": "動詞",
+"exampleJa": "ユーザーはいつでもメーリングリストの購読を解除できる。",
+"note": "類義語：cancel subscription, withdraw\n表現：unsubscribe from a mailing list（メーリングリストの購読を解除する）"
+},
+{
+"id": "w1284",
+"pos": "名詞",
+"exampleJa": "そのメールは迷惑メールフィルターによってブロックされた。",
+"note": "類義語：junk mail filter, email filter\n表現：spam filter（迷惑メールフィルター）"
+},
+{
+"id": "w1285",
+"pos": "名詞",
+"exampleJa": "その会社は検索順位を上げるためにSEO戦略を見直した。",
+"note": "類義語：SEO plan, search strategy\n表現：SEO strategy（SEO戦略）"
+},
+{
+"id": "w1286",
+"pos": "名詞",
+"exampleJa": "キーワードリサーチは検索での表示性を高めるのに役立つ。",
+"note": "類義語：keyword analysis, search term research\n表現：conduct keyword research（キーワードリサーチを行う）"
+},
+{
+"id": "w1287",
+"pos": "名詞",
+"exampleJa": "その新しいブログ記事によってウェブトラフィックが大幅に増加した。",
+"note": "類義語：web visitors, website traffic\n表現：increase web traffic（ウェブトラフィックを増やす）"
+},
+{
+"id": "w1288",
+"pos": "名詞",
+"exampleJa": "銀行窓口係は彼女が新しい口座を開設するのを手伝った。",
+"note": "類義語：bank clerk, cashier\n表現：bank teller（銀行窓口係）"
+},
+{
+"id": "w1289",
+"pos": "名詞",
+"exampleJa": "彼は小切手を当座預金口座に入金した。",
+"note": "類義語：current account, transaction account\n表現：checking account（当座預金口座）"
+},
+{
+"id": "w1290",
+"pos": "名詞",
+"exampleJa": "彼女は緊急資金を普通預金口座に保管している。",
+"note": "類義語：deposit account, savings deposit\n表現：savings account（普通預金口座）"
+},
+{
+"id": "w1291",
+"pos": "名詞",
+"exampleJa": "口座明細書を確認して、誤りがないか確認してください。",
+"note": "類義語：account record, account report\n表現：review an account statement（口座明細書を確認する）"
+},
+{
+"id": "w1292",
+"pos": "名詞",
+"exampleJa": "彼女は現金自動預け払い機から現金を引き出した。",
+"note": "類義語：ATM, cash machine\n表現：withdraw cash from an ATM（ATMから現金を引き出す）"
+},
+{
+"id": "w1293",
+"pos": "名詞",
+"exampleJa": "彼女の給与は口座振込で送金される。",
+"note": "類義語：bank transfer, electronic deposit\n表現：direct deposit（口座振込）"
+},
+{
+"id": "w1294",
+"pos": "名詞",
+"exampleJa": "オンラインバンキングを利用すると、請求書の支払いが簡単になる。",
+"note": "類義語：internet banking, digital banking\n表現：use online banking（オンラインバンキングを利用する）"
+},
+{
+"id": "w1295",
+"pos": "名詞",
+"exampleJa": "彼は不審な請求がないか銀行取引明細書を確認した。",
+"note": "類義語：bank statement, account statement\n表現：review a bank statement（銀行取引明細書を確認する）"
+},
+{
+"id": "w1296",
+"pos": "名詞",
+"exampleJa": "口座振込を設定するには銀行コードが必要になる。",
+"note": "類義語：bank code, routing code\n表現：routing number（銀行コード）"
+},
+{
+"id": "w1297",
+"pos": "名詞",
+"exampleJa": "振込を完了するには口座番号を入力してください。",
+"note": "類義語：bank account number, account ID\n表現：enter an account number（口座番号を入力する）"
+},
+{
+"id": "w1298",
+"pos": "名詞",
+"exampleJa": "その夫婦は家計費のために共同口座を開設した。",
+"note": "類義語：shared account, co-owned account\n表現：open a joint account（共同口座を開設する）"
+},
+{
+"id": "w1299",
+"pos": "名詞",
+"exampleJa": "彼女はより高い利息を得るために定期預金証書に投資した。",
+"note": "類義語：CD, time deposit\n表現：certificate of deposit（定期預金証書）"
+},
+{
+"id": "w1300",
+"pos": "名詞",
+"exampleJa": "複利によって時間とともに貯蓄がより速く増える。",
+"note": "類義語：compound earnings, accumulated interest\n表現：compound interest rate（複利金利）"
+}
+]

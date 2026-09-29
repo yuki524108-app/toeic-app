@@ -232,7 +232,7 @@ export default function ListeningPart2Study({
           <p className="mt-1 text-sm leading-relaxed text-(--color-ink)">
             {current.question}
           </p>
-          <p className="mt-4 text-sm leading-relaxed text-(--color-ink-soft)">
+          <p className="whitespace-pre-line mt-4 text-sm leading-relaxed text-(--color-ink-soft)">
             {current.explanation}
           </p>
           <button

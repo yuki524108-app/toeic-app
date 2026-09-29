@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w001",
+  "word": "accommodate",
+  "meaning": "収容する、対応する",
+  "example": "The hotel can accommodate up to 200 guests."
+ },
+ {
+  "id": "w002",
+  "word": "invoice",
+  "meaning": "請求書",
+  "example": "Please send the invoice by the end of the month."
+ },
+ {
+  "id": "w003",
+  "word": "negotiate",
+  "meaning": "交渉する",
+  "example": "We need to negotiate a better price with the supplier."
+ },
+ {
+  "id": "w004",
+  "word": "reimburse",
+  "meaning": "払い戻す、返済する",
+  "example": "The company will reimburse your travel expenses."
+ },
+ {
+  "id": "w005",
+  "word": "colleague",
+  "meaning": "同僚",
+  "example": "She discussed the project with her colleague."
+ },
+ {
+  "id": "w006",
+  "word": "deadline",
+  "meaning": "締め切り",
+  "example": "The deadline for the report is Friday."
+ },
+ {
+  "id": "w007",
+  "word": "inventory",
+  "meaning": "在庫、目録",
+  "example": "We need to check the inventory before ordering more."
+ },
+ {
+  "id": "w008",
+  "word": "merger",
+  "meaning": "合併",
+  "example": "The merger between the two companies was announced today."
+ },
+ {
+  "id": "w009",
+  "word": "candidate",
+  "meaning": "候補者",
+  "example": "Three candidates applied for the position."
+ },
+ {
+  "id": "w010",
+  "word": "revenue",
+  "meaning": "収益",
+  "example": "The company's revenue increased by 10% this year."
+ },
+ {
+  "id": "w011",
+  "word": "warranty",
+  "meaning": "保証",
+  "example": "This product comes with a two-year warranty."
+ },
+ {
+  "id": "w012",
+  "word": "logistics",
+  "meaning": "物流、後方支援",
+  "example": "The logistics department handles all shipments."
+ },
+ {
+  "id": "w013",
+  "word": "subsidiary",
+  "meaning": "子会社",
+  "example": "The subsidiary reported strong sales last quarter."
+ },
+ {
+  "id": "w014",
+  "word": "compliance",
+  "meaning": "遵守、コンプライアンス",
+  "example": "All employees must follow compliance guidelines."
+ },
+ {
+  "id": "w015",
+  "word": "itinerary",
+  "meaning": "旅程",
+  "example": "Please review your travel itinerary before departure."
+ },
+ {
+  "id": "w016",
+  "word": "consecutive",
+  "meaning": "連続した",
+  "example": "Sales have grown for five consecutive months."
+ },
+ {
+  "id": "w017",
+  "word": "postpone",
+  "meaning": "延期する",
+  "example": "The meeting has been postponed until next week."
+ },
+ {
+  "id": "w018",
+  "word": "renovate",
+  "meaning": "改装する",
+  "example": "The office building will be renovated next year."
+ },
+ {
+  "id": "w019",
+  "word": "shareholder",
+  "meaning": "株主",
+  "example": "Shareholders will vote on the proposal next month."
+ },
+ {
+  "id": "w020",
+  "word": "endorse",
+  "meaning": "承認する、支持する",
+  "example": "The board endorsed the new marketing strategy."
+ },
+ {
+  "id": "w021",
+  "word": "vacant",
+  "meaning": "空いている",
+  "example": "There are three vacant positions in the sales team."
+ },
+ {
+  "id": "w022",
+  "word": "budget",
+  "meaning": "予算",
+  "example": "The department exceeded its annual budget."
+ },
+ {
+  "id": "w023",
+  "word": "outsource",
+  "meaning": "外部委託する",
+  "example": "The company decided to outsource its IT support."
+ },
+ {
+  "id": "w024",
+  "word": "premises",
+  "meaning": "構内、敷地",
+  "example": "Visitors must sign in before entering the premises."
+ },
+ {
+  "id": "w025",
+  "word": "feasible",
+  "meaning": "実現可能な",
+  "example": "It is not feasible to finish the project by Friday."
+ },
+ {
+  "id": "w026",
+  "word": "supervisor",
+  "meaning": "監督者、上司",
+  "example": "Ask your supervisor for approval before proceeding."
+ },
+ {
+  "id": "w027",
+  "word": "expedite",
+  "meaning": "促進する、迅速に処理する",
+  "example": "We will expedite the delivery at no extra cost."
+ },
+ {
+  "id": "w028",
+  "word": "allocate",
+  "meaning": "割り当てる",
+  "example": "The manager allocated more staff to the project."
+ },
+ {
+  "id": "w029",
+  "word": "proceeds",
+  "meaning": "収益、売上金",
+  "example": "The proceeds from the sale will fund new equipment."
+ },
+ {
+  "id": "w030",
+  "word": "commute",
+  "meaning": "通勤する",
+  "example": "Many employees commute by train every day."
+ },
+ {
+  "id": "w031",
+  "word": "vendor",
+  "meaning": "販売業者",
+  "example": "We selected a new vendor for office supplies."
+ },
+ {
+  "id": "w032",
+  "word": "clause",
+  "meaning": "条項",
+  "example": "Please review the clause regarding cancellation fees."
+ },
+ {
+  "id": "w033",
+  "word": "quarterly",
+  "meaning": "四半期ごとの",
+  "example": "The quarterly report will be released next week."
+ },
+ {
+  "id": "w034",
+  "word": "layoff",
+  "meaning": "一時解雇",
+  "example": "The company announced layoffs due to budget cuts."
+ },
+ {
+  "id": "w035",
+  "word": "prerequisite",
+  "meaning": "前提条件",
+  "example": "Work experience is a prerequisite for this position."
+ },
+ {
+  "id": "w036",
+  "word": "amenities",
+  "meaning": "設備、アメニティ",
+  "example": "The hotel offers a wide range of amenities."
+ },
+ {
+  "id": "w037",
+  "word": "reception",
+  "meaning": "受付、歓迎会",
+  "example": "Please check in at the reception desk."
+ },
+ {
+  "id": "w038",
+  "word": "voucher",
+  "meaning": "引換券、クーポン",
+  "example": "Customers received a voucher for a free meal."
+ },
+ {
+  "id": "w039",
+  "word": "correspondence",
+  "meaning": "通信、文書のやりとり",
+  "example": "All correspondence should be sent to the main office."
+ },
+ {
+  "id": "w040",
+  "word": "spreadsheet",
+  "meaning": "表計算ソフト、シート",
+  "example": "She updated the sales figures on the spreadsheet."
+ },
+ {
+  "id": "w041",
+  "word": "overtime",
+  "meaning": "残業、時間外労働",
+  "example": "Employees will be paid extra for overtime work."
+ },
+ {
+  "id": "w042",
+  "word": "surplus",
+  "meaning": "余剰、黒字",
+  "example": "The company reported a budget surplus this year."
+ },
+ {
+  "id": "w043",
+  "word": "liability",
+  "meaning": "責任、負債",
+  "example": "The contract limits the company's liability."
+ },
+ {
+  "id": "w044",
+  "word": "itemize",
+  "meaning": "項目別に記載する",
+  "example": "Please itemize all expenses on the report."
+ },
+ {
+  "id": "w045",
+  "word": "punctual",
+  "meaning": "時間厳守の",
+  "example": "All staff are expected to be punctual for meetings."
+ },
+ {
+  "id": "w046",
+  "word": "referral",
+  "meaning": "紹介",
+  "example": "We received several referrals from existing clients."
+ },
+ {
+  "id": "w047",
+  "word": "workforce",
+  "meaning": "労働力、従業員全体",
+  "example": "The company plans to expand its workforce next year."
+ },
+ {
+  "id": "w048",
+  "word": "stationery",
+  "meaning": "文房具",
+  "example": "Order more stationery for the office."
+ },
+ {
+  "id": "w049",
+  "word": "turnover",
+  "meaning": "総売上高、離職率",
+  "example": "Employee turnover has decreased significantly this year."
+ },
+ {
+  "id": "w050",
+  "word": "brochure",
+  "meaning": "パンフレット",
+  "example": "The brochure describes all our services in detail."
+ },
+ {
+  "id": "w051",
+  "word": "agenda",
+  "meaning": "議題",
+  "example": "Please review the agenda before the meeting starts."
+ },
+ {
+  "id": "w052",
+  "word": "minutes",
+  "meaning": "議事録",
+  "example": "The secretary will take minutes during the meeting."
+ },
+ {
+  "id": "w053",
+  "word": "filing cabinet",
+  "meaning": "書類整理棚",
+  "example": "Store the contracts in the filing cabinet."
+ },
+ {
+  "id": "w054",
+  "word": "memo",
+  "meaning": "社内連絡書、メモ",
+  "example": "A memo was sent to all staff about the schedule change."
+ },
+ {
+  "id": "w055",
+  "word": "stationery supplies",
+  "meaning": "文房具用品",
+  "example": "The office ordered new stationery supplies."
+ },
+ {
+  "id": "w056",
+  "word": "photocopier",
+  "meaning": "コピー機",
+  "example": "The photocopier on the third floor is out of order."
+ },
+ {
+  "id": "w057",
+  "word": "extension",
+  "meaning": "内線、延長",
+  "example": "You can reach him at extension 205."
+ },
+ {
+  "id": "w058",
+  "word": "personnel",
+  "meaning": "人事部、職員",
+  "example": "Contact the personnel department for more details."
+ },
+ {
+  "id": "w059",
+  "word": "clerical",
+  "meaning": "事務の",
+  "example": "She handles clerical duties in the office."
+ },
+ {
+  "id": "w060",
+  "word": "correspondent",
+  "meaning": "通信員、文通相手",
+  "example": "Our correspondent in Tokyo sent the latest figures."
+ },
+ {
+  "id": "w061",
+  "word": "draft",
+  "meaning": "草案、下書き",
+  "example": "Please review the draft contract before signing."
+ },
+ {
+  "id": "w062",
+  "word": "archive",
+  "meaning": "保管記録、アーカイブ",
+  "example": "Old files are kept in the archive room."
+ },
+ {
+  "id": "w063",
+  "word": "printout",
+  "meaning": "印刷物",
+  "example": "Bring a printout of the report to the meeting."
+ },
+ {
+  "id": "w064",
+  "word": "letterhead",
+  "meaning": "レターヘッド（社名入り便箋）",
+  "example": "Official letters must be on company letterhead."
+ },
+ {
+  "id": "w065",
+  "word": "dispatch",
+  "meaning": "発送する、派遣する",
+  "example": "The package was dispatched this morning."
+ },
+ {
+  "id": "w066",
+  "word": "notify",
+  "meaning": "通知する",
+  "example": "Please notify the manager of any changes."
+ },
+ {
+  "id": "w067",
+  "word": "acknowledge",
+  "meaning": "確認する、承認する",
+  "example": "We acknowledge receipt of your application."
+ },
+ {
+  "id": "w068",
+  "word": "enclose",
+  "meaning": "同封する",
+  "example": "Please find the invoice enclosed with this letter."
+ },
+ {
+  "id": "w069",
+  "word": "attachment",
+  "meaning": "添付ファイル",
+  "example": "Please see the attachment for further details."
+ },
+ {
+  "id": "w070",
+  "word": "forward",
+  "meaning": "転送する",
+  "example": "Could you forward this email to the sales team?"
+ },
+ {
+  "id": "w071",
+  "word": "proofread",
+  "meaning": "校正する",
+  "example": "Please proofread the document before submission."
+ },
+ {
+  "id": "w072",
+  "word": "revise",
+  "meaning": "改訂する",
+  "example": "The contract was revised after negotiations."
+ },
+ {
+  "id": "w073",
+  "word": "template",
+  "meaning": "雛形、テンプレート",
+  "example": "Use the company template for all reports."
+ },
+ {
+  "id": "w074",
+  "word": "database",
+  "meaning": "データベース",
+  "example": "Customer information is stored in the database."
+ },
+ {
+  "id": "w075",
+  "word": "backup",
+  "meaning": "バックアップ、予備",
+  "example": "Always keep a backup of important files."
+ },
+ {
+  "id": "w076",
+  "word": "confidential",
+  "meaning": "機密の",
+  "example": "This document is confidential and must not be shared."
+ },
+ {
+  "id": "w077",
+  "word": "authorize",
+  "meaning": "許可する、権限を与える",
+  "example": "Only the director can authorize this expense."
+ },
+ {
+  "id": "w078",
+  "word": "approval",
+  "meaning": "承認",
+  "example": "The proposal needs approval from senior management."
+ },
+ {
+  "id": "w079",
+  "word": "submission",
+  "meaning": "提出",
+  "example": "The submission deadline for applications is Monday."
+ },
+ {
+  "id": "w080",
+  "word": "format",
+  "meaning": "形式、体裁",
+  "example": "Please save the file in PDF format."
+ },
+ {
+  "id": "w081",
+  "word": "agenda item",
+  "meaning": "議題項目",
+  "example": "The budget review is the first agenda item."
+ },
+ {
+  "id": "w082",
+  "word": "proceedings",
+  "meaning": "議事、手続き",
+  "example": "A summary of the proceedings will be circulated later."
+ },
+ {
+  "id": "w083",
+  "word": "chairperson",
+  "meaning": "議長",
+  "example": "The chairperson opened the meeting with a welcome speech."
+ },
+ {
+  "id": "w084",
+  "word": "consensus",
+  "meaning": "合意",
+  "example": "The committee reached a consensus after long discussions."
+ },
+ {
+  "id": "w085",
+  "word": "delegate",
+  "meaning": "委任する、代表者",
+  "example": "The manager delegated the task to her assistant."
+ },
+ {
+  "id": "w086",
+  "word": "briefing",
+  "meaning": "説明会、報告",
+  "example": "A briefing will be held before the launch."
+ },
+ {
+  "id": "w087",
+  "word": "protocol",
+  "meaning": "手順、儀礼",
+  "example": "Follow the safety protocol at all times."
+ },
+ {
+  "id": "w088",
+  "word": "onboarding",
+  "meaning": "新人研修、受け入れ",
+  "example": "New hires complete an onboarding program in their first week."
+ },
+ {
+  "id": "w089",
+  "word": "orientation",
+  "meaning": "オリエンテーション、方向づけ",
+  "example": "All new employees attend an orientation session."
+ },
+ {
+  "id": "w090",
+  "word": "performance review",
+  "meaning": "人事考課",
+  "example": "Performance reviews are conducted twice a year."
+ },
+ {
+  "id": "w091",
+  "word": "probation",
+  "meaning": "試用期間",
+  "example": "New staff are on probation for three months."
+ },
+ {
+  "id": "w092",
+  "word": "tenure",
+  "meaning": "在職期間",
+  "example": "Her tenure at the company spans over a decade."
+ },
+ {
+  "id": "w093",
+  "word": "resignation",
+  "meaning": "辞職",
+  "example": "He submitted his resignation letter yesterday."
+ },
+ {
+  "id": "w094",
+  "word": "severance",
+  "meaning": "退職金",
+  "example": "Employees who are laid off receive severance pay."
+ },
+ {
+  "id": "w095",
+  "word": "pension",
+  "meaning": "年金",
+  "example": "The company offers a generous pension plan."
+ },
+ {
+  "id": "w096",
+  "word": "payroll",
+  "meaning": "給与支払い名簿",
+  "example": "The payroll is processed on the last day of the month."
+ },
+ {
+  "id": "w097",
+  "word": "paycheck",
+  "meaning": "給与小切手、給料",
+  "example": "She deposited her paycheck at the bank."
+ },
+ {
+  "id": "w098",
+  "word": "gross income",
+  "meaning": "総収入",
+  "example": "Gross income is calculated before taxes are deducted."
+ },
+ {
+  "id": "w099",
+  "word": "net profit",
+  "meaning": "純利益",
+  "example": "Net profit rose by 15 percent this quarter."
+ },
+ {
+  "id": "w100",
+  "word": "fiscal year",
+  "meaning": "会計年度",
+  "example": "The fiscal year begins in April for this company."
+ }
+]

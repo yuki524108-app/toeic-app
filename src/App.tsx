@@ -12,6 +12,8 @@ import Review from "./pages/Review";
 import ProgressPage from "./pages/Progress";
 import PlacementTest from "./pages/PlacementTest";
 import MockTest from "./pages/MockTest";
+import MockTestReview from "./pages/MockTestReview";
+import QuickStudy from "./pages/QuickStudy";
 import { useAppData } from "./lib/useAppData";
 
 function App() {
@@ -21,6 +23,7 @@ function App() {
     toggleBookmark,
     completePlacementTest,
     recordMockTestResult,
+    importData,
   } = useAppData();
 
   return (
@@ -99,7 +102,10 @@ function App() {
             }
           />
           <Route path="/review" element={<Review data={data} />} />
-          <Route path="/progress" element={<ProgressPage data={data} />} />
+          <Route
+            path="/progress"
+            element={<ProgressPage data={data} onImportData={importData} />}
+          />
           <Route
             path="/placement-test"
             element={
@@ -117,6 +123,20 @@ function App() {
                 data={data}
                 onAnswer={recordAnswer}
                 onRecordResult={recordMockTestResult}
+              />
+            }
+          />
+          <Route
+            path="/mock-test-review/:id"
+            element={<MockTestReview data={data} />}
+          />
+          <Route
+            path="/quick-study"
+            element={
+              <QuickStudy
+                data={data}
+                onAnswer={recordAnswer}
+                onToggleBookmark={toggleBookmark}
               />
             }
           />

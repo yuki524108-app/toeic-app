@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w501",
+  "word": "password",
+  "meaning": "パスワード",
+  "example": "Change your password every three months."
+ },
+ {
+  "id": "w502",
+  "word": "login",
+  "meaning": "ログイン",
+  "example": "Use your employee ID to login to the system."
+ },
+ {
+  "id": "w503",
+  "word": "username",
+  "meaning": "ユーザー名",
+  "example": "Enter your username and password to proceed."
+ },
+ {
+  "id": "w504",
+  "word": "file sharing",
+  "meaning": "ファイル共有",
+  "example": "The team uses a file sharing platform for documents."
+ },
+ {
+  "id": "w505",
+  "word": "cloud computing",
+  "meaning": "クラウドコンピューティング",
+  "example": "The company migrated its data to cloud computing services."
+ },
+ {
+  "id": "w506",
+  "word": "virtual meeting",
+  "meaning": "オンライン会議",
+  "example": "The virtual meeting was held over video conferencing software."
+ },
+ {
+  "id": "w507",
+  "word": "screen sharing",
+  "meaning": "画面共有",
+  "example": "He used screen sharing to demonstrate the software."
+ },
+ {
+  "id": "w508",
+  "word": "hyperlink",
+  "meaning": "ハイパーリンク",
+  "example": "Click the hyperlink to view the full document."
+ },
+ {
+  "id": "w509",
+  "word": "dashboard",
+  "meaning": "ダッシュボード",
+  "example": "The sales dashboard updates in real time."
+ },
+ {
+  "id": "w510",
+  "word": "widget",
+  "meaning": "ウィジェット",
+  "example": "You can customize the widgets on your homepage."
+ },
+ {
+  "id": "w511",
+  "word": "plugin",
+  "meaning": "プラグイン",
+  "example": "Install the plugin to enable extra features."
+ },
+ {
+  "id": "w512",
+  "word": "browser",
+  "meaning": "ブラウザ",
+  "example": "Update your browser for the best experience."
+ },
+ {
+  "id": "w513",
+  "word": "operating system",
+  "meaning": "オペレーティングシステム",
+  "example": "The computers run the latest operating system."
+ },
+ {
+  "id": "w514",
+  "word": "hard drive",
+  "meaning": "ハードドライブ",
+  "example": "The hard drive was replaced after it failed."
+ },
+ {
+  "id": "w515",
+  "word": "peripheral device",
+  "meaning": "周辺機器",
+  "example": "Printers and scanners are common peripheral devices."
+ },
+ {
+  "id": "w516",
+  "word": "wireless network",
+  "meaning": "無線ネットワーク",
+  "example": "Connect your laptop to the wireless network."
+ },
+ {
+  "id": "w517",
+  "word": "router",
+  "meaning": "ルーター",
+  "example": "The router needs to be restarted occasionally."
+ },
+ {
+  "id": "w518",
+  "word": "IT support",
+  "meaning": "IT サポート",
+  "example": "Contact IT support if you have a technical issue."
+ },
+ {
+  "id": "w519",
+  "word": "help desk",
+  "meaning": "ヘルプデスク",
+  "example": "The help desk resolved the issue within an hour."
+ },
+ {
+  "id": "w520",
+  "word": "ticketing system",
+  "meaning": "チケット管理システム",
+  "example": "Submit your request through the ticketing system."
+ },
+ {
+  "id": "w521",
+  "word": "user manual",
+  "meaning": "取扱説明書",
+  "example": "Refer to the user manual for setup instructions."
+ },
+ {
+  "id": "w522",
+  "word": "installation",
+  "meaning": "インストール、設置",
+  "example": "The installation process takes about ten minutes."
+ },
+ {
+  "id": "w523",
+  "word": "configuration",
+  "meaning": "設定、構成",
+  "example": "Check the configuration settings before launching the app."
+ },
+ {
+  "id": "w524",
+  "word": "default setting",
+  "meaning": "初期設定",
+  "example": "You can restore the default settings anytime."
+ },
+ {
+  "id": "w525",
+  "word": "customization",
+  "meaning": "カスタマイズ",
+  "example": "The software allows extensive customization."
+ },
+ {
+  "id": "w526",
+  "word": "version control",
+  "meaning": "バージョン管理",
+  "example": "The team uses version control to track code changes."
+ },
+ {
+  "id": "w527",
+  "word": "code review",
+  "meaning": "コードレビュー",
+  "example": "Every pull request goes through a code review."
+ },
+ {
+  "id": "w528",
+  "word": "debugging",
+  "meaning": "デバッグ",
+  "example": "Debugging the software took longer than expected."
+ },
+ {
+  "id": "w529",
+  "word": "beta testing",
+  "meaning": "ベータテスト",
+  "example": "The app is currently in beta testing."
+ },
+ {
+  "id": "w530",
+  "word": "user feedback",
+  "meaning": "ユーザーからの意見",
+  "example": "User feedback helped shape the next update."
+ },
+ {
+  "id": "w531",
+  "word": "release notes",
+  "meaning": "リリースノート",
+  "example": "Check the release notes for new features."
+ },
+ {
+  "id": "w532",
+  "word": "software license",
+  "meaning": "ソフトウェアライセンス",
+  "example": "Renew your software license before it expires."
+ },
+ {
+  "id": "w533",
+  "word": "data entry",
+  "meaning": "データ入力",
+  "example": "The intern handles most of the data entry tasks."
+ },
+ {
+  "id": "w534",
+  "word": "data visualization",
+  "meaning": "データの可視化",
+  "example": "Data visualization tools make trends easier to spot."
+ },
+ {
+  "id": "w535",
+  "word": "metric",
+  "meaning": "指標、測定基準",
+  "example": "The team tracks several performance metrics."
+ },
+ {
+  "id": "w536",
+  "word": "key performance indicator",
+  "meaning": "重要業績評価指標",
+  "example": "Sales growth is a key performance indicator for the team."
+ },
+ {
+  "id": "w537",
+  "word": "dashboard report",
+  "meaning": "ダッシュボードレポート",
+  "example": "The dashboard report is updated every morning."
+ },
+ {
+  "id": "w538",
+  "word": "spreadsheet formula",
+  "meaning": "表計算の数式",
+  "example": "She wrote a spreadsheet formula to calculate totals automatically."
+ },
+ {
+  "id": "w539",
+  "word": "pivot table",
+  "meaning": "ピボットテーブル",
+  "example": "A pivot table summarizes the quarterly sales data."
+ },
+ {
+  "id": "w540",
+  "word": "macro",
+  "meaning": "マクロ",
+  "example": "He created a macro to automate the report."
+ },
+ {
+  "id": "w541",
+  "word": "cell reference",
+  "meaning": "セル参照",
+  "example": "Double-check the cell reference in the formula."
+ },
+ {
+  "id": "w542",
+  "word": "conditional formatting",
+  "meaning": "条件付き書式",
+  "example": "Conditional formatting highlights values above the target."
+ },
+ {
+  "id": "w543",
+  "word": "filter",
+  "meaning": "フィルター",
+  "example": "Use a filter to sort the data by region."
+ },
+ {
+  "id": "w544",
+  "word": "sort order",
+  "meaning": "並べ替え順",
+  "example": "Change the sort order to see the highest values first."
+ },
+ {
+  "id": "w545",
+  "word": "export data",
+  "meaning": "データを書き出す",
+  "example": "You can export data to a CSV file."
+ },
+ {
+  "id": "w546",
+  "word": "import data",
+  "meaning": "データを取り込む",
+  "example": "Import data from the previous system into the new one."
+ },
+ {
+  "id": "w547",
+  "word": "sync",
+  "meaning": "同期する",
+  "example": "The app syncs automatically across all devices."
+ },
+ {
+  "id": "w548",
+  "word": "notification",
+  "meaning": "通知",
+  "example": "Turn on notifications to stay updated."
+ },
+ {
+  "id": "w549",
+  "word": "push notification",
+  "meaning": "プッシュ通知",
+  "example": "The app sends a push notification for new messages."
+ },
+ {
+  "id": "w550",
+  "word": "in-app purchase",
+  "meaning": "アプリ内課金",
+  "example": "The game offers several in-app purchases."
+ },
+ {
+  "id": "w551",
+  "word": "appetizer",
+  "meaning": "前菜",
+  "example": "We ordered an appetizer to share before the main course."
+ },
+ {
+  "id": "w552",
+  "word": "entrée",
+  "meaning": "メインディッシュ",
+  "example": "The entrée was served with a side of vegetables."
+ },
+ {
+  "id": "w553",
+  "word": "cuisine",
+  "meaning": "料理、料理法",
+  "example": "The restaurant specializes in French cuisine."
+ },
+ {
+  "id": "w554",
+  "word": "reservation desk",
+  "meaning": "予約受付",
+  "example": "Confirm your table at the reservation desk."
+ },
+ {
+  "id": "w555",
+  "word": "maître d'",
+  "meaning": "レストランの支配人",
+  "example": "The maître d' seated us at a table by the window."
+ },
+ {
+  "id": "w556",
+  "word": "tasting menu",
+  "meaning": "試食メニュー",
+  "example": "The chef prepared a special tasting menu for the event."
+ },
+ {
+  "id": "w557",
+  "word": "dietary restriction",
+  "meaning": "食事制限",
+  "example": "Please inform us of any dietary restrictions in advance."
+ },
+ {
+  "id": "w558",
+  "word": "gratuity",
+  "meaning": "チップ、心付け",
+  "example": "A gratuity of fifteen percent is included in the bill."
+ },
+ {
+  "id": "w559",
+  "word": "corkage fee",
+  "meaning": "持ち込み料",
+  "example": "A corkage fee applies if you bring your own wine."
+ },
+ {
+  "id": "w560",
+  "word": "buffet",
+  "meaning": "ビュッフェ",
+  "example": "The hotel offers a breakfast buffet every morning."
+ },
+ {
+  "id": "w561",
+  "word": "caterer",
+  "meaning": "ケータリング業者",
+  "example": "The caterer prepared food for over two hundred guests."
+ },
+ {
+  "id": "w562",
+  "word": "floral arrangement",
+  "meaning": "生け花、フラワーアレンジメント",
+  "example": "A floral arrangement decorated each table at the reception."
+ },
+ {
+  "id": "w563",
+  "word": "master of ceremonies",
+  "meaning": "司会者",
+  "example": "The master of ceremonies introduced each speaker."
+ },
+ {
+  "id": "w564",
+  "word": "guest list",
+  "meaning": "招待客リスト",
+  "example": "Please confirm the final guest list by Friday."
+ },
+ {
+  "id": "w565",
+  "word": "seating chart",
+  "meaning": "座席表",
+  "example": "The event planner prepared a seating chart in advance."
+ },
+ {
+  "id": "w566",
+  "word": "opening remarks",
+  "meaning": "開会の挨拶",
+  "example": "The CEO delivered the opening remarks at the conference."
+ },
+ {
+  "id": "w567",
+  "word": "closing ceremony",
+  "meaning": "閉会式",
+  "example": "The closing ceremony will be held on the final day."
+ },
+ {
+  "id": "w568",
+  "word": "registration fee",
+  "meaning": "参加登録料",
+  "example": "The registration fee covers meals and materials."
+ },
+ {
+  "id": "w569",
+  "word": "early bird discount",
+  "meaning": "早期割引",
+  "example": "Register now to take advantage of the early bird discount."
+ },
+ {
+  "id": "w570",
+  "word": "sponsor",
+  "meaning": "スポンサー",
+  "example": "Several companies sponsor the annual conference."
+ },
+ {
+  "id": "w571",
+  "word": "press release",
+  "meaning": "プレスリリース",
+  "example": "The company issued a press release about the new product."
+ },
+ {
+  "id": "w572",
+  "word": "media coverage",
+  "meaning": "メディア報道",
+  "example": "The launch received extensive media coverage."
+ },
+ {
+  "id": "w573",
+  "word": "publicity",
+  "meaning": "宣伝、広報",
+  "example": "The event generated a lot of publicity for the brand."
+ },
+ {
+  "id": "w574",
+  "word": "press conference",
+  "meaning": "記者会見",
+  "example": "A press conference will follow the product announcement."
+ },
+ {
+  "id": "w575",
+  "word": "public relations",
+  "meaning": "広報",
+  "example": "The public relations team handles all media inquiries."
+ },
+ {
+  "id": "w576",
+  "word": "spokesperson",
+  "meaning": "広報担当者",
+  "example": "The spokesperson confirmed the details of the merger."
+ },
+ {
+  "id": "w577",
+  "word": "advertisement",
+  "meaning": "広告",
+  "example": "The company placed an advertisement in the local newspaper."
+ },
+ {
+  "id": "w578",
+  "word": "billboard",
+  "meaning": "広告看板",
+  "example": "A large billboard promotes the new product downtown."
+ },
+ {
+  "id": "w579",
+  "word": "commercial break",
+  "meaning": "コマーシャルの時間",
+  "example": "The ad aired during the commercial break."
+ },
+ {
+  "id": "w580",
+  "word": "sponsorship deal",
+  "meaning": "スポンサー契約",
+  "example": "The team signed a sponsorship deal with a beverage company."
+ },
+ {
+  "id": "w581",
+  "word": "circulation",
+  "meaning": "発行部数",
+  "example": "The magazine's circulation has grown steadily."
+ },
+ {
+  "id": "w582",
+  "word": "subscriber",
+  "meaning": "購読者",
+  "example": "The newsletter has over ten thousand subscribers."
+ },
+ {
+  "id": "w583",
+  "word": "editorial",
+  "meaning": "社説、編集の",
+  "example": "The editorial discussed the impact of the new regulations."
+ },
+ {
+  "id": "w584",
+  "word": "headline",
+  "meaning": "見出し",
+  "example": "The headline captured readers' attention immediately."
+ },
+ {
+  "id": "w585",
+  "word": "columnist",
+  "meaning": "コラムニスト",
+  "example": "The columnist wrote about workplace trends."
+ },
+ {
+  "id": "w586",
+  "word": "broadcast",
+  "meaning": "放送する",
+  "example": "The interview will be broadcast live tomorrow."
+ },
+ {
+  "id": "w587",
+  "word": "airtime",
+  "meaning": "放送時間",
+  "example": "The ad was given prime airtime during the evening news."
+ },
+ {
+  "id": "w588",
+  "word": "viewership",
+  "meaning": "視聴者数",
+  "example": "The show's viewership increased after the new season launched."
+ },
+ {
+  "id": "w589",
+  "word": "streaming service",
+  "meaning": "ストリーミングサービス",
+  "example": "The company launched its own streaming service."
+ },
+ {
+  "id": "w590",
+  "word": "podcast",
+  "meaning": "ポッドキャスト",
+  "example": "She hosts a weekly business podcast."
+ },
+ {
+  "id": "w591",
+  "word": "influencer",
+  "meaning": "インフルエンサー",
+  "example": "The brand partnered with an influencer to promote the product."
+ },
+ {
+  "id": "w592",
+  "word": "social media platform",
+  "meaning": "ソーシャルメディアプラットフォーム",
+  "example": "The campaign ran across several social media platforms."
+ },
+ {
+  "id": "w593",
+  "word": "engagement rate",
+  "meaning": "エンゲージメント率",
+  "example": "The post had a high engagement rate."
+ },
+ {
+  "id": "w594",
+  "word": "viral",
+  "meaning": "急速に広まる",
+  "example": "The video went viral within a few hours."
+ },
+ {
+  "id": "w595",
+  "word": "hashtag",
+  "meaning": "ハッシュタグ",
+  "example": "The campaign used a unique hashtag to track engagement."
+ },
+ {
+  "id": "w596",
+  "word": "content creator",
+  "meaning": "コンテンツ制作者",
+  "example": "The company hired a content creator for its social channels."
+ },
+ {
+  "id": "w597",
+  "word": "copywriting",
+  "meaning": "コピーライティング",
+  "example": "The ad's copywriting was praised for its clever wording."
+ },
+ {
+  "id": "w598",
+  "word": "slogan",
+  "meaning": "スローガン",
+  "example": "The company's new slogan emphasizes sustainability."
+ },
+ {
+  "id": "w599",
+  "word": "mission statement",
+  "meaning": "企業理念",
+  "example": "The mission statement outlines the company's core values."
+ },
+ {
+  "id": "w600",
+  "word": "corporate culture",
+  "meaning": "企業文化",
+  "example": "The corporate culture encourages open communication."
+ }
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w801",
+  "word": "accomplish",
+  "meaning": "達成する",
+  "example": "The team accomplished its goals ahead of schedule."
+ },
+ {
+  "id": "w802",
+  "word": "achieve",
+  "meaning": "達成する",
+  "example": "She achieved record sales this quarter."
+ },
+ {
+  "id": "w803",
+  "word": "acquire",
+  "meaning": "獲得する、買収する",
+  "example": "The firm acquired a smaller competitor last year."
+ },
+ {
+  "id": "w804",
+  "word": "adapt",
+  "meaning": "適応する",
+  "example": "The company adapted quickly to the new regulations."
+ },
+ {
+  "id": "w805",
+  "word": "adjust",
+  "meaning": "調整する",
+  "example": "Please adjust the schedule to accommodate the client."
+ },
+ {
+  "id": "w806",
+  "word": "administer",
+  "meaning": "管理する、運営する",
+  "example": "The HR department administers employee benefits."
+ },
+ {
+  "id": "w807",
+  "word": "advocate",
+  "meaning": "提唱する、擁護する",
+  "example": "The manager advocates for flexible working hours."
+ },
+ {
+  "id": "w808",
+  "word": "analyze",
+  "meaning": "分析する",
+  "example": "The team analyzed the survey results carefully."
+ },
+ {
+  "id": "w809",
+  "word": "anticipate",
+  "meaning": "予期する",
+  "example": "We anticipate strong demand next quarter."
+ },
+ {
+  "id": "w810",
+  "word": "appoint",
+  "meaning": "任命する",
+  "example": "The board appointed a new CEO."
+ },
+ {
+  "id": "w811",
+  "word": "assemble",
+  "meaning": "組み立てる、集める",
+  "example": "Workers assemble the parts on the production line."
+ },
+ {
+  "id": "w812",
+  "word": "assess",
+  "meaning": "評価する",
+  "example": "The consultant assessed the company's financial health."
+ },
+ {
+  "id": "w813",
+  "word": "assign",
+  "meaning": "割り当てる",
+  "example": "The manager assigned new tasks to each team member."
+ },
+ {
+  "id": "w814",
+  "word": "assist",
+  "meaning": "手伝う",
+  "example": "The assistant helps assist customers with inquiries."
+ },
+ {
+  "id": "w815",
+  "word": "assume",
+  "meaning": "引き受ける、想定する",
+  "example": "She assumed the role of team leader last month."
+ },
+ {
+  "id": "w816",
+  "word": "assure",
+  "meaning": "保証する",
+  "example": "The manager assured the client of on-time delivery."
+ },
+ {
+  "id": "w817",
+  "word": "attain",
+  "meaning": "達成する",
+  "example": "The company attained its sales target early."
+ },
+ {
+  "id": "w818",
+  "word": "attempt",
+  "meaning": "試みる",
+  "example": "They attempted to resolve the issue quickly."
+ },
+ {
+  "id": "w819",
+  "word": "attribute",
+  "meaning": "起因すると考える",
+  "example": "The growth is attributed to strong marketing."
+ },
+ {
+  "id": "w820",
+  "word": "broaden",
+  "meaning": "広げる",
+  "example": "The company broadened its product range this year."
+ },
+ {
+  "id": "w821",
+  "word": "boost",
+  "meaning": "押し上げる",
+  "example": "The new campaign boosted overall sales."
+ },
+ {
+  "id": "w822",
+  "word": "calculate",
+  "meaning": "計算する",
+  "example": "Please calculate the total cost of the project."
+ },
+ {
+  "id": "w823",
+  "word": "cancel",
+  "meaning": "中止する",
+  "example": "The event was canceled due to low attendance."
+ },
+ {
+  "id": "w824",
+  "word": "circulate",
+  "meaning": "回覧する",
+  "example": "The memo was circulated to all departments."
+ },
+ {
+  "id": "w825",
+  "word": "convince",
+  "meaning": "納得させる",
+  "example": "The presentation convinced investors to fund the project."
+ },
+ {
+  "id": "w826",
+  "word": "coincide",
+  "meaning": "同時に起こる",
+  "example": "The launch will coincide with the annual conference."
+ },
+ {
+  "id": "w827",
+  "word": "compensate",
+  "meaning": "補償する",
+  "example": "The company compensated customers for the delay."
+ },
+ {
+  "id": "w828",
+  "word": "compile",
+  "meaning": "編集する、まとめる",
+  "example": "She compiled the data into a single report."
+ },
+ {
+  "id": "w829",
+  "word": "complement",
+  "meaning": "補完する",
+  "example": "The new hire's skills complement the existing team."
+ },
+ {
+  "id": "w830",
+  "word": "conduct",
+  "meaning": "実施する",
+  "example": "The company conducted a survey among its customers."
+ },
+ {
+  "id": "w831",
+  "word": "confirm",
+  "meaning": "確認する",
+  "example": "Please confirm your attendance by Friday."
+ },
+ {
+  "id": "w832",
+  "word": "consolidate",
+  "meaning": "統合する",
+  "example": "The two departments were consolidated into one."
+ },
+ {
+  "id": "w833",
+  "word": "constitute",
+  "meaning": "構成する",
+  "example": "Overseas sales constitute a large part of revenue."
+ },
+ {
+  "id": "w834",
+  "word": "consult",
+  "meaning": "相談する",
+  "example": "Consult your manager before making changes."
+ },
+ {
+  "id": "w835",
+  "word": "contribute",
+  "meaning": "貢献する",
+  "example": "Every team member contributed to the project's success."
+ },
+ {
+  "id": "w836",
+  "word": "convey",
+  "meaning": "伝える",
+  "example": "The report conveys the key findings clearly."
+ },
+ {
+  "id": "w837",
+  "word": "cultivate",
+  "meaning": "育成する",
+  "example": "The company cultivates strong relationships with clients."
+ },
+ {
+  "id": "w838",
+  "word": "customize",
+  "meaning": "カスタマイズする",
+  "example": "The service can be customized to fit each client."
+ },
+ {
+  "id": "w839",
+  "word": "decline",
+  "meaning": "断る、減少する",
+  "example": "He declined the invitation due to a scheduling conflict."
+ },
+ {
+  "id": "w840",
+  "word": "dedicate",
+  "meaning": "捧げる",
+  "example": "She dedicated years to building the company's reputation."
+ },
+ {
+  "id": "w841",
+  "word": "entrust",
+  "meaning": "委託する",
+  "example": "The client entrusted the firm with a large investment."
+ },
+ {
+  "id": "w842",
+  "word": "demonstrate",
+  "meaning": "実演する、示す",
+  "example": "The salesperson demonstrated the product's features."
+ },
+ {
+  "id": "w843",
+  "word": "designate",
+  "meaning": "指名する",
+  "example": "He was designated as the project lead."
+ },
+ {
+  "id": "w844",
+  "word": "determine",
+  "meaning": "決定する",
+  "example": "The results will determine the next steps."
+ },
+ {
+  "id": "w845",
+  "word": "diminish",
+  "meaning": "減少する",
+  "example": "Demand for the product has diminished recently."
+ },
+ {
+  "id": "w846",
+  "word": "discontinue",
+  "meaning": "中止する",
+  "example": "The company discontinued the outdated product line."
+ },
+ {
+  "id": "w847",
+  "word": "deploy",
+  "meaning": "配備する",
+  "example": "A technician was deployed to fix the network issue."
+ },
+ {
+  "id": "w848",
+  "word": "distribute",
+  "meaning": "配布する",
+  "example": "Handouts were distributed to all attendees."
+ },
+ {
+  "id": "w849",
+  "word": "broaden a portfolio",
+  "meaning": "投資の幅を広げる",
+  "example": "The firm broadened its portfolio through new acquisitions."
+ },
+ {
+  "id": "w850",
+  "word": "eliminate",
+  "meaning": "排除する",
+  "example": "The new process eliminates unnecessary paperwork."
+ },
+ {
+  "id": "w851",
+  "word": "emphasize",
+  "meaning": "強調する",
+  "example": "The manager emphasized the importance of teamwork."
+ },
+ {
+  "id": "w852",
+  "word": "enable",
+  "meaning": "可能にする",
+  "example": "The software enables faster data processing."
+ },
+ {
+  "id": "w853",
+  "word": "encounter",
+  "meaning": "遭遇する",
+  "example": "The team encountered several obstacles during the project."
+ },
+ {
+  "id": "w854",
+  "word": "enhance",
+  "meaning": "強化する",
+  "example": "The update enhances the app's performance."
+ },
+ {
+  "id": "w855",
+  "word": "ensure",
+  "meaning": "確実にする",
+  "example": "Please ensure all forms are signed before submission."
+ },
+ {
+  "id": "w856",
+  "word": "establish",
+  "meaning": "設立する",
+  "example": "The company was established in 1995."
+ },
+ {
+  "id": "w857",
+  "word": "evaluate",
+  "meaning": "評価する",
+  "example": "Managers evaluate employee performance annually."
+ },
+ {
+  "id": "w858",
+  "word": "exceed",
+  "meaning": "上回る",
+  "example": "Sales exceeded expectations this quarter."
+ },
+ {
+  "id": "w859",
+  "word": "execute",
+  "meaning": "実行する",
+  "example": "The team executed the plan without delays."
+ },
+ {
+  "id": "w860",
+  "word": "exhibit",
+  "meaning": "示す、展示する",
+  "example": "The employee exhibited strong leadership skills."
+ },
+ {
+  "id": "w861",
+  "word": "expand",
+  "meaning": "拡大する",
+  "example": "The company plans to expand into new markets."
+ },
+ {
+  "id": "w862",
+  "word": "expedite a process",
+  "meaning": "手続きを迅速化する",
+  "example": "The team worked to expedite the approval process."
+ },
+ {
+  "id": "w863",
+  "word": "finalize",
+  "meaning": "最終決定する",
+  "example": "The contract was finalized after weeks of negotiation."
+ },
+ {
+  "id": "w864",
+  "word": "project sales",
+  "meaning": "売上を見込む",
+  "example": "Analysts project steady sales growth next year."
+ },
+ {
+  "id": "w865",
+  "word": "foster",
+  "meaning": "育成する、促進する",
+  "example": "The program fosters innovation among employees."
+ },
+ {
+  "id": "w866",
+  "word": "generate",
+  "meaning": "生み出す",
+  "example": "The campaign generated significant interest."
+ },
+ {
+  "id": "w867",
+  "word": "approve a request",
+  "meaning": "要求を承認する",
+  "example": "The manager approved the employee's request for leave."
+ },
+ {
+  "id": "w868",
+  "word": "identify",
+  "meaning": "特定する",
+  "example": "The audit identified several areas for improvement."
+ },
+ {
+  "id": "w869",
+  "word": "implement",
+  "meaning": "実施する",
+  "example": "The company implemented a new policy last month."
+ },
+ {
+  "id": "w870",
+  "word": "incorporate",
+  "meaning": "組み込む",
+  "example": "The design incorporates customer feedback."
+ },
+ {
+  "id": "w871",
+  "word": "initiate",
+  "meaning": "開始する",
+  "example": "The manager initiated a review of the process."
+ },
+ {
+  "id": "w872",
+  "word": "inspect",
+  "meaning": "検査する",
+  "example": "Officials inspected the factory for safety compliance."
+ },
+ {
+  "id": "w873",
+  "word": "integrate",
+  "meaning": "統合する",
+  "example": "The two systems were integrated successfully."
+ },
+ {
+  "id": "w874",
+  "word": "intend",
+  "meaning": "意図する",
+  "example": "The company intends to expand its workforce."
+ },
+ {
+  "id": "w875",
+  "word": "interpret",
+  "meaning": "解釈する",
+  "example": "Analysts interpreted the data differently."
+ },
+ {
+  "id": "w876",
+  "word": "issue",
+  "meaning": "発行する",
+  "example": "The bank issued a new credit card design."
+ },
+ {
+  "id": "w877",
+  "word": "justify",
+  "meaning": "正当化する",
+  "example": "The manager justified the expense to the board."
+ },
+ {
+  "id": "w878",
+  "word": "launch",
+  "meaning": "開始する、発売する",
+  "example": "The company launched a new product line."
+ },
+ {
+  "id": "w879",
+  "word": "maintain",
+  "meaning": "維持する",
+  "example": "The team maintains high quality standards."
+ },
+ {
+  "id": "w880",
+  "word": "maximize",
+  "meaning": "最大化する",
+  "example": "The strategy aims to maximize profits."
+ },
+ {
+  "id": "w881",
+  "word": "minimize",
+  "meaning": "最小化する",
+  "example": "The new process minimizes waste."
+ },
+ {
+  "id": "w882",
+  "word": "modify",
+  "meaning": "変更する",
+  "example": "The contract was modified to include new terms."
+ },
+ {
+  "id": "w883",
+  "word": "monitor",
+  "meaning": "監視する",
+  "example": "The system monitors network activity around the clock."
+ },
+ {
+  "id": "w884",
+  "word": "bargain",
+  "meaning": "交渉する、値切る",
+  "example": "They bargained for a lower price with the vendor."
+ },
+ {
+  "id": "w885",
+  "word": "alert staff",
+  "meaning": "従業員に知らせる",
+  "example": "Managers will alert staff of the changes by email."
+ },
+ {
+  "id": "w886",
+  "word": "obtain",
+  "meaning": "取得する",
+  "example": "The company obtained approval from regulators."
+ },
+ {
+  "id": "w887",
+  "word": "oversee",
+  "meaning": "監督する",
+  "example": "She oversees the entire marketing department."
+ },
+ {
+  "id": "w888",
+  "word": "perceive",
+  "meaning": "認識する",
+  "example": "Customers perceive the brand as reliable."
+ },
+ {
+  "id": "w889",
+  "word": "persuade",
+  "meaning": "説得する",
+  "example": "The salesperson persuaded the client to sign the contract."
+ },
+ {
+  "id": "w890",
+  "word": "prevail",
+  "meaning": "普及する、優勢である",
+  "example": "Positive attitudes prevailed among the staff."
+ },
+ {
+  "id": "w891",
+  "word": "rank tasks",
+  "meaning": "タスクに優先順位をつける",
+  "example": "The team ranked tasks by urgency each morning."
+ },
+ {
+  "id": "w892",
+  "word": "pursue",
+  "meaning": "追求する",
+  "example": "The company pursues sustainable business practices."
+ },
+ {
+  "id": "w893",
+  "word": "reinforce",
+  "meaning": "強化する",
+  "example": "The training reinforced key safety procedures."
+ },
+ {
+  "id": "w894",
+  "word": "resolve",
+  "meaning": "解決する",
+  "example": "The dispute was resolved amicably."
+ },
+ {
+  "id": "w895",
+  "word": "retain",
+  "meaning": "維持する、保持する",
+  "example": "The company works hard to retain top talent."
+ },
+ {
+  "id": "w896",
+  "word": "strengthen",
+  "meaning": "強化する",
+  "example": "The partnership strengthened both companies' market position."
+ },
+ {
+  "id": "w897",
+  "word": "undertake",
+  "meaning": "引き受ける",
+  "example": "The firm undertook a major renovation project."
+ },
+ {
+  "id": "w898",
+  "word": "verify",
+  "meaning": "確認する、検証する",
+  "example": "Please verify the information before submitting the form."
+ },
+ {
+  "id": "w899",
+  "word": "withhold",
+  "meaning": "差し控える",
+  "example": "The company withheld the bonus until performance improved."
+ },
+ {
+  "id": "w900",
+  "word": "generate returns",
+  "meaning": "利益を生む",
+  "example": "The new strategy generated positive returns."
+ }
+]

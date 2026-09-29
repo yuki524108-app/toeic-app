@@ -9503,5 +9503,1229 @@
         "level": 500
       }
     ]
+  },
+  {
+    "id": "l34-c83z",
+    "partType": "part3",
+    "title": "会話：新しいコピー機の使い方",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "Do you know how to use the new copier? I can't figure out how to print double-sided."
+      },
+      {
+        "speaker": "Woman",
+        "line": "Oh, you have to press the settings button first, then select the duplex option."
+      },
+      {
+        "speaker": "Man",
+        "line": "I tried that, but it still printed single-sided."
+      },
+      {
+        "speaker": "Woman",
+        "line": "Let me come over and show you. It can be a little tricky the first time."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c83z-q1",
+        "question": "What is the man having trouble with?",
+        "choices": [
+          "Turning on the copier",
+          "Printing double-sided",
+          "Scanning documents",
+          "Adding paper"
+        ],
+        "answer": 1,
+        "explanation": "「両面印刷のやり方が分からない」と述べています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c83z-q2",
+        "question": "What did the man already try?",
+        "choices": [
+          "Restarting the copier",
+          "Pressing settings and selecting duplex",
+          "Calling IT support",
+          "Reading the manual"
+        ],
+        "answer": 1,
+        "explanation": "「設定ボタンを押して両面印刷を選択した」と述べています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c83z-q3",
+        "question": "What will the woman do?",
+        "choices": [
+          "Order a new copier",
+          "Come over and show him",
+          "Call the manufacturer",
+          "Send him instructions by email"
+        ],
+        "answer": 1,
+        "explanation": "「行って見せてあげる」と述べています。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-c84z",
+    "partType": "part3",
+    "title": "会話：カンファレンスの参加登録",
+    "script": [
+      {
+        "speaker": "Woman",
+        "line": "Have you registered for the marketing conference next month yet?"
+      },
+      {
+        "speaker": "Man",
+        "line": "Not yet. I heard early registration ends this Friday, though."
+      },
+      {
+        "speaker": "Woman",
+        "line": "That's right, and the price goes up by $100 after that."
+      },
+      {
+        "speaker": "Man",
+        "line": "Thanks for reminding me. I'll register today before I forget."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c84z-q1",
+        "question": "What are they discussing?",
+        "choices": [
+          "A job interview",
+          "Registering for a conference",
+          "A vacation plan",
+          "A product launch"
+        ],
+        "answer": 1,
+        "explanation": "マーケティングカンファレンスへの登録について話しています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c84z-q2",
+        "question": "When does early registration end?",
+        "choices": [
+          "Today",
+          "This Friday",
+          "Next Monday",
+          "The day of the conference"
+        ],
+        "answer": 1,
+        "explanation": "「早期登録は今週金曜日で終了する」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-c84z-q3",
+        "question": "What will happen if the man doesn't register by Friday?",
+        "choices": [
+          "He can't attend",
+          "The price will increase by $100",
+          "He'll need a different ticket type",
+          "He'll be put on a waitlist"
+        ],
+        "answer": 1,
+        "explanation": "「その後は100ドル値上がりする」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-c85z",
+    "partType": "part3",
+    "title": "会話：新入社員のデスク設定",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "The new hire starts on Monday. Has her desk been set up yet?"
+      },
+      {
+        "speaker": "Woman",
+        "line": "Almost. IT is still installing her computer, but everything else is ready."
+      },
+      {
+        "speaker": "Man",
+        "line": "Great. Can you make sure her badge and parking pass are ready too?"
+      },
+      {
+        "speaker": "Woman",
+        "line": "Yes, I'll pick those up from security this afternoon."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c85z-q1",
+        "question": "What is still being completed?",
+        "choices": [
+          "The desk furniture",
+          "The computer installation",
+          "The badge photo",
+          "The training schedule"
+        ],
+        "answer": 1,
+        "explanation": "「ITがまだパソコンを設置している最中」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-c85z-q2",
+        "question": "What does the man ask the woman to check on?",
+        "choices": [
+          "The new hire's salary",
+          "Her badge and parking pass",
+          "Her job title",
+          "Her start date"
+        ],
+        "answer": 1,
+        "explanation": "「バッジと駐車許可証の準備を確認してほしい」と頼んでいます。",
+        "level": 500
+      },
+      {
+        "id": "l34-c85z-q3",
+        "question": "What will the woman do this afternoon?",
+        "choices": [
+          "Meet the new hire",
+          "Pick up items from security",
+          "Set up the computer herself",
+          "Call IT support"
+        ],
+        "answer": 1,
+        "explanation": "「今日の午後セキュリティから受け取る」と述べています。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-c86z",
+    "partType": "part3",
+    "title": "会話：カフェテリアのメニュー変更提案",
+    "script": [
+      {
+        "speaker": "Woman",
+        "line": "A lot of employees have been asking for more vegan options in the cafeteria."
+      },
+      {
+        "speaker": "Man",
+        "line": "I've noticed that too. Maybe we should talk to the catering company about adding a few dishes."
+      },
+      {
+        "speaker": "Woman",
+        "line": "I already reached out to them. They said they could add two new options starting next month."
+      },
+      {
+        "speaker": "Man",
+        "line": "That's great news. I'll let the team know."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c86z-q1",
+        "question": "What have employees been requesting?",
+        "choices": [
+          "Lower prices",
+          "More vegan options",
+          "Longer lunch breaks",
+          "A new cafeteria location"
+        ],
+        "answer": 1,
+        "explanation": "「ビーガン向けの選択肢を増やしてほしいという要望」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-c86z-q2",
+        "question": "What did the woman already do?",
+        "choices": [
+          "Hired a new chef",
+          "Contacted the catering company",
+          "Changed the menu herself",
+          "Surveyed all employees"
+        ],
+        "answer": 1,
+        "explanation": "「すでにケータリング会社に連絡した」と述べています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c86z-q3",
+        "question": "When will new dishes be added?",
+        "choices": [
+          "Immediately",
+          "Next month",
+          "Next year",
+          "It's undecided"
+        ],
+        "answer": 1,
+        "explanation": "「来月から2品追加できると言われた」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-c87z",
+    "partType": "part3",
+    "title": "会話：会社のロゴデザイン変更",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "What do you think of the new logo designs the agency sent over?"
+      },
+      {
+        "speaker": "Woman",
+        "line": "I like the blue version, but I think the font is a little hard to read on small screens."
+      },
+      {
+        "speaker": "Man",
+        "line": "Good point. I'll ask them to test it on mobile devices before we make a final decision."
+      },
+      {
+        "speaker": "Woman",
+        "line": "Sounds good. Let's revisit this at Friday's meeting."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c87z-q1",
+        "question": "What are they reviewing?",
+        "choices": [
+          "A new office design",
+          "New logo designs",
+          "A marketing budget",
+          "A product prototype"
+        ],
+        "answer": 1,
+        "explanation": "新しいロゴデザインについて話しています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c87z-q2",
+        "question": "What concern does the woman have?",
+        "choices": [
+          "The color is wrong",
+          "The font is hard to read on small screens",
+          "The logo is too large",
+          "The design took too long"
+        ],
+        "answer": 1,
+        "explanation": "「小さい画面でフォントが読みにくい」と懸念しています。",
+        "level": 550
+      },
+      {
+        "id": "l34-c87z-q3",
+        "question": "What will the man do?",
+        "choices": [
+          "Reject the design",
+          "Ask the agency to test it on mobile devices",
+          "Approve it immediately",
+          "Redesign it himself"
+        ],
+        "answer": 1,
+        "explanation": "「モバイル端末でテストするよう依頼する」と述べています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-c88z",
+    "partType": "part3",
+    "title": "会話：出張費用の上限について",
+    "script": [
+      {
+        "speaker": "Woman",
+        "line": "I noticed the hotel I booked for the conference is over our usual travel budget."
+      },
+      {
+        "speaker": "Man",
+        "line": "How much over is it?"
+      },
+      {
+        "speaker": "Woman",
+        "line": "About $30 per night. All the closer hotels were already fully booked."
+      },
+      {
+        "speaker": "Man",
+        "line": "That should be fine given the circumstances. I'll approve the exception."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c88z-q1",
+        "question": "What is the issue with the hotel booking?",
+        "choices": [
+          "It's the wrong location",
+          "It's over the usual travel budget",
+          "It was canceled",
+          "It doesn't have availability"
+        ],
+        "answer": 1,
+        "explanation": "「通常の出張予算を超えている」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-c88z-q2",
+        "question": "Why did the woman book a more expensive hotel?",
+        "choices": [
+          "She prefers luxury hotels",
+          "Closer hotels were fully booked",
+          "The company requested it",
+          "It had better reviews"
+        ],
+        "answer": 1,
+        "explanation": "「近い他のホテルは満室だった」と説明しています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c88z-q3",
+        "question": "What does the man decide?",
+        "choices": [
+          "To deny the request",
+          "To approve the exception",
+          "To book a different hotel",
+          "To cancel the trip"
+        ],
+        "answer": 1,
+        "explanation": "「例外を承認する」と述べています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-t48z",
+    "partType": "part4",
+    "title": "アナウンス：博物館の閉館時間変更",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "Attention visitors, please note that the museum will close early today at 4 PM instead of the usual 6 PM due to a private event. All galleries will begin closing at 3:45, so please plan your visit accordingly. We apologize for any inconvenience and look forward to welcoming you back tomorrow during our regular hours."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t48z-q1",
+        "question": "Why is the museum closing early?",
+        "choices": [
+          "A power outage",
+          "A private event",
+          "Staff shortage",
+          "Weather conditions"
+        ],
+        "answer": 1,
+        "explanation": "「プライベートイベントのため」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t48z-q2",
+        "question": "What time will the museum close today?",
+        "choices": [
+          "3:45",
+          "4 PM",
+          "5 PM",
+          "6 PM"
+        ],
+        "answer": 1,
+        "explanation": "「今日は4時に閉館する」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t48z-q3",
+        "question": "When will the museum return to regular hours?",
+        "choices": [
+          "Later today",
+          "Tomorrow",
+          "Next week",
+          "It's permanent"
+        ],
+        "answer": 1,
+        "explanation": "「明日は通常営業時間に戻る」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-t49z",
+    "partType": "part4",
+    "title": "ラジオ広告：家具店のセール",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "This weekend only, Cornerstone Furniture is having its biggest sale of the year. Save up to 50 percent on sofas, dining sets, and bedroom furniture. Plus, all purchases over $500 come with free delivery and assembly. Visit our showroom on Route 9 or shop online. Hurry in, because sale prices end Sunday at closing."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t49z-q1",
+        "question": "How much can customers save?",
+        "choices": [
+          "Up to 20%",
+          "Up to 30%",
+          "Up to 50%",
+          "Up to 70%"
+        ],
+        "answer": 2,
+        "explanation": "「最大50%オフ」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t49z-q2",
+        "question": "What is included with purchases over $500?",
+        "choices": [
+          "A gift card",
+          "Free delivery and assembly",
+          "An extended warranty",
+          "A discount on future purchases"
+        ],
+        "answer": 1,
+        "explanation": "「500ドル以上の購入で送料と組み立てが無料」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-t49z-q3",
+        "question": "When does the sale end?",
+        "choices": [
+          "Saturday",
+          "Sunday at closing",
+          "Next Friday",
+          "The end of the month"
+        ],
+        "answer": 1,
+        "explanation": "「日曜日の閉店時にセールが終了する」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-t50z",
+    "partType": "part4",
+    "title": "留守番電話：面接日程の確認",
+    "script": [
+      {
+        "speaker": "Speaker",
+        "line": "Hi, this message is for Mr. Tanaka. This is Rachel from Bright Path Consulting. We'd like to confirm your interview for the analyst position this Thursday at 10 AM at our downtown office. Please bring a copy of your resume and two references. If you need to reschedule, please call our office before Wednesday afternoon. We look forward to meeting you."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t50z-q1",
+        "question": "What is the purpose of the call?",
+        "choices": [
+          "To offer a job",
+          "To confirm an interview",
+          "To cancel an interview",
+          "To request a document"
+        ],
+        "answer": 1,
+        "explanation": "「面接日程を確認する電話」です。",
+        "level": 400
+      },
+      {
+        "id": "l34-t50z-q2",
+        "question": "What should Mr. Tanaka bring?",
+        "choices": [
+          "A laptop",
+          "A copy of his resume and two references",
+          "A portfolio",
+          "Identification only"
+        ],
+        "answer": 1,
+        "explanation": "「履歴書のコピーと推薦者2名を持参するように」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-t50z-q3",
+        "question": "What should he do if he needs to reschedule?",
+        "choices": [
+          "Email HR",
+          "Call the office before Wednesday afternoon",
+          "Arrive late",
+          "Send a text message"
+        ],
+        "answer": 1,
+        "explanation": "「水曜日午後までに電話するように」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-t51z",
+    "partType": "part4",
+    "title": "アナウンス：電車の運行状況について",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "We apologize for the delay. Due to a signal malfunction near Central Station, all northbound trains are running approximately 15 minutes behind schedule. We appreciate your patience and will provide further updates as more information becomes available. Alternative bus service is available at Platform 2 for those who prefer not to wait."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t51z-q1",
+        "question": "Why are trains delayed?",
+        "choices": [
+          "Bad weather",
+          "A signal malfunction",
+          "A staff shortage",
+          "Track construction"
+        ],
+        "answer": 1,
+        "explanation": "「信号故障のため」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t51z-q2",
+        "question": "How long is the delay?",
+        "choices": [
+          "5 minutes",
+          "15 minutes",
+          "30 minutes",
+          "1 hour"
+        ],
+        "answer": 1,
+        "explanation": "「約15分の遅れ」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t51z-q3",
+        "question": "What alternative is offered?",
+        "choices": [
+          "A taxi voucher",
+          "Bus service at Platform 2",
+          "A refund",
+          "A different train line"
+        ],
+        "answer": 1,
+        "explanation": "「2番ホームで代替バスが利用可能」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-t52z",
+    "partType": "part4",
+    "title": "社内アナウンス：年末パーティーの案内",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "Just a reminder that this year's holiday party will be held on December 15 at the Grandview Hotel starting at 7 PM. Please RSVP through the link in your email by December 1 so we can finalize the headcount with the venue. Guests are welcome, and formal attire is encouraged. We look forward to celebrating another great year together."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t52z-q1",
+        "question": "Where will the party be held?",
+        "choices": [
+          "The office building",
+          "The Grandview Hotel",
+          "A restaurant downtown",
+          "A community center"
+        ],
+        "answer": 1,
+        "explanation": "「Grandview Hotelで開催される」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t52z-q2",
+        "question": "By when should employees RSVP?",
+        "choices": [
+          "December 1",
+          "December 15",
+          "The day of the party",
+          "January 1"
+        ],
+        "answer": 0,
+        "explanation": "「12月1日までにRSVPするように」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t52z-q3",
+        "question": "What is mentioned about attire?",
+        "choices": [
+          "Casual wear is required",
+          "Formal attire is encouraged",
+          "Costumes are required",
+          "There is no dress code"
+        ],
+        "answer": 1,
+        "explanation": "「フォーマルな服装が推奨される」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-c89z",
+    "partType": "part3",
+    "title": "会話：予算削減案について",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "Finance is asking every department to cut costs by 10 percent this quarter."
+      },
+      {
+        "speaker": "Woman",
+        "line": "That's tough. We could probably reduce our travel budget without affecting the team too much."
+      },
+      {
+        "speaker": "Man",
+        "line": "Good idea. Let's also look at renegotiating our software subscriptions."
+      },
+      {
+        "speaker": "Woman",
+        "line": "I'll put together a proposal and send it to you by Friday."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c89z-q1",
+        "question": "What is Finance asking departments to do?",
+        "choices": [
+          "Hire more staff",
+          "Cut costs by 10 percent",
+          "Increase marketing spend",
+          "Relocate offices"
+        ],
+        "answer": 1,
+        "explanation": "「経費を10%削減するよう求められている」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-c89z-q2",
+        "question": "What does the woman suggest reducing?",
+        "choices": [
+          "Salaries",
+          "The travel budget",
+          "Office space",
+          "Staff benefits"
+        ],
+        "answer": 1,
+        "explanation": "「出張予算を減らすことを提案している」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-c89z-q3",
+        "question": "What will the woman do by Friday?",
+        "choices": [
+          "Cancel all travel",
+          "Send a proposal",
+          "Meet with Finance",
+          "Resign from the project"
+        ],
+        "answer": 1,
+        "explanation": "「金曜日までに提案書をまとめて送る」と述べています。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-c90z",
+    "partType": "part3",
+    "title": "会話：新しい福利厚生アプリの導入",
+    "script": [
+      {
+        "speaker": "Woman",
+        "line": "Did you try the new benefits app HR rolled out last week?"
+      },
+      {
+        "speaker": "Man",
+        "line": "I did, and it's much easier to use than the old website."
+      },
+      {
+        "speaker": "Woman",
+        "line": "I agree, though I had trouble linking my dental insurance information at first."
+      },
+      {
+        "speaker": "Man",
+        "line": "You might need to update it manually. I can show you how after lunch if you'd like."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c90z-q1",
+        "question": "What are they discussing?",
+        "choices": [
+          "A new payroll system",
+          "A new benefits app",
+          "A new office chair",
+          "A new parking system"
+        ],
+        "answer": 1,
+        "explanation": "新しい福利厚生アプリについて話しています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c90z-q2",
+        "question": "What problem did the woman have?",
+        "choices": [
+          "The app crashed",
+          "Trouble linking dental insurance information",
+          "She forgot her password",
+          "The app was too slow"
+        ],
+        "answer": 1,
+        "explanation": "「歯科保険情報の連携に苦労した」と述べています。",
+        "level": 550
+      },
+      {
+        "id": "l34-c90z-q3",
+        "question": "What does the man offer to do?",
+        "choices": [
+          "Fix it himself remotely",
+          "Show her how to update it after lunch",
+          "Report it to HR",
+          "Uninstall the app"
+        ],
+        "answer": 1,
+        "explanation": "「昼食後にやり方を見せてあげる」と申し出ています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-c91z",
+    "partType": "part3",
+    "title": "会話：クライアントプレゼンの資料確認",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "Have you had a chance to look over the slides for tomorrow's client presentation?"
+      },
+      {
+        "speaker": "Woman",
+        "line": "Yes, I think the data section needs a clearer chart. The current one is hard to read."
+      },
+      {
+        "speaker": "Man",
+        "line": "Good catch. I'll redo it tonight and send you the updated version."
+      },
+      {
+        "speaker": "Woman",
+        "line": "Perfect. Let's do a final run-through first thing in the morning."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c91z-q1",
+        "question": "What are they preparing for?",
+        "choices": [
+          "A job interview",
+          "A client presentation",
+          "A training session",
+          "A company party"
+        ],
+        "answer": 1,
+        "explanation": "クライアントプレゼンの準備をしています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c91z-q2",
+        "question": "What issue does the woman point out?",
+        "choices": [
+          "Missing data",
+          "A hard-to-read chart",
+          "Incorrect numbers",
+          "Too many slides"
+        ],
+        "answer": 1,
+        "explanation": "「読みにくいグラフがある」と指摘しています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c91z-q3",
+        "question": "What will they do in the morning?",
+        "choices": [
+          "Cancel the presentation",
+          "Do a final run-through",
+          "Meet the client early",
+          "Print new materials"
+        ],
+        "answer": 1,
+        "explanation": "「朝一番に最終リハーサルをする」と述べています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-c92z",
+    "partType": "part3",
+    "title": "会話：オフィス用品の共同購入",
+    "script": [
+      {
+        "speaker": "Woman",
+        "line": "I noticed we're ordering office supplies separately for each department. Wouldn't it be cheaper to combine orders?"
+      },
+      {
+        "speaker": "Man",
+        "line": "That's a good point. We might get a bulk discount if we order together."
+      },
+      {
+        "speaker": "Woman",
+        "line": "I'll reach out to the other department assistants and see if they're interested."
+      },
+      {
+        "speaker": "Man",
+        "line": "Great, let me know what you find out by next week."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c92z-q1",
+        "question": "What does the woman notice?",
+        "choices": [
+          "Supplies are being wasted",
+          "Departments order supplies separately",
+          "The budget was cut",
+          "Orders are always late"
+        ],
+        "answer": 1,
+        "explanation": "「各部署が別々に発注している」ことに気づいています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c92z-q2",
+        "question": "What benefit does the man mention?",
+        "choices": [
+          "Faster delivery",
+          "A bulk discount",
+          "Better quality supplies",
+          "Less paperwork"
+        ],
+        "answer": 1,
+        "explanation": "「まとめて注文すれば割引が受けられるかもしれない」と述べています。",
+        "level": 500
+      },
+      {
+        "id": "l34-c92z-q3",
+        "question": "What will the woman do next?",
+        "choices": [
+          "Place the order immediately",
+          "Contact other department assistants",
+          "Cancel current orders",
+          "Talk to the supplier directly"
+        ],
+        "answer": 1,
+        "explanation": "「他部署のアシスタントに連絡してみる」と述べています。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-c93z",
+    "partType": "part3",
+    "title": "会話：新オフィスの内装カラーについて",
+    "script": [
+      {
+        "speaker": "Man",
+        "line": "The interior designer sent over a few color options for the new office walls."
+      },
+      {
+        "speaker": "Woman",
+        "line": "I like the light gray, but I'm worried it might make the space feel a bit cold."
+      },
+      {
+        "speaker": "Man",
+        "line": "We could add some warm wood accents to balance it out."
+      },
+      {
+        "speaker": "Woman",
+        "line": "That sounds good. Let's ask the designer for a sample before we commit."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-c93z-q1",
+        "question": "What is being discussed?",
+        "choices": [
+          "New furniture",
+          "Wall color options",
+          "Office layout",
+          "Lighting fixtures"
+        ],
+        "answer": 1,
+        "explanation": "壁の色の選択肢について話しています。",
+        "level": 450
+      },
+      {
+        "id": "l34-c93z-q2",
+        "question": "What concern does the woman have about the light gray?",
+        "choices": [
+          "It's too expensive",
+          "It might feel cold",
+          "It's hard to clean",
+          "It's not available"
+        ],
+        "answer": 1,
+        "explanation": "「空間が冷たく感じるかもしれない」と懸念しています。",
+        "level": 550
+      },
+      {
+        "id": "l34-c93z-q3",
+        "question": "What will they ask the designer for?",
+        "choices": [
+          "A full quote",
+          "A sample",
+          "A different designer",
+          "A discount"
+        ],
+        "answer": 1,
+        "explanation": "「決める前にサンプルをもらおう」と述べています。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-t53z",
+    "partType": "part4",
+    "title": "アナウンス：ホテルのチェックイン案内",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "Welcome to Lakeside Hotel. Check-in time begins at 3 PM, and check-out is at 11 AM. If you arrive early, our staff will be happy to store your luggage while your room is being prepared. Complimentary breakfast is served in the main dining room from 7 to 10 AM daily. Please let the front desk know if you have any special requests during your stay."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t53z-q1",
+        "question": "What time does check-in begin?",
+        "choices": [
+          "11 AM",
+          "1 PM",
+          "3 PM",
+          "5 PM"
+        ],
+        "answer": 2,
+        "explanation": "「チェックインは午後3時から」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t53z-q2",
+        "question": "What can guests do if they arrive early?",
+        "choices": [
+          "Wait in the lobby only",
+          "Have their luggage stored",
+          "Get a free upgrade",
+          "Check in immediately"
+        ],
+        "answer": 1,
+        "explanation": "「早めに到着した場合は荷物を預けられる」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t53z-q3",
+        "question": "When is breakfast served?",
+        "choices": [
+          "6 to 9 AM",
+          "7 to 10 AM",
+          "8 to 11 AM",
+          "All day"
+        ],
+        "answer": 1,
+        "explanation": "「朝食は7時から10時まで提供される」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "l34-t54z",
+    "partType": "part4",
+    "title": "アナウンス：スーパーの営業時間変更",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "Attention shoppers, please note that due to the upcoming holiday, our store will close at 6 PM this Thursday instead of our usual 9 PM closing time. We will resume normal hours on Friday. We apologize for any inconvenience and thank you for your understanding as our staff prepares for the holiday weekend."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t54z-q1",
+        "question": "Why is the store closing early?",
+        "choices": [
+          "A power outage",
+          "An upcoming holiday",
+          "A renovation",
+          "A staff shortage"
+        ],
+        "answer": 1,
+        "explanation": "「祝日を控えているため」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t54z-q2",
+        "question": "What time will the store close on Thursday?",
+        "choices": [
+          "5 PM",
+          "6 PM",
+          "7 PM",
+          "9 PM"
+        ],
+        "answer": 1,
+        "explanation": "「木曜日は午後6時に閉店する」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t54z-q3",
+        "question": "When will normal hours resume?",
+        "choices": [
+          "Thursday night",
+          "Friday",
+          "The following Monday",
+          "Next week"
+        ],
+        "answer": 1,
+        "explanation": "「金曜日から通常営業に戻る」とあります。",
+        "level": 450
+      }
+    ]
+  },
+  {
+    "id": "l34-t55z",
+    "partType": "part4",
+    "title": "会社説明会：新入社員向けIT設定案内",
+    "script": [
+      {
+        "speaker": "Speaker",
+        "line": "Before we finish today's orientation, let's go over your IT setup. Each of you should have received a temporary password by email this morning. Please log in to the employee portal and change your password within 24 hours. If you have any trouble accessing your account, visit the IT help desk on the second floor, open until 6 PM today."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t55z-q1",
+        "question": "What did new employees receive this morning?",
+        "choices": [
+          "A company laptop",
+          "A temporary password by email",
+          "A welcome gift",
+          "An ID badge"
+        ],
+        "answer": 1,
+        "explanation": "「今朝メールで仮パスワードを受け取った」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t55z-q2",
+        "question": "What must employees do within 24 hours?",
+        "choices": [
+          "Submit paperwork",
+          "Change their password",
+          "Attend a meeting",
+          "Return their badge"
+        ],
+        "answer": 1,
+        "explanation": "「24時間以内にパスワードを変更するように」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-t55z-q3",
+        "question": "Where is the IT help desk located?",
+        "choices": [
+          "First floor",
+          "Second floor",
+          "Third floor",
+          "Off-site"
+        ],
+        "answer": 1,
+        "explanation": "「2階にあるITヘルプデスク」とあります。",
+        "level": 400
+      }
+    ]
+  },
+  {
+    "id": "l34-t56z",
+    "partType": "part4",
+    "title": "アナウンス：航空機内の安全案内",
+    "script": [
+      {
+        "speaker": "Announcer",
+        "line": "Ladies and gentlemen, we will begin our descent shortly. Please return your seat to the upright position and make sure your tray table is stored. Cabin crew will be passing through the aisles to collect any remaining service items. We ask that you remain seated with your seatbelt fastened until the captain turns off the seatbelt sign."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t56z-q1",
+        "question": "What should passengers do with their seats?",
+        "choices": [
+          "Recline them fully",
+          "Return them to the upright position",
+          "Leave them as they are",
+          "Move to a different seat"
+        ],
+        "answer": 1,
+        "explanation": "「座席を元の位置に戻すように」とあります。",
+        "level": 450
+      },
+      {
+        "id": "l34-t56z-q2",
+        "question": "What will cabin crew be doing?",
+        "choices": [
+          "Serving meals",
+          "Collecting remaining service items",
+          "Checking passports",
+          "Handing out headphones"
+        ],
+        "answer": 1,
+        "explanation": "「サービス用品の残りを回収する」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-t56z-q3",
+        "question": "When can passengers unfasten their seatbelt?",
+        "choices": [
+          "Immediately",
+          "After landing begins",
+          "When the captain turns off the sign",
+          "Whenever they want"
+        ],
+        "answer": 2,
+        "explanation": "「機長がサインを消すまで」とあります。",
+        "level": 500
+      }
+    ]
+  },
+  {
+    "id": "l34-t57z",
+    "partType": "part4",
+    "title": "留守番電話：予約のキャンセルについて",
+    "script": [
+      {
+        "speaker": "Speaker",
+        "line": "Hello, this message is for Ms. Whitmore. This is Carlos from Bella Vista Restaurant. Unfortunately, we need to cancel your reservation for eight people this Saturday due to a kitchen equipment issue. We sincerely apologize for the short notice and would like to offer you a complimentary dinner for four at a later date. Please call us back to reschedule."
+      }
+    ],
+    "questions": [
+      {
+        "id": "l34-t57z-q1",
+        "question": "Why is the reservation being canceled?",
+        "choices": [
+          "Overbooking",
+          "A kitchen equipment issue",
+          "Bad weather",
+          "Staff shortage"
+        ],
+        "answer": 1,
+        "explanation": "「厨房設備の問題のため」とあります。",
+        "level": 500
+      },
+      {
+        "id": "l34-t57z-q2",
+        "question": "How many people was the reservation for?",
+        "choices": [
+          "4",
+          "6",
+          "8",
+          "10"
+        ],
+        "answer": 2,
+        "explanation": "「8名の予約」とあります。",
+        "level": 400
+      },
+      {
+        "id": "l34-t57z-q3",
+        "question": "What is offered as compensation?",
+        "choices": [
+          "A full refund",
+          "A complimentary dinner for four",
+          "A discount coupon",
+          "Free delivery"
+        ],
+        "answer": 1,
+        "explanation": "「後日4名分の無料ディナーが提供される」とあります。",
+        "level": 500
+      }
+    ]
   }
 ]

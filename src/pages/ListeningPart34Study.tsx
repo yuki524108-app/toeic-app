@@ -11,6 +11,7 @@ import {
 } from "../lib/studyQueue";
 import { isTTSSupported, speakScript, stopSpeaking } from "../lib/tts";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
+import { QuestionDetail, PassageDetail } from "../components/StudyDetail";
 
 const sets = listeningPart34Sets as ListeningPart34Set[];
 const CHOICE_LABELS = ["A", "B", "C", "D"] as const;
@@ -258,9 +259,22 @@ export default function ListeningPart34Study({
 
           {selected !== null && (
             <div className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
-              <p className="text-sm leading-relaxed text-(--color-ink-soft)">
+              <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
                 {currentQuestion.explanation}
               </p>
+              <QuestionDetail
+                questionJa={currentQuestion.questionJa}
+                choices={currentQuestion.choices}
+                choicesJa={currentQuestion.choicesJa}
+                answer={currentQuestion.answer}
+                detail={currentQuestion.explanationDetail}
+              />
+              {isLastQuestionOfSet && (
+                <PassageDetail
+                  texts={[{ label: "スクリプトの和訳", ja: currentSet.scriptJa }]}
+                  vocab={currentSet.vocab}
+                />
+              )}
 
               {isLastQuestionOfSet && ttsSupported && (
                 <div className="mt-4 border-t border-(--color-line) pt-3">

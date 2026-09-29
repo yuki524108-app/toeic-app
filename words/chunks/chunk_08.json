@@ -1,0 +1,602 @@
+[
+ {
+  "id": "w701",
+  "word": "curriculum",
+  "meaning": "カリキュラム",
+  "example": "The training curriculum was updated this year."
+ },
+ {
+  "id": "w702",
+  "word": "syllabus",
+  "meaning": "授業要項",
+  "example": "The syllabus outlines the course schedule."
+ },
+ {
+  "id": "w703",
+  "word": "certification",
+  "meaning": "認定資格",
+  "example": "She earned a certification in project management."
+ },
+ {
+  "id": "w704",
+  "word": "credential",
+  "meaning": "資格、証明書",
+  "example": "His credentials impressed the hiring committee."
+ },
+ {
+  "id": "w705",
+  "word": "tuition",
+  "meaning": "授業料",
+  "example": "The company reimburses tuition for approved courses."
+ },
+ {
+  "id": "w706",
+  "word": "scholarship",
+  "meaning": "奨学金",
+  "example": "She received a scholarship to attend the seminar."
+ },
+ {
+  "id": "w707",
+  "word": "enrollment",
+  "meaning": "入学、登録",
+  "example": "Enrollment for the workshop closes on Friday."
+ },
+ {
+  "id": "w708",
+  "word": "attendance record",
+  "meaning": "出席記録",
+  "example": "Keep an accurate attendance record for the training."
+ },
+ {
+  "id": "w709",
+  "word": "lecture hall",
+  "meaning": "講堂",
+  "example": "The seminar was held in the main lecture hall."
+ },
+ {
+  "id": "w710",
+  "word": "faculty",
+  "meaning": "教職員",
+  "example": "The faculty reviewed the new curriculum proposal."
+ },
+ {
+  "id": "w711",
+  "word": "tutor",
+  "meaning": "個別指導者",
+  "example": "A tutor was hired to help with the language course."
+ },
+ {
+  "id": "w712",
+  "word": "coursework",
+  "meaning": "授業課題",
+  "example": "The coursework includes both written and practical assignments."
+ },
+ {
+  "id": "w713",
+  "word": "assessment",
+  "meaning": "評価",
+  "example": "A skills assessment is conducted before the training begins."
+ },
+ {
+  "id": "w714",
+  "word": "proficiency",
+  "meaning": "熟達度",
+  "example": "The test measures English proficiency."
+ },
+ {
+  "id": "w715",
+  "word": "aptitude test",
+  "meaning": "適性検査",
+  "example": "Candidates take an aptitude test as part of the process."
+ },
+ {
+  "id": "w716",
+  "word": "academic transcript",
+  "meaning": "成績証明書",
+  "example": "Please submit an official academic transcript."
+ },
+ {
+  "id": "w717",
+  "word": "accredited institution",
+  "meaning": "認定機関",
+  "example": "The degree must be from an accredited institution."
+ },
+ {
+  "id": "w718",
+  "word": "distance learning",
+  "meaning": "遠隔学習",
+  "example": "The company offers distance learning courses for employees."
+ },
+ {
+  "id": "w719",
+  "word": "e-learning",
+  "meaning": "eラーニング",
+  "example": "E-learning modules can be completed at your own pace."
+ },
+ {
+  "id": "w720",
+  "word": "webinar",
+  "meaning": "ウェビナー",
+  "example": "The webinar covered the latest industry trends."
+ },
+ {
+  "id": "w721",
+  "word": "guest lecturer",
+  "meaning": "客員講師",
+  "example": "A guest lecturer spoke about market trends."
+ },
+ {
+  "id": "w722",
+  "word": "workshop facilitator",
+  "meaning": "研修進行役",
+  "example": "The workshop facilitator guided the group discussion."
+ },
+ {
+  "id": "w723",
+  "word": "peer review",
+  "meaning": "査読、同僚評価",
+  "example": "The article underwent a rigorous peer review."
+ },
+ {
+  "id": "w724",
+  "word": "research grant",
+  "meaning": "研究助成金",
+  "example": "The university received a research grant for the project."
+ },
+ {
+  "id": "w725",
+  "word": "publication",
+  "meaning": "出版物、論文",
+  "example": "Her latest publication was well received by critics."
+ },
+ {
+  "id": "w726",
+  "word": "journal article",
+  "meaning": "学術論文",
+  "example": "He published a journal article on market trends."
+ },
+ {
+  "id": "w727",
+  "word": "case study",
+  "meaning": "事例研究",
+  "example": "The workshop included a case study on customer service."
+ },
+ {
+  "id": "w728",
+  "word": "best practice",
+  "meaning": "ベストプラクティス",
+  "example": "The manual describes best practices for handling complaints."
+ },
+ {
+  "id": "w729",
+  "word": "guideline",
+  "meaning": "指針",
+  "example": "Follow the company's guidelines for expense reports."
+ },
+ {
+  "id": "w730",
+  "word": "policy manual",
+  "meaning": "方針マニュアル",
+  "example": "The policy manual was updated to reflect new regulations."
+ },
+ {
+  "id": "w731",
+  "word": "code of conduct",
+  "meaning": "行動規範",
+  "example": "All employees must sign the code of conduct."
+ },
+ {
+  "id": "w732",
+  "word": "ethics training",
+  "meaning": "倫理研修",
+  "example": "Ethics training is mandatory for all new hires."
+ },
+ {
+  "id": "w733",
+  "word": "whistleblower",
+  "meaning": "内部告発者",
+  "example": "The company has a policy to protect whistleblowers."
+ },
+ {
+  "id": "w734",
+  "word": "conflict of interest",
+  "meaning": "利益相反",
+  "example": "Employees must disclose any conflict of interest."
+ },
+ {
+  "id": "w735",
+  "word": "disclosure",
+  "meaning": "開示",
+  "example": "Full disclosure of the terms is required by law."
+ },
+ {
+  "id": "w736",
+  "word": "transparency",
+  "meaning": "透明性",
+  "example": "The company values transparency in its financial reporting."
+ },
+ {
+  "id": "w737",
+  "word": "accountability",
+  "meaning": "説明責任",
+  "example": "Managers are held accountable for their team's performance."
+ },
+ {
+  "id": "w738",
+  "word": "governance",
+  "meaning": "統治、ガバナンス",
+  "example": "Strong corporate governance builds investor trust."
+ },
+ {
+  "id": "w739",
+  "word": "board of directors",
+  "meaning": "取締役会",
+  "example": "The board of directors approved the annual budget."
+ },
+ {
+  "id": "w740",
+  "word": "executive committee",
+  "meaning": "執行委員会",
+  "example": "The executive committee meets monthly."
+ },
+ {
+  "id": "w741",
+  "word": "vice president",
+  "meaning": "副社長",
+  "example": "She was promoted to vice president of sales."
+ },
+ {
+  "id": "w742",
+  "word": "managing director",
+  "meaning": "常務取締役",
+  "example": "The managing director oversees daily operations."
+ },
+ {
+  "id": "w743",
+  "word": "chief financial officer",
+  "meaning": "最高財務責任者",
+  "example": "The chief financial officer presented the quarterly results."
+ },
+ {
+  "id": "w744",
+  "word": "chief executive officer",
+  "meaning": "最高経営責任者",
+  "example": "The chief executive officer announced the new strategy."
+ },
+ {
+  "id": "w745",
+  "word": "organizational chart",
+  "meaning": "組織図",
+  "example": "The organizational chart shows the reporting structure."
+ },
+ {
+  "id": "w746",
+  "word": "hierarchy",
+  "meaning": "階層",
+  "example": "The company has a flat management hierarchy."
+ },
+ {
+  "id": "w747",
+  "word": "chain of command",
+  "meaning": "指揮系統",
+  "example": "Report any issues through the proper chain of command."
+ },
+ {
+  "id": "w748",
+  "word": "line manager",
+  "meaning": "直属の上司",
+  "example": "Discuss the request with your line manager first."
+ },
+ {
+  "id": "w749",
+  "word": "direct report",
+  "meaning": "直属の部下",
+  "example": "She has five direct reports on her team."
+ },
+ {
+  "id": "w750",
+  "word": "cross-functional team",
+  "meaning": "部門横断チーム",
+  "example": "A cross-functional team was formed to launch the product."
+ },
+ {
+  "id": "w751",
+  "word": "passport control",
+  "meaning": "出入国審査",
+  "example": "Passengers went through passport control before boarding."
+ },
+ {
+  "id": "w752",
+  "word": "immigration officer",
+  "meaning": "入国審査官",
+  "example": "The immigration officer checked her visa carefully."
+ },
+ {
+  "id": "w753",
+  "word": "departure lounge",
+  "meaning": "出発ラウンジ",
+  "example": "Passengers waited in the departure lounge."
+ },
+ {
+  "id": "w754",
+  "word": "arrival gate",
+  "meaning": "到着ゲート",
+  "example": "Meet her at the arrival gate at noon."
+ },
+ {
+  "id": "w755",
+  "word": "terminal building",
+  "meaning": "ターミナルビル",
+  "example": "The new terminal building opened last year."
+ },
+ {
+  "id": "w756",
+  "word": "duty-free shop",
+  "meaning": "免税店",
+  "example": "She bought perfume at the duty-free shop."
+ },
+ {
+  "id": "w757",
+  "word": "travel agency",
+  "meaning": "旅行代理店",
+  "example": "The travel agency arranged the entire business trip."
+ },
+ {
+  "id": "w758",
+  "word": "travel insurance",
+  "meaning": "旅行保険",
+  "example": "Purchase travel insurance before your trip."
+ },
+ {
+  "id": "w759",
+  "word": "connecting train",
+  "meaning": "乗り継ぎ電車",
+  "example": "She had ten minutes to catch her connecting train."
+ },
+ {
+  "id": "w760",
+  "word": "cancellation policy",
+  "meaning": "キャンセルポリシー",
+  "example": "Check the cancellation policy before booking."
+ },
+ {
+  "id": "w761",
+  "word": "non-refundable",
+  "meaning": "払い戻し不可の",
+  "example": "The ticket is non-refundable after purchase."
+ },
+ {
+  "id": "w762",
+  "word": "rental car",
+  "meaning": "レンタカー",
+  "example": "They picked up a rental car at the airport."
+ },
+ {
+  "id": "w763",
+  "word": "toll road",
+  "meaning": "有料道路",
+  "example": "They took the toll road to save time."
+ },
+ {
+  "id": "w764",
+  "word": "traffic congestion",
+  "meaning": "交通渋滞",
+  "example": "Traffic congestion delayed the delivery by an hour."
+ },
+ {
+  "id": "w765",
+  "word": "public transportation",
+  "meaning": "公共交通機関",
+  "example": "Many employees use public transportation to commute."
+ },
+ {
+  "id": "w766",
+  "word": "commuter pass",
+  "meaning": "通勤定期券",
+  "example": "The company reimburses the cost of a commuter pass."
+ },
+ {
+  "id": "w767",
+  "word": "parking garage",
+  "meaning": "駐車場（立体）",
+  "example": "The office building has an underground parking garage."
+ },
+ {
+  "id": "w768",
+  "word": "valet parking",
+  "meaning": "バレーパーキング",
+  "example": "The hotel offers valet parking for guests."
+ },
+ {
+  "id": "w769",
+  "word": "property manager",
+  "meaning": "物件管理者",
+  "example": "Contact the property manager for maintenance requests."
+ },
+ {
+  "id": "w770",
+  "word": "lease term",
+  "meaning": "リース期間",
+  "example": "The lease term is two years with an option to renew."
+ },
+ {
+  "id": "w771",
+  "word": "security deposit",
+  "meaning": "敷金",
+  "example": "A security deposit is required before moving in."
+ },
+ {
+  "id": "w772",
+  "word": "move-in date",
+  "meaning": "入居日",
+  "example": "The move-in date was postponed by a week."
+ },
+ {
+  "id": "w773",
+  "word": "vacancy rate",
+  "meaning": "空室率",
+  "example": "The vacancy rate in the area dropped this year."
+ },
+ {
+  "id": "w774",
+  "word": "occupancy rate",
+  "meaning": "稼働率、入居率",
+  "example": "The hotel's occupancy rate rose during the holidays."
+ },
+ {
+  "id": "w775",
+  "word": "common area",
+  "meaning": "共用スペース",
+  "example": "The common area includes a lounge and a gym."
+ },
+ {
+  "id": "w776",
+  "word": "maintenance fee",
+  "meaning": "維持費",
+  "example": "The maintenance fee covers building upkeep."
+ },
+ {
+  "id": "w777",
+  "word": "property tax",
+  "meaning": "固定資産税",
+  "example": "Property tax rates vary by location."
+ },
+ {
+  "id": "w778",
+  "word": "homeowners association",
+  "meaning": "住宅所有者組合",
+  "example": "The homeowners association sets rules for the neighborhood."
+ },
+ {
+  "id": "w779",
+  "word": "appraisal committee",
+  "meaning": "査定委員会",
+  "example": "The appraisal committee reviewed the property's value."
+ },
+ {
+  "id": "w780",
+  "word": "real estate market",
+  "meaning": "不動産市場",
+  "example": "The real estate market cooled down this quarter."
+ },
+ {
+  "id": "w781",
+  "word": "commercial lease",
+  "meaning": "商業用賃貸契約",
+  "example": "The company signed a five-year commercial lease."
+ },
+ {
+  "id": "w782",
+  "word": "office space",
+  "meaning": "オフィススペース",
+  "example": "The startup rented additional office space downtown."
+ },
+ {
+  "id": "w783",
+  "word": "co-working space",
+  "meaning": "コワーキングスペース",
+  "example": "Many freelancers work from a co-working space."
+ },
+ {
+  "id": "w784",
+  "word": "open floor plan",
+  "meaning": "オープンフロアプラン",
+  "example": "The office has an open floor plan to encourage collaboration."
+ },
+ {
+  "id": "w785",
+  "word": "cubicle",
+  "meaning": "仕切りブース",
+  "example": "Each employee has their own cubicle."
+ },
+ {
+  "id": "w786",
+  "word": "break room",
+  "meaning": "休憩室",
+  "example": "Employees can relax in the break room during lunch."
+ },
+ {
+  "id": "w787",
+  "word": "supply closet",
+  "meaning": "備品庫",
+  "example": "Extra paper is stored in the supply closet."
+ },
+ {
+  "id": "w788",
+  "word": "loading dock",
+  "meaning": "荷積み場",
+  "example": "Trucks unload deliveries at the loading dock."
+ },
+ {
+  "id": "w789",
+  "word": "storage unit",
+  "meaning": "倉庫、収納スペース",
+  "example": "The company rents a storage unit for old files."
+ },
+ {
+  "id": "w790",
+  "word": "floor manager",
+  "meaning": "フロアマネージャー",
+  "example": "The floor manager oversees daily store operations."
+ },
+ {
+  "id": "w791",
+  "word": "point of sale",
+  "meaning": "販売時点情報管理（レジ）",
+  "example": "The new point of sale system speeds up checkout."
+ },
+ {
+  "id": "w792",
+  "word": "cash register",
+  "meaning": "レジ",
+  "example": "The cash register needs to be restocked with receipt paper."
+ },
+ {
+  "id": "w793",
+  "word": "barcode scanner",
+  "meaning": "バーコードスキャナー",
+  "example": "Use the barcode scanner to check inventory."
+ },
+ {
+  "id": "w794",
+  "word": "self-checkout",
+  "meaning": "セルフレジ",
+  "example": "Customers can use the self-checkout for faster service."
+ },
+ {
+  "id": "w795",
+  "word": "storefront",
+  "meaning": "店頭",
+  "example": "The storefront was redesigned to attract more customers."
+ },
+ {
+  "id": "w796",
+  "word": "display window",
+  "meaning": "ショーウィンドウ",
+  "example": "The display window features the season's new arrivals."
+ },
+ {
+  "id": "w797",
+  "word": "shelf space",
+  "meaning": "棚のスペース",
+  "example": "The brand negotiated more shelf space at the store."
+ },
+ {
+  "id": "w798",
+  "word": "markdown",
+  "meaning": "値下げ",
+  "example": "The store applied a markdown to clear old inventory."
+ },
+ {
+  "id": "w799",
+  "word": "clearance sale",
+  "meaning": "在庫一掃セール",
+  "example": "The store is having a clearance sale this weekend."
+ },
+ {
+  "id": "w800",
+  "word": "loyalty card",
+  "meaning": "ポイントカード",
+  "example": "Customers earn points with a loyalty card."
+ }
+]
