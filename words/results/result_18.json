@@ -1,602 +1,602 @@
 [
-{
-"id": "w1601",
-"pos": "名詞句",
-"exampleJa": "会社の忘年会は来週の金曜日に開催される。",
-"note": "類義語：holiday gathering, office party\n表現：hold a holiday party（忘年会を開催する）"
-},
-{
-"id": "w1602",
-"pos": "名詞句",
-"exampleJa": "チームは祝賀会のために持ち寄りランチを企画した。",
-"note": "類義語：potluck, shared meal\n表現：organize a potluck lunch（持ち寄りランチを企画する）"
-},
-{
-"id": "w1603",
-"pos": "名詞句",
-"exampleJa": "その部署は士気を高めるためにチームでの外出行事を計画した。",
-"note": "類義語：team activity, group outing\n表現：plan a team outing（チームでの外出行事を計画する）"
-},
-{
-"id": "w1604",
-"pos": "名詞句",
-"exampleJa": "その会社は毎年ボランティアデーを開催している。",
-"note": "類義語：volunteer event, service day\n表現：organize a volunteer day（ボランティアデーを開催する）"
-},
-{
-"id": "w1605",
-"pos": "名詞句",
-"exampleJa": "そのオフィスは地元の保護施設のために募金活動を行った。",
-"note": "類義語：fund-raising campaign, charity campaign\n表現：hold a charity drive（募金活動を行う）"
-},
-{
-"id": "w1606",
-"pos": "名詞句",
-"exampleJa": "その会社は従業員からの寄付に対して同額を寄付する制度を提供している。",
-"note": "類義語：matching donation, gift matching\n表現：offer donation matching（寄付マッチングを提供する）"
-},
-{
-"id": "w1607",
-"pos": "名詞句",
-"exampleJa": "その企業はマラソン大会のスポンサーとなった。",
-"note": "類義語：business sponsorship, corporate support\n表現：provide corporate sponsorship（企業スポンサーシップを提供する）"
-},
-{
-"id": "w1608",
-"pos": "名詞句",
-"exampleJa": "その会社は社会的責任を重視している。",
-"note": "類義語：corporate responsibility, civic responsibility\n表現：take social responsibility seriously（社会的責任を重視する）"
-},
-{
-"id": "w1609",
-"pos": "名詞句",
-"exampleJa": "そのブランドは原材料の倫理的な調達に取り組んでいる。",
-"note": "類義語：responsible sourcing, sustainable sourcing\n表現：be committed to ethical sourcing（倫理的な調達に取り組む）"
-},
-{
-"id": "w1610",
-"pos": "名詞句",
-"exampleJa": "悪天候のため、フライトが遅れた。",
-"note": "類義語：weather conditions, atmospheric conditions\n表現：due to poor weather conditions（悪天候のため）"
-},
-{
-"id": "w1611",
-"pos": "名詞",
-"exampleJa": "今週後半には大雨が予想されている。",
-"note": "類義語：rainfall, rain\n表現：heavy precipitation（多量の降水）"
-},
-{
-"id": "w1612",
-"pos": "名詞句",
-"exampleJa": "曇り空は雨が近づいていることを示していた。",
-"note": "類義語：cloudy sky, cloudy conditions\n表現：an overcast sky（曇り空）"
-},
-{
-"id": "w1613",
-"pos": "名詞句",
-"exampleJa": "予報では週末は晴天になると予測されている。",
-"note": "類義語：sunny skies, fair weather\n表現：clear skies（晴天）"
-},
-{
-"id": "w1614",
-"pos": "名詞",
-"exampleJa": "雷雨によってその地域では停電が起きた。",
-"note": "類義語：storm, electrical storm\n表現：a thunderstorm warning（雷雨警報）"
-},
-{
-"id": "w1615",
-"pos": "名詞句",
-"exampleJa": "早朝の通勤時間帯に向けて霧注意報が発令された。",
-"note": "類義語：fog warning, fog alert\n表現：issue a fog advisory（霧注意報を発令する）"
-},
-{
-"id": "w1616",
-"pos": "名詞",
-"exampleJa": "風による体感温度のため、外はかなり寒く感じられた。",
-"note": "類義語：apparent temperature, feels-like temperature\n表現：wind chill factor（風による体感温度）"
-},
-{
-"id": "w1617",
-"pos": "名詞句",
-"exampleJa": "その店は季節の変化に合わせて在庫を更新する。",
-"note": "類義語：seasonal shift, change of season\n表現：seasonal change（季節の変化）"
-},
-{
-"id": "w1618",
-"pos": "名詞句",
-"exampleJa": "そのオフィスは先週末に春の大掃除を行った。",
-"note": "類義語：spring cleaning, thorough cleaning\n表現：do some spring cleaning（春の大掃除をする）"
-},
-{
-"id": "w1619",
-"pos": "名詞句",
-"exampleJa": "収穫期には秋になると農家は忙しくなる。",
-"note": "類義語：harvesting season, harvest period\n表現：during the harvest season（収穫期に）"
-},
-{
-"id": "w1620",
-"pos": "名詞句",
-"exampleJa": "繁忙期にはホテルの料金が上昇する。",
-"note": "類義語：busy season, high season\n表現：during peak season（繁忙期に）"
-},
-{
-"id": "w1621",
-"pos": "名詞",
-"exampleJa": "オフシーズンには料金が安くなる。",
-"note": "類義語：low season, quiet season\n表現：during the off-season（オフシーズンに）"
-},
-{
-"id": "w1622",
-"pos": "名詞句",
-"exampleJa": "小売業者は毎年12月になるとホリデーシーズンの混雑に備える。",
-"note": "類義語：holiday crowd, holiday rush\n表現：prepare for the holiday rush（ホリデーシーズンの混雑に備える）"
-},
-{
-"id": "w1623",
-"pos": "名詞句",
-"exampleJa": "経理チームは年度末決算で忙しい。",
-"note": "類義語：year-end accounting, year-end settlement\n表現：year-end closing（年度末決算）"
-},
-{
-"id": "w1624",
-"pos": "名詞句",
-"exampleJa": "売上は各会計四半期の終わりに見直される。",
-"note": "類義語：financial quarter, accounting quarter\n表現：fiscal quarter（会計四半期）"
-},
-{
-"id": "w1625",
-"pos": "名詞句",
-"exampleJa": "その報告書は暦年全体を対象としている。",
-"note": "類義語：calendar year, year\n表現：the entire calendar year（暦年全体）"
-},
-{
-"id": "w1626",
-"pos": "名詞句",
-"exampleJa": "今年は2月に1日多い、うるう年です。",
-"note": "類義語：intercalary year, bissextile year\n表現：a leap year（うるう年）"
-},
-{
-"id": "w1627",
-"pos": "名詞句",
-"exampleJa": "そのオフィスは祝日のため休業する。",
-"note": "類義語：national holiday, official holiday\n表現：be closed for a public holiday（祝日のため休業する）"
-},
-{
-"id": "w1628",
-"pos": "名詞句",
-"exampleJa": "銀行は銀行休業日に休業する。",
-"note": "類義語：public holiday, bank closure\n表現：be closed on a bank holiday（銀行休業日に休業する）"
-},
-{
-"id": "w1629",
-"pos": "名詞句",
-"exampleJa": "彼らは連休中に旅行を計画した。",
-"note": "類義語：three-day weekend, extended weekend\n表現：during the long weekend（連休中に）"
-},
-{
-"id": "w1630",
-"pos": "名詞句",
-"exampleJa": "従業員は法定休日に働くと追加の賃金を受け取る。",
-"note": "類義語：legal holiday, statutory day off\n表現：work on a statutory holiday（法定休日に働く）"
-},
-{
-"id": "w1631",
-"pos": "名詞句",
-"exampleJa": "時差のため、電話の予定を組むのが難しかった。",
-"note": "類義語：time difference, time disparity\n表現：time zone difference（時差）"
-},
-{
-"id": "w1632",
-"pos": "名詞句",
-"exampleJa": "春にはサマータイムのため時計を進める。",
-"note": "類義語：summer time, daylight-saving time\n表現：observe daylight saving time（サマータイムを実施する）"
-},
-{
-"id": "w1633",
-"pos": "名詞句",
-"exampleJa": "業務カレンダーには今後のすべての締め切りが記載されている。",
-"note": "類義語：work calendar, business schedule\n表現：business calendar（業務カレンダー）"
-},
-{
-"id": "w1634",
-"pos": "名詞句",
-"exampleJa": "会計カレンダーは標準的な暦年とは異なる。",
-"note": "類義語：financial calendar, accounting calendar\n表現：fiscal calendar（会計カレンダー）"
-},
-{
-"id": "w1635",
-"pos": "名詞句",
-"exampleJa": "導入期間によって、スタッフは新しいソフトウェアに慣れることができる。",
-"note": "類義語：introductory period, initial period\n表現：allow a lead-in period（導入期間を設ける）"
-},
-{
-"id": "w1636",
-"pos": "名詞句",
-"exampleJa": "銀行は支払いについて猶予期間の延長を認めた。",
-"note": "類義語：payment extension, grace period\n表現：grant a grace period extension（猶予期間の延長を認める）"
-},
-{
-"id": "w1637",
-"pos": "名詞句",
-"exampleJa": "消費者には契約を取り消すためのクーリングオフ期間がある。",
-"note": "類義語：cancellation period, reconsideration period\n表現：have a cooling-off period（クーリングオフ期間がある）"
-},
-{
-"id": "w1638",
-"pos": "名詞句",
-"exampleJa": "そのジムは新規会員に2週間の試用期間を提供している。",
-"note": "類義語：trial period, probationary period\n表現：offer a trial period（試用期間を提供する）"
-},
-{
-"id": "w1639",
-"pos": "名詞句",
-"exampleJa": "従業員は退職する前に2週間の予告期間を設けなければならない。",
-"note": "類義語：advance notice, notification period\n表現：give notice（退職の予告をする）"
-},
-{
-"id": "w1640",
-"pos": "名詞句",
-"exampleJa": "移行期間によって円滑な引き継ぎが可能になる。",
-"note": "類義語：transitional period, changeover period\n表現：smooth transition（円滑な移行）"
-},
-{
-"id": "w1641",
-"pos": "名詞句",
-"exampleJa": "新入社員がシステムを覚えるには順応期間が必要だ。",
-"note": "類義語：adaptation period, acclimation period\n表現：need an adjustment period（順応期間を必要とする）"
-},
-{
-"id": "w1642",
-"pos": "名詞句",
-"exampleJa": "その会社は立ち上げ期にさまざまな課題に直面した。",
-"note": "類義語：launch phase, initial phase\n表現：during the startup phase（立ち上げ期に）"
-},
-{
-"id": "w1643",
-"pos": "名詞句",
-"exampleJa": "その会社は現在、成長期にある。",
-"note": "類義語：expansion phase, development phase\n表現：be in the growth phase（成長期にある）"
-},
-{
-"id": "w1644",
-"pos": "名詞句",
-"exampleJa": "その製品は市場で成熟期に達した。",
-"note": "類義語：mature stage, maturity stage\n表現：reach the maturity phase（成熟期に達する）"
-},
-{
-"id": "w1645",
-"pos": "名詞句",
-"exampleJa": "新たな競合企業が現れた後、売上は衰退期に入った。",
-"note": "類義語：declining phase, downturn phase\n表現：enter a decline phase（衰退期に入る）"
-},
-{
-"id": "w1646",
-"pos": "名詞句",
-"exampleJa": "製品ライフサイクルを理解することは計画を立てるのに役立つ。",
-"note": "類義語：product cycle, life cycle\n表現：understand the product life cycle（製品ライフサイクルを理解する）"
-},
-{
-"id": "w1647",
-"pos": "名詞句",
-"exampleJa": "市場飽和によってその会社の成長は鈍化した。",
-"note": "類義語：market fullness, saturated market\n表現：market saturation（市場飽和）"
-},
-{
-"id": "w1648",
-"pos": "名詞句",
-"exampleJa": "その会社は市場で先行者利益を得た。",
-"note": "類義語：early-entry advantage, pioneer advantage\n表現：gain a first-mover advantage（先行者利益を得る）"
-},
-{
-"id": "w1649",
-"pos": "名詞句",
-"exampleJa": "後発参入者だったため、その企業は競争するために懸命に努力しなければならなかった。",
-"note": "類義語：latecomer, follower\n表現：as a late entrant（後発参入者として）"
-},
-{
-"id": "w1650",
-"pos": "名詞",
-"exampleJa": "彼女はページをまとめるためにホチキスを使った。",
-"note": "類義語：stapling machine, stapling device\n表現：use a stapler（ホチキスを使う）"
-},
-{
-"id": "w1651",
-"pos": "名詞句",
-"exampleJa": "ばらばらの用紙にはホチキスの針ではなくクリップを使ってください。",
-"note": "類義語：clip, binder clip\n表現：use a paper clip（クリップを使う）"
-},
-{
-"id": "w1652",
-"pos": "名詞",
-"exampleJa": "報告書は3穴バインダーに整理されている。",
-"note": "類義語：folder, file binder\n表現：three-ring binder（3穴バインダー）"
-},
-{
-"id": "w1653",
-"pos": "名詞",
-"exampleJa": "彼は書類をバインダーに入れるために穴あけパンチを使った。",
-"note": "類義語：hole puncher, punch\n表現：use a hole punch（穴あけパンチを使う）"
-},
-{
-"id": "w1654",
-"pos": "名詞",
-"exampleJa": "彼女は重要な部分に印を付けるために蛍光ペンを使った。",
-"note": "類義語：marker, marking pen\n表現：use a highlighter（蛍光ペンを使う）"
-},
-{
-"id": "w1655",
-"pos": "名詞句",
-"exampleJa": "封筒を封じるために粘着テープが使われた。",
-"note": "類義語：adhesive tape, sticky tape\n表現：seal an envelope（封筒を封じる）"
-},
-{
-"id": "w1656",
-"pos": "名詞",
-"exampleJa": "彼女は手紙を封筒に入れて封をした。",
-"note": "類義語：mailing envelope, cover\n表現：seal a letter in an envelope（手紙を封筒に入れて封をする）"
-},
-{
-"id": "w1657",
-"pos": "名詞句",
-"exampleJa": "彼は郵便局で切手を購入した。",
-"note": "類義語：stamp, postage\n表現：buy postage stamps（切手を買う）"
-},
-{
-"id": "w1658",
-"pos": "名詞",
-"exampleJa": "荷物は毎朝メールルームで仕分けされる。",
-"note": "類義語：mail office, mail department\n表現：sort packages（荷物を仕分けする）"
-},
-{
-"id": "w1659",
-"pos": "名詞",
-"exampleJa": "機密文書はシュレッダーを使って廃棄される。",
-"note": "類義語：paper shredder, document shredder\n表現：destroy confidential documents（機密文書を廃棄する）"
-},
-{
-"id": "w1660",
-"pos": "名詞句",
-"exampleJa": "彼女はファイルフォルダーを整理するためにラベルメーカーを使った。",
-"note": "類義語：label printer, labeling machine\n表現：use a label maker（ラベルメーカーを使う）"
-},
-{
-"id": "w1661",
-"pos": "名詞句",
-"exampleJa": "デスクオーガナイザーは彼女の備品を整頓しておくのに役立つ。",
-"note": "類義語：desk organizer, desktop organizer\n表現：keep supplies neat（備品を整頓しておく）"
-},
-{
-"id": "w1662",
-"pos": "名詞句",
-"exampleJa": "休憩室の掲示板にお知らせが掲示されている。",
-"note": "類義語：notice board, information board\n表現：post a notice on the bulletin board（掲示板にお知らせを掲示する）"
-},
-{
-"id": "w1663",
-"pos": "名詞句",
-"exampleJa": "休憩室のコーヒーメーカーは修理が必要だ。",
-"note": "類義語：coffee maker, coffee brewer\n表現：need repair（修理が必要である）"
-},
-{
-"id": "w1664",
-"pos": "名詞句",
-"exampleJa": "軽食は自動販売機で購入できる。",
-"note": "類義語：automatic vending machine, dispenser\n表現：be available from a vending machine（自動販売機で購入できる）"
-},
-{
-"id": "w1665",
-"pos": "名詞",
-"exampleJa": "従業員はよくウォータークーラーの近くで話をする。",
-"note": "類義語：water dispenser, drinking fountain\n表現：chat near the water cooler（ウォータークーラーの近くで話す）"
-},
-{
-"id": "w1666",
-"pos": "名詞",
-"exampleJa": "その会社はスペースを節約するためにホットデスキングを導入した。",
-"note": "類義語：flexible seating, shared desks\n表現：adopt hot desking（ホットデスキングを導入する）"
-},
-{
-"id": "w1667",
-"pos": "名詞句",
-"exampleJa": "会議には電話会議用回線にダイヤルインしてください。",
-"note": "類義語：conference line, teleconference line\n表現：dial into the conference bridge（電話会議用回線に接続する）"
-},
-{
-"id": "w1668",
-"pos": "名詞句",
-"exampleJa": "会議の議事録はすべての出席者にメールで送られた。",
-"note": "類義語：minutes, meeting record\n表現：take meeting minutes（議事録を取る）"
-},
-{
-"id": "w1669",
-"pos": "名詞句",
-"exampleJa": "アクション項目付き議事録には各タスクと担当者が記載されていた。",
-"note": "類義語：action log, action record\n表現：list each task and its owner（各タスクと担当者を記載する）"
-},
-{
-"id": "w1670",
-"pos": "名詞句",
-"exampleJa": "彼女は顧客との電話の後に要約メールを送った。",
-"note": "類義語：summary email, follow-up email\n表現：send a recap email（要約メールを送る）"
-},
-{
-"id": "w1671",
-"pos": "名詞句",
-"exampleJa": "マネージャーはプロジェクトの進捗報告を求めた。",
-"note": "類義語：progress update, status report\n表現：request a status update（進捗報告を求める）"
-},
-{
-"id": "w1672",
-"pos": "名詞句",
-"exampleJa": "各スプリントの終わりに進捗レポートを提出することになっている。",
-"note": "類義語：progress update, status report\n表現：submit a progress report（進捗レポートを提出する）"
-},
-{
-"id": "w1673",
-"pos": "名詞句",
-"exampleJa": "チームは2週間ごとにスプリント計画を行う。",
-"note": "類義語：sprint scheduling, sprint preparation\n表現：hold sprint planning（スプリント計画を行う）"
-},
-{
-"id": "w1674",
-"pos": "名詞句",
-"exampleJa": "新しい機能の要望はバックログ項目として追加される。",
-"note": "類義語：backlog task, backlog entry\n表現：add a backlog item（バックログ項目を追加する）"
-},
-{
-"id": "w1675",
-"pos": "名詞句",
-"exampleJa": "チームはカンバンボードを使ってタスクを管理している。",
-"note": "類義語：task board, workflow board\n表現：track tasks using a kanban board（カンバンボードを使ってタスクを管理する）"
-},
-{
-"id": "w1676",
-"pos": "名詞句",
-"exampleJa": "関係者は進捗を見るためにスプリントレビューに参加した。",
-"note": "類義語：sprint demonstration, sprint meeting\n表現：attend a sprint review（スプリントレビューに参加する）"
-},
-{
-"id": "w1677",
-"pos": "名詞句",
-"exampleJa": "チームは各スプリントの後に振り返りミーティングを行う。",
-"note": "類義語：retrospective, review meeting\n表現：hold a retrospective meeting（振り返りミーティングを行う）"
-},
-{
-"id": "w1678",
-"pos": "名詞句",
-"exampleJa": "スクラムマスターは毎日の短いミーティングの進行を務める。",
-"note": "類義語：Scrum facilitator, team facilitator\n表現：facilitate the daily standup（毎日のミーティングを進行する）"
-},
-{
-"id": "w1679",
-"pos": "名詞句",
-"exampleJa": "プロダクトオーナーは機能のバックログに優先順位を付ける。",
-"note": "類義語：product manager, product lead\n表現：prioritize the feature backlog（機能のバックログに優先順位を付ける）"
-},
-{
-"id": "w1680",
-"pos": "名詞句",
-"exampleJa": "各ユーザーストーリーは顧客の視点から機能を説明する。",
-"note": "類義語：user requirement, feature description\n表現：describe a feature from the customer's view（顧客の視点から機能を説明する）"
-},
-{
-"id": "w1681",
-"pos": "名詞句",
-"exampleJa": "開発者はバグトラッカーに問題を記録する。",
-"note": "類義語：issue tracker, bug log\n表現：log an issue（問題を記録する）"
-},
-{
-"id": "w1682",
-"pos": "名詞句",
-"exampleJa": "次回のソフトウェアリリースは6月に予定されている。",
-"note": "類義語：software update, software launch\n表現：schedule a software release（ソフトウェアリリースを予定する）"
-},
-{
-"id": "w1683",
-"pos": "名詞句",
-"exampleJa": "彼女は1年間のアパートの賃貸契約に署名した。",
-"note": "類義語：apartment rental, rental contract\n表現：sign an apartment lease（アパートの賃貸契約に署名する）"
-},
-{
-"id": "w1684",
-"pos": "名詞句",
-"exampleJa": "双方が賃貸契約書に署名した。",
-"note": "類義語：lease agreement, rental contract\n表現：sign a rental agreement（賃貸契約書に署名する）"
-},
-{
-"id": "w1685",
-"pos": "名詞句",
-"exampleJa": "退去時検査は金曜日に予定された。",
-"note": "類義語：move-out inspection, final inspection\n表現：schedule a move-out inspection（退去時検査を予定する）"
-},
-{
-"id": "w1686",
-"pos": "名詞句",
-"exampleJa": "彼女は水漏れしている蛇口の修理依頼を提出した。",
-"note": "類義語：repair request, service request\n表現：submit a maintenance request（修理依頼を提出する）"
-},
-{
-"id": "w1687",
-"pos": "名詞句",
-"exampleJa": "その建物には近隣住民から騒音苦情が寄せられた。",
-"note": "類義語：noise grievance, noise report\n表現：receive a noise complaint（騒音苦情を受ける）"
-},
-{
-"id": "w1688",
-"pos": "名詞句",
-"exampleJa": "彼らは安全性を高めるためにゲーテッドコミュニティへ引っ越した。",
-"note": "類義語：gated neighborhood, secured community\n表現：move into a gated community（ゲーテッドコミュニティに引っ越す）"
-},
-{
-"id": "w1689",
-"pos": "名詞",
-"exampleJa": "彼女は中心街の近くにコンドミニアムを購入した。",
-"note": "類義語：condo, apartment\n表現：buy a condominium（コンドミニアムを購入する）"
-},
-{
-"id": "w1690",
-"pos": "名詞句",
-"exampleJa": "不動産業者は土曜日に内覧会を開催した。",
-"note": "類義語：property viewing, house viewing\n表現：hold an open house（内覧会を開催する）"
-},
-{
-"id": "w1691",
-"pos": "名詞句",
-"exampleJa": "住宅検査によっていくつかの軽微な問題が明らかになった。",
-"note": "類義語：property inspection, house inspection\n表現：conduct a home inspection（住宅検査を行う）"
-},
-{
-"id": "w1692",
-"pos": "名詞句",
-"exampleJa": "住宅購入の決済日は延期された。",
-"note": "類義語：settlement date, completion date\n表現：closing date（決済日、契約完了日）"
-},
-{
-"id": "w1693",
-"pos": "名詞句",
-"exampleJa": "彼女は複数の住宅ローン貸付業者の金利を比較した。",
-"note": "類義語：mortgage provider, mortgage company\n表現：compare rates from mortgage lenders（住宅ローン貸付業者の金利を比較する）"
-},
-{
-"id": "w1694",
-"pos": "名詞句",
-"exampleJa": "利息のみ返済するローンでは、当初の月々の支払いを低くできる。",
-"note": "類義語：interest-only mortgage, interest-only financing\n表現：lower initial monthly payments（当初の月々の支払いを低くする）"
-},
-{
-"id": "w1695",
-"pos": "名詞句",
-"exampleJa": "彼らは安定性を求めて固定金利住宅ローンを選んだ。",
-"note": "類義語：fixed mortgage, fixed-interest mortgage\n表現：choose a fixed-rate mortgage（固定金利住宅ローンを選ぶ）"
-},
-{
-"id": "w1696",
-"pos": "名詞句",
-"exampleJa": "変動金利住宅ローンの金利は時間とともに変化する可能性がある。",
-"note": "類義語：variable-rate mortgage, variable-rate loan\n表現：adjustable-rate mortgage（変動金利住宅ローン）"
-},
-{
-"id": "w1697",
-"pos": "名詞句",
-"exampleJa": "彼らは住宅資産価値を担保にしてローンを組んだ。",
-"note": "類義語：property equity, housing equity\n表現：take out a loan against home equity（住宅資産価値を担保にローンを組む）"
-},
-{
-"id": "w1698",
-"pos": "名詞句",
-"exampleJa": "不動産鑑定によって住宅の市場価値が決定される。",
-"note": "類義語：property valuation, real estate valuation\n表現：determine market value（市場価値を決定する）"
-},
-{
-"id": "w1699",
-"pos": "名詞句",
-"exampleJa": "不動産ブローカーはより良い価格で交渉した。",
-"note": "類義語：real estate agent, property broker\n表現：negotiate a better price（より良い価格で交渉する）"
-},
-{
-"id": "w1700",
-"pos": "名詞句",
-"exampleJa": "売主側の不動産業者は複数の内覧を予定した。",
-"note": "類義語：seller's agent, listing broker\n表現：schedule a showing（内覧を予定する）"
-}
+  {
+    "id": "w1701",
+    "pos": "名詞",
+    "exampleJa": "買主側の不動産業者は購入者の利益を代表する。",
+    "note": "類義語：real estate agent, realtor\n表現：represent the interests of ～（～の利益を代表する）"
+  },
+  {
+    "id": "w1702",
+    "pos": "名詞",
+    "exampleJa": "その物件は不動産情報サービスに掲載された。",
+    "note": "類義語：listing service, property database\n表現：be listed on ～（～に掲載されている）"
+  },
+  {
+    "id": "w1703",
+    "pos": "名詞",
+    "exampleJa": "その家は、造園された庭によって外観の魅力が非常に高い。",
+    "note": "類義語：attractiveness, appeal\n表現：have great curb appeal（外観の魅力が非常に高い）"
+  },
+  {
+    "id": "w1704",
+    "pos": "名詞",
+    "exampleJa": "彼らは自分たちで改修するために要修理物件を購入した。",
+    "note": "類義語：renovation project, rundown property\n表現：renovate a fixer-upper（要修理物件を改修する）"
+  },
+  {
+    "id": "w1705",
+    "pos": "形容詞",
+    "exampleJa": "そのアパートは新しい設備が整っており、すぐに入居できる。",
+    "note": "類義語：ready for occupancy, habitable\n表現：be move-in ready（すぐに入居できる）"
+  },
+  {
+    "id": "w1706",
+    "pos": "名詞",
+    "exampleJa": "その開発業者は中心街の空き地を購入した。",
+    "note": "類義語：empty lot, undeveloped land\n表現：purchase a vacant lot（空き地を購入する）"
+  },
+  {
+    "id": "w1707",
+    "pos": "名詞",
+    "exampleJa": "その会社は中心街で小売スペースを探している。",
+    "note": "類義語：retail area, commercial space\n表現：look for retail space（小売スペースを探す）"
+  },
+  {
+    "id": "w1708",
+    "pos": "名詞",
+    "exampleJa": "その会社は経費を削減するためにシェアオフィスに移った。",
+    "note": "類義語：shared workspace, coworking space\n表現：cut costs（経費を削減する）"
+  },
+  {
+    "id": "w1709",
+    "pos": "名詞",
+    "exampleJa": "その新興企業は支援を受けるためにビジネスインキュベーターに参加した。",
+    "note": "類義語：startup incubator, business center\n表現：join an incubator（インキュベーターに参加する）"
+  },
+  {
+    "id": "w1710",
+    "pos": "名詞",
+    "exampleJa": "その会社はアクセラレータープログラムへの参加を認められた。",
+    "note": "類義語：startup program, development program\n表現：be accepted into a program（プログラムへの参加を認められる）"
+  },
+  {
+    "id": "w1711",
+    "pos": "名詞",
+    "exampleJa": "創業者は投資家向けにピッチデックを作成した。",
+    "note": "類義語：presentation, investor presentation\n表現：prepare a pitch deck（投資家向け資料を作成する）"
+  },
+  {
+    "id": "w1712",
+    "pos": "名詞",
+    "exampleJa": "投資家は取引の概要を記したタームシートを送った。",
+    "note": "類義語：term agreement, deal summary\n表現：outline the deal（取引の概要を示す）"
+  },
+  {
+    "id": "w1713",
+    "pos": "名詞",
+    "exampleJa": "資本構成表には各株主の所有割合が示されている。",
+    "note": "類義語：capitalization table, ownership table\n表現：show ownership percentage（所有割合を示す）"
+  },
+  {
+    "id": "w1714",
+    "pos": "名詞",
+    "exampleJa": "彼女は運転中、助手席に座った。",
+    "note": "類義語：front seat, passenger-side seat\n表現：sit in the passenger seat（助手席に座る）"
+  },
+  {
+    "id": "w1715",
+    "pos": "名詞",
+    "exampleJa": "彼は先週、運転免許証を更新した。",
+    "note": "類義語：driving license, driving permit\n表現：renew a driver's license（運転免許証を更新する）"
+  },
+  {
+    "id": "w1716",
+    "pos": "名詞",
+    "exampleJa": "警察はナンバープレートの番号を記録した。",
+    "note": "類義語：registration plate, vehicle plate\n表現：record a license plate number（ナンバープレートの番号を記録する）"
+  },
+  {
+    "id": "w1717",
+    "pos": "名詞",
+    "exampleJa": "自動車保険の料金は運転歴によって異なる。",
+    "note": "類義語：auto insurance, vehicle insurance\n表現：insurance rates（保険料率）"
+  },
+  {
+    "id": "w1718",
+    "pos": "名詞",
+    "exampleJa": "彼女は車を自動車修理工場に持って行った。",
+    "note": "類義語：garage, repair garage\n表現：take a car to a repair shop（車を修理工場に持っていく）"
+  },
+  {
+    "id": "w1719",
+    "pos": "名詞",
+    "exampleJa": "その修理工場ではオイル交換とタイヤローテーションを行った。",
+    "note": "類義語：oil replacement, lubricant change\n表現：perform an oil change（オイル交換を行う）"
+  },
+  {
+    "id": "w1720",
+    "pos": "名詞",
+    "exampleJa": "定期的なタイヤローテーションはタイヤの寿命を延ばす。",
+    "note": "類義語：tire repositioning, tire rotation service\n表現：extend the life of ～（～の寿命を延ばす）"
+  },
+  {
+    "id": "w1721",
+    "pos": "名詞",
+    "exampleJa": "整備士は摩耗したブレーキパッドを交換した。",
+    "note": "類義語：brake lining, brake component\n表現：replace worn brake pads（摩耗したブレーキパッドを交換する）"
+  },
+  {
+    "id": "w1722",
+    "pos": "名詞",
+    "exampleJa": "その車は高速道路でエンジントラブルを起こした。",
+    "note": "類義語：engine problem, mechanical trouble\n表現：have engine trouble（エンジントラブルを起こす）"
+  },
+  {
+    "id": "w1723",
+    "pos": "名詞",
+    "exampleJa": "ダッシュボードに警告灯が点灯した。",
+    "note": "類義語：warning indicator, alert light\n表現：a warning light appears（警告灯が点灯する）"
+  },
+  {
+    "id": "w1724",
+    "pos": "名詞",
+    "exampleJa": "彼らは給油するためにガソリンスタンドに立ち寄った。",
+    "note": "類義語：service station, filling station\n表現：stop at a gas station（ガソリンスタンドに立ち寄る）"
+  },
+  {
+    "id": "w1725",
+    "pos": "名詞",
+    "exampleJa": "今年は電気自動車の販売台数が増加した。",
+    "note": "類義語：electric car, EV\n表現：sales of electric vehicles（電気自動車の販売）"
+  },
+  {
+    "id": "w1726",
+    "pos": "名詞",
+    "exampleJa": "市は中心街に新しい充電ステーションを設置した。",
+    "note": "類義語：charging point, EV charging station\n表現：install charging stations（充電ステーションを設置する）"
+  },
+  {
+    "id": "w1727",
+    "pos": "名詞",
+    "exampleJa": "彼女は古いセダンをハイブリッド車に買い替えた。",
+    "note": "類義語：hybrid vehicle, hybrid automobile\n表現：trade in ～ for ～（～を下取りに出して～に買い替える）"
+  },
+  {
+    "id": "w1728",
+    "pos": "名詞",
+    "exampleJa": "彼は地元の自動車販売店で新車を購入した。",
+    "note": "類義語：car dealer, auto dealer\n表現：buy a car from a dealership（販売店で車を購入する）"
+  },
+  {
+    "id": "w1729",
+    "pos": "名詞",
+    "exampleJa": "その販売店は古い車に対して妥当な下取り価格を提示した。",
+    "note": "類義語：trade-in price, resale value\n表現：offer a trade-in value（下取り価格を提示する）"
+  },
+  {
+    "id": "w1730",
+    "pos": "名詞",
+    "exampleJa": "彼女はその車について3年間のリース契約に署名した。",
+    "note": "類義語：rental agreement, leasing contract\n表現：sign a lease agreement（リース契約に署名する）"
+  },
+  {
+    "id": "w1731",
+    "pos": "名詞",
+    "exampleJa": "その自動車ローンでは月300ドルの分割払いが必要だ。",
+    "note": "類義語：installment payment, monthly payment\n表現：make monthly installments（毎月分割払いをする）"
+  },
+  {
+    "id": "w1732",
+    "pos": "名詞",
+    "exampleJa": "頭金の額によってローン総額が減った。",
+    "note": "類義語：down payment, initial payment\n表現：make a down payment（頭金を支払う）"
+  },
+  {
+    "id": "w1733",
+    "pos": "名詞",
+    "exampleJa": "彼は車を購入するために自動車ローンを組んだ。",
+    "note": "類義語：car loan, vehicle loan\n表現：take out an auto loan（自動車ローンを組む）"
+  },
+  {
+    "id": "w1734",
+    "pos": "名詞",
+    "exampleJa": "その車は年次車両検査に合格した。",
+    "note": "類義語：vehicle check, car inspection\n表現：pass an inspection（検査に合格する）"
+  },
+  {
+    "id": "w1735",
+    "pos": "名詞",
+    "exampleJa": "その車は排出ガス検査に不合格となり、修理が必要だった。",
+    "note": "類義語：emissions inspection, exhaust test\n表現：fail an emissions test（排出ガス検査に不合格になる）"
+  },
+  {
+    "id": "w1736",
+    "pos": "名詞",
+    "exampleJa": "彼女はスピード違反で交通違反切符を切られた。",
+    "note": "類義語：traffic citation, speeding ticket\n表現：receive a traffic ticket（交通違反切符を受け取る）"
+  },
+  {
+    "id": "w1737",
+    "pos": "名詞",
+    "exampleJa": "彼はフロントガラスに駐車違反切符があるのを見つけた。",
+    "note": "類義語：parking citation, parking fine\n表現：get a parking ticket（駐車違反切符を切られる）"
+  },
+  {
+    "id": "w1738",
+    "pos": "名詞",
+    "exampleJa": "走行中の交通違反によって保険料が上がることがある。",
+    "note": "類義語：traffic offense, driving violation\n表現：raise insurance rates（保険料率を上げる）"
+  },
+  {
+    "id": "w1739",
+    "pos": "名詞",
+    "exampleJa": "彼らはその夜の外出のために指定運転者を決めた。",
+    "note": "類義語：designated chauffeur, sober driver\n表現：choose a designated driver（指定運転者を決める）"
+  },
+  {
+    "id": "w1740",
+    "pos": "名詞",
+    "exampleJa": "複数の乗客がいる車両は相乗り専用レーンを利用できる。",
+    "note": "類義語：carpool lane, HOV lane\n表現：use the carpool lane（相乗り専用レーンを利用する）"
+  },
+  {
+    "id": "w1741",
+    "pos": "名詞",
+    "exampleJa": "市は中心街で自転車シェアリングプログラムを開始した。",
+    "note": "類義語：bike-share program, bicycle-sharing service\n表現：launch a bike-sharing program（自転車シェアリングプログラムを開始する）"
+  },
+  {
+    "id": "w1742",
+    "pos": "名詞",
+    "exampleJa": "スクーターレンタルは市内の短距離移動で人気がある。",
+    "note": "類義語：scooter hire, scooter rental service\n表現：rent a scooter（スクーターを借りる）"
+  },
+  {
+    "id": "w1743",
+    "pos": "名詞",
+    "exampleJa": "彼女は空港へ行くために配車アプリを利用した。",
+    "note": "類義語：ride-sharing app, transportation app\n表現：use a ride-hailing app（配車アプリを利用する）"
+  },
+  {
+    "id": "w1744",
+    "pos": "名詞",
+    "exampleJa": "需要に応じた価格上昇のため、タクシー料金が上がった。",
+    "note": "類義語：taxi charge, cab fare\n表現：taxi fare increases（タクシー料金が上がる）"
+  },
+  {
+    "id": "w1745",
+    "pos": "名詞",
+    "exampleJa": "需要がピークになる時間帯にはサージプライシングが適用される。",
+    "note": "類義語：dynamic pricing, demand-based pricing\n表現：apply surge pricing（需要に応じた価格変動制を適用する）"
+  },
+  {
+    "id": "w1746",
+    "pos": "名詞",
+    "exampleJa": "タクシーの配車係は迎えに行く運転手を割り当てた。",
+    "note": "類義語：coordinator, dispatcher operator\n表現：assign a driver（運転手を割り当てる）"
+  },
+  {
+    "id": "w1747",
+    "pos": "名詞",
+    "exampleJa": "運転手は最適化された配送ルートに従う。",
+    "note": "類義語：delivery path, delivery itinerary\n表現：follow a delivery route（配送ルートに従う）"
+  },
+  {
+    "id": "w1748",
+    "pos": "名詞",
+    "exampleJa": "ラストマイル配送は、配送費用の中で最も高くつく部分であることが多い。",
+    "note": "類義語：final-mile delivery, last-leg delivery\n表現：last-mile delivery costs（ラストマイル配送費用）"
+  },
+  {
+    "id": "w1749",
+    "pos": "名詞",
+    "exampleJa": "その会社は小包のドローン配送を試験している。",
+    "note": "類義語：drone shipping, unmanned delivery\n表現：test drone delivery（ドローン配送を試験する）"
+  },
+  {
+    "id": "w1750",
+    "pos": "名詞",
+    "exampleJa": "自動運転車は市街地の道路で試験されている。",
+    "note": "類義語：self-driving vehicle, driverless car\n表現：test autonomous vehicles（自動運転車を試験する）"
+  },
+  {
+    "id": "w1751",
+    "pos": "名詞",
+    "exampleJa": "自動運転技術は安全性を向上させ続けている。",
+    "note": "類義語：autonomous driving technology, driverless technology\n表現：improve safety（安全性を向上させる）"
+  },
+  {
+    "id": "w1752",
+    "pos": "名詞",
+    "exampleJa": "彼女が近づいたちょうどその時、信号が赤に変わった。",
+    "note": "類義語：traffic light, stoplight\n表現：turn red（赤に変わる）"
+  },
+  {
+    "id": "w1753",
+    "pos": "名詞",
+    "exampleJa": "彼女は地元の小学校で教えている。",
+    "note": "類義語：primary school, grade school\n表現：teach at an elementary school（小学校で教える）"
+  },
+  {
+    "id": "w1754",
+    "pos": "名詞",
+    "exampleJa": "彼は昨年の春に中等学校を卒業した。",
+    "note": "類義語：high school, secondary education\n表現：graduate from secondary school（中等学校を卒業する）"
+  },
+  {
+    "id": "w1755",
+    "pos": "名詞",
+    "exampleJa": "彼女の両親は数学の家庭教師を雇った。",
+    "note": "類義語：private instructor, tutor\n表現：hire a private tutor（家庭教師を雇う）"
+  },
+  {
+    "id": "w1756",
+    "pos": "名詞",
+    "exampleJa": "彼はフランスの留学プログラムに参加した。",
+    "note": "類義語：study-abroad course, overseas study program\n表現：join a study abroad program（留学プログラムに参加する）"
+  },
+  {
+    "id": "w1757",
+    "pos": "名詞",
+    "exampleJa": "その大学は毎年数人の交換留学生を受け入れている。",
+    "note": "類義語：exchange scholar, visiting student\n表現：host exchange students（交換留学生を受け入れる）"
+  },
+  {
+    "id": "w1758",
+    "pos": "名詞",
+    "exampleJa": "彼女は海外留学のために学生ビザを申請した。",
+    "note": "類義語：student permit, study visa\n表現：apply for a student visa（学生ビザを申請する）"
+  },
+  {
+    "id": "w1759",
+    "pos": "名詞",
+    "exampleJa": "彼は経営学の大学院の学位を取得した。",
+    "note": "類義語：advanced degree, postgraduate degree\n表現：earn a graduate degree（大学院の学位を取得する）"
+  },
+  {
+    "id": "w1760",
+    "pos": "名詞",
+    "exampleJa": "学部課程を修了するには4年かかる。",
+    "note": "類義語：undergraduate course, bachelor's program\n表現：complete an undergraduate program（学部課程を修了する）"
+  },
+  {
+    "id": "w1761",
+    "pos": "名詞",
+    "exampleJa": "彼女は先月、博士論文の審査を受けた。",
+    "note": "類義語：doctoral thesis, dissertation\n表現：defend a dissertation（博士論文の審査・口頭試問を受ける）"
+  },
+  {
+    "id": "w1762",
+    "pos": "名詞",
+    "exampleJa": "彼女の論文指導教員は貴重な助言をしてくれた。",
+    "note": "類義語：academic advisor, research advisor\n表現：provide valuable feedback（貴重な助言をする）"
+  },
+  {
+    "id": "w1763",
+    "pos": "名詞",
+    "exampleJa": "彼は一流の学術誌に学術論文を発表した。",
+    "note": "類義語：research paper, scholarly article\n表現：publish an academic paper（学術論文を発表する）"
+  },
+  {
+    "id": "w1764",
+    "pos": "名詞",
+    "exampleJa": "各教員は1学期に2つの授業を担当する。",
+    "note": "類義語：professor, instructor\n表現：teach a course（授業を担当する）"
+  },
+  {
+    "id": "w1765",
+    "pos": "名詞",
+    "exampleJa": "学部長は新しい授業を承認した。",
+    "note": "類義語：department head, department director\n表現：approve a new course（新しい授業を承認する）"
+  },
+  {
+    "id": "w1766",
+    "pos": "名詞",
+    "exampleJa": "学生は支援を受けるために学生部長に相談できる。",
+    "note": "類義語：student affairs dean, student services dean\n表現：meet with the dean（学部長・部長と面談する）"
+  },
+  {
+    "id": "w1767",
+    "pos": "名詞",
+    "exampleJa": "そのキャンパス施設には新しい科学棟が含まれている。",
+    "note": "類義語：campus building, university facility\n表現：campus facilities（キャンパス施設）"
+  },
+  {
+    "id": "w1768",
+    "pos": "名詞",
+    "exampleJa": "新入生は寮に住むことが義務付けられている。",
+    "note": "類義語：residence hall, student residence\n表現：live in a dormitory（寮に住む）"
+  },
+  {
+    "id": "w1769",
+    "pos": "名詞",
+    "exampleJa": "学生たちは授業の合間に学生会館に集まる。",
+    "note": "類義語：student center, student center building\n表現：gather at the student union（学生会館に集まる）"
+  },
+  {
+    "id": "w1770",
+    "pos": "名詞",
+    "exampleJa": "カフェテリアでは2時まで昼食を提供している。",
+    "note": "類義語：caf\u00e9, dining hall\n表現：serve lunch（昼食を提供する）"
+  },
+  {
+    "id": "w1771",
+    "pos": "名詞",
+    "exampleJa": "学生は複数の食事プランから選ぶことができる。",
+    "note": "類義語：meal program, dining plan\n表現：choose from several options（いくつかの選択肢から選ぶ）"
+  },
+  {
+    "id": "w1772",
+    "pos": "名詞",
+    "exampleJa": "彼女は今も学生ローンを返済している。",
+    "note": "類義語：education loan, student debt\n表現：pay off a student loan（学生ローンを完済する）"
+  },
+  {
+    "id": "w1773",
+    "pos": "名詞",
+    "exampleJa": "奨学金に関する情報については学生支援課を訪ねてください。",
+    "note": "類義語：financial aid department, student aid office\n表現：scholarship information（奨学金情報）"
+  },
+  {
+    "id": "w1774",
+    "pos": "名詞",
+    "exampleJa": "各プログラムには独自の入学要件がある。",
+    "note": "類義語：admission criterion, entry requirement\n表現：meet admission requirements（入学要件を満たす）"
+  },
+  {
+    "id": "w1775",
+    "pos": "名詞",
+    "exampleJa": "学生は出願するために標準化テストを受けなければならない。",
+    "note": "類義語：standardized examination, standardized assessment\n表現：take a standardized test（標準化テストを受ける）"
+  },
+  {
+    "id": "w1776",
+    "pos": "名詞",
+    "exampleJa": "彼は入学試験のために何か月も勉強した。",
+    "note": "類義語：admission exam, entrance test\n表現：study for an entrance exam（入学試験の勉強をする）"
+  },
+  {
+    "id": "w1777",
+    "pos": "名詞",
+    "exampleJa": "彼女のGPAは優等生名簿に載る基準を満たしていた。",
+    "note": "類義語：GPA, grade average\n表現：grade point average（成績平均点）"
+  },
+  {
+    "id": "w1778",
+    "pos": "名詞",
+    "exampleJa": "彼は成績の悪い学期の後、学業上の保護観察処分を受けた。",
+    "note": "類義語：academic warning, scholastic probation\n表現：be placed on academic probation（学業上の保護観察処分を受ける）"
+  },
+  {
+    "id": "w1779",
+    "pos": "名詞",
+    "exampleJa": "彼女はいくつかの課外活動に参加している。",
+    "note": "類義語：extracurricular program, after-school activity\n表現：participate in extracurricular activities（課外活動に参加する）"
+  },
+  {
+    "id": "w1780",
+    "pos": "名詞",
+    "exampleJa": "彼は生徒会長に選出された。",
+    "note": "類義語：student government, student association\n表現：be elected president（会長に選出される）"
+  },
+  {
+    "id": "w1781",
+    "pos": "名詞",
+    "exampleJa": "家族は卒業式のために集まった。",
+    "note": "類義語：graduation ceremony, commencement\n表現：attend a commencement ceremony（卒業式に出席する）"
+  },
+  {
+    "id": "w1782",
+    "pos": "名詞",
+    "exampleJa": "同窓会は毎年、同窓会を開催している。",
+    "note": "類義語：alumni group, graduates' association\n表現：organize an annual reunion（毎年の同窓会を開催する）"
+  },
+  {
+    "id": "w1783",
+    "pos": "名詞",
+    "exampleJa": "先週の金曜日に経済学に関するゲスト講義が行われた。",
+    "note": "類義語：guest talk, invited lecture\n表現：give a guest lecture（ゲスト講義を行う）"
+  },
+  {
+    "id": "w1784",
+    "pos": "名詞",
+    "exampleJa": "クラスは科学博物館へ校外学習に出かけた。",
+    "note": "類義語：educational trip, excursion\n表現：go on a field trip（校外学習に行く）"
+  },
+  {
+    "id": "w1785",
+    "pos": "名詞",
+    "exampleJa": "彼らは期末試験の前に勉強会を作った。",
+    "note": "類義語：study session, study circle\n表現：form a study group（勉強会を作る）"
+  },
+  {
+    "id": "w1786",
+    "pos": "名詞",
+    "exampleJa": "チューター指導センターでは文章作成について無料で支援している。",
+    "note": "類義語：tutoring center, academic support center\n表現：offer free help（無料で支援を提供する）"
+  },
+  {
+    "id": "w1787",
+    "pos": "名詞",
+    "exampleJa": "その学校は新入生向けのピアメンタリングプログラムを始めた。",
+    "note": "類義語：peer support, peer guidance\n表現：peer mentoring program（ピアメンタリングプログラム）"
+  },
+  {
+    "id": "w1788",
+    "pos": "名詞",
+    "exampleJa": "効果的なクラス運営は生徒の集中力を高める。",
+    "note": "類義語：class control, classroom administration\n表現：improve student focus（生徒の集中力を高める）"
+  },
+  {
+    "id": "w1789",
+    "pos": "名詞",
+    "exampleJa": "その教師は詳細な授業計画を作成した。",
+    "note": "類義語：teaching plan, instructional plan\n表現：prepare a lesson plan（授業計画を作成する）"
+  },
+  {
+    "id": "w1790",
+    "pos": "名詞",
+    "exampleJa": "ティーチングアシスタントは宿題を採点した。",
+    "note": "類義語：teaching aide, instructional assistant\n表現：grade homework（宿題を採点する）"
+  },
+  {
+    "id": "w1791",
+    "pos": "名詞",
+    "exampleJa": "代理教員がその日の授業を担当した。",
+    "note": "類義語：replacement teacher, relief teacher\n表現：cover a class（授業を代わりに担当する）"
+  },
+  {
+    "id": "w1792",
+    "pos": "名詞",
+    "exampleJa": "その包装は再生素材で作られている。",
+    "note": "類義語：recycled substance, reclaimed material\n表現：be made from recycled material（再生素材で作られている）"
+  },
+  {
+    "id": "w1793",
+    "pos": "名詞",
+    "exampleJa": "そのオフィスはキッチンに堆肥容器を設置した。",
+    "note": "類義語：compost container, composting bin\n表現：add a compost bin（堆肥容器を設置する）"
+  },
+  {
+    "id": "w1794",
+    "pos": "名詞",
+    "exampleJa": "市は使い捨てプラスチック製の袋を禁止した。",
+    "note": "類義語：disposable plastic, throwaway plastic\n表現：ban single-use plastic bags（使い捨てプラスチック袋を禁止する）"
+  },
+  {
+    "id": "w1795",
+    "pos": "名詞",
+    "exampleJa": "彼女は昼食のために再利用可能な容器を持ってくる。",
+    "note": "類義語：reusable vessel, refillable container\n表現：bring a reusable container（再利用可能な容器を持ってくる）"
+  },
+  {
+    "id": "w1796",
+    "pos": "名詞",
+    "exampleJa": "その建物は厳しい省エネルギーのガイドラインに従っている。",
+    "note": "類義語：energy efficiency, energy saving\n表現：energy conservation measures（省エネルギー対策）"
+  },
+  {
+    "id": "w1797",
+    "pos": "名詞",
+    "exampleJa": "干ばつの間は節水が重要である。",
+    "note": "類義語：water saving, water preservation\n表現：water conservation measures（節水対策）"
+  },
+  {
+    "id": "w1798",
+    "pos": "名詞",
+    "exampleJa": "そのオフィスはグリーンビルディング認証を取得した。",
+    "note": "類義語：green building standard, environmental building certification\n表現：receive certification（認証を取得する）"
+  },
+  {
+    "id": "w1799",
+    "pos": "名詞",
+    "exampleJa": "その航空会社はフライト向けのカーボンオフセットプログラムを提供している。",
+    "note": "類義語：carbon compensation, emissions offset\n表現：carbon offset program（カーボンオフセットプログラム）"
+  },
+  {
+    "id": "w1800",
+    "pos": "名詞",
+    "exampleJa": "建設前に環境影響評価が実施された。",
+    "note": "類義語：environmental assessment, environmental review\n表現：conduct an environmental impact assessment（環境影響評価を実施する）"
+  }
 ]

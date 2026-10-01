@@ -1,0 +1,298 @@
+[
+ {
+  "id": "r178",
+  "passage": "Notice: New Cafeteria Payment System\n\nStarting next month, our cafeteria will transition to a cashless payment system. Employees will be able to pay using their employee ID badge, which can be pre-loaded with funds through the company portal, in addition to standard credit and debit cards.\n\nThis change is intended to speed up checkout lines during peak lunch hours. Employees who prefer to continue using cash may do so at a designated cash-only register, though wait times may be longer at that station.\n\nA short guide on how to load funds onto your badge will be emailed to all staff this week.",
+  "passage2": "To: cafeteria@company.com\nFrom: r.esposito@company.com\nSubject: Question about badge payments\n\nHello,\n\nI read the notice about the new cashless system and wanted to ask a couple of questions. First, is there a minimum amount I need to load onto my badge, or can I add any amount I choose?\n\nSecond, if I accidentally load too much money, is it possible to get a refund for the unused balance?\n\nThank you,\nRosa Esposito",
+  "passage3": "To: r.esposito@company.com\nFrom: cafeteria@company.com\nSubject: RE: Question about badge payments\n\nHi Rosa,\n\nThanks for reaching out! There is no minimum amount required — you can load as little as $5 or as much as $200 at a time through the company portal.\n\nRegarding refunds, yes, any unused balance can be refunded at the end of each quarter by submitting a request through the same portal. Balances under $10 will simply roll over to the next quarter automatically if no refund is requested.\n\nLet us know if you have any other questions before the system launches!\n\nBest,\nCafeteria Services",
+  "questions": [
+   {
+    "id": "r178q1",
+    "question": "What change is being made to the cafeteria?",
+    "choices": [
+     "New menu items",
+     "A cashless payment system",
+     "Extended hours",
+     "A new location"
+    ]
+   },
+   {
+    "id": "r178q2",
+    "question": "What option remains for employees who prefer cash?",
+    "choices": [
+     "Cash is no longer accepted at all",
+     "A designated cash-only register",
+     "They must pay online in advance",
+     "Cash payments require manager approval"
+    ]
+   },
+   {
+    "id": "r178q3",
+    "question": "Why is Rosa Esposito writing the email?",
+    "choices": [
+     "To complain about the new system",
+     "To ask about loading funds and refunds",
+     "To request a refund immediately",
+     "To report a lost badge"
+    ]
+   },
+   {
+    "id": "r178q4",
+    "question": "What is the minimum amount that can be loaded?",
+    "choices": [
+     "There is no minimum",
+     "$5",
+     "$10",
+     "$20"
+    ]
+   },
+   {
+    "id": "r178q5",
+    "question": "What happens to balances under $10 if no refund is requested?",
+    "choices": [
+     "They are forfeited",
+     "They roll over to the next quarter",
+     "They are donated to charity",
+     "They expire immediately"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r179",
+  "passage": "PeakTeam Training — Corporate Team-Building Programs\n\nStrengthen your team with PeakTeam's customized workshops, designed to improve communication, collaboration, and problem-solving skills. Programs range from half-day workshops to multi-day retreats, held either at our outdoor facility or on-site at your office.\n\nOur most popular package, the Full-Day Challenge, combines outdoor activities with guided reflection sessions and costs $150 per participant, with discounts available for groups over 30 people.\n\nContact us at info@peakteam.com to schedule a consultation and receive a customized proposal for your organization.",
+  "passage2": "To: info@peakteam.com\nFrom: c.mbeki@novacorp.com\nSubject: Team-building inquiry for 35 employees\n\nHello,\n\nI'm reaching out on behalf of NovaCorp to inquire about your Full-Day Challenge program for a group of 35 employees. Could you let me know what the group discount would bring the per-person cost down to?\n\nAlso, we would prefer to hold the event on-site at our office rather than your outdoor facility. Is that an option for this particular program?\n\nThank you,\nChidi Mbeki",
+  "passage3": "To: c.mbeki@novacorp.com\nFrom: info@peakteam.com\nSubject: RE: Team-building inquiry for 35 employees\n\nDear Chidi,\n\nThank you for your interest! For groups of 30 or more, we offer a 15% discount, which would bring the Full-Day Challenge down to $127.50 per person for your group of 35.\n\nRegarding location, the Full-Day Challenge is specifically designed around our outdoor facility's equipment and activities, so it isn't available on-site. However, we do offer a similar on-site program called the Collaboration Workshop, which covers many of the same skills in an indoor setting. I'd be happy to send you more details if you're interested.\n\nBest regards,\nPeakTeam Training Team",
+  "questions": [
+   {
+    "id": "r179q1",
+    "question": "What does PeakTeam Training offer?",
+    "choices": [
+     "IT consulting",
+     "Team-building workshops",
+     "Legal services",
+     "Catering services"
+    ]
+   },
+   {
+    "id": "r179q2",
+    "question": "How much does the Full-Day Challenge cost per participant without a discount?",
+    "choices": [
+     "$100",
+     "$127.50",
+     "$150",
+     "$200"
+    ]
+   },
+   {
+    "id": "r179q3",
+    "question": "Why is Chidi Mbeki writing the email?",
+    "choices": [
+     "To cancel a booking",
+     "To inquire about pricing and location options",
+     "To request a refund",
+     "To complain about a past event"
+    ]
+   },
+   {
+    "id": "r179q4",
+    "question": "What discount does NovaCorp qualify for?",
+    "choices": [
+     "5%",
+     "10%",
+     "15%",
+     "20%"
+    ]
+   },
+   {
+    "id": "r179q5",
+    "question": "Why can't the Full-Day Challenge be held on-site?",
+    "choices": [
+     "It requires special outdoor equipment",
+     "It's too expensive",
+     "It requires overnight stays",
+     "The company doesn't offer on-site programs"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r180",
+  "passage": "InsightWorks is hiring a Data Analyst to join our growing analytics team. The role involves cleaning and analyzing large datasets, building dashboards, and presenting findings to stakeholders across the company.\n\nThe ideal candidate has experience with SQL and data visualization tools such as Tableau or Power BI. A background in statistics or a related field is preferred but not required if you have equivalent hands-on experience.\n\nThis is a full-time hybrid position with three days in-office. Send your resume and a brief writing sample to jobs@insightworks.com.",
+  "questions": [
+   {
+    "id": "r180q1",
+    "question": "What does the role involve?",
+    "choices": [
+     "Managing a sales team",
+     "Cleaning and analyzing datasets",
+     "Designing marketing materials",
+     "Writing software code"
+    ]
+   },
+   {
+    "id": "r180q2",
+    "question": "What tools are mentioned as useful?",
+    "choices": [
+     "Photoshop and Illustrator",
+     "Tableau or Power BI",
+     "Microsoft Word",
+     "AutoCAD"
+    ]
+   },
+   {
+    "id": "r180q3",
+    "question": "What is the work arrangement?",
+    "choices": [
+     "Fully remote",
+     "Hybrid, three days in-office",
+     "Fully on-site",
+     "Freelance"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r181",
+  "passage": "Please be advised that a mandatory fire drill will take place this Thursday at 10 AM. When the alarm sounds, all employees should proceed calmly to the nearest marked exit and gather at the designated meeting point in the parking lot.\n\nDo not use the elevators during the drill. Floor wardens will be present to guide employees and confirm that everyone has evacuated safely.\n\nThe drill is expected to last approximately 15 minutes. Regular activities will resume immediately afterward.",
+  "questions": [
+   {
+    "id": "r181q1",
+    "question": "When will the fire drill take place?",
+    "choices": [
+     "Wednesday at 9 AM",
+     "Thursday at 10 AM",
+     "Friday at noon",
+     "Monday morning"
+    ]
+   },
+   {
+    "id": "r181q2",
+    "question": "What should employees NOT do during the drill?",
+    "choices": [
+     "Use the stairs",
+     "Use the elevators",
+     "Leave their desks",
+     "Bring personal items"
+    ]
+   },
+   {
+    "id": "r181q3",
+    "question": "How long is the drill expected to last?",
+    "choices": [
+     "5 minutes",
+     "15 minutes",
+     "30 minutes",
+     "1 hour"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r182",
+  "passage": "After 25 years in business, Bell & Ivy Bookshop will close its physical storefront next month, but owner Grace Bell announced the store will continue operating exclusively online. Bell cited rising rent costs and changing shopping habits as the main reasons behind the decision.\n\nLoyal customers have expressed disappointment about losing the neighborhood gathering spot, though many have also praised Bell's efforts to preserve the business in a new form. The online store will feature the same curated selection of independent titles the shop was known for.\n\nA farewell event is planned for the shop's final week, including author readings and a storewide clearance sale.",
+  "questions": [
+   {
+    "id": "r182q1",
+    "question": "What is happening to Bell & Ivy Bookshop?",
+    "choices": [
+     "It is expanding to a new location",
+     "It is closing its physical store and moving online",
+     "It is being sold to a new owner",
+     "It is closing permanently"
+    ]
+   },
+   {
+    "id": "r182q2",
+    "question": "What reasons did the owner give?",
+    "choices": [
+     "Low sales",
+     "Rising rent and changing shopping habits",
+     "Retirement",
+     "A new business opportunity"
+    ]
+   },
+   {
+    "id": "r182q3",
+    "question": "What will happen during the shop's final week?",
+    "choices": [
+     "A renovation",
+     "A farewell event with author readings and a sale",
+     "A private auction",
+     "Nothing special"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r183",
+  "passage": "Hi Team,\n\nAs we start the new quarter, I'd like to schedule a goal-setting meeting for this Wednesday at 10 AM to review our objectives and align on priorities. Please come prepared with two or three goals you'd like to focus on for your role.\n\nWe'll also spend some time discussing the resources you might need to achieve these goals. The meeting should take about an hour.\n\nLet me know if this time doesn't work for you, and we'll find an alternative.\n\nThanks,\nRegina",
+  "questions": [
+   {
+    "id": "r183q1",
+    "question": "What is the purpose of the meeting?",
+    "choices": [
+     "To review the annual budget",
+     "To review objectives and align on priorities",
+     "To announce layoffs",
+     "To celebrate a product launch"
+    ]
+   },
+   {
+    "id": "r183q2",
+    "question": "What should team members bring?",
+    "choices": [
+     "A written report",
+     "Two or three goals for their role",
+     "Their laptops only",
+     "A budget proposal"
+    ]
+   },
+   {
+    "id": "r183q3",
+    "question": "How long will the meeting last?",
+    "choices": [
+     "30 minutes",
+     "About an hour",
+     "Two hours",
+     "All day"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "r184",
+  "passage": "We are pleased to announce an expansion of our employee mental health support services. Starting next month, all employees will have access to eight free counseling sessions per year through our employee assistance program, up from the previous four.\n\nSessions can be scheduled confidentially through a third-party provider, and neither HR nor your manager will have access to details about your participation. In addition, we will be offering monthly stress management workshops open to all staff.\n\nWe encourage everyone to take advantage of these resources as needed, and we remain committed to supporting employee wellbeing.",
+  "questions": [
+   {
+    "id": "r184q1",
+    "question": "What is being expanded?",
+    "choices": [
+     "Vacation days",
+     "Mental health support services",
+     "Health insurance coverage",
+     "Parental leave"
+    ]
+   },
+   {
+    "id": "r184q2",
+    "question": "How many free counseling sessions will employees now have?",
+    "choices": [
+     "Four",
+     "Six",
+     "Eight",
+     "Twelve"
+    ]
+   },
+   {
+    "id": "r184q3",
+    "question": "Who has access to details about an employee's participation?",
+    "choices": [
+     "HR",
+     "The employee's manager",
+     "Neither HR nor the manager",
+     "All department heads"
+    ]
+   }
+  ]
+ }
+]
