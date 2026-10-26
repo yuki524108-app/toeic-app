@@ -11,6 +11,10 @@ import {
 } from "../lib/studyQueue";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
 import { QuestionDetail, PassageDetail } from "../components/StudyDetail";
+import { Announce } from "../components/Announce";
+import { answerLabel, verdictMessage } from "../lib/announce";
+import { FocusLabel } from "../components/FocusLabel";
+import { MissReasonPicker } from "../components/MissReasonPicker";
 
 // filterPassagesByMode は questions フィールドを期待するため、blanks を questions として扱うラッパー
 type PassageWithQuestions = Part6Passage & {
@@ -91,9 +95,9 @@ export default function Part6Study({
         <Link to="/" className="text-sm text-(--color-muted)">
           ← ホーム
         </Link>
-        <span className="text-xs text-(--color-muted)">
+        <FocusLabel changeKey={passageIndex} className="text-xs text-(--color-muted)">
           {modeLabel[mode]} ・ {passageIndex + 1} / {queue.length}
-        </span>
+        </FocusLabel>
       </div>
 
       <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
@@ -167,6 +171,14 @@ export default function Part6Study({
               </div>
               {selected !== undefined && (
                 <>
+                  <Announce
+                    message={`空欄 (${bi + 1})。${verdictMessage(
+                      selected === blank.answer,
+                      answerLabel(blank.choices, blank.answer),
+                      blank.explanation
+                    )}`}
+                  />
+                  {selected !== blank.answer && <MissReasonPicker itemId={blank.id} />}
                   <p className="whitespace-pre-line mt-3 border-t border-(--color-line) pt-2 text-xs leading-relaxed text-(--color-muted)">
                     {blank.explanation}
                   </p>

@@ -1,15 +1,22 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import listeningPart2Questions from "../data/listeningPart2.json";
 import type { AppData, ListeningPart2Question, ProgressRecord } from "../types";
 import { updateProgress } from "../lib/spacedRepetition";
 import { filterByMode, parseStudyMode, modeLabel, emptyMessage } from "../lib/studyQueue";
-import { isTTSSupported, speakSequence, stopSpeaking } from "../lib/tts";
+import { isTTSSupported, speakSequence } from "../lib/tts";
+import { useAudioPlayer } from "../lib/useAudioPlayer";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
+import { AudioControls } from "../components/AudioControls";
+import { Announce } from "../components/Announce";
+import { answerLabel, verdictMessage } from "../lib/announce";
+import { FocusLabel } from "../components/FocusLabel";
+import { MissReasonPicker } from "../components/MissReasonPicker";
+import { BridgePanel } from "../components/BridgePanel";
+import { ShadowingPanel } from "../components/ShadowingPanel";
 
 const questions = listeningPart2Questions as ListeningPart2Question[];
 const CHOICE_LABELS = ["A", "B", "C"] as const;
-const RATES = [0.75, 1, 1.25] as const;
 
 export default function ListeningPart2Study({
   data,
@@ -32,50 +39,27 @@ export default function ListeningPart2Study({
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [sessionCorrect, setSessionCorrect] = useState(0);
-  const [rate, setRate] = useState<number>(1);
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [playingSegment, setPlayingSegment] = useState<number | null>(null);
-  const [hasPlayedOnce, setHasPlayedOnce] = useState(false);
-  const stoppedRef = useRef({ current: false });
+  const player = useAudioPlayer();
+  const { reset, stop: handleStop } = player;
 
   const current = queue[index];
   const isDone = index >= queue.length;
   const isBookmarked = current ? data.bookmarks.includes(current.id) : false;
 
-  // 問題が切り替わったら再生状態をリセットし、直前の音声を止める
+  // 問題が切り替わったら再生状態をリセットし、直前の音声を止める（離脱時の停止は useAudioPlayer が行う）
   useEffect(() => {
-    stopSpeaking();
-    stoppedRef.current.current = true;
-    setIsPlaying(false);
-    setPlayingSegment(null);
-    setHasPlayedOnce(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [current?.id]);
+    reset();
+  }, [current?.id, reset]);
 
-  // ページ離脱時に音声を止める
-  useEffect(() => {
-    return () => stopSpeaking();
-  }, []);
-
-  async function handlePlay() {
-    if (!current || isPlaying) return;
-    stoppedRef.current.current = false;
-    setIsPlaying(true);
-    setHasPlayedOnce(true);
-    await speakSequence([current.question, ...current.choices], rate, {
-      pauseMs: 700,
-      onSegmentStart: (i) => setPlayingSegment(i),
-      stoppedRef: stoppedRef.current,
-    });
-    setIsPlaying(false);
-    setPlayingSegment(null);
-  }
-
-  function handleStop() {
-    stoppedRef.current.current = true;
-    stopSpeaking();
-    setIsPlaying(false);
-    setPlayingSegment(null);
+  function handlePlay() {
+    if (!current) return;
+    player.play(({ rate: playRate, stoppedRef, onIndex }) =>
+      speakSequence([current.question, ...current.choices], playRate, {
+        pauseMs: 700,
+        onSegmentStart: onIndex,
+        stoppedRef,
+      })
+    );
   }
 
   function handleSelect(choiceIndex: number) {
@@ -115,9 +99,9 @@ export default function ListeningPart2Study({
         <Link to="/" className="text-sm text-(--color-muted)">
           ← ホーム
         </Link>
-        <span className="text-xs text-(--color-muted)">
+        <FocusLabel changeKey={index} className="text-xs text-(--color-muted)">
           {modeLabel[mode]} ・ Q{index + 1} / {queue.length}
-        </span>
+        </FocusLabel>
       </div>
 
       {!ttsSupported && (
@@ -142,42 +126,12 @@ export default function ListeningPart2Study({
           </p>
 
           {ttsSupported ? (
-            <div className="mt-5 flex flex-col items-center">
-              <button
-                onClick={isPlaying ? handleStop : handlePlay}
-                className="flex h-20 w-20 items-center justify-center rounded-full bg-(--color-ink) text-(--color-paper) transition-colors active:opacity-80"
-                aria-label={isPlaying ? "停止" : "再生する"}
-              >
-                {isPlaying ? <StopIcon /> : <PlayIcon />}
-              </button>
-              <p className="mt-3 text-xs text-(--color-muted)">
-                {isPlaying
-                  ? playingSegment === 0
-                    ? "設問を再生中…"
-                    : playingSegment !== null
-                    ? `選択肢 ${CHOICE_LABELS[playingSegment - 1]} を再生中…`
-                    : "再生中…"
-                  : hasPlayedOnce
-                  ? "もう一度再生する"
-                  : "タップして再生"}
-              </p>
-
-              <div className="mt-4 flex gap-2">
-                {RATES.map((r) => (
-                  <button
-                    key={r}
-                    onClick={() => setRate(r)}
-                    className={`rounded-full border px-3 py-1 text-xs transition-colors ${
-                      rate === r
-                        ? "border-(--color-gold) bg-(--color-gold-soft) text-(--color-ink)"
-                        : "border-(--color-line) text-(--color-muted)"
-                    }`}
-                  >
-                    {r}x
-                  </button>
-                ))}
-              </div>
-            </div>
+            <AudioControls
+ player={player}
+ idleLabel="タップして再生"
+ playingLabel={(i) => i === 0 ? "設問を再生中…" : i !== null ? `選択肢 ${CHOICE_LABELS[i - 1]} を再生中…` : null}
+ onPlay={handlePlay}
+ />
           ) : (
             <div className="mt-4 space-y-2 text-sm leading-relaxed text-(--color-ink)">
               <p>{current.question}</p>
@@ -225,7 +179,24 @@ export default function ListeningPart2Study({
       </div>
 
       {selected !== null && (
-        <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+        <div role="region" aria-label="解説" className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+          <Announce
+            message={verdictMessage(
+              selected === current.answer,
+              answerLabel(current.choices, current.answer),
+              current.explanation
+            )}
+          />
+          {selected !== current.answer && <MissReasonPicker itemId={current.id} />}
+          {selected !== current.answer && (
+            <BridgePanel kind="listeningPart2" itemId={current.id} record={data.progress[current.id]} />
+          )}
+          <ShadowingPanel
+            lines={[
+              { speaker: "Question", text: current.question },
+              { speaker: "Answer", text: current.choices[current.answer] },
+            ]}
+          />
           <p className="text-xs font-medium tracking-wide text-(--color-muted)">
             設問（スクリプト）
           </p>
@@ -244,21 +215,5 @@ export default function ListeningPart2Study({
         </div>
       )}
     </div>
-  );
-}
-
-function PlayIcon() {
-  return (
-    <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M8 5.14v13.72a1 1 0 0 0 1.53.85l10.68-6.86a1 1 0 0 0 0-1.7L9.53 4.29A1 1 0 0 0 8 5.14Z" />
-    </svg>
-  );
-}
-
-function StopIcon() {
-  return (
-    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
-      <rect x="6" y="6" width="12" height="12" rx="1.5" />
-    </svg>
   );
 }

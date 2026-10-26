@@ -138,7 +138,20 @@ export type ProgressRecord = {
   nextReviewDate: string; // ISO date (YYYY-MM-DD)
   lastAnsweredAt: string; // ISO datetime
   isCorrect: boolean;
+  // 通算の挑戦回数・間違えた回数。履歴機能（2.1.27）より前のデータには無い（無いときは、記録があれば1回挑戦・直近が不正解なら1回間違えた、として扱う）
+  attempts?: number;
+  wrongCount?: number;
+  // 間違えた理由の通算の記録数（2.1.30）。理由を選んだ間違いだけを数える。省略可
+  reasonCounts?: Partial<Record<MissReason, number>>;
+  // 直近の解答にかかった秒数（問題を表示してから解答までの、画面が見えていた時間。2.1.33）。測っていない画面では省略
+  lastElapsedSec?: number;
 };
+
+/** 解答のときの確信度。「あてずっぽう・うろ覚え・ヒントを使った」正解は unsure として、短い間隔で再出題する（2.1.29） */
+export type AnswerConfidence = "sure" | "unsure";
+
+/** 間違えた理由（2.1.30）：知識が無かった／分かっていたのにうっかり／2択まで絞れたが迷って外した。時間切れ（2.1.33）は、時間制限つきの練習で自動で付く */
+export type MissReason = "unknown" | "careless" | "unsure" | "timeout";
 
 export type DailyLog = {
   date: string; // YYYY-MM-DD
@@ -149,6 +162,9 @@ export type DailyLog = {
   listeningPart1Studied: number;
   listeningPart2Studied: number;
   listeningPart34Studied: number;
+  // その日の解答のうち、正誤を記録した件数と正解数（履歴機能より前の日には無い。正答率の推移に使う）
+  gradedCount?: number;
+  correctCount?: number;
 };
 
 /**
@@ -183,16 +199,37 @@ export type MockTestResult = {
   totalScore: number; // 5-990（reading.score + listening.score）
   // 模試結果の復習画面用の全設問記録。この機能追加より前に保存された履歴には存在しない（任意項目）
   answerRecords?: MockTestAnswerRecord[];
+  // 選択肢の並び順の版（src/lib/choiceOrder.ts）。answerRecords の選択肢の番号がどの並び順のものかを表す。
+  // 未設定は、並べ替え前（旧い並び順）に受験した結果
+  choiceOrder?: number;
 };
+
+/**
+ * 解答1回分の記録（容量を抑えるため配列で保持する）：
+ * [設問ID, 種別の番号（lib/history.ts の ITEM_TYPE_ORDER の位置）, 難易度, 解答時刻（Unix秒）, 正解なら1・不正解なら0, 解答にかかった秒数（測った画面のみ）]
+ */
+export type AnswerEvent = [
+  itemId: string,
+  typeIndex: number,
+  level: number,
+  answeredAtSec: number,
+  correct: 0 | 1,
+  elapsedSec?: number,
+];
 
 export type AppData = {
   progress: Record<string, ProgressRecord>;
+  answerHistory: AnswerEvent[]; // 解答の履歴（古い順。上限を超えたら古いものから捨てる）
   dailyLogs: Record<string, DailyLog>;
   streak: number;
   lastStudyDate: string | null;
   bookmarks: string[]; // ブックマークした単語/文法問題のid一覧
   placementTestCompletedAt: string | null; // 初回模試を完了した日時（ISO）。未実施ならnull
   mockTestHistory: MockTestResult[]; // 模試モードの受験履歴（新しい順ではなく受験順に追加）
+  targetScore: number | null; // 目標スコア（10〜990、5点刻み）。未設定ならnull
+  targetDate: string | null; // 目標日（ローカル日付 YYYY-MM-DD）。未設定ならnull。targetScoreが無ければ常にnull
+  // データ形式のバージョン。2以降は日付キーをローカル日付で保持する（1以前はUTC基準）
+  dataVersion: number;
 };
 
 /** 学習キューの絞り込み方法。recommended はページ側で専用ロジックにより算出する */

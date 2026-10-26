@@ -11,6 +11,11 @@ import {
 } from "../lib/studyQueue";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
 import { QuestionDetail, PassageDetail } from "../components/StudyDetail";
+import { Announce } from "../components/Announce";
+import { answerLabel, verdictMessage } from "../lib/announce";
+import { FocusLabel } from "../components/FocusLabel";
+import { MissReasonPicker } from "../components/MissReasonPicker";
+import { BridgePanel } from "../components/BridgePanel";
 
 const passages = readings as ReadingPassage[];
 
@@ -85,9 +90,9 @@ export default function ReadingStudy({
         <Link to="/" className="text-sm text-(--color-muted)">
           ← ホーム
         </Link>
-        <span className="text-xs text-(--color-muted)">
+        <FocusLabel changeKey={passageIndex} className="text-xs text-(--color-muted)">
           {modeLabel[mode]} ・ {passageIndex + 1} / {queue.length}
-        </span>
+        </FocusLabel>
       </div>
 
       <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
@@ -169,7 +174,18 @@ export default function ReadingStudy({
         </div>
 
         {selected !== null && (
-          <div className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+          <div role="region" aria-label="解説" className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+            <Announce
+              message={verdictMessage(
+                selected === currentQuestion.answer,
+                answerLabel(currentQuestion.choices, currentQuestion.answer),
+                currentQuestion.explanation
+              )}
+            />
+            {selected !== currentQuestion.answer && <MissReasonPicker itemId={currentQuestion.id} />}
+            {selected !== currentQuestion.answer && (
+              <BridgePanel kind="reading" itemId={currentQuestion.id} record={data.progress[currentQuestion.id]} />
+            )}
             <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
               {currentQuestion.explanation}
             </p>

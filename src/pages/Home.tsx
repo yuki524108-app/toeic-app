@@ -1,24 +1,15 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import words from "../data/words.json";
-import grammarQuestions from "../data/grammar.json";
-import readings from "../data/readings.json";
-import part6Data from "../data/part6.json";
-import listeningPart1Items from "../data/listeningPart1.json";
-import listeningPart2Questions from "../data/listeningPart2.json";
-import listeningPart34Sets from "../data/listeningPart34.json";
-import type {
-  AppData,
-  ReadingPassage,
-  Part6Passage,
-  ListeningPart1Item,
-  ListeningPart2Question,
-  ListeningPart34Set,
-} from "../types";
+import itemIndex from "../data/itemIndex.json";
+import type { AppData } from "../types";
 import { isDueToday } from "../lib/spacedRepetition";
+import { summarizeStudyNeeds } from "../lib/dailyPlan";
 import { estimateScore } from "../lib/scoreEstimate";
 import type { SectionScoreEstimate } from "../lib/scoreEstimate";
 import { estimateAbilityLevel } from "../lib/recommendation";
+import TargetScoreCard from "../components/TargetScoreCard";
+import BackupReminder from "../components/BackupReminder";
+import { displayStreak } from "../lib/streak";
 import {
   isReminderSupported,
   isReminderEnabled,
@@ -27,33 +18,41 @@ import {
   maybeShowDueReminder,
 } from "../lib/reminder";
 
-const readingPassages = readings as ReadingPassage[];
-const part6Passages = part6Data as Part6Passage[];
-const listeningPart1 = listeningPart1Items as ListeningPart1Item[];
-const listeningPart2 = listeningPart2Questions as ListeningPart2Question[];
-const listeningPart34 = listeningPart34Sets as ListeningPart34Set[];
+/**
+ * 設問IDだけの索引（tools/build_item_index.py で生成）。
+ * 今日復習する問題の数を数えるために、問題データ全体（約5MB）を読み込まずに済ませる。
+ * 複数の設問を持つ出題単位（会話・文書）は、設問IDの配列。
+ */
+const { words, grammar, listeningPart1, listeningPart2, listeningPart34, part6, readings } =
+  itemIndex as {
+    words: string[];
+    grammar: string[];
+    listeningPart1: string[];
+    listeningPart2: string[];
+    listeningPart34: string[][];
+    part6: string[][];
+    readings: string[][];
+  };
 
-export default function Home({ data }: { data: AppData }) {
-  const wordsDue = words.filter((w) => isDueToday(data.progress[w.id])).length;
-  const grammarDue = grammarQuestions.filter((g) =>
-    isDueToday(data.progress[g.id])
-  ).length;
-  const readingDue = readingPassages.filter((p) =>
-    p.questions.some((q) => isDueToday(data.progress[q.id]))
-  ).length;
-  const part6Due = part6Passages.filter((p) =>
-    p.blanks.some((b) => isDueToday(data.progress[b.id]))
-  ).length;
-  const listeningPart1Due = listeningPart1.filter((it) =>
-    isDueToday(data.progress[it.id])
-  ).length;
-  const listeningPart2Due = listeningPart2.filter((q) =>
-    isDueToday(data.progress[q.id])
-  ).length;
-  const listeningPart34Due = listeningPart34.filter((s) =>
-    s.questions.some((q) => isDueToday(data.progress[q.id]))
-  ).length;
+export default function Home({
+  data,
+  onSetTargetGoal,
+}: {
+  data: AppData;
+  onSetTargetGoal: (score: number | null, date: string | null) => void;
+}) {
+  // 最終学習日が昨日より前なら連続は途切れているので0日として扱う（保存値は次に学習するまで更新されない）
+  const streak = displayStreak(data.streak, data.lastStudyDate);
+  const due = (id: string) => isDueToday(data.progress[id]);
+  const wordsDue = words.filter(due).length;
+  const grammarDue = grammar.filter(due).length;
+  const readingDue = readings.filter((qs) => qs.some(due)).length;
+  const part6Due = part6.filter((ids) => ids.some(due)).length;
+  const listeningPart1Due = listeningPart1.filter(due).length;
+  const listeningPart2Due = listeningPart2.filter(due).length;
+  const listeningPart34Due = listeningPart34.filter((qs) => qs.some(due)).length;
 
+  const needs = summarizeStudyNeeds(data.progress);
   const estimate = estimateScore(data.progress);
   const ability = estimateAbilityLevel(data.progress);
   const hasTakenPlacementTest = data.placementTestCompletedAt !== null;
@@ -122,9 +121,9 @@ export default function Home({ data }: { data: AppData }) {
             <span className="text-xs tracking-wide text-(--color-muted)">
               予想スコア（参考値）
             </span>
-            {data.streak > 0 && (
+            {streak > 0 && (
               <span className="text-xs font-medium text-(--color-gold)">
-                🔥 {data.streak}日連続
+                🔥 {streak}日連続
               </span>
             )}
           </div>
@@ -135,6 +134,11 @@ export default function Home({ data }: { data: AppData }) {
                 {estimate.total.score}
               </span>
               <span className="mb-1 text-sm text-(--color-muted)">/ 990点</span>
+              {estimate.total.provisional && (
+                <span className="mb-1.5 rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+                  暫定
+                </span>
+              )}
             </div>
           ) : (
             <p className="mt-2 text-sm text-(--color-ink-soft)">
@@ -148,6 +152,28 @@ export default function Home({ data }: { data: AppData }) {
           </div>
         </div>
       )}
+
+      {/* 目標スコアと達成度 */}
+      <TargetScoreCard data={data} onSetTargetGoal={onSetTargetGoal} />
+
+      {/* バックアップのおすすめ（一度もバックアップしていない／30日以上たっている場合） */}
+      <BackupReminder data={data} />
+
+      {/* 今日のおすすめセット：復習・苦手・弱点・新規を混ぜた10問を、1タップで始める */}
+      <Link
+        to="/quick-study?plan=today"
+        className="mt-4 flex items-center justify-between rounded-sm border border-(--color-gold) bg-(--color-gold-soft) p-5 transition-colors active:opacity-80"
+      >
+        <div>
+          <p className="font-medium text-(--color-ink)">今日のおすすめセットを始める</p>
+          <p className="mt-0.5 text-sm text-(--color-ink-soft)">
+            {needs.reviewDue > 0 || needs.leech > 0
+              ? `復習 ${needs.reviewDue}問${needs.leech > 0 ? `・苦手 ${needs.leech}問` : ""}を含め、10問を自動で選びます`
+              : "迷わず始められる10問を自動で選びます"}
+          </p>
+        </div>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
 
       {/* 模試モード：本番同様の時間制限・通し形式（200問・約2時間） */}
       <Link
@@ -170,7 +196,7 @@ export default function Home({ data }: { data: AppData }) {
         <span className="text-(--color-gold)">→</span>
       </Link>
 
-      {/* すきま時間モード：単語・文法を混ぜた3〜10問のミニセッション */}
+      {/* すきま時間モード：単語・文法・リスニングを混ぜた3〜10問のミニセッション */}
       <Link
         to="/quick-study"
         className="mt-4 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
@@ -183,7 +209,45 @@ export default function Home({ data }: { data: AppData }) {
             </span>
           </div>
           <p className="mt-0.5 text-sm text-(--color-muted)">
-            単語・文法を混ぜて3〜10問だけサクッと復習
+            単語からPart 1〜7まで、選んで3〜10問だけサクッと学習
+          </p>
+        </div>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
+
+      {/* 時間感覚トレーニング：Part 5 を1問ごとの制限時間つきで10問連続（2.1.33） */}
+      <Link
+        to="/timed-drill"
+        className="mt-4 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+      >
+        <div>
+          <div className="flex items-center gap-1.5">
+            <p className="font-medium text-(--color-ink)">時間感覚トレーニング</p>
+            <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+              NEW
+            </span>
+          </div>
+          <p className="mt-0.5 text-sm text-(--color-muted)">
+            Part 5を1問ごとの制限時間つきで10問。時間内に解く力を鍛える
+          </p>
+        </div>
+        <span className="text-(--color-gold)">→</span>
+      </Link>
+
+      {/* ディクテーション：英文を聞き取って書き取る（2.1.34） */}
+      <Link
+        to="/dictation"
+        className="mt-4 flex items-center justify-between rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5 transition-colors active:bg-(--color-gold-soft)"
+      >
+        <div>
+          <div className="flex items-center gap-1.5">
+            <p className="font-medium text-(--color-ink)">ディクテーション</p>
+            <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+              NEW
+            </span>
+          </div>
+          <p className="mt-0.5 text-sm text-(--color-muted)">
+            英文を聞き取って書き取り、聞き取れなかった単語を確かめる
           </p>
         </div>
         <span className="text-(--color-gold)">→</span>
@@ -382,6 +446,12 @@ export default function Home({ data }: { data: AppData }) {
         予想スコアはあなたの正答率をもとにした簡易的な目安です。
         <br />
         公式のTOEICスコアを保証するものではありません。
+        {estimate.reading.status === "ok" && estimate.reading.provisional && (
+          <>
+            <br />
+            リーディングは、単語の自己判定を含む暫定値です。文法・読解・Part 6を20問解くと、採点された問題だけの値に切り替わります。
+          </>
+        )}
       </p>
     </div>
   );
@@ -404,6 +474,11 @@ function SectionScoreSummary({
             {estimate.score}
           </span>
           <span className="text-xs text-(--color-muted)">/ 495点</span>
+          {estimate.provisional && (
+            <span className="rounded-sm bg-(--color-gold-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-gold)">
+              暫定
+            </span>
+          )}
         </p>
       ) : (
         <>

@@ -6,6 +6,12 @@ import { updateProgress } from "../lib/spacedRepetition";
 import { filterByMode, parseStudyMode, modeLabel, emptyMessage } from "../lib/studyQueue";
 import { estimateAbilityLevel, recommendItems } from "../lib/recommendation";
 import { EmptyState, DoneState, BookmarkIcon } from "./WordStudy";
+import { Announce } from "../components/Announce";
+import { answerLabel, verdictMessage } from "../lib/announce";
+import { FocusLabel } from "../components/FocusLabel";
+import { MissReasonPicker } from "../components/MissReasonPicker";
+import { BridgePanel } from "../components/BridgePanel";
+import { useStopwatch } from "../lib/stopwatch";
 
 export default function GrammarStudy({
   data,
@@ -34,6 +40,8 @@ export default function GrammarStudy({
   const [sessionCorrect, setSessionCorrect] = useState(0);
 
   const current = queue[index];
+  // 問題を表示してから解答までの時間を測る（問題が変わるたびに0から。2.1.33）
+  const watch = useStopwatch(current?.id ?? "");
   const isDone = index >= queue.length;
   const isBookmarked = current ? data.bookmarks.includes(current.id) : false;
 
@@ -41,13 +49,10 @@ export default function GrammarStudy({
     if (selected !== null || !current) return;
     setSelected(choiceIndex);
     const correct = choiceIndex === current.answer;
-    const record = updateProgress(
-      current.id,
-      "grammar",
-      current.level,
-      correct,
-      data.progress[current.id]
-    );
+    const record = {
+      ...updateProgress(current.id, "grammar", current.level, correct, data.progress[current.id]),
+      lastElapsedSec: watch.elapsedSec(),
+    };
     onAnswer(record);
     if (correct) setSessionCorrect((c) => c + 1);
   }
@@ -71,9 +76,9 @@ export default function GrammarStudy({
         <Link to="/" className="text-sm text-(--color-muted)">
           ← ホーム
         </Link>
-        <span className="text-xs text-(--color-muted)">
+        <FocusLabel changeKey={index} className="text-xs text-(--color-muted)">
           {modeLabel[mode]} ・ Q{index + 1} / {queue.length}
-        </span>
+        </FocusLabel>
       </div>
 
       <div className="relative mt-6">
@@ -122,7 +127,18 @@ export default function GrammarStudy({
       </div>
 
       {selected !== null && (
-        <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+        <div role="region" aria-label="解説" className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+          <Announce
+            message={verdictMessage(
+              selected === current.answer,
+              answerLabel(current.choices, current.answer),
+              current.explanation
+            )}
+          />
+          {selected !== current.answer && <MissReasonPicker itemId={current.id} />}
+          {selected !== current.answer && (
+            <BridgePanel kind="grammar" itemId={current.id} record={data.progress[current.id]} />
+          )}
           <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
             {current.explanation}
           </p>

@@ -1,54 +1,80 @@
-import { useState } from "react";
-import { Link } from "react-router-dom";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { Link, useSearchParams } from "react-router-dom";
 import words from "../data/words.json";
 import grammarQuestions from "../data/grammar.json";
-import type { AppData, GrammarQuestion, ProgressRecord, Word } from "../types";
-import { updateProgress, isDueToday } from "../lib/spacedRepetition";
-import { BookmarkIcon } from "./WordStudy";
+import listeningPart1Items from "../data/listeningPart1.json";
+import listeningPart2Questions from "../data/listeningPart2.json";
+import listeningPart34Sets from "../data/listeningPart34.json";
+import part6Passages from "../data/part6.json";
+import readings from "../data/readings.json";
+import type {
+  AppData,
+  GrammarQuestion,
+  ListeningPart1Item,
+  ListeningPart2Question,
+  ListeningPart34Set,
+  Part6Passage,
+  ProgressRecord,
+  ReadingPassage,
+  Word,
+} from "../types";
+import { updateProgress } from "../lib/spacedRepetition";
+import { isTTSSupported } from "../lib/tts";
+import {
+  DEFAULT_PLAN_COUNT,
+  PLAN_REASON_LABEL,
+  buildDailyPlan,
+  summarizeStudyNeeds,
+} from "../lib/dailyPlan";
+import type { PlanReason } from "../lib/dailyPlan";
+import { buildBridgePlan, isBridgeKind } from "../lib/bridge";
+import {
+  QUICK_CATEGORIES,
+  QUICK_COUNT_OPTIONS,
+  buildQuickQueue,
+  countReviewDue,
+  estimateMinutes,
+  loadQuickPrefs,
+  saveQuickPrefs,
+  shuffle,
+  totalQuestions,
+} from "../lib/quickQueue";
+import type { QuickCategory, QuickItem, QuickPools } from "../lib/quickQueue";
+import {
+  clearQuickSession,
+  firstUnansweredIndex,
+  loadQuickSession,
+  saveQuickSession,
+} from "../lib/quickSession";
+import type { QuickResult } from "../lib/quickSession";
+import { WordCard, GrammarCard } from "../components/quick/BasicCards";
+import { Part1Card, Part2Card, Part34Card } from "../components/quick/ListeningCards";
+import { Part6Card, ReadingCard } from "../components/quick/PassageCards";
+import type { QuizAnswer } from "../components/quick/constants";
+import { FocusLabel } from "../components/FocusLabel";
 
-const wordPool = words as Word[];
-const grammarPool = grammarQuestions as GrammarQuestion[];
+const POOLS: QuickPools = {
+  word: words as Word[],
+  grammar: grammarQuestions as GrammarQuestion[],
+  listeningPart1: listeningPart1Items as ListeningPart1Item[],
+  listeningPart2: listeningPart2Questions as ListeningPart2Question[],
+  listeningPart34: listeningPart34Sets as ListeningPart34Set[],
+  part6: part6Passages as Part6Passage[],
+  // 「数分」に収まらないダブル／トリプルパッセージ（複数文書）は対象外とし、1つの文書の問題のみ出題する
+  reading: (readings as ReadingPassage[]).filter(
+    (p) => p.type === undefined || p.type === "single"
+  ),
+};
 
-const COUNT_OPTIONS = [3, 5, 10] as const;
+const CATEGORY_LABEL = Object.fromEntries(
+  QUICK_CATEGORIES.map((c) => [c.id, c.label])
+) as Record<QuickCategory, string>;
 
-type QuickItem =
-  | { kind: "word"; item: Word }
-  | { kind: "grammar"; item: GrammarQuestion };
-
-function shuffle<T>(arr: T[]): T[] {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-/**
- * 単語・文法の両プールから、今日出題すべき項目（間隔反復で復習日を迎えているもの）を
- * 優先しつつ、足りない分はランダムに補って count 件のミニセッションを組み立てる。
- */
-function buildQuickQueue(data: AppData, count: number): QuickItem[] {
-  const dueWords = wordPool.filter((w) => isDueToday(data.progress[w.id]));
-  const dueGrammar = grammarPool.filter((g) => isDueToday(data.progress[g.id]));
-  const due: QuickItem[] = shuffle([
-    ...dueWords.map((item) => ({ kind: "word" as const, item })),
-    ...dueGrammar.map((item) => ({ kind: "grammar" as const, item })),
-  ]);
-
-  if (due.length >= count) return due.slice(0, count);
-
-  const dueIds = new Set(due.map((q) => q.item.id));
-  const rest: QuickItem[] = shuffle([
-    ...wordPool
-      .filter((w) => !dueIds.has(w.id))
-      .map((item) => ({ kind: "word" as const, item })),
-    ...grammarPool
-      .filter((g) => !dueIds.has(g.id))
-      .map((item) => ({ kind: "grammar" as const, item })),
-  ]);
-
-  return [...due, ...rest].slice(0, count);
+/** 中断した日時の表示用（例：10月2日 18:30） */
+function formatSavedAt(iso: string): string {
+  const d = new Date(iso);
+  const pad = (n: number) => String(n).padStart(2, "0");
+  return `${d.getMonth() + 1}月${d.getDate()}日 ${pad(d.getHours())}:${pad(d.getMinutes())}`;
 }
 
 export default function QuickStudy({
@@ -60,18 +86,163 @@ export default function QuickStudy({
   onAnswer: (record: ProgressRecord) => void;
   onToggleBookmark: (itemId: string) => void;
 }) {
+  const [prefs, setPrefs] = useState(loadQuickPrefs);
   const [queue, setQueue] = useState<QuickItem[] | null>(null);
   const [index, setIndex] = useState(0);
-  const [sessionCorrect, setSessionCorrect] = useState(0);
+  const [results, setResults] = useState<QuickResult[]>([]);
+  // 中断中のセッション（端末に保存されたもの）。セッションを始める・破棄する・終えるまで残る
+  const [saved, setSaved] = useState(() => loadQuickSession(POOLS));
+  // おすすめセット／苦手な問題の練習として始めたセッションか（通常のすきま時間モードなら null）。出題の理由も持つ
+  const [plan, setPlan] = useState<{
+    kind: PlanKind;
+    reasons: Record<string, PlanReason>;
+    /** 基礎固め（2.1.32）のとき、戻ってくる問題の種別と設問ID */
+    from?: { kind: QuickCategory; itemId: string };
+  } | null>(null);
+  // 基礎固めを始められなかったときの案内（設定画面に表示する）
+  const [notice, setNotice] = useState<string | null>(null);
+  const needs = useMemo(
+    () => summarizeStudyNeeds(data.progress),
+    // 設定画面を開いている間は data が変わらないため、画面の切り替わり（セッションの開始・終了）ごとに再計算する
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [queue === null]
+  );
 
-  function handleStart(count: number) {
-    setQueue(buildQuickQueue(data, count));
+  const reviewDueCount = useMemo(
+    () => countReviewDue(data, prefs.categories, POOLS),
+    // 設定画面を開いている間は data が変わらないため、選択カテゴリが変わったときだけ再計算する
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [prefs.categories, queue === null]
+  );
+
+  function begin(items: QuickItem[], nextPlan: typeof plan = null) {
+    if (items.length === 0) return;
+    setPlan(nextPlan);
+    // 新しく始めると、中断中のセッションは破棄される
+    clearQuickSession();
+    setSaved(null);
+    setQueue(items);
     setIndex(0);
-    setSessionCorrect(0);
+    setResults([]);
   }
 
-  // ---------- セッション開始前：問題数の選択画面 ----------
+  /** おすすめセット（または苦手な問題だけの練習）を組み立てて始める */
+  function startPlan(kind: PlanKind) {
+    const built = buildDailyPlan(data, POOLS, {
+      count: DEFAULT_PLAN_COUNT,
+      // 音声が使えない端末では、聞き取りの問題を除く
+      categories: isTTSSupported()
+        ? undefined
+        : QUICK_CATEGORIES.map((c) => c.id).filter((id) => !id.startsWith("listening")),
+      onlyReasons: kind === "leech" ? ["leech"] : undefined,
+    });
+    begin(built.queue, { kind, reasons: built.reasons });
+  }
+
+  /**
+   * 基礎固め（2.1.32）：何度も間違える問題の前に、同じ分野のやさしい問題を解き、最後にその問題へ戻る。
+   * 手がかり（同じ分野のやさしい問題）がなければ、始めずに設定画面で理由を伝える。
+   */
+  function startBridge(kind: string, itemId: string) {
+    const built = isBridgeKind(kind) ? buildBridgePlan(data, POOLS, kind, itemId) : null;
+    if (!built || built.bridgeCount === 0) {
+      setNotice(
+        "この問題と同じ分野で、先に解けるやさしい問題が見つかりませんでした。解説をもう一度読むか、おすすめセットで他の問題から進めましょう。"
+      );
+      return;
+    }
+    setNotice(null);
+    begin(built.queue, { kind: "bridge", reasons: built.reasons, from: { kind: kind as QuickCategory, itemId } });
+  }
+
+  // ホームなどから「/quick-study?plan=today」（苦手は plan=leech）で開かれたら、1タップで始める。
+  // 中断中のセッションがあるときは、それを黙って破棄しないよう、設定画面を表示する
+  const autoStarted = useRef(false);
+  const [searchParams, setSearchParams] = useSearchParams();
+  useEffect(() => {
+    const want = searchParams.get("plan");
+    if (!want || autoStarted.current) return;
+    autoStarted.current = true;
+    const bridgeKind = searchParams.get("kind") ?? "";
+    const bridgeItem = searchParams.get("item") ?? "";
+    setSearchParams({}, { replace: true });
+    if (saved) return;
+    if (want === "today") startPlan("plan");
+    else if (want === "leech") startPlan("leech");
+    else if (want === "bridge" && bridgeItem) startBridge(bridgeKind, bridgeItem);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  function handleStart(count: number) {
+    const next = { ...prefs, count };
+    setPrefs(next);
+    saveQuickPrefs(next);
+    begin(buildQuickQueue(data, count, next.categories, POOLS));
+  }
+
+  function toggleCategory(id: QuickCategory) {
+    const has = prefs.categories.includes(id);
+    // 最低1カテゴリは選択された状態を保つ
+    if (has && prefs.categories.length === 1) return;
+    const categories = QUICK_CATEGORIES.map((c) => c.id).filter((c) =>
+      c === id ? !has : prefs.categories.includes(c)
+    );
+    const next = { ...prefs, categories };
+    setPrefs(next);
+    saveQuickPrefs(next);
+  }
+
+  /** 1問解答するたびに呼ばれる：進捗を記録し、結果に追加し、中断に備えてセッションを保存する */
+  function handleAnswer(q: QuickItem, a: QuizAnswer) {
+    onAnswer(
+      updateProgress(a.id, q.kind, a.level, a.correct, data.progress[a.id], a.confidence)
+    );
+    const next = [...results, { ...a, q }];
+    setResults(next);
+    if (queue) saveQuickSession(queue, next);
+  }
+
+  /** 次の出題単位へ進む。最後まで終えたら、再開するものがなくなるので保存を消す */
+  function advance() {
+    if (!queue) return;
+    const next = index + 1;
+    setIndex(next);
+    if (next >= queue.length) clearQuickSession();
+  }
+
+  /** セッションを中断して設定画面に戻る。解答が1つもなければ再開するものがないので保存を消す */
+  function leave() {
+    if (results.length === 0) clearQuickSession();
+    setQueue(null);
+    setSaved(loadQuickSession(POOLS));
+  }
+
+  /** 中断中のセッションを再開する。位置は解答の記録から導出する（途中のセットは未解答の設問から続く） */
+  function resume() {
+    if (!saved) return;
+    const position = firstUnansweredIndex(saved.queue, saved.results);
+    setQueue(saved.queue);
+    setResults(saved.results);
+    setSaved(null);
+    if (position === -1) {
+      // 最後の問題まで解答済みで、結果画面に進む前に中断していた
+      setIndex(saved.queue.length);
+      clearQuickSession();
+    } else {
+      setIndex(position);
+    }
+  }
+
+  function discard() {
+    clearQuickSession();
+    setSaved(null);
+  }
+
+  // ---------- セッション開始前：カテゴリと問題数の選択画面 ----------
   if (!queue) {
+    const hasSetCategory = QUICK_CATEGORIES.some(
+      (c) => c.isSet && prefs.categories.includes(c.id)
+    );
     return (
       <div className="mx-auto flex max-w-md flex-col px-5 pb-28 pt-8">
         <Link to="/" className="text-sm text-(--color-muted)">
@@ -81,11 +252,65 @@ export default function QuickStudy({
           すきま時間モード
         </h1>
         <p className="mt-2 text-sm leading-relaxed text-(--color-ink-soft)">
-          単語と文法問題をランダムに混ぜて、短時間でサクッと復習できます。今日復習すべき問題があれば優先的に出題されます。
+          選んだカテゴリの問題を混ぜて、短時間でサクッと学習できます。前回間違えた問題や復習日を迎えた問題が優先して出題されます。
         </p>
 
-        <div className="mt-6 space-y-3">
-          {COUNT_OPTIONS.map((count) => (
+        {notice && (
+          <p role="status" className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-3 text-xs leading-relaxed text-(--color-ink-soft)">
+            {notice}
+          </p>
+        )}
+
+        <PlanCard
+          leechCount={needs.leech}
+          reviewDue={needs.reviewDue}
+          onStartPlan={() => startPlan("plan")}
+          onStartLeech={() => startPlan("leech")}
+        />
+
+        {saved && (
+          <ResumeCard
+            saved={saved}
+            onResume={resume}
+            onDiscard={discard}
+          />
+        )}
+
+        <p className="mt-6 text-xs font-medium text-(--color-ink)">出題するカテゴリ</p>
+        <div className="mt-2 flex flex-wrap gap-2">
+          {QUICK_CATEGORIES.map((c) => {
+            const on = prefs.categories.includes(c.id);
+            return (
+              <button
+                key={c.id}
+                onClick={() => toggleCategory(c.id)}
+                aria-pressed={on}
+                className={`rounded-sm border px-3 py-2 text-sm ${
+                  on
+                    ? "border-(--color-gold) bg-(--color-gold-soft) font-medium text-(--color-ink)"
+                    : "border-(--color-line) text-(--color-muted)"
+                }`}
+              >
+                {c.label}
+              </button>
+            );
+          })}
+        </div>
+        <p className="mt-3 text-xs text-(--color-muted)">
+          {reviewDueCount > 0
+            ? `復習が必要な問題：${reviewDueCount}問`
+            : "復習が必要な問題はありません。未学習の問題から出題します。"}
+        </p>
+        {hasSetCategory && (
+          <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+            Part 3・4、Part 6、Part 7は、会話・文書ごとに3〜4問まとめて出題します（Part
+            7は1つの文書の問題のみ）。そのため、問題数が目安より少し増減することがあります。
+          </p>
+        )}
+
+        <p className="mt-6 text-xs font-medium text-(--color-ink)">問題数</p>
+        <div className="mt-2 space-y-3">
+          {QUICK_COUNT_OPTIONS.map((count) => (
             <button
               key={count}
               onClick={() => handleStart(count)}
@@ -93,7 +318,7 @@ export default function QuickStudy({
             >
               <span className="font-medium text-(--color-ink)">{count}問だけ</span>
               <span className="text-xs text-(--color-muted)">
-                約{Math.max(1, Math.round(count * 0.5))}分
+                約{estimateMinutes(count, prefs.categories)}分
               </span>
             </button>
           ))}
@@ -102,29 +327,122 @@ export default function QuickStudy({
     );
   }
 
-  const current = queue[index];
+  const total = totalQuestions(queue);
+  const answered = results.length;
   const isDone = index >= queue.length;
 
+  // ---------- 結果画面 ----------
   if (isDone) {
+    const correctCount = results.filter((r) => r.correct).length;
+    const missed = results.filter((r) => !r.correct);
+    const kinds = QUICK_CATEGORIES.map((c) => c.id).filter((id) =>
+      results.some((r) => r.q.kind === id)
+    );
+    // 間違えた設問を含む出題単位（セットは丸ごと）。重複は除く
+    const retryItems = [
+      ...new Map(missed.map((r) => [r.q.item.id, r.q])).values(),
+    ];
+
     return (
-      <div className="mx-auto flex max-w-md flex-col items-center px-5 pb-28 pt-20 text-center">
-        <p className="font-(family-name:--font-display) text-3xl font-medium text-(--color-ink)">
-          お疲れさまでした
-        </p>
-        <p className="mt-3 text-(--color-ink-soft)">
-          {queue.length}問中 {sessionCorrect}問正解
-        </p>
+      <div className="mx-auto flex max-w-md flex-col px-5 pb-28 pt-16">
+        <div className="text-center">
+          <p className="font-(family-name:--font-display) text-3xl font-medium text-(--color-ink)">
+            お疲れさまでした
+          </p>
+          <p className="mt-3 text-(--color-ink-soft)">
+            {answered}問中 {correctCount}問正解
+          </p>
+          {plan && (
+            <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+              {(["bridge", "leech", "dueWrong", "due", "weak", "new", "other"] as PlanReason[])
+                .map((r) => {
+                  const rs = results.filter((x) => plan.reasons[x.q.item.id] === r);
+                  return rs.length === 0
+                    ? null
+                    : `${PLAN_REASON_LABEL[r]} ${rs.filter((x) => x.correct).length}/${rs.length}`;
+                })
+                .filter((t) => t !== null)
+                .join(" ・ ")}
+            </p>
+          )}
+          {kinds.length > 1 && (
+            <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+              {kinds
+                .map((k) => {
+                  const rs = results.filter((r) => r.q.kind === k);
+                  return `${CATEGORY_LABEL[k]} ${rs.filter((r) => r.correct).length}/${rs.length}`;
+                })
+                .join(" ・ ")}
+            </p>
+          )}
+        </div>
+
+        {missed.length > 0 ? (
+          <div className="mt-8">
+            <p className="text-xs font-medium text-(--color-ink)">
+              間違えた問題（{missed.length}問）
+            </p>
+            <ul className="mt-2 space-y-2">
+              {missed.map((r) => (
+                <li
+                  key={r.id}
+                  className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) px-4 py-3"
+                >
+                  <p className="line-clamp-2 text-sm font-medium text-(--color-ink)">
+                    {r.title}
+                  </p>
+                  <p className="mt-0.5 text-xs text-(--color-muted)">
+                    {CATEGORY_LABEL[r.q.kind]} ・ 正解：{r.answer}
+                  </p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ) : (
+          <p className="mt-8 text-center text-sm text-(--color-correct)">全問正解です！</p>
+        )}
+
         <div className="mt-8 flex w-full flex-col gap-3">
+          {missed.length > 0 && (
+            <button
+              onClick={() => begin(shuffle(retryItems))}
+              className="rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"
+            >
+              間違えた問題をもう一度（{totalQuestions(retryItems)}問）
+            </button>
+          )}
           <button
-            onClick={() => setQueue(null)}
-            className="rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"
+            onClick={() =>
+              plan
+                ? plan.kind === "bridge" && plan.from
+                  ? startBridge(plan.from.kind, plan.from.itemId)
+                  : startPlan(plan.kind === "bridge" ? "plan" : plan.kind)
+                : begin(buildQuickQueue(data, prefs.count, prefs.categories, POOLS))
+            }
+            className={`rounded-sm py-3 text-sm font-medium ${
+              missed.length > 0
+                ? "border border-(--color-line) text-(--color-ink)"
+                : "bg-(--color-ink) text-(--color-paper)"
+            }`}
           >
-            もう一度やる
+            {plan
+              ? plan.kind === "leech"
+                ? "苦手な問題をもう一度組む"
+                : plan.kind === "bridge"
+                  ? "別のやさしい問題で基礎固めをやり直す"
+                  : "新しいおすすめセットをやる"
+              : `もう一度やる（${prefs.count}問）`}
           </button>
-          <Link
-            to="/"
+          <button
+            onClick={() => {
+              setQueue(null);
+              setSaved(null);
+            }}
             className="rounded-sm border border-(--color-line) py-3 text-sm font-medium text-(--color-ink)"
           >
+            設定を変える
+          </button>
+          <Link to="/" className="py-2 text-center text-sm text-(--color-muted)">
             ホームに戻る
           </Link>
         </div>
@@ -132,207 +450,162 @@ export default function QuickStudy({
     );
   }
 
+  const current = queue[index];
+  const common = {
+    bookmarks: data.bookmarks,
+    onToggleBookmark,
+    isLast: index === queue.length - 1,
+    onAnswer: (a: QuizAnswer) => handleAnswer(current, a),
+    onNext: advance,
+  };
+  // この出題単位で解答済みの設問（再開時に、解答済みの状態を復元するために使う）
+  const restored = Object.fromEntries(
+    results.filter((r) => r.q.item.id === current.item.id).map((r) => [r.id, r.selected])
+  );
+
   return (
     <div className="mx-auto flex max-w-md flex-col px-5 pb-28 pt-8">
       <div className="flex items-center justify-between">
-        <button onClick={() => setQueue(null)} className="text-sm text-(--color-muted)">
+        <button onClick={leave} className="text-sm text-(--color-muted)">
           やめる
         </button>
-        <span className="text-xs text-(--color-muted)">
-          すきま時間モード ・ {index + 1} / {queue.length}
-        </span>
+        <FocusLabel changeKey={index} className="text-xs text-(--color-muted)">
+          {plan ? (plan.kind === "leech" ? "苦手な問題の練習" : plan.kind === "bridge" ? "基礎固め" : "今日のおすすめ") : "すきま時間モード"} ・{" "}
+          {answered} / {total}問 解答済み
+        </FocusLabel>
+      </div>
+      <div
+        className="mt-3 h-1 w-full overflow-hidden rounded-full bg-(--color-line)"
+        role="progressbar"
+        aria-valuenow={answered}
+        aria-valuemin={0}
+        aria-valuemax={total}
+        aria-label="セッションの進捗"
+      >
+        <div
+          className="h-full bg-(--color-gold) transition-all"
+          style={{ width: `${(answered / total) * 100}%` }}
+        />
       </div>
 
-      {current.kind === "word" ? (
-        <QuickWordCard
-          key={current.item.id}
-          word={current.item}
-          isBookmarked={data.bookmarks.includes(current.item.id)}
-          onToggleBookmark={() => onToggleBookmark(current.item.id)}
-          onAnswer={(knewIt) => {
-            const record = updateProgress(
-              current.item.id,
-              "word",
-              current.item.level,
-              knewIt,
-              data.progress[current.item.id]
-            );
-            onAnswer(record);
-            if (knewIt) setSessionCorrect((c) => c + 1);
-            setIndex((i) => i + 1);
-          }}
-        />
-      ) : (
-        <QuickGrammarCard
-          key={current.item.id}
-          question={current.item}
-          isBookmarked={data.bookmarks.includes(current.item.id)}
-          onToggleBookmark={() => onToggleBookmark(current.item.id)}
-          onAnswered={(correct) => {
-            const record = updateProgress(
-              current.item.id,
-              "grammar",
-              current.item.level,
-              correct,
-              data.progress[current.item.id]
-            );
-            onAnswer(record);
-            if (correct) setSessionCorrect((c) => c + 1);
-          }}
-          onNext={() => setIndex((i) => i + 1)}
-        />
+      {plan && plan.reasons[current.item.id] && (
+        <p className="mt-3 text-xs text-(--color-muted)">
+          出題の理由：
+          <span className="ml-1 rounded-sm border border-(--color-gold) bg-(--color-gold-soft) px-2 py-0.5 text-(--color-ink)">
+            {PLAN_REASON_LABEL[plan.reasons[current.item.id]]}
+          </span>
+        </p>
+      )}
+
+      {current.kind === "word" && (
+        <WordCard key={current.item.id} word={current.item} {...common} />
+      )}
+      {current.kind === "grammar" && (
+        <GrammarCard key={current.item.id} question={current.item} {...common} />
+      )}
+      {current.kind === "listeningPart1" && (
+        <Part1Card key={current.item.id} question={current.item} {...common} />
+      )}
+      {current.kind === "listeningPart2" && (
+        <Part2Card key={current.item.id} question={current.item} {...common} />
+      )}
+      {current.kind === "listeningPart34" && (
+        <Part34Card key={current.item.id} set={current.item} restored={restored} {...common} />
+      )}
+      {current.kind === "part6" && (
+        <Part6Card key={current.item.id} passage={current.item} restored={restored} {...common} />
+      )}
+      {current.kind === "reading" && (
+        <ReadingCard key={current.item.id} passage={current.item} restored={restored} {...common} />
       )}
     </div>
   );
 }
 
-function QuickWordCard({
-  word,
-  isBookmarked,
-  onToggleBookmark,
-  onAnswer,
+type PlanKind = "plan" | "leech" | "bridge";
+
+/** 設定画面の先頭に表示する「今日のおすすめセット」のカード */
+function PlanCard({
+  leechCount,
+  reviewDue,
+  onStartPlan,
+  onStartLeech,
 }: {
-  word: Word;
-  isBookmarked: boolean;
-  onToggleBookmark: () => void;
-  onAnswer: (knewIt: boolean) => void;
+  leechCount: number;
+  reviewDue: number;
+  onStartPlan: () => void;
+  onStartLeech: () => void;
 }) {
-  const [flipped, setFlipped] = useState(false);
-
   return (
-    <>
-      <div className="relative mt-8">
+    <div className="mt-5 rounded-sm border border-(--color-gold) bg-(--color-gold-soft) p-4">
+      <p className="font-medium text-(--color-ink)">今日のおすすめセット</p>
+      <p className="mt-1 text-xs leading-relaxed text-(--color-ink-soft)">
+        復習・苦手・弱点・新しい問題をバランスよく混ぜて、{DEFAULT_PLAN_COUNT}
+        問を自動で選びます。迷わずすぐ始められます。
+        {reviewDue > 0 && `（復習日を迎えた問題：${reviewDue}問）`}
+      </p>
+      <button
+        onClick={onStartPlan}
+        className="mt-3 w-full rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"
+      >
+        おすすめセットを始める
+      </button>
+      {leechCount > 0 && (
         <button
-          onClick={onToggleBookmark}
-          aria-label={isBookmarked ? "ブックマークを外す" : "ブックマークする"}
-          className="absolute right-3 top-3 z-10 p-1.5"
+          onClick={onStartLeech}
+          className="mt-2 w-full rounded-sm border border-(--color-line) bg-(--color-paper-raised) py-3 text-sm font-medium text-(--color-ink)"
         >
-          <BookmarkIcon filled={isBookmarked} />
+          何度も間違える問題だけ練習する（{leechCount}問）
         </button>
-
-        <button
-          onClick={() => setFlipped((f) => !f)}
-          className="min-h-[240px] w-full rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-8 text-left"
-        >
-          {!flipped ? (
-            <div className="flex h-full min-h-[180px] flex-col items-center justify-center text-center">
-              <p className="font-(family-name:--font-display) text-4xl font-medium text-(--color-ink)">
-                {word.word}
-              </p>
-              <p className="mt-6 text-xs text-(--color-muted)">タップして意味を表示</p>
-            </div>
-          ) : (
-            <div>
-              <p className="font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
-                {word.word}
-              </p>
-              <p className="mt-3 text-lg text-(--color-ink-soft)">{word.meaning}</p>
-              <div className="mt-5 border-t border-(--color-line) pt-4">
-                <p className="text-sm leading-relaxed text-(--color-muted)">{word.example}</p>
-              </div>
-            </div>
-          )}
-        </button>
-      </div>
-
-      {flipped && (
-        <div className="mt-6 grid grid-cols-2 gap-3">
-          <button
-            onClick={() => onAnswer(false)}
-            className="rounded-sm border border-(--color-incorrect) bg-(--color-incorrect-soft) py-3.5 font-medium text-(--color-incorrect)"
-          >
-            わからない
-          </button>
-          <button
-            onClick={() => onAnswer(true)}
-            className="rounded-sm border border-(--color-correct) bg-(--color-correct-soft) py-3.5 font-medium text-(--color-correct)"
-          >
-            わかる
-          </button>
-        </div>
       )}
-    </>
+    </div>
   );
 }
 
-function QuickGrammarCard({
-  question,
-  isBookmarked,
-  onToggleBookmark,
-  onAnswered,
-  onNext,
+/** 設定画面に表示する「中断中のセッション」のカード */
+function ResumeCard({
+  saved,
+  onResume,
+  onDiscard,
 }: {
-  question: GrammarQuestion;
-  isBookmarked: boolean;
-  onToggleBookmark: () => void;
-  onAnswered: (correct: boolean) => void;
-  onNext: () => void;
+  saved: NonNullable<ReturnType<typeof loadQuickSession>>;
+  onResume: () => void;
+  onDiscard: () => void;
 }) {
-  const [selected, setSelected] = useState<number | null>(null);
-
-  function handleSelect(choiceIndex: number) {
-    if (selected !== null) return;
-    setSelected(choiceIndex);
-    onAnswered(choiceIndex === question.answer);
-  }
+  const total = totalQuestions(saved.queue);
+  const position = firstUnansweredIndex(saved.queue, saved.results);
+  const current = position === -1 ? null : saved.queue[position];
+  // 複数の設問を持つセットを途中まで解いていた場合は、続きから再開することを伝える
+  const midSet =
+    current !== null &&
+    saved.results.some((r) => r.q.item.id === current.item.id)
+      ? current
+      : null;
 
   return (
-    <>
-      <div className="relative mt-6">
+    <div className="mt-6 rounded-sm border border-(--color-gold) bg-(--color-gold-soft) p-4">
+      <p className="text-sm font-medium text-(--color-ink)">中断中のセッションがあります</p>
+      <p className="mt-1 text-xs leading-relaxed text-(--color-ink-soft)">
+        {saved.results.length} / {total}問 解答済み ・ {formatSavedAt(saved.savedAt)} に中断
+        {midSet && `。「${CATEGORY_LABEL[midSet.kind]}」は解答済みの設問を飛ばして、続きの設問から再開します`}
+      </p>
+      <div className="mt-3 flex gap-2">
         <button
-          onClick={onToggleBookmark}
-          aria-label={isBookmarked ? "ブックマークを外す" : "ブックマークする"}
-          className="absolute right-3 top-3 z-10 p-1.5"
+          onClick={onResume}
+          className="flex-1 rounded-sm bg-(--color-ink) py-2.5 text-sm font-medium text-(--color-paper)"
         >
-          <BookmarkIcon filled={isBookmarked} />
+          続きから再開
         </button>
-        <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-6 pr-12">
-          <p className="text-lg leading-relaxed text-(--color-ink)">{question.question}</p>
-        </div>
+        <button
+          onClick={onDiscard}
+          className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) px-4 py-2.5 text-sm text-(--color-ink)"
+        >
+          破棄
+        </button>
       </div>
-
-      <div className="mt-5 space-y-2.5">
-        {question.choices.map((choice, i) => {
-          const isCorrectChoice = i === question.answer;
-          const isSelected = i === selected;
-          let style = "border-(--color-line) bg-(--color-paper-raised) text-(--color-ink)";
-          if (selected !== null) {
-            if (isCorrectChoice) {
-              style =
-                "border-(--color-correct) bg-(--color-correct-soft) text-(--color-correct)";
-            } else if (isSelected) {
-              style =
-                "border-(--color-incorrect) bg-(--color-incorrect-soft) text-(--color-incorrect)";
-            } else {
-              style = "border-(--color-line) bg-(--color-paper-raised) text-(--color-muted)";
-            }
-          }
-          return (
-            <button
-              key={i}
-              onClick={() => handleSelect(i)}
-              disabled={selected !== null}
-              className={`w-full rounded-sm border px-4 py-3 text-left transition-colors ${style}`}
-            >
-              {choice}
-            </button>
-          );
-        })}
-      </div>
-
-      {selected !== null && (
-        <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
-          <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
-            {question.explanation}
-          </p>
-          <button
-            onClick={onNext}
-            className="mt-4 w-full rounded-sm bg-(--color-ink) py-3 text-sm font-medium text-(--color-paper)"
-          >
-            次の問題へ
-          </button>
-        </div>
-      )}
-    </>
+      <p className="mt-2 text-[11px] text-(--color-muted)">
+        新しく始めると、中断中のセッションは破棄されます。
+      </p>
+    </div>
   );
 }

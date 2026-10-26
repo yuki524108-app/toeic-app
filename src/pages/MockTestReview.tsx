@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import type { AppData, MockTestAnswerRecord } from "../types";
 import { findReviewContent } from "../lib/mockReview";
+import { isLegacyChoiceOrder, legacyToCurrentIndex } from "../lib/choiceOrder";
 import type { ReviewableContent } from "../lib/mockReview";
 
 const CHOICE_LABELS = ["A", "B", "C", "D"] as const;
@@ -66,7 +67,11 @@ export default function MockTestReview({ data }: { data: AppData }) {
           </p>
           <div className="mt-5 space-y-6">
             {missed.map((record) => (
-              <MissedQuestionCard key={record.id} record={record} />
+              <MissedQuestionCard
+                key={record.id}
+                record={record}
+                legacyOrder={isLegacyChoiceOrder(result)}
+              />
             ))}
           </div>
         </>
@@ -82,7 +87,13 @@ export default function MockTestReview({ data }: { data: AppData }) {
   );
 }
 
-function MissedQuestionCard({ record }: { record: MockTestAnswerRecord }) {
+function MissedQuestionCard({
+  record,
+  legacyOrder,
+}: {
+  record: MockTestAnswerRecord;
+  legacyOrder: boolean;
+}) {
   const content = findReviewContent(record.id, record.itemType);
 
   if (!content) {
@@ -97,6 +108,12 @@ function MissedQuestionCard({ record }: { record: MockTestAnswerRecord }) {
       </div>
     );
   }
+
+  // 選択肢の並べ替え前に受験した結果は、選んだ選択肢の番号が旧い並び順のものなので、現在の並びの番号に直す
+  const selected =
+    legacyOrder && record.selectedAnswer !== null
+      ? legacyToCurrentIndex(record.selectedAnswer, record.correctAnswer, content.correctAnswer)
+      : record.selectedAnswer;
 
   return (
     <div className="rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
@@ -132,7 +149,7 @@ function MissedQuestionCard({ record }: { record: MockTestAnswerRecord }) {
       <div className="mt-3 space-y-2">
         {content.choices.map((choice, i) => {
           const isCorrect = i === content.correctAnswer;
-          const isYourAnswer = i === record.selectedAnswer;
+          const isYourAnswer = i === selected;
           let style =
             "border-(--color-line) bg-(--color-paper) text-(--color-ink-soft)";
           if (isCorrect) {
@@ -160,7 +177,7 @@ function MissedQuestionCard({ record }: { record: MockTestAnswerRecord }) {
             </div>
           );
         })}
-        {record.selectedAnswer === null && (
+        {selected === null && (
           <p className="text-xs text-(--color-muted)">（未解答でした）</p>
         )}
       </div>

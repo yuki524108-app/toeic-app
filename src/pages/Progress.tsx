@@ -1,5 +1,6 @@
 import { useMemo, useRef, useState } from "react";
 import type { ChangeEvent } from "react";
+import { Link } from "react-router-dom";
 import {
   ResponsiveContainer,
   BarChart,
@@ -8,11 +9,36 @@ import {
   YAxis,
   Tooltip,
 } from "recharts";
-import grammarQuestions from "../data/grammar.json";
-import type { AppData, GrammarQuestion } from "../types";
-import { exportDataAsJSON, parseImportedJSON } from "../lib/storage";
+import grammarCategories from "../data/grammarCategories.json";
+import type { AppData } from "../types";
+import { localDateStr } from "../lib/date";
+import { displayStreak } from "../lib/streak";
+import { PART5_TARGET_SEC, leechRecords, timeStats, weeklyStats } from "../lib/history";
+import { MISS_REASONS, reasonTotals } from "../lib/missReason";
+import questionTypeIndex from "../data/questionTypes.json";
+import { questionTypeStats } from "../lib/questionTypeStats";
+import StudyHeatmap from "../components/StudyHeatmap";
+import { parseImportedJSON } from "../lib/storage";
+import { downloadBackup } from "../lib/backup";
 
-const grammarData = grammarQuestions as GrammarQuestion[];
+// 文法の問題データ（約640KB）ではなく、設問ID→カテゴリの小さな対応（約20KB）を使う（tools/build_item_index.py で生成）
+const categoryById = new Map(Object.entries(grammarCategories as Record<string, string>));
+
+const LEECH_TYPE_LABELS: [string, string][] = [
+  ["word", "単語"],
+  ["grammar", "文法"],
+  ["reading", "読解"],
+  ["part6", "Part 6"],
+  ["listeningPart1", "Part 1"],
+  ["listeningPart2", "Part 2"],
+  ["listeningPart34", "Part 3・4"],
+];
+
+/** 週の開始日（YYYY-MM-DD）を「10/5〜」の形にする */
+function weekLabel(weekStart: string): string {
+  const [, m, d] = weekStart.split("-");
+  return `${Number(m)}/${Number(d)}〜`;
+}
 
 export default function ProgressPage({
   data,
@@ -64,7 +90,6 @@ export default function ProgressPage({
 
   // 文法項目別の正答率（弱点分析）
   const grammarCategoryStats = useMemo(() => {
-    const categoryById = new Map(grammarData.map((g) => [g.id, g.category]));
     const buckets: Record<string, { correct: number; total: number }> = {};
     for (const r of grammarRecords) {
       const category = categoryById.get(r.itemId) ?? "語彙・イディオム";
@@ -88,7 +113,7 @@ export default function ProgressPage({
     for (let i = 13; i >= 0; i--) {
       const d = new Date();
       d.setDate(d.getDate() - i);
-      const iso = d.toISOString().slice(0, 10);
+      const iso = localDateStr(d);
       const log = data.dailyLogs[iso];
       days.push({
         date: iso,
@@ -116,17 +141,7 @@ export default function ProgressPage({
   } | null>(null);
 
   function handleExport() {
-    const json = exportDataAsJSON(data);
-    const blob = new Blob([json], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const dateStr = new Date().toISOString().slice(0, 10);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = `toeic-drill-backup-${dateStr}.json`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
+    downloadBackup(data);
   }
 
   function handleImportClick() {
@@ -159,13 +174,35 @@ export default function ProgressPage({
     reader.readAsText(file);
   }
 
+  // 正答率の推移（直近8週間）と、何度も間違える問題（解答の履歴。2.1.27）
+  const weeks = weeklyStats(data.dailyLogs, 8);
+  const hasWeeklyAccuracy = weeks.some((w) => w.accuracy !== null);
+  const leeches = leechRecords(data.progress);
+  // 間違えた理由の内訳（2.1.30）
+  const typeGroups = questionTypeStats(data.progress, questionTypeIndex as Record<string, string>);
+  const part5Time = timeStats(data.answerHistory, "grammar");
+  const reasons = reasonTotals(data.progress);
+  const reasonSum = MISS_REASONS.reduce((n, r) => n + reasons[r.id], 0);
+  const topReason = MISS_REASONS.reduce((best, r) => (reasons[r.id] > reasons[best.id] ? r : best));
+  const leechByType = LEECH_TYPE_LABELS.map(([type, label]) => ({
+    label,
+    n: leeches.filter((r) => r.itemType === type).length,
+  })).filter((x) => x.n > 0);
+
   return (
     <div className="mx-auto max-w-md px-5 pb-28 pt-8">
       <h1 className="font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
         進捗
       </h1>
 
-      <div className="mt-6 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
+      <div className="mt-6">
+        <StudyHeatmap
+          dailyLogs={data.dailyLogs}
+          streak={displayStreak(data.streak, data.lastStudyDate)}
+        />
+      </div>
+
+      <div className="mt-4 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-5">
         <p className="text-sm font-medium text-(--color-ink)">データのバックアップ</p>
         <p className="mt-1 text-xs leading-relaxed text-(--color-muted)">
           学習データはこの端末のブラウザ内にのみ保存されています。機種変更やブラウザデータの削除に備えて、定期的にファイルへ書き出しておくことをおすすめします。
@@ -250,6 +287,124 @@ export default function ProgressPage({
           </div>
 
           <div className="mt-8">
+            <h2 className="text-sm font-medium text-(--color-ink)">正答率の推移（週ごと）</h2>
+            {hasWeeklyAccuracy ? (
+              <div className="mt-3 space-y-3">
+                {weeks.map((w) => {
+                  const pct = w.accuracy === null ? 0 : Math.round(w.accuracy * 100);
+                  return (
+                    <div key={w.weekStart}>
+                      <div className="flex justify-between text-xs text-(--color-muted)">
+                        <span>
+                          {weekLabel(w.weekStart)}
+                          <span className="ml-1 text-(--color-line)">（{w.answered}問解答）</span>
+                        </span>
+                        <span>{w.accuracy === null ? "—" : `${pct}%`}</span>
+                      </div>
+                      <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
+                        <div className="h-full bg-(--color-gold)" style={{ width: `${pct}%` }} />
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            ) : (
+              <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+                正答率の推移は、これからの学習の記録をもとに表示されます。学習を続けると、週ごとの変化が見られるようになります。
+              </p>
+            )}
+          </div>
+
+          <div className="mt-8">
+            <h2 className="text-sm font-medium text-(--color-ink)">何度も間違える問題</h2>
+            {leeches.length > 0 ? (
+              <div className="mt-3 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-4">
+                <p className="text-sm text-(--color-ink)">
+                  <span className="font-medium text-(--color-incorrect)">{leeches.length}問</span>
+                  <span className="ml-2 text-xs text-(--color-muted)">
+                    {leechByType.map((x) => `${x.label} ${x.n}`).join(" ・ ")}
+                  </span>
+                </p>
+                <p className="mt-1 text-xs leading-relaxed text-(--color-muted)">
+                  通算3回以上間違えていて、まだ連続で3回正解できていない問題です。連続で3回正解すると、この一覧から外れます。
+                </p>
+                <Link
+                  to="/quick-study?plan=leech"
+                  className="mt-3 inline-block rounded-sm bg-(--color-ink) px-4 py-2 text-sm font-medium text-(--color-paper)"
+                >
+                  この問題だけ練習する
+                </Link>
+              </div>
+            ) : (
+              <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+                今のところ、何度も間違えている問題はありません。通算3回以上間違えた問題がここに表示されます。
+              </p>
+            )}
+          </div>
+
+          <div className="mt-8">
+            <h2 className="text-sm font-medium text-(--color-ink)">Part 5（文法）の解答時間</h2>
+            {part5Time && part5Time.n >= 5 ? (
+              <div className="mt-3 rounded-sm border border-(--color-line) bg-(--color-paper-raised) p-4">
+                <p className="text-sm text-(--color-ink)">
+                  中央値 <span className="font-medium">{Math.round(part5Time.medianSec)}秒</span>
+                  <span className="ml-2 text-xs text-(--color-muted)">
+                    （目安 {PART5_TARGET_SEC}秒 ・ 直近{part5Time.n}問）
+                  </span>
+                </p>
+                <p className="mt-1 text-xs text-(--color-muted)">
+                  {PART5_TARGET_SEC}秒以内に解答できた割合：{Math.round(part5Time.withinShare * 100)}%
+                  {part5Time.slowCorrect > 0 && ` ・ 正解でも${PART5_TARGET_SEC}秒を超えた問題：${part5Time.slowCorrect}問`}
+                </p>
+                <Link
+                  to="/timed-drill"
+                  className="mt-3 inline-block rounded-sm bg-(--color-ink) px-4 py-2 text-sm font-medium text-(--color-paper)"
+                >
+                  時間感覚トレーニングをする
+                </Link>
+              </div>
+            ) : (
+              <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+                文法の問題を解くたびに解答時間を記録します。5問以上たまると、ここに表示されます。時間を意識して解く練習は「時間感覚トレーニング」で。
+              </p>
+            )}
+          </div>
+
+          <div className="mt-8">
+            <h2 className="text-sm font-medium text-(--color-ink)">間違えた理由の内訳</h2>
+            {reasonSum > 0 ? (
+              <>
+                <div className="mt-3 space-y-3">
+                  {MISS_REASONS.map((r) => {
+                    const pct = Math.round((reasons[r.id] / reasonSum) * 100);
+                    return (
+                      <div key={r.id}>
+                        <div className="flex justify-between text-xs text-(--color-muted)">
+                          <span>
+                            {r.label}
+                            <span className="ml-1 text-(--color-line)">（{reasons[r.id]}件）</span>
+                          </span>
+                          <span>{pct}%</span>
+                        </div>
+                        <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
+                          <div className="h-full bg-(--color-gold)" style={{ width: `${pct}%` }} />
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+                <p className="mt-3 text-xs leading-relaxed text-(--color-muted)">
+                  最も多いのは「{topReason.label}」。{topReason.hint}。
+                </p>
+              </>
+            ) : (
+              <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+                間違えたときに、解説の「なぜ間違えた？」を選ぶと、理由の内訳がここに表示されます（任意）。理由によって、効く対策が変わります。
+              </p>
+            )}
+          </div>
+
+          <div className="mt-8">
             <h2 className="text-sm font-medium text-(--color-ink)">
               難易度別の正答率（弱点分析）
             </h2>
@@ -311,6 +466,49 @@ export default function ProgressPage({
                   </div>
                 ))}
               </div>
+            </div>
+          )}
+
+          {typeGroups.length > 0 && (
+            <div className="mt-8">
+              <h2 className="text-sm font-medium text-(--color-ink)">問題タイプ別の正答率（弱点分析）</h2>
+              <p className="mt-1 text-xs text-(--color-muted)">
+                問われ方（主旨・推測・詳細など）ごとの正答率です。正答率が低いタイプほど上に表示され、5問以上解いて60%未満のタイプは「弱点」として、おすすめセットでも優先して出題されます
+              </p>
+              {typeGroups.map((g) => (
+                <div key={g.itemType} className="mt-4">
+                  <p className="text-xs font-medium text-(--color-ink-soft)">{g.label}</p>
+                  <div className="mt-2 space-y-3">
+                    {g.rows.map((r) => {
+                      const pct = Math.round(r.accuracy * 100);
+                      return (
+                        <div key={r.key}>
+                          <div className="flex justify-between text-xs text-(--color-muted)">
+                            <span>
+                              {r.label}
+                              <span className="ml-1 text-(--color-line)">
+                                （{r.correct}/{r.answered}問）
+                              </span>
+                              {r.weak && (
+                                <span className="ml-2 rounded-sm bg-(--color-incorrect-soft) px-1.5 py-0.5 text-[10px] font-medium text-(--color-incorrect)">
+                                  弱点
+                                </span>
+                              )}
+                            </span>
+                            <span className={r.weak ? "font-medium text-(--color-incorrect)" : ""}>{pct}%</span>
+                          </div>
+                          <div className="mt-1 h-1.5 w-full overflow-hidden rounded-full bg-(--color-line)">
+                            <div
+                              className={`h-full ${r.weak ? "bg-(--color-incorrect)" : "bg-(--color-gold)"}`}
+                              style={{ width: `${pct}%` }}
+                            />
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              ))}
             </div>
           )}
         </>

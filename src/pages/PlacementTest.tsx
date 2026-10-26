@@ -5,6 +5,8 @@ import grammarQuestions from "../data/grammar.json";
 import type { AppData, GrammarQuestion, ProgressRecord, Word } from "../types";
 import { updateProgress } from "../lib/spacedRepetition";
 import { estimateScore } from "../lib/scoreEstimate";
+import { Announce } from "../components/Announce";
+import { answerLabel, verdictMessage } from "../lib/announce";
 
 const WORD_SAMPLE_SIZE = 15;
 const GRAMMAR_SAMPLE_SIZE = 15;
@@ -125,6 +127,11 @@ export default function PlacementTest({
             <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
               リスニングの学習を進めると、ホーム画面でリーディングと合算した総合スコアも表示されます
             </p>
+            {estimate.provisional && (
+              <p className="mt-2 text-xs leading-relaxed text-(--color-muted)">
+                単語は自己判定のため、この値は暫定です。文法・読解・Part 6を解き進めると、採点された問題だけの値に更新されます。
+              </p>
+            )}
           </div>
         )}
 
@@ -281,7 +288,14 @@ function GrammarQuestionBlock({
         })}
       </div>
       {selected !== null && (
-        <div className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+        <div role="region" aria-label="解説" className="mt-5 rounded-sm border border-(--color-line) bg-(--color-paper) p-4">
+          <Announce
+            message={verdictMessage(
+              selected === question.answer,
+              answerLabel(question.choices, question.answer),
+              question.explanation
+            )}
+          />
           <p className="whitespace-pre-line text-sm leading-relaxed text-(--color-ink-soft)">
             {question.explanation}
           </p>

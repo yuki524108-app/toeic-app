@@ -1,10 +1,16 @@
 import { useMemo, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import words from "../data/words.json";
-import type { AppData, ProgressRecord } from "../types";
+import type { AnswerConfidence, AppData, ProgressRecord } from "../types";
 import { updateProgress } from "../lib/spacedRepetition";
 import { filterByMode, parseStudyMode, modeLabel, emptyMessage } from "../lib/studyQueue";
 import { estimateAbilityLevel, recommendItems } from "../lib/recommendation";
+import { Announce } from "../components/Announce";
+import { FocusLabel } from "../components/FocusLabel";
+import { WordChoiceCard } from "../components/word/WordChoiceCard";
+import { WordSpellCard } from "../components/word/WordSpellCard";
+import { WORD_FORMATS, loadWordFormat, saveWordFormat } from "../lib/wordQuiz";
+import type { WordFormat } from "../lib/wordQuiz";
 
 export default function WordStudy({
   data,
@@ -31,24 +37,36 @@ export default function WordStudy({
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [sessionCorrect, setSessionCorrect] = useState(0);
+  const [format, setFormat] = useState<WordFormat>(loadWordFormat);
 
   const current = queue[index];
   const isDone = index >= queue.length;
   const isBookmarked = current ? data.bookmarks.includes(current.id) : false;
 
-  function handleAnswer(knewIt: boolean) {
+  /** 解答を記録する。確信のない正解（うろ覚え・あてずっぽう・ヒントを使った）は、翌日にもう一度出す */
+  function record(knewIt: boolean, confidence: AnswerConfidence = "sure") {
     if (!current) return;
-    const record = updateProgress(
-      current.id,
-      "word",
-      current.level,
-      knewIt,
-      data.progress[current.id]
+    onAnswer(
+      updateProgress(current.id, "word", current.level, knewIt, data.progress[current.id], confidence)
     );
-    onAnswer(record);
     if (knewIt) setSessionCorrect((c) => c + 1);
+  }
+
+  function next() {
     setFlipped(false);
     setIndex((i) => i + 1);
+  }
+
+  /** カード形式：自己判定の3段階 */
+  function handleSelfRating(knewIt: boolean, confidence: AnswerConfidence = "sure") {
+    record(knewIt, confidence);
+    next();
+  }
+
+  function changeFormat(f: WordFormat) {
+    setFormat(f);
+    saveWordFormat(f);
+    setFlipped(false);
   }
 
   if (queue.length === 0) {
@@ -65,11 +83,61 @@ export default function WordStudy({
         <Link to="/" className="text-sm text-(--color-muted)">
           ← ホーム
         </Link>
-        <span className="text-xs text-(--color-muted)">
+        <FocusLabel changeKey={index} className="text-xs text-(--color-muted)">
           {modeLabel[mode]} ・ {index + 1} / {queue.length}
-        </span>
+        </FocusLabel>
       </div>
 
+      <div role="group" aria-label="出題形式" className="mt-4 grid grid-cols-3 gap-2">
+        {WORD_FORMATS.map((f) => (
+          <button
+            key={f.id}
+            onClick={() => changeFormat(f.id)}
+            aria-pressed={format === f.id}
+            className={`rounded-sm border px-2 py-2 text-center ${
+              format === f.id
+                ? "border-(--color-gold) bg-(--color-gold-soft) text-(--color-ink)"
+                : "border-(--color-line) text-(--color-muted)"
+            }`}
+          >
+            <span className="block text-sm font-medium">{f.label}</span>
+            <span className="block text-[10px]">{f.hint}</span>
+          </button>
+        ))}
+      </div>
+
+      {format !== "card" && (
+        <div className="relative">
+          <div className="absolute right-2 top-2 z-10">
+            <button
+              onClick={() => onToggleBookmark(current.id)}
+              aria-label={isBookmarked ? "ブックマークを外す" : "ブックマークする"}
+              className="p-1.5"
+            >
+              <BookmarkIcon filled={isBookmarked} />
+            </button>
+          </div>
+          {format === "choice" ? (
+            <WordChoiceCard
+              key={`c-${current.id}`}
+              word={current}
+              pool={words}
+              onRecord={record}
+              onNext={next}
+            />
+          ) : (
+            <WordSpellCard
+              key={`s-${current.id}`}
+              word={current}
+              pool={words}
+              onRecord={record}
+              onNext={next}
+            />
+          )}
+        </div>
+      )}
+
+      {format === "card" && (
       <div className="relative mt-8">
         <button
           onClick={() => onToggleBookmark(current.id)}
@@ -94,6 +162,7 @@ export default function WordStudy({
             </div>
           ) : (
             <div>
+              <Announce message={`${current.word}。${current.pos ? `${current.pos}。` : ""}${current.meaning}`} />
               <p className="font-(family-name:--font-display) text-2xl font-medium text-(--color-ink)">
                 {current.word}
               </p>
@@ -123,21 +192,34 @@ export default function WordStudy({
         </button>
       </div>
 
-      {flipped && (
-        <div className="mt-6 grid grid-cols-2 gap-3">
+      )}
+
+      {format === "card" && flipped && (
+        <div className="mt-6 grid grid-cols-3 gap-2">
           <button
-            onClick={() => handleAnswer(false)}
-            className="rounded-sm border border-(--color-incorrect) bg-(--color-incorrect-soft) py-3.5 font-medium text-(--color-incorrect)"
+            onClick={() => handleSelfRating(false)}
+            className="rounded-sm border border-(--color-incorrect) bg-(--color-incorrect-soft) py-3.5 text-sm font-medium text-(--color-incorrect)"
           >
             わからない
           </button>
           <button
-            onClick={() => handleAnswer(true)}
-            className="rounded-sm border border-(--color-correct) bg-(--color-correct-soft) py-3.5 font-medium text-(--color-correct)"
+            onClick={() => handleSelfRating(true, "unsure")}
+            className="rounded-sm border border-(--color-gold) bg-(--color-gold-soft) py-3.5 text-sm font-medium text-(--color-ink)"
+          >
+            うろ覚え
+          </button>
+          <button
+            onClick={() => handleSelfRating(true)}
+            className="rounded-sm border border-(--color-correct) bg-(--color-correct-soft) py-3.5 text-sm font-medium text-(--color-correct)"
           >
             わかる
           </button>
         </div>
+      )}
+      {format === "card" && flipped && (
+        <p className="mt-2 text-center text-[11px] text-(--color-muted)">
+          「うろ覚え」は正解として数えますが、明日もう一度出します
+        </p>
       )}
     </div>
   );
