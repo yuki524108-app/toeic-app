@@ -1,0 +1,370 @@
+[
+  {
+    "id": "r129",
+    "passageJa": "山田様\n\n貴社との現在のサービス契約が今月末で満了となるため、更新の選択肢についてご相談したくご連絡いたしました[cite: 5]。前回の契約以降、貴社の事業ニーズにより適した価値を提供できる可能性のある新プランをいくつか導入しております[cite: 5]。\n\n今週中に簡単な電話の時間を設け、利用可能な選択肢についてご説明し、ご質問にお答えできれば幸いです[cite: 5]。ご都合の良い日時をいくつかお知らせください[cite: 5]。\n\nこれまでの変わらぬパートナーシップに心より感謝申し上げますとともに、今後どのように貴社のビジネスを最善の形でサポートできるか話し合えることを楽しみにしております[cite: 5]。\n\n敬具\nアカウントマネージャー\nエミリー・チェン[cite: 5]",
+    "vocab": [
+      "service contract：サービス契約",
+      "expire：満了する、期限が切れる",
+      "renewal option：更新の選択肢",
+      "walk through：〜を順を追って説明する",
+      "partnership：協力関係、パートナーシップ"
+    ],
+    "questions": [
+      {
+        "id": "r129q1",
+        "questionJa": "エミリー・チェンが山田氏に連絡している理由は何ですか[cite: 5]。",
+        "choicesJa": [
+          "契約をキャンセルするため",
+          "契約更新の選択肢について話し合うため",
+          "サービスの問題について謝罪するため",
+          "新入社員を紹介するため"
+        ],
+        "explanationDetail": "第1段落で「reach out to discuss renewal options（更新の選択肢について話し合うために連絡した）」と明確に示されています[cite: 5]。"
+      },
+      {
+        "id": "r129q2",
+        "questionJa": "エミリーは何をすることを申し出ていますか[cite: 5]。",
+        "choicesJa": [
+          "書面による提案書のみを送付すること",
+          "選択肢を話し合うための電話のスケジュールを組むこと",
+          "山田氏のオフィスを訪問すること",
+          "契約を自動的に延長すること"
+        ],
+        "explanationDetail": "第2段落で「schedule a brief call this week to walk you through the available options（利用可能な選択肢を説明するための短い電話を予定する）」と申し出ています[cite: 5]。"
+      },
+      {
+        "id": "r129q3",
+        "questionJa": "山田氏は何を提示するよう求められていますか[cite: 5]。",
+        "choicesJa": [
+          "支払い情報",
+          "都合の良い幾つかの日時",
+          "書面による苦情",
+          "現在の契約番号"
+        ],
+        "explanationDetail": "第2段落の最後に「Please let me know a few times that work for you（都合の良い日時をいくつか知らせてください）」と求められています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r130",
+    "passageJa": "全スタッフを、11月8日（金）午後6時よりグランドボールルームにて開催される今年の『優秀従業員表彰式（Employee Excellence Awards）』にご招待いたします[cite: 5]。本イベントでは、イノベーション、チームワーク、カスタマーサービスなど、いくつかの部門における顕著な実績を表彰いたします[cite: 5]。\n\n夕食と軽食が用意されており、フォーマルな服装でお越しください[cite: 5]。賞のノミネートは今秋前半に各部門のマネージャーから提出されており、受賞者は式典中に発表されます[cite: 5]。\n\n座席に限りがあり先着順で指定されるため、本メールのリンクより11月1日までに参加登録（RSVP）をお願いいたします[cite: 5]。",
+    "vocab": [
+      "recognize：〜を表彰する、評価する",
+      "outstanding achievement：顕著な業績・成果",
+      "formal attire：フォーマルな服装、正装",
+      "nomination：ノミネート、推薦",
+      "first-come, first-served：先着順の"
+    ],
+    "questions": [
+      {
+        "id": "r130q1",
+        "questionJa": "このイベントの目的は何ですか[cite: 5]。",
+        "choicesJa": [
+          "新入社員を発表するため",
+          "顕著な業績を表彰するため",
+          "年間予算について議論するため",
+          "会社の創立記念日を祝うため"
+        ],
+        "explanationDetail": "第1段落に「recognize outstanding achievements（顕著な実績・成果を表彰する）」と目的が明記されています[cite: 5]。"
+      },
+      {
+        "id": "r130q2",
+        "questionJa": "ノミネートを提出したのは誰ですか[cite: 5]。",
+        "choicesJa": [
+          "従業員自身",
+          "部門マネージャー",
+          "外部の審査員",
+          "顧客"
+        ],
+        "explanationDetail": "第2段落に「Nominations... were submitted by department managers（ノミネートは部門マネージャーによって提出された）」と書かれています[cite: 5]。"
+      },
+      {
+        "id": "r130q3",
+        "questionJa": "従業員はいつまでにRSVP（出欠回答）をする必要がありますか[cite: 5]。",
+        "choicesJa": [
+          "11月1日",
+          "11月8日",
+          "10月1日",
+          "イベント当日"
+        ],
+        "explanationDetail": "第3段落に「Please RSVP by November 1（11月1日までにRSVPしてください）」と記載されています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r131",
+    "passageJa": "SparkleClean Home Services では今月、新規のお客様向けに初回ディープクリーニングサービスが30%割引となる特別お試し価格を提供しております[cite: 5]。当社の研修を受けたプロフェッショナルが環境に優しい洗剤を使用し、キッチン、バスルーム、リビングスペースを徹底的に掃除いたします[cite: 5]。\n\nお客様に安心していただけるよう、当社の清掃員は全員身元調査済みで保険に加入しています[cite: 5]。ご予約は当社ウェブサイトまたはモバイルアプリから簡単に行うことができ、同週内のご予約も対応可能な場合が多くあります[cite: 5]。\n\n今すぐお問い合わせいただき、初回のクリーニングをご予約のうえ、SparkleClean が地域で最も高い評価を得ている清掃サービスに選ばれている理由をご確認ください[cite: 5]。",
+    "vocab": [
+      "introductory rate：特別お試し価格、導入割引価格",
+      "deep-cleaning：ディープクリーニング、大掃除",
+      "eco-friendly：環境に優しい",
+      "background-checked：身元調査済みの",
+      "insured：保険に加入している"
+    ],
+    "questions": [
+      {
+        "id": "r131q1",
+        "questionJa": "どのような割引が提供されていますか[cite: 5]。",
+        "choicesJa": [
+          "全サービス10%割引",
+          "初回のディープクリーニングサービスが30%割引",
+          "無料のお試しクリーニング",
+          "紹介による50%割引"
+        ],
+        "explanationDetail": "第1段落に「30% off your first deep-cleaning service（初回のディープクリーニングサービス30%割引）」と明確に提示されています[cite: 5]。"
+      },
+      {
+        "id": "r131q2",
+        "questionJa": "清掃員について正しい内容はどれですか[cite: 5]。",
+        "choicesJa": [
+          "ボランティアである",
+          "身元調査済みで保険に加入している",
+          "週末のみ稼働している",
+          "長期契約が必要である"
+        ],
+        "explanationDetail": "第2段落冒頭に「cleaners are background-checked and insured（清掃員は身元調査済みで保険加入している）」と説明されています[cite: 5]。"
+      },
+      {
+        "id": "r131q3",
+        "questionJa": "顧客はどのようにサービスを予約できますか[cite: 5]。",
+        "choicesJa": [
+          "郵送のみ",
+          "ウェブサイトまたはモバイルアプリを通じて",
+          "オフィスに直接訪問して",
+          "旅行代理店を通じて"
+        ],
+        "explanationDetail": "第2段落に「Booking is easy through our website or mobile app（ウェブサイトやモバイルアプリから簡単に予約できる）」と記述されています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r132",
+    "passageJa": "ミルバンク公共図書館は、町の創立に関する何千もの歴史的文書、写真、新聞をデジタル化する数か年プロジェクトを開始しました[cite: 5]。完了次第、このコレクションは世界中の研究者や一般の方々にオンラインで無料公開されます[cite: 5]。\n\n本プロジェクトは、州の補助金および地元の歴史愛好家からの寄付によって資金調達されています[cite: 5]。図書館スタッフによると、作業の中で最も困難な部分は、1世紀以上前のものも含まれる傷みやすい資料の取り扱いです[cite: 5]。\n\n図書館は、町の初期産業期を網羅するデジタル化資料の第1弾を、今年末までに公開する予定です[cite: 5]。",
+    "vocab": [
+      "digitize：〜をデジタル化する",
+      "state grant：州の補助金・助成金",
+      "enthusiast：愛好家、ファン",
+      "fragile material：壊れやすい・傷みやすい資料",
+      "batch：一括、第1弾、グループ"
+    ],
+    "questions": [
+      {
+        "id": "r132q1",
+        "questionJa": "図書館は何を行っていますか[cite: 5]。",
+        "choicesJa": [
+          "新館の建設",
+          "歴史的文書のデジタル化",
+          "永久閉館",
+          "古本市（ブックセール）の開催"
+        ],
+        "explanationDetail": "第1段落に「project to digitize thousands of historical documents...（何千もの歴史的文書をデジタル化するプロジェクト）」を行っていると記載されています[cite: 5]。"
+      },
+      {
+        "id": "r132q2",
+        "questionJa": "プロジェクトはどのように資金調達されていますか[cite: 5]。",
+        "choicesJa": [
+          "全額市による資金調達",
+          "州の補助金と地元の寄付",
+          "連邦税",
+          "図書館の利用料（会員費）"
+        ],
+        "explanationDetail": "第2段落冒頭に「funded by a state grant along with donations from local history enthusiasts（州の補助金と地元の歴史愛好家からの寄付）」と説明されています[cite: 5]。"
+      },
+      {
+        "id": "r132q3",
+        "questionJa": "作業の中で最も困難な部分とされているものは何ですか[cite: 5]。",
+        "choicesJa": [
+          "スキャンのスピード",
+          "傷みやすい（破損しやすい）資料の取り扱い",
+          "資金の確保",
+          "スタッフの研修"
+        ],
+        "explanationDetail": "第2段落に「the most challenging part of the work is handling fragile materials（最も困難な部分は傷みやすい資料の取り扱い）」と述べられています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r133",
+    "passageJa": "アルバラード様\n\nこの度は SoundWave Bluetooth スピーカーをご購入いただき、誠にありがとうございます[cite: 5]。製品をお楽しみいただけていることを願っております！小規模事業者である当社にとって、製品の改善を図るうえでお客様からのフィードバックは非常に大きな役割を果たしております[cite: 5]。\n\n当社ウェブサイトにて短いレビューをご執筆いただき、体験談をご共有いただけないでしょうか？お時間は約2分ほどで完了いたします[cite: 5]。感謝の気持ちを込めまして、次回のご購入時にご利用いただける15%割引コードをお送りいたします[cite: 5]。\n\n万が一、スピーカーに不具合や問題がございましたら、レビューではなく本メールに直接ご返信ください[cite: 5]。サポートチームがすぐに対応させていただきます[cite: 5]。\n\nよろしくお願いいたします[cite: 5]。\nSoundWave チーム[cite: 5]",
+    "vocab": [
+      "customer feedback：顧客の意見・フィードバック",
+      "review：レビュー、評価・感想",
+      "discount code：割引コード",
+      "issue：問題、不具合",
+      "support team：サポートチーム、カスタマーサポート"
+    ],
+    "questions": [
+      {
+        "id": "r133q1",
+        "questionJa": "このメールの主な目的は何ですか[cite: 5]。",
+        "choicesJa": [
+          "製品のリコールを発表するため",
+          "顧客にレビューを依頼するため",
+          "配送先住所を確認するため",
+          "新製品ラインを宣伝するため"
+        ],
+        "explanationDetail": "第2段落に「share your experience by writing a short review on our website（ウェブサイトで短いレビューを投稿して体験談を共有してもらう）」ことが目的として書かれています[cite: 5]。"
+      },
+      {
+        "id": "r133q2",
+        "questionJa": "レビューを投稿した顧客には何が送られますか[cite: 5]。",
+        "choicesJa": [
+          "無料のスピーカー",
+          "15%の割引コード",
+          "現金での返金",
+          "ギフトカード"
+        ],
+        "explanationDetail": "第2段落の最後に「we'll send you a discount code for 15% off your next purchase（次回使える15%割引コードを送る）」と記されています[cite: 5]。"
+      },
+      {
+        "id": "r133q3",
+        "questionJa": "製品に問題があった場合、顧客はどうすべきですか[cite: 5]。",
+        "choicesJa": [
+          "オンライン上に投稿する",
+          "メールに返信してサポートを受ける",
+          "店舗に返品する",
+          "問題を無視する"
+        ],
+        "explanationDetail": "第3段落に「reply directly to this email instead, and our support team will assist you（本メールに直接返信すればサポートチームが対応する）」と指示されています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r134",
+    "passageJa": "施設管理チームより、今週木曜日の午前11:30から午後1:30までメインカフェテリアにて開催されるメニュー試食会に、全従業員の皆様をご招待いたします[cite: 5]。今度のメニュー改定に向けていくつかの新しい料理が検討されており、決定する前に皆様のご意見を伺いたいと考えております[cite: 5]。\n\nご参加いただいた方は、5種類の新しい料理を試食し、簡単なアンケートを通じてお気に入りのものに投票することができます[cite: 5]。ベジタリアン表記やアレルゲン表示を含む食事関連情報は、各ブースに明確に提示されます[cite: 5]。\n\n事前の参加登録は不要ですので、イベント開催時間内にいつでもお気軽にお立ち寄りください[cite: 5]。",
+    "vocab": [
+      "facilities team：施設管理チーム",
+      "menu tasting：メニュー試食会",
+      "sample：〜を試食・試飲する",
+      "dietary information：食事に関する情報",
+      "registration：登録、申込み"
+    ],
+    "questions": [
+      {
+        "id": "r134q1",
+        "questionJa": "このイベントの目的は何ですか[cite: 5]。",
+        "choicesJa": [
+          "会社の祝日を祝うため",
+          "従業員に新しい料理を試食させて投票してもらうため",
+          "カフェテリアの新人スタッフを研修するため",
+          "メニューの値上げを発表するため"
+        ],
+        "explanationDetail": "第2段落冒頭に「sample five new dishes and vote for their favorites（5つの新料理を試食しお気に入りに投票する）」と書かれています[cite: 5]。"
+      },
+      {
+        "id": "r134q2",
+        "questionJa": "各フードステーション（ブース）には何が掲示されますか[cite: 5]。",
+        "choicesJa": [
+          "価格",
+          "食事・成分に関する情報",
+          "シェフの名前",
+          "調理時間"
+        ],
+        "explanationDetail": "第2段落後半に「Dietary information... will be clearly posted at each station（食事に関する情報が各ステーションに明確に掲示される）」と記載されています[cite: 5]。"
+      },
+      {
+        "id": "r134q3",
+        "questionJa": "参加にあたって従業員は事前登録が必要ですか[cite: 5]。",
+        "choicesJa": [
+          "はい、事前にオンラインで必要",
+          "はい、人事部に電話で必要",
+          "登録は不要",
+          "マネージャーのみ登録が必要"
+        ],
+        "explanationDetail": "第3段落に「No registration is required（登録は不要）」と明記されています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r135",
+    "passageJa": "3年間にわたる建設期間を経て、新しいハーバービュー・ブリッジが今朝正式に開通し、遠回りすることなく市内の東側と西側が初めて接続されました[cite: 5]。地元の関係者らがテープカット式典に集まり、同橋を地域交通における重要な節目（マイルストーン）と称えました[cite: 5]。\n\nこの8,000万ドルのプロジェクトは、毎日利用する何千人ものドライバーの通勤時間を最大20分短縮するように設計されています[cite: 5]。また、計画プロセスの初期に行われた住民意見交換会を経て追加された機能として、サイクリストおよび歩行者用の専用レーンも設置されています[cite: 5]。\n\nドライバーが新しいルートに慣れるにつれ、周辺の交通パターンは今後数週間で安定すると関係者は予測しています[cite: 5]。",
+    "vocab": [
+      "detour：回り道、迂回路",
+      "ribbon-cutting ceremony：テープカット式典",
+      "commute time：通勤時間",
+      "dedicated lane：専用レーン",
+      "public input session：住民意見交換会"
+    ],
+    "questions": [
+      {
+        "id": "r135q1",
+        "questionJa": "新しい橋は何と何をつないでいますか[cite: 5]。",
+        "choicesJa": [
+          "近隣の2つの都市",
+          "市内の東側と西側",
+          "空港とダウンタウン",
+          "隣接する2つの州"
+        ],
+        "explanationDetail": "第1段落に「connecting the eastern and western sides of the city（市内の東側と西側を接続する）」と書かれています[cite: 5]。"
+      },
+      {
+        "id": "r135q2",
+        "questionJa": "住民の意見に基づいて追加された機能は何ですか[cite: 5]。",
+        "choicesJa": [
+          "料金所",
+          "サイクリストおよび歩行者用の専用レーン",
+          "展望スポット",
+          "追加の駐車場"
+        ],
+        "explanationDetail": "第2段落に「dedicated lane for cyclists and pedestrians, a feature that was added after public input sessions（住民意見交換会を経て追加された自転車・歩行者専用レーン）」と記述されています[cite: 5]。"
+      },
+      {
+        "id": "r135q3",
+        "questionJa": "関係者は今後数週間でどのようなことを予測していますか[cite: 5]。",
+        "choicesJa": [
+          "工事の増加",
+          "交通パターンの安定化",
+          "通行料の値上げ",
+          "橋の閉鎖"
+        ],
+        "explanationDetail": "第3段落に「traffic patterns in the area to stabilize within the next few weeks（周辺の交通パターンが今後数週間で安定する）」と述べられています[cite: 5]。"
+      }
+    ]
+  },
+  {
+    "id": "r136",
+    "passageJa": "クライアントの皆様へ[cite: 5]\n\n来月1日より、当社のオフィスがウェリントン・アベニュー88番地の新住所へ移転する運びとなりましたことをお知らせいたします[cite: 5]。新店舗は、近くの公共交通機関や来客用の追加駐車場など、アクセスの良さが向上しております[cite: 5]。\n\nすべての電話番号およびメールアドレスは従来通り変更ございませんので、引き続きご連絡いただけます[cite: 5]。なお、移転に伴い、30日から31日までの2営業日期間は休業とさせていただきますのでご注意ください[cite: 5]。\n\n新しいオフィスにて皆様をお迎えできることを心より楽しみにしております[cite: 5]。今後とも変わらぬご愛顧を賜りますようお願い申し上げます[cite: 5]。\n\n敬具[cite: 5]\nクライアントサービスチーム[cite: 5]",
+    "vocab": [
+      "relocate：移転する",
+      "accessibility：アクセスの良さ、便利さ",
+      "public transit：公共交通機関",
+      "remain the same：同じままである、変更ない",
+      "business day：営業日"
+    ],
+    "questions": [
+      {
+        "id": "r136q1",
+        "questionJa": "会社の何が変更されますか[cite: 5]。",
+        "choicesJa": [
+          "電話番号",
+          "オフィスの住所",
+          "永久的な営業時間",
+          "所有権"
+        ],
+        "explanationDetail": "第1段落に「relocating to a new address（新住所へ移転する）」と示されています[cite: 5]。"
+      },
+      {
+        "id": "r136q2",
+        "questionJa": "何が変更されずにそのままですか[cite: 5]。",
+        "choicesJa": [
+          "営業時間",
+          "電話番号とメールアドレス",
+          "駐車場の状況",
+          "スタッフ"
+        ],
+        "explanationDetail": "第2段落冒頭に「All phone numbers and email addresses will remain the same（電話番号とメールアドレスはすべて同じまま）」と明記されています[cite: 5]。"
+      },
+      {
+        "id": "r136q3",
+        "questionJa": "オフィスはいつ休業しますか[cite: 5]。",
+        "choicesJa": [
+          "来月丸ごと",
+          "30日から31日まで",
+          "1日のみ",
+          "毎週金曜日"
+        ],
+        "explanationDetail": "第2段落後半に「closed for two business days... from the 30th through the 31st（30日から31日までの2営業日休業する）」と書かれています[cite: 5]。"
+      }
+    ]
+  }
+]

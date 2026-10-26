@@ -1,0 +1,373 @@
+```json
+[
+  {
+    "id": "r137",
+    "passageJa": "人事部では、経験豊富な従業員と新しいスタッフをペアにして専門的な指導やサポートを提供する、間もなく始まるメンターシップ・プログラムに参加するメンターの募集を受け付けています[cite: 6]。\n\nメンターは、担当するメンティーと6か月間、少なくとも月に2回面談し、キャリア開発、職場でのスキル、企業文化に関するフィードバックを提供することが期待されています[cite: 6]。メンターはボランティア（有志）の役割ですが、参加者には認定証が授与され、将来のリーダーシップ研修機会の優先的な考慮が与えられます[cite: 6]。\n\nメンターになることに興味のある従業員は、社歴が3年以上あり、月末までに人事ポータルを通じて応募申請を提出する必要があります[cite: 6]。",
+    "vocab": [
+      "mentor：メンター、指導者・助言者",
+      "mentee：メンティー、被指導者",
+      "professional guidance：専門的な指導・助言",
+      "certificate of recognition：表彰状、認定証",
+      "priority consideration：優先的な考慮・優遇"
+    ],
+    "questions": [
+      {
+        "id": "r137q1",
+        "questionJa": "このプログラムの目的は何ですか[cite: 6]。",
+        "choicesJa": [
+          "新入社員をリクルートするため",
+          "経験豊富な従業員と新しいスタッフをペアにするため",
+          "ボーナスを通じて離職率を低下させるため",
+          "カスタマーサービスの担当者を研修するため"
+        ],
+        "explanationDetail": "第1段落に「designed to pair experienced employees with newer staff members（経験豊富な従業員と新しいスタッフをペアにするように設計された）」と示されています[cite: 6]。"
+      },
+      {
+        "id": "r137q2",
+        "questionJa": "メンターはメンティーとどのくらいの頻度で面談しなければなりませんか[cite: 6]。",
+        "choicesJa": [
+          "週に1回",
+          "少なくとも月に2回",
+          "四半期に1回",
+          "毎日"
+        ],
+        "explanationDetail": "第2段落冒頭に「meet with their assigned mentee at least twice a month（担当のメンティーと少なくとも月に2回面談する）」と記述されています[cite: 6]。"
+      },
+      {
+        "id": "r137q3",
+        "questionJa": "メンターになるための要件は何ですか[cite: 6]。",
+        "choicesJa": [
+          "管理職の役職",
+          "社歴が少なくとも3年以上あること",
+          "大学の学位",
+          "研修試験の合格"
+        ],
+        "explanationDetail": "第3段落に「have at least three years of experience with the company（社歴が少なくとも3年以上あること）」と規定されています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r138",
+    "passageJa": "商工会議所は今週、最近の経済的困難からの小規模事業者の回復を支援することを目的とした、新しい低金利融資プログラムを発表しました[cite: 6]。従業員25名未満の条件を満たす事業者を対象に、最大5万ドルの融資が利用可能となります[cite: 6]。\n\n申請者は申請手続きの一環として、少なくとも1年間の事業実績を証明し、基本的な財務書類を提出する必要があります[cite: 6]。従来の銀行融資とは異なり、このプログラムは簡素化された申請とより迅速な承認時間を提供し、ほとんどの決定は2週間以内に行われます[cite: 6]。\n\n商工会議所によると、このプログラムは、従来の融資機関を通じて資金調達するのが難しいと述べた地元の事業主からのフィードバックに応えて開発されたとのことです[cite: 6]。",
+    "vocab": [
+      "Chamber of Commerce：商工会議所",
+      "low-interest loan：低金利融資",
+      "financial documentation：財務書類",
+      "approval time：承認時間、審査期間",
+      "accessing capital：資金を調達すること"
+    ],
+    "questions": [
+      {
+        "id": "r138q1",
+        "questionJa": "誰がこの融資プログラムの対象となりますか[cite: 6]。",
+        "choicesJa": [
+          "規模を問わずあらゆる事業者",
+          "従業員25名未満の小規模事業者",
+          "新しいスタートアップのみ",
+          "大企業"
+        ],
+        "explanationDetail": "第1段落に「qualifying businesses with fewer than 25 employees（従業員25名未満の対象事業者）」と明記されています[cite: 6]。"
+      },
+      {
+        "id": "r138q2",
+        "questionJa": "この融資プログラムの利点は何ですか[cite: 6]。",
+        "choicesJa": [
+          "返済不要であること",
+          "簡素化された申請とより迅速な承認",
+          "無制限の融資額",
+          "書類提出が不要であること"
+        ],
+        "explanationDetail": "第2段落に「offers a simplified application and faster approval times（簡素化された申請と迅速な承認時間を提供する）」と述べられています[cite: 6]。"
+      },
+      {
+        "id": "r138q3",
+        "questionJa": "なぜこのプログラムが開発されたのですか[cite: 6]。",
+        "choicesJa": [
+          "新しい法律のため",
+          "事業主からのフィードバックに応えて",
+          "他の都市と競争するため",
+          "政府の命令のため"
+        ],
+        "explanationDetail": "第3段落に「developed in response to feedback from local business owners（地元の事業主からのフィードバックに応えて開発された）」と説明されています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r139",
+    "passageJa": "IT管理者様\n\n貴組織の CloudSuite Pro ライセンスが 8 月 31 日に有効期限切れとなることをお知らせいたします[cite: 6]。チームのアクセスに中断が生じないよう、この日付までにサブスクリプションを更新してください[cite: 6]。\n\n更新方法は簡単です。アカウントダッシュボードにログインし、「今すぐ更新（Renew Now）」オプションを選択してください[cite: 6]。現時点でエンタープライズプランにアップグレードすることを選択された場合、最初の3か月間は追加料金なしで、追加ストレージと優先カスタマーサポートをご利用いただけます[cite: 6]。\n\n更新手続きに関してサポートが必要な場合は、当社のサポートチームがライブチャットにて24時間体制で対応いたします[cite: 6]。\n\nCloudSuite のご利用に感謝申し上げます[cite: 6]。",
+    "vocab": [
+      "license：ライセンス、使用許諾",
+      "interruption：中断、障害",
+      "renew：〜を更新する",
+      "subscription：サブスクリプション、定期購入",
+      "dashboard：ダッシュボード、管理画面"
+    ],
+    "questions": [
+      {
+        "id": "r139q1",
+        "questionJa": "このメールの目的は何ですか[cite: 6]。",
+        "choicesJa": [
+          "値上げを発表するため",
+          "受信者にライセンスの更新を思い起こさせるため",
+          "システム障害を報告するため",
+          "全額返金を提示するため"
+        ],
+        "explanationDetail": "第1段落に「reminder that your organization's license... will expire... please renew your subscription（ライセンスが期限切れになるため更新するようリマインドする）」とあります[cite: 6]。"
+      },
+      {
+        "id": "r139q2",
+        "questionJa": "顧客が今エンタープライズにアップグレードするとどうなりますか[cite: 6]。",
+        "choicesJa": [
+          "2倍の料金を支払うことになる",
+          "3か月間追加料金なしで追加ストレージとサポートを受けられる",
+          "一時的にアクセス権を失う",
+          "電話で営業担当に連絡しなければならない"
+        ],
+        "explanationDetail": "第2段落に「receive additional storage and priority customer support at no extra cost for the first three months（最初の3か月間追加コストなしで追加ストレージと優先サポートを受けられる）」と記述されています[cite: 6]。"
+      },
+      {
+        "id": "r139q3",
+        "questionJa": "顧客はどのようにして更新に関するサポートを受けられますか[cite: 6]。",
+        "choicesJa": [
+          "オフィスを訪問することによって",
+          "24時間対応のライブチャットを通じて",
+          "フォームを郵送することによって",
+          "事前予約の電話相談のみを通じて"
+        ],
+        "explanationDetail": "第3段落に「support team is available via live chat 24 hours a day（サポートチームが24時間体制のライブチャットで利用可能）」と説明されています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r140",
+    "passageJa": "地域社会への貢献活動の一環として、当社は10月5日（土）に年次の「ボランティア・デー」を開催いたします[cite: 6]。従業員の皆様は、公園の清掃、フードバンクでの仕分け作業、または地元の住宅支援団体での住宅建設プロジェクトという3つの活動のうち1つにお申し込みいただけます[cite: 6]。\n\n参加した従業員には、通常の勤務日の代わりに有給休暇が与えられるほか、会社ロゴ入りのボランティアTシャツが提供されます[cite: 6]。各会場への往復送迎は本社駐車場から提供され、午前8時ちょうどに出発いたします[cite: 6]。\n\nお申し込みは人事ポータルから可能で、各活動の定員に限りがあるため、イベントの1週間前に締め切られます[cite: 6]。",
+    "vocab": [
+      "community involvement：地域貢献、地域社会への関わり",
+      "food bank：フードバンク（食料支援団体）",
+      "in lieu of：〜の代わりに",
+      "company-branded：会社ロゴ入りの、自社ブランドの",
+      "sharp：ちょうど、きっかり"
+    ],
+    "questions": [
+      {
+        "id": "r140q1",
+        "questionJa": "従業員はどのような行動をするよう案内されていますか[cite: 6]。",
+        "choicesJa": [
+          "研修セミナーに参加すること",
+          "3つのボランティア活動から1つを選択すること",
+          "プロジェクト提案書を提出すること",
+          "社内スポーツ大会で競い合うこと"
+        ],
+        "explanationDetail": "第1段落に「invited to sign up for one of three activities（3つの活動のうち1つに申し込むよう招待されている）」とあります[cite: 6]。"
+      },
+      {
+        "id": "r140q2",
+        "questionJa": "参加する従業員は何を受け取りますか[cite: 6]。",
+        "choicesJa": [
+          "現金ボーナス",
+          "有給休暇とTシャツ",
+          "年間を通じた特別休暇",
+          "ギフトカード"
+        ],
+        "explanationDetail": "第2段落冒頭に「receive a paid day off... along with a company-branded volunteer T-shirt（有給休暇と会社ロゴ入りボランティアTシャツを受け取る）」と明記されています[cite: 6]。"
+      },
+      {
+        "id": "r140q3",
+        "questionJa": "申し込みはいつ締め切られますか[cite: 6]。",
+        "choicesJa": [
+          "イベント当日",
+          "イベントの1週間前",
+          "イベントの1か月前",
+          "締め切りはない"
+        ],
+        "explanationDetail": "第3段落に「close one week before the event（イベントの1週間前に締め切られる）」と書かれています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r141",
+    "passageJa": "Falcon Logistics（ファルコン・ロジスティクス）では、物流センターでの日常業務を統括する経験豊富な倉庫スーパーバイザーを募集しています[cite: 6]。主な業務には、15名の倉庫アソシエイト（作業員）チームの管理、シフトのスケジューリング、および常に安全プロトコルが遵守されていることの確認が含まれます[cite: 6]。\n\n理想的な候補者は、少なくとも3年以上の倉庫管理経験があり、在庫管理ソフトウェアに精通している方です[cite: 6]。フォークリフトの資格があれば尚可（歓迎）ですが必須ではありません。研修が提供されます[cite: 6]。\n\n本求人は健康保険や有給休暇などの福利厚生が付いたフルタイムのポジションです[cite: 6]。ご興味のある方は、月末までに当社の採用ウェブサイトからご応募ください[cite: 6]。",
+    "vocab": [
+      "warehouse supervisor：倉庫スーパーバイザー、現場管理者",
+      "distribution center：物流センター、配送センター",
+      "safety protocol：安全プロトコル、安全基準",
+      "forklift certification：フォークリフト免許・資格",
+      "paid time off：有給休暇"
+    ],
+    "questions": [
+      {
+        "id": "r141q1",
+        "questionJa": "スーパーバイザーは何名のアソシエイト（作業員）を管理しますか[cite: 6]。",
+        "choicesJa": [
+          "5名",
+          "10名",
+          "15名",
+          "20名"
+        ],
+        "explanationDetail": "第1段落に「managing a team of 15 warehouse associates（15名の倉庫アソシエイトのチームを管理する）」と記載されています[cite: 6]。"
+      },
+      {
+        "id": "r141q2",
+        "questionJa": "どのような経験が求められていますか[cite: 6]。",
+        "choicesJa": [
+          "営業での5年の経験",
+          "少なくとも3年以上の倉庫管理経験",
+          "大学の学位",
+          "国際輸送の経験"
+        ],
+        "explanationDetail": "第2段落冒頭に「at least three years of warehouse management experience（少なくとも3年の倉庫管理経験）」と条件が示されています[cite: 6]。"
+      },
+      {
+        "id": "r141q3",
+        "questionJa": "どのような福利厚生が言及されていますか[cite: 6]。",
+        "choicesJa": [
+          "社用車",
+          "健康保険と有給休暇",
+          "無料の住居",
+          "ストックオプション"
+        ],
+        "explanationDetail": "第3段落に「benefits, including health insurance and paid time off（健康保険や有給休暇を含む福利厚生）」と述べられています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r142",
+    "passageJa": "来週の月曜日から木曜日まで、再舗装工事のため西側駐車場が閉鎖されますのでお知らせいたします[cite: 6]。通常この駐車場をご利用の従業員の方は、閉鎖期間中は建物南側の来客用駐車場をご利用ください[cite: 6]。\n\n必要な方のために、メイプル・ストリートにある臨時駐車場とメインビルの正面玄関との間で、15分ごとにシャトルバスが運行されます[cite: 6]。閉鎖期間中は、通勤時間に余裕を持ってお越しいただくことをお勧めいたします[cite: 6]。\n\nご不便をおかけしますことをお詫び申し上げますとともに、必要なメンテナンス作業完了までのご理解とご協力に感謝いたします[cite: 6]。",
+    "vocab": [
+      "resurfacing：再舗装（工事）",
+      "visitor lot：来客用駐車場",
+      "overflow lot：臨時駐車場",
+      "commute：通勤",
+      "maintenance work：メンテナンス作業、保守工事"
+    ],
+    "questions": [
+      {
+        "id": "r142q1",
+        "questionJa": "駐車場が閉鎖される理由は何ですか[cite: 6]。",
+        "choicesJa": [
+          "建設事故",
+          "再舗装工事",
+          "セキュリティ上の問題",
+          "特別イベント"
+        ],
+        "explanationDetail": "第1段落冒頭に「closed for resurfacing（再舗装のため閉鎖）」と説明されています[cite: 6]。"
+      },
+      {
+        "id": "r142q2",
+        "questionJa": "影響を受ける従業員はどこに駐車すべきですか[cite: 6]。",
+        "choicesJa": [
+          "路上",
+          "南側の来客用駐車場",
+          "近くのガレージ（駐車場）",
+          "出社すべきではない"
+        ],
+        "explanationDetail": "第1段落後半に「use the visitor lot on the south side of the building（建物南側の来客用駐車場を利用する）」と指示されています[cite: 6]。"
+      },
+      {
+        "id": "r142q3",
+        "questionJa": "シャトルバスはどのくらいの頻度で運行されますか[cite: 6]。",
+        "choicesJa": [
+          "5分ごと",
+          "15分ごと",
+          "30分ごと",
+          "1時間ごと"
+        ],
+        "explanationDetail": "第2段落冒頭に「Shuttle service will be available every 15 minutes（シャトルサービスは15分ごとに利用可能）」と記述されています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r143",
+    "passageJa": "地元のパン職人ジェームズ・ウィットフィールド氏が先週末、州全域から集まった50名以上のパン職人と競い合い、「地域パン選手権（Regional Bread Championship）」で優勝（最優秀賞）を果たしました[cite: 6]。ウィットフィールド氏の優勝作品であるローズマリーと海塩のサワードウ（サワー種パン）は、その皮の焼き色と複雑な風味で審査員を魅了しました[cite: 6]。\n\n小さなベーカリーを開業してわずか3年のウィットフィールド氏は、他のプロと腕試しをするよう勧めてくれた多くの顧客によって、大会への出場を触発されたと語りました[cite: 6]。同氏は来月、受賞したパンを自身のベーカリーのレギュラーメニューに追加する予定です[cite: 6]。\n\n今年で10年目を迎えるこの大会は、伝統的な製パン技術における職人技を称えることを目的としています[cite: 6]。",
+    "vocab": [
+      "take home the top prize：最優秀賞（1位）を獲得する",
+      "sourdough：サワードウ、サワー種パン",
+      "crust：パンの皮、外側の焼き色",
+      "test ones skills：腕試しをする",
+      "craftsmanship：職人技、職人精神"
+    ],
+    "questions": [
+      {
+        "id": "r143q1",
+        "questionJa": "ジェームズ・ウィットフィールド氏は何を獲得・受賞しましたか[cite: 6]。",
+        "choicesJa": [
+          "料理番組の優勝",
+          "地域パン選手権での最優秀賞",
+          "レストランアワード",
+          "レシピ本出版の契約"
+        ],
+        "explanationDetail": "第1段落に「took home the top prize at the Regional Bread Championship（地域パン選手権で最優秀賞を獲得した）」と書かれています[cite: 6]。"
+      },
+      {
+        "id": "r143q2",
+        "questionJa": "彼が大会に出場するきっかけ（インスピレーション）となったものは何ですか[cite: 6]。",
+        "choicesJa": [
+          "雑誌の記事",
+          "顧客からの励まし・勧め",
+          "SNSでのチャレンジ",
+          "料理学校の恩師"
+        ],
+        "explanationDetail": "第2段落に「inspired to enter... by his customers, many of whom encouraged him（顧客からの励ましによって出場を触発された）」と述べられています[cite: 6]。"
+      },
+      {
+        "id": "r143q3",
+        "questionJa": "彼は優勝したパンをどうする予定ですか[cite: 6]。",
+        "choicesJa": [
+          "オンラインのみで販売する",
+          "自身のベーカリーの通常メニューに追加する",
+          "レシピを寄付する",
+          "作るのをやめる"
+        ],
+        "explanationDetail": "第2段落の最後に「add the award-winning bread to his bakery's regular menu next month（来月ベーカリーの通常メニューに追加する予定）」と説明されています[cite: 6]。"
+      }
+    ]
+  },
+  {
+    "id": "r144",
+    "passageJa": "フォンテーヌ様\n\n先週のお電話で話し合った変更点を反映した、改訂版のベンダー（業者）契約書を添付いたします[cite: 6]。第4条の更新された支払い条件と、第6条の改訂された配送スケジュールをご確認ください[cite: 6]。\n\n内容に問題がなければ、新四半期が始まる前に契約を確定できるよう、来週の水曜日までに署名の上、ご返送をお願いいたします[cite: 6]。さらに変更点がある場合は、短時間の電話を設けて話し合いましょう[cite: 6]。\n\nこのプロセスを通じて変わらぬご柔軟なご対応をいただき、感謝申し上げます[cite: 6]。\n\n敬具\nダニエル・オセイ[cite: 6]",
+    "vocab": [
+      "vendor agreement：ベンダー（業者）契約書",
+      "incorporate：〜を取り入れる、反映する",
+      "payment terms：支払い条件",
+      "delivery schedule：配送・納品スケジュール",
+      "flexibility：柔軟性、柔軟な対応"
+    ],
+    "questions": [
+      {
+        "id": "r144q1",
+        "questionJa": "メールに添付されているものは何ですか[cite: 6]。",
+        "choicesJa": [
+          "請求書",
+          "改訂されたベンダー契約書",
+          "会議のアジェンダ",
+          "製品カタログ"
+        ],
+        "explanationDetail": "第1段落冒頭に「Attached is the revised vendor agreement（改訂されたベンダー契約書を添付しています）」と書かれています[cite: 6]。"
+      },
+      {
+        "id": "r144q2",
+        "questionJa": "フォンテーヌ様は特に何を確認すべきですか[cite: 6]。",
+        "choicesJa": [
+          "会社ロゴ",
+          "支払い条件と配送スケジュール",
+          "従業員リスト",
+          "マーケティング計画"
+        ],
+        "explanationDetail": "第1段落後半に「review the updated payment terms in Section 4 and the revised delivery schedule in Section 6（第4条の支払い条件と第6条の配送スケジュールを確認してください）」と指定されています[cite: 6]。"
+      },
+      {
+        "id": "r144q3",
+        "questionJa": "書類はいつまでに返送する必要がありますか[cite: 6]。",
+        "choicesJa": [
+          "本日中",
+          "来週の水曜日まで",
+          "月末まで",
+          "締め切りはない"
+        ],
+        "explanationDetail": "第2段落冒頭に「sign and return the document by next Wednesday（来週の水曜日までに署名の上返送する）」と明記されています[cite: 6]。"
+      }
+    ]
+  }
+]
+
+```

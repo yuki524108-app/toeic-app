@@ -1,0 +1,370 @@
+[
+  {
+    "id": "r121",
+    "passageJa": "ダウンタウンにある家族経営のイタリアンレストラン『The Olive Branch』が、このほど市のフード・クリティクス協会により『最優秀新人レストラン（Best New Restaurant）』に選出されました[cite: 4]。シェフ兼オーナーのマルコ・リナルディ氏は、すべての料理において新鮮で地元産の食材を使用するというチームの献身的な努力が受賞につながったと語っています[cite: 4]。\n\nわずか8か月前にオープンして以来、同店は多くのファンを獲得しており、手打ちパスタや温かく心地よい雰囲気が多くの顧客から高く評価されています[cite: 4]。特に週末は地域で最も人気のあるダイニングスポットの1つとなっているため、予約をお勧めします[cite: 4]。\n\nリナルディ氏は、今秋メニューを拡充し、季節の料理をより多く取り入れる計画であると述べています[cite: 4]。",
+    "vocab": [
+      "food critics association：料理批評家協会",
+      "credit A to B：Aの功績をBのおかげとする",
+      "locally sourced：地元産の、地元から調達した",
+      "handmade pasta：手打ちパスタ",
+      "seasonal dish：季節の料理"
+    ],
+    "questions": [
+      {
+        "id": "r121q1",
+        "questionJa": "レストランはどのような賞を受賞しましたか[cite: 4]。",
+        "choicesJa": [
+          "最優秀シェフ賞",
+          "最優秀新人レストラン賞",
+          "最優秀バリュー・ダイニング賞",
+          "最優秀デザートメニュー賞"
+        ],
+        "explanationDetail": "第1段落の冒頭に「"Best New Restaurant" by the city's food critics association（市のフード・クリティクス協会により『最優秀新人レストラン』に選ばれた）」と明記されています[cite: 4]。"
+      },
+      {
+        "id": "r121q2",
+        "questionJa": "オーナーはレストランの成功の理由を何だと考えていますか[cite: 4]。",
+        "choicesJa": [
+          "低価格設定",
+          "新鮮で地元産の食材の使用",
+          "多額の広告予算",
+          "有名人の推薦"
+        ],
+        "explanationDetail": "第1段落の後半に「credits the award to his team's dedication to using fresh, locally sourced ingredients in every dish（すべての料理に新鮮で地元産の食材を使うことへの努力の賜物だとしている）」と書かれています[cite: 4]。"
+      },
+      {
+        "id": "r121q3",
+        "questionJa": "記事ではレストランの週末について何と述べていますか[cite: 4]。",
+        "choicesJa": [
+          "定休日である",
+          "予約が推奨されている",
+          "割引価格が適用される",
+          "テイクアウトのみ利用可能である"
+        ],
+        "explanationDetail": "第2段落に「Reservations are now recommended, especially on weekends（特に週末は予約が推奨される）」と記載されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r122",
+    "passageJa": "人事部より、管理職への昇進に関心のある従業員を対象とした新しいリーダーシップ開発プログラムの開始をお知らせいたします[cite: 4]。本プログラムは6か月にわたる月1回のワークショップで構成され、効果的なコミュニケーション、対立解消、チームマネジメントなどのテーマを扱います[cite: 4]。\n\n参加資格は、勤続1年以上で、前回の査定周期で良い業績評価を受けた従業員です[cite: 4]。関心のある従業員は、今月末までに社内研修ポータルからご応募ください[cite: 4]。\n\n受講枠は各セッション20名に限定されているため、早めの応募をお勧めします[cite: 4]。",
+    "vocab": [
+      "advance into：〜へ進出する、昇進する",
+      "conflict resolution：対立・問題の解決",
+      "performance review：業績評価、人事考課",
+      "internal training portal：社内研修ポータルサイト",
+      "limited to：〜に限定されている"
+    ],
+    "questions": [
+      {
+        "id": "r122q1",
+        "questionJa": "新しいプログラムの目的は何ですか[cite: 4]。",
+        "choicesJa": [
+          "新入社員を研修するため",
+          "従業員に管理職の役割への準備をさせるため",
+          "カスタマーサービスを向上させるため",
+          "技術的スキルを教えるため"
+        ],
+        "explanationDetail": "第1段落冒頭に「for employees interested in advancing into management roles（管理職への昇進に関心のある従業員向け）」と目的が明記されています[cite: 4]。"
+      },
+      {
+        "id": "r122q2",
+        "questionJa": "参加のための条件の1つは何ですか[cite: 4]。",
+        "choicesJa": [
+          "大学の学位",
+          "少なくとも1年間の勤続年数",
+          "管理職の経験",
+          "流暢な外国語能力"
+        ],
+        "explanationDetail": "第2段落の冒頭に「employees who have been with the company for at least one year（少なくとも1年以上社内に在籍している従業員）」と明記されています[cite: 4]。"
+      },
+      {
+        "id": "r122q3",
+        "questionJa": "参加を希望する従業員はどのように応募すべきですか[cite: 4]。",
+        "choicesJa": [
+          "社内研修ポータルサイトを通じて",
+          "上司に直接メールを送ることによって",
+          "人事部に電話することによって",
+          "説明会に参加することによって"
+        ],
+        "explanationDetail": "第2段落の後半に「apply through the internal training portal（社内研修ポータルを通じて応募する）」と記載されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r123",
+    "passageJa": "パテル様\n\n当社のオフィス家具シリーズにご関心をお寄せいただきありがとうございます[cite: 4]。ご依頼通り、先週のお電話でお話しいたしましたデスク20台と椅子40脚の詳細なお見積書を添付いたしました[cite: 4]。\n\nお見積もりには、大口注文に対する10%の割引と市内への無料配送が含まれております[cite: 4]。なお、この価格の有効期限は今後30日間となっております[cite: 4]。手続きを進められる場合は、確認の旨を本メールにご返信いただければ、2週間以内に配送の手配をいたします[cite: 4]。\n\nご質問や注文内容の変更がございましたら、お気軽にお知らせください[cite: 4]。\n\nよろしくお願いいたします[cite: 4]。\n営業担当\nトム・ブラッドリー[cite: 4]",
+    "vocab": [
+      "quote：見積もり、見積書",
+      "bulk order：大口注文、まとめ買い",
+      "city limits：市域、市内",
+      "valid：有効な",
+      "proceed：進める、手続きを進める"
+    ],
+    "questions": [
+      {
+        "id": "r123q1",
+        "questionJa": "メールには何が添付されていますか[cite: 4]。",
+        "choicesJa": [
+          "請求書",
+          "詳細なお見積書",
+          "製品カタログ",
+          "配送スケジュール表"
+        ],
+        "explanationDetail": "第1段落で「attached a detailed quote for the 20 desks and 40 chairs（デスク20台と椅子40脚の詳細なお見積書を添付した）」と記されています[cite: 4]。"
+      },
+      {
+        "id": "r123q2",
+        "questionJa": "提供内容には何が含まれていますか[cite: 4]。",
+        "choicesJa": [
+          "10%の割引と無料配送",
+          "1年間の保証",
+          "無料設置作業",
+          "ギフトカード"
+        ],
+        "explanationDetail": "第2段落の冒頭に「includes a 10% discount for bulk orders and free delivery within the city limits（大口割引10%と市内無料配送が含まれる）」と明確に書かれています[cite: 4]。"
+      },
+      {
+        "id": "r123q3",
+        "questionJa": "価格の有効期限はどのくらいですか[cite: 4]。",
+        "choicesJa": [
+          "7日間",
+          "14日間",
+          "30日間",
+          "60日間"
+        ],
+        "explanationDetail": "第2段落に「this pricing is valid for the next 30 days（この価格は今後30日間有効）」と示されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r124",
+    "passageJa": "約1年間にわたる改修工事を経て、リンカーン・パークが先週末に一般公開を再開しました[cite: 4]。子ども向けのじゃぶじゃぶ池（スプラッシュパッド）、新しくなった散策路、コミュニティイベント用の改修された野外音楽堂（アンフィシアター）など、数多くの新しい設備が備わっています[cite: 4]。\n\nこの250万ドルのプロジェクトは、市からの資金と民間の寄付の組み合わせによって賄われました[cite: 4]。レベッカ・ソン市長は、数百人の住民が集まった再開式典において、この改修を『地域社会への素晴らしい投資』と称えました[cite: 4]。\n\n公園関係者によると、野外音楽堂では来月から最初のコンサートシリーズが開催される予定で、チケットは市のウェブサイトを通じて無料で入手できます[cite: 4]。",
+    "vocab": [
+      "renovation：改修工事、リノベーション",
+      "splash pad：スプラッシュパッド（子ども用の水遊び場）",
+      "amphitheater：野外音楽堂、円形劇場",
+      "private donation：民間の寄付",
+      "resident：住民"
+    ],
+    "questions": [
+      {
+        "id": "r124q1",
+        "questionJa": "子ども向けに追加された新しい設備は何ですか[cite: 4]。",
+        "choicesJa": [
+          "スケートパーク",
+          "スプラッシュパッド（じゃぶじゃぶ池・水遊び場）",
+          "遊具のある公園",
+          "ふれあい動物園"
+        ],
+        "explanationDetail": "第1段落に「a splash pad for children（子供用のスプラッシュパッド）」が追加されたと記載されています[cite: 4]。"
+      },
+      {
+        "id": "r124q2",
+        "questionJa": "改修費用はどのように資金調達されましたか[cite: 4]。",
+        "choicesJa": [
+          "全額市からの資金による",
+          "全額民間寄付者による",
+          "市の資金と民間寄付の組み合わせ",
+          "銀行からの融資による"
+        ],
+        "explanationDetail": "第2段落冒頭に「funded through a combination of city funds and private donations（市の資金と民間寄付の組み合わせによって賄われた）」と明記されています[cite: 4]。"
+      },
+      {
+        "id": "r124q3",
+        "questionJa": "来月、野外音楽堂で何が行われますか[cite: 4]。",
+        "choicesJa": [
+          "ファーマーズマーケット（直売市）",
+          "最初のコンサートシリーズ",
+          "建設プロジェクト",
+          "スポーツ大会"
+        ],
+        "explanationDetail": "第3段落に「the amphitheater will host its first concert series beginning next month（野外音楽堂で来月から初のコンサートシリーズを開催する）」と記されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r125",
+    "passageJa": "全従業員の皆様へ[cite: 4]\n\n継続的なセキュリティ強化の一環として、すべての建物入館用バッジを今月末までに交換する必要があります[cite: 4]。新しいバッジには、不正アクセスをより強固に防ぐための強化された暗号化技術が含まれています[cite: 4]。\n\n新しいバッジを受け取るには、平日の午前9時から午後4時までの間に1階の警備室までお越しください[cite: 4]。現在のバッジと有効な顔写真付き身分証明書を持参する必要があります[cite: 4]。古いバッジは来月1日に自動的に失効いたしますので、遅れずに手続きを行ってください[cite: 4]。\n\nスケジュールの都合によりこの時間帯にお越しいただけない場合は、警備室に連絡して別の時間帯を手配してください[cite: 4]。",
+    "vocab": [
+      "access badge：入館バッジ、通行証",
+      "encryption：暗号化",
+      "unauthorized access：不正アクセス",
+      "photo ID：写真付き身分証明書",
+      "deactivate：無効化する、停止する"
+    ],
+    "questions": [
+      {
+        "id": "r125q1",
+        "questionJa": "なぜ新しいバッジが発行されているのですか[cite: 4]。",
+        "choicesJa": [
+          "古いバッジが時代遅れのデザインになったため",
+          "より優れた暗号化によりセキュリティを向上させるため",
+          "従業員が再デザインを要求したため",
+          "建物の所有者が変わったため"
+        ],
+        "explanationDetail": "第1段落に「enhanced encryption to better protect against unauthorized access（不正アクセスを防ぐための暗号化強化）」によるセキュリティ向上のためと示されています[cite: 4]。"
+      },
+      {
+        "id": "r125q2",
+        "questionJa": "新しいバッジを受け取る際、従業員は何を持参しなければなりませんか[cite: 4]。",
+        "choicesJa": [
+          "現在のバッジのみ",
+          "現在のバッジと有効な写真付き身分証明書",
+          "上司からの承諾書",
+          "在職証明書のみ"
+        ],
+        "explanationDetail": "第2段落に「bring your current badge and a valid photo ID（現在のバッジと有効な写真付き身分証を持参する）」と指定されています[cite: 4]。"
+      },
+      {
+        "id": "r125q3",
+        "questionJa": "来月、古いバッジはどうなりますか[cite: 4]。",
+        "choicesJa": [
+          "予備として引き続き機能する",
+          "自動的に無効化される",
+          "郵送で返却しなければならない",
+          "再発行される"
+        ],
+        "explanationDetail": "第2段落後半に「Old badges will be deactivated automatically on the first of next month（古いバッジは来月1日に自動的に無効化される）」と書かれています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r126",
+    "passageJa": "成長中のデザインエージェンシーである Pixel Studio では、クリエイティブチームに加わっていただける優秀なグラフィックデザイナーを募集しています[cite: 4]。理想的な候補者は、Adobe Illustrator や Photoshop などのデザインソフトの使用経験が2年以上あり、ブランディングや印刷デザインの制作物を示す強力なポートフォリオをお持ちの方です[cite: 4]。\n\nこれはダウンタウンオフィスでのフルタイム勤務のポジションですが、最初の3か月経過後は週1日のリモートワークが可能です[cite: 4]。給与は競争力があり、経験に応じて決定されます[cite: 4]。\n\n応募をご希望の方は、ポートフォリオと履歴書を jobs@pixelstudio.com までお送りください[cite: 4]。採用者が決定するまで、応募書類は随時選考（ローリング方式）されます[cite: 4]。",
+    "vocab": [
+      "design agency：デザイン制作会社",
+      "candidate：候補者、応募者",
+      "portfolio：ポートフォリオ、作品集",
+      "competitive salary：競争力のある給与（他社と同等以上）",
+      "on a rolling basis：随時受付・選考順で"
+    ],
+    "questions": [
+      {
+        "id": "r126q1",
+        "questionJa": "応募者に求められる条件は何ですか[cite: 4]。",
+        "choicesJa": [
+          "マーケティングに関する大学の学位",
+          "少なくとも2年間のデザインソフトの使用経験",
+          "5年間の管理職経験",
+          "複数の言語での流暢な会話能力"
+        ],
+        "explanationDetail": "第1段落に「at least two years of experience with design software（デザインソフトの使用経験が少なくとも2年以上）」と求められています[cite: 4]。"
+      },
+      {
+        "id": "r126q2",
+        "questionJa": "従業員は3か月経過後に何が可能になりますか[cite: 4]。",
+        "choicesJa": [
+          "無制限の休暇を取得すること",
+          "週に1日リモートワーク（在宅勤務）をすること",
+          "自動的に昇進を受けること",
+          "パートタイムで勤務すること"
+        ],
+        "explanationDetail": "第2段落に「possibility of one remote day per week after the first three months（最初の3か月経過後、週1日のリモートワークが可能）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r126q3",
+        "questionJa": "応募書類はどのように選考されますか[cite: 4]。",
+        "choicesJa": [
+          "締め切り後に一括して",
+          "随時（ローリング方式で）",
+          "外部の採用エージェントによって",
+          "電話面接のみによって"
+        ],
+        "explanationDetail": "第3段落に「Applications will be reviewed on a rolling basis（応募は随時・順次選考される）」と指定されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r127",
+    "passageJa": "ビル管理事務所より全入居者の皆様へ、定期メンテナンスのため、北ウイングのエレベーターが9月14日（土）午前8時から午後4時まで一時的に使用停止となりますことをお知らせいたします[cite: 4]。\n\nこの時間帯、入居者の皆様には南ウイングのエレベーターまたは階段をご利用いただきますようお願いいたします[cite: 4]。特に上層階の皆様にはご不便をおかけいたしますが、ご理解とご協力をお願い申し上げます[cite: 4]。\n\n期間中、バリアフリーに関する特別な配慮（アクセシビリティ対応）が必要な場合は、適切な手配を行いますので、事前にお問い合わせの上ビル管理事務所までご連絡ください[cite: 4]。",
+    "vocab": [
+      "tenant：入居者、テナント",
+      "out of service：運転休止中、故障中",
+      "stairwell：階段室、階段",
+      "inconvenience：不便、迷惑",
+      "accessibility needs：アクセシビリティ上の配慮・必要性"
+    ],
+    "questions": [
+      {
+        "id": "r127q1",
+        "questionJa": "なぜエレベーターが運転停止になるのですか[cite: 4]。",
+        "choicesJa": [
+          "停電のため",
+          "定期メンテナンスのため",
+          "避難訓練のため",
+          "改修プロジェクトのため"
+        ],
+        "explanationDetail": "第1段落に「for scheduled maintenance（定期メンテナンスのため）」と理由が明確に記されています[cite: 4]。"
+      },
+      {
+        "id": "r127q2",
+        "questionJa": "メンテナンス中、入居者は何をすることが求められていますか[cite: 4]。",
+        "choicesJa": [
+          "オフィス内に留まること",
+          "南ウイングのエレベーターまたは階段を使用すること",
+          "建物から退出すること",
+          "別の駐車場に駐車すること"
+        ],
+        "explanationDetail": "第2段落の冒頭に「use the elevators in the south wing or the stairwells（南ウイングのエレベーターまたは階段を使用する）」よう依頼されています[cite: 4]。"
+      },
+      {
+        "id": "r127q3",
+        "questionJa": "アクセシビリティ上の配慮が必要な入居者はどうすべきですか[cite: 4]。",
+        "choicesJa": [
+          "貨物用エレベーターを使用する",
+          "事前にビル管理事務所に連絡する",
+          "作業が終わるまで待つ",
+          "緊急サービスに連絡する"
+        ],
+        "explanationDetail": "第3段落に「contact the building office in advance（事前にビル管理事務所に連絡する）」と説明されています[cite: 4]。"
+      }
+    ]
+  },
+  {
+    "id": "r128",
+    "passageJa": "市のプロサッカーチームであるリバートン・ホークスは今週、老朽化した現在の施設に代わる新しい25,000席規模のスタジアム計画を発表しました[cite: 4]。チーム関係者は、新スタジアムには改良された観覧席、近代的な売店エリア、そして悪天候時にも試合を行える開閉式屋根が備わると述べています[cite: 4]。\n\n建設工事は来年開始され、2029年シーズンまでの完成を目指しています[cite: 4]。このプロジェクトは、民間の投資と、昨年11月に有権者が承認した公債措置（公債発行）の組み合わせによって資金調達されます[cite: 4]。\n\nファンはこの計画に期待を寄せる一方で、周辺地域の交通量の増加について懸念を示す声も上がっています[cite: 4]。",
+    "vocab": [
+      "unveil：〜を発表する、お披露目する",
+      "aging facility：老朽化した施設",
+      "concession area：売店エリア",
+      "retractable roof：開閉式屋根",
+      "public bond measure：公債（地方債）発行措置"
+    ],
+    "questions": [
+      {
+        "id": "r128q1",
+        "questionJa": "新しいスタジアムにはどのような機能が含まれますか[cite: 4]。",
+        "choicesJa": [
+          "屋内プール",
+          "開閉式屋根",
+          "ショッピングモール",
+          "地下駐車場のみ"
+        ],
+        "explanationDetail": "第1段落後半に「a retractable roof to allow games during inclement weather（悪天候下でも試合を可能にする開閉式屋根）」が備わると記されています[cite: 4]。"
+      },
+      {
+        "id": "r128q2",
+        "questionJa": "このプロジェクトはどのように資金調達されますか[cite: 4]。",
+        "choicesJa": [
+          "全額チケットの売上による",
+          "民間投資と公債の組み合わせ",
+          "政府の補助金のみ",
+          "選手の給与削減"
+        ],
+        "explanationDetail": "第2段落後半に「funded through a mix of private investment and a public bond measure（民間投資と公債措置の組み合わせで資金調達される）」と記載されています[cite: 4]。"
+      },
+      {
+        "id": "r128q3",
+        "questionJa": "一部のファンはどのような懸念を表明していますか[cite: 4]。",
+        "choicesJa": [
+          "チケットの価格",
+          "交通量の増加",
+          "チームのパフォーマンス",
+          "スタジアムの場所"
+        ],
+        "explanationDetail": "第3段落終盤に「raised concerns about increased traffic in the surrounding neighborhood（周辺地域における交通量の増加に対する懸念）」が挙げられています[cite: 4]。"
+      }
+    ]
+  }
+]

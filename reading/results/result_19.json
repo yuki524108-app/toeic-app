@@ -1,0 +1,373 @@
+```json
+[
+  {
+    "id": "r145",
+    "passageJa": "来月より、C棟裏の旧指定喫煙エリアを含め、社有地内は全面禁煙となります[cite: 7]。この変更は、従業員の健康とウェルネスを推進する当社の広範な取り組みの一環です[cite: 7]。\n\n喫煙される従業員の方は、無料のカウンセリングセッションやニコチン代替療法を含む、会社の無料禁煙プログラムをぜひご利用ください[cite: 7]。プログラムの詳細については、ウェルネス・ポータルでご確認いただけます[cite: 7]。\n\n一部の従業員にとってはこの変更が厳しいものである可能性があることを理解しておりますが、すべての従業員にとってより健康的な職場環境を構築するため、皆様のご理解とご協力をお願い申し上げます[cite: 7]。",
+    "vocab": [
+      "designated smoking area：指定喫煙エリア",
+      "initiative：取り組み、構想",
+      "smoking cessation program：禁煙プログラム",
+      "nicotine replacement therapy：ニコチン代替療法",
+      "workplace：職場"
+    ],
+    "questions": [
+      {
+        "id": "r145q1",
+        "questionJa": "どのような変更が発表されていますか[cite: 7]。",
+        "choicesJa": [
+          "新しいカフェテリアのメニュー",
+          "全社的な禁煙政策",
+          "新しい駐車場ルール",
+          "ドレスコードの変更"
+        ],
+        "explanationDetail": "第1段落に「smoking will no longer be permitted anywhere on company property（社有地内での全面禁煙）」と明記されています[cite: 7]。"
+      },
+      {
+        "id": "r145q2",
+        "questionJa": "喫煙する従業員には何が提供されていますか[cite: 7]。",
+        "choicesJa": [
+          "現金ボーナス",
+          "無料の禁煙プログラム",
+          "追加の休憩時間",
+          "健康保険の割引"
+        ],
+        "explanationDetail": "第2段落に「company's free smoking cessation program（会社の無料禁煙プログラム）」が提供されていると記述されています[cite: 7]。"
+      },
+      {
+        "id": "r145q3",
+        "questionJa": "従業員はどこで詳細を確認できますか[cite: 7]。",
+        "choicesJa": [
+          "人事部オフィス",
+          "ウェルネス・ポータル",
+          "印刷されたチラシ",
+          "自分の上司"
+        ],
+        "explanationDetail": "第2段落の最後に「Details about the program can be found on the wellness portal（プログラムの詳細はウェルネス・ポータルで確認できる）」とあります[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r146",
+    "passageJa": "LinguaLeap で新しい言語をより早く習得しましょう！当アプリは間隔反復（分散学習）や対話型会話練習などの実証済みの手法を使用し、単語を暗記するだけでなく、実生活で使える流暢さを身につけるのに役立ちます[cite: 7]。\n\n期間限定で、今月末までに登録すると年間サブスクリプションが40%オフになります[cite: 7]。すべてのプランにオフラインでのレッスンダウンロード機能が含まれており、データ通信量を消費することなく外出先での学習に最適です[cite: 7]。\n\n世界中の500万人以上の学習者に加わり、今すぐ無料で最初のレッスンを始めましょう。クレジットカードは不要です[cite: 7]。",
+    "vocab": [
+      "spaced repetition：間隔反復（分散学習）",
+      "real-world fluency：実生活で使える流暢さ",
+      "limited time：期間限定",
+      "annual subscription：年間サブスクリプション（年間契約）",
+      "on the go：外出先で、移動中に"
+    ],
+    "questions": [
+      {
+        "id": "r146q1",
+        "questionJa": "広告によると、アプリは何に重点を置いていますか[cite: 7]。",
+        "choicesJa": [
+          "単語の暗記のみ",
+          "実生活で使える流暢さの習得",
+          "文法演習のみ",
+          "試験対策"
+        ],
+        "explanationDetail": "第1段落に「help you build real-world fluency, not just memorize vocabulary（単語暗記だけでなく、実生活で使える流暢さを身につける）」とあります[cite: 7]。"
+      },
+      {
+        "id": "r146q2",
+        "questionJa": "どのような割引が提供されていますか[cite: 7]。",
+        "choicesJa": [
+          "20%オフ",
+          "年間サブスクリプションが40%オフ",
+          "1年間無料",
+          "学生向けに50%オフ"
+        ],
+        "explanationDetail": "第2段落冒頭に「get 40% off an annual subscription（年間サブスクリプションが40%オフ）」と提示されています[cite: 7]。"
+      },
+      {
+        "id": "r146q3",
+        "questionJa": "最初のレッスンを始めるために必要なものは何ですか[cite: 7]。",
+        "choicesJa": [
+          "クレジットカード",
+          "不要（無料）",
+          "紹介コード",
+          "有料サブスクリプション"
+        ],
+        "explanationDetail": "第3段落に「start your first lesson for free today, no credit card required（クレジットカード不要で今日から無料）」と書かれています[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r147",
+    "passageJa": "地域交通局は今週、運用コストの上昇とシステムアップグレードの資金調達の必要性を理由に、5年ぶりとなる運賃値上げを承認しました[cite: 7]。1月より、1回乗車券の運賃は2.50ドルから2.75ドルに上がり、1か月定期券は80ドルから88ドルに値上げされます[cite: 7]。\n\n交通局の担当者は、増収分は新しいバスの購入や、遅延が頻発していた複数の路線での運行信頼性の向上に充てられると強調しました[cite: 7]。高齢者、学生、障がい者向けの割引運賃は変更されません[cite: 7]。\n\n決定が確定する前の過去2ヶ月間にわたり、地域社会の意見を収集するための公聴会が開催されました[cite: 7]。",
+    "vocab": [
+      "transit authority：交通局、交通当局",
+      "fare increase：運賃値上げ",
+      "operational cost：運用コスト、運行経費",
+      "reduced fare：割引運賃",
+      "public hearing：公聴会"
+    ],
+    "questions": [
+      {
+        "id": "r147q1",
+        "questionJa": "なぜ運賃が値上げされるのですか[cite: 7]。",
+        "choicesJa": [
+          "利用者を減らすため",
+          "運用コストの上昇とシステムアップグレードのため",
+          "新しい法律のため",
+          "政府からの補助金削減のため"
+        ],
+        "explanationDetail": "第1段落に「citing rising operational costs and the need to fund system upgrades（運用コストの上昇とシステムアップグレードの資金調達の必要性を理由に）」と説明されています[cite: 7]。"
+      },
+      {
+        "id": "r147q2",
+        "questionJa": "何が据え置き（変更なし）となりますか[cite: 7]。",
+        "choicesJa": [
+          "バスの路線",
+          "高齢者、学生、障がい者向けの割引運賃",
+          "1か月定期券の価格",
+          "1回乗車券の運賃"
+        ],
+        "explanationDetail": "第2段落の最後に「Reduced fares for seniors, students, and individuals with disabilities will remain unchanged（高齢者、学生、障がい者の割引運賃は変更されない）」と明記されています[cite: 7]。"
+      },
+      {
+        "id": "r147q3",
+        "questionJa": "決定が確定する前に何が行われましたか[cite: 7]。",
+        "choicesJa": [
+          "訴訟",
+          "公聴会",
+          "利用者調査のみ",
+          "予算の凍結"
+        ],
+        "explanationDetail": "第3段落に「Public hearings were held over the past two months（過去2ヶ月間に公聴会が開催された）」とあります[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r148",
+    "passageJa": "チームの皆様[cite: 7]\n\nリバーサイド（Riverside）プロジェクトを正式に開始できることを大変嬉しく思います[cite: 7]。添付ファイルにて、今後6か月の目標、タイムライン、および主要な成果物をまとめたプロジェクト憲章（プロジェクトチャーター）をご確認いただけます[cite: 7]。\n\n第1回のチームミーティングは今週木曜日の午後2時から行われ、担当役割と責任の詳細について確認します[cite: 7]。作業範囲についての最初の質問や懸念事項を整理して準備の上ご参加ください[cite: 7]。\n\n皆様の専門知識があれば、クライアントに素晴らしい成果を届けることができると確信しております[cite: 7]。皆様と一緒に取り組めることを楽しみにしております[cite: 7]。\n\n敬具[cite: 7]\nプリヤ[cite: 7]",
+    "vocab": [
+      "kick off：〜を正式に開始する",
+      "project charter：プロジェクト憲章、プロジェクト定義書",
+      "deliverable：成果物",
+      "scope of work：作業範囲",
+      "expertise：専門知識"
+    ],
+    "questions": [
+      {
+        "id": "r148q1",
+        "questionJa": "メールに何が添付されていますか[cite: 7]。",
+        "choicesJa": [
+          "予算報告書",
+          "プロジェクト憲章（プロジェクトチャーター）",
+          "クライアントとの契約書",
+          "会議の録音"
+        ],
+        "explanationDetail": "第1段落に「Attached you'll find the project charter（プロジェクト憲章を添付した）」とあります[cite: 7]。"
+      },
+      {
+        "id": "r148q2",
+        "questionJa": "木曜日の会議では何が話し合われますか[cite: 7]。",
+        "choicesJa": [
+          "最終予算",
+          "役割と責任",
+          "クライアントからのフィードバック",
+          "人事評価・業績評価"
+        ],
+        "explanationDetail": "第2段落冒頭に「review roles and responsibilities in more detail（役割と責任についてより詳細に確認する）」と書かれています[cite: 7]。"
+      },
+      {
+        "id": "r148q3",
+        "questionJa": "チームメンバーは会議に何を用意して参加するよう求められていますか[cite: 7]。",
+        "choicesJa": [
+          "ノートパソコン",
+          "最初の質問や懸念事項",
+          "印刷された報告書",
+          "各自のカレンダー・予定表"
+        ],
+        "explanationDetail": "第2段落後半に「come prepared with any initial questions or concerns（最初の質問や懸念事項を準備してくる）」と書かれています[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r149",
+    "passageJa": "さあ、体を動かしましょう！ウェルネス委員会は、来週の月曜日から6週間の歩数チャレンジ（Step Challenge）を開始します[cite: 7]。従業員は最大5名のチームを結成し、フィットネスアプリや歩数計を使って毎日の歩数を記録できます[cite: 7]。\n\n毎週のリーダーボード（順位表）が休憩室に掲示され、チャレンジ終了時に優勝したチームには仕出しのランチとウェルネス関連の賞品が贈られます[cite: 7]。参加は完全に自由（任意）であり、体力レベルに関わらずすべての従業員が対象です[cite: 7]。\n\n参加登録は、今週の金曜日までにウェルネス・ポータルの登録フォームから完了させてください[cite: 7]。多くの皆様のご参加と、活気あふれる競争を楽しみにしております！[cite: 7]",
+    "vocab": [
+      "wellness committee：ウェルネス委員会、健康推進委員会",
+      "pedometer：歩数計",
+      "leaderboard：リーダーボード、順位表",
+      "catered lunch：仕出しランチ、ケータリングの昼食",
+      "optional：任意の、自由参加の"
+    ],
+    "questions": [
+      {
+        "id": "r149q1",
+        "questionJa": "チャレンジはどのくらいの期間続きますか[cite: 7]。",
+        "choicesJa": [
+          "2週間",
+          "4週間",
+          "6週間",
+          "8週間"
+        ],
+        "explanationDetail": "第1段落に「launching a six-week Step Challenge（6週間の歩数チャレンジを開始する）」と示されています[cite: 7]。"
+      },
+      {
+        "id": "r149q2",
+        "questionJa": "優勝したチームは何を受け取りますか[cite: 7]。",
+        "choicesJa": [
+          "賞金",
+          "仕出しのランチとウェルネス賞品",
+          "特別有給休暇",
+          "ジムの会員権"
+        ],
+        "explanationDetail": "第2段落に「receive a catered lunch along with wellness prizes（仕出しランチとウェルネス賞品を受け取る）」と明記されています[cite: 7]。"
+      },
+      {
+        "id": "r149q3",
+        "questionJa": "従業員はいつまでに申し込む必要がありますか[cite: 7]。",
+        "choicesJa": [
+          "今週の金曜日",
+          "来週の月曜日",
+          "チャレンジの終了時",
+          "チャレンジ期間中いつでも"
+        ],
+        "explanationDetail": "第3段落に「complete the registration form... by this Friday（今週の金曜日までに登録フォームを完了する）」と書かれています[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r150",
+    "passageJa": "グリーンフィールド・エナジー社は今週、同社の最新の太陽光発電施設が本格稼働を開始したことを発表しました[cite: 7]。この施設は、年間約8,000世帯に電力を供給するのに十分な電気を発電する能力を備えています[cite: 7]。これまで使用されていなかった農地に建設されたこの施設は、同社にとってこれまでで最大の再生可能エネルギー投資となります[cite: 7]。\n\n同社関係者によると、プロジェクトの完了には2年弱を要し、約150名の建設に関する一時的な雇用と、数名の恒久的な保守点検の職を生み出しました[cite: 7]。本施設により、従来のエネルギー源と比較して地域の炭素排出量が大幅に削減されると期待されています[cite: 7]。\n\nグリーンフィールド・エナジー社は、今後3年間で隣接する郡にさらに2つの太陽光発電施設を建設する計画を発表しました[cite: 7]。",
+    "vocab": [
+      "fully operational：本格稼働している、完全稼働中の",
+      "renewable energy：再生可能エネルギー",
+      "temporary construction job：一時的な建設関連の職",
+      "carbon emissions：炭素排出量",
+      "neighboring county：隣接する郡"
+    ],
+    "questions": [
+      {
+        "id": "r150q1",
+        "questionJa": "この施設は何世帯分の電力を供給できますか[cite: 7]。",
+        "choicesJa": [
+          "1,000世帯",
+          "8,000世帯",
+          "15,000世帯",
+          "20,000世帯"
+        ],
+        "explanationDetail": "第1段落に「power approximately 8,000 homes annually（年間約8,000世帯に電力を供給する）」と記載されています[cite: 7]。"
+      },
+      {
+        "id": "r150q2",
+        "questionJa": "施設はどこに建設されましたか[cite: 7]。",
+        "choicesJa": [
+          "元産業跡地",
+          "それまで使用されていなかった農地",
+          "市内中心部",
+          "海岸近く"
+        ],
+        "explanationDetail": "第1段落後半に「built on previously unused farmland（それまで使われていなかった農地に建設された）」と書かれています[cite: 7]。"
+      },
+      {
+        "id": "r150q3",
+        "questionJa": "同社は次に何を計画していますか[cite: 7]。",
+        "choicesJa": [
+          "施設を閉鎖すること",
+          "土地を売却すること",
+          "隣接する郡にさらに2つの施設を建設すること",
+          "風力発電に切り替えること"
+        ],
+        "explanationDetail": "第3段落に「plans to build two additional solar facilities in neighboring counties（隣接する郡にさらに2つの太陽光発電施設を建設する計画）」と示されています[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r151",
+    "passageJa": "ゴールド会員様へ[cite: 7]\n\n当社の特典プログラムの大切な会員様として、今週土曜日の午後6時から9時まで、旗艦店（フラッグシップストア）にて開催される今秋の新作コレクションの特別プレビューイベントにご招待いたします[cite: 7]。\n\n無料のお飲み物や軽食、個別スタイリングのアドバイスをお楽しみいただけるほか、一般公開前に新作商品をいち早くお買い求めいただけます[cite: 7]。また、ゴールド会員様には当日の夕方を通してご利用いただける特別20%割引コードをプレゼントいたします[cite: 7]。\n\n定員に限りがございますので、お席を確保するため木曜日までに以下のリンクからRSVP（参加申し込み）を行ってください[cite: 7]。\n\n会場でお会いできるのを楽しみにしております！[cite: 7]",
+    "vocab": [
+      "rewards program：特典プログラム、ポイントプログラム",
+      "exclusive preview event：特別プレビューイベント、先行展示会",
+      "flagship store：旗艦店、フラッグシップストア",
+      "complimentary refreshments：無料の飲み物・軽食",
+      "early access：早期アクセス、先行利用権"
+    ],
+    "questions": [
+      {
+        "id": "r151q1",
+        "questionJa": "イベントに招待されているのは誰ですか[cite: 7]。",
+        "choicesJa": [
+          "すべての顧客",
+          "ゴールド会員のみ",
+          "新規顧客のみ",
+          "店舗の従業員"
+        ],
+        "explanationDetail": "件名/本文で「Dear Gold Member」「exclusive preview event... Gold members」とゴールド会員限定であることが明記されています[cite: 7]。"
+      },
+      {
+        "id": "r151q2",
+        "questionJa": "参加者は何を受け取りますか[cite: 7]。",
+        "choicesJa": [
+          "無料のプレゼント",
+          "先行アクセス権と20%割引コード",
+          "会員ランクのアップグレード",
+          "1年間の送料無料"
+        ],
+        "explanationDetail": "第2段落で「early access to shop new arrivals（新作商品の先行買い物権）」と「special 20% discount code（特別な20%割引コード）」が提供されると述べられています[cite: 7]。"
+      },
+      {
+        "id": "r151q3",
+        "questionJa": "会員はいつまでにRSVP（出欠確認）をする必要がありますか[cite: 7]。",
+        "choicesJa": [
+          "木曜日",
+          "土曜日",
+          "イベント当日",
+          "締め切りはない"
+        ],
+        "explanationDetail": "第3段落に「RSVP... by Thursday（木曜日までにRSVPする）」と書かれています[cite: 7]。"
+      }
+    ]
+  },
+  {
+    "id": "r152",
+    "passageJa": "部署間協働をより良く支援するためのオフィス再編の一環として、来週の月曜日より座席配置が変更となります[cite: 7]。共有の取り組みにおけるコミュニケーションを容易にするため、従業員は部署別ではなくプロジェクトチーム別に配置されます[cite: 7]。\n\n新しい配置を示した座席表はイントラネットに掲載されています[cite: 7]。今週金曜日の業務終了時までに、個人所有物を新しいデスクへ移動するようご予定ください[cite: 7]。モニターや書類整理キャビネットなどの大きめの物品の移動については、施設管理スタッフがサポートいたします[cite: 7]。\n\n新しい座席配置について懸念事項がある場合は、直接ご自身の上司にご相談ください[cite: 7]。",
+    "vocab": [
+      "cross-team collaboration：部署間協働、チーム横断の協力",
+      "desk assignment：座席配置、デスクの割り当て",
+      "seating chart：座席表",
+      "personal belongings：個人所有物、私物",
+      "filing cabinet：書類整理キャビネット"
+    ],
+    "questions": [
+      {
+        "id": "r152q1",
+        "questionJa": "なぜ座席配置が変更されるのですか[cite: 7]。",
+        "choicesJa": [
+          "コスト削減のため",
+          "部署間協働（クロスチームの協力）を支援するため",
+          "オフィスの改装のため",
+          "新入社員の採用のため"
+        ],
+        "explanationDetail": "第1段落冒頭に「to better support cross-team collaboration（部署間協働をより良く支援するため）」と記載されています[cite: 7]。"
+      },
+      {
+        "id": "r152q2",
+        "questionJa": "従業員は新しい座席表をどこで確認できますか[cite: 7]。",
+        "choicesJa": [
+          "イントラネット上",
+          "印刷されたメモ",
+          "人事部に問い合わせる",
+          "会社のアプリ"
+        ],
+        "explanationDetail": "第2段落冒頭に「seating chart... posted on the intranet（座席表はイントラネットに投稿されている）」と示されています[cite: 7]。"
+      },
+      {
+        "id": "r152q3",
+        "questionJa": "従業員は金曜日までに何をすべきですか[cite: 7]。",
+        "choicesJa": [
+          "フィードバックを提出する",
+          "新しいデスクに私物を移動する",
+          "会議に参加する",
+          "新しいレイアウトを承認する"
+        ],
+        "explanationDetail": "第2段落に「move your personal belongings to your new desk by end of day this Friday（今週金曜日の就業終了までに私物を新しいデスクに移動させる）」と指示されています[cite: 7]。"
+      }
+    ]
+  }
+]
+
+```

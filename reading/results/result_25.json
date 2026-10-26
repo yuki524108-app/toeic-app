@@ -1,0 +1,95 @@
+[
+{
+"id": "r193",
+"passageJa": "皆様へ\n\n昨日の製品戦略会議に参加できなかった方のために、共有ドライブの「Meeting Recordings > Q3 Strategy」フォルダに録画をアップロードしました。録画には全体の議論と使用されたスライドが含まれています。\n\n会議からいくつかのアクションアイテム（対応事項）が出ましたので、これについては本日後ほど、より詳細な要約メールで別途フォローアップいたします。それまでの間、来週火曜日のフォローアップセッションまでに録画をご視聴ください。\n\nファイルへのアクセスに問題がある場合はお知らせください。\n\nよろしくお願いいたします。\nオマール",
+"vocab": [
+"attend：〜に出席する",
+"action item：対応事項、実行項目",
+"follow up on：〜について追跡調査する、フォローアップする",
+"in the meantime：それまでの間に",
+"access：〜にアクセスする"
+],
+"questions": [
+{
+"id": "r193q1",
+"questionJa": "会議の録画はどこにアップロードされましたか？",
+"choicesJa": [
+"メールの添付ファイル",
+"共有ドライブ",
+"印刷された配布資料",
+"会社のブログ"
+],
+"explanationDetail": "本文第1段落に「uploaded the recording to our shared drive（共有ドライブに録画をアップロードした）」とあるため、「The shared drive」が正解です。メールへの添付、印刷資料、または会社のブログにアップロードしたという記述はありません。"
+},
+{
+"id": "r193q2",
+"questionJa": "オマールは本日後ほど何を送信しますか？",
+"choicesJa": [
+"改訂版のアジェンダ",
+"より詳細な要約メール",
+"アンケート調査",
+"カレンダーの招待状"
+],
+"explanationDetail": "第2段落で「follow up on separately in a more detailed summary email later today（本日後ほど、より詳細な要約メールで別途フォローアップする）」と述べているため、「A more detailed summary email」が正解です。アジェンダの改訂版、アンケート、カレンダーの招待状を送るという言及はありません。"
+},
+{
+"id": "r193q3",
+"questionJa": "受信者は火曜日までに何をすることが求められていますか？",
+"choicesJa": [
+"フィードバックを提出する",
+"録画を視聴する",
+"プレゼンテーションを準備する",
+"出欠確認の返信をする"
+],
+"explanationDetail": "第2段落に「please watch the recording before our follow-up session next Tuesday（来週火曜日のフォローアップセッションまでに録画をご視聴ください）」と記載されているため、「Watch the recording」が正解です。フィードバックの提出、プレゼン準備、出欠確認への返信は求められていません。"
+}
+]
+},
+{
+"id": "r194",
+"passageJa": "エネルギー消費を削減するため、今後数週間をかけてすべてのオフィス照明が人感センサー付きの器具へと改修されます。誰かが部屋に入るとライトが自動的に点灯し、動きが検知されない状態が15分間続くと消灯します。\n\n印刷物を読むなどデスクで静かに作業している従業員は、照明が予期せず消えた場合、ライトを再点灯させるために時々手を振る必要があるかもしれません。調整期間中のご不便につきまして、あらかじめお詫び申し上げます。\n\nこの改修により、ビル全体のエネルギー使用量が約15%削減される見込みです。",
+"vocab": [
+"energy consumption：エネルギー消費量",
+"upgrade：〜を向上させる、改修する",
+"motion-sensor fixture：人感センサー付き照明器具",
+"unexpectedly：予期せず、不意に",
+"inconvenience：不便、迷惑",
+"adjustment period：調整期間"
+],
+"questions": [
+{
+"id": "r194q1",
+"questionJa": "照明にどのような変更が加えられますか？",
+"choicesJa": [
+"より明るい電球が取りつけられる",
+"照明が人感センサー付きに改修される",
+"一部の部屋から照明が撤去される",
+"カラー照明が追加される"
+],
+"explanationDetail": "第1段落に「all office lighting will be upgraded to motion-sensor fixtures（すべてのオフィス照明が人感センサー付き器具に改修される）」と書かれているため、「Lights are being upgraded to motion sensors」が正解です。電球の光量を上げたり、照明自体を撤去したり、カラー照明に変更するといった記述はありません。"
+},
+{
+"id": "r194q2",
+"questionJa": "動きが検知されない状態がどのくらい続くとライトが消えますか？",
+"choicesJa": [
+"5分間",
+"10分間",
+"15分間",
+"30分間"
+],
+"explanationDetail": "第1段落の終わりに「switch off after 15 minutes of no detected movement（動きが検知されない状態が15分続いた後に消灯する）」と明記されているため、「15 minutes」が正解です。5分、10分、30分という数値は本文の記述と一致しません。"
+},
+{
+"id": "r194q3",
+"questionJa": "この改修によって期待される結果は何ですか？",
+"choicesJa": [
+"エネルギー使用量の増加",
+"エネルギー使用量の15%削減",
+"エネルギー使用量の変化なし",
+"エネルギー使用量の50%削減"
+],
+"explanationDetail": "第3段落に「reduce the building's overall energy usage by approximately 15 percent（ビル全体のエネルギー使用量を約15%削減する）」と記載されているため、「A 15 percent reduction in energy usage」が正解です。使用量が増える、変化しないという選択肢は誤りであり、50%削減という数値も不正確です。"
+}
+]
+}
+]

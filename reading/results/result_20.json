@@ -1,0 +1,373 @@
+```json
+[
+  {
+    "id": "r153",
+    "passageJa": "ウィローブルック動物保護施設（Willowbrook Animal Shelter）は今週、施設を拡張し、地域内の行き場のないペットを保護する収容能力をほぼ倍増させる計画を発表しました[cite: 8]。300万ドルの拡張事業には、増設される犬舎、拡張された獣医クリニック、および犬用の新しい屋外プレイエリアが含まれます[cite: 8]。\n\nシェルターの責任者であるアラン・レイズ氏は、この拡張計画は長年温められてきたものであり、常に高い受け入れ数のために施設が収容能力を超えて運営されることが多かったことが背景にあると述べました[cite: 8]。建設は今冬に始まり、完了までに約1年かかる見込みです[cite: 8]。\n\nシェルターは現在、このプロジェクトの資金調達を支援する寄付を受け付けており、建設開始前までに地域社会から50万ドルを集める目標を設定しています[cite: 8]。",
+    "vocab": [
+      "expand one's facility：施設を拡張する",
+      "capacity：収容能力、容積",
+      "kennel：犬舎、ペットホテル",
+      "veterinary clinic：獣医クリニック、動物病院",
+      "intake number：保護数、受け入れ数"
+    ],
+    "questions": [
+      {
+        "id": "r153q1",
+        "questionJa": "拡張計画には何が含まれますか[cite: 8]。",
+        "choicesJa": [
+          "新しい駐車場のみ",
+          "犬舎の増設と拡張された獣医クリニック",
+          "ギフトショップ",
+          "2番目の拠点"
+        ],
+        "explanationDetail": "第1段落に「additional kennels, an expanded veterinary clinic（増設される犬舎、拡張された獣医クリニック）」が含まれると記されています[cite: 8]。"
+      },
+      {
+        "id": "r153q2",
+        "questionJa": "なぜシェルターは拡張するのですか[cite: 8]。",
+        "choicesJa": [
+          "コスト削減のため",
+          "常に高い保護（受け入れ）数のため",
+          "より多くの来訪者を惹きつけるため",
+          "新しい法律のため"
+        ],
+        "explanationDetail": "第2段落に「driven by consistently high intake numbers（常に高い受け入れ数に起因して）」と明記されています[cite: 8]。"
+      },
+      {
+        "id": "r153q3",
+        "questionJa": "シェルターは現在何を行っていますか[cite: 8]。",
+        "choicesJa": [
+          "一時的に閉鎖している",
+          "プロジェクト資金調達のための寄付を受け付けている",
+          "人員を削減している",
+          "現在の建物を売却している"
+        ],
+        "explanationDetail": "第3段落冒頭に「accepting donations to help fund the project（プロジェクトの資金調達を支援する寄付を受け付けている）」と記されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r154",
+    "passageJa": "社用車ドライバーの皆様へ[cite: 8]\n\n今月はすべての社用車が四半期ごとの点検時期を迎えていることのリマインドです[cite: 8]。月末にかけては枠がすぐに埋まる傾向があるため、各自のご都合に合わせてできるだけ早く整備工場（メンテナンスガレージ）での予約をお取りください[cite: 8]。\n\n点検中、技術者はタイヤの状態、ブレーキ、液類（フルード）のレベル、および車両全体の安全性を確認します[cite: 8]。点検に不合格となった車両は、修理が完了するまで運用から外されます[cite: 8]。\n\n走行距離および整備履歴を適切に更新できるよう、点検予約時には車両の運航日誌（ログブック）をご持参ください[cite: 8]。\n\n当社の車両の安全性と信頼性の維持にご協力いただき、ありがとうございます[cite: 8]。",
+    "vocab": [
+      "fleet：車両、全社用車",
+      "quarterly inspection：四半期点検",
+      "at one's earliest convenience：〜の都合がつき次第なるべく早く",
+      "fluid level：オイル・液類の量",
+      "logbook：運航日誌、記録簿"
+    ],
+    "questions": [
+      {
+        "id": "r154q1",
+        "questionJa": "このメールの目的は何ですか[cite: 8]。",
+        "choicesJa": [
+          "新車を発表するため",
+          "ドライバーに四半期点検についてリマインドするため",
+          "事故を報告するため",
+          "車両の使用を取りやめるため"
+        ],
+        "explanationDetail": "第1段落に「This is a reminder that all company vehicles are due for their quarterly inspection（全社用車が四半期点検時期を迎えていることのリマインド）」と示されています[cite: 8]。"
+      },
+      {
+        "id": "r154q2",
+        "questionJa": "車両が点検に不合格となった場合、どうなりますか[cite: 8]。",
+        "choicesJa": [
+          "売却される",
+          "修理が完了するまで運用から外される",
+          "ドライバーに罰金が科される",
+          "何も変わらない"
+        ],
+        "explanationDetail": "第2段落の最後に「will be taken out of service until repairs are completed（修理が完了するまで運用停止となる）」と書かれています[cite: 8]。"
+      },
+      {
+        "id": "r154q3",
+        "questionJa": "ドライバーは点検予約時に何を持参すべきですか[cite: 8]。",
+        "choicesJa": [
+          "運転免許証",
+          "車両の運航日誌（ログブック）",
+          "スペアタイヤ",
+          "点検費用"
+        ],
+        "explanationDetail": "第3段落に「bring your vehicle's logbook to the appointment（点検時に車両の運航日誌を持参する）」と指示されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r155",
+    "passageJa": "当社史上最も先進的なノイズキャンセリングヘッドホン「AeroSound Pro」のご紹介です[cite: 8]。最大30時間のバッテリー駆動時間と業界最高峰の音質を備えた AeroSound Pro は、旅行、仕事、または日常のリスニングに最適です[cite: 8]。\n\n適応型ノイズキャンセリングは、騒がしい機内にいるときでも、混雑したカフェで仕事をしているときでも、環境に合わせて自動的に調整されます[cite: 8]。快適な低反発イヤークッションにより、不快感なく一日中装着できます[cite: 8]。\n\n今すぐ事前注文（予約販売）していただくと、在庫がある限り、40ドル相当のプレミアムキャリングケースを無料でプレゼントいたします[cite: 8]。",
+    "vocab": [
+      "noise-cancelling：ノイズキャンセリング（防音・消音）機能付きの",
+      "adaptive：適応型の、順応する",
+      "memory foam：低反発フォーム",
+      "wearability：装着性、着心地",
+      "while supplies last：在庫がある限り"
+    ],
+    "questions": [
+      {
+        "id": "r155q1",
+        "questionJa": "AeroSound Pro の主な特徴は何ですか[cite: 8]。",
+        "choicesJa": [
+          "防水設計",
+          "最大30時間のバッテリー駆動時間",
+          "内蔵フィットネストラッカー",
+          "音声翻訳"
+        ],
+        "explanationDetail": "第1段落に「up to 30 hours of battery life（最大30時間のバッテリー駆動時間）」と明確に書かれています[cite: 8]。"
+      },
+      {
+        "id": "r155q2",
+        "questionJa": "適応型ノイズキャンセリング機能は何をしますか[cite: 8]。",
+        "choicesJa": [
+          "BGMを再生する",
+          "環境に合わせて自動的に調整される",
+          "言語を翻訳する",
+          "心拍数を計測する"
+        ],
+        "explanationDetail": "第2段落に「automatically adjusts to your environment（環境に合わせて自動的に調整される）」とあります[cite: 8]。"
+      },
+      {
+        "id": "r155q3",
+        "questionJa": "事前注文に対してどんな特典（ボーナス）が提供されていますか[cite: 8]。",
+        "choicesJa": [
+          "割引コード",
+          "無料のプレミアムキャリングケース",
+          "追加のヘッドホン",
+          "送料無料のみ"
+        ],
+        "explanationDetail": "第3段落に「receive a free premium carrying case（無料のプレミアムキャリングケースを受け取る）」と明記されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r156",
+    "passageJa": "4階に新しい従業員用リーディングコーナー（読書コーナー）がオープンしたことをお知らせいたします[cite: 8]。ここにはスタッフや経営陣から寄付されたビジネス書、自己啓発本、娯楽書が多数揃えられています[cite: 8]。このスペースには快適な座席が用意されており、休憩時間や始業前・終業後に利用できます[cite: 8]。\n\n従業員は性善説（自主管理ルール）に基づいて本を自由に借りることができます[cite: 8]。単に本を持ち出して読み終わったら返却するか、他の方へのおすすめノートを自由に残してください[cite: 8]。蔵書を増やすため、状態のよい中古本の寄付も歓迎しております[cite: 8]。\n\nこの新しいスペースが、心をリラックスさせる静かな場所となり、チーム内での継続的な学習文化を促進することを願っています[cite: 8]。",
+    "vocab": [
+      "self-development：自己啓発",
+      "after hours：営業時間外に、終業後に",
+      "on an honor system：性善説に基づき、自主管理ルールで",
+      "gently used：状態の良い中古の",
+      "unwind：リラックスする、くつろぐ"
+    ],
+    "questions": [
+      {
+        "id": "r156q1",
+        "questionJa": "何が導入（設置）されますか[cite: 8]。",
+        "choicesJa": [
+          "新しいカフェテリア",
+          "従業員用読書コーナー",
+          "フィットネスルーム",
+          "瞑想室"
+        ],
+        "explanationDetail": "第1段落冒頭に「opening of a new employee reading corner（新しい従業員用読書コーナーのオープン）」とあります[cite: 8]。"
+      },
+      {
+        "id": "r156q2",
+        "questionJa": "貸出システムはどのように運用されていますか[cite: 8]。",
+        "choicesJa": [
+          "図書係に手続きしなければならない",
+          "性善説（自主管理ルール）で運用されている",
+          "保証金を支払わなければならない",
+          "本は部屋から持ち出せない"
+        ],
+        "explanationDetail": "第2段落に「borrow books on an honor system（性善説に基づいて本を借りる）」と書かれています[cite: 8]。"
+      },
+      {
+        "id": "r156q3",
+        "questionJa": "従業員は何をすることが推奨されていますか[cite: 8]。",
+        "choicesJa": [
+          "オフィスのために新書を購入すること",
+          "状態の良い中古本を寄付すること",
+          "借りた本をすぐに返却すること",
+          "勤務時間中の使用を避けること"
+        ],
+        "explanationDetail": "第2段落の最後に「welcome donations of gently used books（状態の良い中古本の寄付を歓迎する）」と記されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r157",
+    "passageJa": "市の技術者らは、毎日何千人もの通勤者が利用する主要ルートである老朽化したフィフス・ストリート橋（Fifth Street Bridge）を修繕する2段階の計画を発表しました[cite: 8]。構造補強に焦点を当てた第1段階は来月から始まり、オフピークの時間帯に一部の車線規制（車線閉鎖）が必要となります[cite: 8]。\n\n再舗装や照明の改善を含む第2段階は、来春に予定されています[cite: 8]。市の当局者は、橋の寿命を少なくとも25年延ばし、高額な全面架け替えを回避するためにプロジェクト全体が必要不可欠であると述べています[cite: 8]。\n\nドライバーの皆様には、第1段階の期間中は軽微な遅延が予想されるため、可能な場合は迂回路の利用を検討するようアドバイスされています[cite: 8]。",
+    "vocab": [
+      "aging：老朽化した",
+      "structural reinforcement：構造補強",
+      "off-peak hours：オフピーク時、混雑していない時間帯",
+      "resurfacing：再舗装",
+      "alternate route：迂回路"
+    ],
+    "questions": [
+      {
+        "id": "r157q1",
+        "questionJa": "第1段階の焦点は何ですか[cite: 8]。",
+        "choicesJa": [
+          "再舗装",
+          "構造補強",
+          "車線の増設",
+          "照明の改善"
+        ],
+        "explanationDetail": "第1段落後半に「The first phase, focused on structural reinforcement（構造補強に焦点を当てた第1段階）」と明記されています[cite: 8]。"
+      },
+      {
+        "id": "r157q2",
+        "questionJa": "第2段階はいつ予定されていますか[cite: 8]。",
+        "choicesJa": [
+          "来月",
+          "来春",
+          "2年後",
+          "すでに始まっている"
+        ],
+        "explanationDetail": "第2段落冒頭に「scheduled for next spring（来春に予定されている）」と示されています[cite: 8]。"
+      },
+      {
+        "id": "r157q3",
+        "questionJa": "プロジェクトの目標は何ですか[cite: 8]。",
+        "choicesJa": [
+          "新しい橋を建設すること",
+          "橋の寿命を少なくとも25年延ばすこと",
+          "橋を恒久的に閉鎖すること",
+          "交通違反の罰金を減らすこと"
+        ],
+        "explanationDetail": "第2段落に「extend the bridge's lifespan by at least 25 years（橋の寿命を少なくとも25年延ばす）」と記載されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r158",
+    "passageJa": "チームの皆様へ[cite: 8]\n\n先月実施された従業員エンゲージメント調査にご参加いただいた皆様、ありがとうございました[cite: 8]。回答率は85%という素晴らしい数字を記録し、皆様からのフィードバックは今後のいくつかの取り組みに直接反映されます[cite: 8]。\n\n主な調査結果として、福利厚生制度に対する強い満足感が示された一方で、専門的なスキル開発の機会増や経営陣からのより明確なコミュニケーションを求める声も上がりました[cite: 8]。これに応えて、当社は新たに四半期ごとのタウンホールミティング（全社集会）を開始し、来年度の研修予算を増額する予定です[cite: 8]。\n\n詳細に関心のある方向けに、結果の完全な要約を添付しています[cite: 8]。皆様の率直で貴重なご意見に改めて感謝申し上げます[cite: 8]。",
+    "vocab": [
+      "employee engagement survey：従業員エンゲージメント（満足度・関与度）調査",
+      "response rate：回答率",
+      "benefits package：福利厚生パッケージ",
+      "professional development：専門スキルの開発、職業訓練",
+      "town hall meeting：タウンホールミーティング、対話型全社集会"
+    ],
+    "questions": [
+      {
+        "id": "r158q1",
+        "questionJa": "調査の回答率は何パーセントでしたか[cite: 8]。",
+        "choicesJa": [
+          "50%",
+          "65%",
+          "85%",
+          "100%"
+        ],
+        "explanationDetail": "第1段落に「outstanding response rate of 85%（85%という素晴らしい回答率）」とあります[cite: 8]。"
+      },
+      {
+        "id": "r158q2",
+        "questionJa": "従業員は何の増加・拡充を要求しましたか[cite: 8]。",
+        "choicesJa": [
+          "休暇日数",
+          "専門的なスキル開発の機会",
+          "無料のお菓子",
+          "駐車場スペース"
+        ],
+        "explanationDetail": "第2段落に「requests for more opportunities for professional development（専門的なスキル開発の機会に対する要望）」と記載されています[cite: 8]。"
+      },
+      {
+        "id": "r158q3",
+        "questionJa": "どのような新しい取り組みが発表されましたか[cite: 8]。",
+        "choicesJa": [
+          "新しいオフィスの場所",
+          "四半期ごとのタウンホールミーティング",
+          "昇給",
+          "労働時間の削減"
+        ],
+        "explanationDetail": "第2段落後半に「launching a new quarterly town hall meeting（四半期ごとのタウンホールミーティングの開始）」と提示されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r159",
+    "passageJa": "現在、当社のオンライン注文システムで技術的な問題が発生しており、一部のお客様が購入を完了できない可能性がございます[cite: 8]。当社の技術チームが問題の解決に全力で取り組んでおり、今後数時間以内に通常のサービスが再開される見込みです[cite: 8]。\n\n注文を試みて決済（請求）がされたものの、確認メールが届いていない場合は、二重に注文を行わないようお願いいたします[cite: 8]。代わりにカスタマーサポートチームにお問い合わせいただければ、注文状況を確認いたします[cite: 8]。\n\nご不便をおかけしますことを深くお詫び申し上げますとともに、進捗状況につきましては当社ウェブサイトにて随時更新してお知らせいたします[cite: 8]。",
+    "vocab": [
+      "technical issue：技術的問題、システム障害",
+      "duplicate order：重複注文、二重注文",
+      "customer support team：カスタマーサポートチーム",
+      "verify order status：注文状況を確認する",
+      "sincerely apologize：心よりお詫び申し上げます"
+    ],
+    "questions": [
+      {
+        "id": "r159q1",
+        "questionJa": "どのような問題が説明されていますか[cite: 8]。",
+        "choicesJa": [
+          "配送の遅延",
+          "オンライン注文システムの技術的問題",
+          "値上げ",
+          "製品の回収（リコール）"
+        ],
+        "explanationDetail": "第1段落冒頭に「technical issues with our online ordering system（オンライン注文システムの技術的問題）」と記されています[cite: 8]。"
+      },
+      {
+        "id": "r159q2",
+        "questionJa": "決済されたものの確認メールが届いていない顧客はどうすべきですか[cite: 8]。",
+        "choicesJa": [
+          "二重注文を行う",
+          "カスタマーサポートに連絡する",
+          "1週間待つ",
+          "アカウントを解約する"
+        ],
+        "explanationDetail": "第2段落に「contact our customer support team, who can verify your order status（カスタマーサポートチームに連絡する）」と指示されています[cite: 8]。"
+      },
+      {
+        "id": "r159q3",
+        "questionJa": "更新情報はどこで提供されますか[cite: 8]。",
+        "choicesJa": [
+          "テキストメッセージ（SMS）",
+          "ウェブサイト上",
+          "電話",
+          "印刷された通知"
+        ],
+        "explanationDetail": "第3段落に「provide updates on our website（ウェブサイトでアップデートを提供する）」と記述されています[cite: 8]。"
+      }
+    ]
+  },
+  {
+    "id": "r160",
+    "passageJa": "市内初の屋上ガーデンカフェである「スカイライン・カフェ（Skyline Café）」が先週、ダウンタウンにある新装改修されたメリディアン・ビル（Meridian Building）の屋上にオープンしました[cite: 8]。同カフェは、農産物の多くが敷地内で栽培されるアーバンガーデン（都市型農園）と、市街のパノラマビューを特徴としています[cite: 8]。\n\nオーナーのリナ・パーク（Lena Park）氏は、過密なダウンタウンの中心部に過密感を和らげる緑地をもっと増やしたいという思いからこのコンセプトを思いついたと語りました[cite: 8]。飲食の提供に加えて、同カフェではコンポスト（堆肥化）やプランター菜園などの技術を教える一般向けのガーデニング講習会（ワークショップ）を毎週開催しています[cite: 8]。\n\nパーク氏は、このカフェが周辺地域の他のビルオーナーにも、将来同様の屋上開発を検討するきっかけになることを期待しています[cite: 8]。",
+    "vocab": [
+      "rooftop garden：屋上庭園、屋上ガーデン",
+      "panoramic view：パノラマの眺望",
+      "dense downtown core：過密なダウンタウンの中心部",
+      "composting：コンポスト、堆肥化",
+      "container gardening：プランター園芸、容器栽培"
+    ],
+    "questions": [
+      {
+        "id": "r160q1",
+        "questionJa": "スカイライン・カフェの何がユニーク（特徴的）ですか[cite: 8]。",
+        "choicesJa": [
+          "完全な地下にある",
+          "敷地内にアーバンガーデンがある",
+          "朝食のみを提供する",
+          "フードトラックである"
+        ],
+        "explanationDetail": "第1段落に「features an urban garden where much of its produce is grown on-site（敷地内で多くの作物が育てられているアーバンガーデンを備える）」と書かれています[cite: 8]。"
+      },
+      {
+        "id": "r160q2",
+        "questionJa": "オーナーがカフェを作るきっかけ（着想）となったものは何ですか[cite: 8]。",
+        "choicesJa": [
+          "海外旅行",
+          "ダウンタウンに緑地をもっと増やしたいという思い",
+          "代々伝わるレシピ",
+          "料理コンテスト"
+        ],
+        "explanationDetail": "第2段落冒頭に「desire to bring more green space into the city's dense downtown core（ダウンタウンに緑地を増やしたいという思い）」と記されています[cite: 8]。"
+      },
+      {
+        "id": "r160q3",
+        "questionJa": "カフェは飲食以外に何を提供していますか[cite: 8]。",
+        "choicesJa": [
+          "料理教室",
+          "毎週のガーデニング講習会（ワークショップ）",
+          "毎晩の生演奏",
+          "無料ヨガクラス"
+        ],
+        "explanationDetail": "第2段落後半に「hosts weekly gardening workshops for the public（一般向けに毎週ガーデニングワークショップを開催している）」と述べられています[cite: 8]。"
+      }
+    ]
+  }
+]
+
+```

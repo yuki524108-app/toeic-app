@@ -1,0 +1,549 @@
+```json
+[
+  {
+    "id": "r169",
+    "passageJa": "グリーンパス・マニュファクチャリング（GreenPath Manufacturing）社は今週、廃棄物の削減、エネルギーの節約、生産プロセスにおける持続可能な資材の使用への取り組みが評価され、公式の「環境配慮企業認定（Green Business Certification）」を取得したことを発表しました[cite: 10]。\n\n完了までに1年以上を要したこの認定プロセスにおいて、グリーンパス社は廃棄物管理システムを全面的に見直し、メイン施設にソーラーパネルを設置することが求められました[cite: 10]。同社幹部によると、これらの変更によりすでにエネルギーコストが20%削減されたとのことです[cite: 10]。\n\nグリーンパス社は、自社の持続可能な取り組みを紹介し、同様の認定取得に関心のある地元の他企業と学びを共有するため、来月地域向けの見学会（オープンハウス）を開催する予定です[cite: 10]。\n\n--------------------------------------------------\n\n宛先：events@greenpath.com\n差出人：r.chowdhury@localbiz.com\n件名：見学会の参加登録について[cite: 10]\n\nこんにちは[cite: 10]。\n\nグリーンパス社の新しい認定についての記事を拝読し、来月開催される地域向けの見学会に当社の製造部門の同僚数名とともにぜひ参加したいと考えております[cite: 10]。何名まで同伴可能か、また事前に参加登録が必要かどうかを教えていただけますでしょうか[cite: 10]。\n\n私たちは特に、ソーラーパネルの設置プロセスについて詳しく知りたいと考えております[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nリナ・チョウドゥリー[cite: 10]\n\n--------------------------------------------------\n\n宛先：r.chowdhury@localbiz.com\n差出人：events@greenpath.com\n件名：RE: 見学会の参加登録について[cite: 10]\n\nリナ様[cite: 10]\n\n関心をお寄せいただきありがとうございます！リナ様と同僚の皆様のご参加を心より歓迎いたします[cite: 10]。最大5名までのグループでのご参加が可能でございます[cite: 10]。また、事前準備のため事前登録が必要となっております[cite: 10]。\n\n当日は、ソーラーパネル設置業者からの担当者も現場におり、技術的な詳しい質問にお答えする予定ですので、貴社チームにとって素晴らしい機会になるかと存じます[cite: 10]。\n\nお席を確保するため、来週末までに参加者全員のお名前を返信にてお知らせください[cite: 10]。\n\n敬具[cite: 10]\nグリーンパス イベントチーム[cite: 10]",
+    "vocab": [
+      "Green Business Certification：環境配慮企業認定",
+      "overhaul：見直す、全面的に改修する",
+      "solar panel installation：ソーラーパネルの設置",
+      "open house：オープンハウス、見学会",
+      "in advance：事前に"
+    ],
+    "questions": [
+      {
+        "id": "r169q1",
+        "questionJa": "グリーンパス・マニュファクチャリング社は何を取得しましたか[cite: 10]。",
+        "choicesJa": [
+          "安全賞",
+          "環境配慮企業認定（Green Business Certification）",
+          "政府契約",
+          "業界デザイン賞"
+        ],
+        "explanationDetail": "第1文章の冒頭に「received official Green Business Certification（公式の環境配慮企業認定を取得した）」と明確に記載されています[cite: 10]。"
+      },
+      {
+        "id": "r169q2",
+        "questionJa": "エネルギーコストはどのくらい減少しましたか[cite: 10]。",
+        "choicesJa": [
+          "10パーセント",
+          "20パーセント",
+          "30パーセント",
+          "50パーセント"
+        ],
+        "explanationDetail": "第1文章の第2段落最後に「reduced energy costs by 20 percent（エネルギーコストが20%削減された）」と示されています[cite: 10]。"
+      },
+      {
+        "id": "r169q3",
+        "questionJa": "なぜリナ・チョウドゥリーはメールを書いているのですか[cite: 10]。",
+        "choicesJa": [
+          "環境汚染について苦情を言うため",
+          "見学会への参加について尋ねるため",
+          "求職のため",
+          "提携を提案するため"
+        ],
+        "explanationDetail": "リナのメール（第2文書）で「would love to attend the community open house... Could you tell me how many people we can bring and whether registration is required in advance?（見学会に参加したいと考えており、人数制限や事前登録について尋ねている）」と述べています[cite: 10]。"
+      },
+      {
+        "id": "r169q4",
+        "questionJa": "リナは何人まで連れていくことができますか[cite: 10]。",
+        "choicesJa": [
+          "2人まで",
+          "3人まで",
+          "5人まで",
+          "無制限"
+        ],
+        "explanationDetail": "第3文書（返信メール）の第1段落に「Groups of up to five people are welcome（最大5名までのグループを歓迎する）」と書かれています[cite: 10]。"
+      },
+      {
+        "id": "r169q5",
+        "questionJa": "見学会の当日は現地で何が用意されていますか[cite: 10]。",
+        "choicesJa": [
+          "料理の実演",
+          "ソーラーパネル設置業者の担当者",
+          "生バンド演奏",
+          "法律顧問"
+        ],
+        "explanationDetail": "第3文書の第2段落に「have a representative from our solar panel installer on site that day（当日はソーラーパネル設置業者の担当者が現地にいる）」と記載されています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r170",
+    "passageJa": "お知らせ：社内図書室のデジタル化について[cite: 10]\n\n来月より、2階にある社内図書室は完全なデジタル貸出システムへと移行いたします[cite: 10]。すべての書籍、雑誌、参考資料は、デスクトップおよびモバイル端末の両方で利用可能な新しいアプリを通じてアクセスできるようになります[cite: 10]。\n\n現行の紙の書籍も3か月の移行期間中は引き続き貸出可能ですが、移行期間終了後は地元の学校へ寄付されます[cite: 10]。新しいシステムに慣れるため、従業員の皆様には今からデジタル目録の探索を開始することをお勧めします[cite: 10]。\n\n新しいアプリの使い方に関する研修セッションが、来週の火曜日と木曜日の正午に2回開催されます[cite: 10]。\n\n--------------------------------------------------\n\n宛先：library@company.com\n差出人：b.nakamura@company.com\n件名：研修セッションについての質問[cite: 10]\n\nこんにちは[cite: 10]。\n\n新しいデジタル図書アプリの研修セッションに参加したいと考えておりますが、火曜日は予定が入ってしまっています[cite: 10]。木曜日のセッションも同じ内容を扱いますか、それとも2回のセッションで違いはありますでしょうか[cite: 10]。\n\nまた、リアルタイムで参加できない従業員のために、どちらかのセッションの録画が利用可能になりますか[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nベン・ナカムラ[cite: 10]\n\n--------------------------------------------------\n\n宛先：b.nakamura@company.com\n差出人：library@company.com\n件名：RE: 研修セッションについての質問[cite: 10]\n\nベンさん、こんにちは[cite: 10]。\n\n朗報です — 両方のセッションともまったく同じ内容を扱いますので、代わりに木曜日のセッションにぜひご参加ください[cite: 10]。セッションは約30分間で、アプリの検索機能と貸出機能のライブデモが含まれます[cite: 10]。\n\nまた、木曜日のセッションを録画し、リアルタイムでどちらのセッションにも参加できない方向けに、翌週の月曜日までにイントラネットに掲載する予定です[cite: 10]。\n\nそれまでに他にご質問がございましたら、いつでもお知らせください！[cite: 10]\n\n敬具[cite: 10]\n図書チーム[cite: 10]",
+    "vocab": [
+      "transition to：〜へ移行する",
+      "reference materials：参考資料、参照資料",
+      "digital catalog：デジタルカタログ（蔵書目録）",
+      "scheduling conflict：スケジュールの都合、重複",
+      "live demo：実演、ライブデモ"
+    ],
+    "questions": [
+      {
+        "id": "r170q1",
+        "questionJa": "社内図書室に関してどのような変更が行われますか[cite: 10]。",
+        "choicesJa": [
+          "永久に閉鎖される",
+          "デジタルシステムへ移行する",
+          "新しい階へ引っ越す",
+          "紙の蔵書を拡大する"
+        ],
+        "explanationDetail": "お知らせ（第1文書）の第1段落で「transition to a fully digital lending system（完全なデジタル貸出システムへ移行する）」と説明されています[cite: 10]。"
+      },
+      {
+        "id": "r170q2",
+        "questionJa": "移行期間終了後、紙の書籍はどうなりますか[cite: 10]。",
+        "choicesJa": [
+          "売却される",
+          "地元の学校に寄付される",
+          "無期限に保管される",
+          "リサイクルされる"
+        ],
+        "explanationDetail": "第1文書の第2段落に「the physical collection will be donated to local schools（紙の書籍は地元の学校に寄付される）」と明記されています[cite: 10]。"
+      },
+      {
+        "id": "r170q3",
+        "questionJa": "なぜベン・ナカムラはメールを書いているのですか[cite: 10]。",
+        "choicesJa": [
+          "図書室のアカウントを解約するため",
+          "研修セッションについて尋ねるため",
+          "アプリの不具合を報告するため",
+          "追加の書籍をリクエストするため"
+        ],
+        "explanationDetail": "ベンのメール（第2文書）で、研修セッション（training sessions）の内容の違いや録画の有無について質問しています[cite: 10]。"
+      },
+      {
+        "id": "r170q4",
+        "questionJa": "2回の研修セッションでは異なる内容を扱いますか[cite: 10]。",
+        "choicesJa": [
+          "はい、完全に異なる内容を扱う",
+          "いいえ、同じ内容を扱う",
+          "木曜日のセッションのみデモが含まれる",
+          "火曜日のセッションのみ録画される"
+        ],
+        "explanationDetail": "第3文書の冒頭で「both sessions will cover exactly the same content（両方のセッションとも全く同じ内容を扱う）」と回答されています[cite: 10]。"
+      },
+      {
+        "id": "r170q5",
+        "questionJa": "録画はいつ掲載されますか[cite: 10]。",
+        "choicesJa": [
+          "セッション直後",
+          "翌週の月曜日までに",
+          "1か月以内",
+          "掲載されない"
+        ],
+        "explanationDetail": "第3文書の第2段落に「posting it on the intranet by the following Monday（翌週の月曜日までにイントラネットに掲載する）」と記されています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r171",
+    "passageJa": "イベントコーディネーター — 正社員募集\nハーバービュー・イベント[cite: 10]\n\nハーバービュー・イベント（Harborview Events）では、企業イベント、結婚式、プライベートパーティーの企画および実施をサポートしていただける、几帳面で創造的なイベントコーディネーターを募集しています[cite: 10]。業務内容には、業者との調整、スケジュールの管理、準備から撤収までのイベントの円滑な運営の確保が含まれます[cite: 10]。[cite: 10]\n\n求める人物像は、2年以上のイベント企画経験があり、多くのイベントが標準的な営業時間外に行われるため、夜間や週末の勤務に支障がない方です[cite: 10]。\n\n本職種では、競争力のある給与に加え、業績ボーナスが支給されます[cite: 10]。関心のある応募者は、9月10日までに2名の照会先（推薦人）の連絡先を添えた履歴書を hr@harborviewevents.com までお送りください[cite: 10]。\n\n--------------------------------------------------\n\n宛先：hr@harborviewevents.com\n差出人：l.fitzgerald@mailbox.com\n件名：イベントコーディネーター職への応募 - リナ・フィッツジェラルド[cite: 10]\n\n採用担当マネージャー様[cite: 10]\n\nハーバービュー・イベント社のイベントコーディネーター職に応募いたしたく、ご連絡いたしました[cite: 10]。私はブティック型イベント企画会社にて企業イベントや結婚式のコーディネートに3年間の経験があり、夜間や週末の勤務にも十分対応可能です[cite: 10]。\n\n私の組織力や業者管理の経験について証言していただける2名の照会先の連絡先と、履歴書を添付いたしました[cite: 10]。\n\n貴社チームにどのように貢献できるかをお話しできる機会をいただけますと幸いです[cite: 10]。\n\n敬具[cite: 10]\nリナ・フィッツジェラルド[cite: 10]\n\n--------------------------------------------------\n\n宛先：l.fitzgerald@mailbox.com\n差出人：hr@harborviewevents.com\n件名：RE: イベントコーディネーター職への応募 - 面接のご案内[cite: 10]\n\nリナ様[cite: 10]\n\nご応募いただきありがとうございます[cite: 10]。リナ様の企業イベントおよび結婚式でのご経験は、まさに私たちが求めている人材像に合致しておりますため、今週金曜日の午前11時より当社メインオフィスにて面接にお招きしたく存じます[cite: 10]。\n\n面接には、架空の企業イベントのプランの概要を作成していただく短いケーススタディ課題が含まれます[cite: 10]。選考プロセス全体で約45分ほどお時間をみてください[cite: 10]。\n\nご都合がよろしいか、お早めに本メールへの返信にてお知らせください[cite: 10]。\n\n敬具[cite: 10]\nハーバービュー・イベント HRチーム[cite: 10]",
+    "vocab": [
+      "execute corporate events：企業イベントを執り行う・実施する",
+      "vendor management：業者管理",
+      "professional references：推薦人、照会先",
+      "boutique firm：小規模専門企業",
+      "case study exercise：ケーススタディ課題・演習"
+    ],
+    "questions": [
+      {
+        "id": "r171q1",
+        "questionJa": "イベントコーディネーターの職種にはどのような業務が含まれますか[cite: 10]。",
+        "choicesJa": [
+          "レストランの管理",
+          "イベントの企画および実施",
+          "イベントチケットの販売",
+          "イベント会場のデザイン"
+        ],
+        "explanationDetail": "募集要項（第1文書）の第1段落に「plan and execute corporate events, weddings, and private parties（企業イベント、結婚式、パーティーの企画・実施）」と記載されています[cite: 10]。"
+      },
+      {
+        "id": "r171q2",
+        "questionJa": "勤務時間に関して何が求められていますか[cite: 10]。",
+        "choicesJa": [
+          "標準的な9時〜17時勤務のみ",
+          "夜間や週末の勤務に対応できること",
+          "完全リモートワークのみ",
+          "パートタイム勤務"
+        ],
+        "explanationDetail": "第1文書の第2段落に「comfortable working evenings and weekends（夜間や週末の勤務に支障がないこと）」と定められています[cite: 10]。"
+      },
+      {
+        "id": "r171q3",
+        "questionJa": "リナ・フィッツジェラルドにはどのくらいの経験がありますか[cite: 10]。",
+        "choicesJa": [
+          "1年",
+          "2年",
+          "3年",
+          "5年"
+        ],
+        "explanationDetail": "リナの応募メール（第2文書）に「three years of experience coordinating corporate events and weddings（3年間の経験がある）」と述べられています[cite: 10]。"
+      },
+      {
+        "id": "r171q4",
+        "questionJa": "面接には何が含まれますか[cite: 10]。",
+        "choicesJa": [
+          "筆記試験",
+          "ケーススタディ課題",
+          "集団面接",
+          "ソフトウェアの実技テスト"
+        ],
+        "explanationDetail": "HRからの返信（第3文書）に「short case study exercise where you'll be asked to outline a plan（プラン概要を作成する短いケーススタディ課題）」が含まれると記されています[cite: 10]。"
+      },
+      {
+        "id": "r171q5",
+        "questionJa": "面接の案内を受け取った後、リナは何をするよう求められていますか[cite: 10]。",
+        "choicesJa": [
+          "新しい照会先を提出する",
+          "参加可能かどうかを確定・返信すること",
+          "追加のライティングサンプルを送る",
+          "すぐにオフィスへ電話すること"
+        ],
+        "explanationDetail": "第3文書の最後に「Please confirm your availability by replying to this email（メールの返信で都合の可否を伝えてほしい）」と依頼されています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r172",
+    "passageJa": "社内メモ：カスタマーサービス部門の新しいシフト自己予約システムについて[cite: 10]\n\n来月より、カスタマーサービス部門は新しいシフト自己予約システムへ移行いたします[cite: 10]。これにより、上司から固定のスケジュールを割り当てられるのではなく、担当者が毎週利用可能な枠の中から希望するシフトを選択できるようになります[cite: 10]。\n\nシフト枠は毎週日曜日に翌週分が公開され、担当者は先着順で枠が確定されるまでの48時間以内に希望を提出する必要があります[cite: 10]。フルタイムスタッフは、選択したシフトにかかわらず、週に少なくとも32時間の勤務が保証されます[cite: 10]。\n\n新しい予約アプリの使い方を説明する短い研修動画が、今週金曜日にEメールで部門の全スタッフに送信されます[cite: 10]。\n\n--------------------------------------------------\n\n宛先：cssupervisor@company.com\n差出人：o.brennan@company.com\n件名：保証時間に関する質問[cite: 10]\n\nこんにちは[cite: 10]。\n\n新しい自己予約システムについてのメモを読み、フルタイムスタッフの保証時間について質問があり連絡いたしました[cite: 10]。人気の枠がすぐに埋まってしまい、ある週に28時間分しかシフトを選択できなかった場合でも、32時間分の給与を受け取ることができるのでしょうか、それとも不足分を埋めるために追加のシフトが割り当てられるのでしょうか[cite: 10]。\n\n新システムが始まる前に、この仕組みを確実に理解しておきたいと考えております[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nオーウェン・ブレナン[cite: 10]\n\n--------------------------------------------------\n\n宛先：o.brennan@company.com\n差出人：cssupervisor@company.com\n件名：RE: 保証時間に関する質問[cite: 10]\n\nオーウェンさん、こんにちは[cite: 10]。\n\n良いご質問ですね[cite: 10]。フルタイム従業員がシフト枠の空き状況の都合で自身で32時間分を選択できなかった場合、保証されている最低32時間に達するよう、スーパーバイザーが残りの時間を割り当てます[cite: 10]。\n\nただし、人気の時間枠はすぐに埋まってしまうため、48時間の受付時間内の可能な限り早い段階で希望を提出することをお勧めします[cite: 10]。早く選択することで、ご希望のシフトを確保しやすくなります[cite: 10]。\n\n運用開始までに他に質問がございましたらお知らせください！[cite: 10]\n\n敬具[cite: 10]\nカスタマーサービス・スーパーバイザー[cite: 10]",
+    "vocab": [
+      "self-scheduling system：自主シフト予約システム",
+      "first-come, first-served basis：先着順",
+      "guaranteed hours：保証労働時間",
+      "make up the difference：差額・差分を埋める",
+      "time slot：時間枠、シフト枠"
+    ],
+    "questions": [
+      {
+        "id": "r172q1",
+        "questionJa": "カスタマーサービス部門で何が変更されますか[cite: 10]。",
+        "choicesJa": [
+          "給与が増額される",
+          "新しいシフト自己予約システムが導入される",
+          "部署が移転する",
+          "顧客対応用の新ソフトウェアが導入される"
+        ],
+        "explanationDetail": "社内メモ（第1文書）の冒頭に「move to a new self-scheduling system（新しいシフト自己予約システムへ移行する）」と記載されています[cite: 10]。"
+      },
+      {
+        "id": "r172q2",
+        "questionJa": "担当者がシフトの希望を提出するための時間はどのくらいありますか[cite: 10]。",
+        "choicesJa": [
+          "24時間",
+          "48時間",
+          "72時間",
+          "1週間"
+        ],
+        "explanationDetail": "第1文書の第2段落に「representatives will have 48 hours to submit their preferences（48時間の提出猶予がある）」と明確に記載されています[cite: 10]。"
+      },
+      {
+        "id": "r172q3",
+        "questionJa": "なぜオーウェン・ブレナンはメールを書いているのですか[cite: 10]。",
+        "choicesJa": [
+          "昇給を申請するため",
+          "シフトが埋まってしまった場合の保証時間について尋ねるため",
+          "上司への不満を述べるため",
+          "退職を申し出るため"
+        ],
+        "explanationDetail": "オーウェンのメール（第2文書）で、希望枠が埋まって自力で32時間に満たない場合の対応（guaranteed hours for full-time staff）について尋ねています[cite: 10]。"
+      },
+      {
+        "id": "r172q4",
+        "questionJa": "フルタイム従業員が自身で32時間分を選択できなかった場合、どうなりますか[cite: 10]。",
+        "choicesJa": [
+          "給与が減額される",
+          "スーパーバイザー（上司）が残りの時間を割り当てる",
+          "自分で代わりを見つけなければならない",
+          "パートタイムに移行させられる"
+        ],
+        "explanationDetail": "スーパーバイザーからの返信（第3文書）に「a supervisor will assign the remaining hours to ensure you still reach the guaranteed 32-hour minimum（不足分は上司が割り当てる）」と記載されています[cite: 10]。"
+      },
+      {
+        "id": "r172q5",
+        "questionJa": "スーパーバイザーは何を推奨していますか[cite: 10]。",
+        "choicesJa": [
+          "シフト選択をギリギリまで待つこと",
+          "可能な限り早く希望を提出すること",
+          "人気の時間枠を避けること",
+          "代わりに固定スケジュールを要求すること"
+        ],
+        "explanationDetail": "第3文書の第2段落で「submit their preferences as early as possible within the 48-hour window（48時間の枠内で可能な限り早く希望を提出する）」ことを勧めています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r173",
+    "passageJa": "社内メモ：新しい書籍リクエスト・プログラムについて[cite: 10]\n\n今月より、従業員は会社の図書コレクションに追加してほしいビジネス書や自己研鑽本をリクエストできるようになります[cite: 10]。イントラネットのリクエストフォームからタイトルを提出するだけで、承認された場合は2週間以内に購入され、貸出可能になります[cite: 10]。\n\n各従業員は四半期ごとに最大3冊までリクエストできます[cite: 10]。リーダーシップやプロジェクトマネジメントなど、現在の研修の取り組みに沿ったタイトルが優先されます[cite: 10]。\n\nご質問は人事開発チームまでお寄せください[cite: 10]。\n\n--------------------------------------------------\n\n宛先：hrdevelopment@company.com\n差出人：a.mercer@company.com\n件名：書籍リクエストに関する質問[cite: 10]\n\nこんにちは[cite: 10]。\n\nチームのためにデータ可視化（データ・ビジュアライゼーション）に関する書籍をリクエストしたいと考えておりますが、これが新しいプログラムの下で「自己研鑽」としてカウントされるかどうか確信が持てません[cite: 10]。どのような種類の書籍が対象となるか教えていただけますでしょうか[cite: 10]。\n\nまた、リクエストが承認された場合、その本が貸出可能になった時点でEメールで通知されますか[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nアンドレ・マーサー[cite: 10]",
+    "vocab": [
+      "professional development：自己研鑽、専門能力開発",
+      "reading collection：蔵書、図書コレクション",
+      "align with：〜に沿う、〜に一致する",
+      "training initiative：研修の取り組み・施策",
+      "data visualization：データ可視化"
+    ],
+    "questions": [
+      {
+        "id": "r173q1",
+        "questionJa": "新しいプログラムの概要は何ですか[cite: 10]。",
+        "choicesJa": [
+          "読書クラブ",
+          "従業員が会社の蔵書のために書籍をリクエストする制度",
+          "執筆コンテスト",
+          "出版パートナーシップ"
+        ],
+        "explanationDetail": "社内メモ（第1文書）の第1段落に「employees can request business or professional development books to be added to our company reading collection（従業員が会社の蔵書に追加する本をリクエストできる）」と説明されています[cite: 10]。"
+      },
+      {
+        "id": "r173q2",
+        "questionJa": "従業員は四半期ごとに何冊まで本をリクエストできますか[cite: 10]。",
+        "choicesJa": [
+          "1冊",
+          "2冊",
+          "3冊",
+          "5冊"
+        ],
+        "explanationDetail": "第1文書の第2段落冒頭に「request up to three books per quarter（四半期ごとに最大3冊まで）」と記されています[cite: 10]。"
+      },
+      {
+        "id": "r173q3",
+        "questionJa": "どのような種類の書籍が優先されますか[cite: 10]。",
+        "choicesJa": [
+          "フィクション小説",
+          "現在の研修の取り組みに沿ったタイトル",
+          "20ドル未満の書籍",
+          "すでに絶版でない書籍"
+        ],
+        "explanationDetail": "第1文書の第2段落に「Priority will be given to titles that align with current training initiatives（現在の研修施策に沿ったタイトルが優先される）」と明記されています[cite: 10]。"
+      },
+      {
+        "id": "r173q4",
+        "questionJa": "なぜアンドレ・マーサーはメールを書いているのですか[cite: 10]。",
+        "choicesJa": [
+          "本の注文をキャンセルするため",
+          "データ可視化に関する本が対象となるか尋ねるため",
+          "紛失した本を報告するため",
+          "返金を要求するため"
+        ],
+        "explanationDetail": "アンドレのメール（第2文書）で「book on data visualization... wasn't sure if it counts as 'professional development'（データ可視化の本が自己研鑽に含まれるか）」を確認しています[cite: 10]。"
+      },
+      {
+        "id": "r173q5",
+        "questionJa": "アンドレは他に何を知りたがっていますか[cite: 10]。",
+        "choicesJa": [
+          "書籍の価格",
+          "本が利用可能になった際に通知されるかどうか",
+          "誰がリクエストを承認するのか",
+          "本の返却方法"
+        ],
+        "explanationDetail": "第2文書の第2段落で「will I be notified by email once the book is available for checkout?（貸出可能になったらメールで通知されるか）」と尋ねています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r174",
+    "passageJa": "セキュアボルト・クラウド（SecureVault Cloud） — エンタープライズ向けストレージソリューション[cite: 10]\n\n1ユーザーあたり月額わずか8ドルからの拡張可能なクラウド・ストレージ・プランを提供する SecureVault で、貴社のデータを保護し整理しましょう[cite: 10]。自動バックアップ、高度な暗号化、一般的なオフィスソフトウェアとのスムーズな統合などの機能を備えています[cite: 10]。\n\n今月末までに年間プランにお申し込みいただくと、15%の割引に加え、既存ファイルの移行をサポートするサポートチームとの無料導入（オンボーディング）セッションを受け取ることができます[cite: 10]。\n\n貴社の規模やニーズに合わせた個別のお見積もりについては、当社営業チーム（sales@securevault.com）までお問い合わせください[cite: 10]。\n\n--------------------------------------------------\n\n宛先：sales@securevault.com\n差出人：p.singh@brightfield.com\n件名：45ユーザー分のお見積もり依頼[cite: 10]\n\nこんにちは[cite: 10]。\n\nアクセスが必要な従業員が45名おります当社向けに、SecureVault のお見積もりをいただきたくご連絡いたしました[cite: 10]。また、広告に記載されていた割引を活用するため、年間プランへの加入も検討しております[cite: 10]。\n\n概算の月額合計費用と、無料の導入セッションに現在のプロバイダからのデータ移行サポートが含まれるかどうかを教えていただけますでしょうか[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nプリヤ・シン[cite: 10]",
+    "vocab": [
+      "scalable cloud storage：拡張可能なクラウドストレージ",
+      "automatic backup：自動バックアップ",
+      "annual plan：年間プラン",
+      "onboarding session：導入（オンボーディング）セッション",
+      "data migration：データ移行"
+    ],
+    "questions": [
+      {
+        "id": "r174q1",
+        "questionJa": "SecureVault のプランの開始価格はいくらですか[cite: 10]。",
+        "choicesJa": [
+          "1ユーザーあたり月額 5ドル",
+          "1ユーザーあたり月額 8ドル",
+          "1ユーザーあたり月額 15ドル",
+          "1ユーザーあたり月額 20ドル"
+        ],
+        "explanationDetail": "広告（第1文書）に「starting at just $8 per user per month（1ユーザーあたり月額わずか8ドルから）」と記載されています[cite: 10]。"
+      },
+      {
+        "id": "r174q2",
+        "questionJa": "年間プランにはどのような割引が提供されますか[cite: 10]。",
+        "choicesJa": [
+          "10%",
+          "15%",
+          "20%",
+          "25%"
+        ],
+        "explanationDetail": "第1文書の第2段落に「receive a 15% discount（15%の割引を受ける）」と明記されています[cite: 10]。"
+      },
+      {
+        "id": "r174q3",
+        "questionJa": "年間プランの申し込みには何が含まれますか[cite: 10]。",
+        "choicesJa": [
+          "無料のノートパソコン",
+          "無料の導入（オンボーディング）セッション",
+          "無制限のストレージ",
+          "専用のアカウントマネージャー"
+        ],
+        "explanationDetail": "第1文書の第2段落に「a free onboarding session with our support team（サポートチームによる無料の導入セッション）」が含まれると記されています[cite: 10]。"
+      },
+      {
+        "id": "r174q4",
+        "questionJa": "プリヤ・シンの会社には何名の従業員がいますか[cite: 10]。",
+        "choicesJa": [
+          "15名",
+          "30名",
+          "45名",
+          "60名"
+        ],
+        "explanationDetail": "プリヤのメール（第2文書）の冒頭に「company, which has 45 employees（45名の従業員がいる）」と明確に書かれています[cite: 10]。"
+      },
+      {
+        "id": "r174q5",
+        "questionJa": "プリヤは導入セッションについて何を確認したがっていますか[cite: 10]。",
+        "choicesJa": [
+          "その費用",
+          "データ移行のサポートが含まれるかどうか",
+          "その所要時間",
+          "誰がセッションを担当するか"
+        ],
+        "explanationDetail": "第2文書の第2段落で「whether the free onboarding session includes help migrating data from our current provider（現在のプロバイダからのデータ移行ヘルプが含まれるか）」を質問しています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r175",
+    "passageJa": "品質管理スペシャリスト — 製造部門\nエイペックス・インダストリアル[cite: 10]\n\nエイペックス・インダストリアル（Apex Industrial）では、製品を検査し、会社および業界基準への準拠を確認していただける、細かいところに気が配れる品質管理スペシャリストを募集しています[cite: 10]。主な業務には、検査の実施、欠陥の記録、および品質上の問題を解決するための製造チームとの連携が含まれます[cite: 10]。\n\n応募者は、製造環境における少なくとも2年の品質管理経験と、ISO規格に関する知識・理解を有している必要があります[cite: 10]。エンジニアリングまたは関連分野のバックグラウンドがあれば尚可（プラス）です[cite: 10]。\n\n本職種は日勤のフルタイムポジションです[cite: 10]。関心のある応募者は、今月の25日までに qc-jobs@apexindustrial.com へ履歴書を提出してください[cite: 10]。\n\n--------------------------------------------------\n\n宛先：qc-jobs@apexindustrial.com\n差出人：t.iwasaki@mailbox.com\n件名：ISO認定要件に関する質問[cite: 10]\n\n採用チームの皆様[cite: 10]\n\n品質管理スペシャリストの職種に大変関心があり、関連分野で3年の経験がございます[cite: 10]。しかしながら、募集要項にISO規格に関する知識が必要と記載されているのを拝見し、公式なISO認定資格が必要なのか、それともこれらの規格に関する実務経験があれば十分なのかをお伺いしたくご連絡いたしました[cite: 10]。\n\nご返信をお待ちしております[cite: 10]。まもなく正式な応募書類を提出する予定です[cite: 10]。\n\n敬具[cite: 10]\nタロウ・イワサキ[cite: 10]",
+    "vocab": [
+      "Quality Control Specialist：品質管理スペシャリスト",
+      "document defects：欠陥を記録・文書化する",
+      "ISO standards：ISO規格",
+      "day shift hours：日勤シフト",
+      "formal certification：正式な資格・認定"
+    ],
+    "questions": [
+      {
+        "id": "r175q1",
+        "questionJa": "品質管理スペシャリストの役割にはどのような業務が含まれますか[cite: 10]。",
+        "choicesJa": [
+          "新製品の設計",
+          "製品の検査および欠陥の記録",
+          "営業チームの管理",
+          "新入社員の研修"
+        ],
+        "explanationDetail": "求人票（第1文書）の第1段落に「inspect products... conducting inspections, documenting defects（製品を検査し欠陥を記録する）」と定められています[cite: 10]。"
+      },
+      {
+        "id": "r175q2",
+        "questionJa": "どのような経験が求められていますか[cite: 10]。",
+        "choicesJa": [
+          "1年",
+          "少なくとも2年の品質管理経験",
+          "5年",
+          "経験不問"
+        ],
+        "explanationDetail": "第1文書の第2段落に「at least two years of quality control experience（少なくとも2年の品質管理経験）」と明記されています[cite: 10]。"
+      },
+      {
+        "id": "r175q3",
+        "questionJa": "応募者にとってプラス（優遇要素）となるのは何ですか[cite: 10]。",
+        "choicesJa": [
+          "法学の学位",
+          "エンジニアリングのバックグラウンド",
+          "複数言語における流暢さ",
+          "営業経験"
+        ],
+        "explanationDetail": "第1文書の第2段落最後に「A background in engineering or a related field is a plus（エンジニアリングまたは関連分野の経歴があればプラス）」と示されています[cite: 10]。"
+      },
+      {
+        "id": "r175q4",
+        "questionJa": "タロウ・イワサキにはどのくらいの経験がありますか[cite: 10]。",
+        "choicesJa": [
+          "1年",
+          "2年",
+          "3年",
+          "10年"
+        ],
+        "explanationDetail": "タロウのメール（第2文書）の冒頭に「have three years of relevant experience（関連する3年の経験がある）」と明確に記載されています[cite: 10]。"
+      },
+      {
+        "id": "r175q5",
+        "questionJa": "タロウは何を明確にしたいと考えていますか[cite: 10]。",
+        "choicesJa": [
+          "給与範囲",
+          "公式なISO認定資格が必要かどうか",
+          "面接プロセス",
+          "勤務開始日"
+        ],
+        "explanationDetail": "第2文書で「whether formal ISO certification is required, or if practical work experience... would be sufficient（公式なISO資格が必要か、実務経験で十分か）」を確認しています[cite: 10]。"
+      }
+    ]
+  },
+  {
+    "id": "r176",
+    "passageJa": "お知らせ：年次全社カンファレンスの詳細について[cite: 10]\n\n今年の全社カンファレンスは、3月18日から20日までメリディアン・コンベンション・センター（Meridian Convention Center）にて開催されます[cite: 10]。テーマは「共に革新する（Innovating Together）」で、アジェンダには基調講演、分科会（ブレイクアウト・セッション）、ネットワーキング・イベントが含まれます[cite: 10]。\n\n全部署の長は参加が必須となっており、その他の従業員は部署の予算枠に応じて参加することが推奨されます[cite: 10]。他のオフィスから出張する従業員には宿泊施設の手配が行われます[cite: 10]。\n\n参加登録は来週の月曜日よりイベントポータルを通じて開始されます[cite: 10]。一部の分科会は定員に限りがあるため、早めの登録をお勧めします[cite: 10]。\n\n--------------------------------------------------\n\n宛先：events@company.com\n差出人：l.abara@company.com\n件名：出張手配についての質問[cite: 10]\n\nこんにちは[cite: 10]。\n\nシカゴオフィスからカンファレンスに参加する予定ですが、案内文にあったホテル手配についてお伺いしたく連絡いたしました[cite: 10]。会社が直接ホテルを予約するのでしょうか、それとも各自で予約して経費精算を申請する必要がありますか[cite: 10]。\n\nまた、航空運賃は別途カバーされますか、それとも1人あたり定額の出張予算が決まっていますでしょうか[cite: 10]。\n\nよろしくお願いいたします[cite: 10]。\nリナ・アバラ[cite: 10]\n\n--------------------------------------------------\n\n宛先：l.abara@company.com\n差出人：events@company.com\n件名：RE: 出張手配についての質問[cite: 10]\n\nリナさん、こんにちは[cite: 10]。\n\n素晴らしいご質問ですね！他オフィスから出張する従業員につきましては、当社のイベントチームが近くの提携ホテルを直接予約いたしますので、ご自身で手配したり支払ったりする必要はございません[cite: 10]。\n\n航空運賃につきましては、ご自身で航空券を予約し、標準的な出張経費精算プロセスを通じて領収書をご提出ください[cite: 10]。1人あたりの固定予算はございませんが、可能な限り経済的な選択肢をお選びいただくようお願いいたします[cite: 10]。\n\n登録開始までに他に質問がございましたらお知らせください！[cite: 10]\n\n敬具[cite: 10]\nイベントチーム[cite: 10]",
+    "vocab": [
+      "annual company conference：年次全社カンファレンス・会議",
+      "keynote speech：基調講演",
+      "breakout session：分科会、分科セッション",
+      "hotel accommodation：宿泊施設、ホテル手配",
+      "submit for reimbursement：経費精算のために提出する"
+    ],
+    "questions": [
+      {
+        "id": "r176q1",
+        "questionJa": "カンファレンスはどこで開催されますか[cite: 10]。",
+        "choicesJa": [
+          "自社のオフィス",
+          "メリディアン・コンベンション・センター",
+          "ホテルのボールルーム（宴会場）",
+          "オンラインのバーチャルプラットフォーム"
+        ],
+        "explanationDetail": "案内文（第1文書）の第1段落に「held March 18-20 at the Meridian Convention Center（メリディアン・コンベンション・センターで開催される）」と記載されています[cite: 10]。"
+      },
+      {
+        "id": "r176q2",
+        "questionJa": "誰が参加を義務付けられていますか[cite: 10]。",
+        "choicesJa": [
+          "全従業員",
+          "部門長（Department heads）",
+          "新入社員のみ",
+          "リモートワークの従業員のみ"
+        ],
+        "explanationDetail": "第1文書の第2段落に「All department heads are required to attend（すべての部門長は参加が必須）」と明記されています[cite: 10]。"
+      },
+      {
+        "id": "r176q3",
+        "questionJa": "なぜリナ・アバラはメールを書いているのですか[cite: 10]。",
+        "choicesJa": [
+          "参加を辞退するため",
+          "ホテルおよび航空運賃の手配について尋ねるため",
+          "カンファレンスの日程変更を要求するため",
+          "スケジュールの都合悪化を報告するため"
+        ],
+        "explanationDetail": "リナのメール（第2文書）で「hotel arrangements... airfare covered separately（ホテル手配と航空運賃）」について質問しています[cite: 10]。"
+      },
+      {
+        "id": "r176q4",
+        "questionJa": "他オフィスからの出張者のためにホテルを予約するのは誰ですか[cite: 10]。",
+        "choicesJa": [
+          "従業員自身",
+          "イベントチーム",
+          "ホテル側が直接",
+          "部門長"
+        ],
+        "explanationDetail": "イベントチームからの返信（第3文書）の第1段落に「our events team will book hotel rooms directly（イベントチームが直接ホテルを予約する）」と書かれています[cite: 10]。"
+      },
+      {
+        "id": "r176q5",
+        "questionJa": "航空運賃はどのように取り扱われますか[cite: 10]。",
+        "choicesJa": [
+          "全額が自動的にカバーされる",
+          "従業員が自身で予約し、後で経費精算を行う",
+          "一切カバーされない",
+          "イベントチームが直接予約する"
+        ],
+        "explanationDetail": "第3文書の第2段落に「book your own flight and submit the receipt for reimbursement（自分で航空券を予約し、精算のため領収書を提出する）」と記載されています[cite: 10]。"
+      }
+    ]
+  }
+]
+
+```

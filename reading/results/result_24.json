@@ -1,0 +1,376 @@
+[
+{
+"id": "r185",
+"passageJa": "CodeForgeは、初心者が受動的な動画レッスンではなく、実践的なプロジェクトを通じてプログラミングを学べるよう設計された新しいオンラインプラットフォームです。各コースでは、コードに対する即座のフィードバックを受けながら、実際のアプリケーション構築をステップ・バイ・ステップで案内します。\n\nコースではPython、JavaScript、Javaなどの人気言語をカバーしており、新しいコンテンツが毎月追加されます。無料体験では、クレジットカード登録なしで任意のコースの最初の3レッスンにアクセスできます。\n\nまた、定期購入者はコミュニティフォーラムにアクセスでき、質問をしたり、より経験豊富なプログラマーからヘルプを受けたりすることができます。",
+"vocab": [
+"hands-on：実践的な、体験型の",
+"passive：受動的な",
+"walk through：〜を丁寧に案内する・解説する",
+"instant feedback：即座のフィードバック",
+"subscriber：定期購入者、有料会員"
+],
+"questions": [
+{
+"id": "r185q1",
+"questionJa": "CodeForgeはどのようにプログラミングを教えますか？",
+"choicesJa": [
+"受動的な動画レッスンを通じて",
+"実践的なプロジェクトを通じて",
+"教科書の通読を通じて",
+"グループ講義を通じて"
+],
+"explanationDetail": "本文第1段落に「learn programming through hands-on projects（実践的なプロジェクトを通じてプログラミングを学ぶ）」と明記されているため、正解は「Through hands-on projects」です。「passive video lessons」は「rather than（〜ではなく）」に続く否定表現として登場するため誤りです。教科書の通読やグループ講義についての記述は本文中に存在しません。"
+},
+{
+"id": "r185q2",
+"questionJa": "無料体験では何が提供されますか？",
+"choicesJa": [
+"全コースのライブラリ",
+"任意のコースの最初の3レッスン",
+"1か月間のフルアクセス",
+"修了証のみ"
+],
+"explanationDetail": "本文第2段落に「gives you access to the first three lessons of any course（任意のコースの最初の3レッスンにアクセスできる）」と記載されているため、「The first three lessons of any course」が正解です。コースライブラリ全体や1か月間の全アクセス権が得られるとは書かれていません。また、修了証（certificate）に関する言及もありません。"
+},
+{
+"id": "r185q3",
+"questionJa": "定期購入者はコース以外に何へアクセスできますか？",
+"choicesJa": [
+"プライベートチューター",
+"コミュニティフォーラム",
+"無料のハードウェア",
+"就職斡旋サービス"
+],
+"explanationDetail": "本文第3段落に「Subscribers also gain access to a community forum（定期購入者はコミュニティフォーラムへのアクセス権も得られる）」と明確に示されているため、「A community forum」が正解です。個別指導（private tutor）、無料機器（hardware）、就職支援（job placement）に関する記述はありません。"
+}
+]
+},
+{
+"id": "r186",
+"passageJa": "今年の急流市（リバーサイド市）マラソン大会には過去最高の12,000人の参加者が集まり、昨年の総数を20%近く上回りました。大会主催者はこの増加の理由として、ウォーターフロント沿いの景色の良い新コースと、ウォーキング部門や車いすレーサー部門の拡大を挙げています。\n\n参加費からの収益は市内の青少年スポーツプログラムの資金に充てられ、主催者は今年のマラソンで15万ドル以上が集まると見積もっています。\n\n混雑が拡大したにもかかわらず、ランナーの増加によりスタートラインでわずかな遅れが生じた程度で、レースはスムーズに進行したと主催者は報告しています。",
+"vocab": [
+"surpass：〜を超える、上回る",
+"credit A to B：Aの要因をBにあるとする",
+"scenic route：景色の良いコース",
+"proceeds：収益、売上高",
+"run smoothly：スムーズに進行する"
+],
+"questions": [
+{
+"id": "r186q1",
+"questionJa": "今年のマラソンには何人の参加者が参加しましたか？",
+"choicesJa": [
+"8,000人",
+"10,000人",
+"12,000人",
+"15,000人"
+],
+"explanationDetail": "本文冒頭に「drew a record 12,000 participants（過去最高の12,000人の参加者を集めた）」と明確に記述されているため、「12,000」が正解です。他の数値（8,000、10,000、15,000）は本文の参加者数とは一致しません（150,000は収益額として登場します）。"
+},
+{
+"id": "r186q2",
+"questionJa": "参加者の増加の理由とされているものは何ですか？",
+"choicesJa": [
+"より安い参加費",
+"景色の良い新しいコースと拡大された部門",
+"有名人の推薦",
+"より短い走行距離"
+],
+"explanationDetail": "第1段落に「credit the growth to a new scenic route... and expanded categories（成長の理由を景色の良い新コースと拡大された部門によるものとした）」とあるため、「A new scenic route and expanded categories」が正解です。参加費の値下げ、有名人の関与、距離の短縮については本文で触れられていません。"
+},
+{
+"id": "r186q3",
+"questionJa": "参加費の収益は何の資金に充てられますか？",
+"choicesJa": [
+"新しいレース用備品",
+"青少年スポーツプログラム",
+"スタッフの給与",
+"来年のマーケティング"
+],
+"explanationDetail": "第2段落で「go toward funding youth sports programs throughout the city（市内の青少年スポーツプログラムの資金に充てられる）」と説明されているため、「Youth sports programs」が正解です。レース機器の購入、スタッフの給与、来年のマーケティング費用といった他の選択肢は記述がありません。"
+}
+]
+},
+{
+"id": "r187",
+"passageJa": "皆様へ\n\n3階の新しいオフィス用プリンターの設置が完了し、使用可能な状態になりました。印刷するには、プリンターリストから「Office Printer 3F」を選択するだけです。ほとんどのデバイスで追加のソフトウェアインストールは不要です。\n\nコスト管理のために利用状況を追跡しておりますので、カラー印刷の際はプリンター画面で従業員IDの入力が必要となりますのでご注意ください。白黒印刷ではこの手順は不要です。\n\n何か問題が発生した場合は、内線4521のITサポートまでご連絡ください。",
+"vocab": [
+"installation：設置、インストール",
+"require：〜を必要とする",
+"track usage：利用状況を追跡・記録する",
+"manage costs：コストを管理する",
+"run into issues：問題に直面する",
+"extension：内線番号"
+],
+"questions": [
+{
+"id": "r187q1",
+"questionJa": "このメールの主な内容は何ですか？",
+"choicesJa": [
+"プリンターの故障",
+"新しいプリンターの使い方",
+"プリンターの撤去",
+"ソフトウェアの更新"
+],
+"explanationDetail": "メールの冒頭で新プリンターの設置完了を知らせ、印刷方法やカラー印刷時のルールを説明しているため、「How to use the new printer」が正解です。プリンターの不具合や撤去についての通知ではなく、ソフトウェア更新に関する案内でもありません。"
+},
+{
+"id": "r187q2",
+"questionJa": "カラー印刷に必要なものは何ですか？",
+"choicesJa": [
+"特別なログインカード",
+"従業員IDの入力",
+"上司の承認",
+"有料サブスクリプション"
+],
+"explanationDetail": "第2段落に「color printing now requires entering your employee ID at the printer screen（カラー印刷にはプリンター画面で従業員IDの入力が必要）」と書かれているため、「Entering your employee ID」が正解です。ログインカードの使用、マネージャーの承認、有料契約といった手順は求められていません。"
+},
+{
+"id": "r187q3",
+"questionJa": "問題が発生した場合、従業員は誰に連絡すべきですか？",
+"choicesJa": [
+"施設管理課",
+"内線4521のITサポート",
+"プリンターの製造会社",
+"人事部"
+],
+"explanationDetail": "メールの最後で「contact IT support at extension 4521（内線4521のITサポートに連絡する）」と明確に指定されているため、「IT support at extension 4521」が正解です。施設管理部、メーカー、人事部への連絡指示はありません。"
+}
+]
+},
+{
+"id": "r188",
+"passageJa": "職場環境を改善するためのアイデアを従業員が共有する新しい方法として、「アイデアボックス」を導入します。休憩室にある実物の箱と、イントラネットを通じたデジタル形式の両方で利用可能です。\n\n全従業員が、業務プロセスの改善から新しい福利厚生の提案まで、あらゆる提案を投稿できます。ご希望の場合は匿名での提出も可能です。委員会が提出された提案を毎月審査し、少なくとも1つのアイデアを採用・実施します。提案者が氏名の開示を希望する場合は、その貢献が称えられます。\n\n従業員の皆様の貴重な知見に期待しております。アイデアのご提出をお待ちしております！",
+"vocab": [
+"intranet：社内情報ネットワーク、イントラネット",
+"submission：提出物、提案",
+"anonymous：匿名の",
+"committee：委員会",
+"implement：〜を実行する、導入する",
+"valuable insight：貴重な知見・意見"
+],
+"questions": [
+{
+"id": "r188q1",
+"questionJa": "アイデアボックスとは何ですか？",
+"choicesJa": [
+"従業員向けの提案プログラム",
+"新しい収納ユニット",
+"遺失物箱",
+"寄付の収集場所"
+],
+"explanationDetail": "本文第1段落で「a new way for employees to share ideas for improving our workplace（職場改善のためのアイデアを共有する新しい方法）」と説明されているため、「A suggestion program for employees」が正解です。物を取り置く収納棚、落とし物箱、募金箱ではありません。"
+},
+{
+"id": "r188q2",
+"questionJa": "提案は匿名で提出できますか？",
+"choicesJa": [
+"いいえ、常に氏名が必要です",
+"はい、希望する場合は可能です",
+"特定のトピックのみ可能です",
+"デジタル提出のみ可能です"
+],
+"explanationDetail": "第2段落に「Submissions can be anonymous if preferred（希望する場合は匿名で提出可能）」と記載されているため、「Yes, if preferred」が正解です。常に名前が必要というルールはなく、特定のトピックやデジタル提出のみに限定されているというわけでもありません。"
+},
+{
+"id": "r188q3",
+"questionJa": "提出された提案はどのくらいの頻度で審査されますか？",
+"choicesJa": [
+"毎週",
+"毎月",
+"四半期ごと",
+"毎年"
+],
+"explanationDetail": "第2段落に「A committee will review submissions monthly（委員会が毎月提出物を審査する）」と明記されているため、「Monthly」が正解です。毎週（Weekly）、四半期ごと（Quarterly）、毎年（Annually）ではありません。"
+}
+]
+},
+{
+"id": "r189",
+"passageJa": "郡の農務局は今週、小規模な家族経営農家が持続可能な営農手法を導入するのを支援することを目的とした、新しい助成金プログラムを開始しました。土壌検査、点滴灌漑システム、カバークロップ（緑肥作物）の種子などの費用をカバーするため、最大10,000ドルの助成金が提供されます。\n\n敷地面積が200エーカー未満の農家が申請対象であり、少なくとも5年間操業している農家が優先されます。申請受付は来月開始され、8週間オープンします。\n\nプログラム担当者は、この取り組みが地元農家の環境負荷を減らしつつ、競争力を維持するのに役立つことを目指していると述べています。",
+"vocab": [
+"agricultural：農業の",
+"grant program：助成金制度",
+"sustainable：持続可能な",
+"drip irrigation：点滴灌漑",
+"eligible：適格な、申請資格がある",
+"initiative：取り組み、構想"
+],
+"questions": [
+{
+"id": "r189q1",
+"questionJa": "助成金プログラムは何のためのものですか？",
+"choicesJa": [
+"新しい農業用建物の建設",
+"農家が持続可能な手法を導入するのを支援すること",
+"農地の購入",
+"農作業員の雇用"
+],
+"explanationDetail": "第1段落に「aimed at helping small family farms adopt sustainable farming practices（小規模家族経営農家が持続可能な営農手法を導入するのを支援することを目的とした）」と書かれているため、「Helping farms adopt sustainable practices」が正解です。建物の建設、農地の買い取り、作業員の雇用費用のための助成ではありません。"
+},
+{
+"id": "r189q2",
+"questionJa": "助成金の最大支給額はいくらですか？",
+"choicesJa": [
+"$5,000",
+"$10,000",
+"$25,000",
+"$50,000"
+],
+"explanationDetail": "第1段落に「Grants of up to $10,000 will be available（最大10,000ドルの助成金が支給される）」と明記されているため、「$10,000」が正解です。他の金額（$5,000, $25,000, $50,000）は本文中に記載されていません。"
+},
+{
+"id": "r189q3",
+"questionJa": "どの農家が申請資格を持っていますか？",
+"choicesJa": [
+"規模に関わらずすべての農家",
+"200エーカー未満の農家",
+"有機農家のみ",
+"新規農家のみ"
+],
+"explanationDetail": "第2段落の冒頭に「Farms with fewer than 200 acres are eligible to apply（200エーカー未満の農家が申請資格を持つ）」と明確に規定されているため、「Farms with fewer than 200 acres」が正解です。規模無制限ではなく、有機農家に限られるという記載もなく、新規農家ではなくむしろ5年以上の実績がある農家が優先されます。"
+}
+]
+},
+{
+"id": "r190",
+"passageJa": "入居者の皆様へ\n\n来月から当ビルは新しい清掃サービス事業者であるGreenClean Solutions社へと切り替わることをお知らせいたします。この変更は徹底的な検討を経て決定されたものであり、清掃品質と環境持続可能性の両方を向上させることを目的としています。なお、GreenClean社は環境に配慮した清掃用品のみを使用しております。\n\n清掃スケジュールに変更はなく、共用エリアは毎日、各オフィスは週3回清掃されます。移行期間中に清掃状態に関する不都合にお気づきの際は、速やかにビル管理室までご連絡ください。\n\nこの改善措置へのご理解とご協力に感謝申し上げます。",
+"vocab": [
+"tenant：入居者、借主",
+"thorough：徹底的な、細部まで行き届いた",
+"sustainability：持続可能性",
+"exclusively：排他的に、〜のみ",
+"common area：共用エリア",
+"transition period：移行期間"
+],
+"questions": [
+{
+"id": "r190q1",
+"questionJa": "どのような変更が発表されていますか？",
+"choicesJa": [
+"家賃の値上げ",
+"新しい清掃サービス事業者",
+"新しいビルの開館時間",
+"ビルの所有権の変更"
+],
+"explanationDetail": "第1段落に「switching to a new cleaning service provider, GreenClean Solutions（新しい清掃サービス業者であるGreenClean Solutionsに切り替える）」と書かれているため、「A new cleaning service provider」が正解です。賃料引き上げや営業時間の変更、ビルの所有者変更についての告知ではありません。"
+},
+{
+"id": "r190q2",
+"questionJa": "新しい事業者について特筆すべき点は何ですか？",
+"choicesJa": [
+"夜間のみ作業する",
+"環境に優しい製品のみを使用する",
+"料金がより安い",
+"グローバル企業である"
+],
+"explanationDetail": "第1段落で「GreenClean uses eco-friendly cleaning products exclusively（GreenClean社は環境に優しい清掃製品のみを使用する）」と説明されているため、「They use eco-friendly products exclusively」が正解です。夜間専門作業や低価格、グローバル展開については言及されていません。"
+},
+{
+"id": "r190q3",
+"questionJa": "各オフィスはどのくらいの頻度で清掃されますか？",
+"choicesJa": [
+"毎日",
+"週に3回",
+"週に1回",
+"月に1回"
+],
+"explanationDetail": "第2段落に「individual offices cleaned three times per week（個別のオフィスは週に3回清掃される）」と明記されているため、「Three times per week」が正解です。「Daily」は共用エリア（common areas）の清掃頻度であり、週1回や月1回という選択肢は誤りです。"
+}
+]
+},
+{
+"id": "r191",
+"passageJa": "従業員からの要望に応えて、来学期より職場での新しい語学学習プログラムを開始します。従業員は、スペイン語、中国語（普通話）、フランス語の初級または中級コースから選択でき、有資格の講師によるレッスンが昼休みに週2回提供されます。\n\nセッションの少なくとも80%に出席することを約束した従業員に対しては、会社がプログラム費用を全額負担します。この出席率の基準を下回った従業員は、受講料の一部返金を求められる場合があります。\n\nお申し込みは研修ポータル経由で受け付けており、定員は各言語15名限定となっています。",
+"vocab": [
+"certified：公認の、資格を持つ",
+"commit to -ing：〜することを約束・コミットする",
+"threshold：基準、しきい値",
+"reimburse：〜を返還・返金する",
+"registration：登録、申し込み",
+"limited to：〜に制限されている"
+],
+"questions": [
+{
+"id": "r191q1",
+"questionJa": "クラスはいつ開催されますか？",
+"choicesJa": [
+"夕方に",
+"昼休みに",
+"出社前に",
+"週末に"
+],
+"explanationDetail": "第1段落の末尾に「twice a week during lunch hours（昼休みに週2回）」と明記されているため、「During lunch hours」が正解です。夜間、始業前、週末の開催ではありません。"
+},
+{
+"id": "r191q2",
+"questionJa": "会社が全額負担するために必要な条件は何ですか？",
+"choicesJa": [
+"期末試験に合格すること",
+"少なくとも80%のセッションに出席すること",
+"管理職であること",
+"1年契約を結ぶこと"
+],
+"explanationDetail": "第2段落に「for employees who commit to attending at least 80 percent of sessions（少なくとも80%のセッションに出席することを約束する従業員）」と記載されているため、「Attending at least 80 percent of sessions」が正解です。期末試験の合格、管理職という役職条件、1年間の契約等は条件に含まれていません。"
+},
+{
+"id": "r191q3",
+"questionJa": "言語ごとに何名の受講生が登録できますか？",
+"choicesJa": [
+"5名",
+"10名",
+"15名",
+"20名"
+],
+"explanationDetail": "第3段落に「spots limited to 15 students per language（各言語15名に制限されている）」と書かれているため、「15」が正解です。5名、10名、20名といった他の数値は本文と異なります。"
+}
+]
+},
+{
+"id": "r192",
+"passageJa": "18店舗を展開する地域型カフェチェーンのRoastworks Coffeeは今週、新しい従業員株式所有計画を通じて、全従業員に会社の共同所有者になる機会を提供すると発表しました。勤続年数が1年以上の従業員は自動的に加入されます。\n\n同社の創業者であるダイアン・オカフォー氏は、ビジネスの成長を支えた従業員はその成功を分かち合うべきだという自身の信念を反映した決定であると述べました。この計画により、今後10年間で会社所有権の20%が段階的に従業員へ譲渡される予定です。\n\n業界のアナリストは、この動きは小規模な地域チェーンとしては比較的珍しく、競争の激しい採用市場においてRoastworks社がスタッフを引き留めるのに役立つ可能性があると指摘しています。",
+"vocab": [
+"stock ownership plan：株式所有計画（ESOP）",
+"automatically enrolled：自動的に加入・登録される",
+"founder：創業者",
+"gradually：段階的に、徐々に",
+"ownership：所有権",
+"retain staff：スタッフを引き留める・維持する"
+],
+"questions": [
+{
+"id": "r192q1",
+"questionJa": "Roastworks Coffeeはどのような新しい計画を導入していますか？",
+"choicesJa": [
+"年金計画",
+"従業員株式所有計画",
+"利益還元ボーナス",
+"退職金積立のマッチング制度"
+],
+"explanationDetail": "第1段落に「a new employee stock ownership plan（新しい従業員株式所有計画）」と明記されているため、「An employee stock ownership plan」が正解です。年金制度、利益分配ボーナス、退職金のマッチング拠出ではありません。"
+},
+{
+"id": "r192q2",
+"questionJa": "誰が自動的に加入されますか？",
+"choicesJa": [
+"管理職のみ",
+"1年以上の勤続年数がある従業員",
+"新入社員のみ",
+"パートタイム従業員のみ"
+],
+"explanationDetail": "第1段落の末尾に「Employees who have worked at the company for at least one year will be automatically enrolled（1年以上勤務した従業員が自動的に加入される）」とあるため、「Employees with at least one year of service」が正解です。管理職限定、新入社員限定、パート限定といった条件ではありません。"
+},
+{
+"id": "r192q3",
+"questionJa": "最終的に会社所有権の何パーセントが従業員に譲渡されますか？",
+"choicesJa": [
+"5パーセント",
+"10パーセント",
+"20パーセント",
+"50パーセント"
+],
+"explanationDetail": "第2段落に「gradually transfer 20 percent of company ownership to employees（会社所有権の20%を段階的に従業員に譲渡する）」と記載されているため、「20 percent」が正解です。5%、10%、50%は本文の記述と一致しません。"
+}
+]
+}
+]
