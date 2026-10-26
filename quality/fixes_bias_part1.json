@@ -1,0 +1,617 @@
+{
+ "l1-04": {
+  "3": "The boxes have been unloaded from a truck and left on the ground."
+ },
+ "l1-05": {
+  "0": "A car is stopped at the crosswalk near a traffic light.",
+  "1": "People are standing in a line outside a store.",
+  "3": "People are waiting at a bus stop for the next bus."
+ },
+ "l1-09": {
+  "3": "The people are leaving the meeting room one by one after the talk."
+ },
+ "l1-097": {
+  "0": "A staircase is being repaired by two workers.",
+  "1": "A woman is sitting on the stairs with a bag.",
+  "3": "A staircase has been blocked off with a rope."
+ },
+ "l1-099": {
+  "0": "The audience is leaving the room through the back door.",
+  "1": "Chairs are being set up in the hall for a seminar."
+ },
+ "l1-10": {
+  "1": "A woman is typing on a computer while drinking coffee.",
+  "2": "A woman is reading a newspaper while waiting for a train.",
+  "3": "A woman is making a phone call outdoors near a busy street."
+ },
+ "l1-101": {
+  "0": "A man is running across the street toward a bus.",
+  "1": "The traffic light is not working at the main intersection."
+ },
+ "l1-105": {
+  "3": "An inspector is leaving the room after the inspection ended."
+ },
+ "l1-111": {
+  "2": "A pedestrian is waiting for a taxi at the curb."
+ },
+ "l1-112": {
+  "0": "A staircase has collapsed inside an old building.",
+  "2": "A building is surrounded by scaffolding and workers."
+ },
+ "l1-113": {
+  "1": "Luggage has been left unattended in the middle of the station."
+ },
+ "l1-115": {
+  "0": "A vending machine is being installed by two workers."
+ },
+ "l1-116": {
+  "0": "A laptop screen is broken and needs to be replaced.",
+  "1": "A desk has been cleared off for the next employee.",
+  "2": "A man is closing his laptop to leave for the day."
+ },
+ "l1-117": {
+  "1": "A traffic light has fallen down across the road after the storm.",
+  "3": "Cars are lined up for inspection in front of a large garage."
+ },
+ "l1-118": {
+  "1": "Shelves are being dismantled by a group of workers.",
+  "2": "A worker is filling a trash bin with boxes from the office."
+ },
+ "l1-119": {
+  "1": "A man is washing a car with a large sponge.",
+  "2": "Cars are being loaded onto a truck at the dock.",
+  "3": "A man is opening a car trunk to get his luggage."
+ },
+ "l1-120": {
+  "2": "A desk is being moved out of the room by two men.",
+  "3": "A man is writing on the whiteboard with a marker."
+ },
+ "l1-121": {
+  "1": "A bench has been moved indoors for the winter months."
+ },
+ "l1-126": {
+  "0": "A table has been cleared of all items after the meeting.",
+  "1": "One colleague is leaving the meeting to take a phone call."
+ },
+ "l1-128": {
+  "0": "Two men are riding bicycles side by side on the road.",
+  "3": "Bicycles are being loaded onto a rack on the back of a car."
+ },
+ "l1-129": {
+  "1": "A desk has been completely cleared of papers and cups.",
+  "2": "A man is packing his belongings into a box to move offices.",
+  "3": "Coffee has spilled across the desk and onto the floor."
+ },
+ "l1-131": {
+  "2": "A man is climbing over a shelf to reach the top row.",
+  "3": "Items are being removed from every shelf by two workers."
+ },
+ "l1-132": {
+  "0": "A trash bin has overflowed onto the floor beside a desk.",
+  "2": "The trash bin is being emptied by a cleaning worker."
+ },
+ "l1-133": {
+  "1": "Trees are being planted in a row along the walking path.",
+  "2": "A bench has been removed from the park for repairs today."
+ },
+ "l1-135": {
+  "0": "A cabinet has been locked shut for the weekend.",
+  "1": "A woman is sitting far from the cabinet at a long table.",
+  "3": "Files have fallen out of the cabinet onto the floor."
+ },
+ "l1-137": {
+  "0": "The audience is applauding loudly after the performance.",
+  "2": "A speaker is leaving through a side door during the break.",
+  "3": "Chairs are being folded and stored in a closet nearby."
+ },
+ "l1-138": {
+  "2": "A counter has been cleared completely after the lunch rush.",
+  "3": "Cups are stacked inside a cabinet above the kitchen sink."
+ },
+ "l1-139": {
+  "0": "A bicycle is parked outside a building near the entrance.",
+  "1": "A building is being painted by a team of workers.",
+  "2": "A man is entering a building on foot through the front door."
+ },
+ "l1-141": {
+  "0": "Both people are seated at the desk and looking at a screen.",
+  "1": "A clipboard has been left on the floor next to a chair.",
+  "2": "Two people are shaking hands in front of a large window."
+ },
+ "l1-142": {
+  "0": "Trash bins have been knocked over by the strong wind.",
+  "1": "A worker is painting the bins with a large brush.",
+  "2": "The bins are being loaded onto a truck by two workers."
+ },
+ "l1-143": {
+  "1": "A briefcase is locked inside a drawer of the main desk.",
+  "2": "A desk has been removed from the room and carried away.",
+  "3": "A briefcase is being carried outside by a man in a hurry."
+ },
+ "l1-144": {
+  "3": "Chairs are being unstacked one by one for the afternoon event."
+ },
+ "l1-146": {
+  "0": "A vending machine has been removed from the hallway by two movers.",
+  "2": "A man is restocking a vending machine with cold drinks and snacks.",
+  "3": "Trash has spilled onto the floor beside a large vending machine."
+ },
+ "l1-147": {
+  "0": "A filing cabinet is being replaced by a new metal one.",
+  "3": "Files are scattered across the floor of a small office room."
+ },
+ "l1-149": {
+  "3": "Chairs are stacked against the wall at the back of the room."
+ },
+ "l1-150": {
+  "0": "A desk has been left empty after the employee went home.",
+  "2": "A woman is pouring coffee into a cup for her coworker.",
+  "3": "A clipboard is being filed away in a cabinet by a clerk."
+ },
+ "l1-154": {
+  "0": "The elevator doors are being repaired by a technician.",
+  "2": "A man is holding the elevator open for a colleague.",
+  "3": "The elevator is out of service until further notice."
+ },
+ "l1-155": {
+  "0": "Mailboxes are being installed along the wall by workers.",
+  "1": "A man is delivering mail by bicycle in the morning.",
+  "2": "The mailboxes have been removed from the lobby wall."
+ },
+ "l1-158": {
+  "0": "A building has an awning instead of an umbrella on the roof.",
+  "1": "A man is entering a building without an umbrella today."
+ },
+ "l1-159": {
+  "0": "A register has been unplugged and moved to the storeroom.",
+  "1": "A woman is standing far from the desk near the window.",
+  "2": "The desk has no equipment on it except for a small lamp."
+ },
+ "l1-160": {
+  "0": "Folders are being placed on every shelf by an assistant.",
+  "3": "A man is reading a folder while seated at a long table."
+ },
+ "l1-163": {
+  "0": "The elevator doors are wide open while people step inside.",
+  "1": "A receptionist has left the desk to help a visitor outside.",
+  "3": "People are lined up at the elevator during the morning rush."
+ },
+ "l1-165": {
+  "0": "A bench has been moved indoors to keep it out of the rain.",
+  "1": "An umbrella has been folded and put away in a large bag.",
+  "2": "A person is standing far from the bench near the entrance."
+ },
+ "l1-167": {
+  "1": "Tools are being placed onto a shelf by a worker in a vest."
+ },
+ "l1-168": {
+  "2": "Mailboxes are being removed from a wall of the old building."
+ },
+ "l1-169": {
+  "0": "Plants are being removed from pots by a garden worker today.",
+  "2": "A watering can is full of tools and left on the ground."
+ },
+ "l1-17": {
+  "0": "A man is repairing a copy machine in the office.",
+  "1": "A man is carrying a copy machine down the hallway."
+ },
+ "l1-170": {
+  "0": "A laptop has been packed away in a bag by the owner.",
+  "1": "Folders have been shredded by a machine near the desk."
+ },
+ "l1-171": {
+  "1": "A car is being washed by hand outside of the garage.",
+  "2": "A toolbox is locked inside a car in the parking area."
+ },
+ "l1-172": {
+  "0": "Folders are being handed out to an audience by volunteers.",
+  "1": "A podium has been removed from the stage before the event.",
+  "3": "A speaker is leaving the stage after finishing the speech."
+ },
+ "l1-173": {
+  "2": "A traveler is leaving the luggage behind near the stairs.",
+  "3": "The elevator is already crowded with passengers and bags."
+ },
+ "l1-176": {
+  "0": "A toolbox has been placed on the desk by a repairman.",
+  "2": "A desk has been removed from the room by two workers.",
+  "3": "A man is packing tools into a bag for the next job."
+ },
+ "l1-18": {
+  "0": "A woman is mopping the floor with water from a bucket.",
+  "1": "A woman is vacuuming the carpet in a large meeting room.",
+  "2": "A woman is washing the window with a cloth and spray."
+ },
+ "l1-181": {
+  "1": "A laptop is being repaired by a technician at a desk.",
+  "2": "Folders are stacked outside the office next to a door.",
+  "3": "A man has left his desk empty and gone to a meeting."
+ },
+ "l1-182": {
+  "3": "People are lined up outside the building for a tour."
+ },
+ "l1-183": {
+  "0": "A shelf has been placed outdoors next to a wall."
+ },
+ "l1-187": {
+  "2": "An umbrella has been left on the ground near a tree in the quiet park.",
+  "3": "A building is completely under construction with workers on the top floor."
+ },
+ "l1-189": {
+  "0": "A clerk is leaving the desk unattended during the lunch hour.",
+  "2": "Folders have been thrown on the floor of an empty office."
+ },
+ "l1-192": {
+  "0": "A desk has nothing on it except for a pen and a notepad.",
+  "1": "Coffee has been knocked onto the folders by an assistant.",
+  "2": "A man is leaving his desk for lunch with some coworkers."
+ },
+ "l1-195": {
+  "0": "A bench has been placed under cover to keep it dry.",
+  "1": "An umbrella is folded next to a tree in the park today.",
+  "2": "A tree has grown over a bench and blocks the path."
+ },
+ "l1-197": {
+  "0": "A building is being painted by several workers this week.",
+  "2": "A toolbox has been left inside the building by a worker."
+ },
+ "l1-199": {
+  "0": "A bench has been removed from the garden by the city staff.",
+  "2": "A woman is planting new trees along the garden path today.",
+  "3": "Plants have been placed on the bench for the upcoming sale."
+ },
+ "l1-203": {
+  "1": "A mechanic is repairing a vehicle in a garage.",
+  "2": "People are getting into a car at the curb."
+ },
+ "l1-204": {
+  "0": "A single person is sitting alone at the end of a table.",
+  "1": "People are exiting the room after the meeting has ended.",
+  "3": "Chairs are being stacked against a wall by two employees."
+ },
+ "l1-205": {
+  "1": "A man is painting a wall near a door.",
+  "2": "A door is being installed by a worker.",
+  "3": "A man is locking a window before leaving."
+ },
+ "l1-207": {
+  "0": "One person is presenting to a group of colleagues in a room.",
+  "1": "A laptop is being repaired by a technician at a service desk.",
+  "3": "People are leaving the meeting room after a long afternoon session."
+ },
+ "l1-208": {
+  "0": "A woman is reading a book while sitting on a chair.",
+  "2": "Shelves are completely empty after the move last week.",
+  "3": "A woman is climbing a ladder to reach the top shelf."
+ },
+ "l1-209": {
+  "1": "A man is driving a car down a narrow road.",
+  "2": "A car is being towed away from a parking space.",
+  "3": "Two men are washing a car together outside a house."
+ },
+ "l1-210": {
+  "2": "One person is standing on a table to change a light bulb."
+ },
+ "l1-213": {
+  "1": "Both people are standing at the desk and talking to each other."
+ },
+ "l1-216": {
+  "2": "Curtains are being hung on the window by a worker."
+ },
+ "l1-217": {
+  "0": "People are sitting down at the table to begin a meeting.",
+  "1": "The table is being carried out of the room by two men.",
+  "3": "One person remains in the room after everyone has left."
+ },
+ "l1-219": {
+  "0": "The desk has been cleared of all items before the weekend.",
+  "1": "Boxes are being opened by the two people near the window.",
+  "2": "One person is asleep at the desk after working all night."
+ },
+ "l1-220": {
+  "0": "A door is being removed from its frame by two workers.",
+  "1": "One person is carrying the other through the door of a hall.",
+  "2": "The doorway is blocked by furniture from the old office."
+ },
+ "l1-221": {
+  "2": "A woman is planting a tree near the park entrance.",
+  "3": "People are walking past a bench along the pond."
+ },
+ "l1-222": {
+  "0": "A whiteboard is being cleaned by an assistant after class.",
+  "2": "A man is writing on a podium with a thick marker pen.",
+  "3": "Chairs are stacked near the whiteboard at the back of the room."
+ },
+ "l1-223": {
+  "0": "A man is throwing a box away into a large bin.",
+  "2": "A box is being delivered by truck to the front door.",
+  "3": "A man is sitting on a box while eating his lunch."
+ },
+ "l1-224": {
+  "0": "A man is getting into a car parked on the street.",
+  "2": "A car is being loaded with luggage for a long trip.",
+  "3": "A man is parking a car in a narrow garage space."
+ },
+ "l1-225": {
+  "0": "A woman is standing on a ladder beside a tall shelf.",
+  "2": "A woman is reading near a window in a quiet library."
+ },
+ "l1-227": {
+  "1": "A man is carrying a door into a building.",
+  "2": "A box is blocking a doorway at the end of a hall."
+ },
+ "l1-228": {
+  "0": "People are sharing one bench near a small fountain.",
+  "1": "The benches are empty because of the heavy rain today.",
+  "2": "A bench is being moved to another part of the park."
+ },
+ "l1-229": {
+  "0": "Windows are being installed by workers on the second floor."
+ },
+ "l1-230": {
+  "1": "A man is climbing a tree to pick some fruit.",
+  "3": "A man is watering the trees with a long green hose."
+ },
+ "l1-232": {
+  "1": "Both people are standing away from the desk and talking quietly."
+ },
+ "l1-236": {
+  "0": "Both people are sitting on the bench and eating their lunch.",
+  "3": "Two people are walking away together after a short meeting."
+ },
+ "l1-238": {
+  "2": "A man is dismantling the shelves with a tool in a storage room."
+ },
+ "l1-239": {
+  "0": "The window is covered by a curtain to block the afternoon sun.",
+  "1": "The desk is empty because everyone has gone home for the day.",
+  "2": "A person is standing by the window and looking at the street."
+ },
+ "l1-240": {
+  "0": "One person is sitting under a tree and reading a newspaper.",
+  "2": "The trees are being trimmed by workers along the road.",
+  "3": "The two people are shaking hands in front of a building."
+ },
+ "l1-241": {
+  "2": "A single box sits on the desk next to a computer screen.",
+  "3": "The boxes are being opened by a group of employees today."
+ },
+ "l1-244": {
+  "0": "A man is repairing one of the cars in a garage."
+ },
+ "l1-245": {
+  "0": "The whiteboard has been taken down and replaced with a large projector screen.",
+  "1": "One person is writing on the whiteboard while the other one watches closely."
+ },
+ "l1-250": {
+  "0": "The podium is empty because the speaker has not arrived yet.",
+  "1": "The audience is standing up and clapping for the speaker's talk.",
+  "2": "A speaker is sitting behind the podium with some notes in his hand."
+ },
+ "l1-251": {
+  "0": "The window is broken and covered with a wooden board.",
+  "1": "A man is sitting at the desk and talking on the phone.",
+  "3": "The desk is being moved outside by two men in uniforms."
+ },
+ "l1-256": {
+  "1": "The windows are being washed by a worker on a high floor.",
+  "2": "A man is standing on a ladder to fix a ceiling light."
+ },
+ "l1-258": {
+  "1": "A man is sitting at the desk writing a long report by hand.",
+  "3": "The desk has been removed from the room and put in storage."
+ },
+ "l1-259": {
+  "0": "A man is sitting under a tree with a picnic basket.",
+  "3": "A man is sleeping on the ground near a quiet river."
+ },
+ "l1-26": {
+  "2": "A woman is fishing near the river from a small wooden dock.",
+  "3": "A woman is riding a bicycle by the river on a sunny morning."
+ },
+ "l1-265": {
+  "0": "The podium is being used for a speech to a large audience.",
+  "1": "The laptop is closed and unused on a table near the stage.",
+  "2": "The desk is empty except for a stack of old newspapers and cups."
+ },
+ "l1-266": {
+  "0": "A man is sitting quietly under the tree next to a river.",
+  "1": "The bench is being painted by a worker wearing white overalls."
+ },
+ "l1-267": {
+  "1": "The shelf is fully stocked with items from the main warehouse."
+ },
+ "l1-268": {
+  "1": "A man is standing still by the car and looking at his phone."
+ },
+ "l1-269": {
+  "1": "The person is standing and holding the phone near a large window."
+ },
+ "l1-270": {
+  "0": "The benches are stacked together at the far side of the hall after the event ended.",
+  "2": "The whiteboard has been taken away to a different room for some repairs next week.",
+  "3": "A person is sitting quietly with no activity near the benches and the large whiteboard."
+ },
+ "l1-271": {
+  "0": "A man is sitting on the stairs with a newspaper.",
+  "1": "The staircase is being repaired by two workers."
+ },
+ "l1-272": {
+  "0": "The boxes are on top of the desk in the middle of the room.",
+  "2": "A man is sitting at the desk reading a thick book carefully.",
+  "3": "The desk has been removed from the room and taken to the basement."
+ },
+ "l1-273": {
+  "0": "A man is sitting inside the car and waiting for a friend.",
+  "1": "The tree is being removed by workers with a large machine."
+ },
+ "l1-274": {
+  "0": "A woman is standing on a ladder to reach the highest shelf."
+ },
+ "l1-276": {
+  "0": "The doors are all closed and locked for the night.",
+  "1": "A man is opening the middle door to enter the room.",
+  "2": "The doors are being painted by a worker in a blue shirt."
+ },
+ "l1-277": {
+  "0": "Both people are sitting together on the grass and talking happily.",
+  "1": "The benches are stacked on top of each other at the back of the park.",
+  "3": "One person is carrying the other across a wide green field nearby."
+ },
+ "l1-278": {
+  "1": "A person is standing away from the desk and talking on a phone to a client."
+ },
+ "l1-28": {
+  "0": "The people are folding their umbrellas as they enter the building.",
+  "2": "The people are waiting for a bus in the rain at the station."
+ },
+ "l1-280": {
+  "2": "The shelves are being moved down the stairs by a group of workers.",
+  "3": "A man is sitting on the stairs next to a shelf of folders."
+ },
+ "l1-281": {
+  "0": "A man is standing between the two cars and looking at a large map.",
+  "1": "Both cars are being repaired by mechanics in a busy workshop today.",
+  "2": "A man is sitting in one of the cars and listening to the radio loudly."
+ },
+ "l1-283": {
+  "0": "The benches are empty and the podium is unused because the event is canceled.",
+  "1": "A speaker is sitting down behind the podium after finishing the speech."
+ },
+ "l1-285": {
+  "1": "The door leads directly to the stairs of the second floor."
+ },
+ "l1-289": {
+  "2": "A person is lying down under a tree beside a bench near a quiet little pond.",
+  "3": "Both trees are being cut down by workers using a very loud machine today."
+ },
+ "l1-290": {
+  "0": "The box is on the top shelf where nobody can easily reach it.",
+  "2": "A man is standing far from the shelves and looking at his phone.",
+  "3": "The shelves are completely empty after the big sale last weekend."
+ },
+ "l1-291": {
+  "1": "The door is directly next to the car on the side of the building."
+ },
+ "l1-292": {
+  "0": "The desk has no items on it because the owner has been away for the whole week.",
+  "2": "The person is standing away from the desk and looking out of the large window."
+ },
+ "l1-293": {
+  "0": "A man is sitting on the top step of the long staircase.",
+  "2": "A man is carrying boxes up the stairs to the second floor."
+ },
+ "l1-30": {
+  "1": "A man is opening the car door for a passenger at the airport."
+ },
+ "l1-31": {
+  "2": "The students are writing on the whiteboard one after another."
+ },
+ "l1-33": {
+  "0": "A man is stacking chairs against the wall after the party ends.",
+  "3": "A man is removing chairs from the room before the next event."
+ },
+ "l1-34": {
+  "1": "A man is watering a young tree in the front yard."
+ },
+ "l1-45": {
+  "0": "A woman is clearing dishes from a table after the dinner event.",
+  "2": "A woman is sitting at a table alone with a cup of tea in hand.",
+  "3": "A woman is decorating a table with flowers for a wedding dinner."
+ },
+ "l1-47": {
+  "0": "The people are sitting around the counter and eating their lunch.",
+  "3": "The people are arguing at the counter with the store manager."
+ },
+ "l1-48": {
+  "0": "A worker is drilling a hole in the wall with a power tool.",
+  "3": "A worker is removing bricks from the wall of an old building."
+ },
+ "l1-51": {
+  "0": "A man is climbing a shelf in a large warehouse space.",
+  "2": "A man is stacking chairs in a quiet conference room.",
+  "3": "A man is sweeping the floor of a storage room."
+ },
+ "l1-52": {
+  "0": "A table is being cleared by a waiter after the meal.",
+  "1": "One person is standing on a table to fix a ceiling lamp.",
+  "3": "Chairs are being stacked in a corner by two employees."
+ },
+ "l1-57": {
+  "2": "A car is being repaired by a mechanic outside.",
+  "3": "A man is unloading passengers from a large tour bus."
+ },
+ "l1-61": {
+  "3": "A cashier is counting money alone at the end of the day."
+ },
+ "l1-65": {
+  "2": "A worker is folding a ladder after finishing the work.",
+  "3": "A worker is painting a fence around a large garden."
+ },
+ "l1-69": {
+  "1": "A laptop is being packed into a box for shipping today."
+ },
+ "l1-71": {
+  "1": "A man is cutting the grass with a large lawn mower.",
+  "2": "Plants are being sold at a market on a busy street.",
+  "3": "A man is building a fence around his small garden."
+ },
+ "l1-73": {
+  "0": "Books are scattered on the floor of a quiet reading room.",
+  "3": "A man is reading a book at a desk near the entrance."
+ },
+ "l1-75": {
+  "0": "A receptionist is leaving the desk to go to lunch.",
+  "1": "A phone is ringing unanswered on an empty front desk.",
+  "3": "A receptionist is greeting a visitor at the front door."
+ },
+ "l1-77": {
+  "0": "A building is under construction across a busy street.",
+  "1": "Two men are entering separate cars in a parking lot.",
+  "3": "A crowd is gathered outside a building for a concert."
+ },
+ "l1-81": {
+  "1": "A bench is being painted by a worker in the park.",
+  "2": "People are standing under a tree to avoid the sun."
+ },
+ "l1-86": {
+  "2": "Two people are working on the same laptop at a long desk."
+ },
+ "l1-87": {
+  "0": "Two colleagues are arguing over a desk in a small office.",
+  "1": "Documents are being shredded by a clerk in the back room."
+ },
+ "l1-89": {
+  "0": "A building is being demolished by hand using only small tools.",
+  "3": "Workers are painting a building on a quiet side street downtown."
+ },
+ "l1-90": {
+  "1": "A man is putting on a jacket before going outside.",
+  "2": "A man is stretching on the floor of a large gym.",
+  "3": "A weight has fallen on the floor next to a mirror."
+ },
+ "l1-92": {
+  "1": "A desk is being cleared off by a man in a gray suit.",
+  "2": "One person is leaving the meeting to answer a phone call.",
+  "3": "Documents are being copied on a machine in the corner."
+ },
+ "l1-93": {
+  "1": "A building is being painted by workers standing on tall ladders.",
+  "3": "A delivery truck is parked outside the building with its doors open."
+ },
+ "l1-94": {
+  "1": "A laptop is being packed away in a gray bag by its owner.",
+  "2": "A man is closing his laptop and standing up from his chair.",
+  "3": "A desk is being assembled by two men in a large office."
+ },
+ "l1-95": {
+  "0": "A building is being torn down by a team of workers.",
+  "1": "New windows are being installed on the tallest building.",
+  "3": "A building is completely dark in the middle of the night."
+ },
+ "l1-96": {
+  "0": "A meeting has just ended and everyone is leaving the room.",
+  "2": "Chairs are stacked on the table to make room for the cleaners.",
+  "3": "A woman is eating at the table during a short lunch break."
+ }
+}

@@ -1,0 +1,23 @@
+{
+  "r087q3": [[2, " if no holds are placed", "予約が入っていなければ"], [0, " to the main branch", "本館に"]],
+  "r088q2": [[2, " of 10% for early renewal", "早期更新で10%の"], [1, " without any notice", "通知なしで"], [3, " submitted in person", "窓口での"]],
+  "r088q3": [[1, " in the new contract", "新しい契約の"], [0, " before the end of the year", "年末までに"]],
+  "r089q2": [[3, " following a written request", "書面による申請の後の"], [1, " from the date of the written request", "書面での申請日から"]],
+  "r089q3": [[0, " since the last update", "前回の更新以降"], [3, " offering the same features", "同じ機能を提供する"]],
+  "r091q2": [[0, " for international flights", "国際線の"], [1, " for domestic flights", "国内線の"], [2, " at the arrival airport", "到着空港での"]],
+  "r091q4": [[3, " because of the storm", "嵐のために"], [0, " on the day of travel", "当日に"]],
+  "r092q1": [[0, " at all branch locations", "全支店での"], [1, " for two sessions per month", "月2回の"]],
+  "r092q2": [[0, " before the freeze begins", "休会開始の"], [2, " before the freeze starts", "休会開始前の"], [3, " before the billing date", "請求日の"]],
+  "r092q3": [[2, " at the start of the year", "年初に"]],
+  "r093q5": [[2, " from her home city", "自宅のある都市からは"], [3, " at a dinner before the event", "イベント前の夕食会で"]],
+  "r094q4": [[0, " and reordering later", "後日再注文することにして"], [1, " at his own expense", "自己負担で"], [2, " on the delayed bookshelf", "遅れている本棚の"]],
+  "r095q3": [[0, " for their first child", "第一子の"], [1, " from the previous year", "前年の"], [2, " from the family clinic", "かかりつけ医の"]],
+  "r096q4": [[0, " over a longer deadline", "締め切りを延ばして"], [2, " for the full contract term", "契約期間全体にわたって"]],
+  "r097q3": [[3, " for the next fiscal year", "来会計年度の"], [2, " of last month's shipment", "先月の出荷分の"], [0, " scheduled for the end of this month", "今月末に予定されている"]],
+  "r098q1": [[0, " for the engineering department", "工学部のための"], [1, " in the humanities department", "人文学部の"], [2, " competing in the national league", "全国リーグに参加する"]],
+  "r099q3": [[3, " to a different branch office", "別の営業所に"], [1, " before Ms. Faulkner arrives", "フォークナー氏が到着する前に"]],
+  "r100q1": [[1, " on a fixed weekday", "決まった曜日の"], [2, " during the summer season", "夏季は"], [3, " and special promotions", "特別セール時や"]],
+  "r100q5": [[0, " without any complaint", "文句を言わずに"], [1, " about the newsletter", "ニュースレターについて"], [3, " while she is away", "不在の間"]],
+  "r102q1": [[3, " from a former manager", "元上司からの"], [0, " printed on high-quality paper", "上質紙に印刷した"], [1, " with all required software installed", "必要なソフトをすべて入れた"]],
+  "r102q4": [[1, " before his first day of work", "初出勤日前の"], [3, " as an additional form of ID", "追加の身分証明として"], [2, " on his employment records after the wedding", "結婚後に人事記録上で"]]
+}
