@@ -8,6 +8,8 @@
  * その場で通知を表示する、という軽量な方式を採用する。
  */
 
+import { todayStr } from "./date";
+
 const ENABLED_KEY = "toeic-app:reminder-enabled";
 const LAST_NOTIFIED_KEY = "toeic-app:reminder-last-notified";
 
@@ -41,9 +43,6 @@ export function disableReminder(): void {
   localStorage.setItem(ENABLED_KEY, "0");
 }
 
-function todayIso(): string {
-  return new Date().toISOString().slice(0, 10);
-}
 
 /**
  * アプリ起動時に呼び出す。有効化済み・通知許可あり・本日まだ通知していない・
@@ -53,7 +52,7 @@ export function maybeShowDueReminder(dueCount: number): void {
   if (!isReminderEnabled()) return;
   if (dueCount <= 0) return;
 
-  const today = todayIso();
+  const today = todayStr();
   if (localStorage.getItem(LAST_NOTIFIED_KEY) === today) return;
 
   try {

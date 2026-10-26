@@ -3,8 +3,13 @@ import type { ItemType, ProgressRecord } from "../types";
 const MIN_RECORDS_FOR_ESTIMATE = 20;
 const WINDOW_SIZE = 50;
 
-/** リーディングセクション相当（Part 5〜7）とみなす問題種別 */
-const READING_ITEM_TYPES: ItemType[] = ["word", "grammar", "reading", "part6"];
+/**
+ * リーディングセクション相当（Part 5〜7）のうち、正誤が客観的に決まる（採点される）問題種別。
+ * 単語は「わかる／わからない」の自己判定で、実際の正誤ではなく本人の申告のため、ここには含めない。
+ */
+const GRADED_READING_ITEM_TYPES: ItemType[] = ["grammar", "reading", "part6"];
+/** 自己判定の問題種別。採点される問題が足りないときに限り、暫定値の算出に使う */
+const SELF_ASSESSED_ITEM_TYPES: ItemType[] = ["word"];
 /** リスニングセクション相当（Part 1〜4）とみなす問題種別 */
 const LISTENING_ITEM_TYPES: ItemType[] = [
   "listeningPart1",
@@ -40,7 +45,17 @@ function accuracyToScore(accuracy: number): number {
 
 export type SectionScoreEstimate =
   | { status: "insufficient-data"; answeredCount: number; needed: number }
-  | { status: "ok"; score: number; accuracy: number; sampleSize: number };
+  | {
+      status: "ok";
+      score: number;
+      accuracy: number;
+      sampleSize: number;
+      /**
+       * 自己判定（単語）の解答を含む暫定値か。採点される問題が十分にたまっていない間だけ true になり、
+       * たまると単語を除いた値に切り替わる（単語は正答率が高く出やすく、スコアが高めにずれるため）。
+       */
+      provisional: boolean;
+    };
 
 /**
  * 正解した問題の難易度一覧と全体の設問数から目安スコア(5-495)を算出する共通ロジック。
@@ -67,7 +82,10 @@ export function scoreFromResults(
  * 1セクション分（リーディング or リスニング）の解答履歴から目安スコア(5-495)を推定する。
  * 直近50問の正答率をベースに、正解した問題の難易度で補正するS字カーブ方式。
  */
-function estimateSectionScore(records: ProgressRecord[]): SectionScoreEstimate {
+function estimateSectionScore(
+  records: ProgressRecord[],
+  provisional = false
+): SectionScoreEstimate {
   if (records.length < MIN_RECORDS_FOR_ESTIMATE) {
     return {
       status: "insufficient-data",
@@ -84,15 +102,31 @@ function estimateSectionScore(records: ProgressRecord[]): SectionScoreEstimate {
     recent.length
   );
 
-  return { status: "ok", score, accuracy, sampleSize: recent.length };
+  return { status: "ok", score, accuracy, sampleSize: recent.length, provisional };
+}
+
+/**
+ * リーディングの目安スコア。採点される問題（文法・読解・Part 6）が必要数以上あれば、それだけで算出する。
+ * 足りないときは、自己判定の単語も含めて暫定値として算出する（初回模試の直後など。初回模試は単語15問＋文法15問）。
+ * それでも必要数に満たなければデータ不足とする。
+ */
+function estimateReadingScore(all: ProgressRecord[]): SectionScoreEstimate {
+  const graded = all.filter((r) => GRADED_READING_ITEM_TYPES.includes(r.itemType));
+  if (graded.length >= MIN_RECORDS_FOR_ESTIMATE) return estimateSectionScore(graded);
+  const withSelfAssessed = all.filter(
+    (r) =>
+      GRADED_READING_ITEM_TYPES.includes(r.itemType) ||
+      SELF_ASSESSED_ITEM_TYPES.includes(r.itemType)
+  );
+  return estimateSectionScore(withSelfAssessed, true);
 }
 
 export type TotalScoreEstimate =
   | { status: "insufficient-data" }
-  | { status: "ok"; score: number };
+  | { status: "ok"; score: number; provisional: boolean };
 
 export type ScoreEstimate = {
-  /** リーディング（単語・文法・リーディング・Part 6）の目安スコア */
+  /** リーディング（文法・読解・Part 6。採点された問題が足りない間は単語を含む暫定値）の目安スコア */
   reading: SectionScoreEstimate;
   /** リスニング（Part 1・2・3・4）の目安スコア */
   listening: SectionScoreEstimate;
@@ -113,19 +147,20 @@ export function estimateScore(
     a.lastAnsweredAt.localeCompare(b.lastAnsweredAt)
   );
 
-  const readingRecords = all.filter((r) =>
-    READING_ITEM_TYPES.includes(r.itemType)
-  );
   const listeningRecords = all.filter((r) =>
     LISTENING_ITEM_TYPES.includes(r.itemType)
   );
 
-  const reading = estimateSectionScore(readingRecords);
+  const reading = estimateReadingScore(all);
   const listening = estimateSectionScore(listeningRecords);
 
   const total: TotalScoreEstimate =
     reading.status === "ok" && listening.status === "ok"
-      ? { status: "ok", score: Math.min(990, reading.score + listening.score) }
+      ? {
+          status: "ok",
+          score: Math.min(990, reading.score + listening.score),
+          provisional: reading.provisional,
+        }
       : { status: "insufficient-data" };
 
   return { reading, listening, total };

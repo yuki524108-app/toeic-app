@@ -156,6 +156,21 @@ export async function speakScript(
   }
 }
 
+/**
+ * 話者（Man / Woman など）に割り当てる声。speakScript と同じ割り当て（スクリプト内の話者の登場順に、声を順番に当てる）なので、
+ * 1行ずつ再生しても、通しで再生したときと同じ声になる（シャドーイング練習。2.1.34）。
+ */
+export async function voiceForSpeaker(
+  speakers: string[],
+  speaker: string
+): Promise<SpeechSynthesisVoice | undefined> {
+  const voices = await getEnglishVoices();
+  if (voices.length === 0) return undefined;
+  const unique = [...new Set(speakers)];
+  const i = Math.max(0, unique.indexOf(speaker));
+  return voices[i % voices.length];
+}
+
 export function stopSpeaking(): void {
   if (isTTSSupported()) {
     window.speechSynthesis.cancel();

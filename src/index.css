@@ -1,8 +1,11 @@
+/* フォントはアプリに同梱する（外部のGoogle Fontsには接続しない）。オフラインでも同じ見た目で使える */
+@import "@fontsource-variable/inter/wght.css";
+@import "@fontsource-variable/fraunces/opsz.css";
 @import "tailwindcss";
 
 @theme {
-  --font-display: "Fraunces", serif;
-  --font-body: "Inter", sans-serif;
+  --font-display: "Fraunces Variable", "Fraunces", serif;
+  --font-body: "Inter Variable", "Inter", sans-serif;
 
   --color-paper: #EEF0F4;
   --color-paper-raised: #FFFFFF;
